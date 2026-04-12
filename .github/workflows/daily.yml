@@ -1,0 +1,64 @@
+name: 📱 AI 小红书日报
+
+on:
+  schedule:
+    # 每天北京时间 08:00 (UTC+8 = UTC 00:00)
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+    inputs:
+      phase:
+        description: "执行阶段 (generate / issue / all)"
+        required: false
+        default: "all"
+
+permissions:
+  contents: write   # 提交封面图到仓库
+  issues: write     # 创建 GitHub Issue
+
+jobs:
+  daily-post:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+
+    steps:
+      # ── 1. Checkout ─────────────────────────────────────────────────────────
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      # ── 2. Python ───────────────────────────────────────────────────────────
+      - name: Set up Python 3.12
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      # ── 3. 生成内容 & 图片 ──────────────────────────────────────────────────
+      - name: Generate posts & cover images
+        env:
+          DASHSCOPE_API_KEY: ${{ secrets.DASHSCOPE_API_KEY }}
+          LLM_API_KEY:       ${{ secrets.LLM_API_KEY }}
+          LLM_BASE_URL:      ${{ secrets.LLM_BASE_URL }}
+          LLM_MODEL:         ${{ secrets.LLM_MODEL }}
+          GITHUB_TOKEN:      ${{ secrets.GITHUB_TOKEN }}
+        run: python scripts/generate_post.py --phase generate
+
+      # ── 4. 提交封面图到仓库（图片 URL 在 Issue 中引用）────────────────────
+      - name: Commit cover images
+        run: |
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --local user.name  "github-actions[bot]"
+          git add assets/ posts_data.json
+          # 如果有变动才提交
+          git diff --staged --quiet || git commit -m "chore: daily AI post assets $(date +%Y-%m-%d) [skip ci]"
+          git push
+
+      # ── 5. 创建 GitHub Issue ─────────────────────────────────────────────────
+      - name: Create GitHub Issue
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python scripts/generate_post.py --phase issue
