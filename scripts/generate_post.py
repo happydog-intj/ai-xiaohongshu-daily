@@ -174,7 +174,11 @@ def generate_posts_with_llm(topics: dict) -> list[dict]:
             },
             timeout=90,
         )
-        raw = resp.json()["choices"][0]["message"]["content"].strip()
+        resp_json = resp.json()
+        if "choices" not in resp_json:
+            print(f"  ⚠️  Unexpected API response: {json.dumps(resp_json)[:300]}")
+            return _fallback_posts(topics)
+        raw = resp_json["choices"][0]["message"]["content"].strip()
 
         # 提取 JSON 数组（防止 LLM 在前后加说明文字）
         start = raw.find("[")
