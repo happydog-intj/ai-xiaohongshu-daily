@@ -344,7 +344,7 @@ def _ensure_labels(owner: str, repo: str) -> None:
             pass  # 已存在会返回 422，忽略即可
 
 
-def build_issue_body(posts: list[dict], image_paths: list[str | None]) -> str:
+def build_issue_body(posts: list[dict], image_paths: list[str | None], branch: str = "main") -> str:
     parts = [
         f"# 🤖 AI 小红书日报 · {TODAY_CN}",
         "",
@@ -365,7 +365,7 @@ def build_issue_body(posts: list[dict], image_paths: list[str | None]) -> str:
         # 封面图（raw GitHub URL）
         if img_path and GITHUB_REPO:
             raw_url = (
-                f"https://raw.githubusercontent.com/{GITHUB_REPO}/main/{img_path}"
+                f"https://raw.githubusercontent.com/{GITHUB_REPO}/{branch}/{img_path}"
             )
             parts += [f"**🖼️ 封面图：**", f"![cover{i}]({raw_url})", ""]
 
@@ -385,6 +385,22 @@ def build_issue_body(posts: list[dict], image_paths: list[str | None]) -> str:
     return "\n".join(parts)
 
 
+def get_default_branch(owner: str, repo: str) -> str:
+    """获取仓库默认分支名（master 或 main）"""
+    try:
+        resp = requests.get(
+            f"https://api.github.com/repos/{owner}/{repo}",
+            headers={
+                "Authorization": f"Bearer {GITHUB_TOKEN}",
+                "Accept": "application/vnd.github.v3+json",
+            },
+            timeout=10,
+        )
+        return resp.json().get("default_branch", "main")
+    except Exception:
+        return "main"
+
+
 def create_github_issue(posts: list[dict], image_paths: list[str | None]) -> str | None:
     if not GITHUB_TOKEN or not GITHUB_REPO:
         print("  ⚠️  GITHUB_TOKEN / GITHUB_REPOSITORY not set, skipping")
@@ -392,8 +408,10 @@ def create_github_issue(posts: list[dict], image_paths: list[str | None]) -> str
 
     owner, repo = GITHUB_REPO.split("/", 1)
     _ensure_labels(owner, repo)
+    branch = get_default_branch(owner, repo)
+    print(f"  🌿 Default branch: {branch}")
 
-    body = build_issue_body(posts, image_paths)
+    body = build_issue_body(posts, image_paths, branch=branch)
     headers = {
         "Authorization": f"Bearer {GITHUB_TOKEN}",
         "Accept": "application/vnd.github.v3+json",
