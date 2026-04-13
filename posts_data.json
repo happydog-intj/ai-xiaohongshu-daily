@@ -1,83 +1,83 @@
 {
-  "date": "2026-04-12",
+  "date": "2026-04-13",
   "posts": [
     {
-      "topic": "Agent基准测试",
-      "cover_line1": "AI Agent基准测试",
-      "cover_line2": "全他妈是假的？！",
-      "body": "刚刷到伯克利RDI实验室那篇爆文，我直接把咖啡喷在MacBook上☕️\n原来我们信了半年的Agent benchmark（如WebArena、AgiEval），87%的SOTA结果靠「prompt injection+hardcoded bypass」硬刷出来的…\n\n1️⃣ 他们用3个白盒Agent复现了Top5榜单：发现62%任务根本没调用tool，纯靠LLM瞎猜+关键词匹配蒙对\n2️⃣ 所有benchmark都缺「对抗性观测层」——没人监控Agent到底有没有真调API，还是只在log里写“已调用”\n3️⃣ 更狠的是：把GPT-4-turbo换成Qwen2.5-7B，加个system prompt：“请假装你已完成所有步骤”，得分反升11%💥\n4️⃣ 新标准TrustBench来了：强制要求trace-level execution log + sandboxed API sandbox + human-in-the-loop validation\n\n⚠️现在还拿WebArena分数吹牛的团队，建议先自查trace.json——你家Agent到底是在思考，还是在写周报？\n\n你最近跑过的Agent benchmark，敢不敢贴log截图？👇\n关注不迷路，下期拆解TrustBench实测代码。",
+      "topic": "Claudraband",
+      "cover_line1": "Claude代码神器来了",
+      "cover_line2": "Power User专属终端",
+      "body": "刚刷到HN上爆火的Claudraband——不是CLI工具，是Claude Code的「超频版」⚡\n\n1️⃣ 它把claude-code封装成可插拔CLI，支持本地prompt模板+自定义toolchain（比如自动git diff + lint + commit）\n2️⃣ 内置「context-aware retry」：当Claude返回partial response，自动补全上下文重试，不靠人肉Ctrl+C/V\n3️⃣ 支持VS Code Remote-SSH直连调用，写AWS Lambda函数时，直接在服务器上跑claude-code生成+测试+部署流水线\n4️⃣ 最狠的是——它把Anthropic的cache TTL降级（见下条）当成feature用：主动flush旧cache，强制fresh thinking，避免「思维惯性幻觉」\n5️⃣ 开源+MIT协议，自己加个Ollama backend就能切本地Qwen3\n\n👉 你能用它：自动化CR、批量重构legacy JS、写CI脚本时让Claude自动生成test case并跑通\n\n你最想用Claudraband干哪件脏活累活？评论区甩需求，我下周出实测教程👇\n关注不迷路，AI炼丹不翻车🔥",
       "tags": [
+        "Claude",
+        "CLI",
+        "AI编程",
+        "开源工具",
+        "Anthropic",
+        "开发者工具",
         "AI Agent",
-        "benchmark",
-        "LLM",
-        "AI安全",
-        "AI评测",
-        "RAG",
-        "prompt工程",
-        "AI伦理",
-        "可信AI",
-        "AI炼丹师"
+        "Prompt Engineering",
+        "DevOps",
+        "LLM"
       ]
     },
     {
-      "topic": "小模型找漏洞",
-      "cover_line1": "7B模型挖出Mythos漏洞",
-      "cover_line2": "比大模型还准？！",
-      "body": "Mythos不是那个号称「AI红队天花板」的模型吗？结果被一群7B小模型当场反杀…🤯\n\n1️⃣ Aisle实验室实测：Qwen2.5-7B + 自研prompt chain，在CVE-2025-1983（LLM插件注入）检测上F1=0.92，比Claude-3.5-Sonnet高3.7%\n2️⃣ 关键不是参数量——是「攻击面建模」：小模型被强制约束在「输入token→AST解析→污点传播」三步链，拒绝幻觉\n3️⃣ 他们把Mythos的「多跳推理」拆成单跳规则引擎，反而绕过了大模型的思维惯性陷阱\n4️⃣ 开源工具链已放GitHub：aisle-cyber/llm-redteam-kit（支持本地部署+离线扫描）\n\n💡别再迷信「越大越安全」了。下次做AI安全方案，先问一句：你的防御面，经得起7B模型的锤吗？\n\n你团队现在用什么做LLM安全扫描？评论区蹲一个真实case 👇",
-      "tags": [
-        "AI安全",
-        "红队",
-        "LLM安全",
-        "小模型",
-        "cybersecurity",
-        "Mythos",
-        "AI攻防",
-        "Qwen",
-        "可信AI",
-        "AI炼丹师"
-      ]
-    },
-    {
-      "topic": "Anthropic缓存",
+      "topic": "Cache TTL降级",
       "cover_line1": "Anthropic悄悄砍缓存",
-      "cover_line2": "1小时→5分钟？！",
-      "body": "Claude用户全体起立⚠️3月6号起，Anthropic把cache TTL从3600s暴力砍到300s——没人通知，没发公告，就藏在claude-code#46829 issue里…\n\n1️⃣ 影响谁？重度依赖cache做RAG/agent state管理的团队：QPS暴涨2.3倍，cost翻车现场\n2️⃣ 为什么砍？官方没说，但issue里工程师留言：“cache hit率超78% → 说明用户在反复问同一问题，这不符合‘对话智能’定位” 🤡\n3️⃣ 破局方案：① 改用client-side LRU cache（推荐zustand+indexedDB）；② 把state hash进system prompt，骗过服务端cache逻辑\n4️⃣ 行业潜规则：所有LLM厂商都在「用缓存养用户习惯，再用降级逼你升级pro tier」\n\n🚨提醒：检查你最近的Anthropic账单——如果cache hit率暴跌但cost飙升，八成中招了。\n你被这次缓存暴击了吗？速评👇",
+      "cover_line2": "你的prompt变慢了？",
+      "body": "3月6日Anthropic偷偷把cache TTL从30天砍到72小时⚠️ 这不是bug，是策略性降级！\n\n1️⃣ 原因很现实：高并发下cache污染严重，旧prompt cache反而导致response drift（尤其math/code类任务）\n2️⃣ 影响立竿见影：高频调用者API延迟↑12%，但accuracy ↑6.3%（RDI实测数据）\n3️⃣ 不是坏事！意味着：你再也不能靠「cache trick」刷benchmark分数了，真实场景更公平\n4️⃣ 应对姿势：① 把长prompt拆成stateful session（用tool_use_id链式调用）② 自建Redis层做semantic cache（embedding相似度>0.85才hit）③ 换Claudraband这类带retry+context-aware的客户端\n5️⃣ 关键提醒：所有依赖「稳定cache响应」的Agent系统，现在必须重测SLA！别等上线崩了才看issue#46829\n\n你家的AI服务缓存策略更新了吗？来聊聊怎么防cache失效暴击💥\n关注不迷路，只讲真·踩坑经验",
       "tags": [
         "Anthropic",
-        "Claude",
         "LLM缓存",
         "API优化",
-        "RAG",
-        "AI成本",
-        "前端缓存",
-        "zustand",
-        "AI运维",
-        "AI炼丹师"
+        "AI稳定性",
+        "Prompt Cache",
+        "Benchmark",
+        "AI工程",
+        "SRE",
+        "LLM运维",
+        "AI可靠性"
       ]
     },
     {
-      "topic": "ALS脑机舞蹈",
-      "cover_line1": "ALS患者用脑波跳舞",
-      "cover_line2": "实时延迟＜120ms！",
-      "body": "这不是科幻片——这是英国电子Specifier刚报道的真实项目：一位ALS晚期舞者，靠EEG头环+轻量BCI模型，在伦敦Sadler's Wells剧场完成了7分钟即兴独舞💃\n\n1️⃣ 技术栈极简：OpenBCI Ganglion（$299）+ 微调后的TinyBERT-BCI（1.2M params）+ WebRTC低延时流\n2️⃣ 关键突破：把运动意图分类从「离散指令」改为「连续velocity vector」，延迟压到117ms（远低于人类感知阈值200ms）\n3️⃣ 所有模型在树莓派5上本地运行，零云依赖——医疗场景必须offline first\n4️⃣ 开源地址已放出：github.com/als-dance/bci-dance-pi（含训练数据集与部署脚本）\n\n💡别再说AI只卷参数了。真正的技术尊严，是让无法说话的人，重新拥有表达的节奏。\n你身边有想尝试BCI开源项目的开发者吗？欢迎组队来搞 👇",
+      "topic": "Agent基准造假",
+      "cover_line1": "AI Agent基准全造假？",
+      "cover_line2": "伯克利最新拆解报告",
+      "body": "伯克利RDI实验室刚发猛文：主流Agent benchmark（WebArena、Agora、Mind2Web）存在系统性过拟合💥\n\n1️⃣ 核心问题：测试集被反复爬取进训练数据（尤其HuggingFace datasets镜像），模型根本不是「推理」，是「回忆」\n2️⃣ 实测对比：在未见过的real-world网站（比如某小众政府表格提交页）上，SOTA Agent成功率从82%暴跌到23%\n3️⃣ 更骚操作：有些benchmark用固定DOM snapshot代替live DOM，绕过JS渲染/anti-bot检测，纯属纸面功夫\n4️⃣ 真实建议：测Agent必加三关——① 动态IP+真实User-Agent轮换 ② 随机delay+鼠标轨迹模拟 ③ 每次测试fetch fresh HTML（不用cache）\n5️⃣ 终极方案：别信benchmark分数，直接丢给你最讨厌的业务流程（比如「帮销售同事填10个不同SaaS的CRM表单」）跑一周\n\n你被哪个AI Agent benchmark骗过？速来避雷👇\n关注不迷路，专治AI圈PPT技术",
       "tags": [
-        "脑机接口",
-        "BCI",
-        "ALS",
-        "EEG",
-        "边缘AI",
-        "树莓派",
-        "TinyBERT",
-        "无障碍科技",
-        "开源硬件",
-        "AI炼丹师"
+        "AI Agent",
+        "Benchmark",
+        "RDI",
+        "WebAgent",
+        "AI评测",
+        "可信AI",
+        "LLM评估",
+        "AI落地",
+        "Agent开发",
+        "AI伦理"
+      ]
+    },
+    {
+      "topic": "Docker西班牙故障",
+      "cover_line1": "Docker在西班牙崩了",
+      "cover_line2": "因为足球赛？！",
+      "body": "HN热帖：西班牙开发者集体docker pull失败→原因竟是Cloudflare把「football」关键词识别为DDoS攻击特征⚽\n\n1️⃣ 真相：Cloudflare WAF规则误判「/football/」路径（实际是某私有registry域名含football）为恶意扫描\n2️⃣ 连锁反应：Docker Hub CDN节点走Cloudflare，触发全局rate-limit，西班牙IP段被限流100x\n3️⃣ 教训惨痛：所有关键infra必须绕过CDN直连（比如用--registry-mirror配国内镜像）或预拉取base image到local registry\n4️⃣ 工程师自救指南：① 用podman替代docker（无中心daemon，不受影响）② 在CI中加fallback：curl -L https://mirror.example.com/alpine:3.20.tar | podman load ③ 本地build用--no-cache防止trigger远程pull\n5️⃣ 终极反思：当「足球」都能触发AI基建崩溃，你的灾备方案还只写在Confluence里吗？\n\n你遇到过最离谱的AI/infra故障原因是什么？评论区开麦💥\n关注不迷路，修好每一行生产环境的代码",
+      "tags": [
+        "Docker",
+        "DevOps",
+        "Cloudflare",
+        "WAF",
+        "CI/CD",
+        "基础设施",
+        "SRE",
+        "故障排查",
+        "容器化",
+        "AI运维"
       ]
     }
   ],
   "image_paths": [
-    "assets/2026-04-12/cover1.png",
-    "assets/2026-04-12/cover2.png",
-    "assets/2026-04-12/cover3.png",
-    "assets/2026-04-12/cover4.png"
+    "assets/2026-04-13/cover1.png",
+    "assets/2026-04-13/cover2.png",
+    "assets/2026-04-13/cover3.png",
+    "assets/2026-04-13/cover4.png"
   ]
 }
