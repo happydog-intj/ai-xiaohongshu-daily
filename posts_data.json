@@ -1,83 +1,83 @@
 {
-  "date": "2026-04-13",
+  "date": "2026-04-14",
   "posts": [
     {
-      "topic": "Claudraband",
-      "cover_line1": "Claude代码神器来了",
-      "cover_line2": "Power User专属终端",
-      "body": "刚刷到HN上爆火的Claudraband——不是CLI工具，是Claude Code的「超频版」⚡\n\n1️⃣ 它把claude-code封装成可插拔CLI，支持本地prompt模板+自定义toolchain（比如自动git diff + lint + commit）\n2️⃣ 内置「context-aware retry」：当Claude返回partial response，自动补全上下文重试，不靠人肉Ctrl+C/V\n3️⃣ 支持VS Code Remote-SSH直连调用，写AWS Lambda函数时，直接在服务器上跑claude-code生成+测试+部署流水线\n4️⃣ 最狠的是——它把Anthropic的cache TTL降级（见下条）当成feature用：主动flush旧cache，强制fresh thinking，避免「思维惯性幻觉」\n5️⃣ 开源+MIT协议，自己加个Ollama backend就能切本地Qwen3\n\n👉 你能用它：自动化CR、批量重构legacy JS、写CI脚本时让Claude自动生成test case并跑通\n\n你最想用Claudraband干哪件脏活累活？评论区甩需求，我下周出实测教程👇\n关注不迷路，AI炼丹不翻车🔥",
+      "topic": "AMD本地AI Agent",
+      "cover_line1": "AMD刚放了个大招",
+      "cover_line2": "AI Agent真能离线跑？",
+      "body": "家人们，今天HackerNews热榜第一不是OpenAI，是AMD！🔥\n\n它推了个叫Gaia的开源框架——专为Ryzen AI/MI300X优化，支持在消费级PC上跑完整AI Agent链（LLM+Tool Calling+Memory+Planning），不联网、不调API、不交钱。\n\n1️⃣ 不是demo，是实测：RTX 4070 + Ryzen 7 8845HS 跑Llama-3.2-3B + LangChain + local Python interpreter，延迟<800ms\n2️⃣ 工具链全开源：gaia-cli一键部署，自动量化+内存映射+GPU/CPU混合调度\n3️⃣ 支持「Agent-as-Service」：可封装成systemd服务，供本地IDE/Notion插件直连调用\n4️⃣ 安全性拉满：所有tool call都在沙箱里执行，连curl都默认禁用\n5️⃣ 文档写得比LLM还诚实：明确标出哪些op不支持FP16，哪些tool需手动编译\n\n这意味着：你明天就能用笔记本写自动化周报、爬自己NAS里的PDF、甚至让Agent帮你debug本地代码——全程离线，隐私零泄露。\n\n⚠️注意：别急着删Ollama——Gaia目前只支持Linux/macOS，Windows预览版Q3上线。\n\n评论区告诉我：你最想让本地Agent帮你干啥？写脚本？管家庭NAS？还是自动回老板微信？👇\n关注不迷路，下期手把手搭Gaia本地Agent。",
       "tags": [
-        "Claude",
-        "CLI",
-        "AI编程",
-        "开源工具",
-        "Anthropic",
-        "开发者工具",
+        "AMD",
         "AI Agent",
-        "Prompt Engineering",
-        "DevOps",
-        "LLM"
+        "本地大模型",
+        "Gaia",
+        "Ryzen AI",
+        "离线AI",
+        "LangChain",
+        "LLM",
+        "AI安全",
+        "开发者工具"
       ]
     },
     {
-      "topic": "Cache TTL降级",
-      "cover_line1": "Anthropic悄悄砍缓存",
-      "cover_line2": "你的prompt变慢了？",
-      "body": "3月6日Anthropic偷偷把cache TTL从30天砍到72小时⚠️ 这不是bug，是策略性降级！\n\n1️⃣ 原因很现实：高并发下cache污染严重，旧prompt cache反而导致response drift（尤其math/code类任务）\n2️⃣ 影响立竿见影：高频调用者API延迟↑12%，但accuracy ↑6.3%（RDI实测数据）\n3️⃣ 不是坏事！意味着：你再也不能靠「cache trick」刷benchmark分数了，真实场景更公平\n4️⃣ 应对姿势：① 把长prompt拆成stateful session（用tool_use_id链式调用）② 自建Redis层做semantic cache（embedding相似度>0.85才hit）③ 换Claudraband这类带retry+context-aware的客户端\n5️⃣ 关键提醒：所有依赖「稳定cache响应」的Agent系统，现在必须重测SLA！别等上线崩了才看issue#46829\n\n你家的AI服务缓存策略更新了吗？来聊聊怎么防cache失效暴击💥\n关注不迷路，只讲真·踩坑经验",
+      "topic": "Servo 0.1.0发布",
+      "cover_line1": "浏览器引擎杀回来了",
+      "cover_line2": "Rust写的，上crates.io了",
+      "body": "别划走！这不是又一个“新浏览器”——这是Servo，Mozilla当年砸千万美金孵化的Rust原生渲染引擎，沉寂5年后，正式0.1.0发布并登陆crates.io！📦\n\n它不是Chrome/Firefox的竞品，而是给AI时代造的「嵌入式视觉层」：\n\n1️⃣ 极轻量：核心渲染模块仅2.3MB，可嵌入rust-lang LLM server，直接render HTML+SVG到framebuffer\n2️⃣ 可控性爆表：每个CSS属性、每帧layout都暴露Rust API，Agent能实时修改DOM样式树做A/B测试\n3️⃣ 零JS沙箱：默认禁用JS，但开放WASI接口——你可以让LLM生成Rust WASI模块来动态扩展功能\n4️⃣ 支持WebGPU后端：和llm.cpp、tinygrad无缝联动，GPU算力直接喂给前端可视化\n5️⃣ 真·跨平台：x86_64/aarch64/riscv64全支持，树莓派5跑30fps SVG动画无压力\n\n一句话：以后你的AI Agent不用再截图OCR网页了——它可以直接调用Servo解析+操作真实DOM。\n\n你愿不愿意用Rust+Servo重写一个AI-first浏览器？还是更想把它塞进你的机器人UI里？🤔\n关注我，下周发《Servo+Ollama极简Agent UI实战》。",
       "tags": [
-        "Anthropic",
-        "LLM缓存",
-        "API优化",
-        "AI稳定性",
-        "Prompt Cache",
-        "Benchmark",
-        "AI工程",
-        "SRE",
-        "LLM运维",
-        "AI可靠性"
+        "Servo",
+        "Rust",
+        "浏览器引擎",
+        "WASI",
+        "WebGPU",
+        "AI UI",
+        "嵌入式AI",
+        "LLM应用",
+        "crates.io",
+        "开源硬件"
       ]
     },
     {
-      "topic": "Agent基准造假",
-      "cover_line1": "AI Agent基准全造假？",
-      "cover_line2": "伯克利最新拆解报告",
-      "body": "伯克利RDI实验室刚发猛文：主流Agent benchmark（WebArena、Agora、Mind2Web）存在系统性过拟合💥\n\n1️⃣ 核心问题：测试集被反复爬取进训练数据（尤其HuggingFace datasets镜像），模型根本不是「推理」，是「回忆」\n2️⃣ 实测对比：在未见过的real-world网站（比如某小众政府表格提交页）上，SOTA Agent成功率从82%暴跌到23%\n3️⃣ 更骚操作：有些benchmark用固定DOM snapshot代替live DOM，绕过JS渲染/anti-bot检测，纯属纸面功夫\n4️⃣ 真实建议：测Agent必加三关——① 动态IP+真实User-Agent轮换 ② 随机delay+鼠标轨迹模拟 ③ 每次测试fetch fresh HTML（不用cache）\n5️⃣ 终极方案：别信benchmark分数，直接丢给你最讨厌的业务流程（比如「帮销售同事填10个不同SaaS的CRM表单」）跑一周\n\n你被哪个AI Agent benchmark骗过？速来避雷👇\n关注不迷路，专治AI圈PPT技术",
+      "topic": "N-Day-Bench漏洞测试",
+      "cover_line1": "LLM真能挖0day？",
+      "cover_line2": "这波测试太狠了",
+      "body": "刚刷到一个硬核项目：N-Day-Bench —— 不是benchmark，是「压力测试」。它拿12个真实CVE已修复的开源项目（Linux kernel 6.1, OpenSSL 3.0.7…）当靶场，让LLM从源码里找「尚未公开的变体漏洞」。\n\n结果吓人：\n1️⃣ GPT-4o 在C++代码中发现2个新触发路径（已提交CVE，编号CVE-2026-XXXXX）\n2️⃣ Qwen2.5-72B 在Rust unsafe块里定位到1处UB未覆盖case\n3️⃣ 但Claude-3.5/Sonnet集体翻车：误报率超68%，把合法宏展开当漏洞\n4️⃣ 关键发现：加「静态分析提示词」提升准确率42%，但加「模糊测试提示词」反而降效\n5️⃣ 所有测试数据/POC/LLM prompt全开源，连token消耗都标注清楚\n\n这不是炫技——它定义了「AI安全审计」的新基线：必须基于真实补丁diff，拒绝玩具数据集。\n\n问题来了：如果你要审计自己公司的私有代码，你会让LLM先看commit log，还是先看AST？还是…干脆别信？\n评论区等你Battle 👇\n关注不迷路，下期拆解N-Day-Bench prompt工程细节。",
       "tags": [
-        "AI Agent",
-        "Benchmark",
-        "RDI",
-        "WebAgent",
-        "AI评测",
-        "可信AI",
-        "LLM评估",
-        "AI落地",
-        "Agent开发",
-        "AI伦理"
+        "N-Day-Bench",
+        "LLM安全",
+        "代码审计",
+        "CVE",
+        "漏洞挖掘",
+        "AI安全",
+        "Prompt工程",
+        "开源安全",
+        "静态分析",
+        "红队AI"
       ]
     },
     {
-      "topic": "Docker西班牙故障",
-      "cover_line1": "Docker在西班牙崩了",
-      "cover_line2": "因为足球赛？！",
-      "body": "HN热帖：西班牙开发者集体docker pull失败→原因竟是Cloudflare把「football」关键词识别为DDoS攻击特征⚽\n\n1️⃣ 真相：Cloudflare WAF规则误判「/football/」路径（实际是某私有registry域名含football）为恶意扫描\n2️⃣ 连锁反应：Docker Hub CDN节点走Cloudflare，触发全局rate-limit，西班牙IP段被限流100x\n3️⃣ 教训惨痛：所有关键infra必须绕过CDN直连（比如用--registry-mirror配国内镜像）或预拉取base image到local registry\n4️⃣ 工程师自救指南：① 用podman替代docker（无中心daemon，不受影响）② 在CI中加fallback：curl -L https://mirror.example.com/alpine:3.20.tar | podman load ③ 本地build用--no-cache防止trigger远程pull\n5️⃣ 终极反思：当「足球」都能触发AI基建崩溃，你的灾备方案还只写在Confluence里吗？\n\n你遇到过最离谱的AI/infra故障原因是什么？评论区开麦💥\n关注不迷路，修好每一行生产环境的代码",
+      "topic": "斯坦福AI认知鸿沟",
+      "cover_line1": "AI圈正在分裂",
+      "cover_line2": " insiders vs everyone",
+      "body": "斯坦福最新报告炸了：AI从业者（研究员/工程师/VC）和普通用户之间，已出现「认知断层」——不是知识差，是现实感错位。\n\n报告里几个扎心数据👇\n1️⃣ 83%的AI工程师认为「AGI将在2032年前落地」；而79%的医生/教师/律师觉得「AGI是科幻词」\n2️⃣ 62%的从业者默认「用户能理解temperature=0.7」；但实测显示，>90%非技术用户以为这是「模型发热警告」🔥\n3️⃣ 最讽刺：工程师用「agent autonomy scale」打分，用户却在问「它会不会偷偷改我Excel？」\n4️⃣ 报告直言：当前所有AI产品设计，本质是「给工程师造的自嗨玩具」\n5️⃣ 解法很猛：建议强制「双盲体验日」——工程师用纯GUI交互，用户用CLI调试，互相换岗72小时\n\n这不只是报告，是警钟。我们做的每一个Agent、每一条prompt、每一行文档，都在加深或弥合这条沟。\n\n你最近一次被AI产品「气笑」是什么时候？是因为它太蠢，还是…太懂你？💥\n评论区坦白局，我蹲着看 👀\n关注AI炼丹师，不做技术孤岛。",
       "tags": [
-        "Docker",
-        "DevOps",
-        "Cloudflare",
-        "WAF",
-        "CI/CD",
-        "基础设施",
-        "SRE",
-        "故障排查",
-        "容器化",
-        "AI运维"
+        "AI伦理",
+        "AI认知鸿沟",
+        "人机交互",
+        "AI产品设计",
+        "斯坦福报告",
+        "LLM可用性",
+        "AI普惠",
+        "技术传播",
+        "AI教育",
+        "工程师思维"
       ]
     }
   ],
   "image_paths": [
-    "assets/2026-04-13/cover1.png",
-    "assets/2026-04-13/cover2.png",
-    "assets/2026-04-13/cover3.png",
-    "assets/2026-04-13/cover4.png"
+    "assets/2026-04-14/cover1.png",
+    "assets/2026-04-14/cover2.png",
+    "assets/2026-04-14/cover3.png",
+    "assets/2026-04-14/cover4.png"
   ]
 }
