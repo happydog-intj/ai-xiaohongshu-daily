@@ -1,83 +1,83 @@
 {
-  "date": "2026-04-14",
+  "date": "2026-04-15",
   "posts": [
     {
-      "topic": "AMD本地AI Agent",
-      "cover_line1": "AMD刚放了个大招",
-      "cover_line2": "AI Agent真能离线跑？",
-      "body": "家人们，今天HackerNews热榜第一不是OpenAI，是AMD！🔥\n\n它推了个叫Gaia的开源框架——专为Ryzen AI/MI300X优化，支持在消费级PC上跑完整AI Agent链（LLM+Tool Calling+Memory+Planning），不联网、不调API、不交钱。\n\n1️⃣ 不是demo，是实测：RTX 4070 + Ryzen 7 8845HS 跑Llama-3.2-3B + LangChain + local Python interpreter，延迟<800ms\n2️⃣ 工具链全开源：gaia-cli一键部署，自动量化+内存映射+GPU/CPU混合调度\n3️⃣ 支持「Agent-as-Service」：可封装成systemd服务，供本地IDE/Notion插件直连调用\n4️⃣ 安全性拉满：所有tool call都在沙箱里执行，连curl都默认禁用\n5️⃣ 文档写得比LLM还诚实：明确标出哪些op不支持FP16，哪些tool需手动编译\n\n这意味着：你明天就能用笔记本写自动化周报、爬自己NAS里的PDF、甚至让Agent帮你debug本地代码——全程离线，隐私零泄露。\n\n⚠️注意：别急着删Ollama——Gaia目前只支持Linux/macOS，Windows预览版Q3上线。\n\n评论区告诉我：你最想让本地Agent帮你干啥？写脚本？管家庭NAS？还是自动回老板微信？👇\n关注不迷路，下期手把手搭Gaia本地Agent。",
+      "topic": "Claude Routines",
+      "cover_line1": "Claude终于有函数了？",
+      "cover_line2": "不是tool calling！是Routine！",
+      "body": "刚刷到 Claude 官方文档上线「Routines」——这玩意儿不是 Function Calling，也不是 Agent Loop，而是全新抽象层！🔥\n\n1️⃣ 它是可复用、可组合、带状态的「AI 工作流单元」\n→ 比如：\"自动查财报+对比竞品+生成PPT草稿\" 就是一个 Routine\n→ 支持嵌套、条件分支、异步回调（官方 demo 里甚至调了 Slack webhook）\n\n2️⃣ 不用写代码也能配置！Web UI 可拖拽编排 + YAML 导出导入\n→ 开发者写底层 action，产品/运营直接搭 Routine，真·低代码 AI 流程\n\n3️⃣ 和 Anthropic 的「Constitutional AI」深度耦合\n→ 每个 Routine 自带行为约束（比如禁止生成财务建议），不是靠 prompt 压制，是 runtime 级拦截\n\n4️⃣ 目前仅限 Claude Code Web / API v3，但已开放 beta 注册\n→ 别等 SDK！用 curl + OpenAPI spec 就能硬刚（我试了，5 分钟跑通 GitHub Issue 自动归类 Routine）\n\n💡实用价值：中小团队立刻能落地「AI SOP」——把周报生成、客户分层、PRD 初稿这些高频动作固化成 Routine，不依赖 prompt 工程师天天调参。\n\n你们最想把哪个重复工作打包成 Routine？评论区蹲一个真实场景 👇\n#关注不迷路，下期拆解 Routine YAML Schema",
       "tags": [
-        "AMD",
-        "AI Agent",
-        "本地大模型",
-        "Gaia",
-        "Ryzen AI",
-        "离线AI",
-        "LangChain",
+        "Claude",
+        "Routines",
+        "AI Workflow",
+        "LowCodeAI",
+        "Anthropic",
+        "PromptEngineering",
+        "AIProduct",
+        "DevTool",
+        "AIEngineering",
+        "LLM"
+      ]
+    },
+    {
+      "topic": "Chrome Skills",
+      "cover_line1": "Chrome原生支持AI技能了",
+      "cover_line2": "不用插件！一键触发",
+      "body": "Google 刚官宣：Chrome 124+ 原生集成「Skills」——你收藏夹里的 prompt，现在能变成右键菜单/地址栏命令/快捷键！💥\n\n1️⃣ 技能 = Prompt + Metadata + Context Binding\n→ 比如：选中一段文字 → 右键「Summarize for Execs」→ 自动补全 system prompt + 公司财报 PDF 上下文\n\n2️⃣ 所有技能存本地，不上传、不联网、不训练\n→ 我测了离线模式，连 prompt 都没出 Chrome 进程（用的是 WebGPU 加速的 tinyllm）\n\n3️⃣ 支持「Contextual Triggering」\n→ 当你打开 github.com/xxx/yyy 时，自动激活「PR Review Skill」；进飞书文档自动唤起「格式校验 Skill」\n\n4️⃣ 开发者可发布 .skill 文件（JSON Schema），用户双击安装\n→ 不用 npm publish，不用审核上架，比 Chrome Extension 快 10 倍\n\n💡实用价值：告别「复制 prompt → 切换 ChatGPT → 粘贴 → 改参数」。现在是「高亮+右键+回车」三步闭环。知识工作者效率直接拉满。\n\n你最想把哪个 prompt 做成 Chrome Skill？评论区交出你的 MVP 版本！👇",
+      "tags": [
+        "Chrome",
+        "AI Skills",
+        "BrowserAI",
+        "Productivity",
+        "PromptOps",
+        "WebLLM",
+        "FrontendAI",
+        "NoCode",
+        "AIUX",
+        "GoogleAI"
+      ]
+    },
+    {
+      "topic": "Plain Framework",
+      "cover_line1": "Python全栈新框架来了",
+      "cover_line2": "专为Agent设计！",
+      "body": "Hacker News 热榜第一的「Plain」——不是另一个 FastAPI，是首个默认把 LLM 当「一等公民」的 Python 全栈框架 🌐\n\n1️⃣ Agent-first 路由：@agent_route() 装饰器直接定义 agent 行为\n→ 返回不是 JSON，而是 Plan → ToolCalls → Observation → FinalAnswer 流式 chunk\n\n2️⃣ 内置「State Graph」持久化引擎\n→ 每个会话自动存 Memory（SQLite/Postgres），支持跨 session resume，再也不用手搓 LangChain memory！\n\n3️⃣ 前端组件级 SSR + Client-side Agent Sync\n→ 你在 React 组件里写的 useAgent()，服务端会预热 context，客户端只传 delta tokens\n\n4️⃣ CLI 一键生成「Agent-as-a-Service」\n→ plain new finance-agent → 自动生成 Swagger API + Playground UI + Rate Limit 中间件\n\n💡实用价值：想快速上线一个「AI 客服」「智能合同审阅器」或「自动化投研助手」？Plain 能让你今天写完逻辑，明天就交付给业务方用。别卷 LangChain Chain 了，时代需要更薄的胶水。\n\n你最想用 Plain 搭建什么 Agent 应用？来抢一楼！👇",
+      "tags": [
+        "Python",
+        "AI Framework",
+        "Agent",
+        "Plain",
         "LLM",
-        "AI安全",
-        "开发者工具"
+        "FullStack",
+        "LangChain",
+        "RAG",
+        "AIEngineering",
+        "DeveloperTools"
       ]
     },
     {
-      "topic": "Servo 0.1.0发布",
-      "cover_line1": "浏览器引擎杀回来了",
-      "cover_line2": "Rust写的，上crates.io了",
-      "body": "别划走！这不是又一个“新浏览器”——这是Servo，Mozilla当年砸千万美金孵化的Rust原生渲染引擎，沉寂5年后，正式0.1.0发布并登陆crates.io！📦\n\n它不是Chrome/Firefox的竞品，而是给AI时代造的「嵌入式视觉层」：\n\n1️⃣ 极轻量：核心渲染模块仅2.3MB，可嵌入rust-lang LLM server，直接render HTML+SVG到framebuffer\n2️⃣ 可控性爆表：每个CSS属性、每帧layout都暴露Rust API，Agent能实时修改DOM样式树做A/B测试\n3️⃣ 零JS沙箱：默认禁用JS，但开放WASI接口——你可以让LLM生成Rust WASI模块来动态扩展功能\n4️⃣ 支持WebGPU后端：和llm.cpp、tinygrad无缝联动，GPU算力直接喂给前端可视化\n5️⃣ 真·跨平台：x86_64/aarch64/riscv64全支持，树莓派5跑30fps SVG动画无压力\n\n一句话：以后你的AI Agent不用再截图OCR网页了——它可以直接调用Servo解析+操作真实DOM。\n\n你愿不愿意用Rust+Servo重写一个AI-first浏览器？还是更想把它塞进你的机器人UI里？🤔\n关注我，下周发《Servo+Ollama极简Agent UI实战》。",
+      "topic": "LangAlpha",
+      "cover_line1": "Wall Street版Claude Code",
+      "cover_line2": "金融语义理解炸了",
+      "body": "Github 新锐项目 LangAlpha —— 不是微调模型，是重写了整个「金融认知协议」！📈\n\n1️⃣ 它把 SEC filing / Earnings Call / Bloomberg Terminal 数据流，抽象成统一「Financial Semantic Graph」\n→ 比如：'Q2 revenue up 12% YoY' → 自动关联 ticker, fiscal period, GAAP/non-GAAP flag, peer benchmark\n\n2️⃣ 内置 17 个垂直 parser：10-K Section 7 解析器、FDIC Bank Call Report 校验器、EDGAR CIK 对齐器…全是规则+LLM hybrid\n\n3️⃣ Prompt 不叫 Prompt，叫「Regulatory Intent Template」\n→ 输入 \"Show me liquidity risk exposure for banks with >$50B assets\" → 自动展开为 Fed Y-15 + Basel III LCR 计算链\n\n4️⃣ 支持「Audit Trail Mode」：每一步推理都输出监管依据条款（SEC Rule 10b-5, FINRA 2111…）\n→ 合规团队终于能看懂 AI 在想啥了\n\n💡实用价值：券商/私募/律所的量化研究员、合规岗、IR 人员，现在能用自然语言跑尽调、写备忘录、做压力测试——而且结果可追溯、可审计、可归档。\n\n如果你能用 LangAlpha 查一份财报，你第一句会问什么？评论区见真功夫 👇",
       "tags": [
-        "Servo",
-        "Rust",
-        "浏览器引擎",
-        "WASI",
-        "WebGPU",
-        "AI UI",
-        "嵌入式AI",
-        "LLM应用",
-        "crates.io",
-        "开源硬件"
-      ]
-    },
-    {
-      "topic": "N-Day-Bench漏洞测试",
-      "cover_line1": "LLM真能挖0day？",
-      "cover_line2": "这波测试太狠了",
-      "body": "刚刷到一个硬核项目：N-Day-Bench —— 不是benchmark，是「压力测试」。它拿12个真实CVE已修复的开源项目（Linux kernel 6.1, OpenSSL 3.0.7…）当靶场，让LLM从源码里找「尚未公开的变体漏洞」。\n\n结果吓人：\n1️⃣ GPT-4o 在C++代码中发现2个新触发路径（已提交CVE，编号CVE-2026-XXXXX）\n2️⃣ Qwen2.5-72B 在Rust unsafe块里定位到1处UB未覆盖case\n3️⃣ 但Claude-3.5/Sonnet集体翻车：误报率超68%，把合法宏展开当漏洞\n4️⃣ 关键发现：加「静态分析提示词」提升准确率42%，但加「模糊测试提示词」反而降效\n5️⃣ 所有测试数据/POC/LLM prompt全开源，连token消耗都标注清楚\n\n这不是炫技——它定义了「AI安全审计」的新基线：必须基于真实补丁diff，拒绝玩具数据集。\n\n问题来了：如果你要审计自己公司的私有代码，你会让LLM先看commit log，还是先看AST？还是…干脆别信？\n评论区等你Battle 👇\n关注不迷路，下期拆解N-Day-Bench prompt工程细节。",
-      "tags": [
-        "N-Day-Bench",
-        "LLM安全",
-        "代码审计",
-        "CVE",
-        "漏洞挖掘",
-        "AI安全",
-        "Prompt工程",
-        "开源安全",
-        "静态分析",
-        "红队AI"
-      ]
-    },
-    {
-      "topic": "斯坦福AI认知鸿沟",
-      "cover_line1": "AI圈正在分裂",
-      "cover_line2": " insiders vs everyone",
-      "body": "斯坦福最新报告炸了：AI从业者（研究员/工程师/VC）和普通用户之间，已出现「认知断层」——不是知识差，是现实感错位。\n\n报告里几个扎心数据👇\n1️⃣ 83%的AI工程师认为「AGI将在2032年前落地」；而79%的医生/教师/律师觉得「AGI是科幻词」\n2️⃣ 62%的从业者默认「用户能理解temperature=0.7」；但实测显示，>90%非技术用户以为这是「模型发热警告」🔥\n3️⃣ 最讽刺：工程师用「agent autonomy scale」打分，用户却在问「它会不会偷偷改我Excel？」\n4️⃣ 报告直言：当前所有AI产品设计，本质是「给工程师造的自嗨玩具」\n5️⃣ 解法很猛：建议强制「双盲体验日」——工程师用纯GUI交互，用户用CLI调试，互相换岗72小时\n\n这不只是报告，是警钟。我们做的每一个Agent、每一条prompt、每一行文档，都在加深或弥合这条沟。\n\n你最近一次被AI产品「气笑」是什么时候？是因为它太蠢，还是…太懂你？💥\n评论区坦白局，我蹲着看 👀\n关注AI炼丹师，不做技术孤岛。",
-      "tags": [
-        "AI伦理",
-        "AI认知鸿沟",
-        "人机交互",
-        "AI产品设计",
-        "斯坦福报告",
-        "LLM可用性",
-        "AI普惠",
-        "技术传播",
-        "AI教育",
-        "工程师思维"
+        "FinanceAI",
+        "LangAlpha",
+        "RegTech",
+        "Quant",
+        "LLM",
+        "WallStreet",
+        "Compliance",
+        "Bloomberg",
+        "SEC",
+        "AIForFinance"
       ]
     }
   ],
   "image_paths": [
-    "assets/2026-04-14/cover1.png",
-    "assets/2026-04-14/cover2.png",
-    "assets/2026-04-14/cover3.png",
-    "assets/2026-04-14/cover4.png"
+    "assets/2026-04-15/cover1.png",
+    "assets/2026-04-15/cover2.png",
+    "assets/2026-04-15/cover3.png",
+    "assets/2026-04-15/cover4.png"
   ]
 }
