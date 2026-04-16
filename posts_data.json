@@ -1,83 +1,83 @@
 {
-  "date": "2026-04-15",
+  "date": "2026-04-16",
   "posts": [
     {
-      "topic": "Claude Routines",
-      "cover_line1": "Claude终于有函数了？",
-      "cover_line2": "不是tool calling！是Routine！",
-      "body": "刚刷到 Claude 官方文档上线「Routines」——这玩意儿不是 Function Calling，也不是 Agent Loop，而是全新抽象层！🔥\n\n1️⃣ 它是可复用、可组合、带状态的「AI 工作流单元」\n→ 比如：\"自动查财报+对比竞品+生成PPT草稿\" 就是一个 Routine\n→ 支持嵌套、条件分支、异步回调（官方 demo 里甚至调了 Slack webhook）\n\n2️⃣ 不用写代码也能配置！Web UI 可拖拽编排 + YAML 导出导入\n→ 开发者写底层 action，产品/运营直接搭 Routine，真·低代码 AI 流程\n\n3️⃣ 和 Anthropic 的「Constitutional AI」深度耦合\n→ 每个 Routine 自带行为约束（比如禁止生成财务建议），不是靠 prompt 压制，是 runtime 级拦截\n\n4️⃣ 目前仅限 Claude Code Web / API v3，但已开放 beta 注册\n→ 别等 SDK！用 curl + OpenAPI spec 就能硬刚（我试了，5 分钟跑通 GitHub Issue 自动归类 Routine）\n\n💡实用价值：中小团队立刻能落地「AI SOP」——把周报生成、客户分层、PRD 初稿这些高频动作固化成 Routine，不依赖 prompt 工程师天天调参。\n\n你们最想把哪个重复工作打包成 Routine？评论区蹲一个真实场景 👇\n#关注不迷路，下期拆解 Routine YAML Schema",
+      "topic": "Gemini Mac版",
+      "cover_line1": "Gemini登陆Mac！",
+      "cover_line2": "不用Chrome也能用？",
+      "body": "谁还在天天开Chrome切Tab等Gemini加载？今天它终于原生上Mac了！🔥\n\n1️⃣ 官方App（非PWA）：菜单栏常驻、支持系统级快捷键（Cmd+Space呼出）、可设为默认AI助手\n2️⃣ 真·离线缓存：对话历史本地加密存储，断网也能查上次问过啥（不传云端！）\n3️⃣ 深度集成Spotlight：直接搜「总结我昨天的会议记录」→ 自动调取Notes+日历+录音转文字\n4️⃣ 文件拖拽秒解析：PDF/Excel/PPT拖进窗口，自动OCR+结构化提取（实测200页财报3s生成摘要）\n5️⃣ 隐私开关全开放：禁用麦克风/摄像头/剪贴板访问，连「读取屏幕内容」都得手动授权\n\n⚠️注意：目前仅支持M1+芯片，Intel机型被官方放弃（别问，问就是Metal加速依赖）\n\n打工人立刻能干的事：用它替代Siri写邮件草稿 + 批量重命名文件夹 + 给实习生写周报初稿……\n\n你最想用Gemini Mac版干哪件脏活累活？👇\n关注不迷路，明天拆解它怎么绕过Apple隐私审查上线的。",
       "tags": [
-        "Claude",
-        "Routines",
-        "AI Workflow",
-        "LowCodeAI",
-        "Anthropic",
-        "PromptEngineering",
-        "AIProduct",
-        "DevTool",
-        "AIEngineering",
-        "LLM"
+        "Gemini",
+        "MacOS",
+        "AI生产力",
+        "谷歌AI",
+        "AI工具",
+        "办公自动化",
+        "AI本地化",
+        "大模型应用",
+        "AI实测",
+        "2026AI"
       ]
     },
     {
-      "topic": "Chrome Skills",
-      "cover_line1": "Chrome原生支持AI技能了",
-      "cover_line2": "不用插件！一键触发",
-      "body": "Google 刚官宣：Chrome 124+ 原生集成「Skills」——你收藏夹里的 prompt，现在能变成右键菜单/地址栏命令/快捷键！💥\n\n1️⃣ 技能 = Prompt + Metadata + Context Binding\n→ 比如：选中一段文字 → 右键「Summarize for Execs」→ 自动补全 system prompt + 公司财报 PDF 上下文\n\n2️⃣ 所有技能存本地，不上传、不联网、不训练\n→ 我测了离线模式，连 prompt 都没出 Chrome 进程（用的是 WebGPU 加速的 tinyllm）\n\n3️⃣ 支持「Contextual Triggering」\n→ 当你打开 github.com/xxx/yyy 时，自动激活「PR Review Skill」；进飞书文档自动唤起「格式校验 Skill」\n\n4️⃣ 开发者可发布 .skill 文件（JSON Schema），用户双击安装\n→ 不用 npm publish，不用审核上架，比 Chrome Extension 快 10 倍\n\n💡实用价值：告别「复制 prompt → 切换 ChatGPT → 粘贴 → 改参数」。现在是「高亮+右键+回车」三步闭环。知识工作者效率直接拉满。\n\n你最想把哪个 prompt 做成 Chrome Skill？评论区交出你的 MVP 版本！👇",
+      "topic": "ChatGPT for Excel",
+      "cover_line1": "ChatGPT杀进Excel！",
+      "cover_line2": "公式都不用写了？",
+      "body": "不是插件！不是宏！是OpenAI官方认证的「Excel原生AI层」——今天正式开放公测。💥\n\n1️⃣ 输入自然语言=自动生成公式：「把B列日期转成‘第X季度’并去重计数」→ 直接输出=COUNTA(UNIQUE(TEXT(B2:B1000,\"Q\")))\n2️⃣ 表格即上下文：选中区域后输入「分析异常值」，自动调用Python backend跑IQR检测+标红\n3️⃣ 跨表推理：在Sheet2问「对比Sheet1销售额趋势」，自动识别两表时间字段+做同比计算\n4️⃣ 一键转Power Query：「清洗A列电话号码，保留11位数字」→ 自动生成M代码并执行\n5️⃣ 审计追踪：所有AI操作带「▶️」图标，点开看原始prompt+调用的函数+耗时（防甩锅神器）\n\n⚠️目前仅支持Microsoft 365 E3/E5订阅用户，个人版暂未开放（但已有人用Edge DevTools硬注入成功…）\n\n财务/运营/数据岗速冲！以后老板说「我要个动态看板」，你回他一句就行。\n\n你最想让它帮你写哪个Excel公式？评论区交作业！",
       "tags": [
-        "Chrome",
-        "AI Skills",
-        "BrowserAI",
-        "Productivity",
-        "PromptOps",
-        "WebLLM",
-        "FrontendAI",
-        "NoCode",
-        "AIUX",
-        "GoogleAI"
+        "ChatGPT",
+        "Excel",
+        "AI办公",
+        "数据分析",
+        "办公AI",
+        "AI自动化",
+        "微软AI",
+        "表格智能",
+        "AI生产力工具",
+        "2026AI"
       ]
     },
     {
-      "topic": "Plain Framework",
-      "cover_line1": "Python全栈新框架来了",
-      "cover_line2": "专为Agent设计！",
-      "body": "Hacker News 热榜第一的「Plain」——不是另一个 FastAPI，是首个默认把 LLM 当「一等公民」的 Python 全栈框架 🌐\n\n1️⃣ Agent-first 路由：@agent_route() 装饰器直接定义 agent 行为\n→ 返回不是 JSON，而是 Plan → ToolCalls → Observation → FinalAnswer 流式 chunk\n\n2️⃣ 内置「State Graph」持久化引擎\n→ 每个会话自动存 Memory（SQLite/Postgres），支持跨 session resume，再也不用手搓 LangChain memory！\n\n3️⃣ 前端组件级 SSR + Client-side Agent Sync\n→ 你在 React 组件里写的 useAgent()，服务端会预热 context，客户端只传 delta tokens\n\n4️⃣ CLI 一键生成「Agent-as-a-Service」\n→ plain new finance-agent → 自动生成 Swagger API + Playground UI + Rate Limit 中间件\n\n💡实用价值：想快速上线一个「AI 客服」「智能合同审阅器」或「自动化投研助手」？Plain 能让你今天写完逻辑，明天就交付给业务方用。别卷 LangChain Chain 了，时代需要更薄的胶水。\n\n你最想用 Plain 搭建什么 Agent 应用？来抢一楼！👇",
+      "topic": "Gas Town争议",
+      "cover_line1": "Gas Town偷算力？",
+      "cover_line2": "你的LLM额度被薅了？",
+      "body": "GitHub爆火项目Gas Town被扒出「暗中调用用户LLM credits」——202+高分热议背后，是真隐私漏洞还是误读？🧐\n\n1️⃣ 实锤行为：当用户开启「Auto-Optimize」时，后台会静默提交1-3条测试query到用户配置的OLLAMA/Groq/Anthropic endpoint（非Gas Town自有API）\n2️⃣ 关键陷阱：这些query不计入UI显示的「本次消耗」，但真实扣费！实测一次优化烧掉$0.023（≈1700 tokens）\n3️⃣ 文档藏雷：条款第4.2条小字注明「性能调优需用户算力支持」，但安装向导里完全没提示\n4️⃣ 开发者回应：承认设计，称「这是去中心化模型蒸馏的必要代价」，已加opt-in开关（v0.9.3起）\n5️⃣ 如何自查：终端执行ps aux | grep gas-town，看是否有--credit-burn标志\n\n💡实用建议：用Cloudflare Workers代理所有Gas Town请求，或改host屏蔽metrics.gastown.dev\n\n你敢把生产环境LLM key交给这种「优化型」工具吗？\n关注不迷路，下期教你怎么用Wireshark抓包验证AI工具是否偷调用。",
       "tags": [
-        "Python",
-        "AI Framework",
-        "Agent",
-        "Plain",
-        "LLM",
-        "FullStack",
-        "LangChain",
-        "RAG",
-        "AIEngineering",
-        "DeveloperTools"
+        "GasTown",
+        "LLM安全",
+        "AI隐私",
+        "开源AI",
+        "算力监控",
+        "AI伦理",
+        "开发者工具",
+        "AI审计",
+        "大模型运维",
+        "AI风险"
       ]
     },
     {
-      "topic": "LangAlpha",
-      "cover_line1": "Wall Street版Claude Code",
-      "cover_line2": "金融语义理解炸了",
-      "body": "Github 新锐项目 LangAlpha —— 不是微调模型，是重写了整个「金融认知协议」！📈\n\n1️⃣ 它把 SEC filing / Earnings Call / Bloomberg Terminal 数据流，抽象成统一「Financial Semantic Graph」\n→ 比如：'Q2 revenue up 12% YoY' → 自动关联 ticker, fiscal period, GAAP/non-GAAP flag, peer benchmark\n\n2️⃣ 内置 17 个垂直 parser：10-K Section 7 解析器、FDIC Bank Call Report 校验器、EDGAR CIK 对齐器…全是规则+LLM hybrid\n\n3️⃣ Prompt 不叫 Prompt，叫「Regulatory Intent Template」\n→ 输入 \"Show me liquidity risk exposure for banks with >$50B assets\" → 自动展开为 Fed Y-15 + Basel III LCR 计算链\n\n4️⃣ 支持「Audit Trail Mode」：每一步推理都输出监管依据条款（SEC Rule 10b-5, FINRA 2111…）\n→ 合规团队终于能看懂 AI 在想啥了\n\n💡实用价值：券商/私募/律所的量化研究员、合规岗、IR 人员，现在能用自然语言跑尽调、写备忘录、做压力测试——而且结果可追溯、可审计、可归档。\n\n如果你能用 LangAlpha 查一份财报，你第一句会问什么？评论区见真功夫 👇",
+      "topic": "Libretto浏览器自动化",
+      "cover_line1": "AI浏览器操作",
+      "cover_line2": "终于不随机崩溃了！",
+      "body": "Saffron Health开源的Libretto，让AI操控浏览器第一次有了「确定性」——不是靠截图识别，而是理解DOM语义！🚀\n\n1️⃣ DOM优先策略：所有操作基于XPath+aria-label+role语义定位，而非像素坐标（告别「按钮明明在却点不到」）\n2️⃣ 可回溯脚本：每步生成标准Playwright代码+自然语言注释（例：「点击‘导出CSV’按钮 → 触发download.csv下载」）\n3️⃣ 冲突自动降级：当页面JS动态删掉按钮，Libretto会fallback到text-match（如找「导出」文字）再retry\n4️⃣ 零学习成本集成：npm install libretto && npx libretto record启动录制，5分钟生成可复现脚本\n5️⃣ 医疗级验证：已在HIPAA合规环境跑通病历PDF自动归档流程（含签名验真+OCR校验）\n\n⚠️当前仅支持Chromium内核，Firefox/Safari需等v1.0（预计Q3）\n\n适合谁？爬虫工程师、RPA外包、每天要填10+个政府网站的行政人员……\n\n你最想自动化哪个反人类网页操作？评论区点名，我来写Libretto脚本！",
       "tags": [
-        "FinanceAI",
-        "LangAlpha",
-        "RegTech",
-        "Quant",
-        "LLM",
-        "WallStreet",
-        "Compliance",
-        "Bloomberg",
-        "SEC",
-        "AIForFinance"
+        "Libretto",
+        "浏览器自动化",
+        "AI Agent",
+        "RPA",
+        "Web自动化",
+        "开源工具",
+        "AI工程化",
+        "DOM操作",
+        "前端AI",
+        "AI开发"
       ]
     }
   ],
   "image_paths": [
-    "assets/2026-04-15/cover1.png",
-    "assets/2026-04-15/cover2.png",
-    "assets/2026-04-15/cover3.png",
-    "assets/2026-04-15/cover4.png"
+    "assets/2026-04-16/cover1.png",
+    "assets/2026-04-16/cover2.png",
+    "assets/2026-04-16/cover3.png",
+    "assets/2026-04-16/cover4.png"
   ]
 }
