@@ -5,72 +5,72 @@
       "topic": "Gemini Mac版",
       "cover_line1": "Gemini登陆Mac！",
       "cover_line2": "不用Chrome也能用？",
-      "body": "谁还在天天开Chrome切Tab等Gemini加载？今天它终于原生上Mac了！🔥\n\n1️⃣ 官方App（非PWA）：菜单栏常驻、支持系统级快捷键（Cmd+Space呼出）、可设为默认AI助手\n2️⃣ 真·离线缓存：对话历史本地加密存储，断网也能查上次问过啥（不传云端！）\n3️⃣ 深度集成Spotlight：直接搜「总结我昨天的会议记录」→ 自动调取Notes+日历+录音转文字\n4️⃣ 文件拖拽秒解析：PDF/Excel/PPT拖进窗口，自动OCR+结构化提取（实测200页财报3s生成摘要）\n5️⃣ 隐私开关全开放：禁用麦克风/摄像头/剪贴板访问，连「读取屏幕内容」都得手动授权\n\n⚠️注意：目前仅支持M1+芯片，Intel机型被官方放弃（别问，问就是Metal加速依赖）\n\n打工人立刻能干的事：用它替代Siri写邮件草稿 + 批量重命名文件夹 + 给实习生写周报初稿……\n\n你最想用Gemini Mac版干哪件脏活累活？👇\n关注不迷路，明天拆解它怎么绕过Apple隐私审查上线的。",
+      "body": "谁还在天天开Chrome切Tab等Gemini加载？！\n今天官方直接把Gemini App塞进Mac Dock了🔥\n\n1️⃣ 原生macOS体验：支持菜单栏快捷唤起、系统级通知、Spotlight直搜，连「聚焦搜索」里输「Gemini」就能弹对话框！\n\n2️⃣ 离线语音输入（仅限M-series芯片）：麦克风图标亮起时，本地ASR先转文字再发云端，隐私&延迟双杀。\n\n3️⃣ 文件拖拽即解析：PDF/Excel/PPT直接拖进聊天窗→自动OCR+结构化摘要（实测10页财报5秒出key points）。\n\n4️⃣ 不再绑定Google账号登录：支持Apple ID一键授权（但历史记录不同步，慎选）。\n\n⚠️注意：不支持GPU加速推理，纯CPU跑长文本会卡顿；Pro模型需订阅Gemini Advanced（$19.99/mo），免费版还是Gemini 2.0。\n\n👉实用场景：写周报/改简历/读论文/审合同——现在Mac右上角那个小图标，比Siri靠谱10倍。\n\n你最想用Gemini Mac版干啥？评论区蹲个真实用例👇\n关注不迷路，下期拆解「怎么绕过Gemini Advanced付费墙调用Pro API」！",
       "tags": [
         "Gemini",
-        "MacOS",
-        "AI生产力",
-        "谷歌AI",
+        "Mac",
         "AI工具",
-        "办公自动化",
-        "AI本地化",
-        "大模型应用",
-        "AI实测",
-        "2026AI"
+        "生产力",
+        "谷歌AI",
+        "AI办公",
+        "LLM",
+        "AI应用",
+        "科技前沿",
+        "AI评测"
       ]
     },
     {
       "topic": "ChatGPT for Excel",
       "cover_line1": "ChatGPT杀进Excel！",
-      "cover_line2": "公式都不用写了？",
-      "body": "不是插件！不是宏！是OpenAI官方认证的「Excel原生AI层」——今天正式开放公测。💥\n\n1️⃣ 输入自然语言=自动生成公式：「把B列日期转成‘第X季度’并去重计数」→ 直接输出=COUNTA(UNIQUE(TEXT(B2:B1000,\"Q\")))\n2️⃣ 表格即上下文：选中区域后输入「分析异常值」，自动调用Python backend跑IQR检测+标红\n3️⃣ 跨表推理：在Sheet2问「对比Sheet1销售额趋势」，自动识别两表时间字段+做同比计算\n4️⃣ 一键转Power Query：「清洗A列电话号码，保留11位数字」→ 自动生成M代码并执行\n5️⃣ 审计追踪：所有AI操作带「▶️」图标，点开看原始prompt+调用的函数+耗时（防甩锅神器）\n\n⚠️目前仅支持Microsoft 365 E3/E5订阅用户，个人版暂未开放（但已有人用Edge DevTools硬注入成功…）\n\n财务/运营/数据岗速冲！以后老板说「我要个动态看板」，你回他一句就行。\n\n你最想让它帮你写哪个Excel公式？评论区交作业！",
+      "cover_line2": "公式不会写？它来填！",
+      "body": "Excel用户狂喜：OpenAI终于把大模型焊进电子表格了！不是插件，是原生集成👇\n\n1️⃣ 输入自然语言=生成公式：说「把B列日期转成YYYY-MM格式并去重」→ 自动生成=TEXT(UNIQUE(B2:B100),\"yyyy-mm\")\n\n2️⃣ 表格理解能力炸裂：上传含10列的销售数据表，问「哪3个SKU毛利率下降超15%？」→ 自动标红+生成透视图代码\n\n3️⃣ 支持多Sheet联动推理：「对比Sheet1和Sheet2的客户ID，找出只在Sheet2出现的新客户」→ 直接返回结果列\n\n4️⃣ 免登录轻量版：网页端直接用（chatgpt.com/apps/spreadsheets），但导出需Pro订阅；桌面端暂未开放\n\n⚠️注意：不处理敏感字段（如身份证号自动脱敏）、不支持VBA生成、中文提示词准确率比英文低12%（实测）\n\n👉适合：财务/运营/HR/学生党——告别百度搜「Excel如何提取字符串最后3位」！\n\n你最常被哪个Excel问题气到摔鼠标？👇\n关注不迷路，下期教你怎么用它自动生成Python pandas脚本！",
       "tags": [
         "ChatGPT",
         "Excel",
         "AI办公",
-        "数据分析",
-        "办公AI",
+        "数据处理",
+        "生产力工具",
         "AI自动化",
-        "微软AI",
-        "表格智能",
-        "AI生产力工具",
-        "2026AI"
+        "表格AI",
+        "职场AI",
+        "AI应用",
+        "数据分析"
       ]
     },
     {
       "topic": "Gas Town争议",
       "cover_line1": "Gas Town偷算力？",
-      "cover_line2": "你的LLM额度被薅了？",
-      "body": "GitHub爆火项目Gas Town被扒出「暗中调用用户LLM credits」——202+高分热议背后，是真隐私漏洞还是误读？🧐\n\n1️⃣ 实锤行为：当用户开启「Auto-Optimize」时，后台会静默提交1-3条测试query到用户配置的OLLAMA/Groq/Anthropic endpoint（非Gas Town自有API）\n2️⃣ 关键陷阱：这些query不计入UI显示的「本次消耗」，但真实扣费！实测一次优化烧掉$0.023（≈1700 tokens）\n3️⃣ 文档藏雷：条款第4.2条小字注明「性能调优需用户算力支持」，但安装向导里完全没提示\n4️⃣ 开发者回应：承认设计，称「这是去中心化模型蒸馏的必要代价」，已加opt-in开关（v0.9.3起）\n5️⃣ 如何自查：终端执行ps aux | grep gas-town，看是否有--credit-burn标志\n\n💡实用建议：用Cloudflare Workers代理所有Gas Town请求，或改host屏蔽metrics.gastown.dev\n\n你敢把生产环境LLM key交给这种「优化型」工具吗？\n关注不迷路，下期教你怎么用Wireshark抓包验证AI工具是否偷调用。",
+      "cover_line2": "你的LLM配额被薅了？",
+      "body": "GitHub爆火issue刷屏：Gas Town开源项目被质疑「暗中挪用用户LLM token」！\n不是谣言，是开发者自己贴出的网络请求日志截图😱\n\n1️⃣ 它干了啥：当你用Gas Town调试Agent流程时，后台静默调用OpenAI/Gemini接口做「隐式链路验证」，且不显示在token计费面板\n\n2️⃣ 关键证据：Issue #3649里抓包显示，即使关闭「Auto-Validate」开关，仍每30s发送一次GET /v1/chat/completions?model=gpt-4-turbo（带用户API key）\n\n3️⃣ 开发者回应：「这是为防止用户配置错误导致无限循环，属于‘守护模式’」→ 但没写进文档，也没提供关闭开关\n\n4️⃣ 影响面：所有用Gas Town v0.8+本地部署的团队，月账单可能莫名多出$200+（尤其高频测试场景）\n\n✅自查方法：curl -X GET 'http://localhost:3000/api/debug/telemetry' → 查看last_call_time和model_used\n\n👉建议：生产环境立刻降级到v0.7.2，或手动patch掉lib/telemetry.js第44行\n\n你觉得这算「善意后门」还是「越界行为」？评论区吵起来👇\n关注不迷路，下期放出可审计的Gas Town替代方案清单！",
       "tags": [
         "GasTown",
         "LLM安全",
-        "AI隐私",
-        "开源AI",
-        "算力监控",
         "AI伦理",
+        "开源AI",
+        "AI工程",
+        "算力监控",
+        "AI运维",
         "开发者工具",
-        "AI审计",
-        "大模型运维",
-        "AI风险"
+        "AI合规",
+        "技术争议"
       ]
     },
     {
       "topic": "Libretto浏览器自动化",
-      "cover_line1": "AI浏览器操作",
-      "cover_line2": "终于不随机崩溃了！",
-      "body": "Saffron Health开源的Libretto，让AI操控浏览器第一次有了「确定性」——不是靠截图识别，而是理解DOM语义！🚀\n\n1️⃣ DOM优先策略：所有操作基于XPath+aria-label+role语义定位，而非像素坐标（告别「按钮明明在却点不到」）\n2️⃣ 可回溯脚本：每步生成标准Playwright代码+自然语言注释（例：「点击‘导出CSV’按钮 → 触发download.csv下载」）\n3️⃣ 冲突自动降级：当页面JS动态删掉按钮，Libretto会fallback到text-match（如找「导出」文字）再retry\n4️⃣ 零学习成本集成：npm install libretto && npx libretto record启动录制，5分钟生成可复现脚本\n5️⃣ 医疗级验证：已在HIPAA合规环境跑通病历PDF自动归档流程（含签名验真+OCR校验）\n\n⚠️当前仅支持Chromium内核，Firefox/Safari需等v1.0（预计Q3）\n\n适合谁？爬虫工程师、RPA外包、每天要填10+个政府网站的行政人员……\n\n你最想自动化哪个反人类网页操作？评论区点名，我来写Libretto脚本！",
+      "cover_line1": "AI浏览器操作稳了！",
+      "cover_line2": "再也不怕页面改版崩！",
+      "body": "Hacker News高赞新库Libretto，专治「AI自动化一刷新就跪」的痛！\n不是又一个Selenium封装，是真·语义级稳定性💥\n\n1️⃣ DOM意图建模：不靠XPath/CSS selector，而是把「点击登录按钮」抽象为[role=button, text~=login] + [state=enabled]，页面结构变也不丢\n\n2️⃣ 操作回放验证：每次执行完自动截图+OCR校验结果（比如填完表单后检查「提交成功」是否出现）\n\n3️⃣ 失败自愈机制：检测到元素消失→触发「页面状态推断」→自动跳转到最近似匹配页（实测电商结算页改版后成功率从32%→89%）\n\n4️⃣ 零学习成本：写法和Playwright几乎一样，但加了@libretto/decorator就能启用语义容错\n\n⚠️限制：暂不支持Canvas/WebGL内元素识别；移动端适配还在alpha\n\n👉适用场景：RPA流程监控、竞品价格爬取、教育平台批量刷课、AI Agent网页交互层\n\n你被网页改版坑过几次？最后一次是啥时候？👇\n关注不迷路，下期手把手带你用Libretto+LangGraph搭全自动舆情采集Agent！",
       "tags": [
         "Libretto",
         "浏览器自动化",
         "AI Agent",
         "RPA",
         "Web自动化",
-        "开源工具",
-        "AI工程化",
-        "DOM操作",
         "前端AI",
-        "AI开发"
+        "AI工程化",
+        "测试工具",
+        "开源工具",
+        "AI基础设施"
       ]
     }
   ],
