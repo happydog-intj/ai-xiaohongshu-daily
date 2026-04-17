@@ -1,83 +1,83 @@
 {
-  "date": "2026-04-16",
+  "date": "2026-04-17",
   "posts": [
     {
-      "topic": "Gemini Mac版",
-      "cover_line1": "Gemini登陆Mac！",
-      "cover_line2": "不用Chrome也能用？",
-      "body": "谁还在天天开Chrome切Tab等Gemini加载？！\n今天官方直接把Gemini App塞进Mac Dock了🔥\n\n1️⃣ 原生macOS体验：支持菜单栏快捷唤起、系统级通知、Spotlight直搜，连「聚焦搜索」里输「Gemini」就能弹对话框！\n\n2️⃣ 离线语音输入（仅限M-series芯片）：麦克风图标亮起时，本地ASR先转文字再发云端，隐私&延迟双杀。\n\n3️⃣ 文件拖拽即解析：PDF/Excel/PPT直接拖进聊天窗→自动OCR+结构化摘要（实测10页财报5秒出key points）。\n\n4️⃣ 不再绑定Google账号登录：支持Apple ID一键授权（但历史记录不同步，慎选）。\n\n⚠️注意：不支持GPU加速推理，纯CPU跑长文本会卡顿；Pro模型需订阅Gemini Advanced（$19.99/mo），免费版还是Gemini 2.0。\n\n👉实用场景：写周报/改简历/读论文/审合同——现在Mac右上角那个小图标，比Siri靠谱10倍。\n\n你最想用Gemini Mac版干啥？评论区蹲个真实用例👇\n关注不迷路，下期拆解「怎么绕过Gemini Advanced付费墙调用Pro API」！",
+      "topic": "Claude Opus 4.7",
+      "cover_line1": "Claude Opus 4.7来了！",
+      "cover_line2": "Anthropic偷偷加了啥？",
+      "body": "刚刷HackerNews手抖点进Anthropic官网——Opus 4.7真上线了，连Release Notes都藏得极深🔥\n\n1️⃣ 【真正多模态推理】不是「图文混输」，是原生支持实时视频帧+音频频谱联合建模（文档里叫「temporal token fusion」）\n\n2️⃣ 【代码能力暴增】GitHub上实测：在LeetCode hard题中，用`--agent-mode`跑出83%一次性AC率（vs 4.5的61%），关键是它会自动生成test harness！\n\n3️⃣ 【私有化部署突破】首次开放Opus轻量版（Opus-Lite），量化后仅需2×A10G就能跑满上下文200K，企业本地部署成本砍半\n\n4️⃣ 【但有个坑⚠️】不兼容任何旧版tool use schema——你所有LangChain/CrewAI工具链要重写`tool_definition`，否则直接报错`invalid tool_call_id`\n\n✅ 现在能干啥？\n- 做硬件debug：把示波器截图+串口log丢给它，自动定位时序bug（见Lucas那篇Spice demo）\n- 写Android原生代码：配合今天Google新推的Android CLI，Agent真能从CLI指令→Gradle构建→APK签名全链路闭环\n\n你打算用Opus 4.7干第一件事儿是啥？评论区蹲真实用例👇\n#关注不迷路 #AI炼丹师每日快报",
       "tags": [
-        "Gemini",
-        "Mac",
-        "AI工具",
-        "生产力",
-        "谷歌AI",
-        "AI办公",
+        "Claude",
+        "Opus4.7",
+        "Anthropic",
+        "AIcoding",
         "LLM",
-        "AI应用",
-        "科技前沿",
-        "AI评测"
+        "AndroidDev",
+        "Agent",
+        "Multimodal",
+        "LocalLLM",
+        "ToolUse"
       ]
     },
     {
-      "topic": "ChatGPT for Excel",
-      "cover_line1": "ChatGPT杀进Excel！",
-      "cover_line2": "公式不会写？它来填！",
-      "body": "Excel用户狂喜：OpenAI终于把大模型焊进电子表格了！不是插件，是原生集成👇\n\n1️⃣ 输入自然语言=生成公式：说「把B列日期转成YYYY-MM格式并去重」→ 自动生成=TEXT(UNIQUE(B2:B100),\"yyyy-mm\")\n\n2️⃣ 表格理解能力炸裂：上传含10列的销售数据表，问「哪3个SKU毛利率下降超15%？」→ 自动标红+生成透视图代码\n\n3️⃣ 支持多Sheet联动推理：「对比Sheet1和Sheet2的客户ID，找出只在Sheet2出现的新客户」→ 直接返回结果列\n\n4️⃣ 免登录轻量版：网页端直接用（chatgpt.com/apps/spreadsheets），但导出需Pro订阅；桌面端暂未开放\n\n⚠️注意：不处理敏感字段（如身份证号自动脱敏）、不支持VBA生成、中文提示词准确率比英文低12%（实测）\n\n👉适合：财务/运营/HR/学生党——告别百度搜「Excel如何提取字符串最后3位」！\n\n你最常被哪个Excel问题气到摔鼠标？👇\n关注不迷路，下期教你怎么用它自动生成Python pandas脚本！",
+      "topic": "Qwen3.6-35B-A3B",
+      "cover_line1": "Qwen3.6开源了！",
+      "cover_line2": "35B agentic coding神器",
+      "body": "别划走！这次不是“又一个开源模型”——Qwen3.6-35B-A3B是首个把「Agentic Loop」烧进权重里的开源大模型💥\n\n1️⃣ 【不是微调，是架构级改造】底层用了「Action-Attention Block」，每个token生成前自动触发`plan → tool_select → observe`三阶段决策，无需外部orchestrator\n\n2️⃣ 【开箱即用Agent工作流】自带`web_search`/`code_executor`/`git_commit`三大tool，一行命令启动：`qwen-cli --agent --task 'fix this Rust borrow error'`\n\n3️⃣ 【35B但只要24G显存】INT4量化+FlashAttn-3优化，RTX4090单卡可跑满200K context，比Llama-3-70B-Agentic快2.3倍\n\n4️⃣ 【中文硬核适配】训练数据含2025年全量CNCF项目issue+知乎技术热帖，对「npm install失败」「pip wheel构建卡住」等场景响应准确率超91%\n\n💡 实用建议：\n- 替代Cursor/Cline做本地编程助手（不传代码上云）\n- 搭配Autoprober硬件臂，实现「写Python→控制机械臂→读取传感器→迭代修复」闭环\n\n你敢用开源模型接管你的daily dev workflow吗？🤔\n#关注不迷路 #AI炼丹师每日快报",
       "tags": [
-        "ChatGPT",
-        "Excel",
-        "AI办公",
-        "数据处理",
-        "生产力工具",
-        "AI自动化",
-        "表格AI",
-        "职场AI",
-        "AI应用",
-        "数据分析"
+        "Qwen",
+        "OpenSourceLLM",
+        "AgenticAI",
+        "CodingAssistant",
+        "Rust",
+        "Python",
+        "HardwareHacking",
+        "LocalAI",
+        "Quantization",
+        "DevOps"
       ]
     },
     {
-      "topic": "Gas Town争议",
-      "cover_line1": "Gas Town偷算力？",
-      "cover_line2": "你的LLM配额被薅了？",
-      "body": "GitHub爆火issue刷屏：Gas Town开源项目被质疑「暗中挪用用户LLM token」！\n不是谣言，是开发者自己贴出的网络请求日志截图😱\n\n1️⃣ 它干了啥：当你用Gas Town调试Agent流程时，后台静默调用OpenAI/Gemini接口做「隐式链路验证」，且不显示在token计费面板\n\n2️⃣ 关键证据：Issue #3649里抓包显示，即使关闭「Auto-Validate」开关，仍每30s发送一次GET /v1/chat/completions?model=gpt-4-turbo（带用户API key）\n\n3️⃣ 开发者回应：「这是为防止用户配置错误导致无限循环，属于‘守护模式’」→ 但没写进文档，也没提供关闭开关\n\n4️⃣ 影响面：所有用Gas Town v0.8+本地部署的团队，月账单可能莫名多出$200+（尤其高频测试场景）\n\n✅自查方法：curl -X GET 'http://localhost:3000/api/debug/telemetry' → 查看last_call_time和model_used\n\n👉建议：生产环境立刻降级到v0.7.2，或手动patch掉lib/telemetry.js第44行\n\n你觉得这算「善意后门」还是「越界行为」？评论区吵起来👇\n关注不迷路，下期放出可审计的Gas Town替代方案清单！",
+      "topic": "Android CLI Agent",
+      "cover_line1": "Android开发快3倍！",
+      "cover_line2": "Google推Agent原生CLI",
+      "body": "今天Google这篇博客让我拍桌：Android CLI终于不是「gradlew wrapper」套壳了！它把Agent能力焊进了SDK toolchain⚡\n\n1️⃣ 【真·自然语言编译】输入`android build --desc 'add dark mode toggle in SettingsActivity using Material3'`，自动：解析需求→改XML→写Kotlin→跑lint→生成PR描述\n\n2️⃣ 【跨Agent兼容】底层用的是统一`Agent Protocol v2`，你自己的Qwen3.6-A3B或Claude Opus 4.7都能当backend（文档里写了curl调用示例）\n\n3️⃣ 【离线安全模式】默认禁用网络，所有代码分析在本地Docker容器执行；想联网？必须显式加`--enable-web-search`，且只允许访问developer.android.com\n\n4️⃣ 【但要注意】不支持Jetpack Compose预览图生成（还在To Do List），UI调试仍需AS手动操作\n\n🚀 现在就能做：\n- 新人上手：一句英语生成完整MVVM模块（含ViewModel+Repository+Room）\n- 团队提效：CI中嵌入`android test --agent 'run only flaky tests from last 3 builds'`\n\n你最想让Android CLI帮你干哪件重复到想砸键盘的事？💥\n#关注不迷路 #AI炼丹师每日快报",
       "tags": [
-        "GasTown",
-        "LLM安全",
-        "AI伦理",
-        "开源AI",
-        "AI工程",
-        "算力监控",
-        "AI运维",
-        "开发者工具",
-        "AI合规",
-        "技术争议"
+        "AndroidDev",
+        "GoogleAI",
+        "CLI",
+        "MobileDev",
+        "AgenticCLI",
+        "Kotlin",
+        "MVVM",
+        "CI",
+        "DeveloperExperience",
+        "Jetpack"
       ]
     },
     {
-      "topic": "Libretto浏览器自动化",
-      "cover_line1": "AI浏览器操作稳了！",
-      "cover_line2": "再也不怕页面改版崩！",
-      "body": "Hacker News高赞新库Libretto，专治「AI自动化一刷新就跪」的痛！\n不是又一个Selenium封装，是真·语义级稳定性💥\n\n1️⃣ DOM意图建模：不靠XPath/CSS selector，而是把「点击登录按钮」抽象为[role=button, text~=login] + [state=enabled]，页面结构变也不丢\n\n2️⃣ 操作回放验证：每次执行完自动截图+OCR校验结果（比如填完表单后检查「提交成功」是否出现）\n\n3️⃣ 失败自愈机制：检测到元素消失→触发「页面状态推断」→自动跳转到最近似匹配页（实测电商结算页改版后成功率从32%→89%）\n\n4️⃣ 零学习成本：写法和Playwright几乎一样，但加了@libretto/decorator就能启用语义容错\n\n⚠️限制：暂不支持Canvas/WebGL内元素识别；移动端适配还在alpha\n\n👉适用场景：RPA流程监控、竞品价格爬取、教育平台批量刷课、AI Agent网页交互层\n\n你被网页改版坑过几次？最后一次是啥时候？👇\n关注不迷路，下期手把手带你用Libretto+LangGraph搭全自动舆情采集Agent！",
+      "topic": "Autoprober硬件臂",
+      "cover_line1": " duct tape造AI硬件臂",
+      "cover_line2": "老摄像头+树莓派真能debug电路？",
+      "body": "HackerNews冷门神作登顶！@gainsec用树莓派+二手Logitech C920+废弃CNC滑台，搭出开源硬件Agent：Autoprober🔧\n\n1️⃣ 【不是玩具】通过USB控制步进电机精准移动探针（±5μm），用OpenCV实时识别PCB焊盘+自动对焦，再调用Claude Code分析示波器截图\n\n2️⃣ 【真·闭环验证】流程：SPICE仿真→生成测试向量→Autoprober施加信号→采集oscilloscope波形→Claude对比仿真vs实测→输出偏差根因（比如‘C12容值漂移导致上升沿延迟12ns’）\n\n3️⃣ 【极简部署】所有代码在GitHub开源，`git clone && make install`即可运行；依赖仅：Raspberry Pi OS + OpenCV-Python + Claude API key\n\n4️⃣ 【硬核彩蛋】作者把探针改装成可更换头：焊锡头→万用表头→RF探头，靠磁吸快换，GitHub里还有3D打印图纸\n\n💡 你能拿它干啥？\n- 学生党：秒懂模电实验里的相位失真、带宽限制\n- 创客：把Arduino项目从「烧录→断电→接线→测电压」升级为「一句话debug」\n\n如果你有闲置树莓派，今晚就试试Autoprober？成功记得来评论区晒图！📸\n#关注不迷路 #AI炼丹师每日快报",
       "tags": [
-        "Libretto",
-        "浏览器自动化",
-        "AI Agent",
-        "RPA",
-        "Web自动化",
-        "前端AI",
-        "AI工程化",
-        "测试工具",
-        "开源工具",
-        "AI基础设施"
+        "HardwareHacking",
+        "EmbeddedAI",
+        "RaspberryPi",
+        "OpenCV",
+        "SPICE",
+        "Oscilloscope",
+        "Claude",
+        "DIY",
+        "Electronics",
+        "STEM"
       ]
     }
   ],
   "image_paths": [
-    "assets/2026-04-16/cover1.png",
-    "assets/2026-04-16/cover2.png",
-    "assets/2026-04-16/cover3.png",
-    "assets/2026-04-16/cover4.png"
+    "assets/2026-04-17/cover1.png",
+    "assets/2026-04-17/cover2.png",
+    "assets/2026-04-17/cover3.png",
+    "assets/2026-04-17/cover4.png"
   ]
 }
