@@ -58,6 +58,7 @@ jobs:
           git add assets/ posts_data.json
           # 如果有变动才提交
           git diff --staged --quiet || git commit -m "chore: daily AI post assets $(date +%Y-%m-%d) [skip ci]"
+          git pull --rebase origin master
           git push
 
       # ── 5. 创建 GitHub Issue ─────────────────────────────────────────────────
