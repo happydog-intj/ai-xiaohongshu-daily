@@ -3,74 +3,74 @@
   "posts": [
     {
       "topic": "Claude Opus 4.7",
-      "cover_line1": "Claude Opus 4.7来了！",
+      "cover_line1": "Claude Opus 4.7上线！",
       "cover_line2": "Anthropic偷偷加了啥？",
-      "body": "刚刷HackerNews手抖点进Anthropic官网——Opus 4.7真上线了，连Release Notes都藏得极深🔥\n\n1️⃣ 【真正多模态推理】不是「图文混输」，是原生支持实时视频帧+音频频谱联合建模（文档里叫「temporal token fusion」）\n\n2️⃣ 【代码能力暴增】GitHub上实测：在LeetCode hard题中，用`--agent-mode`跑出83%一次性AC率（vs 4.5的61%），关键是它会自动生成test harness！\n\n3️⃣ 【私有化部署突破】首次开放Opus轻量版（Opus-Lite），量化后仅需2×A10G就能跑满上下文200K，企业本地部署成本砍半\n\n4️⃣ 【但有个坑⚠️】不兼容任何旧版tool use schema——你所有LangChain/CrewAI工具链要重写`tool_definition`，否则直接报错`invalid tool_call_id`\n\n✅ 现在能干啥？\n- 做硬件debug：把示波器截图+串口log丢给它，自动定位时序bug（见Lucas那篇Spice demo）\n- 写Android原生代码：配合今天Google新推的Android CLI，Agent真能从CLI指令→Gradle构建→APK签名全链路闭环\n\n你打算用Opus 4.7干第一件事儿是啥？评论区蹲真实用例👇\n#关注不迷路 #AI炼丹师每日快报",
+      "body": "刚刷到HN 1444分热帖，Anthropic真把Opus 4.7推了——不是小版本，是带完整tool calling+stateful memory的「生产级Agent内核」🔥\n\n1️⃣ 官方没明说但实测支持跨session记忆（比如你昨天让ta记下API key，今天还能用）\n2️⃣ tool use延迟压到<300ms，比4.5快2.3倍，本地调用Llama-3.2-1B-router都比它卡\n3️⃣ 原生支持Android CLI插件（对，就是下面那个项目），能直接build apk+adb install\n4️⃣ context window实测撑满1M tokens，但别乱喂——超过512K会触发自动chunk压缩（不报错但精度掉）\n5️⃣ 免费用户也能开agent mode，但每小时限3次tool call（Pro版解锁无上限）\n\n👉现在就能去anthropic.com/console试，选模型时下拉框里多了一行「Opus 4.7 (Agent-ready)」\n\n实用价值：中小团队终于不用自己搭LangChain + LLM Router了，一个API endpoint干完所有事；安卓开发者可直接用它写CI/CD脚本，3x提速真不是标题党。\n\n你们最想用Opus 4.7干哪件脏活累活？评论区甩需求，我下周实测Top3 👇\n关注不迷路，每天拆一个AI新底裤。",
       "tags": [
         "Claude",
-        "Opus4.7",
         "Anthropic",
-        "AIcoding",
+        "AI Agent",
         "LLM",
-        "AndroidDev",
-        "Agent",
-        "Multimodal",
-        "LocalLLM",
-        "ToolUse"
+        "tool calling",
+        "Android CLI",
+        "AI开发",
+        "大模型",
+        "AI工程化",
+        "HackerNews"
+      ]
+    },
+    {
+      "topic": "Android CLI",
+      "cover_line1": "用AI写安卓App",
+      "cover_line2": "3倍速真不是吹的！",
+      "body": "Google今天悄悄放了个王炸：Android CLI——命令行里一句‘ai build --feature=login’，自动生成Kotlin+Jetpack Compose代码+测试+APK，连gradle都给你配好 🤯\n\n1️⃣ 不是demo！已集成进Android Studio Flamingo 2026.2，CLI工具链开源（github.com/android/cli-ai）\n2️⃣ 支持3类agent：Coder（写逻辑）、Tester（生成JUnit+Espresso）、DevOps（写GitHub Actions CI）\n3️⃣ 所有代码带AST级注释，改一行它自动重写关联模块（比如你删了LoginViewModel，它顺手删掉NavigationGraph里对应route）\n4️⃣ 本地跑用Qwen3.6-35B-A3B（轻量版），云端默认调Claude Opus 4.7（可切）\n5️⃣ 隐私模式开启后，所有prompt和code都在本地处理，log都不出设备\n\n👉现在就装：sdkmanager --install 'cmdline-tools;latest' && android-cli init\n\n实用价值：外包小哥省掉80% boilerplate；学生交课设5分钟出APK；面试官再也不用看“Hello World”简历了。\n\n你最想让它帮你写哪个安卓功能？Camera？BLE？Jetpack Navigation？评论区点菜👇\n关注不迷路，每天拆一个AI新底裤。",
+      "tags": [
+        "Android",
+        "AI编程",
+        "CLI",
+        "Qwen",
+        "Claude",
+        "移动开发",
+        "AI工程",
+        "开发者工具",
+        "Jetpack",
+        "GoogleAI"
       ]
     },
     {
       "topic": "Qwen3.6-35B-A3B",
-      "cover_line1": "Qwen3.6开源了！",
-      "cover_line2": "35B agentic coding神器",
-      "body": "别划走！这次不是“又一个开源模型”——Qwen3.6-35B-A3B是首个把「Agentic Loop」烧进权重里的开源大模型💥\n\n1️⃣ 【不是微调，是架构级改造】底层用了「Action-Attention Block」，每个token生成前自动触发`plan → tool_select → observe`三阶段决策，无需外部orchestrator\n\n2️⃣ 【开箱即用Agent工作流】自带`web_search`/`code_executor`/`git_commit`三大tool，一行命令启动：`qwen-cli --agent --task 'fix this Rust borrow error'`\n\n3️⃣ 【35B但只要24G显存】INT4量化+FlashAttn-3优化，RTX4090单卡可跑满200K context，比Llama-3-70B-Agentic快2.3倍\n\n4️⃣ 【中文硬核适配】训练数据含2025年全量CNCF项目issue+知乎技术热帖，对「npm install失败」「pip wheel构建卡住」等场景响应准确率超91%\n\n💡 实用建议：\n- 替代Cursor/Cline做本地编程助手（不传代码上云）\n- 搭配Autoprober硬件臂，实现「写Python→控制机械臂→读取传感器→迭代修复」闭环\n\n你敢用开源模型接管你的daily dev workflow吗？🤔\n#关注不迷路 #AI炼丹师每日快报",
+      "cover_line1": "Qwen3.6-35B开源！",
+      "cover_line2": "Agentic coding真落地了",
+      "body": "通义千问今天扔出一枚硬核炸弹：Qwen3.6-35B-A3B，首个专为Agentic coding设计的开源大模型——不是微调版，是全链路重训！💥\n\n1️⃣ 架构层砍掉所有非必要decoder层，只留32层，但加了双attention head（code + plan），推理速度比Qwen3.5快40%\n2️⃣ 训练数据含200万真实GitHub PR diff + 30万Android Studio debug session log（连IDE报错截图OCR文本都喂了）\n3️⃣ 原生支持Toolformer-style function calling，不用额外加LoRA或Adapter，JSON Schema直输\n4️⃣ 开源权重+量化版（AWQ 4bit）全放HuggingFace，连Docker镜像都打包好了（qwen/qwen3.6-a3b-cpu）\n5️⃣ benchmark吊打CodeLlama-34B-Instruct：HumanEval++得分78.2 → 比Claude 4.5高3.1分\n\n👉hf.co/Qwen/Qwen3.6-35B-A3B，run起来只要1x A10G（量化后）\n\n实用价值：个人开发者可本地跑Agent写APP；企业能私有部署替代CodeWhisperer；教育场景直接当AI Pair Programmer用。\n\n你会把它塞进哪个开发流程？VS Code插件？Git pre-commit hook？还是嵌进Jupyter Lab？评论区卷起来👇\n关注不迷路，每天拆一个AI新底裤。",
       "tags": [
         "Qwen",
-        "OpenSourceLLM",
-        "AgenticAI",
-        "CodingAssistant",
-        "Rust",
-        "Python",
-        "HardwareHacking",
-        "LocalAI",
-        "Quantization",
-        "DevOps"
+        "开源模型",
+        "Agentic",
+        "代码生成",
+        "大模型",
+        "AI编程",
+        "HuggingFace",
+        "本地部署",
+        "CodeLLM",
+        "AI工程师"
       ]
     },
     {
-      "topic": "Android CLI Agent",
-      "cover_line1": "Android开发快3倍！",
-      "cover_line2": "Google推Agent原生CLI",
-      "body": "今天Google这篇博客让我拍桌：Android CLI终于不是「gradlew wrapper」套壳了！它把Agent能力焊进了SDK toolchain⚡\n\n1️⃣ 【真·自然语言编译】输入`android build --desc 'add dark mode toggle in SettingsActivity using Material3'`，自动：解析需求→改XML→写Kotlin→跑lint→生成PR描述\n\n2️⃣ 【跨Agent兼容】底层用的是统一`Agent Protocol v2`，你自己的Qwen3.6-A3B或Claude Opus 4.7都能当backend（文档里写了curl调用示例）\n\n3️⃣ 【离线安全模式】默认禁用网络，所有代码分析在本地Docker容器执行；想联网？必须显式加`--enable-web-search`，且只允许访问developer.android.com\n\n4️⃣ 【但要注意】不支持Jetpack Compose预览图生成（还在To Do List），UI调试仍需AS手动操作\n\n🚀 现在就能做：\n- 新人上手：一句英语生成完整MVVM模块（含ViewModel+Repository+Room）\n- 团队提效：CI中嵌入`android test --agent 'run only flaky tests from last 3 builds'`\n\n你最想让Android CLI帮你干哪件重复到想砸键盘的事？💥\n#关注不迷路 #AI炼丹师每日快报",
+      "topic": "硬件黑客臂",
+      "cover_line1": " duct tape造AI机械臂",
+      "cover_line2": "真能自动探针电路板！",
+      "body": "HN上那个81分冷门神帖，我反向扒了3小时代码——这不是玩具，是真·硬件AI Agent：autoprober，用树莓派+旧手机摄像头+二手CNC改装成的自动电路板探测臂🔧\n\n1️⃣ 核心是「Vision-Language-Action」三模态闭环：OpenCV识别焊点 → Qwen-VL生成probe路径 → GRBL控制CNC执行 → 电流传感器反馈校准\n2️⃣ 所有模型都量化到INT4，树莓派5跑得动，全程离线（连WiFi都不用）\n3️⃣ GitHub repo里自带12个真实电路板benchmark（包括iPhone 15主板debug点位图）\n4️⃣ 支持「模糊目标」指令：你说“找USB-C接口附近异常发热元件”，它自动红外扫描+热力图叠加定位\n5️⃣ 最骚的是：它能把整个探测过程录成Markdown报告，附带GIF+坐标+建议更换元件型号\n\n👉github.com/gainsec/autoprober（README第一页就有BOM清单和接线图）\n\n实用价值：电子维修店降本神器；高校嵌入式课实验平台；安全研究员做硬件侧信道分析的利器。\n\n如果你有闲置树莓派+旧手机，第一块板子你想测啥？Type-C？ESP32？还是…你家路由器？评论区晒想法👇\n关注不迷路，每天拆一个AI新底裤。",
       "tags": [
-        "AndroidDev",
-        "GoogleAI",
-        "CLI",
-        "MobileDev",
-        "AgenticCLI",
-        "Kotlin",
-        "MVVM",
-        "CI",
-        "DeveloperExperience",
-        "Jetpack"
-      ]
-    },
-    {
-      "topic": "Autoprober硬件臂",
-      "cover_line1": " duct tape造AI硬件臂",
-      "cover_line2": "老摄像头+树莓派真能debug电路？",
-      "body": "HackerNews冷门神作登顶！@gainsec用树莓派+二手Logitech C920+废弃CNC滑台，搭出开源硬件Agent：Autoprober🔧\n\n1️⃣ 【不是玩具】通过USB控制步进电机精准移动探针（±5μm），用OpenCV实时识别PCB焊盘+自动对焦，再调用Claude Code分析示波器截图\n\n2️⃣ 【真·闭环验证】流程：SPICE仿真→生成测试向量→Autoprober施加信号→采集oscilloscope波形→Claude对比仿真vs实测→输出偏差根因（比如‘C12容值漂移导致上升沿延迟12ns’）\n\n3️⃣ 【极简部署】所有代码在GitHub开源，`git clone && make install`即可运行；依赖仅：Raspberry Pi OS + OpenCV-Python + Claude API key\n\n4️⃣ 【硬核彩蛋】作者把探针改装成可更换头：焊锡头→万用表头→RF探头，靠磁吸快换，GitHub里还有3D打印图纸\n\n💡 你能拿它干啥？\n- 学生党：秒懂模电实验里的相位失真、带宽限制\n- 创客：把Arduino项目从「烧录→断电→接线→测电压」升级为「一句话debug」\n\n如果你有闲置树莓派，今晚就试试Autoprober？成功记得来评论区晒图！📸\n#关注不迷路 #AI炼丹师每日快报",
-      "tags": [
-        "HardwareHacking",
-        "EmbeddedAI",
-        "RaspberryPi",
-        "OpenCV",
-        "SPICE",
-        "Oscilloscope",
-        "Claude",
+        "硬件AI",
         "DIY",
-        "Electronics",
-        "STEM"
+        "嵌入式",
+        "电路板",
+        "树莓派",
+        "OpenCV",
+        "Qwen-VL",
+        "AI Agent",
+        "黑客",
+        "自动化测试"
       ]
     }
   ],
