@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# OpenClaw workspace state
+.omc/
+
+# 本地调试资产（test 目录）
+assets/test/
+
+# 本地环境
+.env
+*.env.local
