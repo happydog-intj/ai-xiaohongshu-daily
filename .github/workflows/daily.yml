@@ -7,7 +7,7 @@ on:
   workflow_dispatch:
     inputs:
       phase:
-        description: "执行阶段 (generate / issue / all)"
+        description: "执行阶段 (generate / issue / notify / all)"
         required: false
         default: "all"
 
@@ -66,3 +66,9 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: python scripts/generate_post.py --phase issue
+
+      # ── 6. 飞书逐条推送（每篇帖子一条消息，方便复制）────────────────────────
+      - name: Send Feishu notifications
+        env:
+          FEISHU_WEBHOOK: ${{ secrets.FEISHU_WEBHOOK }}
+        run: python scripts/generate_post.py --phase notify

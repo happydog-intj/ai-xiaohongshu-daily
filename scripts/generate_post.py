@@ -32,8 +32,9 @@ AI_KEYWORDS = {
 LLM_API_KEY  = os.environ.get("LLM_API_KEY", "")
 LLM_BASE_URL = os.environ.get("LLM_BASE_URL", "https://api.openai.com/v1").rstrip("/")
 LLM_MODEL    = os.environ.get("LLM_MODEL", "gpt-4o-mini")
-GITHUB_TOKEN = os.environ.get("GITHUB_TOKEN", "")
-GITHUB_REPO  = os.environ.get("GITHUB_REPOSITORY", "")   # owner/repo
+GITHUB_TOKEN   = os.environ.get("GITHUB_TOKEN", "")
+GITHUB_REPO    = os.environ.get("GITHUB_REPOSITORY", "")   # owner/repo
+FEISHU_WEBHOOK = os.environ.get("FEISHU_WEBHOOK", "")      # 飞书自定义机器人 Webhook URL
 
 # XHS 品牌红
 XHS_RED  = "#FF2D55"
@@ -528,7 +529,67 @@ def create_github_issue(
 
 
 # ══════════════════════════════════════════════════════════════════════════════
-# 5. 主流程
+# 5. 飞书通知
+# ══════════════════════════════════════════════════════════════════════════════
+
+def send_feishu_notify(posts: list[dict]) -> None:
+    """将每篇帖子作为独立飞书消息发出，方便逐条复制。"""
+    if not FEISHU_WEBHOOK:
+        print("  ⚠️  FEISHU_WEBHOOK not set, skipping Feishu notification")
+        return
+
+    print("📨 Sending Feishu notifications…")
+    for i, post in enumerate(posts, 1):
+        topic   = post.get("topic", f"帖子{i}")
+        line1   = post.get("cover_line1", "")
+        line2   = post.get("cover_line2", "")
+        body    = post.get("body", "")
+        tags    = post.get("tags", [])
+        tag_str = " ".join(f"#{t}" for t in tags)
+
+        # 纯文本格式，易于手动复制
+        text = (
+            f"📱 AI小红书日报 {TODAY_CN} · 帖子{i}/{len(posts)} · {topic}\n"
+            f"{'─' * 36}\n"
+            f"🎨 封面标题\n"
+            f"{line1}\n"
+            f"{line2}\n\n"
+            f"📝 正文\n"
+            f"{body}\n\n"
+            f"🏷️ 标签\n"
+            f"{tag_str}"
+        )
+
+        try:
+            resp = requests.post(
+                FEISHU_WEBHOOK,
+                json={"msg_type": "text", "content": {"text": text}},
+                timeout=10,
+            )
+            result = resp.json()
+            if resp.status_code == 200 and result.get("code") == 0:
+                print(f"  ✅ 帖子{i} ({topic}) 已发送")
+            else:
+                print(f"  ⚠️  帖子{i} 发送失败: {result.get('msg', resp.text[:120])}")
+        except Exception as e:
+            print(f"  ⚠️  帖子{i} 发送异常: {e}")
+
+
+def phase_notify() -> None:
+    print(f"\n🚀 Phase 3: Feishu Notify  [{TODAY}]\n{'─'*50}")
+
+    if not DATA_FILE.exists():
+        print("❌ posts_data.json not found. Run --phase generate first.")
+        sys.exit(1)
+
+    data  = json.loads(DATA_FILE.read_text(encoding="utf-8"))
+    posts = data["posts"]
+    send_feishu_notify(posts)
+    print("  🎉 Feishu notify done")
+
+
+# ══════════════════════════════════════════════════════════════════════════════
+# 6. 主流程
 # ══════════════════════════════════════════════════════════════════════════════
 
 DATA_FILE = Path("posts_data.json")
@@ -579,9 +640,9 @@ def main() -> None:
     parser = argparse.ArgumentParser(description="AI 小红书日报生成器")
     parser.add_argument(
         "--phase",
-        choices=["generate", "issue", "all"],
+        choices=["generate", "issue", "notify", "all"],
         default="all",
-        help="generate | issue | all",
+        help="generate | issue | notify | all",
     )
     args = parser.parse_args()
 
@@ -589,6 +650,8 @@ def main() -> None:
         phase_generate()
     if args.phase in ("issue", "all"):
         phase_issue()
+    if args.phase in ("notify", "all"):
+        phase_notify()
 
 
 if __name__ == "__main__":
