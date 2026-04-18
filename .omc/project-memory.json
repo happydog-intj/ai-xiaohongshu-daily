@@ -1,11 +1,20 @@
 {
   "version": "1.0.0",
-  "lastScanned": 1775981784720,
+  "lastScanned": 1776301534688,
   "projectRoot": "/Users/a10093140/.openclaw/workspace/ai-xiaohongshu-daily",
   "techStack": {
-    "languages": [],
+    "languages": [
+      {
+        "name": "Python",
+        "version": null,
+        "confidence": "high",
+        "markers": [
+          "requirements.txt"
+        ]
+      }
+    ],
     "frameworks": [],
-    "packageManager": null,
+    "packageManager": "pip",
     "runtime": null
   },
   "build": {
@@ -24,11 +33,85 @@
   "structure": {
     "isMonorepo": false,
     "workspaces": [],
-    "mainDirectories": [],
+    "mainDirectories": [
+      "assets",
+      "scripts"
+    ],
     "gitBranches": null
   },
   "customNotes": [],
-  "directoryMap": {},
-  "hotPaths": [],
+  "directoryMap": {
+    "assets": {
+      "path": "assets",
+      "purpose": "Static assets",
+      "fileCount": 1,
+      "lastAccessed": 1776301534679,
+      "keyFiles": []
+    },
+    "scripts": {
+      "path": "scripts",
+      "purpose": "Build/utility scripts",
+      "fileCount": 1,
+      "lastAccessed": 1776301534680,
+      "keyFiles": [
+        "generate_post.py"
+      ]
+    },
+    "assets/test": {
+      "path": "assets/test",
+      "purpose": "Test files",
+      "fileCount": 4,
+      "lastAccessed": 1776301534681,
+      "keyFiles": [
+        "cover1.png",
+        "cover2.png",
+        "cover3.png"
+      ]
+    }
+  },
+  "hotPaths": [
+    {
+      "path": "",
+      "accessCount": 7,
+      "lastAccessed": 1776481062157,
+      "type": "directory"
+    },
+    {
+      "path": "scripts/generate_post.py",
+      "accessCount": 4,
+      "lastAccessed": 1776481560516,
+      "type": "file"
+    },
+    {
+      "path": "README.md",
+      "accessCount": 2,
+      "lastAccessed": 1776481062099,
+      "type": "file"
+    },
+    {
+      "path": "posts_data.json",
+      "accessCount": 2,
+      "lastAccessed": 1776481403941,
+      "type": "file"
+    },
+    {
+      "path": "requirements.txt",
+      "accessCount": 1,
+      "lastAccessed": 1776230080522,
+      "type": "file"
+    },
+    {
+      "path": "scripts",
+      "accessCount": 1,
+      "lastAccessed": 1776230089887,
+      "type": "directory"
+    },
+    {
+      "path": "CLAUDE.md",
+      "accessCount": 1,
+      "lastAccessed": 1776481831913,
+      "type": "file"
+    }
+  ],
   "userDirectives": []
 }

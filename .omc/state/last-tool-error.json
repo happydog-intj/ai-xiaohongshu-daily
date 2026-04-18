@@ -1,0 +1,7 @@
+{
+  "tool_name": "Bash",
+  "tool_input_preview": "{\"command\":\"gh issue view 12 --json body -q '.body' | grep -E \\\"封面标题|cover_line|```\\\" | head -30\",\"description\":\"Check generated cover titles in latest issue\"}",
+  "error": "Exit code 1\n(eval):1: unmatched \"\n\n(eval):1: unmatched \"",
+  "timestamp": "2026-04-18T03:09:15.672Z",
+  "retry_count": 1
+}

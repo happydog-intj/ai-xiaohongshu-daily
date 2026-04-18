@@ -54,6 +54,50 @@
 
 ---
 
+## GitHub Trending AI 追踪（第二功能）
+
+### 触发时间
+- 北京时间 08:00 → **早报**
+- 北京时间 21:00 → **晚报**
+- 工作流：`.github/workflows/trending.yml`
+- 脚本：`scripts/trending_issue.py`
+
+### 流程
+```
+GitHub Trending 页面（每日榜 Top 10）
+    ↓ BeautifulSoup 抓取
+过滤 AI 关键词（含 llm/agent/diffusion/mcp 等 30+ 关键词）
+    ↓
+LLM 生成小红书风格帖子（同 daily 风格）
+    ↓
+创建 GitHub Issue（标签：trending + ai-content）
+    ↓
+飞书逐条推送（汇总头 + 每帖一条）
+```
+
+### Issue 结构
+1. 今日 AI 热榜总览（所有 AI 项目列表，带 Star 数）
+2. 精选帖子详情（封面标题 + 正文 + 标签）
+
+### 手动触发
+```bash
+gh workflow run "🔥 GitHub Trending AI 追踪" --field since=daily --field max_posts=4
+gh run list --workflow="🔥 GitHub Trending AI 追踪" --limit 3
+```
+
+### 本地调试
+```bash
+export LLM_API_KEY="..."
+export GITHUB_TOKEN="..."
+export GITHUB_REPOSITORY="your-username/ai-xiaohongshu-daily"
+export FEISHU_WEBHOOK="..."
+python scripts/trending_issue.py --since daily --max-posts 4
+# 仅本地测试（不发 issue / 不推飞书）
+python scripts/trending_issue.py --no-issue --no-notify
+```
+
+---
+
 ## 运维经验
 
 ### Git 推送冲突

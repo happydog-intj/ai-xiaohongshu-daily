@@ -1,0 +1,67 @@
+name: 🔥 GitHub Trending AI 追踪
+
+on:
+  schedule:
+    # 北京时间 08:00 (UTC 00:00) — 早报
+    - cron: "0 0 * * *"
+    # 北京时间 21:00 (UTC 13:00) — 晚报
+    - cron: "0 13 * * *"
+  workflow_dispatch:
+    inputs:
+      since:
+        description: "榜单周期 (daily / weekly / monthly)"
+        required: false
+        default: "daily"
+      max_posts:
+        description: "最多生成帖子数 (默认 4)"
+        required: false
+        default: "4"
+
+permissions:
+  contents: write   # 保存中间数据
+  issues: write     # 创建 Issue
+
+jobs:
+  trending-issue:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      # ── 1. Checkout ──────────────────────────────────────────────────────
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      # ── 2. Python ────────────────────────────────────────────────────────
+      - name: Set up Python 3.12
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      # ── 3. 抓取 Trending / 生成内容 / 发 Issue / 推飞书 ──────────────────
+      - name: Run Trending AI tracker
+        env:
+          LLM_API_KEY:      ${{ secrets.LLM_API_KEY }}
+          LLM_BASE_URL:     ${{ secrets.LLM_BASE_URL }}
+          LLM_MODEL:        ${{ secrets.LLM_MODEL }}
+          GITHUB_TOKEN:     ${{ secrets.GITHUB_TOKEN }}
+          FEISHU_WEBHOOK:   ${{ secrets.FEISHU_WEBHOOK }}
+        run: |
+          python scripts/trending_issue.py \
+            --since ${{ github.event.inputs.since || 'daily' }} \
+            --max-posts ${{ github.event.inputs.max_posts || '4' }}
+
+      # ── 4. 保存中间数据到仓库（可选，方便 debug）────────────────────────
+      - name: Commit trending data
+        run: |
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --local user.name  "github-actions[bot]"
+          git add trending_data.json 2>/dev/null || true
+          git diff --staged --quiet || git commit -m "chore: trending data $(date +%Y-%m-%d-%H%M) [skip ci]"
+          git pull --rebase origin master
+          git push
