@@ -8,6 +8,7 @@ GitHub Trending AI 追踪器
 import argparse
 import json
 import os
+import subprocess
 import sys
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
@@ -42,6 +43,325 @@ LLM_MODEL      = os.environ.get("LLM_MODEL", "gpt-4o-mini")
 GITHUB_TOKEN   = os.environ.get("GITHUB_TOKEN", "")
 GITHUB_REPO    = os.environ.get("GITHUB_REPOSITORY", "")
 FEISHU_WEBHOOK = os.environ.get("FEISHU_WEBHOOK", "")
+
+ASSETS_DIR = Path("assets") / TODAY
+
+
+# ══════════════════════════════════════════════════════════════════════════════
+# 0. 封面图工具函数（Pillow · 白底黑字）
+# ══════════════════════════════════════════════════════════════════════════════
+
+def find_cjk_font(bold: bool = True) -> str | None:
+    """查找可用的 CJK 字体路径"""
+    candidates = [
+        # Ubuntu/Debian (apt install fonts-noto-cjk)
+        "/usr/share/fonts/opentype/noto/NotoSansCJK-Bold.ttc",
+        "/usr/share/fonts/opentype/noto/NotoSansCJK-Regular.ttc",
+        "/usr/share/fonts/noto-cjk/NotoSansCJKsc-Bold.otf",
+        "/usr/share/fonts/noto-cjk/NotoSansCJKsc-Regular.otf",
+        # WQY (apt install fonts-wqy-zenhei / fonts-wqy-microhei)
+        "/usr/share/fonts/truetype/wqy/wqy-microhei.ttc",
+        "/usr/share/fonts/truetype/wqy/wqy-zenhei.ttc",
+        # macOS
+        "/System/Library/Fonts/PingFang.ttc",
+        "/Library/Fonts/Songti.ttc",
+        "/System/Library/Fonts/STHeiti Medium.ttc",
+        "/System/Library/Fonts/Helvetica.ttc",
+    ]
+    for p in candidates:
+        if os.path.exists(p):
+            return p
+
+    # 尝试 fc-list
+    try:
+        out = subprocess.check_output(
+            ["fc-list", ":lang=zh", "--format=%{file}\n"], timeout=5, text=True
+        )
+        fonts = [f.strip() for f in out.splitlines() if f.strip()]
+        if fonts:
+            return fonts[0]
+    except Exception:
+        pass
+    return None
+
+
+def make_summary_cover(
+    ai_repos: list[dict], slot: str, today_cn: str, out_path: Path
+) -> bool:
+    """
+    生成热榜总览封面图（1080×1080，白底黑字）。
+    顶部大标题、副标题、左侧红色竖条、repo 列表、底部品牌。
+    """
+    try:
+        from PIL import Image, ImageDraw, ImageFont
+    except ImportError:
+        print("  ⚠️  Pillow not installed, skipping summary cover")
+        return False
+
+    try:
+        W, H   = 1080, 1080
+        PAD    = 80
+        RED    = (255, 45, 85)      # #FF2D55
+        DARK   = (26, 26, 26)       # #1A1A1A
+        GRAY   = (140, 140, 140)
+        WHITE  = (255, 255, 255)
+
+        img  = Image.new("RGB", (W, H), WHITE)
+        draw = ImageDraw.Draw(img)
+
+        font_path = find_cjk_font()
+
+        def get_font(size: int):
+            if font_path:
+                try:
+                    return ImageFont.truetype(font_path, size)
+                except Exception:
+                    pass
+            return ImageFont.load_default(size=size)
+
+        # ── 左侧红色竖条装饰 ──
+        draw.rectangle([PAD - 12, PAD, PAD - 4, H - PAD], fill=RED)
+
+        # ── 顶部大标题 ──
+        title_text = f"🔥 GitHub Trending AI {slot}"
+        f_title = get_font(60)
+        bbox = draw.textbbox((0, 0), title_text, font=f_title)
+        tw = bbox[2] - bbox[0]
+        draw.text(((W - tw) // 2, PAD + 10), title_text, font=f_title, fill=RED)
+
+        # ── 副标题 ──
+        sub_text = f"· {today_cn} ·"
+        f_sub = get_font(32)
+        bbox = draw.textbbox((0, 0), sub_text, font=f_sub)
+        tw = bbox[2] - bbox[0]
+        sub_y = PAD + 10 + 60 + 20
+        draw.text(((W - tw) // 2, sub_y), sub_text, font=f_sub, fill=GRAY)
+
+        # ── repo 列表 ──
+        f_num  = get_font(28)
+        f_text = get_font(28)
+        list_y = sub_y + 32 + 30
+        row_h  = 48
+        right_pad = PAD + 20   # 右边距
+
+        def truncate_to_width(text: str, font, max_px: int) -> str:
+            """按像素宽度截断文本，超出则加 …"""
+            bbox = draw.textbbox((0, 0), text, font=font)
+            if bbox[2] - bbox[0] <= max_px:
+                return text
+            while text:
+                text = text[:-1]
+                candidate = text.rstrip() + "…"
+                bbox = draw.textbbox((0, 0), candidate, font=font)
+                if bbox[2] - bbox[0] <= max_px:
+                    return candidate
+            return "…"
+
+        def extract_star_count(stars_today: str) -> str:
+            """'447 stars today' → '447'"""
+            import re
+            m = re.search(r"[\d,]+", stars_today)
+            return m.group(0) if m else stars_today
+
+        for idx, repo in enumerate(ai_repos[:8], 1):
+            name        = repo.get("name", "")
+            stars_today = repo.get("stars_today", "")
+            desc        = repo.get("description", "")
+
+            # 序号（红色）
+            num_str  = f"{idx}."
+            draw.text((PAD + 20, list_y), num_str, font=f_num, fill=RED)
+            bbox_num = draw.textbbox((0, 0), num_str, font=f_num)
+            num_w    = bbox_num[2] - bbox_num[0]
+
+            # 可用像素宽度
+            x_start = PAD + 20 + num_w + 8
+            max_w   = W - x_start - right_pad
+
+            # 组装行文本：name + 🔺N stars + desc
+            star_count = extract_star_count(stars_today)
+            stars_str  = f"  ▲{star_count}" if star_count else ""
+            desc_str   = f"  {desc}" if desc else ""
+            line_text  = f"{name}{stars_str}{desc_str}"
+            line_text  = truncate_to_width(line_text, f_text, max_w)
+
+            draw.text((x_start, list_y), line_text, font=f_text, fill=DARK)
+            list_y += row_h
+
+        # ── 底部品牌 ──
+        brand = "#AI炼丹师"
+        f_brand = get_font(26)
+        bbox = draw.textbbox((0, 0), brand, font=f_brand)
+        draw.text(
+            ((W - (bbox[2] - bbox[0])) // 2, H - PAD - 30),
+            brand, font=f_brand, fill=GRAY,
+        )
+
+        out_path.parent.mkdir(parents=True, exist_ok=True)
+        img.save(str(out_path), "PNG")
+        return True
+
+    except Exception as e:
+        print(f"  ⚠️  make_summary_cover failed: {e}")
+        return False
+
+
+def make_post_body_cover(post: dict, index: int, out_path: Path) -> bool:
+    """
+    生成帖子正文封面图（1080×1080，白底黑字）。
+    顶部序号徽章、两行封面标题、分割线、正文要点、底部品牌。
+    """
+    try:
+        from PIL import Image, ImageDraw, ImageFont
+    except ImportError:
+        print("  ⚠️  Pillow not installed, skipping post body cover")
+        return False
+
+    try:
+        W, H   = 1080, 1080
+        PAD    = 80
+        RED    = (255, 45, 85)
+        DARK   = (26, 26, 26)
+        GRAY   = (140, 140, 140)
+        LGRAY  = (240, 240, 240)
+        WHITE  = (255, 255, 255)
+
+        img  = Image.new("RGB", (W, H), WHITE)
+        draw = ImageDraw.Draw(img)
+
+        font_path = find_cjk_font()
+
+        def get_font(size: int):
+            if font_path:
+                try:
+                    return ImageFont.truetype(font_path, size)
+                except Exception:
+                    pass
+            return ImageFont.load_default(size=size)
+
+        max_text_w = W - PAD * 2 - 30
+
+        def fit_font(text: str, base_size: int, min_size: int = 48):
+            """自动缩小字体直到文本适合宽度"""
+            size = base_size
+            while size >= min_size:
+                f = get_font(size)
+                bbox = draw.textbbox((0, 0), text, font=f)
+                tw = bbox[2] - bbox[0]
+                if tw <= max_text_w:
+                    return f, tw, size
+                size -= 6
+            f = get_font(min_size)
+            bbox = draw.textbbox((0, 0), text, font=f)
+            return f, bbox[2] - bbox[0], min_size
+
+        # ── 左侧红色竖条装饰 ──
+        draw.rectangle([PAD - 12, PAD, PAD - 4, H - PAD], fill=RED)
+
+        # ── 顶部序号徽章 ──
+        badge_r = 36
+        bx, by  = PAD + 30, PAD + 20
+        draw.ellipse([bx, by, bx + badge_r * 2, by + badge_r * 2], fill=RED)
+        draw.text(
+            (bx + badge_r, by + badge_r), str(index),
+            font=get_font(42), fill=WHITE, anchor="mm",
+        )
+
+        # ── 封面两行标题（居中） ──
+        line1 = post.get("cover_line1", post.get("topic", "AI 热点"))
+        line2 = post.get("cover_line2", TODAY_CN)
+
+        title_y = PAD + badge_r * 2 + 50
+        f1, tw1, sz1 = fit_font(line1, 90)
+        draw.text(((W - tw1) // 2, title_y), line1, font=f1, fill=DARK)
+
+        title_y += sz1 + 20
+        f2, tw2, sz2 = fit_font(line2, 68)
+        draw.text(((W - tw2) // 2, title_y), line2, font=f2, fill=DARK)
+
+        # ── 分割线 ──
+        line_y = title_y + sz2 + 30
+        draw.line([PAD + 30, line_y, W - PAD - 30, line_y], fill=LGRAY, width=2)
+
+        # ── 正文要点提取 ──
+        EMOJI_NUMS = ("1️⃣", "2️⃣", "3️⃣", "4️⃣", "5️⃣")
+        body       = post.get("body", "")
+        body_lines = body.split("\n")
+
+        key_lines = [ln for ln in body_lines if any(ln.startswith(e) for e in EMOJI_NUMS)]
+
+        if key_lines:
+            points = []
+            for ln in key_lines[:4]:
+                # 去掉首个 emoji（unicode emoji 可能占多个字符，按空格切）
+                stripped = ln
+                for e in EMOJI_NUMS:
+                    if stripped.startswith(e):
+                        stripped = stripped[len(e):].lstrip()
+                        break
+                if len(stripped) > 24:
+                    stripped = stripped[:24] + "…"
+                points.append(stripped)
+        else:
+            # 无 emoji 序号行，取 body 前 3 行
+            points = [ln.strip() for ln in body_lines if ln.strip()][:3]
+            points = [p[:24] + "…" if len(p) > 24 else p for p in points]
+
+        f_point = get_font(30)
+        pt_y    = line_y + 24
+        pt_gap  = 30 + 12    # 字号 + 行间距
+
+        for pt in points:
+            draw.text((PAD + 30, pt_y), f"• {pt}", font=f_point, fill=DARK)
+            pt_y += pt_gap
+
+        # ── 底部：品牌 + 日期 ──
+        footer_y = H - PAD - 60
+        brand    = "AI 小红书日报"
+        f_brand  = get_font(32)
+        bbox     = draw.textbbox((0, 0), brand, font=f_brand)
+        draw.text(((W - (bbox[2] - bbox[0])) // 2, footer_y), brand, font=f_brand, fill=RED)
+
+        date_str = f"· {TODAY_CN} ·"
+        f_date   = get_font(26)
+        bbox     = draw.textbbox((0, 0), date_str, font=f_date)
+        draw.text(
+            ((W - (bbox[2] - bbox[0])) // 2, footer_y + 40),
+            date_str, font=f_date, fill=GRAY,
+        )
+
+        # ── 右下角 watermark ──
+        watermark = "#AI炼丹师"
+        f_wm      = get_font(26)
+        bbox      = draw.textbbox((0, 0), watermark, font=f_wm)
+        draw.text(
+            (W - PAD - (bbox[2] - bbox[0]), H - PAD - 30),
+            watermark, font=f_wm, fill=GRAY,
+        )
+
+        out_path.parent.mkdir(parents=True, exist_ok=True)
+        img.save(str(out_path), "PNG")
+        return True
+
+    except Exception as e:
+        print(f"  ⚠️  make_post_body_cover failed: {e}")
+        return False
+
+
+def get_default_branch(owner: str, repo: str) -> str:
+    """获取仓库默认分支名（master 或 main）。"""
+    try:
+        resp = requests.get(
+            f"https://api.github.com/repos/{owner}/{repo}",
+            headers={
+                "Authorization": f"Bearer {GITHUB_TOKEN}",
+                "Accept":        "application/vnd.github.v3+json",
+            },
+            timeout=10,
+        )
+        return resp.json().get("default_branch", "main")
+    except Exception:
+        return "main"
 
 
 # ══════════════════════════════════════════════════════════════════════════════
@@ -299,7 +619,14 @@ def _ensure_labels(owner: str, repo: str) -> None:
             pass
 
 
-def build_issue_body(posts: list[dict], all_repos: list[dict], ai_repos: list[dict]) -> str:
+def build_issue_body(
+    posts: list[dict],
+    all_repos: list[dict],
+    ai_repos: list[dict],
+    image_paths: list[str | None] | None = None,
+    branch: str = "main",
+) -> str:
+    image_paths = image_paths or []
     parts = [
         f"# 🔥 GitHub Trending AI {SLOT} · {TODAY_CN}",
         "",
@@ -310,6 +637,12 @@ def build_issue_body(posts: list[dict], all_repos: list[dict], ai_repos: list[di
         "## 📊 今日 AI 热榜总览",
         "",
     ]
+
+    # 总览封面图
+    summary_img = image_paths[0] if image_paths else None
+    if summary_img and GITHUB_REPO:
+        raw_url = f"https://raw.githubusercontent.com/{GITHUB_REPO}/{branch}/{summary_img}"
+        parts += [f"![trending-summary]({raw_url})", ""]
 
     # 全部 AI 项目汇总表格
     for i, repo in enumerate(ai_repos, 1):
@@ -326,7 +659,9 @@ def build_issue_body(posts: list[dict], all_repos: list[dict], ai_repos: list[di
 
     parts += ["---", ""]
 
-    # 精选帖子详情
+    # 精选帖子详情（image_paths[1:] 对应各帖子图，index 0 是 summary）
+    post_imgs = image_paths[1:] if len(image_paths) > 1 else []
+
     for i, post in enumerate(posts, 1):
         repo_link = f"https://github.com/{post.get('repo', '')}" if post.get("repo") else ""
         line1     = post.get("cover_line1", "")
@@ -339,6 +674,14 @@ def build_issue_body(posts: list[dict], all_repos: list[dict], ai_repos: list[di
 
         # 封面标题
         parts += ["**📌 封面标题：**", "```", line1, line2, "```", ""]
+
+        # 帖子正文封面图
+        post_img = post_imgs[i - 1] if i - 1 < len(post_imgs) else None
+        if post_img and GITHUB_REPO:
+            raw_url = (
+                f"https://raw.githubusercontent.com/{GITHUB_REPO}/{branch}/{post_img}"
+            )
+            parts += [f"**🖼️ 封面图：**", f"![post{i}]({raw_url})", ""]
 
         # 正文
         parts += ["**📝 正文：**", "", post.get("body", ""), ""]
@@ -357,7 +700,10 @@ def build_issue_body(posts: list[dict], all_repos: list[dict], ai_repos: list[di
 
 
 def create_github_issue(
-    posts: list[dict], all_repos: list[dict], ai_repos: list[dict]
+    posts: list[dict],
+    all_repos: list[dict],
+    ai_repos: list[dict],
+    image_paths: list[str | None] | None = None,
 ) -> str | None:
     if not GITHUB_TOKEN or not GITHUB_REPO:
         print("  ⚠️  GITHUB_TOKEN / GITHUB_REPOSITORY not set, skipping")
@@ -365,8 +711,10 @@ def create_github_issue(
 
     owner, repo = GITHUB_REPO.split("/", 1)
     _ensure_labels(owner, repo)
+    branch = get_default_branch(owner, repo)
+    print(f"  🌿 Default branch: {branch}")
 
-    body    = build_issue_body(posts, all_repos, ai_repos)
+    body    = build_issue_body(posts, all_repos, ai_repos, image_paths=image_paths, branch=branch)
     headers = {
         "Authorization": f"Bearer {GITHUB_TOKEN}",
         "Accept":        "application/vnd.github.v3+json",
@@ -496,23 +844,47 @@ def main() -> None:
         print("❌ No posts generated. Exiting.")
         sys.exit(1)
 
-    # 4. 保存中间数据
+    # 4. 生成封面图
+    print("🎨 Generating trending cover images (Pillow)…")
+    trending_dir  = ASSETS_DIR / "trending"
+    image_paths: list[str | None] = []
+
+    # 4a. 热榜总览封面图
+    summary_path = trending_dir / "summary.png"
+    ok = make_summary_cover(ai_repos, SLOT, TODAY_CN, summary_path)
+    if ok:
+        print(f"  ✅ summary.png → {summary_path}")
+        image_paths.append(str(summary_path))
+    else:
+        image_paths.append(None)
+
+    # 4b. 各帖子正文封面图
+    for i, post in enumerate(posts, 1):
+        post_path = trending_dir / f"post{i}.png"
+        ok = make_post_body_cover(post, i, post_path)
+        if ok:
+            print(f"  ✅ post{i}.png → {post_path}")
+            image_paths.append(str(post_path))
+        else:
+            image_paths.append(None)
+
+    # 5. 保存中间数据
     DATA_FILE.write_text(
         json.dumps(
             {"date": TODAY, "slot": SLOT, "all_repos": all_repos,
-             "ai_repos": ai_repos, "posts": posts},
+             "ai_repos": ai_repos, "posts": posts, "image_paths": image_paths},
             ensure_ascii=False, indent=2,
         ),
         encoding="utf-8",
     )
     print(f"💾 Saved {DATA_FILE}")
 
-    # 5. 创建 GitHub Issue
+    # 6. 创建 GitHub Issue
     issue_url = None
     if not args.no_issue:
-        issue_url = create_github_issue(posts, all_repos, ai_repos)
+        issue_url = create_github_issue(posts, all_repos, ai_repos, image_paths=image_paths)
 
-    # 6. 飞书通知
+    # 7. 飞书通知
     if not args.no_notify:
         send_feishu_notify(posts, issue_url)
 

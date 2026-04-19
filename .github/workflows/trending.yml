@@ -61,7 +61,7 @@ jobs:
         run: |
           git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git config --local user.name  "github-actions[bot]"
-          git add trending_data.json 2>/dev/null || true
-          git diff --staged --quiet || git commit -m "chore: trending data $(date +%Y-%m-%d-%H%M) [skip ci]"
+          git add trending_data.json assets/ 2>/dev/null || true
+          git diff --staged --quiet || git commit -m "chore: trending data & images $(date +%Y-%m-%d-%H%M) [skip ci]"
           git pull --rebase origin master
           git push
