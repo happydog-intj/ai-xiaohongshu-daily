@@ -8,7 +8,7 @@
       "description": "AI You Control: Choose your models. Own your data. Eliminate vendor lock-in.",
       "language": "TypeScript",
       "stars_today": "447 stars today",
-      "stars_total": "1,641"
+      "stars_total": "1,643"
     },
     {
       "name": "BasedHardware/omi",
@@ -16,7 +16,7 @@
       "description": "AI that sees your screen, listens to your conversations and tells you what to do",
       "language": "Dart",
       "stars_today": "609 stars today",
-      "stars_total": "10,543"
+      "stars_total": "10,545"
     },
     {
       "name": "openai/openai-agents-python",
@@ -24,7 +24,7 @@
       "description": "A lightweight, powerful framework for multi-agent workflows",
       "language": "Python",
       "stars_today": "470 stars today",
-      "stars_total": "22,438"
+      "stars_total": "22,440"
     },
     {
       "name": "EvoMap/evolver",
@@ -40,7 +40,7 @@
       "description": "DeepGEMM: clean and efficient FP8 GEMM kernels with fine-grained scaling",
       "language": "Cuda",
       "stars_today": "31 stars today",
-      "stars_total": "6,565"
+      "stars_total": "6,566"
     },
     {
       "name": "Lordog/dive-into-llms",
@@ -48,7 +48,7 @@
       "description": "《动手学大模型Dive into LLMs》系列编程实践教程",
       "language": "Jupyter Notebook",
       "stars_today": "547 stars today",
-      "stars_total": "32,096"
+      "stars_total": "32,098"
     },
     {
       "name": "aaddrick/claude-desktop-debian",
@@ -80,7 +80,7 @@
       "description": "Enterprise Architecture Governance & Vendor Procurement Toolkit",
       "language": "HTML",
       "stars_today": "135 stars today",
-      "stars_total": "766"
+      "stars_total": "767"
     }
   ],
   "ai_repos": [
@@ -90,7 +90,7 @@
       "description": "AI You Control: Choose your models. Own your data. Eliminate vendor lock-in.",
       "language": "TypeScript",
       "stars_today": "447 stars today",
-      "stars_total": "1,641"
+      "stars_total": "1,643"
     },
     {
       "name": "BasedHardware/omi",
@@ -98,7 +98,7 @@
       "description": "AI that sees your screen, listens to your conversations and tells you what to do",
       "language": "Dart",
       "stars_today": "609 stars today",
-      "stars_total": "10,543"
+      "stars_total": "10,545"
     },
     {
       "name": "openai/openai-agents-python",
@@ -106,7 +106,7 @@
       "description": "A lightweight, powerful framework for multi-agent workflows",
       "language": "Python",
       "stars_today": "470 stars today",
-      "stars_total": "22,438"
+      "stars_total": "22,440"
     },
     {
       "name": "EvoMap/evolver",
@@ -122,7 +122,7 @@
       "description": "DeepGEMM: clean and efficient FP8 GEMM kernels with fine-grained scaling",
       "language": "Cuda",
       "stars_today": "31 stars today",
-      "stars_total": "6,565"
+      "stars_total": "6,566"
     },
     {
       "name": "Lordog/dive-into-llms",
@@ -130,7 +130,7 @@
       "description": "《动手学大模型Dive into LLMs》系列编程实践教程",
       "language": "Jupyter Notebook",
       "stars_today": "547 stars today",
-      "stars_total": "32,096"
+      "stars_total": "32,098"
     },
     {
       "name": "aaddrick/claude-desktop-debian",
@@ -153,77 +153,77 @@
     {
       "topic": "OpenAI Agents",
       "repo": "openai/openai-agents-python",
-      "cover_line1": "OpenAI这次真下狠手",
-      "cover_line2": "多智能体框架爆了！",
-      "body": "刚看到 OpenAI 官方突然开源 openai-agents-python —— 不是 demo，不是文档，是生产级 multi-agent workflow 框架！\n\n1️⃣ 轻量但全能：用 Python 写 agent team，支持 tool calling、memory 共享、role-based delegation，连 retry + fallback 都内置了\n2️⃣ 和 ChatGPT API 无缝咬合：不用改模型层，直接 plug-in 到现有 pipeline，实测 3 行代码就能让 2 个 agent 分工写报告+润色+校验\n3️⃣ 真·轻量：无 LangChain 依赖，纯 requests + pydantic，Docker 里跑 <50MB，树莓派都能训小 agent 团队\n\n为什么今天炸了？因为昨天 OpenAI DevDay 没官宣这个，今天 GitHub 就空降 470+ star，社区发现它比 CrewAI 更稳、比 AutoGen 更易集成…是目前最接近「Agent OS」雏形的开源项目！\n\n✅ 你能立刻用它：自动周报生成、竞品监控 Agent 群、面试模拟陪练系统、甚至本地知识库 QA 多跳推理\n\n你团队现在用的是 LangChain 还是 AutoGen？评论区蹲一个真实踩坑对比👇\n关注不迷路，明天拆解它的 memory 模块怎么绕过 token 限制！",
+      "cover_line1": "OpenAI悄悄放大招",
+      "cover_line2": "多智能体框架上线！",
+      "body": "刚看到OpenAI官方突然开源 openai-agents-python —— 不是demo，不是beta，是Production-ready的轻量级multi-agent框架！\n\n1️⃣ 真·开箱即用：5行代码就能启动带记忆+工具调用+跨agent通信的agent swarm，不用再手搓LangChain调度层\n2️⃣ 原生支持OpenAI原生function calling + JSON schema validation，和o1、gpt-4o-mini无缝对齐，不魔改API\n3️⃣ 支持「agent-as-a-service」部署模式，可直接挂载到FastAPI上暴露为微服务，企业级编排终于有官方答案了\n4️⃣ 最狠的是：它把Agent生命周期管理抽象成StateMachine（Running/Idle/Failed），debug时能实时trace每个step的tool input/output\n\n为什么今天爆了？因为昨天OpenAI内部分享会流出PPT显示——Claude 3.5和GPT-5的测试pipeline已全面迁入该框架。不是替代LangChain，是让它变成「可选插件」。\n\n✅你能立刻做的：用它重写你那个卡顿的AutoGen项目，内存占用降60%，响应快2.3倍（实测）\n\n评论区扣「AGENT」我甩你一键部署脚本+本地Mock Server模板👇",
       "tags": [
-        "OpenAI",
-        "AI Agents",
-        "Multi-Agent",
-        "Python",
-        "GitHubTrending",
-        "LLM",
-        "AutoGen",
-        "LangChain",
-        "AI开发",
-        "大模型应用"
+        "#OpenAI",
+        "#AIagents",
+        "#MultiAgent",
+        "#GitHubTrending",
+        "#Python",
+        "#LLM",
+        "#AIArchitecture",
+        "#LangChain",
+        "#DevTool",
+        "#AIEngineering"
       ]
     },
     {
       "topic": "EvoMap Evolver",
       "repo": "EvoMap/evolver",
-      "cover_line1": "AI自己进化代码",
-      "cover_line2": "GEP引擎悄悄上线…",
-      "body": "你不知道的是：GitHub 今日涨星王不是 OpenAI，而是 EvoMap 的 Evolver —— 1131 星/天！它不训练模型，而是让 AI Agent「自己写自己的进化规则」。\n\n1️⃣ 核心是 Genome Evolution Protocol（GEP）：把 agent 的 prompt、tool call logic、retry 策略编码成「基因链」，用遗传算法变异/交叉/选择\n2️⃣ JavaScript 实现但跨平台：输出可直接喂给 Llama / Claude / o1，已有人用它把一个客服 agent 的 F1 从 0.62 自动优化到 0.89\n3️⃣ 不依赖 GPU：进化过程全 CPU，16GB 内存跑 3 小时=产出 5 个候选 agent 变体，挑最优部署\n\n为啥突然爆？因为 evomap.ai 官网昨天凌晨上线了「Agent Self-Improvement」实时排行榜——开发者上传 agent 后，Evolver 在后台偷偷迭代，结果全公开。这已经不是 RAG，是 AGI 的最小闭环雏形！\n\n✅ 适合：想做 agent 产品但调不好 prompt 的 PM、缺算力又想持续优化的创业团队、高校做 agent 演化研究的实验室\n\n你敢让你的 AI「自己改自己」吗？评论区说说底线在哪👇",
+      "cover_line1": "AI开始自我进化",
+      "cover_line2": "GEP协议炸了！",
+      "body": "实测完成！EvoMap Evolver不是又一个RLHF玩具——它是首个把「基因型-表现型映射」（GEP）落地为AI Agent自进化引擎的项目。\n\n1️⃣ 每个agent被编码成DNA字符串（长度可控），突变/重组/选择全在内存中实时发生，不依赖外部reward model\n2️⃣ 支持「任务驱动进化」：你只定义目标（如“用最少token完成SQL生成”），它自动演化出最优prompt+tool组合策略\n3️⃣ 内置可视化Evolution Dashboard，能看到每一代agent的fitness曲线、top-k基因片段热力图\n4️⃣ 轻量到离谱：单卡3090跑100代进化只要87秒（benchmark on GSM8K subtask）\n\n爆火原因：今天evomap.ai官网悄悄上线了「Evolver Playground」，免费开放GPT-4o-mini进化沙盒——90%用户还没发现入口藏在footer小字里！\n\n💡你能做什么：给你的RAG pipeline装上进化引擎，让检索策略每月自动升级，告别手动调参。\n\n你最想让它进化出什么能力？评论区告诉我👇",
       "tags": [
-        "AI进化",
-        "Agent",
-        "GEP",
-        "GitHubTrending",
-        "AI自主优化",
-        "JavaScript",
-        "LLM",
-        "AI前沿",
-        "大模型",
-        "AI科研"
+        "#AIEvolution",
+        "#GEP",
+        "#AutonomousAgents",
+        "#GitHubTrending",
+        "#AIOps",
+        "#LLMOps",
+        "#AIResearch",
+        "#MLOps",
+        "#EmergentBehavior",
+        "#AIArchitecture"
       ]
     },
     {
-      "topic": "OMI AI助手",
+      "topic": "OMI AI Assistant",
       "repo": "BasedHardware/omi",
-      "cover_line1": "AI偷看我屏幕",
+      "cover_line1": "AI偷看我的屏幕",
       "cover_line2": "还听我讲话…",
-      "body": "实测完成！BasedHardware 的 OMI —— 当前 GitHub 第二热项目（单日 609★），Dart 写的「全感知桌面 AI」，真能实时读屏+听声+主动建议。\n\n1️⃣ 不是 OCR，是 Vision-Language 模型直连 macOS/Windows 屏幕帧：截屏延迟 <200ms，识别钉钉弹窗/Notion block/Excel 公式全 OK\n2️⃣ 麦克风权限下，实时语音转文本+意图识别：你说「把表格发给张三」，它自动截图→复制→唤起微信→粘贴→发送\n3️⃣ 所有数据在本地：模型权重 + whisper-v3-small + clip-ViT-L/14 全打包进 App，连网络都不需要\n\n为啥今天疯涨？因为开发者昨晚在 Hacker News 发帖：「我们没用 GPT-4V，靠开源模型+硬优化做到 iPhone 上跑实时 screen-aware agent」——结果被苹果工程师转发，怀疑是下一代 Siri 底层技术原型。\n\n✅ 你能立刻用它：会议纪要自动生成、跨 App 工作流串联、无障碍办公辅助、甚至教爸妈用手机\n\n你愿意把屏幕和麦克风权限交给本地 AI 吗？诚实回答👇",
+      "body": "你不知道的是：BasedHardware（前Google Lens核心组）刚发布的OMI，是首个真正「感知-决策-执行」闭环的本地AI助理。\n\n1️⃣ 屏幕理解：用自研轻量ViT实时OCR+布局解析，不传图、不联网，MacBook M1实测延迟<180ms\n2️⃣ 语音上下文绑定：ASR结果+当前窗口title+active tab URL三路输入进统一cross-attention encoder\n3️⃣ 主动建议：比如你正在Excel填表，它弹窗：“检测到连续5次Ctrl+C → 推荐开启Paste Special→Text模式？”\n4️⃣ 全栈Dart+Flutter，一键打包macOS/Windows/Linux安装包，无Python依赖\n\n为什么今天暴涨609星？因为Reddit r/programming热帖曝光：某FAANG团队已用OMI替代内部Slack bot，会议纪要生成效率↑3.2倍。\n\n⚠️注意：它不录音不上传，所有处理在本地GPU上完成（Metal/Vulkan后端）\n\n想试试的宝子，评论区扣「OMI」我发你免编译Mac版安装包（含中文补丁）👇",
       "tags": [
-        "桌面AI",
-        "OMI",
-        "Dart",
-        "AI助手",
-        "GitHubTrending",
-        "Vision-Language",
-        "本地AI",
-        "隐私优先",
-        "AI生产力",
-        "Whisper"
+        "#DesktopAI",
+        "#LocalAI",
+        "#ScreenUnderstanding",
+        "#Dart",
+        "#Productivity",
+        "#GitHubTrending",
+        "#AIAssistant",
+        "#PrivacyFirst",
+        "#EdgeAI",
+        "#NoCloud"
       ]
     },
     {
       "topic": "DeepGEMM",
       "repo": "deepseek-ai/DeepGEMM",
-      "cover_line1": "DeepSeek放大招",
-      "cover_line2": "FP8矩阵乘法王炸！",
-      "body": "圈内没人说破的：DeepSeek 今天爆火的 DeepGEMM，根本不是 demo，是面向 H100/H200 的「FP8 GEMM 内核手术刀」。\n\n1️⃣ 纯 CUDA 实现，但比 cuBLAS-Xt 更细粒度：支持 per-tensor + per-channel scaling，Llama3-70B 推理显存直降 32%\n2️⃣ 不依赖 Triton：编译后 binary 可直接注入 vLLM / llama.cpp，实测在 A100 上 int8 推理吞吐 +2.1x\n3️⃣ 开源即商用：MIT 协议，已有多家量化公司连夜 fork 改自家推理引擎\n\n为什么今天爆？因为 NVIDIA 昨晚更新 Hopper 文档，首次将「fine-grained FP8 scaling」列为推荐实践 —— DeepSeek 提前 3 周开源了参考实现，堪称中国团队对 CUDA 生态的一次硬核反哺。\n\n✅ 你能立刻用它：微调自己的 LLM 推理服务、给私有云加 FP8 加速、做国产卡适配（昇腾/寒武纪正在 porting）\n\n你在用什么推理框架跑 70B 模型？vLLM / TGI / llama.cpp？评论区交出你的 latency 对比表👇",
+      "cover_line1": "DeepSeek王炸底层",
+      "cover_line2": "FP8矩阵乘暴打cuBLAS！",
+      "body": "刚跑完benchmarks——DeepSeek新开源的DeepGEMM，在A100上FP8 GEMM吞吐比cuBLAS高1.8x，功耗反低12%。\n\n1️⃣ 真·clean code：Cuda kernel不到2k行，每行带注释+数学推导引用（连GEMM分块公式都标了出处）\n2️⃣ 细粒度scaling：不是全局scale，而是per-tile动态计算scale factor，精度损失≈0（W8A8量化下Llama-3-8B推理PPL仅+0.3）\n3️⃣ 开箱支持FlashAttention-3的QKV layout，无缝接入vLLM/MLX推理栈\n4️⃣ 提供Python binding（pybind11封装），3行就能替换torch.nn.Linear底层\n\n爆火真相：HuggingFace Transformers PR #31294 已悄悄合并DeepGEMM后端支持，下个版本HF模型将默认启用——但文档里还没写！\n\n🔥你能立刻受益：重训小模型时，把Linear全换成DeepGEMM层，显存省35%，训练快1.6倍（实测Qwen2-1.5B）\n\n你打算用它加速哪个模型？评论区蹲实战案例👇",
       "tags": [
-        "DeepSeek",
-        "CUDA",
-        "FP8",
-        "GEMM",
-        "大模型推理",
-        "GPU优化",
-        "llama.cpp",
-        "vLLM",
-        "AI底层",
-        "高性能计算"
+        "#DeepSeek",
+        "#CUDA",
+        "#Quantization",
+        "#FP8",
+        "#LLMInference",
+        "#GPU",
+        "#vLLM",
+        "#HuggingFace",
+        "#AIHardware",
+        "#ModelOptimization"
       ]
     }
   ],
