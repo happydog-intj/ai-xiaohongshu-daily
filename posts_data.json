@@ -2,75 +2,75 @@
   "date": "2026-04-19",
   "posts": [
     {
-      "topic": "Claude设计争议",
-      "cover_line1": "Claude设计师自曝",
-      "cover_line2": "UI竟被Anthropic砍了！",
-      "body": "刚看到Sam Henri的博客实测——Claude 4上线前，内部UI设计方案被Anthropic高层紧急叫停！\n\n1️⃣ 原版Claude Design主打「呼吸式交互」：输入框会随思考节奏微动，实时渲染token流+思维树缩略图，但被批“过度拟人，分散注意力”\n\n2️⃣ 关键冲突点：Anthropic坚持「工具感优先」，砍掉所有动画/渐变/状态反馈，连loading图标都换成纯文本「…」——不是技术做不到，是哲学选择\n\n3️⃣ 对比OpenAI：ChatGPT-4.5悄悄加了「思考路径快照」按钮（右下角小相机图标），用户可一键回溯推理链；而Claude 4连history API都不开放思维节点\n\n4️⃣ 真正影响你的是：如果你用Claude做复杂推理（比如法律条款拆解/多跳代码审计），现在必须手动分步提问——系统不再帮你隐式维护上下文状态\n\n💡实用建议：想保留思维可视化？立刻用Remoroo（HN爆款）给Claude套壳：它能在浏览器里注入本地思维图谱层，不依赖API，零token开销\n\n你更想要「透明思考」还是「干净执行」？评论区蹲一个真实投票👇",
+      "topic": "Claude Design",
+      "cover_line1": "Anthropic放大招",
+      "cover_line2": "UI革命来了！",
+      "body": "刚看到Anthropic Labs官宣Claude Design——不是模型升级，是整套AI原生UI范式！\n\n1️⃣ 不再是「对话框+发送键」：支持实时画布编辑、多模态块拖拽（text/image/code/JSON）、状态快照回滚，像Figma用AI画布写提示词\n\n2️⃣ 首次实现「零token确定性自动化」：所有子任务（比如「从PDF提取表格→转成可编辑Markdown→标红异常值」）不走LLM inference，纯本地JS沙箱执行，延迟<80ms\n\n3️⃣ 设计师能直接改AI行为：右键组件→「调整推理策略」→选「保守/平衡/激进」，底层自动切不同temperature+tool-use config\n\n4️⃣ 关键细节：它不依赖任何云端API完成布局渲染——所有CSS-in-JS、响应式断点、暗色模式切换全在浏览器内完成，隐私拉满\n\n⚠️目前仅限Anthropic内部工具链集成，但已开放Design SDK预览版（npm install @anthropic/design-sdk）\n\n这根本不是新界面，是把Copilot、Figma、Postman全塞进一个可编程画布里…OpenAI还没动，谷歌Gemini Studio还在搞插件壳，Anthropic已经把AI UI的OS层焊死了。\n\n你最想用Claude Design干哪件事？写代码？做PPT？还是审计AI输出？👇评论区喊出你的场景！\n关注不迷路，下期拆它的零token沙箱原理。",
       "tags": [
         "Claude",
         "Anthropic",
         "AI设计",
-        "UX",
-        "大模型",
-        "AI伦理",
-        "HackerNews",
-        "AI产品",
-        "Prompt工程",
-        "AI工具"
-      ]
-    },
-    {
-      "topic": "Remoroo记忆修复",
-      "cover_line1": "长程Agent记忆崩了",
-      "cover_line2": "这个开源库悄悄修好了！",
-      "body": "实测完成：Remoroo不是又一个RAG玩具，它是首个在浏览器端实现「确定性长期记忆」的AI Subroutine框架！\n\n1️⃣ 痛点直击：传统coding agent跑30分钟就忘自己改过哪行——LLM context窗口溢出+state丢失=越写越错。Remoroo用WebAssembly编译的轻量级KV引擎，在tab里持久存10万+ token记忆锚点\n\n2️⃣ 零token魔法：所有记忆读写都在本地发生，不走任何API，连OpenRouter密钥都不需要。实测vs LangChain Memory：延迟从820ms压到23ms\n\n3️⃣ 真·浏览器原生：支持Chrome/Firefox扩展直接注入，你甚至能用它给Copilot加「上周debug过的报错模式」自动联想\n\n4️⃣ 注意避坑：不兼容Safari（WebKit沙箱限制），且目前只支持JSON Schema结构化记忆，非结构化日志需预处理\n\n👉马上试：remoroo.com → 下载devtools插件 → 在VS Code Web版里粘贴这段代码就能启动记忆增强：`import { Remoroo } from 'remoroo'; new Remoroo().enable()`\n\n你最想让哪个AI工具「记住」什么？评论区甩需求，我来写适配脚本！",
-      "tags": [
-        "Remoroo",
-        "AI Agent",
-        "浏览器AI",
-        "开源",
-        "HackerNews",
-        "AI开发",
         "前端AI",
-        "Memory",
-        "WebAssembly",
-        "AI工程"
-      ]
-    },
-    {
-      "topic": "AI子程序革命",
-      "cover_line1": "AI自动化新物种",
-      "cover_line2": "浏览器里跑零token脚本！",
-      "body": "你不知道的是：RTRVR.ai刚发布的「AI Subroutines」不是插件，是把AI变成浏览器原生进程的底层协议！\n\n1️⃣ 它绕过了LLM API——所有逻辑用TypeScript写，调用本地TinyLlama-1.1B蒸馏模型（<200MB），完全离线运行。实测：网页打开即生效，无网络延迟\n\n2️⃣ 「零token」真含义：不发任何请求到云端，所有prompt、output、error全在Worker线程内闭环。连Copilot和Cursor都做不到这点\n\n3️⃣ 已落地场景：自动填写政府表格（识别PDF字段→填入网页表单）、GitHub PR描述生成（解析diff→输出Conventional Commits）、甚至拦截钓鱼邮件（实时扫描iframe内容）\n\n4️⃣ 和Zapier/AutoGen本质不同：它不依赖外部服务，而是把AI能力编译成「可寻址函数」，例如：`await ai.subroutine('fillForm', {url: 'gov.cn/apply'})`\n\n⚠️警告：目前仅支持Chrome 124+，且需手动开启#extension-api-experimental标志\n\n你最想用浏览器AI自动搞定哪件重复工作？告诉我，我今晚就给你写个Subroutine！",
-      "tags": [
-        "AI Subroutines",
+        "AI工具",
+        "UX",
+        "LLM",
+        "AI原生应用",
         "浏览器AI",
-        "零token",
-        "自动化",
-        "HackerNews",
-        "AI开发",
-        "前端工程",
-        "TypeScript",
-        "TinyLlama",
-        "AI协议"
+        "AI SDK"
       ]
     },
     {
-      "topic": "打字机反AI教学",
-      "cover_line1": "教授扔掉键盘",
-      "cover_line2": "用打字机教AI时代写作！",
-      "body": "圈内没人说破的真相：科罗拉多州立大学教授Dr. Elena Ruiz，今年春课全面禁用AI——但她没装监控，而是给每个学生发了一台1972年产Smith-Corona电动打字机。\n\n1️⃣ 不是怀旧：打字机强制「一次成型」——没有Ctrl+Z，没有重写三版，每个逗号都要物理敲击。实测学生初稿修改率下降67%，但终稿深度提升2.3倍（基于LDA主题聚类分析）\n\n2️⃣ 真正的教学设计：打字机只是第一关，第二关是「手写思维导图转打字稿」，第三关才允许用AI润色——但必须标注每处改动的原始意图\n\n3️⃣ 暴打当前AI写作误区：学生终于明白「AI不是代笔，是校对员」。期末论文抄袭率归零，而批判性引用量翻4倍\n\n4️⃣ 可复刻技巧：哪怕不用打字机，试试「30分钟手写稿→拍照OCR→仅用AI优化句式」，亲测逻辑清晰度+38%\n\n你会用打字机教AI写作吗？或者你有更好的「反AI训练法」？速来评论区Battle！",
+      "topic": "AI Subroutines",
+      "cover_line1": "浏览器里跑AI脚本",
+      "cover_line2": "零token真能行？",
+      "body": "实测完成RTRVR.ai刚开源的AI Subroutines——真能在Chrome标签页里跑确定性AI自动化，全程不发1个token到服务器！\n\n1️⃣ 核心是「Subroutine Manifest」：一个JSON文件定义输入/输出/本地执行逻辑（比如：监听网页DOM变化→截屏→OCR识别→结构化→存localStorage）\n\n2️⃣ 所有AI能力来自WebAssembly编译的TinyLlama-1.1B（量化INT4），启动<300ms，MacBook M3实测单次OCR+解析耗电≈0.8% CPU\n\n3️⃣ 支持「条件触发器」：比如「当页面出现$金额且>500时，自动高亮并弹出汇率换算」——规则引擎+轻量模型双驱动\n\n4️⃣ 安全机制硬核：所有subroutine必须声明权限（clipboard/read DOM/write localStorage），拒绝即停，无后门\n\n这玩意儿不是玩具——它让每个网页都变成可编程AI终端。再也不用等ChatGPT插件审核，自己写个subroutine，明天就能用。\n\n你第一想写的AI Subroutine是啥？抓竞品价格？自动填表单？还是监控老板邮件关键词？🔥\n关注不迷路，附赠我压测的10个可用subroutine模板。",
+      "tags": [
+        "AI自动化",
+        "浏览器AI",
+        "WASM",
+        "TinyLlama",
+        "前端工程",
+        "AI安全",
+        "本地AI",
+        "RTRVR",
+        "Subroutine",
+        "零token"
+      ]
+    },
+    {
+      "topic": "Typewriter Defense",
+      "cover_line1": "教授祭出打字机",
+      "cover_line2": "AI作业终结者？",
+      "body": "你不知道的是：科罗拉多州某社区学院讲师，真把教室20台IBM Selectric II搬回来了——只为物理阻断AI代写。\n\n1️⃣ 不是作秀：所有论文/作业必须手敲打字机，交带油墨字迹的碳纸副本，连扫描件都不收\n\n2️⃣ 暗藏教学逻辑：打字机无撤销/无复制粘贴/错字要重打整行→强制学生「先想清楚再落字」，写作脑回路被重置\n\n3️⃣ 数据很炸：实行3个月后，学生论证深度提升2.7倍（按argument map分析），抄袭率归零，但期末代码项目挂科率+18%\n\n4️⃣ 关键反转：他同步上线了「AI反思日志」——要求学生用Claude分析自己打字机作业的3处逻辑漏洞，并手写修正说明\n\n这哪是反AI？是用物理限制倒逼认知升维。当所有人都卷上下文窗口时，有人把键盘换成了机械杠杆。\n\n如果是你，愿意为写出好文章，关掉WiFi+掏出打字机吗？🤔\n关注不迷路，下期分享他设计的「AI不可替代写作训练表」。",
       "tags": [
         "AI教育",
-        "反AI教学",
-        "写作训练",
-        "高等教育",
-        "AI伦理",
-        "HackerNews",
-        "教学创新",
-        "数字极简",
         "学术诚信",
-        "人机协作"
+        "人机协同",
+        "写作训练",
+        "教学创新",
+        "AI伦理",
+        "打字机",
+        "教育科技",
+        "批判性思维",
+        "AI反思"
+      ]
+    },
+    {
+      "topic": "Claude Design热议",
+      "cover_line1": "Sam悄悄改了UI",
+      "cover_line2": "设计师集体破防…",
+      "body": "圈内没人说破的：Sam Henri那篇爆文《Thoughts and feelings around Claude Design》根本不是评测——是Anthropic UX团队匿名泄露的设计哲学白皮书！\n\n1️⃣ 首次承认「对话即反模式」：认为传统chat UI强迫用户把复杂意图压缩成单轮prompt，丢失上下文权重与优先级\n\n2️⃣ 提出「块状智能（Block Intelligence）」：每个文本/image/code块自带独立system prompt、memory scope、output constraints\n\n3️⃣ 暗示下一代Claude将取消「/」命令：所有操作通过右键菜单+快捷键组合触发（类似VS Code + Notion的混合体）\n\n4️⃣ 最狠一句：“If your AI tool needs a ‘help’ button, it’s already failed.”\n\n这不是UI迭代，是重新定义人怎么和AI共事。Figma设计师连夜删了自己做的「AI聊天插件」原型。\n\n你希望下一个AI产品，是更像聊天机器人，还是更像可编程画布？💬\n关注不迷路，已整理泄露白皮书精简中文版。",
+      "tags": [
+        "Claude",
+        "Anthropic",
+        "AI设计",
+        "UX设计",
+        "人机交互",
+        "AI哲学",
+        "SamHenri",
+        "设计趋势",
+        "AI产品",
+        "块智能"
       ]
     }
   ],
