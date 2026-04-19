@@ -105,17 +105,17 @@ def make_summary_cover(
 
         W, H   = 1080, 1080
         PAD    = 68
-        # GitHub markdown preview 配色
-        BG     = (255, 255, 255)
-        DARK   = (36,  41,  47)    # 标题文字
-        BLUE   = (9,  105, 218)    # repo 名（GitHub link blue）
-        GOLD   = (154, 103,   0)   # ★ 总 stars（amber）
-        GREEN  = (26,  127,  55)   # ▲ 今日涨幅
-        ORANGE = (207,  87,  17)   # language
-        GDESC  = (87,  96, 106)    # description
-        META_G = (101, 109, 118)   # meta 分隔符 ·
-        BORDER = (208, 215, 222)   # H2 下划线
-        RED    = (207,  34,  46)   # 序号
+        # V1 GitHub Dark Mode 配色
+        BG     = (13,  17,  23)    # #0d1117 深夜蓝黑
+        DARK   = (230, 237, 243)   # 标题文字（亮白）
+        BLUE   = (88, 166, 255)    # repo 名（GitHub dark link blue）
+        GOLD   = (227, 179,  65)   # ★ 总 stars（amber）
+        GREEN  = (63,  185,  80)   # ▲ 今日涨幅
+        ORANGE = (240, 136,  62)   # language
+        GDESC  = (139, 148, 158)   # description
+        META_G = (110, 118, 129)   # meta 分隔符 ·
+        BORDER = (48,   54,  61)   # H2 下划线
+        RED    = (248,  81,  73)   # 序号
 
         img  = Image.new("RGB", (W, H), BG)
         draw = ImageDraw.Draw(img)
@@ -254,15 +254,45 @@ def make_post_body_cover(post: dict, index: int, out_path: Path) -> bool:
         return False
 
     try:
-        W, H   = 1080, 1080
-        PAD    = 80
-        RED    = (255, 45, 85)
-        DARK   = (26, 26, 26)
-        GRAY   = (140, 140, 140)
-        LGRAY  = (240, 240, 240)
-        WHITE  = (255, 255, 255)
+        W, H = 1080, 1080
+        PAD  = 80
 
-        img  = Image.new("RGB", (W, H), WHITE)
+        # ── 三套暗色主题（按帖子序号轮换） ──────────────────────────────
+        THEMES = [
+            {   # V2 纯黑霓虹
+                "bg":      (0,   0,   0),
+                "accent":  (255, 75,  75),
+                "title":   (255, 255, 255),
+                "title2":  (0,  212, 255),
+                "divider": (50,  50,  50),
+                "points":  (0,  212, 255),
+                "brand":   (255, 75,  75),
+                "dim":     (100, 100, 100),
+            },
+            {   # V3 深紫星空
+                "bg":      (16,  12,  36),
+                "accent":  (249, 115,  22),
+                "title":   (234, 234, 234),
+                "title2":  (167, 139, 250),
+                "divider": (55,  48, 100),
+                "points":  (167, 139, 250),
+                "brand":   (249, 115,  22),
+                "dim":     (107, 114, 128),
+            },
+            {   # V4 深灰简约
+                "bg":      (22,  27,  34),
+                "accent":  (210,  55,  75),
+                "title":   (201, 209, 217),
+                "title2":  (121, 192, 255),
+                "divider": (48,  54,  61),
+                "points":  (121, 192, 255),
+                "brand":   (210,  55,  75),
+                "dim":     (72,  79,  88),
+            },
+        ]
+        T = THEMES[(index - 1) % len(THEMES)]
+
+        img  = Image.new("RGB", (W, H), T["bg"])
         draw = ImageDraw.Draw(img)
 
         font_path = find_cjk_font()
@@ -291,16 +321,16 @@ def make_post_body_cover(post: dict, index: int, out_path: Path) -> bool:
             bbox = draw.textbbox((0, 0), text, font=f)
             return f, bbox[2] - bbox[0], min_size
 
-        # ── 左侧红色竖条装饰 ──
-        draw.rectangle([PAD - 12, PAD, PAD - 4, H - PAD], fill=RED)
+        # ── 左侧竖条装饰 ──
+        draw.rectangle([PAD - 12, PAD, PAD - 4, H - PAD], fill=T["accent"])
 
         # ── 顶部序号徽章 ──
         badge_r = 36
         bx, by  = PAD + 30, PAD + 20
-        draw.ellipse([bx, by, bx + badge_r * 2, by + badge_r * 2], fill=RED)
+        draw.ellipse([bx, by, bx + badge_r * 2, by + badge_r * 2], fill=T["accent"])
         draw.text(
             (bx + badge_r, by + badge_r), str(index),
-            font=get_font(42), fill=WHITE, anchor="mm",
+            font=get_font(42), fill=T["bg"], anchor="mm",
         )
 
         # ── 封面两行标题（居中） ──
@@ -309,15 +339,15 @@ def make_post_body_cover(post: dict, index: int, out_path: Path) -> bool:
 
         title_y = PAD + badge_r * 2 + 50
         f1, tw1, sz1 = fit_font(line1, 90)
-        draw.text(((W - tw1) // 2, title_y), line1, font=f1, fill=DARK)
+        draw.text(((W - tw1) // 2, title_y), line1, font=f1, fill=T["title"])
 
         title_y += sz1 + 20
         f2, tw2, sz2 = fit_font(line2, 68)
-        draw.text(((W - tw2) // 2, title_y), line2, font=f2, fill=DARK)
+        draw.text(((W - tw2) // 2, title_y), line2, font=f2, fill=T["title2"])
 
         # ── 分割线 ──
         line_y = title_y + sz2 + 30
-        draw.line([PAD + 30, line_y, W - PAD - 30, line_y], fill=LGRAY, width=2)
+        draw.line([PAD + 30, line_y, W - PAD - 30, line_y], fill=T["divider"], width=2)
 
         # ── 正文要点提取 ──
         EMOJI_NUMS = ("1️⃣", "2️⃣", "3️⃣", "4️⃣", "5️⃣")
@@ -329,7 +359,6 @@ def make_post_body_cover(post: dict, index: int, out_path: Path) -> bool:
         if key_lines:
             points = []
             for ln in key_lines[:4]:
-                # 去掉首个 emoji（unicode emoji 可能占多个字符，按空格切）
                 stripped = ln
                 for e in EMOJI_NUMS:
                     if stripped.startswith(e):
@@ -339,16 +368,15 @@ def make_post_body_cover(post: dict, index: int, out_path: Path) -> bool:
                     stripped = stripped[:24] + "…"
                 points.append(stripped)
         else:
-            # 无 emoji 序号行，取 body 前 3 行
             points = [ln.strip() for ln in body_lines if ln.strip()][:3]
             points = [p[:24] + "…" if len(p) > 24 else p for p in points]
 
         f_point = get_font(30)
         pt_y    = line_y + 24
-        pt_gap  = 30 + 12    # 字号 + 行间距
+        pt_gap  = 30 + 12
 
         for pt in points:
-            draw.text((PAD + 30, pt_y), f"• {pt}", font=f_point, fill=DARK)
+            draw.text((PAD + 30, pt_y), f"• {pt}", font=f_point, fill=T["points"])
             pt_y += pt_gap
 
         # ── 底部：品牌 + 日期 ──
@@ -356,14 +384,14 @@ def make_post_body_cover(post: dict, index: int, out_path: Path) -> bool:
         brand    = "AI 小红书日报"
         f_brand  = get_font(32)
         bbox     = draw.textbbox((0, 0), brand, font=f_brand)
-        draw.text(((W - (bbox[2] - bbox[0])) // 2, footer_y), brand, font=f_brand, fill=RED)
+        draw.text(((W - (bbox[2] - bbox[0])) // 2, footer_y), brand, font=f_brand, fill=T["brand"])
 
         date_str = f"· {TODAY_CN} ·"
         f_date   = get_font(26)
         bbox     = draw.textbbox((0, 0), date_str, font=f_date)
         draw.text(
             ((W - (bbox[2] - bbox[0])) // 2, footer_y + 40),
-            date_str, font=f_date, fill=GRAY,
+            date_str, font=f_date, fill=T["dim"],
         )
 
         # ── 右下角 watermark ──
@@ -372,7 +400,7 @@ def make_post_body_cover(post: dict, index: int, out_path: Path) -> bool:
         bbox      = draw.textbbox((0, 0), watermark, font=f_wm)
         draw.text(
             (W - PAD - (bbox[2] - bbox[0]), H - PAD - 30),
-            watermark, font=f_wm, fill=GRAY,
+            watermark, font=f_wm, fill=T["dim"],
         )
 
         out_path.parent.mkdir(parents=True, exist_ok=True)
