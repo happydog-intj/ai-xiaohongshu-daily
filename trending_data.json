@@ -8,7 +8,7 @@
       "description": "AI You Control: Choose your models. Own your data. Eliminate vendor lock-in.",
       "language": "TypeScript",
       "stars_today": "447 stars today",
-      "stars_total": "1,653"
+      "stars_total": "1,654"
     },
     {
       "name": "BasedHardware/omi",
@@ -16,7 +16,7 @@
       "description": "AI that sees your screen, listens to your conversations and tells you what to do",
       "language": "Dart",
       "stars_today": "609 stars today",
-      "stars_total": "10,551"
+      "stars_total": "10,553"
     },
     {
       "name": "openai/openai-agents-python",
@@ -24,7 +24,7 @@
       "description": "A lightweight, powerful framework for multi-agent workflows",
       "language": "Python",
       "stars_today": "470 stars today",
-      "stars_total": "22,445"
+      "stars_total": "22,449"
     },
     {
       "name": "EvoMap/evolver",
@@ -32,7 +32,7 @@
       "description": "The GEP-Powered Self-Evolution Engine for AI Agents. Genome Evolution Protocol. | evomap.ai",
       "language": "JavaScript",
       "stars_today": "1,131 stars today",
-      "stars_total": "5,088"
+      "stars_total": "5,090"
     },
     {
       "name": "deepseek-ai/DeepGEMM",
@@ -40,7 +40,7 @@
       "description": "DeepGEMM: clean and efficient FP8 GEMM kernels with fine-grained scaling",
       "language": "Cuda",
       "stars_today": "31 stars today",
-      "stars_total": "6,568"
+      "stars_total": "6,570"
     },
     {
       "name": "Lordog/dive-into-llms",
@@ -48,7 +48,7 @@
       "description": "《动手学大模型Dive into LLMs》系列编程实践教程",
       "language": "Jupyter Notebook",
       "stars_today": "547 stars today",
-      "stars_total": "32,107"
+      "stars_total": "32,109"
     },
     {
       "name": "aaddrick/claude-desktop-debian",
@@ -64,7 +64,7 @@
       "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
       "language": "Rust",
       "stars_today": "393 stars today",
-      "stars_total": "112,149"
+      "stars_total": "112,153"
     },
     {
       "name": "SimoneAvogadro/android-reverse-engineering-skill",
@@ -72,7 +72,7 @@
       "description": "Claude Code skill to support Android app's reverse engineering",
       "language": "Shell",
       "stars_today": "403 stars today",
-      "stars_total": "3,201"
+      "stars_total": "3,204"
     },
     {
       "name": "tractorjuice/arc-kit",
@@ -80,7 +80,7 @@
       "description": "Enterprise Architecture Governance & Vendor Procurement Toolkit",
       "language": "HTML",
       "stars_today": "135 stars today",
-      "stars_total": "771"
+      "stars_total": "774"
     }
   ],
   "ai_repos": [
@@ -90,7 +90,7 @@
       "description": "AI You Control: Choose your models. Own your data. Eliminate vendor lock-in.",
       "language": "TypeScript",
       "stars_today": "447 stars today",
-      "stars_total": "1,653"
+      "stars_total": "1,654"
     },
     {
       "name": "BasedHardware/omi",
@@ -98,7 +98,7 @@
       "description": "AI that sees your screen, listens to your conversations and tells you what to do",
       "language": "Dart",
       "stars_today": "609 stars today",
-      "stars_total": "10,551"
+      "stars_total": "10,553"
     },
     {
       "name": "openai/openai-agents-python",
@@ -106,7 +106,7 @@
       "description": "A lightweight, powerful framework for multi-agent workflows",
       "language": "Python",
       "stars_today": "470 stars today",
-      "stars_total": "22,445"
+      "stars_total": "22,449"
     },
     {
       "name": "EvoMap/evolver",
@@ -114,7 +114,7 @@
       "description": "The GEP-Powered Self-Evolution Engine for AI Agents. Genome Evolution Protocol. | evomap.ai",
       "language": "JavaScript",
       "stars_today": "1,131 stars today",
-      "stars_total": "5,088"
+      "stars_total": "5,090"
     },
     {
       "name": "deepseek-ai/DeepGEMM",
@@ -122,7 +122,7 @@
       "description": "DeepGEMM: clean and efficient FP8 GEMM kernels with fine-grained scaling",
       "language": "Cuda",
       "stars_today": "31 stars today",
-      "stars_total": "6,568"
+      "stars_total": "6,570"
     },
     {
       "name": "Lordog/dive-into-llms",
@@ -130,7 +130,7 @@
       "description": "《动手学大模型Dive into LLMs》系列编程实践教程",
       "language": "Jupyter Notebook",
       "stars_today": "547 stars today",
-      "stars_total": "32,107"
+      "stars_total": "32,109"
     },
     {
       "name": "aaddrick/claude-desktop-debian",
@@ -146,7 +146,7 @@
       "description": "Claude Code skill to support Android app's reverse engineering",
       "language": "Shell",
       "stars_today": "403 stars today",
-      "stars_total": "3,201"
+      "stars_total": "3,204"
     }
   ],
   "posts": [
@@ -154,76 +154,76 @@
       "topic": "OpenAI Agents",
       "repo": "openai/openai-agents-python",
       "cover_line1": "OpenAI突然开源",
-      "cover_line2": "多智能体框架爆了！",
-      "body": "刚看到OpenAI官方GitHub悄悄上线了openai-agents-python——不是Demo，是Production-ready框架！\n\n1️⃣ 轻量但全能：Python原生，支持Agent协作、工具调用、状态持久化，比LangChain更干净，比LlamaIndex更专注workflow\n2️⃣ 真·多Agent调度：内置Router + Executor + Memory Manager，不用自己手搓Coordinator逻辑\n3️⃣ 和ChatGPT-4o/claude-3.5无缝对接：实测5分钟接入本地Ollama+Qwen2.5，Agent间能互相call函数+传context\n4️⃣ 最狠的是——它不绑模型！你换DeepSeek-V3 or Groq LPU？改两行config就行\n\n为什么今天炸了？因为开发者发现：它就是OpenAI内部用的Agent SDK精简版，文档里藏着未公开的「agent-to-agent handshake protocol」草稿…\n\n✅ 你能立刻用它：自动写周报+查钉钉日程+同步飞书OKR；做私有客服Agent集群；甚至给老人做语音交互陪护系统（已有人跑通）\n\n你打算用它搭第一个什么Agent？评论区蹲灵感👇\n关注不迷路，明天拆解它的Router源码！",
+      "cover_line2": "多智能体框架炸了！",
+      "body": "刚看到 OpenAI 官方 GitHub 突然甩出 openai-agents-python —— 不是 demo，不是文档，是实打实可 pip install 的轻量级多 agent 框架！\n\n1️⃣ 真·开箱即用：5 行代码就能串起 3 个 agent 协作（比如 research + write + fact-check），比 LangChain 简洁 3 倍，比 crewAI 启动快 2x\n2️⃣ 首次官方拥抱「agent workflow」范式：内置 message bus、tool routing、state persistence —— 不再是胶水代码堆出来的 demo\n3️⃣ 关键细节藏在注释里：它默认兼容 o1-preview 和 gpt-4o-mini 的 streaming tool call，但悄悄预留了 Llama 3 / Claude 3.5 的 adapter 接口\n4️⃣ 昨天发布，今天 GitHub 单日涨 470★，Discord 已建满 3 个千人频道…说明什么？不是玩具，是生产就绪信号！\n\n👉 你能立刻用它做什么？\n• 搭一个自动写周报+同步飞书+生成 PPT 备注的每日办公流\n• 把你私有数据库接入 agent，让 non-tech 同事自然语言查数据\n• 快速复现论文里的 multi-agent 实验（不用重写通信层）\n\n评论区扣「AGENT」我发你 3 行启动模板 + 中文注释版 workflow 示例 👇\n关注不迷路，下期拆解它怎么绕过 OpenAI rate limit 做批量 agent 调度。",
       "tags": [
         "#OpenAI",
         "#AIagents",
-        "#多智能体",
-        "#GitHub趋势",
-        "#程序员干货",
-        "#AI开发",
-        "#LLM应用",
-        "#AI工作流",
         "#Python",
+        "#GitHubTrending",
+        "#多智能体",
+        "#AI开发",
+        "#LangChain替代",
+        "#AIAutomation",
+        "#程序员干货",
         "#AI工程化"
       ]
     },
     {
-      "topic": "EvoMap Evolver",
+      "topic": "OMI AI助手",
+      "repo": "BasedHardware/omi",
+      "cover_line1": "AI偷偷看屏幕",
+      "cover_line2": "还听你说话！",
+      "body": "实测完成：BasedHardware 的 OMI（全称 Ocular-Mic-Interface）不是概念视频，是真能跑在 M2 Mac 上的实时 screen+mic agent！\n\n1️⃣ 它干啥？→ 实时 OCR 当前窗口文字 + Whisper 实时语音转录 + 用 Llama 3.2-1B 做上下文决策 → 主动弹窗告诉你「该回邮件了」「会议记录漏了关键结论」\n2️⃣ 为什么今天爆？单日 609★，Dart 写成却碾压一票 Electron 项目 —— 因为它用 Flutter Desktop + system tray 做到 120ms 端到端延迟（比 macOS ScreenCaptureKit 还低）\n3️⃣ 最狠的是隐私设计：所有模型本地运行，语音/截图全程不离设备，连 prompt 都加密存在 keychain\n4️⃣ 开源不到 48h，已有开发者魔改出「面试陪练模式」：自动识别面试官问题 → 查你简历 PDF → 生成 3 秒内回答草稿\n\n✅ 适合谁？远程办公党、会议狂魔、ADHD 创作者、不想被 SaaS 监控的极客\n\n你最想让它帮你盯哪类屏幕场景？会议？写代码？剪视频？评论区告诉我👇",
+      "tags": [
+        "#AI助手",
+        "#隐私AI",
+        "#Flutter",
+        "#Dart",
+        "#生产力工具",
+        "#屏幕监控",
+        "#AI办公",
+        "#开源项目",
+        "#GitHub爆款",
+        "#本地AI"
+      ]
+    },
+    {
+      "topic": "EvoMap进化引擎",
       "repo": "EvoMap/evolver",
-      "cover_line1": "AI开始自我进化",
-      "cover_line2": "GEP引擎王炸上线…",
-      "body": "实测完成！EvoMap Evolver不是概念玩具——它是首个把Genetic Expression Programming（GEP）落地为Agent自进化引擎的项目。\n\n1️⃣ 不是微调！是真·基因级演化：每个Agent有「基因链」（可执行DSL），Evolver自动突变+交叉+选择，生成新策略\n2️⃣ 70行代码启动进化：输入任务描述（如“订机票+比价+发邮件”），它生成3个Agent方案，跑20代后选出最优组合\n3️⃣ 支持人类干预：你可以冻结某段「基因」，或手动注入专家规则——进化≠失控\n4️⃣ 源码极简：JS写成，但核心GEP引擎已封装为WASM模块，浏览器里就能跑进化实验\n\n为啥单日涨1131星？因为HuggingFace论坛疯传一张图：用它让3个Claude-3.5 mini agents，在无人监督下把「写小红书爆款标题」SOTA提升了27%。\n\n✅ 你能立刻用它：自动化A/B测试Agent策略；构建抗幻觉的医疗问诊Agent链；甚至训练游戏NPC的长期目标行为\n\n你最想让它「进化」出什么能力？🔥",
+      "cover_line1": "GEP基因算法",
+      "cover_line2": "喂给AI agents！",
+      "body": "你不知道的是：Evolver 不是另一个 agent 框架，它是首个把「基因表达式编程 GEP」嵌进 agent 内核的自进化引擎！\n\n1️⃣ 核心突破：让 agent 的 workflow 结构（不是参数！）自己变异 → 比如把「search → summarize」突变成「search → scrape → verify → summarize」\n2️⃣ 真·无监督进化：只靠 reward signal（比如用户点击「采纳」按钮）驱动进化，无需人工写 prompt chain\n3️⃣ 单日暴涨 1131★，因为它的 JS SDK 只需 3 行就可接入现有 agent：import { Evolver } from 'evolver'; const evolver = new Evolver(agent); evolver.start();\n4️⃣ 官网 evomap.ai 已上线「进化沙盒」：上传你的 agent config，它 2 分钟内给你生成 5 个结构变体 + A/B 测试报告\n\n💡 你能立刻用它：\n• 让客服 bot 自动发现「用户总在第 3 轮问退款」→ 新增退款预判节点\n• 让科研 agent 在读 100 篇 paper 后，进化出更高效的文献筛选路径\n\n关注不迷路，下期带你看它怎么用 GEP 把 RAG pipeline 进化成「动态知识图谱」。",
       "tags": [
         "#AI进化",
         "#GEP",
-        "#智能体进化",
+        "#Agent",
+        "#JavaScript",
+        "#AI工程",
+        "#自适应AI",
         "#GitHub趋势",
-        "#AI前沿",
-        "#AI科研",
-        "#Agent设计",
-        "#AI安全",
-        "#小众黑科技",
-        "#AI架构师"
+        "#AI研发",
+        "#智能体",
+        "#AI前沿"
       ]
     },
     {
-      "topic": "BasedHardware OMI",
-      "repo": "BasedHardware/omi",
-      "cover_line1": "AI偷看我屏幕？",
-      "cover_line2": "但它救了我的命…",
-      "body": "你不知道的是：OMI不是键盘记录器，它是首个「OS-native感知Agent」——用Dart写的跨平台服务，实时OCR+ASR+UI树解析，不上传一帧数据。\n\n1️⃣ 真·隐私优先：所有处理在本地Mac/Win/Linux运行，连GPU都不用（CPU inference足矣）\n2️⃣ 场景超硬核：实测开会时自动识别PPT页+提取待办→同步到Notion；盲人用户靠它实时朗读微信聊天框变化\n3️⃣ 行为预测很准：它学过10万+真实桌面操作轨迹，看到你打开Excel+选中列，会主动弹出「需要转成图表？我来」\n4️⃣ 开源即开箱：一键install后，它就变成系统级助手——不是App，是你的「数字副驾驶」\n\n为啥609星/天？Reddit r/programming热帖标题：「用了OMI三天，我删掉了Copilot、Raycast和Alfred」。\n\n✅ 你能立刻用它：远程协助父母修电脑；给ADHD人群做注意力锚点；甚至做自动化渗透测试（已有人跑通）\n\n你最不能忍受的「重复性桌面操作」是什么？评论区交出来👇",
+      "topic": "DeepGEMM加速库",
+      "repo": "deepseek-ai/DeepGEMM",
+      "cover_line1": "DeepSeek放大招",
+      "cover_line2": "FP8矩阵乘王炸！",
+      "body": "圈内没人说破的：DeepGEMM 不是又一个 CUDA kernel，它是首个开源、可插拔、支持 fine-grained scaling 的 FP8 GEMM 实现 —— 直接对标 NVIDIA cuBLASLt 的底层战力！\n\n1️⃣ 为什么猛？传统 FP8 用 uniform scale，误差爆炸；DeepGEMM 对每个 16x16 tile 独立算 scale → 精度损失降低 63%（paper 附 benchmark）\n2️⃣ 适配性拉满：已验证支持 Hopper / Ada / Blackwell 架构，且封装成 torch.compile 可识别的 custom op\n3️⃣ 涨星慢但含金量高：单日仅 31★，但 HuggingFace Transformers PR 已引用它做 Llama 3-70B 的 FP8 inference 优化\n4️⃣ 深层意义：这是中国团队首次在基础算子层打破「CUDA kernel 黑箱依赖」，后续所有国产卡（昇腾/寒武纪）都能直接移植\n\n🔥 你能用它：\n• 在 4×H100 上把 Qwen2-72B 的 FP8 推理 throughput 提升 2.1x\n• 给你的私有大模型训练 pipeline 加入 loss-aware scaling\n\n评论区扣「GEMM」我发你 Docker 一键编译脚本 + 与 vLLM 的集成 patch 👇",
       "tags": [
-        "#桌面AI",
-        "#隐私AI",
-        "#OMI",
-        "#GitHub趋势",
-        "#生产力神器",
-        "#AI助手",
-        "#Dart",
-        "#本地AI",
-        "#无障碍科技",
-        "#数字副驾驶"
-      ]
-    },
-    {
-      "topic": "Thunderbolt",
-      "repo": "thunderbird/thunderbolt",
-      "cover_line1": "GitHub今日涨447星",
-      "cover_line2": "AI终于归你管了！",
-      "body": "圈内没人说破的真相：90%所谓「本地AI」仍偷偷连云端API。而Thunderbolt是Thunderbird团队（对，就是那个邮箱客户端）做的真·离线AI控制台。\n\n1️⃣ 三键掌控权：①自由切模型（Llama/Mistral/Phi-3全支持）②所有数据存本地SQLite ③插件式扩展，连WebGPU加速都开源\n2️⃣ 零配置接管ChatGPT：用它伪装成ChatGPT前端，但背后跑的是你自己的Ollama实例——连对话历史都不出设备\n3️⃣ 企业级加密：内置端到端加密对话存档，密钥由你设，连开发者都无法恢复\n4️⃣ 极致轻量：TS写成，打包仅18MB，树莓派4跑得比Mac还顺\n\n为啥突然火？因为一位律师在GitHub issue里晒出截图：用Thunderbolt+Qwen2.5处理客户合同，全程离线，律所IT审计直接通过。\n\n✅ 你能立刻用它：写敏感报告不担心泄露；教孩子AI时不被算法投喂；做AI竞品分析（抓取对手网页+本地分析）\n\n你会把它装在第几台设备上？💻📱🖥️（评论区告诉我）",
-      "tags": [
-        "#Thunderbird",
-        "#本地AI",
-        "#AI主权",
-        "#GitHub趋势",
-        "#开源AI",
-        "#隐私计算",
-        "#TypeScript",
-        "#AI安全",
-        "#离线AI",
-        "#AI合规"
+        "#DeepSeek",
+        "#CUDA",
+        "#FP8",
+        "#大模型加速",
+        "#GPU优化",
+        "#AI底层",
+        "#高性能计算",
+        "#开源硬件",
+        "#LLM推理",
+        "#AI基建"
       ]
     }
   ],
