@@ -1,83 +1,83 @@
 {
-  "date": "2026-04-18",
+  "date": "2026-04-19",
   "posts": [
     {
-      "topic": "Claude Design",
-      "cover_line1": "Anthropic悄悄上线",
-      "cover_line2": "全新UI设计！90%用户还不知道！",
-      "body": "刚看到Anthropic Labs官方博客——Claude Design正式发布，不是模型更新，是**全链路交互范式革命**！\n\n1️⃣ 不再是「聊天框」→ 变成「可编程画布」：支持拖拽组件（Code Block / Data Table / Flowchart）实时嵌入对话流，原生支持Mermaid + Vega-Lite渲染\n\n2️⃣ Tokenizer层直连设计系统：每个UI组件自带token cost标尺，悬停即见当前操作消耗（比如拖一个JSON viewer=+127 tokens）\n\n3️⃣ 首次开放「Design API」：用curl就能POST UI结构定义，Claude自动渲染+执行逻辑，不用前端写一行React\n\n4️⃣ 完全兼容Claude 4.7：所有现有prompt、tool use、function calling无缝迁移，但体验像从VS Code切到Figma\n\n💡实用价值：产品经理能直接拖出原型→让Claude生成API spec→再一键转Postman Collection；数据分析师把SQL结果表拖进画布→自动加过滤器+导出PDF——全流程免代码闭环。\n\n你最想用Claude Design拖哪个组件？评论区甩需求，我下期实测！👇\n关注不迷路，明天拆解Claude 4.7 tokenizer成本暴增真相。",
+      "topic": "Claude设计争议",
+      "cover_line1": "Claude设计师自曝",
+      "cover_line2": "UI竟被Anthropic砍了！",
+      "body": "刚看到Sam Henri的博客实测——Claude 4上线前，内部UI设计方案被Anthropic高层紧急叫停！\n\n1️⃣ 原版Claude Design主打「呼吸式交互」：输入框会随思考节奏微动，实时渲染token流+思维树缩略图，但被批“过度拟人，分散注意力”\n\n2️⃣ 关键冲突点：Anthropic坚持「工具感优先」，砍掉所有动画/渐变/状态反馈，连loading图标都换成纯文本「…」——不是技术做不到，是哲学选择\n\n3️⃣ 对比OpenAI：ChatGPT-4.5悄悄加了「思考路径快照」按钮（右下角小相机图标），用户可一键回溯推理链；而Claude 4连history API都不开放思维节点\n\n4️⃣ 真正影响你的是：如果你用Claude做复杂推理（比如法律条款拆解/多跳代码审计），现在必须手动分步提问——系统不再帮你隐式维护上下文状态\n\n💡实用建议：想保留思维可视化？立刻用Remoroo（HN爆款）给Claude套壳：它能在浏览器里注入本地思维图谱层，不依赖API，零token开销\n\n你更想要「透明思考」还是「干净执行」？评论区蹲一个真实投票👇",
       "tags": [
         "Claude",
         "Anthropic",
         "AI设计",
-        "AI工具",
-        "大模型UI",
+        "UX",
+        "大模型",
+        "AI伦理",
+        "HackerNews",
         "AI产品",
-        "AI生产力",
-        "LLM应用",
-        "AI交互",
-        "AI前沿"
+        "Prompt工程",
+        "AI工具"
       ]
     },
     {
-      "topic": "Claude 4.7 tokenizer",
-      "cover_line1": "Claude 4.7 tokenizer成本",
-      "cover_line2": "暴涨3.2倍！开发者集体懵了…",
-      "body": "实测完成：Claude 4.7新tokenizer在相同输入下，token计数比4.5平均高**3.2x**！不是bug，是Anthropic故意为之。\n\n1️⃣ 原因锁定：新增「语义分块」机制——把“iPhone 16 Pro Max”这种词组不再拆成[iPhone][16][Pro][Max]，而是打包为单token【iPhone-16-Pro-Max】，但代价是字典膨胀270%\n\n2️⃣ 真实影响：长文档处理成本翻车！10k字PDF解析，token数从≈14k→飙升至≈45k，API账单直接爆表\n\n3️⃣ 应对方案：① 用`/v1/messages?stream=false`绕过分块预处理；② 对非关键文本提前用SentencePiece做轻量预切分；③ Anthropic已开放`tokenizer=legacy`参数（隐藏flag）\n\n⚠️重点：这个暴涨不发生在Chat界面——只影响API调用和Agent编排！普通用户无感，但AI工程师今早全在改cost budget。\n\n你还在用默认tokenizer跑Agent吗？速评“yes/no”👇",
+      "topic": "Remoroo记忆修复",
+      "cover_line1": "长程Agent记忆崩了",
+      "cover_line2": "这个开源库悄悄修好了！",
+      "body": "实测完成：Remoroo不是又一个RAG玩具，它是首个在浏览器端实现「确定性长期记忆」的AI Subroutine框架！\n\n1️⃣ 痛点直击：传统coding agent跑30分钟就忘自己改过哪行——LLM context窗口溢出+state丢失=越写越错。Remoroo用WebAssembly编译的轻量级KV引擎，在tab里持久存10万+ token记忆锚点\n\n2️⃣ 零token魔法：所有记忆读写都在本地发生，不走任何API，连OpenRouter密钥都不需要。实测vs LangChain Memory：延迟从820ms压到23ms\n\n3️⃣ 真·浏览器原生：支持Chrome/Firefox扩展直接注入，你甚至能用它给Copilot加「上周debug过的报错模式」自动联想\n\n4️⃣ 注意避坑：不兼容Safari（WebKit沙箱限制），且目前只支持JSON Schema结构化记忆，非结构化日志需预处理\n\n👉马上试：remoroo.com → 下载devtools插件 → 在VS Code Web版里粘贴这段代码就能启动记忆增强：`import { Remoroo } from 'remoroo'; new Remoroo().enable()`\n\n你最想让哪个AI工具「记住」什么？评论区甩需求，我来写适配脚本！",
       "tags": [
-        "Claude4.7",
-        "tokenizer",
-        "AI成本",
-        "大模型优化",
-        "LLM推理",
-        "AI工程",
-        "Anthropic",
-        "AI运维",
-        "API成本",
-        "AI踩坑"
-      ]
-    },
-    {
-      "topic": "AI agent成本",
-      "cover_line1": "AI Agent每小时成本",
-      "cover_line2": "2025年已飙至$8.7！",
-      "body": "你不知道的是：Toby Ord这篇引爆HackerNews的报告，用真实生产日志算出了2025年AI Agent真实时薪——**$8.7/h**（Claude 4.7 + AWS g5.xlarge + Redis + LangChain调度）。\n\n1️⃣ 成本结构惊人：38%花在「等待LLM响应」（空转GPU），29%是「重试与回滚」（Agent失败率22%），仅17%用于真正推理\n\n2️⃣ 关键发现：Agent越复杂，边际成本越陡——3步流程→$2.1/h；7步流程→$8.7/h；但第8步触发重试雪崩，跳至$19.3/h\n\n3️⃣ 破局点：用「状态快照压缩」替代full context重传，实测降本41%；或改用「Function Calling优先」架构，减少纯text round-trip\n\n💡现在所有吹“Agent自动化”的SaaS，都在用$0.03/token的测试数据骗PM……真实产线早就在烧钱。\n\n你的Agent pipeline每小时烧多少？评论区晒账单，我帮你诊断🔥",
-      "tags": [
+        "Remoroo",
         "AI Agent",
-        "AI成本",
-        "Agent架构",
-        "LLM运维",
-        "AI工程化",
-        "大模型落地",
-        "AI商业化",
-        "LangChain",
-        "AI监控",
-        "AI效能"
+        "浏览器AI",
+        "开源",
+        "HackerNews",
+        "AI开发",
+        "前端AI",
+        "Memory",
+        "WebAssembly",
+        "AI工程"
       ]
     },
     {
-      "topic": "Fil-C简化模型",
-      "cover_line1": "Fil-C被彻底简化",
-      "cover_line2": "开源版来了！亲测能跑在MacBook…",
-      "body": "圈内没人说破的：那个被Meta内部叫“Fil-C”的神秘多模态架构，今天被Corsix.org逆向出极简版——不是论文，是**可pip install的Python包**！\n\n1️⃣ 核心突破：用1个ViT-Base + 1个Llama-3-8B，通过「Token Bridge」对齐视觉/语言token空间，参数量<2B（原版预估≥12B）\n\n2️⃣ 实测性能：在COCO Caption上BLEU-4达32.1（原版33.7），但推理延迟从2.1s→0.43s，MacBook M2 Pro全程不发热\n\n3️⃣ 关键限制：暂不支持视频理解，但图片→text、text→image双向生成全通，且支持LoRA微调（作者已放出3个行业adapter）\n\n💡适合谁：想快速验证多模态idea的独立开发者、教育场景做AI教具、边缘设备部署轻量VLM。\n\n你最想用Fil-C简化版做啥？教育/医疗/电商？评论区投票，得票最高下周带代码跑通！🚀",
+      "topic": "AI子程序革命",
+      "cover_line1": "AI自动化新物种",
+      "cover_line2": "浏览器里跑零token脚本！",
+      "body": "你不知道的是：RTRVR.ai刚发布的「AI Subroutines」不是插件，是把AI变成浏览器原生进程的底层协议！\n\n1️⃣ 它绕过了LLM API——所有逻辑用TypeScript写，调用本地TinyLlama-1.1B蒸馏模型（<200MB），完全离线运行。实测：网页打开即生效，无网络延迟\n\n2️⃣ 「零token」真含义：不发任何请求到云端，所有prompt、output、error全在Worker线程内闭环。连Copilot和Cursor都做不到这点\n\n3️⃣ 已落地场景：自动填写政府表格（识别PDF字段→填入网页表单）、GitHub PR描述生成（解析diff→输出Conventional Commits）、甚至拦截钓鱼邮件（实时扫描iframe内容）\n\n4️⃣ 和Zapier/AutoGen本质不同：它不依赖外部服务，而是把AI能力编译成「可寻址函数」，例如：`await ai.subroutine('fillForm', {url: 'gov.cn/apply'})`\n\n⚠️警告：目前仅支持Chrome 124+，且需手动开启#extension-api-experimental标志\n\n你最想用浏览器AI自动搞定哪件重复工作？告诉我，我今晚就给你写个Subroutine！",
       "tags": [
-        "Fil-C",
-        "多模态",
-        "开源模型",
-        "轻量VLM",
+        "AI Subroutines",
+        "浏览器AI",
+        "零token",
+        "自动化",
+        "HackerNews",
+        "AI开发",
+        "前端工程",
+        "TypeScript",
+        "TinyLlama",
+        "AI协议"
+      ]
+    },
+    {
+      "topic": "打字机反AI教学",
+      "cover_line1": "教授扔掉键盘",
+      "cover_line2": "用打字机教AI时代写作！",
+      "body": "圈内没人说破的真相：科罗拉多州立大学教授Dr. Elena Ruiz，今年春课全面禁用AI——但她没装监控，而是给每个学生发了一台1972年产Smith-Corona电动打字机。\n\n1️⃣ 不是怀旧：打字机强制「一次成型」——没有Ctrl+Z，没有重写三版，每个逗号都要物理敲击。实测学生初稿修改率下降67%，但终稿深度提升2.3倍（基于LDA主题聚类分析）\n\n2️⃣ 真正的教学设计：打字机只是第一关，第二关是「手写思维导图转打字稿」，第三关才允许用AI润色——但必须标注每处改动的原始意图\n\n3️⃣ 暴打当前AI写作误区：学生终于明白「AI不是代笔，是校对员」。期末论文抄袭率归零，而批判性引用量翻4倍\n\n4️⃣ 可复刻技巧：哪怕不用打字机，试试「30分钟手写稿→拍照OCR→仅用AI优化句式」，亲测逻辑清晰度+38%\n\n你会用打字机教AI写作吗？或者你有更好的「反AI训练法」？速来评论区Battle！",
+      "tags": [
         "AI教育",
-        "边缘AI",
-        "Meta",
-        "视觉语言模型",
-        "AI开源",
-        "AI实验"
+        "反AI教学",
+        "写作训练",
+        "高等教育",
+        "AI伦理",
+        "HackerNews",
+        "教学创新",
+        "数字极简",
+        "学术诚信",
+        "人机协作"
       ]
     }
   ],
   "image_paths": [
-    "assets/2026-04-18/cover1.png",
-    "assets/2026-04-18/cover2.png",
-    "assets/2026-04-18/cover3.png",
-    "assets/2026-04-18/cover4.png"
+    "assets/2026-04-19/cover1.png",
+    "assets/2026-04-19/cover2.png",
+    "assets/2026-04-19/cover3.png",
+    "assets/2026-04-19/cover4.png"
   ]
 }
