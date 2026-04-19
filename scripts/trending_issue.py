@@ -181,7 +181,7 @@ USER_PROMPT_TEMPLATE = """\
 封面标题要求：
 - 若项目来自 OpenAI/Google/Meta/Anthropic/Microsoft/Apple，优先对比战争体
 - 若涉及知名人物，第一行点名
-- 否则用数字体（「GitHub今日涨{N}星」「程序员偷偷在用的」）或内幕悄悄体
+- 否则用数字体（「GitHub今日涨{{N}}星」「程序员偷偷在用的」）或内幕悄悄体
 
 输出格式：合法 JSON 数组，不含任何其他文字。
 [
