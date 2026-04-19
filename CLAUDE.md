@@ -135,4 +135,5 @@ gh run list --workflow="📱 AI 小红书日报" --limit 3
 | `LLM_API_KEY` | OpenAI 兼容 API Key |
 | `LLM_BASE_URL` | API 基础 URL（默认 `https://api.openai.com/v1`）|
 | `LLM_MODEL` | 模型名（默认 `gpt-4o-mini`）|
+| `FEISHU_WEBHOOK` | 飞书自定义机器人 Webhook URL（可选，不填则跳过推送）|
 | `DASHSCOPE_API_KEY` | 阿里云 DashScope（备用）|
