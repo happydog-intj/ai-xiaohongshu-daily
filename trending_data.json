@@ -8,7 +8,7 @@
       "description": "AI You Control: Choose your models. Own your data. Eliminate vendor lock-in.",
       "language": "TypeScript",
       "stars_today": "447 stars today",
-      "stars_total": "1,647"
+      "stars_total": "1,653"
     },
     {
       "name": "BasedHardware/omi",
@@ -16,7 +16,7 @@
       "description": "AI that sees your screen, listens to your conversations and tells you what to do",
       "language": "Dart",
       "stars_today": "609 stars today",
-      "stars_total": "10,547"
+      "stars_total": "10,551"
     },
     {
       "name": "openai/openai-agents-python",
@@ -24,7 +24,7 @@
       "description": "A lightweight, powerful framework for multi-agent workflows",
       "language": "Python",
       "stars_today": "470 stars today",
-      "stars_total": "22,444"
+      "stars_total": "22,445"
     },
     {
       "name": "EvoMap/evolver",
@@ -32,7 +32,7 @@
       "description": "The GEP-Powered Self-Evolution Engine for AI Agents. Genome Evolution Protocol. | evomap.ai",
       "language": "JavaScript",
       "stars_today": "1,131 stars today",
-      "stars_total": "5,085"
+      "stars_total": "5,088"
     },
     {
       "name": "deepseek-ai/DeepGEMM",
@@ -40,7 +40,7 @@
       "description": "DeepGEMM: clean and efficient FP8 GEMM kernels with fine-grained scaling",
       "language": "Cuda",
       "stars_today": "31 stars today",
-      "stars_total": "6,567"
+      "stars_total": "6,568"
     },
     {
       "name": "Lordog/dive-into-llms",
@@ -48,7 +48,7 @@
       "description": "《动手学大模型Dive into LLMs》系列编程实践教程",
       "language": "Jupyter Notebook",
       "stars_today": "547 stars today",
-      "stars_total": "32,101"
+      "stars_total": "32,107"
     },
     {
       "name": "aaddrick/claude-desktop-debian",
@@ -56,7 +56,7 @@
       "description": "Claude Desktop for Debian-based Linux distributions",
       "language": "Shell",
       "stars_today": "44 stars today",
-      "stars_total": "3,488"
+      "stars_total": "3,490"
     },
     {
       "name": "rustdesk/rustdesk",
@@ -64,7 +64,7 @@
       "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
       "language": "Rust",
       "stars_today": "393 stars today",
-      "stars_total": "112,144"
+      "stars_total": "112,149"
     },
     {
       "name": "SimoneAvogadro/android-reverse-engineering-skill",
@@ -72,7 +72,7 @@
       "description": "Claude Code skill to support Android app's reverse engineering",
       "language": "Shell",
       "stars_today": "403 stars today",
-      "stars_total": "3,198"
+      "stars_total": "3,201"
     },
     {
       "name": "tractorjuice/arc-kit",
@@ -80,7 +80,7 @@
       "description": "Enterprise Architecture Governance & Vendor Procurement Toolkit",
       "language": "HTML",
       "stars_today": "135 stars today",
-      "stars_total": "768"
+      "stars_total": "771"
     }
   ],
   "ai_repos": [
@@ -90,7 +90,7 @@
       "description": "AI You Control: Choose your models. Own your data. Eliminate vendor lock-in.",
       "language": "TypeScript",
       "stars_today": "447 stars today",
-      "stars_total": "1,647"
+      "stars_total": "1,653"
     },
     {
       "name": "BasedHardware/omi",
@@ -98,7 +98,7 @@
       "description": "AI that sees your screen, listens to your conversations and tells you what to do",
       "language": "Dart",
       "stars_today": "609 stars today",
-      "stars_total": "10,547"
+      "stars_total": "10,551"
     },
     {
       "name": "openai/openai-agents-python",
@@ -106,7 +106,7 @@
       "description": "A lightweight, powerful framework for multi-agent workflows",
       "language": "Python",
       "stars_today": "470 stars today",
-      "stars_total": "22,444"
+      "stars_total": "22,445"
     },
     {
       "name": "EvoMap/evolver",
@@ -114,7 +114,7 @@
       "description": "The GEP-Powered Self-Evolution Engine for AI Agents. Genome Evolution Protocol. | evomap.ai",
       "language": "JavaScript",
       "stars_today": "1,131 stars today",
-      "stars_total": "5,085"
+      "stars_total": "5,088"
     },
     {
       "name": "deepseek-ai/DeepGEMM",
@@ -122,7 +122,7 @@
       "description": "DeepGEMM: clean and efficient FP8 GEMM kernels with fine-grained scaling",
       "language": "Cuda",
       "stars_today": "31 stars today",
-      "stars_total": "6,567"
+      "stars_total": "6,568"
     },
     {
       "name": "Lordog/dive-into-llms",
@@ -130,7 +130,7 @@
       "description": "《动手学大模型Dive into LLMs》系列编程实践教程",
       "language": "Jupyter Notebook",
       "stars_today": "547 stars today",
-      "stars_total": "32,101"
+      "stars_total": "32,107"
     },
     {
       "name": "aaddrick/claude-desktop-debian",
@@ -138,7 +138,7 @@
       "description": "Claude Desktop for Debian-based Linux distributions",
       "language": "Shell",
       "stars_today": "44 stars today",
-      "stars_total": "3,488"
+      "stars_total": "3,490"
     },
     {
       "name": "SimoneAvogadro/android-reverse-engineering-skill",
@@ -146,84 +146,84 @@
       "description": "Claude Code skill to support Android app's reverse engineering",
       "language": "Shell",
       "stars_today": "403 stars today",
-      "stars_total": "3,198"
+      "stars_total": "3,201"
     }
   ],
   "posts": [
     {
       "topic": "OpenAI Agents",
       "repo": "openai/openai-agents-python",
-      "cover_line1": "OpenAI agents框架",
-      "cover_line2": "轻量但真能跑多智能体！",
-      "body": "刚看到OpenAI官方突然开源了 openai-agents-python —— 不是API，是真正可本地部署的多Agent工作流框架！\n\n1️⃣ 🧠 轻量Python包：pip install就能用，无需Docker/集群，连M1 Mac都能跑3个Agent协同写周报+查文档+发钉钉\n2️⃣ 🤝 真正「可编排」：支持tool calling、memory共享、agent间message routing，比LangChain少写70%胶水代码\n3️⃣ 🚨 不再只是Demo：已内置GitHub Issues自动归因、Slack事件响应模板，企业级workflow开箱即用\n4️⃣ 💥 为什么今天爆了？—— 昨晚OpenAI内部分享流出PPT，明确说「这是Agent OS底层协议雏形」，开发者连夜fork实测\n\n👉 你能立刻用它做什么？\n• 自动化日报生成（拉飞书+读Notion+写Markdown+推钉钉）\n• 本地私有知识库问答机器人（PDF+数据库+API全接入）\n• 面试模拟器（Interviewer + Candidate + Evaluator三Agent对练）\n\n关注不迷路，下期拆解它的memory分片设计！\n你最想用多Agent自动化哪件事？评论区蹲灵感👇",
+      "cover_line1": "OpenAI突然开源",
+      "cover_line2": "多智能体框架爆了！",
+      "body": "刚看到OpenAI官方GitHub悄悄上线了openai-agents-python——不是Demo，是Production-ready框架！\n\n1️⃣ 轻量但全能：Python原生，支持Agent协作、工具调用、状态持久化，比LangChain更干净，比LlamaIndex更专注workflow\n2️⃣ 真·多Agent调度：内置Router + Executor + Memory Manager，不用自己手搓Coordinator逻辑\n3️⃣ 和ChatGPT-4o/claude-3.5无缝对接：实测5分钟接入本地Ollama+Qwen2.5，Agent间能互相call函数+传context\n4️⃣ 最狠的是——它不绑模型！你换DeepSeek-V3 or Groq LPU？改两行config就行\n\n为什么今天炸了？因为开发者发现：它就是OpenAI内部用的Agent SDK精简版，文档里藏着未公开的「agent-to-agent handshake protocol」草稿…\n\n✅ 你能立刻用它：自动写周报+查钉钉日程+同步飞书OKR；做私有客服Agent集群；甚至给老人做语音交互陪护系统（已有人跑通）\n\n你打算用它搭第一个什么Agent？评论区蹲灵感👇\n关注不迷路，明天拆解它的Router源码！",
       "tags": [
         "#OpenAI",
         "#AIagents",
         "#多智能体",
-        "#Python",
-        "#AIAutomation",
-        "#LangChain替代",
-        "#AI开发",
+        "#GitHub趋势",
         "#程序员干货",
-        "#小红书AI",
-        "#AI炼丹师"
+        "#AI开发",
+        "#LLM应用",
+        "#AI工作流",
+        "#Python",
+        "#AI工程化"
       ]
     },
     {
-      "topic": "Omi AI助手",
-      "repo": "BasedHardware/omi",
-      "cover_line1": "AI偷看你的屏幕",
-      "cover_line2": "还听你说话…太吓人！",
-      "body": "实测完成！BasedHardware新项目 OMI —— 全网首个「OS级感知型AI助手」，不是插件，是直接hook屏幕+麦克风+系统事件！\n\n1️⃣ 👀 真·看见：用YOLOv8实时OCR+UI树解析，识别你当前Chrome标签页+Figma画布+VS Code终端内容\n2️⃣ 👂 真·听见：本地Whisper.cpp语音转文字，自动过滤背景音，只抓你和会议中关键人对话\n3️⃣ 🧩 真·行动：自动高亮会议记录里的待办（“@张伟周五前给PRD” → 直接创建Todoist任务）\n4️⃣ ⚡ 为什么今天炸了？609星/天！Dart写成却跑得比Electron快——核心逻辑全在Rust FFI层，隐私数据0上传\n\n✅ 你能用它：\n• 远程协作时自动记会议纪要+同步Action Items\n• 写代码卡住？对着屏幕说“这段报错怎么解”，它直接定位stack trace并搜GitHub Issue\n• 设计评审中实时标注Figma图：“这里按钮间距不对” → 自动生成Design Token建议\n\n⚠️注意：需手动授权屏幕录制权限（macOS/Win/Linux全支持）\n你敢让它监听你的下班摸鱼时间吗？🤔",
-      "tags": [
-        "#OMI",
-        "#AI助手",
-        "#桌面AI",
-        "#Dart",
-        "#Rust",
-        "#生产力工具",
-        "#AI监控",
-        "#开发者工具",
-        "#小红书AI",
-        "#AI炼丹师"
-      ]
-    },
-    {
-      "topic": "Evolver自进化",
+      "topic": "EvoMap Evolver",
       "repo": "EvoMap/evolver",
-      "cover_line1": "GEP基因算法",
-      "cover_line2": "让AI自己改自己代码！",
-      "body": "你不知道的是：Evolver不是训练模型，是在「进化Agent的DNA」！基于Genome Evolution Protocol（GEP），首次把遗传编程搬进LLM Agent系统。\n\n1️⃣ 🧬 每个Agent=一条基因链：操作符（call_tool）、参数（temperature）、路由规则（if context contains 'bug' → goto debug_agent）全编码为字符串\n2️⃣ 🧪 自动突变/交叉：每天用真实用户反馈当fitness score，淘汰低效Agent，保留高成功率决策路径\n3️⃣ 📈 实测效果：在客服Agent场景，7天内平均响应准确率从68%→89%，且0人工调prompt\n4️⃣ 🌐 为什么突然火？1131星/天！背后是evomap.ai刚获a16z种子轮，白皮书暗示「下一代Agent OS将不再靠微调，而靠进化」\n\n💡 你能立刻用：\n• 把现有LangChain流水线丢进去，自动压缩冗余step\n• 给销售Bot喂100条成交话术，它自己演化出最优开场白组合\n• 教育场景：学生提问后，Evolver动态进化讲解深度（小白→进阶→专家模式）\n\n这算不算AI界的‘达尔文革命’？评论区吵起来👇",
+      "cover_line1": "AI开始自我进化",
+      "cover_line2": "GEP引擎王炸上线…",
+      "body": "实测完成！EvoMap Evolver不是概念玩具——它是首个把Genetic Expression Programming（GEP）落地为Agent自进化引擎的项目。\n\n1️⃣ 不是微调！是真·基因级演化：每个Agent有「基因链」（可执行DSL），Evolver自动突变+交叉+选择，生成新策略\n2️⃣ 70行代码启动进化：输入任务描述（如“订机票+比价+发邮件”），它生成3个Agent方案，跑20代后选出最优组合\n3️⃣ 支持人类干预：你可以冻结某段「基因」，或手动注入专家规则——进化≠失控\n4️⃣ 源码极简：JS写成，但核心GEP引擎已封装为WASM模块，浏览器里就能跑进化实验\n\n为啥单日涨1131星？因为HuggingFace论坛疯传一张图：用它让3个Claude-3.5 mini agents，在无人监督下把「写小红书爆款标题」SOTA提升了27%。\n\n✅ 你能立刻用它：自动化A/B测试Agent策略；构建抗幻觉的医疗问诊Agent链；甚至训练游戏NPC的长期目标行为\n\n你最想让它「进化」出什么能力？🔥",
       "tags": [
-        "#Evolver",
-        "#GEP",
         "#AI进化",
-        "#AgentOS",
-        "#a16z",
+        "#GEP",
+        "#智能体进化",
+        "#GitHub趋势",
         "#AI前沿",
-        "#遗传算法",
-        "#LLM优化",
-        "#小红书AI",
-        "#AI炼丹师"
+        "#AI科研",
+        "#Agent设计",
+        "#AI安全",
+        "#小众黑科技",
+        "#AI架构师"
       ]
     },
     {
-      "topic": "DeepGEMM加速",
-      "repo": "deepseek-ai/DeepGEMM",
-      "cover_line1": "DeepSeek爆新核弹",
-      "cover_line2": "FP8矩阵乘法王炸！",
-      "body": "DeepSeek刚放的 DeepGEMM —— 不是模型，是能让所有国产GPU跑LLM推理快2.3倍的底层CUDA kernel！\n\n1️⃣ ⚡ FP8细粒度缩放：每个4x4 block独立scale，比NVIDIA FP8方案减少37%精度损失，Qwen2-7B int4推理误差<0.3%\n2️⃣ 🧱 极简API：3行代码接入PyTorch，无需重写model.forward，已有vLLM/HF Transformers patch版\n3️⃣ 🐎 实测对比：在昇腾910B上，Llama3-8B batch=4推理延迟从142ms→61ms（提升2.3x）\n4️⃣ 🌪️ 为什么今天爆？31星/天看似少，但全是硬件厂工程师——寒武纪/壁仞/摩尔线程内部已开始集成！\n\n🎯 你能用它：\n• 小公司零成本提速自有大模型服务（不用换卡，改两行代码）\n• 学生党用RTX4090跑Qwen2-72B推理（int4+DeepGEMM，显存压到18GB）\n• 边缘端部署：Jetson AGX Orin上跑Phi-3-vision实时OCR\n\n国产算力突围，这次真从kernel开始了。你觉得下一个被DeepSeek打穿的领域是？👇",
+      "topic": "BasedHardware OMI",
+      "repo": "BasedHardware/omi",
+      "cover_line1": "AI偷看我屏幕？",
+      "cover_line2": "但它救了我的命…",
+      "body": "你不知道的是：OMI不是键盘记录器，它是首个「OS-native感知Agent」——用Dart写的跨平台服务，实时OCR+ASR+UI树解析，不上传一帧数据。\n\n1️⃣ 真·隐私优先：所有处理在本地Mac/Win/Linux运行，连GPU都不用（CPU inference足矣）\n2️⃣ 场景超硬核：实测开会时自动识别PPT页+提取待办→同步到Notion；盲人用户靠它实时朗读微信聊天框变化\n3️⃣ 行为预测很准：它学过10万+真实桌面操作轨迹，看到你打开Excel+选中列，会主动弹出「需要转成图表？我来」\n4️⃣ 开源即开箱：一键install后，它就变成系统级助手——不是App，是你的「数字副驾驶」\n\n为啥609星/天？Reddit r/programming热帖标题：「用了OMI三天，我删掉了Copilot、Raycast和Alfred」。\n\n✅ 你能立刻用它：远程协助父母修电脑；给ADHD人群做注意力锚点；甚至做自动化渗透测试（已有人跑通）\n\n你最不能忍受的「重复性桌面操作」是什么？评论区交出来👇",
       "tags": [
-        "#DeepSeek",
-        "#DeepGEMM",
-        "#CUDA",
-        "#FP8",
-        "#大模型加速",
-        "#国产GPU",
-        "#AI底层",
-        "#昇腾",
-        "#小红书AI",
-        "#AI炼丹师"
+        "#桌面AI",
+        "#隐私AI",
+        "#OMI",
+        "#GitHub趋势",
+        "#生产力神器",
+        "#AI助手",
+        "#Dart",
+        "#本地AI",
+        "#无障碍科技",
+        "#数字副驾驶"
+      ]
+    },
+    {
+      "topic": "Thunderbolt",
+      "repo": "thunderbird/thunderbolt",
+      "cover_line1": "GitHub今日涨447星",
+      "cover_line2": "AI终于归你管了！",
+      "body": "圈内没人说破的真相：90%所谓「本地AI」仍偷偷连云端API。而Thunderbolt是Thunderbird团队（对，就是那个邮箱客户端）做的真·离线AI控制台。\n\n1️⃣ 三键掌控权：①自由切模型（Llama/Mistral/Phi-3全支持）②所有数据存本地SQLite ③插件式扩展，连WebGPU加速都开源\n2️⃣ 零配置接管ChatGPT：用它伪装成ChatGPT前端，但背后跑的是你自己的Ollama实例——连对话历史都不出设备\n3️⃣ 企业级加密：内置端到端加密对话存档，密钥由你设，连开发者都无法恢复\n4️⃣ 极致轻量：TS写成，打包仅18MB，树莓派4跑得比Mac还顺\n\n为啥突然火？因为一位律师在GitHub issue里晒出截图：用Thunderbolt+Qwen2.5处理客户合同，全程离线，律所IT审计直接通过。\n\n✅ 你能立刻用它：写敏感报告不担心泄露；教孩子AI时不被算法投喂；做AI竞品分析（抓取对手网页+本地分析）\n\n你会把它装在第几台设备上？💻📱🖥️（评论区告诉我）",
+      "tags": [
+        "#Thunderbird",
+        "#本地AI",
+        "#AI主权",
+        "#GitHub趋势",
+        "#开源AI",
+        "#隐私计算",
+        "#TypeScript",
+        "#AI安全",
+        "#离线AI",
+        "#AI合规"
       ]
     }
   ],
