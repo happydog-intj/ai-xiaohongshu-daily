@@ -812,22 +812,65 @@ def send_feishu_notify(posts: list[dict], issue_url: str | None = None) -> None:
 
 
 # ══════════════════════════════════════════════════════════════════════════════
-# 5. 主流程
+# 5. 飞书图片链接通知
 # ══════════════════════════════════════════════════════════════════════════════
 
-def main() -> None:
-    parser = argparse.ArgumentParser(description="GitHub Trending AI 追踪器")
-    parser.add_argument("--since",     default="daily",  choices=["daily", "weekly", "monthly"])
-    parser.add_argument("--top-n",     default=10,  type=int, help="抓取 Trending 条数")
-    parser.add_argument("--max-posts", default=4,   type=int, help="最多生成帖子数")
-    parser.add_argument("--no-issue",  action="store_true",   help="跳过创建 Issue")
-    parser.add_argument("--no-notify", action="store_true",   help="跳过飞书通知")
-    args = parser.parse_args()
+def send_feishu_images(
+    image_paths: list[str | None],
+    posts: list[dict],
+    slot: str,
+    today_cn: str,
+) -> None:
+    """依次把每张封面图的 GitHub raw URL 发到飞书（一图一条消息）。"""
+    if not FEISHU_WEBHOOK:
+        print("  ⚠️  FEISHU_WEBHOOK not set, skipping image notify")
+        return
+    if not GITHUB_REPO:
+        print("  ⚠️  GITHUB_REPOSITORY not set, skipping image notify")
+        return
 
-    print(f"\n🚀 GitHub Trending AI {SLOT}  [{TODAY} {HOUR}:xx]\n{'─'*54}")
+    owner, repo = GITHUB_REPO.split("/", 1)
+    branch      = get_default_branch(owner, repo)
+
+    n_posts = len(posts)
+    # image_paths[0] = summary, image_paths[1:] = post covers
+    labels: list[str] = [f"📊 今日 AI 热榜总览"]
+    for i, post in enumerate(posts, 1):
+        topic = post.get("cover_line1", post.get("topic", f"帖子{i}"))
+        labels.append(f"🖼️ 帖子{i}/{n_posts} · {topic}")
+
+    print("📨 Sending Feishu image notifications…")
+    for idx, path in enumerate(image_paths):
+        if not path:
+            continue
+        label   = labels[idx] if idx < len(labels) else f"🖼️ 图片{idx}"
+        raw_url = f"https://raw.githubusercontent.com/{GITHUB_REPO}/{branch}/{path}"
+        text    = f"{label}\n{raw_url}"
+        try:
+            resp   = requests.post(
+                FEISHU_WEBHOOK,
+                json={"msg_type": "text", "content": {"text": text}},
+                timeout=10,
+            )
+            result = resp.json()
+            if resp.status_code == 200 and result.get("code") == 0:
+                print(f"  ✅ 图片{idx} ({label}) 已发送")
+            else:
+                print(f"  ⚠️  图片{idx} 发送失败: {result.get('msg', resp.text[:120])}")
+        except Exception as e:
+            print(f"  ⚠️  图片{idx} 发送异常: {e}")
+
+
+# ══════════════════════════════════════════════════════════════════════════════
+# 6. 主流程（分阶段）
+# ══════════════════════════════════════════════════════════════════════════════
+
+def phase_generate(since: str = "daily", top_n: int = 10, max_posts: int = 4) -> None:
+    """阶段一：抓取 → AI过滤 → LLM生成帖子 → 生成封面图 → 保存 trending_data.json"""
+    print(f"\n🚀 [generate] GitHub Trending AI {SLOT}  [{TODAY} {HOUR}:xx]\n{'─'*54}")
 
     # 1. 抓取 Trending
-    all_repos = fetch_github_trending(since=args.since, top_n=args.top_n)
+    all_repos = fetch_github_trending(since=since, top_n=top_n)
     if not all_repos:
         print("❌ No repos fetched. Exiting.")
         sys.exit(1)
@@ -839,7 +882,7 @@ def main() -> None:
         ai_repos = all_repos[:3]   # 保底取前 3 个
 
     # 3. LLM 生成小红书帖子
-    posts = generate_posts_with_llm(ai_repos, max_posts=args.max_posts)
+    posts = generate_posts_with_llm(ai_repos, max_posts=max_posts)
     if not posts:
         print("❌ No posts generated. Exiting.")
         sys.exit(1)
@@ -868,27 +911,71 @@ def main() -> None:
         else:
             image_paths.append(None)
 
-    # 5. 保存中间数据
+    # 5. 保存中间数据（含 image_paths 字段）
     DATA_FILE.write_text(
         json.dumps(
-            {"date": TODAY, "slot": SLOT, "all_repos": all_repos,
-             "ai_repos": ai_repos, "posts": posts, "image_paths": image_paths},
+            {
+                "date":        TODAY,
+                "slot":        SLOT,
+                "all_repos":   all_repos,
+                "ai_repos":    ai_repos,
+                "posts":       posts,
+                "image_paths": image_paths,
+            },
             ensure_ascii=False, indent=2,
         ),
         encoding="utf-8",
     )
     print(f"💾 Saved {DATA_FILE}")
+    print(f"\n✅ [generate] Done — {len(posts)} posts, {len([p for p in image_paths if p])} images")
 
-    # 6. 创建 GitHub Issue
-    issue_url = None
-    if not args.no_issue:
-        issue_url = create_github_issue(posts, all_repos, ai_repos, image_paths=image_paths)
 
-    # 7. 飞书通知
-    if not args.no_notify:
-        send_feishu_notify(posts, issue_url)
+def phase_publish() -> None:
+    """阶段二：读取 trending_data.json → 创建 Issue → 发飞书文字通知 → 发飞书图片链接"""
+    print(f"\n🚀 [publish] GitHub Trending AI {SLOT}  [{TODAY} {HOUR}:xx]\n{'─'*54}")
 
-    print(f"\n🎉 Done! {SLOT} {TODAY}  {len(posts)} posts")
+    if not DATA_FILE.exists():
+        print(f"❌ {DATA_FILE} not found. Run --phase generate first.")
+        sys.exit(1)
+
+    data      = json.loads(DATA_FILE.read_text(encoding="utf-8"))
+    all_repos = data.get("all_repos", [])
+    ai_repos  = data.get("ai_repos", [])
+    posts     = data.get("posts", [])
+    image_paths: list[str | None] = data.get("image_paths", [])
+
+    # 1. 创建 GitHub Issue
+    issue_url = create_github_issue(posts, all_repos, ai_repos, image_paths=image_paths)
+
+    # 2. 飞书文字通知
+    send_feishu_notify(posts, issue_url)
+
+    # 3. 飞书图片链接通知
+    send_feishu_images(image_paths, posts, SLOT, TODAY_CN)
+
+    print(f"\n✅ [publish] Done — {len(posts)} posts published")
+
+
+def main() -> None:
+    parser = argparse.ArgumentParser(description="GitHub Trending AI 追踪器")
+    parser.add_argument("--since",     default="daily",  choices=["daily", "weekly", "monthly"])
+    parser.add_argument("--top-n",     default=10,  type=int, help="抓取 Trending 条数")
+    parser.add_argument("--max-posts", default=4,   type=int, help="最多生成帖子数")
+    parser.add_argument(
+        "--phase",
+        default="all",
+        choices=["generate", "publish", "all"],
+        help="执行阶段：generate=抓取+生图, publish=发Issue+飞书, all=顺序执行两阶段（默认）",
+    )
+    args = parser.parse_args()
+
+    if args.phase == "generate":
+        phase_generate(since=args.since, top_n=args.top_n, max_posts=args.max_posts)
+    elif args.phase == "publish":
+        phase_publish()
+    else:  # all
+        phase_generate(since=args.since, top_n=args.top_n, max_posts=args.max_posts)
+        phase_publish()
 
 
 if __name__ == "__main__":
