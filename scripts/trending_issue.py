@@ -123,7 +123,7 @@ def make_summary_cover(
         draw.rectangle([PAD - 12, PAD, PAD - 4, H - PAD], fill=RED)
 
         # ── 顶部大标题 ──
-        title_text = f"🔥 GitHub Trending AI {slot}"
+        title_text = f"GitHub Trending AI {slot}"
         f_title = get_font(60)
         bbox = draw.textbbox((0, 0), title_text, font=f_title)
         tw = bbox[2] - bbox[0]
