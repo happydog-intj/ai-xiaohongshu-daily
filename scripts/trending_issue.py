@@ -90,7 +90,9 @@ def make_summary_cover(
 ) -> bool:
     """
     生成热榜总览封面图（1080×1080，白底黑字）。
-    顶部大标题、副标题、左侧红色竖条、repo 列表、底部品牌。
+    仿 GitHub Issue markdown 预览风格：每个 repo 两行
+      行1: {rank}. owner/repo  · language · ★total · ▲today
+      行2: description（缩进，浅灰）
     """
     try:
         from PIL import Image, ImageDraw, ImageFont
@@ -99,12 +101,15 @@ def make_summary_cover(
         return False
 
     try:
-        W, H   = 1080, 1080
-        PAD    = 80
-        RED    = (255, 45, 85)      # #FF2D55
-        DARK   = (26, 26, 26)       # #1A1A1A
-        GRAY   = (140, 140, 140)
-        WHITE  = (255, 255, 255)
+        import re as _re
+
+        W, H    = 1080, 1080
+        PAD     = 72
+        RED     = (255, 45, 85)
+        DARK    = (26, 26, 26)
+        GRAY    = (130, 130, 130)
+        LGRAY   = (210, 210, 210)
+        WHITE   = (255, 255, 255)
 
         img  = Image.new("RGB", (W, H), WHITE)
         draw = ImageDraw.Draw(img)
@@ -119,81 +124,105 @@ def make_summary_cover(
                     pass
             return ImageFont.load_default(size=size)
 
-        # ── 左侧红色竖条装饰 ──
-        draw.rectangle([PAD - 12, PAD, PAD - 4, H - PAD], fill=RED)
+        def tw(text: str, font) -> int:
+            b = draw.textbbox((0, 0), text, font=font)
+            return b[2] - b[0]
 
-        # ── 顶部大标题 ──
-        title_text = f"GitHub Trending AI {slot}"
-        f_title = get_font(60)
-        bbox = draw.textbbox((0, 0), title_text, font=f_title)
-        tw = bbox[2] - bbox[0]
-        draw.text(((W - tw) // 2, PAD + 10), title_text, font=f_title, fill=RED)
-
-        # ── 副标题 ──
-        sub_text = f"· {today_cn} ·"
-        f_sub = get_font(32)
-        bbox = draw.textbbox((0, 0), sub_text, font=f_sub)
-        tw = bbox[2] - bbox[0]
-        sub_y = PAD + 10 + 60 + 20
-        draw.text(((W - tw) // 2, sub_y), sub_text, font=f_sub, fill=GRAY)
-
-        # ── repo 列表 ──
-        f_num  = get_font(28)
-        f_text = get_font(28)
-        list_y = sub_y + 32 + 30
-        row_h  = 48
-        right_pad = PAD + 20   # 右边距
-
-        def truncate_to_width(text: str, font, max_px: int) -> str:
-            """按像素宽度截断文本，超出则加 …"""
-            bbox = draw.textbbox((0, 0), text, font=font)
-            if bbox[2] - bbox[0] <= max_px:
+        def truncate(text: str, font, max_px: int) -> str:
+            if tw(text, font) <= max_px:
                 return text
             while text:
                 text = text[:-1]
-                candidate = text.rstrip() + "…"
-                bbox = draw.textbbox((0, 0), candidate, font=font)
-                if bbox[2] - bbox[0] <= max_px:
-                    return candidate
+                cand = text.rstrip() + "…"
+                if tw(cand, font) <= max_px:
+                    return cand
             return "…"
 
-        def extract_star_count(stars_today: str) -> str:
-            """'447 stars today' → '447'"""
-            import re
-            m = re.search(r"[\d,]+", stars_today)
-            return m.group(0) if m else stars_today
+        def star_num(raw: str) -> str:
+            m = _re.search(r"[\d,]+", raw)
+            return m.group(0) if m else raw
+
+        # ── 左侧红色竖条 ──
+        draw.rectangle([PAD - 14, PAD, PAD - 5, H - PAD], fill=RED)
+
+        # ── 标题 ──
+        f_title = get_font(54)
+        title   = f"GitHub Trending AI {slot}"
+        cx      = (W - tw(title, f_title)) // 2
+        draw.text((cx, PAD + 8), title, font=f_title, fill=RED)
+
+        # ── 副标题 ──
+        f_sub  = get_font(26)
+        sub    = f"· {today_cn} ·"
+        sub_y  = PAD + 8 + 54 + 12
+        draw.text(((W - tw(sub, f_sub)) // 2, sub_y), sub, font=f_sub, fill=GRAY)
+
+        # ── 分割线 ──
+        div_y = sub_y + 26 + 14
+        draw.line([PAD + 16, div_y, W - PAD - 16, div_y], fill=LGRAY, width=1)
+
+        # ── repo 列表（两行格式） ──
+        f_rank = get_font(22)   # 序号
+        f_name = get_font(23)   # owner/repo（主色，较粗显眼）
+        f_meta = get_font(19)   # · language · ★ · ▲（浅灰）
+        f_desc = get_font(19)   # description（浅灰）
+
+        INDENT    = PAD + 16          # 左起点
+        RIGHT_PAD = PAD + 16          # 右边距
+        MAX_W     = W - INDENT - RIGHT_PAD
+        NAME_Y_OFF = 2                # name 相对 rank 的垂直偏移（对齐基线）
+        NAME_GAP  = 6                 # name 与 desc 之间的间距
+        ITEM_GAP  = 12                # 两个 repo 之间的间距
+
+        list_y = div_y + 18
 
         for idx, repo in enumerate(ai_repos[:8], 1):
-            name        = repo.get("name", "")
-            stars_today = repo.get("stars_today", "")
-            desc        = repo.get("description", "")
+            name     = repo.get("name", "")
+            language = repo.get("language", "")
+            s_total  = repo.get("stars_total", "")
+            s_today  = star_num(repo.get("stars_today", ""))
+            desc     = repo.get("description", "")
 
-            # 序号（红色）
-            num_str  = f"{idx}."
-            draw.text((PAD + 20, list_y), num_str, font=f_num, fill=RED)
-            bbox_num = draw.textbbox((0, 0), num_str, font=f_num)
-            num_w    = bbox_num[2] - bbox_num[0]
+            # — 行1：序号 + name + meta —
+            rank_str = f"{idx}."
+            draw.text((INDENT, list_y), rank_str, font=f_rank, fill=RED)
+            rank_w = tw(rank_str, f_rank)
 
-            # 可用像素宽度
-            x_start = PAD + 20 + num_w + 8
-            max_w   = W - x_start - right_pad
+            x_name = INDENT + rank_w + 6
 
-            # 组装行文本：name + 🔺N stars + desc
-            star_count = extract_star_count(stars_today)
-            stars_str  = f"  ▲{star_count}" if star_count else ""
-            desc_str   = f"  {desc}" if desc else ""
-            line_text  = f"{name}{stars_str}{desc_str}"
-            line_text  = truncate_to_width(line_text, f_text, max_w)
+            # 构建 meta 字符串（灰色小字，接在 name 后）
+            meta_parts = []
+            if language:
+                meta_parts.append(language)
+            if s_total:
+                meta_parts.append(f"★{s_total}")
+            if s_today:
+                meta_parts.append(f"▲{s_today}")
+            meta_str = "  " + " · ".join(meta_parts) if meta_parts else ""
+            meta_w   = tw(meta_str, f_meta)
 
-            draw.text((x_start, list_y), line_text, font=f_text, fill=DARK)
-            list_y += row_h
+            # name 可用宽度 = 总宽 - rank - meta
+            name_max = MAX_W - rank_w - 6 - meta_w
+            name_disp = truncate(name, f_name, max(name_max, 80))
+            draw.text((x_name, list_y + NAME_Y_OFF), name_disp, font=f_name, fill=DARK)
+            name_w = tw(name_disp, f_name)
+
+            # meta 紧接在 name 后
+            draw.text((x_name + name_w, list_y + NAME_Y_OFF + 3), meta_str, font=f_meta, fill=GRAY)
+
+            # — 行2：description —
+            line2_y = list_y + 23 + NAME_GAP
+            if desc:
+                desc_disp = truncate(desc, f_desc, MAX_W - rank_w - 6)
+                draw.text((x_name, line2_y), desc_disp, font=f_desc, fill=GRAY)
+
+            list_y = line2_y + 22 + ITEM_GAP
 
         # ── 底部品牌 ──
-        brand = "#AI炼丹师"
-        f_brand = get_font(26)
-        bbox = draw.textbbox((0, 0), brand, font=f_brand)
+        f_brand = get_font(24)
+        brand   = "#AI炼丹师"
         draw.text(
-            ((W - (bbox[2] - bbox[0])) // 2, H - PAD - 30),
+            ((W - tw(brand, f_brand)) // 2, H - PAD - 26),
             brand, font=f_brand, fill=GRAY,
         )
 
