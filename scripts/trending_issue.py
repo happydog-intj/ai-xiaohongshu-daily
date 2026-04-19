@@ -103,15 +103,21 @@ def make_summary_cover(
     try:
         import re as _re
 
-        W, H    = 1080, 1080
-        PAD     = 72
-        RED     = (255, 45, 85)
-        DARK    = (26, 26, 26)
-        GRAY    = (130, 130, 130)
-        LGRAY   = (210, 210, 210)
-        WHITE   = (255, 255, 255)
+        W, H   = 1080, 1080
+        PAD    = 68
+        # GitHub markdown preview 配色
+        BG     = (255, 255, 255)
+        DARK   = (36,  41,  47)    # 标题文字
+        BLUE   = (9,  105, 218)    # repo 名（GitHub link blue）
+        GOLD   = (154, 103,   0)   # ★ 总 stars（amber）
+        GREEN  = (26,  127,  55)   # ▲ 今日涨幅
+        ORANGE = (207,  87,  17)   # language
+        GDESC  = (87,  96, 106)    # description
+        META_G = (101, 109, 118)   # meta 分隔符 ·
+        BORDER = (208, 215, 222)   # H2 下划线
+        RED    = (207,  34,  46)   # 序号
 
-        img  = Image.new("RGB", (W, H), WHITE)
+        img  = Image.new("RGB", (W, H), BG)
         draw = ImageDraw.Draw(img)
 
         font_path = find_cjk_font()
@@ -128,6 +134,10 @@ def make_summary_cover(
             b = draw.textbbox((0, 0), text, font=font)
             return b[2] - b[0]
 
+        def th(text: str, font) -> int:
+            b = draw.textbbox((0, 0), text, font=font)
+            return b[3] - b[1]
+
         def truncate(text: str, font, max_px: int) -> str:
             if tw(text, font) <= max_px:
                 return text
@@ -142,39 +152,34 @@ def make_summary_cover(
             m = _re.search(r"[\d,]+", raw)
             return m.group(0) if m else raw
 
-        # ── 左侧红色竖条 ──
-        draw.rectangle([PAD - 14, PAD, PAD - 5, H - PAD], fill=RED)
+        # ── H2 标题（GitHub ## 风格）──
+        f_h2 = get_font(42)
+        title = "今日 AI 热榜总览"
+        draw.text((PAD, PAD), title, font=f_h2, fill=DARK)
+        y = PAD + th(title, f_h2) + 10
+        draw.line([PAD, y, W - PAD, y], fill=BORDER, width=1)
+        y += 20
 
-        # ── 标题 ──
-        f_title = get_font(54)
-        title   = f"GitHub Trending AI {slot}"
-        cx      = (W - tw(title, f_title)) // 2
-        draw.text((cx, PAD + 8), title, font=f_title, fill=RED)
+        # ── 字体 ──
+        f_rank  = get_font(24)
+        f_name  = get_font(27)
+        f_meta  = get_font(20)
+        f_desc  = get_font(20)
+        f_brand = get_font(22)
 
-        # ── 副标题 ──
-        f_sub  = get_font(26)
-        sub    = f"· {today_cn} ·"
-        sub_y  = PAD + 8 + 54 + 12
-        draw.text(((W - tw(sub, f_sub)) // 2, sub_y), sub, font=f_sub, fill=GRAY)
+        INDENT = PAD
+        MAX_W  = W - PAD * 2
 
-        # ── 分割线 ──
-        div_y = sub_y + 26 + 14
-        draw.line([PAD + 16, div_y, W - PAD - 16, div_y], fill=LGRAY, width=1)
+        # 计算动态行间距，让 8 个条目均匀填满画布
+        NAME_ROW = th("Ag", f_name)
+        DESC_ROW = th("Ag", f_desc)
+        NAME_GAP = 5                         # name → desc 行间距
+        BRAND_H  = th("#AI炼丹师", f_brand)
+        avail    = H - y - PAD - BRAND_H - 10
+        content  = (NAME_ROW + NAME_GAP + DESC_ROW) * len(ai_repos[:8])
+        ITEM_GAP = max(8, (avail - content) // max(len(ai_repos[:8]) - 1, 1))
 
-        # ── repo 列表（两行格式） ──
-        f_rank = get_font(22)   # 序号
-        f_name = get_font(23)   # owner/repo（主色，较粗显眼）
-        f_meta = get_font(19)   # · language · ★ · ▲（浅灰）
-        f_desc = get_font(19)   # description（浅灰）
-
-        INDENT    = PAD + 16          # 左起点
-        RIGHT_PAD = PAD + 16          # 右边距
-        MAX_W     = W - INDENT - RIGHT_PAD
-        NAME_Y_OFF = 2                # name 相对 rank 的垂直偏移（对齐基线）
-        NAME_GAP  = 6                 # name 与 desc 之间的间距
-        ITEM_GAP  = 12                # 两个 repo 之间的间距
-
-        list_y = div_y + 18
+        list_y = y
 
         for idx, repo in enumerate(ai_repos[:8], 1):
             name     = repo.get("name", "")
@@ -183,47 +188,49 @@ def make_summary_cover(
             s_today  = star_num(repo.get("stars_today", ""))
             desc     = repo.get("description", "")
 
-            # — 行1：序号 + name + meta —
+            # — 行1：序号(红) + repo名(蓝) + meta 彩色分段 —
             rank_str = f"{idx}."
             draw.text((INDENT, list_y), rank_str, font=f_rank, fill=RED)
             rank_w = tw(rank_str, f_rank)
-
             x_name = INDENT + rank_w + 6
 
-            # 构建 meta 字符串（灰色小字，接在 name 后）
-            meta_parts = []
-            if language:
-                meta_parts.append(language)
-            if s_total:
-                meta_parts.append(f"★{s_total}")
-            if s_today:
-                meta_parts.append(f"▲{s_today}")
-            meta_str = "  " + " · ".join(meta_parts) if meta_parts else ""
-            meta_w   = tw(meta_str, f_meta)
+            # 估算 meta 宽度后截断 repo 名
+            meta_sample = f"  {language} · \u2605{s_total} · \u25b2{s_today}"
+            meta_w_est  = tw(meta_sample, f_meta)
+            name_max    = MAX_W - rank_w - 6 - meta_w_est - 4
+            name_disp   = truncate(name, f_name, max(name_max, 80))
+            draw.text((x_name, list_y - 1), name_disp, font=f_name, fill=BLUE)
+            xm = x_name + tw(name_disp, f_name)
 
-            # name 可用宽度 = 总宽 - rank - meta
-            name_max = MAX_W - rank_w - 6 - meta_w
-            name_disp = truncate(name, f_name, max(name_max, 80))
-            draw.text((x_name, list_y + NAME_Y_OFF), name_disp, font=f_name, fill=DARK)
-            name_w = tw(name_disp, f_name)
+            # meta 彩色分段
+            seg_y = list_y + (NAME_ROW - th("Ag", f_meta)) // 2 + 1
+            pieces = [
+                ("  ",              META_G),
+                (language,          ORANGE),
+                (" · ",             META_G),
+                ("\u2605" + s_total, GOLD),
+                (" · ",             META_G),
+                ("\u25b2" + s_today, GREEN),
+            ]
+            xp = xm
+            for txt, col in pieces:
+                draw.text((xp, seg_y), txt, font=f_meta, fill=col)
+                xp += tw(txt, f_meta)
 
-            # meta 紧接在 name 后
-            draw.text((x_name + name_w, list_y + NAME_Y_OFF + 3), meta_str, font=f_meta, fill=GRAY)
+            list_y += NAME_ROW + NAME_GAP
 
-            # — 行2：description —
-            line2_y = list_y + 23 + NAME_GAP
+            # — 行2：description（深灰）—
             if desc:
                 desc_disp = truncate(desc, f_desc, MAX_W - rank_w - 6)
-                draw.text((x_name, line2_y), desc_disp, font=f_desc, fill=GRAY)
-
-            list_y = line2_y + 22 + ITEM_GAP
+                draw.text((x_name, list_y), desc_disp, font=f_desc, fill=GDESC)
+            list_y += DESC_ROW + (ITEM_GAP if idx < len(ai_repos[:8]) else 0)
 
         # ── 底部品牌 ──
-        f_brand = get_font(24)
+        f_brand = get_font(22)
         brand   = "#AI炼丹师"
         draw.text(
-            ((W - tw(brand, f_brand)) // 2, H - PAD - 26),
-            brand, font=f_brand, fill=GRAY,
+            ((W - tw(brand, f_brand)) // 2, H - PAD - BRAND_H),
+            brand, font=f_brand, fill=META_G,
         )
 
         out_path.parent.mkdir(parents=True, exist_ok=True)
