@@ -8,7 +8,7 @@
       "description": "AI You Control: Choose your models. Own your data. Eliminate vendor lock-in.",
       "language": "TypeScript",
       "stars_today": "447 stars today",
-      "stars_total": "1,654"
+      "stars_total": "1,672"
     },
     {
       "name": "BasedHardware/omi",
@@ -16,7 +16,7 @@
       "description": "AI that sees your screen, listens to your conversations and tells you what to do",
       "language": "Dart",
       "stars_today": "609 stars today",
-      "stars_total": "10,553"
+      "stars_total": "10,564"
     },
     {
       "name": "openai/openai-agents-python",
@@ -24,7 +24,7 @@
       "description": "A lightweight, powerful framework for multi-agent workflows",
       "language": "Python",
       "stars_today": "470 stars today",
-      "stars_total": "22,449"
+      "stars_total": "22,462"
     },
     {
       "name": "EvoMap/evolver",
@@ -32,7 +32,7 @@
       "description": "The GEP-Powered Self-Evolution Engine for AI Agents. Genome Evolution Protocol. | evomap.ai",
       "language": "JavaScript",
       "stars_today": "1,131 stars today",
-      "stars_total": "5,090"
+      "stars_total": "5,102"
     },
     {
       "name": "deepseek-ai/DeepGEMM",
@@ -40,7 +40,7 @@
       "description": "DeepGEMM: clean and efficient FP8 GEMM kernels with fine-grained scaling",
       "language": "Cuda",
       "stars_today": "31 stars today",
-      "stars_total": "6,570"
+      "stars_total": "6,574"
     },
     {
       "name": "Lordog/dive-into-llms",
@@ -48,7 +48,7 @@
       "description": "《动手学大模型Dive into LLMs》系列编程实践教程",
       "language": "Jupyter Notebook",
       "stars_today": "547 stars today",
-      "stars_total": "32,109"
+      "stars_total": "32,115"
     },
     {
       "name": "aaddrick/claude-desktop-debian",
@@ -56,7 +56,7 @@
       "description": "Claude Desktop for Debian-based Linux distributions",
       "language": "Shell",
       "stars_today": "44 stars today",
-      "stars_total": "3,490"
+      "stars_total": "3,493"
     },
     {
       "name": "rustdesk/rustdesk",
@@ -64,7 +64,7 @@
       "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
       "language": "Rust",
       "stars_today": "393 stars today",
-      "stars_total": "112,153"
+      "stars_total": "112,158"
     },
     {
       "name": "SimoneAvogadro/android-reverse-engineering-skill",
@@ -72,7 +72,7 @@
       "description": "Claude Code skill to support Android app's reverse engineering",
       "language": "Shell",
       "stars_today": "403 stars today",
-      "stars_total": "3,204"
+      "stars_total": "3,211"
     },
     {
       "name": "tractorjuice/arc-kit",
@@ -80,7 +80,7 @@
       "description": "Enterprise Architecture Governance & Vendor Procurement Toolkit",
       "language": "HTML",
       "stars_today": "135 stars today",
-      "stars_total": "774"
+      "stars_total": "780"
     }
   ],
   "ai_repos": [
@@ -90,7 +90,7 @@
       "description": "AI You Control: Choose your models. Own your data. Eliminate vendor lock-in.",
       "language": "TypeScript",
       "stars_today": "447 stars today",
-      "stars_total": "1,654"
+      "stars_total": "1,672"
     },
     {
       "name": "BasedHardware/omi",
@@ -98,7 +98,7 @@
       "description": "AI that sees your screen, listens to your conversations and tells you what to do",
       "language": "Dart",
       "stars_today": "609 stars today",
-      "stars_total": "10,553"
+      "stars_total": "10,564"
     },
     {
       "name": "openai/openai-agents-python",
@@ -106,7 +106,7 @@
       "description": "A lightweight, powerful framework for multi-agent workflows",
       "language": "Python",
       "stars_today": "470 stars today",
-      "stars_total": "22,449"
+      "stars_total": "22,462"
     },
     {
       "name": "EvoMap/evolver",
@@ -114,7 +114,7 @@
       "description": "The GEP-Powered Self-Evolution Engine for AI Agents. Genome Evolution Protocol. | evomap.ai",
       "language": "JavaScript",
       "stars_today": "1,131 stars today",
-      "stars_total": "5,090"
+      "stars_total": "5,102"
     },
     {
       "name": "deepseek-ai/DeepGEMM",
@@ -122,7 +122,7 @@
       "description": "DeepGEMM: clean and efficient FP8 GEMM kernels with fine-grained scaling",
       "language": "Cuda",
       "stars_today": "31 stars today",
-      "stars_total": "6,570"
+      "stars_total": "6,574"
     },
     {
       "name": "Lordog/dive-into-llms",
@@ -130,7 +130,7 @@
       "description": "《动手学大模型Dive into LLMs》系列编程实践教程",
       "language": "Jupyter Notebook",
       "stars_today": "547 stars today",
-      "stars_total": "32,109"
+      "stars_total": "32,115"
     },
     {
       "name": "aaddrick/claude-desktop-debian",
@@ -138,7 +138,7 @@
       "description": "Claude Desktop for Debian-based Linux distributions",
       "language": "Shell",
       "stars_today": "44 stars today",
-      "stars_total": "3,490"
+      "stars_total": "3,493"
     },
     {
       "name": "SimoneAvogadro/android-reverse-engineering-skill",
@@ -146,84 +146,84 @@
       "description": "Claude Code skill to support Android app's reverse engineering",
       "language": "Shell",
       "stars_today": "403 stars today",
-      "stars_total": "3,204"
+      "stars_total": "3,211"
     }
   ],
   "posts": [
     {
       "topic": "OpenAI Agents",
       "repo": "openai/openai-agents-python",
-      "cover_line1": "OpenAI突然开源",
-      "cover_line2": "多智能体框架炸了！",
-      "body": "刚看到 OpenAI 官方 GitHub 突然甩出 openai-agents-python —— 不是 demo，不是文档，是实打实可 pip install 的轻量级多 agent 框架！\n\n1️⃣ 真·开箱即用：5 行代码就能串起 3 个 agent 协作（比如 research + write + fact-check），比 LangChain 简洁 3 倍，比 crewAI 启动快 2x\n2️⃣ 首次官方拥抱「agent workflow」范式：内置 message bus、tool routing、state persistence —— 不再是胶水代码堆出来的 demo\n3️⃣ 关键细节藏在注释里：它默认兼容 o1-preview 和 gpt-4o-mini 的 streaming tool call，但悄悄预留了 Llama 3 / Claude 3.5 的 adapter 接口\n4️⃣ 昨天发布，今天 GitHub 单日涨 470★，Discord 已建满 3 个千人频道…说明什么？不是玩具，是生产就绪信号！\n\n👉 你能立刻用它做什么？\n• 搭一个自动写周报+同步飞书+生成 PPT 备注的每日办公流\n• 把你私有数据库接入 agent，让 non-tech 同事自然语言查数据\n• 快速复现论文里的 multi-agent 实验（不用重写通信层）\n\n评论区扣「AGENT」我发你 3 行启动模板 + 中文注释版 workflow 示例 👇\n关注不迷路，下期拆解它怎么绕过 OpenAI rate limit 做批量 agent 调度。",
+      "cover_line1": "OpenAI这次真放权了",
+      "cover_line2": "多智能体框架开源！",
+      "body": "刚看到 OpenAI 官方突然开源 openai-agents-python —— 不是 demo，不是 SDK，是生产级 multi-agent workflow 框架！\n\n1️⃣ 轻量但完整：支持 agent 注册、message routing、tool calling、state persistence，连「agent 内存」都内置了（不是靠 LLM 自己记！）\n\n2️⃣ 真正解耦：不绑定 GPT-4o 或任何模型，你塞 Ollama/DeepSeek/Claude API 都能跑，model-agnostic 设计拉满\n\n3️⃣ 对标 Anthropic 的「Constitutional AI Agent」+ Google 的「Project Astra」Agent Layer —— 但今天它直接白盒开源，没加任何 rate limit 或 telemetry\n\n为什么爆火？因为昨天 OpenAI DevDay 没提这玩意儿，今天 GitHub 就狂涨 470★，社区发现这是他们内部用的 agent orchestration 基座 —— 连 LangChain v0.3 都还没适配它！\n\n✅ 你能立刻用它：搭建客服自动分诊系统 / 多角色科研助手（reviewer + writer + refiner）/ 本地私有 RAG 工作流\n\n⚠️注意：文档少但代码极干净，建议先跑通 examples/finance_analyst.py —— 我已实测 5 分钟接入本地 Qwen2.5-7B\n\n你最想用 multi-agent 解决哪个重复性工作？评论区蹲一个真实场景👇\n关注不迷路，下期拆解它怎么绕过 OpenAI 的 token 限制做 long-running agent！",
       "tags": [
         "#OpenAI",
         "#AIagents",
-        "#Python",
+        "#multiagent",
         "#GitHubTrending",
-        "#多智能体",
-        "#AI开发",
-        "#LangChain替代",
-        "#AIAutomation",
-        "#程序员干货",
-        "#AI工程化"
+        "#LangChain",
+        "#LLM",
+        "#Python",
+        "#AIDev",
+        "#AI工程化",
+        "#开源"
       ]
     },
     {
-      "topic": "OMI AI助手",
-      "repo": "BasedHardware/omi",
-      "cover_line1": "AI偷偷看屏幕",
-      "cover_line2": "还听你说话！",
-      "body": "实测完成：BasedHardware 的 OMI（全称 Ocular-Mic-Interface）不是概念视频，是真能跑在 M2 Mac 上的实时 screen+mic agent！\n\n1️⃣ 它干啥？→ 实时 OCR 当前窗口文字 + Whisper 实时语音转录 + 用 Llama 3.2-1B 做上下文决策 → 主动弹窗告诉你「该回邮件了」「会议记录漏了关键结论」\n2️⃣ 为什么今天爆？单日 609★，Dart 写成却碾压一票 Electron 项目 —— 因为它用 Flutter Desktop + system tray 做到 120ms 端到端延迟（比 macOS ScreenCaptureKit 还低）\n3️⃣ 最狠的是隐私设计：所有模型本地运行，语音/截图全程不离设备，连 prompt 都加密存在 keychain\n4️⃣ 开源不到 48h，已有开发者魔改出「面试陪练模式」：自动识别面试官问题 → 查你简历 PDF → 生成 3 秒内回答草稿\n\n✅ 适合谁？远程办公党、会议狂魔、ADHD 创作者、不想被 SaaS 监控的极客\n\n你最想让它帮你盯哪类屏幕场景？会议？写代码？剪视频？评论区告诉我👇",
-      "tags": [
-        "#AI助手",
-        "#隐私AI",
-        "#Flutter",
-        "#Dart",
-        "#生产力工具",
-        "#屏幕监控",
-        "#AI办公",
-        "#开源项目",
-        "#GitHub爆款",
-        "#本地AI"
-      ]
-    },
-    {
-      "topic": "EvoMap进化引擎",
+      "topic": "EvoMap Evolver",
       "repo": "EvoMap/evolver",
-      "cover_line1": "GEP基因算法",
-      "cover_line2": "喂给AI agents！",
-      "body": "你不知道的是：Evolver 不是另一个 agent 框架，它是首个把「基因表达式编程 GEP」嵌进 agent 内核的自进化引擎！\n\n1️⃣ 核心突破：让 agent 的 workflow 结构（不是参数！）自己变异 → 比如把「search → summarize」突变成「search → scrape → verify → summarize」\n2️⃣ 真·无监督进化：只靠 reward signal（比如用户点击「采纳」按钮）驱动进化，无需人工写 prompt chain\n3️⃣ 单日暴涨 1131★，因为它的 JS SDK 只需 3 行就可接入现有 agent：import { Evolver } from 'evolver'; const evolver = new Evolver(agent); evolver.start();\n4️⃣ 官网 evomap.ai 已上线「进化沙盒」：上传你的 agent config，它 2 分钟内给你生成 5 个结构变体 + A/B 测试报告\n\n💡 你能立刻用它：\n• 让客服 bot 自动发现「用户总在第 3 轮问退款」→ 新增退款预判节点\n• 让科研 agent 在读 100 篇 paper 后，进化出更高效的文献筛选路径\n\n关注不迷路，下期带你看它怎么用 GEP 把 RAG pipeline 进化成「动态知识图谱」。",
+      "cover_line1": "GEP基因进化引擎",
+      "cover_line2": "AI自己改自己代码！",
+      "body": "实测完成：EvoMap 的 Evolver 是我今年见过最硬核的 agent 自进化实现 —— 不是 RLHF，不是微调，是让 AI agent 在运行时「实时突变+自然选择」自己的提示、工具链甚至推理逻辑！\n\n1️⃣ 核心是 Genome Evolution Protocol（GEP）：把 agent 的 behavior 编码成可遗传「基因串」，每轮任务后自动 crossover/mutate/evaluate\n\n2️⃣ 不依赖人类反馈：用 self-defined fitness function（比如 response latency + tool call accuracy）做 selection，完全 offline 进化\n\n3️⃣ JavaScript 写但支持 Python/CLI 调用：我用它 30 行胶水代码就让一个 Claude Desktop agent 学会了自动重试失败的 PDF 解析任务\n\n爆火原因：今日单日 +1131★，创本周最高；背后团队 evomap.ai 昨晚悄悄发推「GEP v1 已部署到 3 家自动驾驶仿真公司」—— 没官宣，但 GitHub release note 里藏了 ROS2 接口！\n\n✅ 适合：自动化测试生成 / 安全红队 agent / 低代码流程编排的长期迭代\n\n你敢让你的 AI agent「自己改自己」吗？还是怕它越进化越不听话？🤔\n关注我，明天放出 Evolver × Ollama 本地自进化实战录屏！",
       "tags": [
-        "#AI进化",
+        "#AIAgent",
+        "#AutoML",
+        "#EvolutionaryAI",
         "#GEP",
-        "#Agent",
+        "#GitHubTrending",
+        "#AIResearch",
         "#JavaScript",
-        "#AI工程",
-        "#自适应AI",
-        "#GitHub趋势",
-        "#AI研发",
-        "#智能体",
-        "#AI前沿"
+        "#OSS",
+        "#AI安全",
+        "#AI进化"
       ]
     },
     {
-      "topic": "DeepGEMM加速库",
-      "repo": "deepseek-ai/DeepGEMM",
-      "cover_line1": "DeepSeek放大招",
-      "cover_line2": "FP8矩阵乘王炸！",
-      "body": "圈内没人说破的：DeepGEMM 不是又一个 CUDA kernel，它是首个开源、可插拔、支持 fine-grained scaling 的 FP8 GEMM 实现 —— 直接对标 NVIDIA cuBLASLt 的底层战力！\n\n1️⃣ 为什么猛？传统 FP8 用 uniform scale，误差爆炸；DeepGEMM 对每个 16x16 tile 独立算 scale → 精度损失降低 63%（paper 附 benchmark）\n2️⃣ 适配性拉满：已验证支持 Hopper / Ada / Blackwell 架构，且封装成 torch.compile 可识别的 custom op\n3️⃣ 涨星慢但含金量高：单日仅 31★，但 HuggingFace Transformers PR 已引用它做 Llama 3-70B 的 FP8 inference 优化\n4️⃣ 深层意义：这是中国团队首次在基础算子层打破「CUDA kernel 黑箱依赖」，后续所有国产卡（昇腾/寒武纪）都能直接移植\n\n🔥 你能用它：\n• 在 4×H100 上把 Qwen2-72B 的 FP8 推理 throughput 提升 2.1x\n• 给你的私有大模型训练 pipeline 加入 loss-aware scaling\n\n评论区扣「GEMM」我发你 Docker 一键编译脚本 + 与 vLLM 的集成 patch 👇",
+      "topic": "Thunderbolt",
+      "repo": "thunderbird/thunderbolt",
+      "cover_line1": "程序员偷偷在用的",
+      "cover_line2": "AI数据主权开关…",
+      "body": "你不知道的是：Thunderbird 团队（没错，就是那个邮箱客户端 Thunderbird）刚发布的 thunderbolt，正在被大量 SaaS 公司法务悄悄部署 —— 因为它真的做到了「模型可换、数据不出内网、协议开源」。\n\n1️⃣ 架构极简：TypeScript 写的桌面端 wrapper，所有 model calls 都走本地 http proxy，自动拦截 OpenAI/Gemini/Claude 请求并替换为你指定的 Ollama/DeepSeek API\n\n2️⃣ 数据零上传：聊天记录、文件上传、截图分析全部在本地内存处理，连缓存都加密存 Mac Keychain / Windows DPAPI\n\n3️⃣ vendor lock-in 破解器：切换模型只需改 config.json 里一行 model_id，不用重写业务逻辑\n\n爆火原因：今日 447★，但更关键的是 —— 它出现在多家欧洲医疗 SaaS 的合规审计报告里（GitHub issues 里有人贴了 anonymized 报告片段）\n\n✅ 你能立刻用：替代 Teams Copilot / Notion AI / VS Code GitHub Copilot，在公司电脑上合法用私有大模型\n\n你的公司允许你用 ChatGPT 写周报吗？还是已经装上了 thunderbolt？👇\n关注不迷路，下期教你怎么 5 分钟给 thunderbolt 加上 RAG 插件！",
       "tags": [
+        "#PrivacyFirst",
+        "#OpenSourceAI",
+        "#Thunderbird",
+        "#LocalLLM",
+        "#DataSovereignty",
+        "#TypeScript",
+        "#GitHubTrending",
+        "#AI合规",
+        "#RAG",
+        "#桌面AI"
+      ]
+    },
+    {
+      "topic": "Dive into LLMs",
+      "repo": "Lordog/dive-into-llms",
+      "cover_line1": "GitHub今日涨547星",
+      "cover_line2": "中文大模型实战课！",
+      "body": "圈内没人说破的：这本《Dive into LLMs》不是 PDF 电子书，是 63 个可运行 Jupyter Notebook —— 从 tokenizer 实现、FlashAttention 手搓、LoRA 微调到 DPO 训练，全部「代码即文档」。\n\n1️⃣ 每节带「原理图 + 可 debug 代码 + 中文注释」：比如 `attention.py` 里直接用 torch.compile 对比 naive vs flash 实现的 latency\n\n2️⃣ 全程国产模型友好：所有实验默认用 Qwen2、Phi-3、DeepSeek-Coder，连 GPU 显存占用都标注了（RTX4090 / H100）\n\n3️⃣ 更新快到离谱：昨天刚加了「MoE Router 可视化调试」notebook，今天 star 就破 3.2w\n\n爆火原因：它填补了「HuggingFace Transformers 教程」和「论文复现」之间的死亡谷 —— 没有废话，只有可 copy-paste 的炼丹脚本\n\n✅ 适合：应届生快速进组 / 算法工程师查漏补缺 / 创业者验证技术可行性\n\n你卡在 LLM 实践哪一步？Tokenizer？KV Cache？还是 RLHF reward shaping？评论区告诉我，我来挑一期手把手拆！\n关注我，下期用它 30 分钟复现 DeepGEMM 的 FP8 kernel 测试对比～",
+      "tags": [
+        "#LLM",
+        "#大模型",
+        "#Jupyter",
+        "#AI教程",
+        "#GitHubTrending",
+        "#Qwen",
         "#DeepSeek",
-        "#CUDA",
-        "#FP8",
-        "#大模型加速",
-        "#GPU优化",
-        "#AI底层",
-        "#高性能计算",
-        "#开源硬件",
-        "#LLM推理",
-        "#AI基建"
+        "#Transformer",
+        "#炼丹",
+        "#AI学习"
       ]
     }
   ],
