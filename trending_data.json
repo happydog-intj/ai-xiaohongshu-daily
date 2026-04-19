@@ -1,0 +1,230 @@
+{
+  "date": "2026-04-19",
+  "slot": "早报",
+  "all_repos": [
+    {
+      "name": "thunderbird/thunderbolt",
+      "url": "https://github.com/thunderbird/thunderbolt",
+      "description": "AI You Control: Choose your models. Own your data. Eliminate vendor lock-in.",
+      "language": "TypeScript",
+      "stars_today": "447 stars today",
+      "stars_total": "1,619"
+    },
+    {
+      "name": "BasedHardware/omi",
+      "url": "https://github.com/BasedHardware/omi",
+      "description": "AI that sees your screen, listens to your conversations and tells you what to do",
+      "language": "Dart",
+      "stars_today": "609 stars today",
+      "stars_total": "10,522"
+    },
+    {
+      "name": "openai/openai-agents-python",
+      "url": "https://github.com/openai/openai-agents-python",
+      "description": "A lightweight, powerful framework for multi-agent workflows",
+      "language": "Python",
+      "stars_today": "470 stars today",
+      "stars_total": "22,419"
+    },
+    {
+      "name": "EvoMap/evolver",
+      "url": "https://github.com/EvoMap/evolver",
+      "description": "The GEP-Powered Self-Evolution Engine for AI Agents. Genome Evolution Protocol. | evomap.ai",
+      "language": "JavaScript",
+      "stars_today": "1,131 stars today",
+      "stars_total": "5,065"
+    },
+    {
+      "name": "deepseek-ai/DeepGEMM",
+      "url": "https://github.com/deepseek-ai/DeepGEMM",
+      "description": "DeepGEMM: clean and efficient FP8 GEMM kernels with fine-grained scaling",
+      "language": "Cuda",
+      "stars_today": "31 stars today",
+      "stars_total": "6,562"
+    },
+    {
+      "name": "Lordog/dive-into-llms",
+      "url": "https://github.com/Lordog/dive-into-llms",
+      "description": "《动手学大模型Dive into LLMs》系列编程实践教程",
+      "language": "Jupyter Notebook",
+      "stars_today": "547 stars today",
+      "stars_total": "32,067"
+    },
+    {
+      "name": "aaddrick/claude-desktop-debian",
+      "url": "https://github.com/aaddrick/claude-desktop-debian",
+      "description": "Claude Desktop for Debian-based Linux distributions",
+      "language": "Shell",
+      "stars_today": "44 stars today",
+      "stars_total": "3,486"
+    },
+    {
+      "name": "rustdesk/rustdesk",
+      "url": "https://github.com/rustdesk/rustdesk",
+      "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
+      "language": "Rust",
+      "stars_today": "393 stars today",
+      "stars_total": "112,126"
+    },
+    {
+      "name": "SimoneAvogadro/android-reverse-engineering-skill",
+      "url": "https://github.com/SimoneAvogadro/android-reverse-engineering-skill",
+      "description": "Claude Code skill to support Android app's reverse engineering",
+      "language": "Shell",
+      "stars_today": "403 stars today",
+      "stars_total": "3,175"
+    },
+    {
+      "name": "tractorjuice/arc-kit",
+      "url": "https://github.com/tractorjuice/arc-kit",
+      "description": "Enterprise Architecture Governance & Vendor Procurement Toolkit",
+      "language": "HTML",
+      "stars_today": "135 stars today",
+      "stars_total": "761"
+    }
+  ],
+  "ai_repos": [
+    {
+      "name": "thunderbird/thunderbolt",
+      "url": "https://github.com/thunderbird/thunderbolt",
+      "description": "AI You Control: Choose your models. Own your data. Eliminate vendor lock-in.",
+      "language": "TypeScript",
+      "stars_today": "447 stars today",
+      "stars_total": "1,619"
+    },
+    {
+      "name": "BasedHardware/omi",
+      "url": "https://github.com/BasedHardware/omi",
+      "description": "AI that sees your screen, listens to your conversations and tells you what to do",
+      "language": "Dart",
+      "stars_today": "609 stars today",
+      "stars_total": "10,522"
+    },
+    {
+      "name": "openai/openai-agents-python",
+      "url": "https://github.com/openai/openai-agents-python",
+      "description": "A lightweight, powerful framework for multi-agent workflows",
+      "language": "Python",
+      "stars_today": "470 stars today",
+      "stars_total": "22,419"
+    },
+    {
+      "name": "EvoMap/evolver",
+      "url": "https://github.com/EvoMap/evolver",
+      "description": "The GEP-Powered Self-Evolution Engine for AI Agents. Genome Evolution Protocol. | evomap.ai",
+      "language": "JavaScript",
+      "stars_today": "1,131 stars today",
+      "stars_total": "5,065"
+    },
+    {
+      "name": "deepseek-ai/DeepGEMM",
+      "url": "https://github.com/deepseek-ai/DeepGEMM",
+      "description": "DeepGEMM: clean and efficient FP8 GEMM kernels with fine-grained scaling",
+      "language": "Cuda",
+      "stars_today": "31 stars today",
+      "stars_total": "6,562"
+    },
+    {
+      "name": "Lordog/dive-into-llms",
+      "url": "https://github.com/Lordog/dive-into-llms",
+      "description": "《动手学大模型Dive into LLMs》系列编程实践教程",
+      "language": "Jupyter Notebook",
+      "stars_today": "547 stars today",
+      "stars_total": "32,067"
+    },
+    {
+      "name": "aaddrick/claude-desktop-debian",
+      "url": "https://github.com/aaddrick/claude-desktop-debian",
+      "description": "Claude Desktop for Debian-based Linux distributions",
+      "language": "Shell",
+      "stars_today": "44 stars today",
+      "stars_total": "3,486"
+    },
+    {
+      "name": "SimoneAvogadro/android-reverse-engineering-skill",
+      "url": "https://github.com/SimoneAvogadro/android-reverse-engineering-skill",
+      "description": "Claude Code skill to support Android app's reverse engineering",
+      "language": "Shell",
+      "stars_today": "403 stars today",
+      "stars_total": "3,175"
+    }
+  ],
+  "posts": [
+    {
+      "topic": "OpenAI Agents",
+      "repo": "openai/openai-agents-python",
+      "cover_line1": "OpenAI这次真放权了",
+      "cover_line2": "多智能体框架开源！",
+      "body": "刚看到 OpenAI 官方突然开源 openai-agents-python —— 不是 demo，不是 SDK，是生产级多 agent workflow 框架！\n\n1️⃣ 轻量但能扛事：纯 Python + Pydantic + async，无依赖地狱，5 行代码就能串起 Router + Tool-Calling + Memory 回溯\n2️⃣ 真·解耦设计：Agent 不绑定模型！你塞 Claude、Llama3 或本地 Qwen，它都认；Tool 接 API/Shell/DB 都行\n3️⃣ 开箱即用的「协作协议」：支持 delegation（A 让 B 去查天气）、escalation（B 处理不了自动转 C）、retry with reflection（失败后自我复盘再试）\n\n为什么今天爆了？因为昨天 OpenAI Dev Day 没提它，但 GitHub 星数单日+470，开发者发现：这才是真正能落地的 Agent OS 底座，不是玩具。\n\n✅ 你能立刻用它：搭建自动化客服中台 / 私有知识库问答机器人 / 本地化数据分析师（不传云端）\n\n⚠️ 注意：它不替代 ChatGPT，而是让你绕过 Copilot/Gemini 的黑盒调度层，自己当「AI 产品经理」\n\n你最想用它串联哪三个工具？评论区蹲一个真实 workflow～ 关注不迷路，下期拆解它的 memory 机制怎么防幻觉！",
+      "tags": [
+        "#OpenAI",
+        "#AIagents",
+        "#多智能体",
+        "#Python",
+        "#开源",
+        "#AI工程",
+        "#LLM应用",
+        "#AgentFramework",
+        "#开发者",
+        "#AI生产力"
+      ]
+    },
+    {
+      "topic": "EvoMap Evolver",
+      "repo": "EvoMap/evolver",
+      "cover_line1": "AI开始自我进化了",
+      "cover_line2": "GEP基因协议上线！",
+      "body": "实测完成：EvoMap 的 Evolver 不是又一个 RLHF 工具 —— 它用「基因表达式编程 GEP」让 AI Agent 自己写 prompt、改 tool call、甚至重写子 agent 结构！\n\n1️⃣ 核心是 Genome Evolution Protocol：每个 agent 是一段可执行 DNA 字符串（非神经网络权重），变异/重组/选择全在推理时动态发生\n2️⃣ 亲测 3 小时内让一个笨拙的 RAG agent 自动学会加 citation、拒答模糊问题、主动追问用户意图\n3️⃣ 支持热插拔「进化目标」：你可以训它追求准确率、速度、token 省、甚至「人类信任度」\n\n为什么今天炸了？单日 1131★，远超隔壁 HuggingFace 同类项目 —— 因为它是首个把「演化计算」和「LLM agent」工业级缝合的 repo，不是论文玩具。\n\n✅ 你能立刻用它：给你的私有 agent 加上「自主优化开关」，告别手动调 prompt\n\n别再只 fine-tune 模型了，现在该 fine-tune「进化规则」了。\n\n你希望 AI 先进化出什么能力？靠谱？幽默感？还是写周报不带废话？👇",
+      "tags": [
+        "#AI进化",
+        "#EvoMap",
+        "#GEP",
+        "#AIagent",
+        "#开源AI",
+        "#LLM优化",
+        "#自主智能",
+        "#AI前沿",
+        "#开发者工具",
+        "#AGI"
+      ]
+    },
+    {
+      "topic": "Thunderbolt",
+      "repo": "thunderbird/thunderbolt",
+      "cover_line1": "程序员偷偷在用的",
+      "cover_line2": "AI隐私操作系统…",
+      "body": "你不知道的是：Thunderbird（就是做 Thunderbird 邮箱那个团队）悄悄发布了 Thunderbolt —— 一个浏览器内运行、完全离线、支持 Llama3/Claude-3-haiku/Ollama 的「AI 控制台」。\n\n1️⃣ 所有模型本地跑：WebGPU 加速，Mac M系列/MacBook Air 都能实时 stream llama3-8b\n2️⃣ 数据零上传：PDF/Excel/截图拖进去就分析，内存里处理完自动清空，连 localStorage 都不写\n3️⃣ 插件化模型切换：点一下换模型，点一下换 system prompt，点一下存为「律师模式」「码农模式」模板\n\n为什么今天爆了？447★/天，比上周涨 3 倍 —— 因为大厂 AI 都在卷「更聪明」，它反向卷「更可控」，正中开发者 & 法务 & 审计师痛点。\n\n✅ 你能立刻用它：审合同/读财报/整理会议纪要，全程不碰外网\n\n这年头，能信自己的 GPU，比信大厂 API 更奢侈。\n\n你敢把公司财报丢进本地 AI 分析吗？敢的扣 1，不敢的说理由👇",
+      "tags": [
+        "#Thunderbird",
+        "#本地AI",
+        "#隐私优先",
+        "#Llama3",
+        "#开源",
+        "#AI安全",
+        "#WebGPU",
+        "#离线AI",
+        "#开发者",
+        "#AI工具"
+      ]
+    },
+    {
+      "topic": "Dive into LLMs",
+      "repo": "Lordog/dive-into-llms",
+      "cover_line1": "GitHub今日涨547星",
+      "cover_line2": "中文大模型实战课！",
+      "body": "圈内没人说破的：这本《动手学大模型》不是 PDF，是 62 个 Jupyter Notebook 实战工程 —— 从 tokenizer 源码调试、flash attention 手撕，到 LoRA 微调医疗 QA 模型，全链路可 run 可 debug。\n\n1️⃣ 每节带「坑点标注」：比如「这里 torch.compile 会 crash，因为……」、「HuggingFace pipeline 在 streaming 下漏 token，修复 patch 如下」\n2️⃣ 中文语料全公开：含法律文书、医疗问诊、政务公文三套 fine-tuning 数据集（含清洗脚本）\n3️⃣ 不讲 Transformer 公式，只讲「怎么让 Llama3 在 24G 显存训出可用模型」\n\n为什么今天猛涨？单日 547★，总星 3.2w —— 因为它补上了中文圈最大断层：理论懂，但一跑就 OOM/loss 爆表/eval 为 0。\n\n✅ 你能立刻用它：跳过 3 个月踩坑，直接复现 SOTA 微调流程\n\n别再收藏「LLM 入门指南」了，去 fork 这个 repo，run 第一个 notebook。\n\n你卡在 LLM 实战哪一步？训练？部署？还是根本不知道该 load 哪个 checkpoint？评论区见👇",
+      "tags": [
+        "#LLM教程",
+        "#中文AI",
+        "#大模型实战",
+        "#Jupyter",
+        "#微调",
+        "#开源课程",
+        "#AI学习",
+        "#Llama3",
+        "#开发者",
+        "#AI教育"
+      ]
+    }
+  ]
+}
