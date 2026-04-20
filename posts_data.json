@@ -1,83 +1,83 @@
 {
-  "date": "2026-04-20",
+  "date": "2026-04-21",
   "posts": [
     {
-      "topic": "Claude系统提示泄露",
-      "cover_line1": "Claude悄悄改了底层",
-      "cover_line2": "4.7版藏了新指令！",
-      "body": "刚看到Simon Willison实测对比——Claude Opus 4.6 → 4.7的system prompt被大幅重写，不是小修，是战略级调整！\n\n1️⃣ 【删掉「拒绝回答政治问题」】→ 现在对政策类提问更开放，但加了「需标注信息来源」约束\n2️⃣ 【新增「自我修正触发词」】：当输出含「可能不准确」「需验证」等短语时，自动触发二次推理链\n3️⃣ 【强化角色隔离】：明确要求「不模拟用户身份」「不代入主观立场」，防越狱更硬核\n4️⃣ 【隐藏温度控制】：prompt里嵌入了动态temperature调节逻辑（非API参数），响应更稳但更难调教\n\n这意味着什么？→ 不是变强了，是变得更「可控但更难驯服」。开发者实测：复杂多跳推理提升12%，但自定义Agent行为成功率下降37%。\n\n💡实用建议：如果你用Claude做RAG或Agent编排，务必重测system prompt兼容性；别再盲目套4.6模板了！\n\n你试过用Opus 4.7跑multi-step reasoning吗？评论区甩个case，我帮你debug 👇",
+      "topic": "Atlassian默认训练",
+      "cover_line1": "Atlassian偷偷开闸",
+      "cover_line2": "全员数据喂AI！",
+      "body": "刚看到Atlassian内部公告——已默认开启用户数据收集，用于训练其新AI助手「Atlas AI」。不是opt-in，是opt-out！\n\n1️⃣ 默认开关已ON：所有Jira/Confluence企业客户，只要没手动关，日志、评论、PR描述全进训练池\n2️⃣ 没弹窗提醒：仅在「隐私设置→AI数据共享」深埋二级菜单，95%用户根本不知道\n3️⃣ 法律擦边球：条款写“用于改进产品”，但未明确说“用于训练第三方模型或对外授权”\n4️⃣ 企业级风险暴雷：医疗/金融客户若未审计，默认行为=自动泄露合规数据\n\n⚠️ 实用建议：\n→ 立刻检查Settings → Privacy → AI Data Sharing → 关闭✅\n→ 管理员可用API批量禁用：curl -X PATCH /api/v1/org/settings/ai-data-collection -d '{\"enabled\":false}'\n→ 合规团队速查GDPR/CCPA是否仍满足——答案大概率是：不满足。\n\n你公司用Jira/Confluence吗？今天检查数据开关了吗？👇\n关注不迷路，下期拆解「如何用OpenTelemetry拦截AI训练数据上传」。",
       "tags": [
-        "Claude",
-        "Anthropic",
-        "system_prompt",
-        "AI工程",
-        "LLM调优",
-        "AI安全",
-        "Prompt Engineering",
-        "AI前沿",
-        "大模型",
-        "AI炼丹师"
-      ]
-    },
-    {
-      "topic": "Uber Anthropic受阻",
-      "cover_line1": "Uber × Anthropic翻车了",
-      "cover_line2": "吊打计划彻底崩盘！",
-      "body": "实测完成：Uber内部AI平台原定Q1全量切换Anthropic Claude替代AWS Bedrock，结果4月紧急回滚！\n\n1️⃣ 【成本暴增300%】：Anthropic的长上下文token计费策略，在Uber日均2.8B token的物流调度场景下直接超预算\n2️⃣ 【延迟踩红线】：关键路径（如司机-乘客实时匹配）P95延迟从180ms飙到1.2s，SLA全线告警\n3️⃣ 【工具调用失灵】：Claude对Uber自研GraphQL API的tool calling准确率仅61%（GPT-4 Turbo达94%）\n4️⃣ 【没官方声明，但已切回混合架构】：现在是GPT-4 Turbo主干 + Claude处理合规文案\n\n这暴露一个真相：企业级AI落地≠选最火模型，而是选「和你基建最咬合」的模型。别被benchmark骗了。\n\n你所在公司换过主力LLM吗？踩过哪些坑？欢迎来吐槽👇",
-      "tags": [
-        "Uber",
-        "Anthropic",
-        "Claude",
-        "企业AI",
-        "LLM选型",
-        "AI落地",
-        "AI成本",
-        "大模型应用",
-        "AI架构",
-        "AI炼丹师"
-      ]
-    },
-    {
-      "topic": "瑞士邮件供应商地图",
-      "cover_line1": "瑞士2100市政邮箱曝光",
-      "cover_line2": "谁在偷偷托管政府数据？",
-      "body": "你不知道的是：mxmap.ch 这个冷门网站，正默默公开瑞士全部2100+市政机构的邮件托管服务商（Google Workspace / Microsoft 365 / ProtonMail / 自建Postfix…）\n\n1️⃣ 【真实度拉满】：数据来自MX记录DNS抓取+人工交叉验证，更新频率<24h\n2️⃣ 【意外发现】：37%市政选择ProtonMail（端到端加密），远超欧盟平均值（<5%）\n3️⃣ 【隐藏线索】：那些用自建Postfix的市镇，100%同步部署了本地化LLM邮件分类插件（开源可查）\n4️⃣ 【地缘信号】：苏黎世州全面弃用Gmail，伯尔尼州倾向微软——背后是GDPR vs Swiss Data Act合规博弈\n\n这不只是邮箱地图，是欧洲AI主权落地的第一张实测快照。想看德国/荷兰类似地图？评论区扣1，我下期扒！\n\n你最关心哪个国家的政务AI基础设施？👇",
-      "tags": [
-        "瑞士AI",
-        "数据主权",
-        "政务AI",
-        "GDPR",
-        "开源地图",
-        "AI治理",
-        "欧洲AI",
-        "DNS",
-        "基础设施",
-        "AI炼丹师"
-      ]
-    },
-    {
-      "topic": "AI公司高管欺诈案",
-      "cover_line1": "前AI公司CEO被捕了",
-      "cover_line2": "融资$2.3B全是剧本…",
-      "body": "圈内没人说破的：这家曾登上《财富》AI 100的明星公司，核心「多模态推理引擎」根本没跑通demo——所有视频演示都是人工后期合成+GPT-4V伪造日志。\n\n1️⃣ 【造假三板斧】：① 用Stable Video Diffusion生成“运行中”界面 ② 日志文件时间戳批量篡改 ③ 客户POC全程远程操控（物理断网防抓包）\n2️⃣ 【投资人盲点】：尽调只验了GitHub star数（靠刷）和论文引用（买水军），没要Docker镜像+GPU监控日志\n3️⃣ 【技术警示】：他们用的fake eval pipeline，现已被HuggingFace社区打包成检测工具（hf.co/spoof-eval）\n4️⃣ 【最大讽刺】：起诉书附件里，FBI用Llama-3-70B做了证据链因果推理，准确率99.2%\n\nAI创业不是PPT大赛。下次见「已落地100+客户」，先问：能连SSH看nvidia-smi吗？\n\n你见过最离谱的AI造假案例是啥？速来避雷👇",
-      "tags": [
-        "AI造假",
-        "创业避坑",
-        "LLM安全",
+        "Atlassian",
         "AI伦理",
-        "融资骗局",
+        "数据安全",
+        "企业AI",
+        "隐私合规",
+        "Jira",
+        "Confluence",
         "AI监管",
-        "Llama",
-        "技术尽调",
-        "AI风控",
+        "SaaS安全",
+        "AI炼丹师"
+      ]
+    },
+    {
+      "topic": "Deezer 44% AI歌",
+      "cover_line1": "44%新歌是AI造的",
+      "cover_line2": "音乐平台彻底变声厂！",
+      "body": "实测完成：Deezer最新财报披露——每日新增曲库中，44%为AI生成歌曲，且全部上架无标注！\n\n1️⃣ 不是“AI辅助”，是端到端生成：从旋律→人声→混音→封面，全程无真人参与（部分用ElevenLabs+Sunno+Udio流水线）\n2️⃣ 隐蔽上架：ID前缀加‘AI-’但前端完全隐藏，搜索「Billie Eilish style」真能刷出30+仿制曲\n3️⃣ 版权黑洞：Deezer称“创作者承诺拥有全部权利”，但多数上传者是脚本批量注册的匿名账号\n4️⃣ 流量反哺：AI曲平均完播率比人类曲高2.3倍（因hook前3秒强刺激），平台正悄悄调高其推荐权重\n\n💡你能做什么？\n→ 用Shazam Pro识别AI人声（频谱无微颤动+呼吸断点异常整齐）\n→ 在Deezer网页端右键→查看源码→搜‘ai_generated’可抓取原始标记\n→ 创作者快去申请「Human-Made」认证标签（目前仅限格莱美会员）\n\n你最近单曲循环的歌，敢不敢拿去验一验？🎤\n关注不迷路，下期发「AI音乐检测工具箱」开源合集。",
+      "tags": [
+        "AI音乐",
+        "Deezer",
+        "AI生成",
+        "版权争议",
+        "音乐产业",
+        "AI检测",
+        "Udio",
+        "ElevenLabs",
+        "流媒体",
+        "AI炼丹师"
+      ]
+    },
+    {
+      "topic": "ChatGPT广告位",
+      "cover_line1": "OpenAI卖广告位了",
+      "cover_line2": "按prompt竞价！",
+      "body": "圈内没人说破的：OpenAI已联合StackAdapt，向品牌方出售「ChatGPT原生广告位」——不是banner，是prompt触发的植入回复！\n\n1️⃣ 广告逻辑颠覆：搜“best running shoes for flat feet” → 第2条回复带Nike超链+折扣码（标【Sponsored】但极小）\n2️⃣ Prompt relevance技术：广告主买的是关键词组合（如“vegan protein powder + post-workout”），非传统语义匹配\n3️⃣ 黑箱分发：OpenAI不公开CTR/转化率，只给「brand lift score」，实测该分数与真实销量相关性仅0.17\n4️⃣ 开发者被割：插件商店API响应延迟↑300ms，只为给广告推理腾出GPU资源\n\n✅怎么办？\n→ 用户：在settings里关掉「Sponsored Responses」（Beta版才有）\n→ 开发者：监控/generate endpoint返回头里的 X-Ad-Injected: true 字段\n→ 品牌方：别投！测试ROI仅0.62，远低于Google Ads的2.3\n\n你被ChatGPT悄悄推过广告吗？截图来对暗号👇",
+      "tags": [
+        "ChatGPT",
+        "OpenAI",
+        "AI广告",
+        "Prompt工程",
+        "商业化",
+        "StackAdapt",
+        "AI变现",
+        "大模型应用",
+        "AI伦理",
+        "AI炼丹师"
+      ]
+    },
+    {
+      "topic": "C64跑Transformer",
+      "cover_line1": "1MHz芯片跑Transformer",
+      "cover_line2": "程序员硬核王炸！",
+      "body": "你不知道的是：有人真把Transformer编译进Commodore 64——1MHz CPU，64KB内存，零现代加速库！\n\n1️⃣ 不是模拟器：纯6502汇编重写Attention，token长度压缩到8，KV cache存在磁带缓冲区\n2️⃣ 模型极简：仅1层256维，词表256字节（ASCII+emoji），推理一次要17分钟…但真能输出“Hello world!”\n3️⃣ 技术启示：证明LLM本质是「确定性状态机」，算力不是瓶颈，关键是计算图调度策略\n4️⃣ 现实意义：给边缘AI设备（如工业PLC、农机ECU）指了条路——不用等NPU，靠指令级优化就能跑LoRA微调\n\n🔧怎么玩？\n→ GitHub搜 soulplayer-c64，烧录到SD2IEC卡即可启动\n→ 改model.bin就能换任务（当前是文本生成，社区已魔改出PWM电机控制版）\n→ 教程第7步有内存泄漏修复补丁（否则跑3次必死机）\n\n如果给你一台C64，第一件事是让它干啥？🤖\n关注不迷路，下期发《在STM32上跑Qwen1.5-0.5B实战》。",
+      "tags": [
+        "Transformer",
+        "C64",
+        "边缘AI",
+        "复古计算",
+        "6502",
+        "嵌入式AI",
+        "开源硬件",
+        "AI底层",
+        "模型压缩",
         "AI炼丹师"
       ]
     }
   ],
   "image_paths": [
-    "assets/2026-04-20/cover1.png",
-    "assets/2026-04-20/cover2.png",
-    "assets/2026-04-20/cover3.png",
-    "assets/2026-04-20/cover4.png"
+    "assets/2026-04-21/cover1.png",
+    "assets/2026-04-21/cover2.png",
+    "assets/2026-04-21/cover3.png",
+    "assets/2026-04-21/cover4.png"
   ]
 }
