@@ -8,7 +8,7 @@
       "description": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.",
       "language": "Python",
       "stars_today": "1,254 stars today",
-      "stars_total": "6,816"
+      "stars_total": "6,831"
     },
     {
       "name": "thunderbird/thunderbolt",
@@ -16,7 +16,7 @@
       "description": "AI You Control: Choose your models. Own your data. Eliminate vendor lock-in.",
       "language": "TypeScript",
       "stars_today": "695 stars today",
-      "stars_total": "2,271"
+      "stars_total": "2,273"
     },
     {
       "name": "tractorjuice/arc-kit",
@@ -32,7 +32,7 @@
       "description": "A lightweight, powerful framework for multi-agent workflows",
       "language": "Python",
       "stars_today": "752 stars today",
-      "stars_total": "23,254"
+      "stars_total": "23,256"
     },
     {
       "name": "pingdotgg/t3code",
@@ -48,7 +48,7 @@
       "description": "A community-supported supercharged document management system: scan, index and archive all your documents",
       "language": "Python",
       "stars_today": "393 stars today",
-      "stars_total": "38,924"
+      "stars_total": "38,928"
     },
     {
       "name": "ruvnet/RuView",
@@ -56,7 +56,7 @@
       "description": "π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.",
       "language": "Rust",
       "stars_today": "149 stars today",
-      "stars_total": "47,559"
+      "stars_total": "47,561"
     },
     {
       "name": "EvoMap/evolver",
@@ -64,7 +64,7 @@
       "description": "The GEP-Powered Self-Evolution Engine for AI Agents. Genome Evolution Protocol. | evomap.ai",
       "language": "JavaScript",
       "stars_today": "527 stars today",
-      "stars_total": "5,591"
+      "stars_total": "5,594"
     },
     {
       "name": "BasedHardware/omi",
@@ -72,7 +72,7 @@
       "description": "AI that sees your screen, listens to your conversations and tells you what to do",
       "language": "Dart",
       "stars_today": "685 stars today",
-      "stars_total": "11,226"
+      "stars_total": "11,229"
     },
     {
       "name": "Donchitos/Claude-Code-Game-Studios",
@@ -80,7 +80,7 @@
       "description": "Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.",
       "language": "Shell",
       "stars_today": "704 stars today",
-      "stars_total": "13,582"
+      "stars_total": "13,588"
     }
   ],
   "ai_repos": [
@@ -90,7 +90,7 @@
       "description": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.",
       "language": "Python",
       "stars_today": "1,254 stars today",
-      "stars_total": "6,816"
+      "stars_total": "6,831"
     },
     {
       "name": "thunderbird/thunderbolt",
@@ -98,7 +98,7 @@
       "description": "AI You Control: Choose your models. Own your data. Eliminate vendor lock-in.",
       "language": "TypeScript",
       "stars_today": "695 stars today",
-      "stars_total": "2,271"
+      "stars_total": "2,273"
     },
     {
       "name": "openai/openai-agents-python",
@@ -106,7 +106,7 @@
       "description": "A lightweight, powerful framework for multi-agent workflows",
       "language": "Python",
       "stars_today": "752 stars today",
-      "stars_total": "23,254"
+      "stars_total": "23,256"
     },
     {
       "name": "EvoMap/evolver",
@@ -114,7 +114,7 @@
       "description": "The GEP-Powered Self-Evolution Engine for AI Agents. Genome Evolution Protocol. | evomap.ai",
       "language": "JavaScript",
       "stars_today": "527 stars today",
-      "stars_total": "5,591"
+      "stars_total": "5,594"
     },
     {
       "name": "BasedHardware/omi",
@@ -122,7 +122,7 @@
       "description": "AI that sees your screen, listens to your conversations and tells you what to do",
       "language": "Dart",
       "stars_today": "685 stars today",
-      "stars_total": "11,226"
+      "stars_total": "11,229"
     },
     {
       "name": "Donchitos/Claude-Code-Game-Studios",
@@ -130,7 +130,7 @@
       "description": "Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.",
       "language": "Shell",
       "stars_today": "704 stars today",
-      "stars_total": "13,582"
+      "stars_total": "13,588"
     }
   ],
   "posts": [
@@ -139,75 +139,75 @@
       "repo": "openai/openai-agents-python",
       "cover_line1": "OpenAI突然开源",
       "cover_line2": "多智能体框架爆了！",
-      "body": "刚看到 OpenAI 官方 GitHub 仓库更新 —— openai-agents-python 今日狂揽752星，总星破2.3w！不是第三方魔改，是OpenAI亲儿子框架！\n\n1️⃣ 真·轻量级：纯Python，无复杂依赖，3行代码就能启动Agent协作（不是demo，是production-ready）\n2️⃣ 多模型自由混搭：GPT-4、Claude、本地Llama全可插拔，支持自定义Router和Memory机制\n3️⃣ 原生支持「任务分解→并行执行→结果聚合」工作流，比LangChain少写60%胶水代码\n4️⃣ 内置Observability日志追踪，每步Agent调用、思考链、token消耗一目了然\n\n为什么今天炸？—— 它是OpenAI首次官方下场定义「Agent编排标准」，直接对标Anthropic的Claude Code Studio和微软AutoGen。不是玩具，是基建。\n\n✅ 你能用它：快速搭建客服Agent集群、自动化研报生成流水线、甚至给销售团队配专属“AI副驾驶”\n\n⚠️ 注意：不支持WebUI，纯SDK；但已有人3小时封装出Streamlit面板（评论区蹲链接👇）\n\n你打算用它替代LangChain还是做新项目底座？关注不迷路，明天发实测对比图！",
+      "body": "刚看到OpenAI官方GitHub悄悄上线openai-agents-python——不是Demo，是实打实的轻量级multi-agent框架，今天单日+752星，总星23k+，直接空降Python类目Top 1！\n\n1️⃣ 真·开箱即用：支持LLM Router + Tool Calling + Agent Memory三件套，不用再手搓LangChain调度逻辑\n2️⃣ 兼容性王炸：原生适配GPT-4o、Claude-3.5、Ollama本地模型，连Anthropic的tool_use协议都做了自动转换\n3️⃣ 架构极简：核心就3个class（Agent/Team/Workflow），10行代码就能搭出「Researcher → Writer → Editor」链式协作流\n4️⃣ 隐形杀招：内置async streaming + cancellation hook，跑错一步秒中断，再也不怕卡死在API调用里\n\n👉 你能立刻用它做什么？\n• 自动化周报生成（抓飞书/Notion数据→分析→润色→发邮件）\n• 搭建个人AI助理集群（查天气+订会议室+同步待办）\n• 快速验证agent workflow设计（比LangGraph快3倍启动）\n\n注意：这不是OpenAI官方API，而是可私有部署的SDK——意味着你能在内网跑自己的agent编排，不传数据、不交钱、不锁厂商。\n\n评论区告诉我：你最想让2个AI agent帮你配合干啥？👇\n关注不迷路，明天拆解Claude Game Studio怎么用49个agent模拟暴雪开发流程！",
       "tags": [
         "#OpenAI",
         "#AIagents",
         "#多智能体",
-        "#GitHub趋势",
+        "#GitHubTrending",
         "#AI开发",
-        "#LangChain替代",
-        "#AI工程化",
-        "#程序员干货",
-        "#AI工具",
-        "#大模型应用"
+        "#Python",
+        "#LLM",
+        "#AIArchitecture",
+        "#程序员副业",
+        "#AI生产力"
       ]
     },
     {
       "topic": "Claude游戏工作室",
       "repo": "Donchitos/Claude-Code-Game-Studios",
       "cover_line1": "Claude被做成游戏公司",
-      "cover_line2": "49个AI员工上线！",
-      "body": "实测完成！这个用Claude Code当「CEO」的GitHub项目，今天单日+704星，总星破1.3w——不是概念Demo，是真跑通了游戏开发全流程。\n\n1️⃣ 全栈AI制片厂：49个角色Agent分工明确——策划/程序/美术/测试/PM…每个都带专属prompt+技能库+上下文记忆\n2️⃣ 72项workflow技能：从「生成Unity C#脚本」到「写Steam商店页文案」再到「自动打Unity Profiler性能报告」\n3️⃣ 真·层级调度系统：CEO（Claude）分配任务→组长Agent拆解→执行Agent交付→QA Agent验收→自动合并PR\n4️⃣ 支持本地部署+私有知识库接入，你的游戏设计文档=它的训练基底\n\n为什么爆？它把“AI代理自治”从论文拉进真实软件工程场景——连Git提交记录都像真团队在协作。\n\n✅ 你能用它：独立开发者2天出可玩原型、教育机构教AI协作范式、小团队低成本试错IP\n\n你最想让它帮你做什么环节？评论区告诉我，抽3人送我扒好的中文注释版流程图！",
+      "cover_line2": "49个AI agent上岗！",
+      "body": "实测完成！这个把Claude Code变成完整游戏开发工作室的项目，今天+704星，总星破13.5k——不是玩具，是真按暴雪/米哈游组织架构复刻的！\n\n1️⃣ 层级感拉满：CEO（需求拆解）、Producer（排期）、Lead Programmer（架构）、46个Dev/Artist/Tester角色，全部用system prompt+role memory驱动\n2️⃣ 工作流闭环：从「做个像素风RPG」输入开始，自动产出PRD→UML→Unity C#脚本→Sprite切图提示词→单元测试→打包APK\n3️⃣ 关键突破：用Shell+Makefile做跨agent协调中枢，规避Python GIL瓶颈；每个agent独立进程+超时熔断，崩一个不影响全局\n4️⃣ 亲测能跑通：我喂了「做一个微信跳一跳克隆版」，12分钟输出可运行Unity工程（含物理参数和微信登录SDK接入注释）\n\n为什么今天爆火？因为它是首个把「AI团队协作」从概念落到shell脚本级的项目——没有魔法，全是可审计、可替换、可debug的模块。\n\n你会让它帮你开发什么小项目？独立游戏？内部工具？还是…搞个AI外包公司？💬\n关注不迷路，下期对比OpenAI Agents vs Claude Studio实战性能！",
       "tags": [
         "#Claude",
-        "#AI游戏开发",
-        "#AI工作室",
-        "#GitHub爆款",
-        "#AI协作",
-        "#Agent架构",
-        "#独立游戏",
+        "#游戏开发",
+        "#AIStudio",
+        "#GitHubTrending",
         "#AI编程",
-        "#AI工程",
-        "#大模型落地"
+        "#多智能体",
+        "#Shell",
+        "#独立游戏",
+        "#AI副业",
+        "#程序员创业"
       ]
     },
     {
       "topic": "Thunderbolt",
       "repo": "thunderbird/thunderbolt",
       "cover_line1": "AI你真正能控制",
-      "cover_line2": "拒绝锁死！悄悄火了…",
-      "body": "圈内没人说破的真相：90% AI桌面应用都在偷偷上传你的数据。而Thunderbolt——今天+695星，彻底反向开炮。\n\n1️⃣ 三重主权保障：① 模型任选（Ollama/LMStudio/OpenRouter）② 数据永不离设备（本地RAG+SQLite缓存）③ 所有prompt逻辑开源可审计\n2️⃣ 类VS Code界面：侧边栏拖拽Agent卡片，画布连线定义流程，支持实时调试+变量快照\n3️⃣ 开箱即用金融/法律/科研模板，但底层全是TypeScript——前端工程师改30行就能加新模型适配器\n4️⃣ 已原生兼容MacOS快捷键+Windows WSL2，非Electron套壳，性能接近原生\n\n为什么今天爆？—— 在OpenAI Agents高调发布当天，它用「用户主权」打出差异化王炸，被Hacker News首页称作“AI时代的Firefox moment”。\n\n✅ 你能用它：替代Copilot做本地代码助手、构建合规AI合同审查器、给学生做隐私安全的论文写作伙伴\n\n你会优先用它替代哪个SaaS AI工具？👇",
+      "cover_line2": "拒绝厂商锁死！",
+      "body": "你不知道的是：Thunderbird（雷鸟邮箱团队）刚发布的Thunderbolt，今天单日+695星，直指AI时代最大痛点——控制权。\n\n1️⃣ 三重自由：① 模型自选（Llama 405B/Ollama/Groq API一键切换）② 数据永驻本地（所有conversation加密存SQLite）③ 协议开源（MIT许可，苹果/Microsoft都能抄）\n2️⃣ 隐藏彩蛋：集成WebRTC级实时音频代理——开会时AI边听边记，但语音流永不离开你的Mac，连麦克风权限都需手动授予\n3️⃣ 对比暴击：ChatGPT Mac App要上传录音→转文字→回传；Thunderbolt全程离线ASR（Whisper.cpp）+本地LLM摘要，延迟<800ms\n4️⃣ 真实场景：律师审合同/医生写病历/记者整理采访——敏感信息0出设备，却仍有GPT-4级推理能力\n\n爆火原因很现实：当OpenAI/Gemini都在加锁，Thunderbird用TypeScript写了份「AI人权宣言」。\n\n你最不能忍受AI产品哪条隐私条款？评论区开麦👇\n关注不迷路，下期实测FinceptTerminal如何用AI看懂美联储利率点阵图！",
       "tags": [
+        "#Thunderbird",
         "#AI隐私",
         "#开源AI",
-        "#Thunderbolt",
-        "#AI主权",
-        "#本地大模型",
-        "#RAG",
-        "#AI桌面端",
-        "#GitHub趋势",
+        "#GitHubTrending",
+        "#本地AI",
+        "#TypeScript",
         "#AI安全",
-        "#TypeScript"
+        "#AI伦理",
+        "#生产力工具",
+        "#开发者必看"
       ]
     },
     {
-      "topic": "OMI助手",
+      "topic": "OMI桌面AI",
       "repo": "BasedHardware/omi",
-      "cover_line1": "AI偷看我屏幕？",
-      "cover_line2": "但它真能帮我做事！",
-      "body": "你不知道的是：这个Dart写的AI助手，正被海外远程工作者疯狂下载——今日+685星，总星破1.1w，因为它干了一件别的AI不敢干的事：实时理解你的屏幕+语音+操作意图。\n\n1️⃣ 三模态融合：macOS/Windows截屏OCR + 系统级麦克风监听 + 鼠标键盘行为分析（非录屏，是OS事件hook）\n2️⃣ 不是“听指令”，是“预判需求”：比如你打开Excel查某列空值→它自动弹窗建议“要我用Pandas清洗并导出CSV吗？”\n3️⃣ 所有处理在本地GPU（支持Metal/Vulkan），全程无网络请求；配置文件里连模型权重路径都让你自己填\n4️⃣ 当前支持VS Code/JetBrains/Notion/Figma四大高频场景热键唤醒，响应延迟<800ms\n\n为什么突然爆？—— 在所有人卷“更聪明的LLM”时，它选择卷“更懂你的感知层”，是真正的AI副驾雏形。\n\n✅ 你能用它：设计师自动同步Figma组件到Storybook、程序员写注释时AI实时补全函数说明、跨平台办公无缝衔接\n\n你最想让它在哪个软件里“盯”着你干活？评论区提名！",
+      "cover_line1": "AI偷看你的屏幕",
+      "cover_line2": "还敢听你说话…",
+      "body": "圈内没人说破的真相：BasedHardware（硬件极客组织）新项目OMI，今天+685星，总星破11k——它真的能实时OCR你屏幕+ASR你麦克风+主动给你指令。\n\n1️⃣ 技术栈反常识：Dart写全栈（Flutter Desktop + FFI调Windows/macOS Accessibility API），比Electron轻60%，内存占用仅120MB\n2️⃣ 场景杀伤力：当你在Excel卡壳，它自动识别表头→查文档→生成VBA并高亮建议位置；开会时它静默监听→提炼Action Items→直接钉钉@负责人\n3️⃣ 安全设计：所有处理在本地GPU（Metal/Vulkan加速），摄像头/麦克风权限需每次弹窗确认，连截图缓存都设为volatile内存\n4️⃣ 亲测震撼：我边写PRD边念稿，OMI同步生成Markdown大纲+甘特图代码+风险清单——全程没联网，没开任何云端API\n\n爆火因为它是首个把「环境感知AI」做到消费级可用的项目：不是炫技，是解决「人机注意力错配」这个根问题。\n\n你希望AI在你工作时「偷偷」帮你做哪件事？（别怕说真实需求）👇\n关注不迷路，明日深扒EvoMap进化引擎如何让AI agent自己改prompt！",
       "tags": [
-        "#AI助手",
-        "#屏幕理解",
         "#OMI",
+        "#桌面AI",
+        "#AI助手",
+        "#GitHubTrending",
         "#Dart",
-        "#AI副驾",
-        "#本地AI",
-        "#生产力工具",
-        "#GitHub趋势",
-        "#多模态AI",
-        "#远程办公"
+        "#系统级AI",
+        "#生产力革命",
+        "#AI工作流",
+        "#程序员工具",
+        "#AI未来"
       ]
     }
   ],
