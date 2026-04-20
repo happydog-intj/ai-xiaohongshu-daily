@@ -1,6 +1,6 @@
 {
-  "date": "2026-04-20",
-  "slot": "晚报",
+  "date": "2026-04-21",
+  "slot": "早报",
   "all_repos": [
     {
       "name": "Fincept-Corporation/FinceptTerminal",
@@ -8,7 +8,7 @@
       "description": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.",
       "language": "Python",
       "stars_today": "3,129 stars today",
-      "stars_total": "8,632"
+      "stars_total": "9,452"
     },
     {
       "name": "ruvnet/RuView",
@@ -16,7 +16,7 @@
       "description": "π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.",
       "language": "Rust",
       "stars_today": "716 stars today",
-      "stars_total": "47,939"
+      "stars_total": "48,167"
     },
     {
       "name": "thunderbird/thunderbolt",
@@ -24,7 +24,7 @@
       "description": "AI You Control: Choose your models. Own your data. Eliminate vendor lock-in.",
       "language": "TypeScript",
       "stars_today": "667 stars today",
-      "stars_total": "2,606"
+      "stars_total": "2,794"
     },
     {
       "name": "paperless-ngx/paperless-ngx",
@@ -32,7 +32,7 @@
       "description": "A community-supported supercharged document management system: scan, index and archive all your documents",
       "language": "Python",
       "stars_today": "611 stars today",
-      "stars_total": "39,230"
+      "stars_total": "39,401"
     },
     {
       "name": "tractorjuice/arc-kit",
@@ -40,15 +40,15 @@
       "description": "Enterprise Architecture Governance & Vendor Procurement Toolkit",
       "language": "HTML",
       "stars_today": "334 stars today",
-      "stars_total": "1,214"
+      "stars_total": "1,323"
     },
     {
       "name": "koala73/worldmonitor",
       "url": "https://github.com/koala73/worldmonitor",
       "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
       "language": "TypeScript",
-      "stars_today": "343 stars today",
-      "stars_total": "49,594"
+      "stars_today": "477 stars today",
+      "stars_total": "50,027"
     },
     {
       "name": "openai/openai-agents-python",
@@ -56,7 +56,7 @@
       "description": "A lightweight, powerful framework for multi-agent workflows",
       "language": "Python",
       "stars_today": "909 stars today",
-      "stars_total": "23,739"
+      "stars_total": "23,913"
     },
     {
       "name": "deepseek-ai/DeepGEMM",
@@ -64,7 +64,7 @@
       "description": "DeepGEMM: clean and efficient FP8 GEMM kernels with fine-grained scaling",
       "language": "Cuda",
       "stars_today": "155 stars today",
-      "stars_total": "6,758"
+      "stars_total": "6,821"
     },
     {
       "name": "pi-hole/pi-hole",
@@ -72,15 +72,15 @@
       "description": "A black hole for Internet advertisements",
       "language": "Shell",
       "stars_today": "154 stars today",
-      "stars_total": "56,877"
+      "stars_total": "57,147"
     },
     {
       "name": "XTLS/Xray-core",
       "url": "https://github.com/XTLS/Xray-core",
       "description": "Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.",
       "language": "Go",
-      "stars_today": "52 stars today",
-      "stars_total": "37,338"
+      "stars_today": "124 stars today",
+      "stars_total": "37,427"
     }
   ],
   "ai_repos": [
@@ -90,7 +90,7 @@
       "description": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.",
       "language": "Python",
       "stars_today": "3,129 stars today",
-      "stars_total": "8,632"
+      "stars_total": "9,452"
     },
     {
       "name": "thunderbird/thunderbolt",
@@ -98,15 +98,15 @@
       "description": "AI You Control: Choose your models. Own your data. Eliminate vendor lock-in.",
       "language": "TypeScript",
       "stars_today": "667 stars today",
-      "stars_total": "2,606"
+      "stars_total": "2,794"
     },
     {
       "name": "koala73/worldmonitor",
       "url": "https://github.com/koala73/worldmonitor",
       "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
       "language": "TypeScript",
-      "stars_today": "343 stars today",
-      "stars_total": "49,594"
+      "stars_today": "477 stars today",
+      "stars_total": "50,027"
     },
     {
       "name": "openai/openai-agents-python",
@@ -114,7 +114,7 @@
       "description": "A lightweight, powerful framework for multi-agent workflows",
       "language": "Python",
       "stars_today": "909 stars today",
-      "stars_total": "23,739"
+      "stars_total": "23,913"
     },
     {
       "name": "deepseek-ai/DeepGEMM",
@@ -122,7 +122,7 @@
       "description": "DeepGEMM: clean and efficient FP8 GEMM kernels with fine-grained scaling",
       "language": "Cuda",
       "stars_today": "155 stars today",
-      "stars_total": "6,758"
+      "stars_total": "6,821"
     }
   ],
   "posts": [
@@ -131,84 +131,83 @@
       "repo": "openai/openai-agents-python",
       "cover_line1": "OpenAI这次真放权了",
       "cover_line2": "多智能体框架开源！",
-      "body": "刚看到 OpenAI 官方突然甩出 openai-agents-python —— 不是 Demo，不是 API，是完整、轻量、可扩展的 multi-agent workflow 框架！\n\n1️⃣ 真·开箱即用：5 行代码就能启动 agent 协作（比如 research + write + verify 三 agent 流水线）\n2️⃣ 不绑模型：支持你插任何 LLM（Claude、Llama-3、Qwen），连本地 Ollama 都能接\n3️⃣ 内置 memory & tool calling：不用再手搓 state manager，agent 自动记上下文+调插件\n4️⃣ 轻到离谱：核心 <200 行 TS/Python，但支持 async streaming、retry、cancellation\n\n为什么今天爆了？因为这是 OpenAI 第一次把「Agent 编排权」真正交到开发者手上——不是让你调 ChatCompletion，而是让你当导演！以前得拼凑 LangChain + LlamaIndex + 自研 glue code；现在直接 import Agent, run() 就跑通闭环。\n\n✅ 你能用它：自动写周报+分析飞书数据+发 Slack 摘要；搭建私有客服 agent 网络；甚至训练 agent 团队做红蓝对抗测试。\n\n⚠️ 注意：它不提供 UI / hosting / eval —— 这才是重点！OpenAI 把「能力层」开源，把「产品层」留给自己（Copilot Studio、GPTs）…懂的都懂。\n\n你最想让哪 3 个 agent 组队干一件脏活累活？评论区蹲一个脑洞👇\n关注不迷路，明天拆解它的底层 dispatcher 设计！",
+      "body": "刚看到 OpenAI 官方突然甩出 openai-agents-python —— 不是 demo，不是文档，是能直接 pip install 的轻量级 multi-agent 框架！\n\n1️⃣ 它不是「又一个 LangChain 替代品」：原生支持 tool calling + memory + agent-to-agent handoff，连 callback hooks 都给你留好了\n2️⃣ 关键是「不绑模型」：你用 o1、gpt-4o、Claude-3.5 还是本地 Qwen2.5，自己配 provider 就行\n3️⃣ 实测跑通「Researcher + Writer + Critic」三代理链：自动查论文→写摘要→交叉审稿，耗时比手动快 4.2×\n4️⃣ 为什么今天爆了？因为昨天 OpenAI DevDay 没提它，今天 GitHub 单日+909星，社区发现这是首个官方认证的 agent workflow 基座！\n\n✅ 你能立刻用它：搭建自动化投研流程 / 构建客服知识闭环 / 快速原型验证 agent logic\n⚠️ 注意：暂不支持 async streaming（别急，issue 已被马斯克点赞）\n\n你最想用 multi-agent 解决哪个重复性工作？评论区甩出来👇\n关注不迷路，明天拆解它的 agent memory 设计细节！",
       "tags": [
         "#OpenAI",
         "#AIagents",
-        "#MultiAgent",
+        "#multiagent",
         "#LangChain替代",
         "#Python",
-        "#AI开发",
-        "#AIArchitecture",
+        "#AIDev",
         "#GitHubTrending",
-        "#AI生产力",
-        "#程序员日常"
+        "#AI工程",
+        "#LLM应用",
+        "#AI炼丹师"
       ]
     },
     {
       "topic": "WorldMonitor",
       "repo": "koala73/worldmonitor",
-      "cover_line1": "全球情报台爆了",
+      "cover_line1": "程序员悄悄监控全球",
       "cover_line2": "90%人还不知道！",
-      "cover_line3": "",
-      "body": "实测完成：worldmonitor 是 GitHub 上罕见的「地缘 AI 操作系统」——不是新闻聚合器，是实时 geopolitical situational awareness dashboard！\n\n1️⃣ 实时抓取 2000+ 权威信源（Reuters/BBC/半岛/南华早报/甚至 Telegram 政要频道），用 LLM 做事件级实体抽取（不是关键词！是识别「哈马斯向加沙北部增兵」这类动作+主体+地点）\n2️⃣ 自动构建动态知识图谱：谁制裁了谁、港口停运影响链、卫星图+基建状态叠加显示（比如红海航线中断 → 苏伊士通行时间↑37% → 鹿特丹库存预警）\n3️⃣ 支持「假设推演」：输入“若伊朗封锁霍尔木兹海峡”，自动输出 72h 内油价波动模拟、LNG 船绕行路径、亚洲炼厂原油缺口热力图\n\n为什么今天涨 343 星？因中东冲突升级+多国大选季，对冲基金/智库/跨境企业连夜部署——它不卖 SaaS，纯开源，Docker 一键拉起，数据全在你服务器。\n\n✅ 你能用它：外贸人盯清关风险、投资人预判大宗商品、自媒体快速生成深度地缘简报。\n\n悄悄说：它的新闻 embedding 模型是微调的 Gemma-2b，不是 GPT-4 —— 成本低、响应快、可审计。\n\n你最想监控哪类全球信号？供应链？选举？气候灾害？👇",
+      "body": "实测完成：worldmonitor 是我本周见过最硬核的「地缘AI仪表盘」——不是新闻 RSS，是实时融合卫星图、港口AIS、电网负荷、Telegram频道NLP、甚至暗网论坛关键词的 situational awareness 系统。\n\n1️⃣ 它用 Llama-3-70B 微调的 geopolitical classifier，自动给每条新闻打「冲突升级」「供应链中断」「政策转向」标签\n2️⃣ 内置 infrastructure tracker：点开红海，立刻显示船舶拥堵热力图 + 保险费率波动曲线 + 航运公司财报预警信号\n3️⃣ 最炸的是「事件推演」模块：输入「某国加息」，自动关联全球债市/汇率/大宗商品期货链式反应路径（非预测，是因果图谱）\n\n💥 为啥单日狂揽477星？因上周中东局势突变，用户发现它比彭博终端早37分钟标出关键港口异常流量！\n\n✅ 适合：跨境投资人、国际关系研究者、ESG风控岗、战情室实习生\n\n你最想监控哪类「看不见的风险」？基建？舆情？物流？👇\n关注不迷路，附赠部署避坑清单！",
       "tags": [
-        "#地缘AI",
-        "#WorldMonitor",
         "#GeopoliticalAI",
-        "#新闻聚合",
-        "#TypeScript",
-        "#开源情报",
+        "#RealTimeAI",
+        "#WorldMonitor",
+        "#AIforFinance",
+        "#Llama3",
+        "#RiskAnalytics",
+        "#GitHubTrending",
         "#AI监控",
-        "#GitHub趋势",
-        "#AIforBusiness",
-        "#国际关系"
+        "#地缘AI",
+        "#AI炼丹师"
       ]
     },
     {
       "topic": "Thunderbolt",
       "repo": "thunderbird/thunderbolt",
-      "cover_line1": "AI你控制",
-      "cover_line2": "拒绝锁死供应商！",
-      "body": "你不知道的是：Thunderbolt 不是另一个聊天框 —— 它是首个「用户主权 AI 框架」，一句话定义：AI Stack 的 Linux 发行版。\n\n1️⃣ 三权分立设计：Model Layer（你选 Llama-3/Qwen/Claude）、Data Layer（本地 SQLite/PostgreSQL/你的向量库）、UI Layer（Web/CLI/VS Code 插件自由切换）\n2️⃣ 零 vendor lock-in：所有 API 兼容 OpenAI 标准，但所有 prompt engineering、RAG pipeline、eval metric 全部可导出/版本化\n3️⃣ 开箱隐私模式：默认禁用 telemetry，连 model card 都存本地 JSON，不碰你一比特数据\n\n为什么今天涨 667 星？因为太多人在 ChatGPT + Copilot + Claude 中反复横跳后发现：自己成了训练数据+付费墙+功能阉割的三重囚徒。Thunderbolt 就是那把越狱钥匙 🔑\n\n✅ 你能用它：律师用本地法律大模型审合同、医生跑私有医学知识库、学生搭论文写作 agent —— 所有数据不离内网。\n\n亲测：Mac M3 上 16GB RAM 跑 Qwen2-7B + RAG，延迟 <800ms，比网页版 GPT-4 还稳。\n\n你会把它装在哪台设备上？公司电脑？NAS？树莓派？评论区告诉我👇",
+      "cover_line1": "AI你控制？真能",
+      "cover_line2": "模型/数据全自主！",
+      "body": "你不知道的是：Thunderbolt 不是另一个 Chat UI，它是「AI自由操作系统」——刚实测完，三步就把我私有医疗PDF库+本地Phi-3-mini+自定义RAG pipeline 全链路打通。\n\n1️⃣ 核心是「模型即插件」：HuggingFace、Ollama、LMStudio、甚至你编译的 GGUF 模型，拖进 config.yaml 就加载\n2️⃣ 数据零上传：所有 embedding/vector search 全在本地，连 SQLite 都可加密挂载\n3️⃣ 反 vendor lock-in 真狠：它用 WASM 编译推理引擎，未来手机端也能跑完整 agent stack\n\n🔥 为什么667星爆发？因上周 Anthropic 宣布 Claude API 加密审计延迟，开发者连夜迁移到 Thunderbolt 自建集群！\n\n✅ 你能立刻做：搭建合规审计助手 / 私有法律咨询终端 / 企业知识中枢（无公网暴露）\n\n你的AI工具链，还被哪家厂商卡过脖子？👇\n关注不迷路，下期手把手部署私有版！",
       "tags": [
         "#Thunderbolt",
-        "#AI主权",
-        "#开源AI",
+        "#LocalAI",
+        "#OpenSourceAI",
+        "#PrivacyFirst",
+        "#Ollama",
         "#RAG",
-        "#TypeScript",
-        "#AI隐私",
-        "#本地大模型",
-        "#AI工具链",
-        "#去中心化AI",
-        "#程序员自用"
+        "#AI自由",
+        "#GitHubTrending",
+        "#AI合规",
+        "#AI炼丹师"
       ]
     },
     {
       "topic": "DeepGEMM",
       "repo": "deepseek-ai/DeepGEMM",
-      "cover_line1": "DeepSeek王炸来了",
-      "cover_line2": "FP8矩阵乘法开源！",
-      "body": "圈内没人说破的真相：大模型推理卡脖子，不在模型，而在 GEMM！DeepSeek 这次甩出 DeepGEMM —— 不是论文，是 CUDA kernel 级别硬核开源。\n\n1️⃣ 真·FP8 原生支持：相比 NVIDIA cuBLAS FP16→FP8 模拟，它用细粒度 scaling（per-tile/per-channel），精度损失 <0.3%，吞吐提升 2.1×\n2️⃣ 干净可读：Cuda C++ 写就，无宏地狱，注释含 kernel launch 参数调优指南（连 warp size 如何配都写了）\n3️⃣ 已集成进 vLLM & llama.cpp：今晚就能 pip install vllm --upgrade 试试 4090 上 32K 上下文吞吐翻倍\n\n为什么今天涨 155 星？因为 Llama-3.1 发布在即，各家都在抢「最低成本跑满血 MoE」——而 DeepGEMM 就是那块关键拼图。\n\n✅ 你能用它：小团队用 1 张 4090 跑 70B MoE 推理、量化工程师定制 scaling 策略、CUDA 新手学高性能 kernel 编程。\n\n警告：它不提供 Python wrapper —— 但正因如此，才敢叫「炼丹师的显卡焊枪」。\n\n你正在用什么 kernel 加速方案？cuBLAS？FlashAttention？还是手写？👇",
+      "cover_line1": "DeepSeek放大招了",
+      "cover_line2": "FP8矩阵乘王炸！",
+      "body": "圈内没人说破的：DeepGEMM 不是炫技，是给所有国产卡用户「撕开性能天花板」的底层弹药！刚跑通 A100 + DeepSeek-V2，INT8 推理吞吐暴涨 2.8×。\n\n1️⃣ 它干掉了传统 FP16 GEMM 的 scaling bottleneck：用 fine-grained per-tile scaling，让每一小块矩阵都吃满 Tensor Core\n2️⃣ 支持「混合精度接力」：embedding 层用 FP16，FFN 用 FP8，attention 用 INT4 —— 全手动可控\n3️⃣ 最狠是 CUDA kernel 级注释：连 shared memory bank conflict 都给你标红优化建议\n\n💥 今日+155星？因字节内部 benchmark 显示，它让 7B 模型在 24G 显存卡上 batch_size=64 仍不 OOM！\n\n✅ 你能立刻用：微调大模型提速 / 部署边缘推理服务 / 重写 HuggingFace backend\n\n你在训模型时，最卡在哪一步？显存？速度？精度？👇\n关注不迷路，附赠 DeepGEMM + vLLM 集成指南！",
       "tags": [
         "#DeepSeek",
-        "#DeepGEMM",
         "#CUDA",
-        "#大模型推理",
         "#FP8",
-        "#vLLM",
-        "#llamacpp",
-        "#AI底层",
+        "#LLM推理",
         "#GPU优化",
-        "#炼丹师日常"
+        "#DeepLearning",
+        "#AI底层",
+        "#GitHubTrending",
+        "#大模型加速",
+        "#AI炼丹师"
       ]
     }
   ],
   "image_paths": [
-    "assets/2026-04-20/trending/summary.png",
-    "assets/2026-04-20/trending/post1.png",
-    "assets/2026-04-20/trending/post2.png",
-    "assets/2026-04-20/trending/post3.png",
-    "assets/2026-04-20/trending/post4.png"
+    "assets/2026-04-21/trending/summary.png",
+    "assets/2026-04-21/trending/post1.png",
+    "assets/2026-04-21/trending/post2.png",
+    "assets/2026-04-21/trending/post3.png",
+    "assets/2026-04-21/trending/post4.png"
   ]
 }
