@@ -2,8 +2,8 @@ name: 🔥 GitHub Trending AI 追踪
 
 on:
   schedule:
-    # 北京时间 08:00 (UTC 00:00) — 早报
-    - cron: "0 0 * * *"
+    # 北京时间 08:00 触发（提前至 UTC 23:00 以抵消 Actions 调度延迟 + 执行耗时）
+    - cron: "0 23 * * *"
     # 北京时间 21:00 (UTC 13:00) — 晚报
     - cron: "0 13 * * *"
   workflow_dispatch:

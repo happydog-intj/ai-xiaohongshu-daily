@@ -2,8 +2,8 @@ name: 📱 AI 小红书日报
 
 on:
   schedule:
-    # 每天北京时间 08:00 (UTC+8 = UTC 00:00)
-    - cron: "0 0 * * *"
+    # 每天北京时间 08:00 触发（提前至 UTC 23:00 以抵消 Actions 调度延迟 + 执行耗时）
+    - cron: "0 23 * * *"
   workflow_dispatch:
     inputs:
       phase:
