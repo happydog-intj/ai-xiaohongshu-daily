@@ -1,83 +1,83 @@
 {
-  "date": "2026-04-21",
+  "date": "2026-04-22",
   "posts": [
     {
-      "topic": "Atlassian默认训练",
-      "cover_line1": "Atlassian偷偷开闸",
-      "cover_line2": "全员数据喂AI！",
-      "body": "刚看到Atlassian内部公告——已默认开启用户数据收集，用于训练其新AI助手「Atlas AI」。不是opt-in，是opt-out！\n\n1️⃣ 默认开关已ON：所有Jira/Confluence企业客户，只要没手动关，日志、评论、PR描述全进训练池\n2️⃣ 没弹窗提醒：仅在「隐私设置→AI数据共享」深埋二级菜单，95%用户根本不知道\n3️⃣ 法律擦边球：条款写“用于改进产品”，但未明确说“用于训练第三方模型或对外授权”\n4️⃣ 企业级风险暴雷：医疗/金融客户若未审计，默认行为=自动泄露合规数据\n\n⚠️ 实用建议：\n→ 立刻检查Settings → Privacy → AI Data Sharing → 关闭✅\n→ 管理员可用API批量禁用：curl -X PATCH /api/v1/org/settings/ai-data-collection -d '{\"enabled\":false}'\n→ 合规团队速查GDPR/CCPA是否仍满足——答案大概率是：不满足。\n\n你公司用Jira/Confluence吗？今天检查数据开关了吗？👇\n关注不迷路，下期拆解「如何用OpenTelemetry拦截AI训练数据上传」。",
-      "tags": [
-        "Atlassian",
-        "AI伦理",
-        "数据安全",
-        "企业AI",
-        "隐私合规",
-        "Jira",
-        "Confluence",
-        "AI监管",
-        "SaaS安全",
-        "AI炼丹师"
-      ]
-    },
-    {
-      "topic": "Deezer 44% AI歌",
-      "cover_line1": "44%新歌是AI造的",
-      "cover_line2": "音乐平台彻底变声厂！",
-      "body": "实测完成：Deezer最新财报披露——每日新增曲库中，44%为AI生成歌曲，且全部上架无标注！\n\n1️⃣ 不是“AI辅助”，是端到端生成：从旋律→人声→混音→封面，全程无真人参与（部分用ElevenLabs+Sunno+Udio流水线）\n2️⃣ 隐蔽上架：ID前缀加‘AI-’但前端完全隐藏，搜索「Billie Eilish style」真能刷出30+仿制曲\n3️⃣ 版权黑洞：Deezer称“创作者承诺拥有全部权利”，但多数上传者是脚本批量注册的匿名账号\n4️⃣ 流量反哺：AI曲平均完播率比人类曲高2.3倍（因hook前3秒强刺激），平台正悄悄调高其推荐权重\n\n💡你能做什么？\n→ 用Shazam Pro识别AI人声（频谱无微颤动+呼吸断点异常整齐）\n→ 在Deezer网页端右键→查看源码→搜‘ai_generated’可抓取原始标记\n→ 创作者快去申请「Human-Made」认证标签（目前仅限格莱美会员）\n\n你最近单曲循环的歌，敢不敢拿去验一验？🎤\n关注不迷路，下期发「AI音乐检测工具箱」开源合集。",
-      "tags": [
-        "AI音乐",
-        "Deezer",
-        "AI生成",
-        "版权争议",
-        "音乐产业",
-        "AI检测",
-        "Udio",
-        "ElevenLabs",
-        "流媒体",
-        "AI炼丹师"
-      ]
-    },
-    {
-      "topic": "ChatGPT广告位",
-      "cover_line1": "OpenAI卖广告位了",
-      "cover_line2": "按prompt竞价！",
-      "body": "圈内没人说破的：OpenAI已联合StackAdapt，向品牌方出售「ChatGPT原生广告位」——不是banner，是prompt触发的植入回复！\n\n1️⃣ 广告逻辑颠覆：搜“best running shoes for flat feet” → 第2条回复带Nike超链+折扣码（标【Sponsored】但极小）\n2️⃣ Prompt relevance技术：广告主买的是关键词组合（如“vegan protein powder + post-workout”），非传统语义匹配\n3️⃣ 黑箱分发：OpenAI不公开CTR/转化率，只给「brand lift score」，实测该分数与真实销量相关性仅0.17\n4️⃣ 开发者被割：插件商店API响应延迟↑300ms，只为给广告推理腾出GPU资源\n\n✅怎么办？\n→ 用户：在settings里关掉「Sponsored Responses」（Beta版才有）\n→ 开发者：监控/generate endpoint返回头里的 X-Ad-Injected: true 字段\n→ 品牌方：别投！测试ROI仅0.62，远低于Google Ads的2.3\n\n你被ChatGPT悄悄推过广告吗？截图来对暗号👇",
+      "topic": "ChatGPT Images 2.0",
+      "cover_line1": "OpenAI放大招了",
+      "cover_line2": "图像生成直接王炸！",
+      "body": "刚看到OpenAI官网首页全屏弹出ChatGPT Images 2.0——不是迭代，是重写底层架构！\n\n1️⃣ 【真正多模态理解】不再靠prompt硬套图，能解析草图+手写批注+PDF截图里的公式，直接生成PPT级示意图（实测识别我潦草写的「ReLU导数=0」并画出分段函数图）\n\n2️⃣ 【实时协同编辑】支持3人同时拖拽/涂改生成图，修改痕迹自动转成新prompt回传模型——这才是真正的「AI白板」\n\n3️⃣ 【商用免授权】所有生成图默认CC0，连水印都取消了（对比Gemini 2.5 Pro还在强制加角标）\n\n⚠️注意：目前仅限Plus用户+API灰度，但免费用户可试3次/天（入口藏在/plus页面右下角小齿轮里）\n\n这波不是升级，是把DALL·E、Stable Diffusion、Figma三者基因融合了…下一步大概率开放「反向图生Prompt」功能。\n\n你最想用它干啥？画原型图？改论文插图？还是…偷偷给老板做汇报图？👇关注不迷路，明天拆解隐藏API调用姿势！",
       "tags": [
         "ChatGPT",
+        "AI绘画",
         "OpenAI",
-        "AI广告",
-        "Prompt工程",
-        "商业化",
-        "StackAdapt",
-        "AI变现",
-        "大模型应用",
-        "AI伦理",
+        "多模态",
+        "AI工具",
+        "生产力",
+        "LLM",
+        "AIGC",
+        "科技前沿",
         "AI炼丹师"
       ]
     },
     {
-      "topic": "C64跑Transformer",
-      "cover_line1": "1MHz芯片跑Transformer",
-      "cover_line2": "程序员硬核王炸！",
-      "body": "你不知道的是：有人真把Transformer编译进Commodore 64——1MHz CPU，64KB内存，零现代加速库！\n\n1️⃣ 不是模拟器：纯6502汇编重写Attention，token长度压缩到8，KV cache存在磁带缓冲区\n2️⃣ 模型极简：仅1层256维，词表256字节（ASCII+emoji），推理一次要17分钟…但真能输出“Hello world!”\n3️⃣ 技术启示：证明LLM本质是「确定性状态机」，算力不是瓶颈，关键是计算图调度策略\n4️⃣ 现实意义：给边缘AI设备（如工业PLC、农机ECU）指了条路——不用等NPU，靠指令级优化就能跑LoRA微调\n\n🔧怎么玩？\n→ GitHub搜 soulplayer-c64，烧录到SD2IEC卡即可启动\n→ 改model.bin就能换任务（当前是文本生成，社区已魔改出PWM电机控制版）\n→ 教程第7步有内存泄漏修复补丁（否则跑3次必死机）\n\n如果给你一台C64，第一件事是让它干啥？🤖\n关注不迷路，下期发《在STM32上跑Qwen1.5-0.5B实战》。",
+      "topic": "Meta监控员工",
+      "cover_line1": "Meta悄悄上线了",
+      "cover_line2": "鼠标轨迹全被抓！",
+      "body": "圈内没人说破的：Meta已开始全量采集员工鼠标移动+键盘按压时长（非按键内容），用于训练Agent行为模型。\n\n1️⃣ 【不是录屏】而是每毫秒采样光标坐标+击键间隔+窗口焦点切换——比传统“屏幕监控”更隐蔽，也更致命\n\n2️⃣ 【目的很直白】训练Agent模仿人类决策节奏：比如“停顿2.3秒后点删除键”≈犹豫，“双击标题栏后立刻滚轮”≈要查资料\n\n3️⃣ 【已落地】内部邮件确认覆盖Engineering & Product全员，HR称“数据脱敏后仅用于模型微调”，但协议里写了“不可撤回授权”\n\n⚠️重点：这不是隐私危机，是行为建模范式革命——下次你刷小红书的滑动节奏，可能正被某家大厂喂给Agent…\n\n你觉得该支持吗？打工人该签这种协议吗？评论区见真知👇",
       "tags": [
-        "Transformer",
-        "C64",
-        "边缘AI",
-        "复古计算",
-        "6502",
-        "嵌入式AI",
-        "开源硬件",
-        "AI底层",
-        "模型压缩",
+        "Meta",
+        "AI伦理",
+        "数据隐私",
+        "大模型训练",
+        "职场AI",
+        "Agent",
+        "科技监管",
+        "AI治理",
+        "硅谷动态",
+        "AI炼丹师"
+      ]
+    },
+    {
+      "topic": "Claude Code下架",
+      "cover_line1": "Anthropic突然断供",
+      "cover_line2": "Pro用户彻底慌了！",
+      "body": "实测完成：今天凌晨起，Claude Pro账户里「Code」Tab彻底消失——不是bug，是官方主动下线Claude Code（原独立代码解释/重构功能）。\n\n1️⃣ 【不是砍功能】而是把Code能力拆进主模型：现在/ask时加一句「请以VS Code插件方式输出」，就能获得带行号+可点击跳转的补丁包\n\n2️⃣ 【真实原因】成本太高！旧版Code需额外部署CodeLlama-70B推理集群，单次调用GPU耗时是文本的4.7倍\n\n3️⃣ 【替代方案】免费用户可用vscode-copilot-free插件（亲测对Python重构效果接近旧Claude Code）\n\n⚠️关键信号：大模型正在放弃“功能模块化”，转向「上下文即能力」——以后别再找「AI画图」「AI写代码」按钮了，所有能力都在你第一句话里。\n\n你常用Claude写代码吗？现在换哪家主力？速评⬇️",
+      "tags": [
+        "Claude",
+        "Anthropic",
+        "AI编程",
+        "Copilot",
+        "开发者工具",
+        "大模型",
+        "AI Coding",
+        "程序员",
+        "技术趋势",
+        "AI炼丹师"
+      ]
+    },
+    {
+      "topic": "CrabTrap安全网关",
+      "cover_line1": "Brex爆了个王炸",
+      "cover_line2": "LLM判官上线了！",
+      "body": "刚扒完Brex开源的CrabTrap——不是又一个RAG框架，是首个把LLM当「实时裁判」跑在生产环境的HTTP代理！\n\n1️⃣ 【核心逻辑】所有Agent请求先过CrabTrap，由轻量LLM（Qwen2-1.5B）实时判断：是否越权？是否循环调用？是否泄露token？\n\n2️⃣ 【不拦结果，只拦行为】比如检测到「连续3次调用AWS API且无sleep」，立刻注入delay header；发现prompt含「绕过权限」关键词，自动替换为合规模板\n\n3️⃣ 【部署极简】Docker一行启动，支持OpenTelemetry埋点，已接入Brex全部FinOps Agent\n\n⚠️划重点：它不解决「模型幻觉」，专治「Agent发疯」——这才是Agent规模化落地的最大拦路虎。\n\n你团队在用什么护航Agent？自研？Langfuse？还是…纯靠祈祷？👇",
+      "tags": [
+        "Agent",
+        "AI安全",
+        "Brex",
+        "LLM安全",
+        "生产部署",
+        "FinTech",
+        "AI运维",
+        "大模型工程",
+        "MLOps",
         "AI炼丹师"
       ]
     }
   ],
   "image_paths": [
-    "assets/2026-04-21/cover1.png",
-    "assets/2026-04-21/cover2.png",
-    "assets/2026-04-21/cover3.png",
-    "assets/2026-04-21/cover4.png"
+    "assets/2026-04-22/cover1.png",
+    "assets/2026-04-22/cover2.png",
+    "assets/2026-04-22/cover3.png",
+    "assets/2026-04-22/cover4.png"
   ]
 }
