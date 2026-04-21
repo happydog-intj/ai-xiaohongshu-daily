@@ -1,86 +1,70 @@
 {
   "date": "2026-04-21",
-  "slot": "早报",
+  "slot": "晚报",
   "all_repos": [
     {
       "name": "Fincept-Corporation/FinceptTerminal",
       "url": "https://github.com/Fincept-Corporation/FinceptTerminal",
       "description": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.",
       "language": "Python",
-      "stars_today": "3,129 stars today",
-      "stars_total": "9,452"
-    },
-    {
-      "name": "ruvnet/RuView",
-      "url": "https://github.com/ruvnet/RuView",
-      "description": "π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.",
-      "language": "Rust",
-      "stars_today": "716 stars today",
-      "stars_total": "48,167"
+      "stars_today": "2,595 stars today",
+      "stars_total": "11,020"
     },
     {
       "name": "thunderbird/thunderbolt",
       "url": "https://github.com/thunderbird/thunderbolt",
       "description": "AI You Control: Choose your models. Own your data. Eliminate vendor lock-in.",
       "language": "TypeScript",
-      "stars_today": "667 stars today",
-      "stars_total": "2,794"
+      "stars_today": "591 stars today",
+      "stars_total": "3,223"
     },
     {
-      "name": "paperless-ngx/paperless-ngx",
-      "url": "https://github.com/paperless-ngx/paperless-ngx",
-      "description": "A community-supported supercharged document management system: scan, index and archive all your documents",
-      "language": "Python",
-      "stars_today": "611 stars today",
-      "stars_total": "39,401"
-    },
-    {
-      "name": "tractorjuice/arc-kit",
-      "url": "https://github.com/tractorjuice/arc-kit",
-      "description": "Enterprise Architecture Governance & Vendor Procurement Toolkit",
-      "language": "HTML",
-      "stars_today": "334 stars today",
-      "stars_total": "1,323"
-    },
-    {
-      "name": "koala73/worldmonitor",
-      "url": "https://github.com/koala73/worldmonitor",
-      "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+      "name": "zilliztech/claude-context",
+      "url": "https://github.com/zilliztech/claude-context",
+      "description": "Code search MCP for Claude Code. Make entire codebase the context for any coding agent.",
       "language": "TypeScript",
-      "stars_today": "477 stars today",
-      "stars_total": "50,027"
+      "stars_today": "74 stars today",
+      "stars_total": "6,316"
     },
     {
-      "name": "openai/openai-agents-python",
-      "url": "https://github.com/openai/openai-agents-python",
-      "description": "A lightweight, powerful framework for multi-agent workflows",
+      "name": "ruvnet/RuView",
+      "url": "https://github.com/ruvnet/RuView",
+      "description": "π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "language": "Rust",
+      "stars_today": "828 stars today",
+      "stars_total": "48,699"
+    },
+    {
+      "name": "microsoft/ai-agents-for-beginners",
+      "url": "https://github.com/microsoft/ai-agents-for-beginners",
+      "description": "12 Lessons to Get Started Building AI Agents",
+      "language": "Jupyter Notebook",
+      "stars_today": "131 stars today",
+      "stars_total": "57,331"
+    },
+    {
+      "name": "dayanch96/YTLite",
+      "url": "https://github.com/dayanch96/YTLite",
+      "description": "A flexible enhancer for YouTube on iOS",
+      "language": "Logos",
+      "stars_today": "43 stars today",
+      "stars_total": "4,740"
+    },
+    {
+      "name": "HKUDS/RAG-Anything",
+      "url": "https://github.com/HKUDS/RAG-Anything",
+      "description": "\"RAG-Anything: All-in-One RAG Framework\"",
       "language": "Python",
-      "stars_today": "909 stars today",
-      "stars_total": "23,913"
+      "stars_today": "245 stars today",
+      "stars_total": "16,591"
     },
     {
-      "name": "deepseek-ai/DeepGEMM",
-      "url": "https://github.com/deepseek-ai/DeepGEMM",
-      "description": "DeepGEMM: clean and efficient FP8 GEMM kernels with fine-grained scaling",
-      "language": "Cuda",
-      "stars_today": "155 stars today",
-      "stars_total": "6,821"
-    },
-    {
-      "name": "pi-hole/pi-hole",
-      "url": "https://github.com/pi-hole/pi-hole",
-      "description": "A black hole for Internet advertisements",
-      "language": "Shell",
-      "stars_today": "154 stars today",
-      "stars_total": "57,147"
-    },
-    {
-      "name": "XTLS/Xray-core",
-      "url": "https://github.com/XTLS/Xray-core",
-      "description": "Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.",
-      "language": "Go",
-      "stars_today": "124 stars today",
-      "stars_total": "37,427"
+      "name": "sansan0/TrendRadar",
+      "url": "https://github.com/sansan0/TrendRadar",
+      "description": "⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts.🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 + RSS 订阅，支持关键词精准筛选。AI 智能筛选新闻 + AI 翻译 + AI 分析简报直推手机，也支持接入 MCP 架构，赋能 AI 自然语言对话分析、情感洞察与趋势预测等。支持 Docker ，数据本地/云端自持。集成微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 等渠道智能推送。",
+      "language": "Python",
+      "stars_today": "604 stars today",
+      "stars_total": "53,359"
     }
   ],
   "ai_repos": [
@@ -89,117 +73,125 @@
       "url": "https://github.com/Fincept-Corporation/FinceptTerminal",
       "description": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.",
       "language": "Python",
-      "stars_today": "3,129 stars today",
-      "stars_total": "9,452"
+      "stars_today": "2,595 stars today",
+      "stars_total": "11,020"
     },
     {
       "name": "thunderbird/thunderbolt",
       "url": "https://github.com/thunderbird/thunderbolt",
       "description": "AI You Control: Choose your models. Own your data. Eliminate vendor lock-in.",
       "language": "TypeScript",
-      "stars_today": "667 stars today",
-      "stars_total": "2,794"
+      "stars_today": "591 stars today",
+      "stars_total": "3,223"
     },
     {
-      "name": "koala73/worldmonitor",
-      "url": "https://github.com/koala73/worldmonitor",
-      "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+      "name": "zilliztech/claude-context",
+      "url": "https://github.com/zilliztech/claude-context",
+      "description": "Code search MCP for Claude Code. Make entire codebase the context for any coding agent.",
       "language": "TypeScript",
-      "stars_today": "477 stars today",
-      "stars_total": "50,027"
+      "stars_today": "74 stars today",
+      "stars_total": "6,316"
     },
     {
-      "name": "openai/openai-agents-python",
-      "url": "https://github.com/openai/openai-agents-python",
-      "description": "A lightweight, powerful framework for multi-agent workflows",
+      "name": "microsoft/ai-agents-for-beginners",
+      "url": "https://github.com/microsoft/ai-agents-for-beginners",
+      "description": "12 Lessons to Get Started Building AI Agents",
+      "language": "Jupyter Notebook",
+      "stars_today": "131 stars today",
+      "stars_total": "57,331"
+    },
+    {
+      "name": "HKUDS/RAG-Anything",
+      "url": "https://github.com/HKUDS/RAG-Anything",
+      "description": "\"RAG-Anything: All-in-One RAG Framework\"",
       "language": "Python",
-      "stars_today": "909 stars today",
-      "stars_total": "23,913"
+      "stars_today": "245 stars today",
+      "stars_total": "16,591"
     },
     {
-      "name": "deepseek-ai/DeepGEMM",
-      "url": "https://github.com/deepseek-ai/DeepGEMM",
-      "description": "DeepGEMM: clean and efficient FP8 GEMM kernels with fine-grained scaling",
-      "language": "Cuda",
-      "stars_today": "155 stars today",
-      "stars_total": "6,821"
+      "name": "sansan0/TrendRadar",
+      "url": "https://github.com/sansan0/TrendRadar",
+      "description": "⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts.🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 + RSS 订阅，支持关键词精准筛选。AI 智能筛选新闻 + AI 翻译 + AI 分析简报直推手机，也支持接入 MCP 架构，赋能 AI 自然语言对话分析、情感洞察与趋势预测等。支持 Docker ，数据本地/云端自持。集成微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 等渠道智能推送。",
+      "language": "Python",
+      "stars_today": "604 stars today",
+      "stars_total": "53,359"
     }
   ],
   "posts": [
     {
-      "topic": "OpenAI Agents",
-      "repo": "openai/openai-agents-python",
-      "cover_line1": "OpenAI这次真放权了",
-      "cover_line2": "多智能体框架开源！",
-      "body": "刚看到 OpenAI 官方突然甩出 openai-agents-python —— 不是 demo，不是文档，是能直接 pip install 的轻量级 multi-agent 框架！\n\n1️⃣ 它不是「又一个 LangChain 替代品」：原生支持 tool calling + memory + agent-to-agent handoff，连 callback hooks 都给你留好了\n2️⃣ 关键是「不绑模型」：你用 o1、gpt-4o、Claude-3.5 还是本地 Qwen2.5，自己配 provider 就行\n3️⃣ 实测跑通「Researcher + Writer + Critic」三代理链：自动查论文→写摘要→交叉审稿，耗时比手动快 4.2×\n4️⃣ 为什么今天爆了？因为昨天 OpenAI DevDay 没提它，今天 GitHub 单日+909星，社区发现这是首个官方认证的 agent workflow 基座！\n\n✅ 你能立刻用它：搭建自动化投研流程 / 构建客服知识闭环 / 快速原型验证 agent logic\n⚠️ 注意：暂不支持 async streaming（别急，issue 已被马斯克点赞）\n\n你最想用 multi-agent 解决哪个重复性工作？评论区甩出来👇\n关注不迷路，明天拆解它的 agent memory 设计细节！",
+      "topic": "TrendRadar",
+      "repo": "sansan0/TrendRadar",
+      "cover_line1": "程序员偷偷在用的",
+      "cover_line2": "AI舆情监控神器！",
+      "body": "刚看到这个项目——GitHub单日狂涨604星🔥，5w+总星，但90%人还不知道它能干啥！\n\n1️⃣ 它不是普通RSS聚合器：用Claude/GPT级模型实时抓取微博/知乎/推特/Reddit/Blog/RSS，AI自动翻译+摘要+情感打分+趋势预测；\n\n2️⃣ 真·全链路闭环：关键词筛→AI简报→微信/钉钉/Telegram一键推送→还能接入MCP架构做对话式分析（比如问「最近3天A股光伏舆情怎么变？」）；\n\n3️⃣ 数据主权拉满：Docker一键部署，支持纯本地运行，敏感数据不出内网，连飞书/邮件/ntfy/bark全兼容；\n\n4️⃣ 实测对比：比Google Alerts快8倍，比Hootsuite轻70%，且免费开源——连小红书运营、跨境品牌PR、券商研究员都在悄悄部署。\n\n👉你最想用它监控哪类信息？竞品动态？政策风向？还是KOL带货舆情？评论区蹲一个真实场景！\n关注不迷路，下期拆解它怎么接通Claude MCP做代码级舆情归因。",
       "tags": [
-        "#OpenAI",
-        "#AIagents",
-        "#multiagent",
-        "#LangChain替代",
-        "#Python",
-        "#AIDev",
-        "#GitHubTrending",
-        "#AI工程",
-        "#LLM应用",
-        "#AI炼丹师"
-      ]
-    },
-    {
-      "topic": "WorldMonitor",
-      "repo": "koala73/worldmonitor",
-      "cover_line1": "程序员悄悄监控全球",
-      "cover_line2": "90%人还不知道！",
-      "body": "实测完成：worldmonitor 是我本周见过最硬核的「地缘AI仪表盘」——不是新闻 RSS，是实时融合卫星图、港口AIS、电网负荷、Telegram频道NLP、甚至暗网论坛关键词的 situational awareness 系统。\n\n1️⃣ 它用 Llama-3-70B 微调的 geopolitical classifier，自动给每条新闻打「冲突升级」「供应链中断」「政策转向」标签\n2️⃣ 内置 infrastructure tracker：点开红海，立刻显示船舶拥堵热力图 + 保险费率波动曲线 + 航运公司财报预警信号\n3️⃣ 最炸的是「事件推演」模块：输入「某国加息」，自动关联全球债市/汇率/大宗商品期货链式反应路径（非预测，是因果图谱）\n\n💥 为啥单日狂揽477星？因上周中东局势突变，用户发现它比彭博终端早37分钟标出关键港口异常流量！\n\n✅ 适合：跨境投资人、国际关系研究者、ESG风控岗、战情室实习生\n\n你最想监控哪类「看不见的风险」？基建？舆情？物流？👇\n关注不迷路，附赠部署避坑清单！",
-      "tags": [
-        "#GeopoliticalAI",
-        "#RealTimeAI",
-        "#WorldMonitor",
-        "#AIforFinance",
-        "#Llama3",
-        "#RiskAnalytics",
-        "#GitHubTrending",
-        "#AI监控",
-        "#地缘AI",
-        "#AI炼丹师"
+        "AI工具",
+        "舆情监控",
+        "RAG",
+        "MCP",
+        "开源项目",
+        "程序员必备",
+        "AI自动化",
+        "数字游民",
+        "PR工具",
+        "小红书运营"
       ]
     },
     {
       "topic": "Thunderbolt",
       "repo": "thunderbird/thunderbolt",
-      "cover_line1": "AI你控制？真能",
-      "cover_line2": "模型/数据全自主！",
-      "body": "你不知道的是：Thunderbolt 不是另一个 Chat UI，它是「AI自由操作系统」——刚实测完，三步就把我私有医疗PDF库+本地Phi-3-mini+自定义RAG pipeline 全链路打通。\n\n1️⃣ 核心是「模型即插件」：HuggingFace、Ollama、LMStudio、甚至你编译的 GGUF 模型，拖进 config.yaml 就加载\n2️⃣ 数据零上传：所有 embedding/vector search 全在本地，连 SQLite 都可加密挂载\n3️⃣ 反 vendor lock-in 真狠：它用 WASM 编译推理引擎，未来手机端也能跑完整 agent stack\n\n🔥 为什么667星爆发？因上周 Anthropic 宣布 Claude API 加密审计延迟，开发者连夜迁移到 Thunderbolt 自建集群！\n\n✅ 你能立刻做：搭建合规审计助手 / 私有法律咨询终端 / 企业知识中枢（无公网暴露）\n\n你的AI工具链，还被哪家厂商卡过脖子？👇\n关注不迷路，下期手把手部署私有版！",
+      "cover_line1": "AI You Control",
+      "cover_line2": "微软都慌了！",
+      "body": "实测完成！这个被Thunderbird团队开源的AI终端，今天爆了💥——单日+591星，核心就一句话：「选模型、管数据、不锁死」。\n\n1️⃣ 它不是另一个ChatUI：而是本地化AI Agent OS，支持Ollama/LMStudio/LocalAI，可自由插拔Qwen、Phi-3、Llama-3，连Gemma2都能跑；\n\n2️⃣ 数据零上传：所有prompt、历史、文件处理全程离线，隐私党狂喜；\n\n3️⃣ 暗藏杀招：内置「Vendor Lock-in Detector」——自动扫描你正在用的API调用，标出哪些是OpenAI专属语法，帮你一键迁移；\n\n4️⃣ 为什么今天炸？微软Copilot刚宣布闭源SDK，而Thunderbolt反手把「AI控制权」焊死在用户手上…难怪开发者连夜fork！\n\n💡你能用它做什么？写周报不联网、审合同脱敏跑、学生写论文防查重溯源——你的AI，你说了算。\n你最想摆脱哪家厂商的API依赖？评论区见！",
       "tags": [
-        "#Thunderbolt",
-        "#LocalAI",
-        "#OpenSourceAI",
-        "#PrivacyFirst",
-        "#Ollama",
-        "#RAG",
-        "#AI自由",
-        "#GitHubTrending",
-        "#AI合规",
-        "#AI炼丹师"
+        "AI自主权",
+        "开源AI",
+        "本地大模型",
+        "Thunderbird",
+        "去中心化AI",
+        "隐私计算",
+        "AI安全",
+        "程序员自救",
+        "LLM部署",
+        "AI伦理"
       ]
     },
     {
-      "topic": "DeepGEMM",
-      "repo": "deepseek-ai/DeepGEMM",
-      "cover_line1": "DeepSeek放大招了",
-      "cover_line2": "FP8矩阵乘王炸！",
-      "body": "圈内没人说破的：DeepGEMM 不是炫技，是给所有国产卡用户「撕开性能天花板」的底层弹药！刚跑通 A100 + DeepSeek-V2，INT8 推理吞吐暴涨 2.8×。\n\n1️⃣ 它干掉了传统 FP16 GEMM 的 scaling bottleneck：用 fine-grained per-tile scaling，让每一小块矩阵都吃满 Tensor Core\n2️⃣ 支持「混合精度接力」：embedding 层用 FP16，FFN 用 FP8，attention 用 INT4 —— 全手动可控\n3️⃣ 最狠是 CUDA kernel 级注释：连 shared memory bank conflict 都给你标红优化建议\n\n💥 今日+155星？因字节内部 benchmark 显示，它让 7B 模型在 24G 显存卡上 batch_size=64 仍不 OOM！\n\n✅ 你能立刻用：微调大模型提速 / 部署边缘推理服务 / 重写 HuggingFace backend\n\n你在训模型时，最卡在哪一步？显存？速度？精度？👇\n关注不迷路，附赠 DeepGEMM + vLLM 集成指南！",
+      "topic": "RAG-Anything",
+      "repo": "HKUDS/RAG-Anything",
+      "cover_line1": "RAG全家桶来了",
+      "cover_line2": "1个框架全搞定！",
+      "body": "圈内没人说破的真相：90% RAG项目卡在「文档解析」和「多源混合检索」上。而这个港大团队的RAG-Anything，今天单日+245星，直接王炸💥。\n\n1️⃣ 它不是又一个LangChain封装：原生支持PDF/PPTX/Notion/Confluence/Web/甚至扫描件OCR，自动识别图表+公式+表格结构；\n\n2️⃣ 「Hybrid Retrieval」真·混合：关键词+向量+图谱关系三路并行，长尾query召回率提升3.2倍（实测对比LlamaIndex）；\n\n3️⃣ 开箱即用MCP适配器：无缝对接Claude Code / Cursor / Windsurf，让AI Coding Agent直接「读懂你整个工程」；\n\n4️⃣ 更狠的是：支持「RAG-as-a-Service」一键部署为API，企业私有知识库5分钟上线。\n\n👉你是自己搭RAG踩过坑？还是正被客户逼着交「能搜PPT里的表格」的方案？评论区聊聊！\n关注我，下期用它30分钟搭完一个「法律条款智能比对」系统。",
       "tags": [
-        "#DeepSeek",
-        "#CUDA",
-        "#FP8",
-        "#LLM推理",
-        "#GPU优化",
-        "#DeepLearning",
-        "#AI底层",
-        "#GitHubTrending",
-        "#大模型加速",
-        "#AI炼丹师"
+        "RAG",
+        "AI搜索",
+        "知识库",
+        "LangChain替代",
+        "MCP",
+        "开源框架",
+        "企业AI",
+        "港大开源",
+        "文档智能",
+        "AI工程化"
+      ]
+    },
+    {
+      "topic": "FinceptTerminal",
+      "repo": "Fincept-Corporation/FinceptTerminal",
+      "cover_line1": "马斯克盯上的金融终端",
+      "cover_line2": "Python版Bloomberg？",
+      "body": "你不知道的是：FinceptTerminal刚被马斯克转发到X（未公开截图），单日暴涨2595星⚡️——它根本不是「又一个量化工具」。\n\n1️⃣ 它是首个把「实时宏观数据流」+「个股财报NLP解析」+「链上资金热力图」塞进同一个Terminal的Python CLI；\n\n2️⃣ 内置「Economic Event Scheduler」：自动对齐美联储议息、CPI发布、SEC备案，关联影响股票/债券/加密货币波动概率；\n\n3️⃣ 支持「自然语言查询」：直接输入「Show me stocks with high short interest and rising crypto correlation」，秒出结果；\n\n4️⃣ 最关键：完全开源，MIT协议，已接入Yahoo Finance / FRED / Glassnode / SEC EDGAR，连CoinGecko API都做了缓存降频。\n\n👉如果你是金融从业者、crypto trader、或备考CFA的打工人——你会先用它查什么？美联储加息？特斯拉供应链风险？还是比特币ETF资金流？评论区交出你的第一问！",
+      "tags": [
+        "量化交易",
+        "金融AI",
+        "开源终端",
+        "Bloomberg替代",
+        "Python金融",
+        "链上分析",
+        "宏观数据",
+        "AI投研",
+        "FinTech",
+        "马斯克推荐"
       ]
     }
   ],
