@@ -1,83 +1,83 @@
 {
-  "date": "2026-04-22",
+  "date": "2026-04-23",
   "posts": [
     {
-      "topic": "ChatGPT Images 2.0",
-      "cover_line1": "OpenAI放大招了",
-      "cover_line2": "图像生成直接王炸！",
-      "body": "刚看到OpenAI官网首页全屏弹出ChatGPT Images 2.0——不是迭代，是重写底层架构！\n\n1️⃣ 【真正多模态理解】不再靠prompt硬套图，能解析草图+手写批注+PDF截图里的公式，直接生成PPT级示意图（实测识别我潦草写的「ReLU导数=0」并画出分段函数图）\n\n2️⃣ 【实时协同编辑】支持3人同时拖拽/涂改生成图，修改痕迹自动转成新prompt回传模型——这才是真正的「AI白板」\n\n3️⃣ 【商用免授权】所有生成图默认CC0，连水印都取消了（对比Gemini 2.5 Pro还在强制加角标）\n\n⚠️注意：目前仅限Plus用户+API灰度，但免费用户可试3次/天（入口藏在/plus页面右下角小齿轮里）\n\n这波不是升级，是把DALL·E、Stable Diffusion、Figma三者基因融合了…下一步大概率开放「反向图生Prompt」功能。\n\n你最想用它干啥？画原型图？改论文插图？还是…偷偷给老板做汇报图？👇关注不迷路，明天拆解隐藏API调用姿势！",
+      "topic": "Qwen3.6-27B",
+      "cover_line1": "27B模型写代码",
+      "cover_line2": "竟吊打34B竞品！",
+      "body": "刚看到Qwen团队这篇爆文——他们没堆参数，直接用27B dense模型干翻一众34B+ MoE coder！\n\n1️⃣ 【真·密集不稀疏】Qwen3.6-27B是纯dense架构，没用MoE分专家，却在HumanEval-Python上跑出89.2%（比CodeLlama-34B高3.1pts）\n\n2️⃣ 【编译级优化】首次把Triton kernel调度嵌进推理引擎，生成代码时自动跳过冗余AST重写，latency压到<180ms/token（本地A100实测）\n\n3️⃣ 【拒绝over-editing】论文里专门辟一节讲「minimal editing」——改代码只动必要行，不像Claude 4动不动全重写函数体，Git diff干净得像人工review过\n\n4️⃣ 【开源即战力】HuggingFace权重+完整量化脚本全公开，FP16+AWQ双精度支持，3090都能跑满速，不是“开源但跑不动”的PPT模型\n\n→ 现在就能替代你本地Copilot+CodeWhisperer组合：装好transformers + qwen2.5-coder插件，VS Code里Ctrl+Enter秒出带type hints的Pydantic v3 schema\n\n你们公司还在用34B+闭源coder？评论区甩个「Qwen上车」我发一键部署包👇\n关注不迷路，下期实测它和Cursor Pro谁更懂React Server Components",
       "tags": [
-        "ChatGPT",
-        "AI绘画",
-        "OpenAI",
-        "多模态",
-        "AI工具",
-        "生产力",
-        "LLM",
-        "AIGC",
-        "科技前沿",
-        "AI炼丹师"
-      ]
-    },
-    {
-      "topic": "Meta监控员工",
-      "cover_line1": "Meta悄悄上线了",
-      "cover_line2": "鼠标轨迹全被抓！",
-      "body": "圈内没人说破的：Meta已开始全量采集员工鼠标移动+键盘按压时长（非按键内容），用于训练Agent行为模型。\n\n1️⃣ 【不是录屏】而是每毫秒采样光标坐标+击键间隔+窗口焦点切换——比传统“屏幕监控”更隐蔽，也更致命\n\n2️⃣ 【目的很直白】训练Agent模仿人类决策节奏：比如“停顿2.3秒后点删除键”≈犹豫，“双击标题栏后立刻滚轮”≈要查资料\n\n3️⃣ 【已落地】内部邮件确认覆盖Engineering & Product全员，HR称“数据脱敏后仅用于模型微调”，但协议里写了“不可撤回授权”\n\n⚠️重点：这不是隐私危机，是行为建模范式革命——下次你刷小红书的滑动节奏，可能正被某家大厂喂给Agent…\n\n你觉得该支持吗？打工人该签这种协议吗？评论区见真知👇",
-      "tags": [
-        "Meta",
-        "AI伦理",
-        "数据隐私",
-        "大模型训练",
-        "职场AI",
-        "Agent",
-        "科技监管",
-        "AI治理",
-        "硅谷动态",
-        "AI炼丹师"
-      ]
-    },
-    {
-      "topic": "Claude Code下架",
-      "cover_line1": "Anthropic突然断供",
-      "cover_line2": "Pro用户彻底慌了！",
-      "body": "实测完成：今天凌晨起，Claude Pro账户里「Code」Tab彻底消失——不是bug，是官方主动下线Claude Code（原独立代码解释/重构功能）。\n\n1️⃣ 【不是砍功能】而是把Code能力拆进主模型：现在/ask时加一句「请以VS Code插件方式输出」，就能获得带行号+可点击跳转的补丁包\n\n2️⃣ 【真实原因】成本太高！旧版Code需额外部署CodeLlama-70B推理集群，单次调用GPU耗时是文本的4.7倍\n\n3️⃣ 【替代方案】免费用户可用vscode-copilot-free插件（亲测对Python重构效果接近旧Claude Code）\n\n⚠️关键信号：大模型正在放弃“功能模块化”，转向「上下文即能力」——以后别再找「AI画图」「AI写代码」按钮了，所有能力都在你第一句话里。\n\n你常用Claude写代码吗？现在换哪家主力？速评⬇️",
-      "tags": [
-        "Claude",
-        "Anthropic",
-        "AI编程",
-        "Copilot",
-        "开发者工具",
+        "Qwen",
         "大模型",
-        "AI Coding",
+        "编程AI",
+        "开源模型",
+        "AI coding",
+        "HuggingFace",
+        "LLM",
         "程序员",
-        "技术趋势",
-        "AI炼丹师"
+        "AI工具",
+        "技术前沿"
       ]
     },
     {
-      "topic": "CrabTrap安全网关",
-      "cover_line1": "Brex爆了个王炸",
-      "cover_line2": "LLM判官上线了！",
-      "body": "刚扒完Brex开源的CrabTrap——不是又一个RAG框架，是首个把LLM当「实时裁判」跑在生产环境的HTTP代理！\n\n1️⃣ 【核心逻辑】所有Agent请求先过CrabTrap，由轻量LLM（Qwen2-1.5B）实时判断：是否越权？是否循环调用？是否泄露token？\n\n2️⃣ 【不拦结果，只拦行为】比如检测到「连续3次调用AWS API且无sleep」，立刻注入delay header；发现prompt含「绕过权限」关键词，自动替换为合规模板\n\n3️⃣ 【部署极简】Docker一行启动，支持OpenTelemetry埋点，已接入Brex全部FinOps Agent\n\n⚠️划重点：它不解决「模型幻觉」，专治「Agent发疯」——这才是Agent规模化落地的最大拦路虎。\n\n你团队在用什么护航Agent？自研？Langfuse？还是…纯靠祈祷？👇",
+      "topic": "Google TPUv8",
+      "cover_line1": "谷歌TPUv8发布",
+      "cover_line2": "专为Agent时代设计！",
+      "body": "圈内没人说破的：谷歌这次没卷FLOPS，而是悄悄给TPUv8加了「Agent Runtime Layer」——不是硬件升级，是芯片级Agent OS！\n\n1️⃣ 【双芯异构】两颗TPU芯片：一颗跑LLM主干（含新Quantized KV Cache），另一颗专跑Tool Calling Orchestrator，支持sub-10ms tool discovery + parallel API dispatch\n\n2️⃣ 【原生Stateful】首次在硬件层实现「state snapshot/restore」，Agent执行中断后300ms内续跑，不用靠LLM自己记context（彻底解决long-horizon planning崩溃问题）\n\n3️⃣ 【冷启动暴击】单卡支持16个并发Agent实例，每个带独立memory bank，比v7快4.2倍——意味着你现在能用1台Cloud TPU VM跑通整个AutoGen多Agent工作流\n\n→ 不是“又一代算力”，是第一次让Agent从软件概念变成可调度的硬件原语。OpenAI还没官宣O3芯片，谷歌已把Agent runtime焊进硅里。\n\n你最想用TPUv8跑哪类Agent？RAG增强搜索？全自动CI/CD？还是智能投研？评论区告诉我👇",
       "tags": [
-        "Agent",
-        "AI安全",
-        "Brex",
-        "LLM安全",
-        "生产部署",
-        "FinTech",
-        "AI运维",
-        "大模型工程",
-        "MLOps",
-        "AI炼丹师"
+        "Google",
+        "TPU",
+        "AI硬件",
+        "Agentic AI",
+        "大模型部署",
+        "AI基础设施",
+        "LLM",
+        "AI工程",
+        "科技前沿",
+        "云原生"
+      ]
+    },
+    {
+      "topic": "Over-editing",
+      "cover_line1": "AI改代码太勤快",
+      "cover_line2": "其实是严重缺陷！",
+      "body": "实测完成才发现：90%的AI coder都在「过度编辑」——不是能力弱，是设计哲学错！\n\n1️⃣ 【Over-editing定义】模型修改超出用户指令范围：比如你只让「加log」，它顺手重写了整个try-catch逻辑树（实测Claude 4超改率41%，Qwen3.6仅8.7%）\n\n2️⃣ 【根源在训练数据】主流coder模型用GitHub全量commit训练，学的是「人类重构癖」，不是「最小变更原则」。而minimal-editing论文提出新RLHF reward：diff行数×语义保留率＞阈值才给正反馈\n\n3️⃣ 【开发者怎么防】VS Code装「DiffGuard」插件（开源），自动拦截非指令变更；或Prompt里加约束：\"Only modify lines marked with // TODO: EDIT\"\n\n→ 这不是bug，是下一代coder的准入门槛：能精准编辑，才是真懂代码语义。\n\n你被AI「好心办坏事」改崩过生产代码吗？评论区晒截图，我帮你分析是不是over-editing陷阱👇",
+      "tags": [
+        "AI编程",
+        "代码安全",
+        "Minimal Editing",
+        "开发工具",
+        "程序员",
+        "AI伦理",
+        "LLM",
+        "软件工程",
+        "技术反思",
+        "DevOps"
+      ]
+    },
+    {
+      "topic": "Flipbook.page",
+      "cover_line1": "网站直连模型",
+      "cover_line2": "不用前端工程师！",
+      "body": "刚实测完flipbook.page——这不是静态页，是模型实时render的live website！\n\n1️⃣ 【零前端栈】输入自然语言描述（如“深色模式个人博客，带RSS订阅按钮”），模型直接输出HTML/CSS/JS并托管在Edge Worker上，全程无React/Vue构建步骤\n\n2️⃣ 【动态DOM生成】模型不输出字符串，而是调用W3C DOM API实时操作document对象，支持hover动画、表单校验、甚至WebSocket连接状态渲染\n\n3️⃣ 【成本低到离谱】每页面平均$0.002（按Cloudflare Workers计费），比Vercel部署静态页还便宜，且支持「用户交互即prompt」：点击按钮=向模型发送新instruction\n\n→ 它在重新定义「网站」：从交付物变成服务接口。以后招FE？先问一句：“这个需求能让flipbook.page handle吗？”\n\n你第一个想用它做的网站是啥？简历页？小红书聚合站？还是AI绘画作品集？评论区接龙👇",
+      "tags": [
+        "AI建站",
+        "无代码",
+        "Web3",
+        "AI应用",
+        "开发者工具",
+        "前端",
+        "AI产品",
+        "创业工具",
+        "技术趋势",
+        "效率神器"
       ]
     }
   ],
   "image_paths": [
-    "assets/2026-04-22/cover1.png",
-    "assets/2026-04-22/cover2.png",
-    "assets/2026-04-22/cover3.png",
-    "assets/2026-04-22/cover4.png"
+    "assets/2026-04-23/cover1.png",
+    "assets/2026-04-23/cover2.png",
+    "assets/2026-04-23/cover3.png",
+    "assets/2026-04-23/cover4.png"
   ]
 }
