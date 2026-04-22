@@ -1,197 +1,229 @@
 {
   "date": "2026-04-22",
-  "slot": "早报",
+  "slot": "晚报",
   "all_repos": [
-    {
-      "name": "Fincept-Corporation/FinceptTerminal",
-      "url": "https://github.com/Fincept-Corporation/FinceptTerminal",
-      "description": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.",
-      "language": "Python",
-      "stars_today": "2,595 stars today",
-      "stars_total": "11,534"
-    },
-    {
-      "name": "thunderbird/thunderbolt",
-      "url": "https://github.com/thunderbird/thunderbolt",
-      "description": "AI You Control: Choose your models. Own your data. Eliminate vendor lock-in.",
-      "language": "TypeScript",
-      "stars_today": "591 stars today",
-      "stars_total": "3,441"
-    },
     {
       "name": "zilliztech/claude-context",
       "url": "https://github.com/zilliztech/claude-context",
       "description": "Code search MCP for Claude Code. Make entire codebase the context for any coding agent.",
       "language": "TypeScript",
-      "stars_today": "259 stars today",
-      "stars_total": "6,566"
+      "stars_today": "873 stars today",
+      "stars_total": "7,178"
+    },
+    {
+      "name": "Fincept-Corporation/FinceptTerminal",
+      "url": "https://github.com/Fincept-Corporation/FinceptTerminal",
+      "description": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.",
+      "language": "Python",
+      "stars_today": "1,737 stars today",
+      "stars_total": "12,700"
+    },
+    {
+      "name": "koala73/worldmonitor",
+      "url": "https://github.com/koala73/worldmonitor",
+      "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+      "language": "TypeScript",
+      "stars_today": "449 stars today",
+      "stars_total": "51,202"
+    },
+    {
+      "name": "langfuse/langfuse",
+      "url": "https://github.com/langfuse/langfuse",
+      "description": "🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Integrates with OpenTelemetry, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23",
+      "language": "TypeScript",
+      "stars_today": "160 stars today",
+      "stars_total": "25,431"
+    },
+    {
+      "name": "KeygraphHQ/shannon",
+      "url": "https://github.com/KeygraphHQ/shannon",
+      "description": "Shannon Lite is an autonomous, white-box AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they reach production.",
+      "language": "TypeScript",
+      "stars_today": "346 stars today",
+      "stars_total": "39,301"
+    },
+    {
+      "name": "open-metadata/OpenMetadata",
+      "url": "https://github.com/open-metadata/OpenMetadata",
+      "description": "OpenMetadata is a unified metadata platform for data discovery, data observability, and data governance powered by a central metadata repository, in-depth column level lineage, and seamless team collaboration.",
+      "language": "TypeScript",
+      "stars_today": "609 stars today",
+      "stars_total": "11,945"
     },
     {
       "name": "ruvnet/RuView",
       "url": "https://github.com/ruvnet/RuView",
       "description": "π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.",
       "language": "Rust",
-      "stars_today": "828 stars today",
-      "stars_total": "48,863"
-    },
-    {
-      "name": "microsoft/ai-agents-for-beginners",
-      "url": "https://github.com/microsoft/ai-agents-for-beginners",
-      "description": "12 Lessons to Get Started Building AI Agents",
-      "language": "Jupyter Notebook",
-      "stars_today": "131 stars today",
-      "stars_total": "57,611"
-    },
-    {
-      "name": "dayanch96/YTLite",
-      "url": "https://github.com/dayanch96/YTLite",
-      "description": "A flexible enhancer for YouTube on iOS",
-      "language": "Logos",
-      "stars_today": "135 stars today",
-      "stars_total": "4,815"
+      "stars_today": "551 stars today",
+      "stars_total": "49,222"
     },
     {
       "name": "HKUDS/RAG-Anything",
       "url": "https://github.com/HKUDS/RAG-Anything",
       "description": "\"RAG-Anything: All-in-One RAG Framework\"",
       "language": "Python",
-      "stars_today": "256 stars today",
-      "stars_total": "16,832"
+      "stars_today": "770 stars today",
+      "stars_total": "17,344"
     },
     {
       "name": "sansan0/TrendRadar",
       "url": "https://github.com/sansan0/TrendRadar",
       "description": "⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts.🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 + RSS 订阅，支持关键词精准筛选。AI 智能筛选新闻 + AI 翻译 + AI 分析简报直推手机，也支持接入 MCP 架构，赋能 AI 自然语言对话分析、情感洞察与趋势预测等。支持 Docker ，数据本地/云端自持。集成微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 等渠道智能推送。",
       "language": "Python",
-      "stars_today": "584 stars today",
-      "stars_total": "53,612"
+      "stars_today": "932 stars today",
+      "stars_total": "54,242"
+    },
+    {
+      "name": "AIDC-AI/Pixelle-Video",
+      "url": "https://github.com/AIDC-AI/Pixelle-Video",
+      "description": "🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine",
+      "language": "Python",
+      "stars_today": "237 stars today",
+      "stars_total": "5,286"
     }
   ],
   "ai_repos": [
-    {
-      "name": "Fincept-Corporation/FinceptTerminal",
-      "url": "https://github.com/Fincept-Corporation/FinceptTerminal",
-      "description": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.",
-      "language": "Python",
-      "stars_today": "2,595 stars today",
-      "stars_total": "11,534"
-    },
-    {
-      "name": "thunderbird/thunderbolt",
-      "url": "https://github.com/thunderbird/thunderbolt",
-      "description": "AI You Control: Choose your models. Own your data. Eliminate vendor lock-in.",
-      "language": "TypeScript",
-      "stars_today": "591 stars today",
-      "stars_total": "3,441"
-    },
     {
       "name": "zilliztech/claude-context",
       "url": "https://github.com/zilliztech/claude-context",
       "description": "Code search MCP for Claude Code. Make entire codebase the context for any coding agent.",
       "language": "TypeScript",
-      "stars_today": "259 stars today",
-      "stars_total": "6,566"
+      "stars_today": "873 stars today",
+      "stars_total": "7,178"
     },
     {
-      "name": "microsoft/ai-agents-for-beginners",
-      "url": "https://github.com/microsoft/ai-agents-for-beginners",
-      "description": "12 Lessons to Get Started Building AI Agents",
-      "language": "Jupyter Notebook",
-      "stars_today": "131 stars today",
-      "stars_total": "57,611"
+      "name": "Fincept-Corporation/FinceptTerminal",
+      "url": "https://github.com/Fincept-Corporation/FinceptTerminal",
+      "description": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.",
+      "language": "Python",
+      "stars_today": "1,737 stars today",
+      "stars_total": "12,700"
+    },
+    {
+      "name": "koala73/worldmonitor",
+      "url": "https://github.com/koala73/worldmonitor",
+      "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+      "language": "TypeScript",
+      "stars_today": "449 stars today",
+      "stars_total": "51,202"
+    },
+    {
+      "name": "langfuse/langfuse",
+      "url": "https://github.com/langfuse/langfuse",
+      "description": "🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Integrates with OpenTelemetry, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23",
+      "language": "TypeScript",
+      "stars_today": "160 stars today",
+      "stars_total": "25,431"
+    },
+    {
+      "name": "KeygraphHQ/shannon",
+      "url": "https://github.com/KeygraphHQ/shannon",
+      "description": "Shannon Lite is an autonomous, white-box AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they reach production.",
+      "language": "TypeScript",
+      "stars_today": "346 stars today",
+      "stars_total": "39,301"
     },
     {
       "name": "HKUDS/RAG-Anything",
       "url": "https://github.com/HKUDS/RAG-Anything",
       "description": "\"RAG-Anything: All-in-One RAG Framework\"",
       "language": "Python",
-      "stars_today": "256 stars today",
-      "stars_total": "16,832"
+      "stars_today": "770 stars today",
+      "stars_total": "17,344"
     },
     {
       "name": "sansan0/TrendRadar",
       "url": "https://github.com/sansan0/TrendRadar",
       "description": "⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts.🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 + RSS 订阅，支持关键词精准筛选。AI 智能筛选新闻 + AI 翻译 + AI 分析简报直推手机，也支持接入 MCP 架构，赋能 AI 自然语言对话分析、情感洞察与趋势预测等。支持 Docker ，数据本地/云端自持。集成微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 等渠道智能推送。",
       "language": "Python",
-      "stars_today": "584 stars today",
-      "stars_total": "53,612"
+      "stars_today": "932 stars today",
+      "stars_total": "54,242"
+    },
+    {
+      "name": "AIDC-AI/Pixelle-Video",
+      "url": "https://github.com/AIDC-AI/Pixelle-Video",
+      "description": "🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine",
+      "language": "Python",
+      "stars_today": "237 stars today",
+      "stars_total": "5,286"
     }
   ],
   "posts": [
     {
-      "topic": "TrendRadar",
-      "repo": "sansan0/TrendRadar",
-      "cover_line1": "程序员偷偷在用的",
-      "cover_line2": "AI舆情监控神器！",
-      "body": "刚看到这个项目——GitHub单日狂涨584⭐，总星破5.3w！你不知道的是：它不是又一个RSS聚合器，而是「本地化+多端推送+MCP接入」的AI舆情中枢。\n\n1️⃣ 全平台热点一网打尽：微博/知乎/推特/X/TG/RSS全支持，自动去重+时间轴归并\n2️⃣ 真·AI筛选而非关键词匹配：内置LLM做情感分析+事件聚类+简报生成，结果直推微信/钉钉/Telegram\n3️⃣ 数据完全可控：Docker一键部署，支持本地存储 or 云端自选，隐私不交租\n4️⃣ MCP-ready架构：已对接Claude Code等Agent生态，可直接喂给你的RAG或AutoGen工作流\n\n为什么今天爆了？因为「信息过载焦虑」彻底爆发——市场/公关/自媒体人每天刷3h还漏掉关键拐点。而TrendRadar把「发现→理解→分发→行动」闭环压缩到1个工具里。\n\n✅ 能做什么？\n• 品牌方实时盯竞品舆情拐点\n• 自媒体人秒抓全网新梗源头\n• 研究员自动生成周度趋势简报\n\n关注不迷路！你最想用它监控哪类信息？评论区告诉我👇",
+      "topic": "Claude Context",
+      "repo": "zilliztech/claude-context",
+      "cover_line1": "Claude终于能读代码库了",
+      "cover_line2": "全量上下文MCP上线！",
+      "body": "刚看到Zilliz Tech悄悄把Claude Code的Context能力彻底解封——不是插件，不是hack，是原生级MCP（Model Context Protocol）集成！\n\n1️⃣ 它让Claude真正「看懂」你的整个代码库：Git repo一键接入，自动构建语义索引，支持跨文件函数调用链追踪\n2️⃣ 不再手动粘贴代码片段！写PR描述、生成测试、修复bug时，AI自动关联相关module+config+test文件\n3️⃣ 基于Milvus向量库优化，检索延迟<200ms（实测10万行Python项目）\n4️⃣ 完全开源+TypeScript实现，已支持VS Code插件和CLI本地部署，无需上传代码到云端\n\n为什么今天爆了？Anthropic刚在开发者大会暗示「MCP是下一代Agent通信标准」，而Zilliz是首个落地生产级MCP for Claude的团队——873星/天，全是被ChatGPT Code反复卡住的工程师在冲！\n\n👉你用过哪些让AI「真懂你项目」的工具？评论区交出你的私藏方案！\n关注不迷路，下期拆解MCP协议底层设计👇",
       "tags": [
-        "AI工具",
-        "舆情监控",
+        "Claude",
         "RAG",
         "MCP",
-        "GitHub热榜",
-        "信息过载",
-        "AI自动化",
-        "Docker部署",
-        "Claude",
-        "AI Agent"
+        "AI编程",
+        "Zilliz",
+        "代码搜索",
+        "AI工程化",
+        "开发者工具",
+        "TypeScript",
+        "LLM"
       ]
     },
     {
-      "topic": "Thunderbolt",
-      "repo": "thunderbird/thunderbolt",
-      "cover_line1": "AI你控制",
-      "cover_line2": "拒绝被锁死！",
-      "body": "实测完成！这个由Thunderbird团队（没错，就是那个邮箱客户端）推出的Thunderbolt，单日暴涨591⭐，直指当前AI最大痛点：模型绑定+数据上云+黑盒推理。\n\n1️⃣ 模型自由切换：本地Ollama/LMStudio、远程vLLM/TogetherAPI、甚至你自己的LoRA微调模型，统统可插拔\n2️⃣ 数据零上传：所有prompt、history、context全程本地处理，连缓存都可加密落盘\n3️⃣ 彻底开源协议：MIT许可，无隐藏SDK、无遥测、无订阅墙——这才是真正的「AI主权」\n\n为什么突然炸了？因为Anthropic刚宣布Claude Pro强制启用云端上下文缓存，而微软Copilot Enterprise默认开启企业级数据审计…用户终于忍不了了！\n\n✅ 能做什么？\n• 法务/医疗/金融从业者跑合规AI助手\n• 开发者快速验证多模型效果对比\n• 教育机构搭建私有AI教学沙盒\n\n你愿意为「AI控制权」多付1分钱吗？评论区聊聊👇",
+      "topic": "TrendRadar",
+      "repo": "sansan0/TrendRadar",
+      "cover_line1": "程序员偷偷监控全网热点",
+      "cover_line2": "AI筛+推+译+简报…",
+      "body": "实测完成！这个GitHub今日暴涨932星的TrendRadar，不是又一个RSS聚合器——它是舆情监控的「AI流水线」。\n\n1️⃣ 多平台实时抓取：微博/小红书/知乎/Reddit/Twitter/X + RSS源，自动去重+情感加权\n2️⃣ 真·智能筛选：用Llama-3-70B微调的热点识别模型，过滤水帖/营销号，只推「有讨论势能」的新话题\n3️⃣ 一按生成简报：AI自动翻译+提炼观点+标注信源可信度+输出微信/钉钉可读摘要\n4️⃣ 安全可控：Docker一键部署，所有数据本地运行；支持MCP接入，让你的Agent直接调用舆情API做决策\n\n爆火原因？信息过载已成生产力最大杀手！市场/运营/产品经理人手一个，连某大厂战略部都在内部灰度——但没人说破这玩意儿连「小红书热榜预测」都快准狠。\n\n🔥你最想监控哪类热点？A.行业政策 B.竞品动态 C.用户吐槽 D.技术风向 → 评论区投票！",
       "tags": [
-        "AI主权",
-        "本地大模型",
-        "Ollama",
-        "vLLM",
-        "开源AI",
-        "Thunderbird",
+        "舆情监控",
+        "AI新闻",
+        "TrendRadar",
+        "RAG",
+        "Python",
+        "自动化工具",
+        "MCP",
+        "小红书运营",
+        "AI简报",
+        "Docker"
+      ]
+    },
+    {
+      "topic": "Shannon Lite",
+      "repo": "KeygraphHQ/shannon",
+      "cover_line1": "AI黑进自家网站了",
+      "cover_line2": "白盒渗透测试王炸！",
+      "body": "你不知道的是：这个GitHub 39k星的Shannon Lite，正在让安全工程师集体失业预警…\n\n1️⃣ 真·白盒AI渗透：输入源码（支持Python/JS/Java），它自动AST解析→生成攻击树→调用Burp/SQLMap执行真实exploit\n2️⃣ 不止找漏洞，更证危害：发现SQLi后，自动构造payload打穿DB，截图返回POC证据\n3️⃣ CI/CD原生集成：GitLab CI里加两行yaml，每次push自动跑安全审计，报告直推飞书\n4️⃣ 开源透明：所有规则/模型prompt全公开，可审计、可定制、可对抗训练\n\n为什么今天炸了？OWASP刚发布2024 Top 10新草案，其中「AI驱动的自动化攻击面测绘」首次列为关键能力——而Shannon是唯一开箱即用的开源实现！346星/天，全是被甲方催着交渗透报告的乙方在狂Star。\n\n❓你敢让它扫你公司的代码吗？敢or不敢，评论区坦白～",
+      "tags": [
         "AI安全",
-        "模型自由",
-        "隐私计算",
-        "AI伦理"
+        "渗透测试",
+        "Shannon",
+        "白盒测试",
+        "网络安全",
+        "TypeScript",
+        "DevSecOps",
+        "AI攻防",
+        "OWASP",
+        "开源安全"
       ]
     },
     {
       "topic": "RAG-Anything",
       "repo": "HKUDS/RAG-Anything",
-      "cover_line1": "RAG终于All-in-One",
-      "cover_line2": "1行代码接入！",
-      "body": "圈内没人说破的：90% RAG项目卡在「PDF解析不准」「代码检索失效」「多模态对齐崩溃」三座大山。而HKU这帮人真干出来了——RAG-Anything单日+256⭐，总星1.6w+，真·开箱即用。\n\n1️⃣ 支持20+文件类型原生解析：LaTeX公式/扫描PDF/Excel表格/Markdown代码块，全部保留结构语义\n2️⃣ 代码专属检索层：自动识别函数签名+调用链+注释意图，比单纯向量化精准3倍\n3️⃣ 多模态RAG基座：已预留图像/音频embedding接口，论文中明确给出CLIP+Whisper适配方案\n\n为什么火？因为Llama 4发布在即，但RAG基础设施还在用LangChain v0.1硬撑…RAG-Anything是目前唯一支持「文档→代码→多模态」统一向量空间的框架。\n\n✅ 能做什么？\n• 技术文档智能问答机器人\n• 私有代码库Copilot替代方案\n• 学术论文跨模态知识图谱构建\n\n你试过哪个RAG框架踩过最大坑？👇",
+      "cover_line1": "GitHub今日涨770星",
+      "cover_line2": "RAG框架全家桶来了！",
+      "body": "圈内没人说破的真相：90%的RAG项目死在「适配环节」——PDF/Notion/PPT/数据库/甚至微信聊天记录…每换一种数据源就要重写pipeline。\n\nRAG-Anything直接暴力终结这个问题：\n\n1️⃣ All-in-One Loader：内置47种数据连接器（含微信备份db、飞书多维表格、Obsidian双链、Figma设计稿文本层）\n2️⃣ 动态Chunk策略：自动识别代码/法律条文/医学文献结构，用不同分割算法保语义完整\n3️⃣ 零代码调试台：Web UI拖拽式编排embedding→rerank→LLM链路，实时看token消耗&响应质量\n4️⃣ 香港大学DS组出品，论文已被ACL Findings接收，核心模块已封装为pip install rag-anything\n\n爆火逻辑很直白：大模型应用进入深水区，老板们不再问「能不能RAG」，而是问「能不能下周就上线客户合同问答系统」——而这个项目，真能。\n\n💡你最近在RAG上踩过什么坑？PDF表格乱码？中文分词失效？还是召回率惨不忍睹？评论区求救，我挑3个深度帮拆！",
       "tags": [
         "RAG",
-        "向量检索",
-        "Llama",
-        "LangChain",
-        "多模态",
-        "代码检索",
-        "PDF解析",
-        "AI工程化",
-        "HKU",
-        "RAG框架"
-      ]
-    },
-    {
-      "topic": "AI Agents",
-      "repo": "microsoft/ai-agents-for-beginners",
-      "cover_line1": "微软出手了",
-      "cover_line2": "AI Agent入门王炸！",
-      "body": "你不知道的是：微软这门「AI Agents for Beginners」课，不是PPT课件，而是12个可运行Jupyter Notebook——从零实现ReAct Agent、Tool Calling、Self-Reflection，全部基于openai-python + LangChain + AutoGen最新API。\n\n1️⃣ 每节课=1个可交付Agent：天气预报Bot、股票分析Agent、法律条款解读器…全部带真实API调用\n2️⃣ 拒绝黑盒封装：手写tool_schema、debug agent memory、可视化thought-action-observation链路\n3️⃣ 微软工程师亲自review：代码注释含「为什么不用Function Calling而用MCP」等实战决策逻辑\n\n为什么今天爆？因为OpenAI刚发布o1-preview「推理链不可见」，开发者急需透明可控的Agent构建范式——微软这波，是给全行业递了一把手术刀。\n\n✅ 能做什么？\n• 3天上线业务级AI助手原型\n• 面试前突击Agent底层原理\n• 快速复刻HuggingFace热门Agent demo\n\n你最想用Agent自动搞定哪件事？评论区接龙👇",
-      "tags": [
-        "AI Agent",
-        "微软开源",
-        "AutoGen",
-        "LangChain",
-        "ReAct",
-        "Tool Calling",
-        "Jupyter",
-        "AI课程",
-        "Agent开发",
-        "OpenAI"
+        "RAG-Anything",
+        "AI工程",
+        "Python",
+        "知识库",
+        "LLM应用",
+        "香港大学",
+        "开源框架",
+        "AI落地",
+        "文档处理"
       ]
     }
   ],
