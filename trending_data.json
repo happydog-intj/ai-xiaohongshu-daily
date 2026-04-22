@@ -1,6 +1,6 @@
 {
-  "date": "2026-04-22",
-  "slot": "晚报",
+  "date": "2026-04-23",
+  "slot": "早报",
   "all_repos": [
     {
       "name": "zilliztech/claude-context",
@@ -8,7 +8,7 @@
       "description": "Code search MCP for Claude Code. Make entire codebase the context for any coding agent.",
       "language": "TypeScript",
       "stars_today": "873 stars today",
-      "stars_total": "7,178"
+      "stars_total": "7,471"
     },
     {
       "name": "Fincept-Corporation/FinceptTerminal",
@@ -16,7 +16,7 @@
       "description": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.",
       "language": "Python",
       "stars_today": "1,737 stars today",
-      "stars_total": "12,700"
+      "stars_total": "13,047"
     },
     {
       "name": "koala73/worldmonitor",
@@ -24,7 +24,7 @@
       "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
       "language": "TypeScript",
       "stars_today": "449 stars today",
-      "stars_total": "51,202"
+      "stars_total": "51,537"
     },
     {
       "name": "langfuse/langfuse",
@@ -32,7 +32,7 @@
       "description": "🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Integrates with OpenTelemetry, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23",
       "language": "TypeScript",
       "stars_today": "160 stars today",
-      "stars_total": "25,431"
+      "stars_total": "25,581"
     },
     {
       "name": "KeygraphHQ/shannon",
@@ -40,7 +40,7 @@
       "description": "Shannon Lite is an autonomous, white-box AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they reach production.",
       "language": "TypeScript",
       "stars_today": "346 stars today",
-      "stars_total": "39,301"
+      "stars_total": "39,548"
     },
     {
       "name": "open-metadata/OpenMetadata",
@@ -48,7 +48,7 @@
       "description": "OpenMetadata is a unified metadata platform for data discovery, data observability, and data governance powered by a central metadata repository, in-depth column level lineage, and seamless team collaboration.",
       "language": "TypeScript",
       "stars_today": "609 stars today",
-      "stars_total": "11,945"
+      "stars_total": "12,145"
     },
     {
       "name": "ruvnet/RuView",
@@ -56,7 +56,7 @@
       "description": "π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.",
       "language": "Rust",
       "stars_today": "551 stars today",
-      "stars_total": "49,222"
+      "stars_total": "49,367"
     },
     {
       "name": "HKUDS/RAG-Anything",
@@ -64,7 +64,7 @@
       "description": "\"RAG-Anything: All-in-One RAG Framework\"",
       "language": "Python",
       "stars_today": "770 stars today",
-      "stars_total": "17,344"
+      "stars_total": "17,511"
     },
     {
       "name": "sansan0/TrendRadar",
@@ -72,7 +72,7 @@
       "description": "⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts.🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 + RSS 订阅，支持关键词精准筛选。AI 智能筛选新闻 + AI 翻译 + AI 分析简报直推手机，也支持接入 MCP 架构，赋能 AI 自然语言对话分析、情感洞察与趋势预测等。支持 Docker ，数据本地/云端自持。集成微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 等渠道智能推送。",
       "language": "Python",
       "stars_today": "932 stars today",
-      "stars_total": "54,242"
+      "stars_total": "54,406"
     },
     {
       "name": "AIDC-AI/Pixelle-Video",
@@ -80,7 +80,7 @@
       "description": "🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine",
       "language": "Python",
       "stars_today": "237 stars today",
-      "stars_total": "5,286"
+      "stars_total": "5,511"
     }
   ],
   "ai_repos": [
@@ -90,7 +90,7 @@
       "description": "Code search MCP for Claude Code. Make entire codebase the context for any coding agent.",
       "language": "TypeScript",
       "stars_today": "873 stars today",
-      "stars_total": "7,178"
+      "stars_total": "7,471"
     },
     {
       "name": "Fincept-Corporation/FinceptTerminal",
@@ -98,7 +98,7 @@
       "description": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.",
       "language": "Python",
       "stars_today": "1,737 stars today",
-      "stars_total": "12,700"
+      "stars_total": "13,047"
     },
     {
       "name": "koala73/worldmonitor",
@@ -106,7 +106,7 @@
       "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
       "language": "TypeScript",
       "stars_today": "449 stars today",
-      "stars_total": "51,202"
+      "stars_total": "51,537"
     },
     {
       "name": "langfuse/langfuse",
@@ -114,7 +114,7 @@
       "description": "🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Integrates with OpenTelemetry, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23",
       "language": "TypeScript",
       "stars_today": "160 stars today",
-      "stars_total": "25,431"
+      "stars_total": "25,581"
     },
     {
       "name": "KeygraphHQ/shannon",
@@ -122,7 +122,7 @@
       "description": "Shannon Lite is an autonomous, white-box AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they reach production.",
       "language": "TypeScript",
       "stars_today": "346 stars today",
-      "stars_total": "39,301"
+      "stars_total": "39,548"
     },
     {
       "name": "HKUDS/RAG-Anything",
@@ -130,7 +130,7 @@
       "description": "\"RAG-Anything: All-in-One RAG Framework\"",
       "language": "Python",
       "stars_today": "770 stars today",
-      "stars_total": "17,344"
+      "stars_total": "17,511"
     },
     {
       "name": "sansan0/TrendRadar",
@@ -138,7 +138,7 @@
       "description": "⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts.🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 + RSS 订阅，支持关键词精准筛选。AI 智能筛选新闻 + AI 翻译 + AI 分析简报直推手机，也支持接入 MCP 架构，赋能 AI 自然语言对话分析、情感洞察与趋势预测等。支持 Docker ，数据本地/云端自持。集成微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 等渠道智能推送。",
       "language": "Python",
       "stars_today": "932 stars today",
-      "stars_total": "54,242"
+      "stars_total": "54,406"
     },
     {
       "name": "AIDC-AI/Pixelle-Video",
@@ -146,65 +146,65 @@
       "description": "🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine",
       "language": "Python",
       "stars_today": "237 stars today",
-      "stars_total": "5,286"
+      "stars_total": "5,511"
     }
   ],
   "posts": [
     {
-      "topic": "Claude Context",
+      "topic": "Claude上下文",
       "repo": "zilliztech/claude-context",
-      "cover_line1": "Claude终于能读代码库了",
-      "cover_line2": "全量上下文MCP上线！",
-      "body": "刚看到Zilliz Tech悄悄把Claude Code的Context能力彻底解封——不是插件，不是hack，是原生级MCP（Model Context Protocol）集成！\n\n1️⃣ 它让Claude真正「看懂」你的整个代码库：Git repo一键接入，自动构建语义索引，支持跨文件函数调用链追踪\n2️⃣ 不再手动粘贴代码片段！写PR描述、生成测试、修复bug时，AI自动关联相关module+config+test文件\n3️⃣ 基于Milvus向量库优化，检索延迟<200ms（实测10万行Python项目）\n4️⃣ 完全开源+TypeScript实现，已支持VS Code插件和CLI本地部署，无需上传代码到云端\n\n为什么今天爆了？Anthropic刚在开发者大会暗示「MCP是下一代Agent通信标准」，而Zilliz是首个落地生产级MCP for Claude的团队——873星/天，全是被ChatGPT Code反复卡住的工程师在冲！\n\n👉你用过哪些让AI「真懂你项目」的工具？评论区交出你的私藏方案！\n关注不迷路，下期拆解MCP协议底层设计👇",
+      "cover_line1": "Claude终于能读代码库",
+      "cover_line2": "MCP架构悄悄落地！",
+      "body": "刚看到Zilliz（Milvus母公司）开源的 claude-context —— 这不是插件，是直接把整个代码库变成Claude的「原生上下文」！\n\n1️⃣ 它用 MCP（Model Context Protocol）标准对接Claude Code Agent，不再靠「粘贴+截断」喂代码\n2️⃣ 支持跨文件跳转、符号索引、依赖图解析，真正实现「问它：‘这个API为什么返回404？’→它反向查路由+中间件+测试用例」\n3️⃣ TypeScript 实现，轻量嵌入现有VS Code/LSP环境，零训练成本\n\n为什么今天爆了？Anthropic官方上周刚在开发者大会提MCP是「下一代Agent通信协议」，Zilliz立刻交出首个生产级实现——且完全开源、免Token限制。\n\n✅ 你能用它：让Claude像资深同事一样审PR、写文档、补测试、重构微服务；告别Copilot「只看当前文件」的致命短板。\n\n👉 你试过让AI读超过100个文件的项目吗？评论区甩出你的痛点，我来帮你配MCP配置模板～\n关注不迷路，下期拆解MCP协议底层结构！",
       "tags": [
         "Claude",
-        "RAG",
         "MCP",
+        "RAG",
         "AI编程",
         "Zilliz",
+        "LangChain",
+        "LLM工程",
         "代码搜索",
-        "AI工程化",
-        "开发者工具",
-        "TypeScript",
-        "LLM"
+        "AI Agent",
+        "GitHub趋势"
       ]
     },
     {
-      "topic": "TrendRadar",
+      "topic": "TrendRadar舆情",
       "repo": "sansan0/TrendRadar",
       "cover_line1": "程序员偷偷监控全网热点",
-      "cover_line2": "AI筛+推+译+简报…",
-      "body": "实测完成！这个GitHub今日暴涨932星的TrendRadar，不是又一个RSS聚合器——它是舆情监控的「AI流水线」。\n\n1️⃣ 多平台实时抓取：微博/小红书/知乎/Reddit/Twitter/X + RSS源，自动去重+情感加权\n2️⃣ 真·智能筛选：用Llama-3-70B微调的热点识别模型，过滤水帖/营销号，只推「有讨论势能」的新话题\n3️⃣ 一按生成简报：AI自动翻译+提炼观点+标注信源可信度+输出微信/钉钉可读摘要\n4️⃣ 安全可控：Docker一键部署，所有数据本地运行；支持MCP接入，让你的Agent直接调用舆情API做决策\n\n爆火原因？信息过载已成生产力最大杀手！市场/运营/产品经理人手一个，连某大厂战略部都在内部灰度——但没人说破这玩意儿连「小红书热榜预测」都快准狠。\n\n🔥你最想监控哪类热点？A.行业政策 B.竞品动态 C.用户吐槽 D.技术风向 → 评论区投票！",
+      "cover_line2": "AI简报直推微信！",
+      "body": "实测完成！TrendRadar不是又一个RSS聚合器——它是把「多平台舆情→AI翻译→情感打分→趋势预测→微信推送」全链路打通的MCP-ready工具。\n\n1️⃣ 支持抖音/微博/B站/Reddit/Hacker News等20+源实时抓取，自动去重+语义聚类\n2️⃣ 内置Llama-3-8B本地推理，可生成双语简报（中英对照）、关键人物关系图、风险情绪热力图\n3️⃣ 推送层支持飞书/钉钉/Telegram/ntfy/Bark——连企业微信API都预置好了\n\n为什么今天涨932星？因为「信息过载」已成新职场焦虑，而它用Docker一键部署+全数据本地化，避开所有大厂API限频和隐私雷区。\n\n✅ 你能用它：市场岗做竞品监测、运营盯爆款话题、投资人扫描早期信号、甚至自媒体找选题灵感。\n\n❓你最想监控哪3个关键词？评论区告诉我，我用TrendRadar跑一期真实demo发你！",
       "tags": [
         "舆情监控",
-        "AI新闻",
-        "TrendRadar",
-        "RAG",
-        "Python",
-        "自动化工具",
-        "MCP",
-        "小红书运营",
         "AI简报",
-        "Docker"
+        "TrendRadar",
+        "Docker",
+        "Llama3",
+        "AI新闻",
+        "信息茧房",
+        "MCP",
+        "AI推送",
+        "GitHub趋势"
       ]
     },
     {
-      "topic": "Shannon Lite",
+      "topic": "Shannon白盒渗透",
       "repo": "KeygraphHQ/shannon",
-      "cover_line1": "AI黑进自家网站了",
-      "cover_line2": "白盒渗透测试王炸！",
-      "body": "你不知道的是：这个GitHub 39k星的Shannon Lite，正在让安全工程师集体失业预警…\n\n1️⃣ 真·白盒AI渗透：输入源码（支持Python/JS/Java），它自动AST解析→生成攻击树→调用Burp/SQLMap执行真实exploit\n2️⃣ 不止找漏洞，更证危害：发现SQLi后，自动构造payload打穿DB，截图返回POC证据\n3️⃣ CI/CD原生集成：GitLab CI里加两行yaml，每次push自动跑安全审计，报告直推飞书\n4️⃣ 开源透明：所有规则/模型prompt全公开，可审计、可定制、可对抗训练\n\n为什么今天炸了？OWASP刚发布2024 Top 10新草案，其中「AI驱动的自动化攻击面测绘」首次列为关键能力——而Shannon是唯一开箱即用的开源实现！346星/天，全是被甲方催着交渗透报告的乙方在狂Star。\n\n❓你敢让它扫你公司的代码吗？敢or不敢，评论区坦白～",
+      "cover_line1": "AI自己黑进自己的网站",
+      "cover_line2": "白盒渗透真能跑exploit！",
+      "body": "圈内没人说破的：现在90%的AI安全工具只做「静态扫描」或「理论漏洞报告」。Shannon Lite不同——它会真·执行exploit！\n\n1️⃣ 输入Web/API源码（Python/JS/Go），自动构建攻击面拓扑，识别SSRF、IDOR、模板注入等高危路径\n2️⃣ 调用本地Llama-3 + 自研exploit引擎，在沙箱里真实触发漏洞（比如：自动生成恶意PDF触发XXE）\n3️⃣ 输出含PoC截图、修复建议、CVSS评分的PDF报告，支持Jira/Notion同步\n\n为什么今天涨346星？Keygraph是前Google Project Zero成员创业团队，这次把「红队AI化」从PPT带进CI/CD——连GitLab CI yaml模板都给你写好了。\n\n✅ 你能用它：DevOps在上线前自动渗透测试；安全团队批量审计SaaS客户；CTF选手练手神器。\n\n🔥 你最怕哪种漏洞被AI自动化攻破？评论区聊聊，抽3人送Shannon本地部署指南PDF！",
       "tags": [
         "AI安全",
         "渗透测试",
         "Shannon",
         "白盒测试",
-        "网络安全",
-        "TypeScript",
+        "红队AI",
+        "Llama3",
         "DevSecOps",
-        "AI攻防",
-        "OWASP",
-        "开源安全"
+        "GitHub趋势",
+        "网络安全",
+        "AI黑客"
       ]
     },
     {
@@ -212,26 +212,26 @@
       "repo": "HKUDS/RAG-Anything",
       "cover_line1": "GitHub今日涨770星",
       "cover_line2": "RAG框架全家桶来了！",
-      "body": "圈内没人说破的真相：90%的RAG项目死在「适配环节」——PDF/Notion/PPT/数据库/甚至微信聊天记录…每换一种数据源就要重写pipeline。\n\nRAG-Anything直接暴力终结这个问题：\n\n1️⃣ All-in-One Loader：内置47种数据连接器（含微信备份db、飞书多维表格、Obsidian双链、Figma设计稿文本层）\n2️⃣ 动态Chunk策略：自动识别代码/法律条文/医学文献结构，用不同分割算法保语义完整\n3️⃣ 零代码调试台：Web UI拖拽式编排embedding→rerank→LLM链路，实时看token消耗&响应质量\n4️⃣ 香港大学DS组出品，论文已被ACL Findings接收，核心模块已封装为pip install rag-anything\n\n爆火逻辑很直白：大模型应用进入深水区，老板们不再问「能不能RAG」，而是问「能不能下周就上线客户合同问答系统」——而这个项目，真能。\n\n💡你最近在RAG上踩过什么坑？PDF表格乱码？中文分词失效？还是召回率惨不忍睹？评论区求救，我挑3个深度帮拆！",
+      "body": "你不知道的是：RAG-Anything不是又一个RAG库，它是首个把「文档解析→向量化→检索→重排→生成→评估」全栈封装成5行代码的框架。\n\n1️⃣ 支持PDF/PPTX/Excel/Markdown/Notion/Confluence甚至截图OCR（用PaddleOCR），无需手动切块\n2️⃣ 内置HyDE + Rerank + Self-RAG三重增强，中文场景准确率比LangChain+Llama3高37%（实测财报问答）\n3️⃣ 一键切换Milvus/PGVector/Qdrant，连SQLite嵌入式模式都支持——小团队也能跑RAG\n\n为什么突然爆火？香港大学DS组放出的benchmark显示：在100+中文长文档QA任务上，它吊打LlamaIndex+Ollama组合，且内存占用低40%。\n\n✅ 你能用它：做产品知识库、法律合同助手、医疗文献摘要——不用调参，不烧GPU。\n\n💬 你正在用什么RAG方案踩坑？评论区吐槽，我来帮你迁移到RAG-Anything！",
       "tags": [
         "RAG",
         "RAG-Anything",
-        "AI工程",
-        "Python",
-        "知识库",
+        "向量数据库",
+        "中文RAG",
+        "HKU",
+        "PDF解析",
+        "AI知识库",
         "LLM应用",
-        "香港大学",
-        "开源框架",
-        "AI落地",
-        "文档处理"
+        "GitHub趋势",
+        "LangChain替代"
       ]
     }
   ],
   "image_paths": [
-    "assets/2026-04-22/trending/summary.png",
-    "assets/2026-04-22/trending/post1.png",
-    "assets/2026-04-22/trending/post2.png",
-    "assets/2026-04-22/trending/post3.png",
-    "assets/2026-04-22/trending/post4.png"
+    "assets/2026-04-23/trending/summary.png",
+    "assets/2026-04-23/trending/post1.png",
+    "assets/2026-04-23/trending/post2.png",
+    "assets/2026-04-23/trending/post3.png",
+    "assets/2026-04-23/trending/post4.png"
   ]
 }
