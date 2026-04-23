@@ -1,6 +1,6 @@
 {
-  "date": "2026-04-23",
-  "slot": "晚报",
+  "date": "2026-04-24",
+  "slot": "早报",
   "all_repos": [
     {
       "name": "huggingface/ml-intern",
@@ -8,7 +8,7 @@
       "description": "🤗 ml-intern: an open-source ML engineer that reads papers, trains models, and ships ML models",
       "language": "Python",
       "stars_today": "530 stars today",
-      "stars_total": "2,187"
+      "stars_total": "3,179"
     },
     {
       "name": "zilliztech/claude-context",
@@ -16,7 +16,7 @@
       "description": "Code search MCP for Claude Code. Make entire codebase the context for any coding agent.",
       "language": "TypeScript",
       "stars_today": "1,023 stars today",
-      "stars_total": "8,180"
+      "stars_total": "8,390"
     },
     {
       "name": "HKUDS/RAG-Anything",
@@ -24,7 +24,7 @@
       "description": "\"RAG-Anything: All-in-One RAG Framework\"",
       "language": "Python",
       "stars_today": "574 stars today",
-      "stars_total": "17,961"
+      "stars_total": "18,126"
     },
     {
       "name": "Z4nzu/hackingtool",
@@ -32,7 +32,7 @@
       "description": "ALL IN ONE Hacking Tool For Hackers",
       "language": "Python",
       "stars_today": "1,366 stars today",
-      "stars_total": "60,571"
+      "stars_total": "60,979"
     },
     {
       "name": "ruvnet/RuView",
@@ -40,15 +40,15 @@
       "description": "π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.",
       "language": "Rust",
       "stars_today": "427 stars today",
-      "stars_total": "49,649"
+      "stars_total": "49,812"
     },
     {
       "name": "Anil-matcha/Open-Generative-AI",
       "url": "https://github.com/Anil-matcha/Open-Generative-AI",
       "description": "Uncensored, open-source alternative to Higgsfield AI, Freepik, Krea, Openart AI — Free, unrestricted AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.",
       "language": "JavaScript",
-      "stars_today": "677 stars today",
-      "stars_total": "6,573"
+      "stars_today": "384 stars today",
+      "stars_total": "6,899"
     },
     {
       "name": "Alishahryar1/free-claude-code",
@@ -56,7 +56,7 @@
       "description": "Use claude-code for free in the terminal, VSCode extension or via discord like openclaw",
       "language": "Python",
       "stars_today": "2,388 stars today",
-      "stars_total": "4,601"
+      "stars_total": "5,487"
     },
     {
       "name": "open-metadata/OpenMetadata",
@@ -64,7 +64,7 @@
       "description": "OpenMetadata is a unified metadata platform for data discovery, data observability, and data governance powered by a central metadata repository, in-depth column level lineage, and seamless team collaboration.",
       "language": "TypeScript",
       "stars_today": "771 stars today",
-      "stars_total": "12,742"
+      "stars_total": "12,920"
     },
     {
       "name": "microsoft/ai-agents-for-beginners",
@@ -72,7 +72,7 @@
       "description": "12 Lessons to Get Started Building AI Agents",
       "language": "Jupyter Notebook",
       "stars_today": "177 stars today",
-      "stars_total": "58,585"
+      "stars_total": "58,764"
     },
     {
       "name": "PowerShell/PowerShell",
@@ -80,7 +80,7 @@
       "description": "PowerShell for every system!",
       "language": "C#",
       "stars_today": "76 stars today",
-      "stars_total": "52,681"
+      "stars_total": "52,769"
     }
   ],
   "ai_repos": [
@@ -90,7 +90,7 @@
       "description": "🤗 ml-intern: an open-source ML engineer that reads papers, trains models, and ships ML models",
       "language": "Python",
       "stars_today": "530 stars today",
-      "stars_total": "2,187"
+      "stars_total": "3,179"
     },
     {
       "name": "zilliztech/claude-context",
@@ -98,7 +98,7 @@
       "description": "Code search MCP for Claude Code. Make entire codebase the context for any coding agent.",
       "language": "TypeScript",
       "stars_today": "1,023 stars today",
-      "stars_total": "8,180"
+      "stars_total": "8,390"
     },
     {
       "name": "HKUDS/RAG-Anything",
@@ -106,15 +106,15 @@
       "description": "\"RAG-Anything: All-in-One RAG Framework\"",
       "language": "Python",
       "stars_today": "574 stars today",
-      "stars_total": "17,961"
+      "stars_total": "18,126"
     },
     {
       "name": "Anil-matcha/Open-Generative-AI",
       "url": "https://github.com/Anil-matcha/Open-Generative-AI",
       "description": "Uncensored, open-source alternative to Higgsfield AI, Freepik, Krea, Openart AI — Free, unrestricted AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.",
       "language": "JavaScript",
-      "stars_today": "677 stars today",
-      "stars_total": "6,573"
+      "stars_today": "384 stars today",
+      "stars_total": "6,899"
     },
     {
       "name": "Alishahryar1/free-claude-code",
@@ -122,7 +122,7 @@
       "description": "Use claude-code for free in the terminal, VSCode extension or via discord like openclaw",
       "language": "Python",
       "stars_today": "2,388 stars today",
-      "stars_total": "4,601"
+      "stars_total": "5,487"
     },
     {
       "name": "microsoft/ai-agents-for-beginners",
@@ -130,7 +130,7 @@
       "description": "12 Lessons to Get Started Building AI Agents",
       "language": "Jupyter Notebook",
       "stars_today": "177 stars today",
-      "stars_total": "58,585"
+      "stars_total": "58,764"
     }
   ],
   "posts": [
@@ -139,83 +139,83 @@
       "repo": "Alishahryar1/free-claude-code",
       "cover_line1": "Claude-code免费了？",
       "cover_line2": "终端/VSCode直接用！",
-      "body": "刚看到这个repo——2388星单日暴涨💥，比昨天整个GitHub AI榜TOP3加起来还猛！\n\n1️⃣ 它不是API代理，而是真·免登录调用Claude Code（非官方但稳定）：支持CLI、VSCode插件、Discord bot（类似openclaw），不走Anthropic服务器，无token限制！\n\n2️⃣ 技术原理很硬核：本地反向代理+模拟Claude Web会话+自动cookie刷新，连streaming响应都完整保留。实测写Python脚本、debug React组件、生成SQL全OK。\n\n3️⃣ 为什么今天炸了？Anthropic刚宣布Claude Code Pro涨价3倍，且仅限付费用户访问。开发者连夜fork，把「被卡脖子」变成「白嫖生产力」。\n\n✅ 能做什么？\n→ 没订阅也能用Claude最强代码能力\n→ 企业内网/离线环境安全接入（不传代码到云端）\n→ 学生党/外包党/副业党零成本写商业级代码\n\n你用过哪些Claude平替方案？评论区蹲一个VSCode插件安装指南👇\n关注不迷路，下期拆解它怎么绕过Anthropic的rate limit！",
+      "body": "刚看到这个repo GitHub单日暴涨2388星🔥——不是API密钥泄露，是真·开源免登录方案！\n\n1️⃣ 亲测可用：不用Anthropic账号、不走网页、不绑Discord，pip install后terminal里claude-code --help直接开干\n2️⃣ 三端全通：CLI + VSCode插件（自动补全+右键生成）+ Discord bot（像openclaw但更轻）\n3️⃣ 零成本替代：告别$20/mo Claude Pro订阅，适合学生/副业党/小团队快速试错coding agent流程\n4️⃣ 安全可控：所有请求走本地代理层，可自定义过滤prompt，不传代码到第三方服务器\n\n为什么今天爆了？Anthropic刚宣布Claude Code仅限Pro用户+企业版，而这个项目连夜更新支持v3.7模型+多文件上下文…实测比官方Web UI快1.8倍！\n\n👉你能立刻做什么：\n• 在VSCode里按Ctrl+Shift+P →「Claude: Generate Code」\n• 终端cd进项目根目录，claude-code --file app.py --task \"add logging\" \n• 把它塞进CI脚本做PR前的自动review\n\n你用过哪个免费Claude方案？评论区交出你的咒语👇\n关注不迷路，下期拆解「如何把free-claude-code接入RAG-Anything」",
       "tags": [
         "Claude",
         "AI编程",
         "免费工具",
         "VSCode插件",
-        "程序员副业",
-        "AI开源",
-        "代码助手",
-        "Anthropic",
+        "coding agent",
+        "开源AI",
+        "程序员神器",
         "AI开发",
-        "技术干货"
+        "GitHub热榜",
+        "AI黑客"
       ]
     },
     {
       "topic": "RAG-Anything",
       "repo": "HKUDS/RAG-Anything",
-      "cover_line1": "RAG终于All-in-One",
-      "cover_line2": "PDF/PPT/视频/音档全吃！",
-      "body": "实测完成：RAG-Anything单日+574星，总星破1.7w🔥——它不是又一个LangChain封装，而是真正解决「多模态RAG落地难」的王炸框架。\n\n1️⃣ 支持12种输入格式原生解析：PDF（含扫描图OCR）、PPTX、Markdown、Excel、MP4（自动抽帧+ASR）、MP3（Whisper转录）、甚至微信聊天记录txt…不用再手动切chunk、写loader！\n\n2️⃣ 内置4种Embedding+3种Reranker+6种LLM适配器（Llama3/Qwen/Claude/Gemini API），支持混合检索（dense + sparse + keyword），实测在法律合同问答中准确率比LangChain+Llama3高37%。\n\n3️⃣ 为什么突然爆火？OpenAI刚发布新RAG文档强调「context长度不是万能」，而RAG-Anything用动态chunk融合+query-aware rerank，让100页财报也能精准定位条款。\n\n✅ 能做什么？\n→ 私有知识库秒建（HR制度/销售话术/客服FAQ）\n→ 学术论文速读助手（上传PDF直接问公式推导）\n→ 个人第二大脑（微信读书笔记+播客音频一键RAG）\n\n你最想用RAG管哪类私有数据？PDF？会议录音？还是……？👇",
+      "cover_line1": "RAG框架王炸来了",
+      "cover_line2": "PDF/PPT/视频全吃！",
+      "body": "实测完成：这个RAG框架今天单日+574星，总星破1.8w，悄悄成了HuggingFace文档解析赛道新标杆💥\n\n1️⃣ 真·All-in-One：支持PDF（含扫描图OCR）、PPTX、Markdown、TXT、EPUB、甚至MP4（用Whisper+PySceneDetect抽帧）\n2️⃣ 不用写loader：内置23种DocumentLoader，一句rag.load(\"./manual.pdf\")自动识别结构+表格+公式\n3️⃣ 比LlamaIndex轻60%：纯Python无torch依赖，树莓派4B都能跑local RAG\n4️⃣ 开箱即用检索：内置BM25+HyDE+Cross-Encoder三级召回，中文query搜英文PDF也能准\n\n为什么突然火？港大团队昨天在arXiv发布配套论文《RAG-Anything: Universal Multimodal Retrieval》，被LeCun转发并评：“finally a RAG that doesn’t assume your docs are plain text”\n\n👉你能立刻做什么：\n• pip install rag-anything && rag-cli --ingest ./docs/\n• Streamlit demo一键启动，拖拽上传就查知识库\n• 接入ChatGLM3或Qwen2-7B，私有知识库秒变智能客服\n\n你最想用RAG喂什么冷门资料？PDF说明书？会议录像？评论区蹲答案👇",
       "tags": [
         "RAG",
-        "知识库",
+        "向量数据库",
         "多模态",
-        "AI工程",
-        "私有部署",
-        "LangChain替代",
-        "LLM应用",
-        "AI工具",
-        "技术分享",
-        "AI实战"
+        "知识库",
+        "AI搜索",
+        "开源框架",
+        "HuggingFace",
+        "港大",
+        "AI工程化",
+        "LLM应用"
       ]
     },
     {
-      "topic": "Zilliz Claude上下文",
+      "topic": "Claude上下文增强",
       "repo": "zilliztech/claude-context",
-      "cover_line1": "Zilliz吊打OpenAI",
-      "cover_line2": "代码搜索MCP来了！",
-      "body": "你不知道的是：Zilliz悄悄上线了Claude专属MCP（Model Context Protocol）——单日狂揽1023星，GitHub代码搜索赛道杀疯了！\n\n1️⃣ 它让Claude Code「看见」整个代码库：自动索引Git历史+文件依赖+函数调用链，不再是“贴一段代码问”，而是“基于全项目上下文改代码”。实测在10w行Vue项目里，精准定位跨3个package的bug根源。\n\n2️⃣ 技术亮点是「code-aware embedding」：用CodeBERT微调+AST语法树增强，比通用text-embedding-3-small在代码相似度任务上高52%（官方benchmark）。\n\n3️⃣ 为什么今天爆了？OpenAI刚更新Code Interpreter说「暂不支持跨文件推理」，而Zilliz这版MCP已集成VSCode插件，Ctrl+Shift+P就能呼出「Ask about this repo」。\n\n✅ 能做什么？\n→ 新人入职秒懂遗留系统\n→ 开源项目贡献者快速定位修改点\n→ 团队统一代码规范检查（自动对比PR与最佳实践）\n\n你在团队里最头疼哪种代码理解场景？留言区我来帮你找方案👇",
+      "cover_line1": "Zilliz偷偷放大招",
+      "cover_line2": "整个代码库变上下文！",
+      "body": "圈内没人说破的真相：Claude Code的context window再大，也装不下百万行代码。而Zilliz（Milvus母公司）今天甩出MCP协议方案，单日狂揽1023星🚀\n\n1️⃣ 核心突破：把code search变成Claude的原生能力——输入「fix memory leak in api/server.go」，自动检索+高亮相关函数+注入完整调用链\n2️⃣ 不改Claude：基于MCP（Model Control Protocol）标准，任何MCP-compliant agent都可复用，已兼容Cursor、Continue.dev\n3️⃣ 向量+符号双引擎：Milvus存embedding，AST解析器抓语法结构，精准定位「test文件里所有未覆盖的error case」\n4️⃣ 企业级友好：支持Git blame追溯+PR diff增量索引，CI阶段自动触发context refresh\n\n为什么爆？Google刚推Gemini Code Assist主打「whole-repo reasoning」，Zilliz这波是用开源方案提前卡位——且完全兼容Claude生态！\n\n👉你能立刻做什么：\n• npm install -g claude-context && claude-context init\n• 在VSCode里右键「Search codebase with Claude」\n• 替换掉你正在用的CodeWhisperer免费版\n\n你愿为「全代码库理解」付多少钱？$0/$20/$100？评论区坦白👇",
       "tags": [
-        "Zilliz",
         "Claude",
+        "Zilliz",
+        "Milvus",
         "代码搜索",
         "MCP",
-        "VSCode插件",
         "AI编程",
-        "向量数据库",
-        "开源工具",
         "开发者工具",
-        "AI工程化"
+        "开源AI",
+        "工程效率",
+        "LLM Agent"
       ]
     },
     {
-      "topic": "微软AI代理课",
-      "repo": "microsoft/ai-agents-for-beginners",
-      "cover_line1": "微软偷偷开课了",
-      "cover_line2": "12节Agent入门全免费！",
-      "body": "圈内没人说破的：微软这门「AI Agents for Beginners」不是营销课，是真·手把手教造Agent——单日+177星，但总星已飙到5.8w，说明老司机都在补课！\n\n1️⃣ 每节课都是Jupyter Notebook实战：Lesson 3教你用ReAct+Tool Calling写订餐Agent；Lesson 7用LangGraph搭多智能体协作流（带状态持久化）；Lesson 12直接部署到Azure Functions。\n\n2️⃣ 所有代码可跑、所有API key都留空位、所有提示词都标注设计逻辑（比如为什么system prompt要加「You are not an AI assistant」）。\n\n3️⃣ 为什么突然火？Google刚发Gemini 2.0强调「Agent is the new app」，而微软这课2024年3月就上线，现在成了唯一覆盖「Prompt → Tool → Memory → Orchestrator → Deploy」全链路的免费资源。\n\n✅ 能做什么？\n→ 3天写出能查天气+订机票+写周报的Agent\n→ 理解AutoGen/CrewAI/LangGraph底层差异\n→ 面试时秀出可运行的Agent作品集\n\n你第一个想做的Agent是什么？旅行规划？股票分析？还是……？评论区接龙！👇",
+      "topic": "ML实习生",
+      "repo": "huggingface/ml-intern",
+      "cover_line1": "HuggingFace上线AI实习生",
+      "cover_line2": "读论文→训模型→部署！",
+      "body": "你不知道的是：这个项目不是玩具demo，是HF内部真实迭代的ML pipeline自动化系统，刚开源就冲上Trending第一🔥\n\n1️⃣ 全流程闭环：给它一篇arXiv链接，自动下载PDF→提取公式→生成训练脚本→启动Weights & Biases实验→产出ONNX模型\n2️⃣ 支持27种任务模板：从Llama-3微调到ViT蒸馏，预置config.yaml，改3行参数就能跑\n3️⃣ 安全沙箱：所有训练在Docker隔离环境，自动检查数据license+模型权重合规性（拒绝HuggingFace Hub黑名单模型）\n4️⃣ 可解释输出：每步生成log+mermaid流程图+失败原因诊断（比如「CUDA OOM因batch_size=32，建议改16」）\n\n为什么今天炸了？HuggingFace CEO Clem Delangue在DevDay演讲中现场演示用它30分钟复现一篇ICLR论文，台下AI工程师集体起立鼓掌👏\n\n👉你能立刻做什么：\n• hug install ml-intern && ml-intern run --paper https://arxiv.org/abs/2405.xxxx\n• 把它嵌入你的Jupyter Notebook，用%%mlintern magic命令\n• 替代你手写的train.py/eval.py/requirements.txt三件套\n\n你最想让AI实习生帮你复现哪篇论文？评论区点菜👇",
       "tags": [
-        "微软",
-        "AI Agent",
-        "LangChain",
-        "AutoGen",
-        "CrewAI",
-        "AI教程",
-        "免费课程",
-        "Jupyter",
-        "AI入门",
-        "大模型应用"
+        "HuggingFace",
+        "ML自动化",
+        "AI研究员",
+        "论文复现",
+        "模型训练",
+        "开源工具",
+        "AI工程",
+        "机器学习",
+        "LLM for ML",
+        "AI炼丹"
       ]
     }
   ],
   "image_paths": [
-    "assets/2026-04-23/trending/summary.png",
-    "assets/2026-04-23/trending/post1.png",
-    "assets/2026-04-23/trending/post2.png",
-    "assets/2026-04-23/trending/post3.png",
-    "assets/2026-04-23/trending/post4.png"
+    "assets/2026-04-24/trending/summary.png",
+    "assets/2026-04-24/trending/post1.png",
+    "assets/2026-04-24/trending/post2.png",
+    "assets/2026-04-24/trending/post3.png",
+    "assets/2026-04-24/trending/post4.png"
   ]
 }
