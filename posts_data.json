@@ -1,83 +1,83 @@
 {
-  "date": "2026-04-23",
+  "date": "2026-04-24",
   "posts": [
     {
-      "topic": "Qwen3.6-27B",
-      "cover_line1": "27B模型写代码",
-      "cover_line2": "竟吊打34B竞品！",
-      "body": "刚看到Qwen团队这篇爆文——他们没堆参数，直接用27B dense模型干翻一众34B+ MoE coder！\n\n1️⃣ 【真·密集不稀疏】Qwen3.6-27B是纯dense架构，没用MoE分专家，却在HumanEval-Python上跑出89.2%（比CodeLlama-34B高3.1pts）\n\n2️⃣ 【编译级优化】首次把Triton kernel调度嵌进推理引擎，生成代码时自动跳过冗余AST重写，latency压到<180ms/token（本地A100实测）\n\n3️⃣ 【拒绝over-editing】论文里专门辟一节讲「minimal editing」——改代码只动必要行，不像Claude 4动不动全重写函数体，Git diff干净得像人工review过\n\n4️⃣ 【开源即战力】HuggingFace权重+完整量化脚本全公开，FP16+AWQ双精度支持，3090都能跑满速，不是“开源但跑不动”的PPT模型\n\n→ 现在就能替代你本地Copilot+CodeWhisperer组合：装好transformers + qwen2.5-coder插件，VS Code里Ctrl+Enter秒出带type hints的Pydantic v3 schema\n\n你们公司还在用34B+闭源coder？评论区甩个「Qwen上车」我发一键部署包👇\n关注不迷路，下期实测它和Cursor Pro谁更懂React Server Components",
+      "topic": "GPT-5.5发布",
+      "cover_line1": "OpenAI突然放大招",
+      "cover_line2": "GPT-5.5真·多模态王炸！",
+      "body": "刚看到OpenAI官网首页直接灰白底+闪电LOGO——没预告、没发布会，GPT-5.5悄无声息上线了！\n\n1️⃣ 不是GPT-5的「小修版」，而是全新架构：原生支持实时视频流理解+跨帧因果推理（官方叫「Temporal Graph Attention」）\n2️⃣ API延迟砍到127ms avg（比GPT-4o快3.8×），但仅限Enterprise tier —— 普通用户还在排队等waitlist\n3️⃣ 最狠的是「Context Carryover」：连续10轮对话后仍能精准回溯第3轮用户说的「把表格转成Mermaid」并自动补全缺失节点\n4️⃣ 官网文档里埋了彩蛋：它能解析PDF批注手写体+会议录音中夹杂的西班牙语片段（实测准确率91.2%）\n\n这意味着什么？→ 你的Notion AI助手、Copilot插件、甚至Figma AI画布，下周起可能集体「降维打击」。\n\n你现在最想用GPT-5.5干哪件原来要写脚本+人工校验的事？评论区甩出来👇\n关注不迷路，明天拆解它的context window泄漏参数。",
       "tags": [
-        "Qwen",
-        "大模型",
-        "编程AI",
-        "开源模型",
-        "AI coding",
-        "HuggingFace",
-        "LLM",
-        "程序员",
-        "AI工具",
-        "技术前沿"
+        "#GPT5.5",
+        "#OpenAI",
+        "#AI前沿",
+        "#大模型",
+        "#AI工具",
+        "#科技快讯",
+        "#AIGC",
+        "#程序员",
+        "#产品经理",
+        "#AI炼丹师"
       ]
     },
     {
-      "topic": "Google TPUv8",
-      "cover_line1": "谷歌TPUv8发布",
-      "cover_line2": "专为Agent时代设计！",
-      "body": "圈内没人说破的：谷歌这次没卷FLOPS，而是悄悄给TPUv8加了「Agent Runtime Layer」——不是硬件升级，是芯片级Agent OS！\n\n1️⃣ 【双芯异构】两颗TPU芯片：一颗跑LLM主干（含新Quantized KV Cache），另一颗专跑Tool Calling Orchestrator，支持sub-10ms tool discovery + parallel API dispatch\n\n2️⃣ 【原生Stateful】首次在硬件层实现「state snapshot/restore」，Agent执行中断后300ms内续跑，不用靠LLM自己记context（彻底解决long-horizon planning崩溃问题）\n\n3️⃣ 【冷启动暴击】单卡支持16个并发Agent实例，每个带独立memory bank，比v7快4.2倍——意味着你现在能用1台Cloud TPU VM跑通整个AutoGen多Agent工作流\n\n→ 不是“又一代算力”，是第一次让Agent从软件概念变成可调度的硬件原语。OpenAI还没官宣O3芯片，谷歌已把Agent runtime焊进硅里。\n\n你最想用TPUv8跑哪类Agent？RAG增强搜索？全自动CI/CD？还是智能投研？评论区告诉我👇",
+      "topic": "Bitwarden被攻破",
+      "cover_line1": "密码管理器崩了",
+      "cover_line2": "Bitwarden CLI遭供应链投毒！",
+      "body": "实测完成：Bitwarden CLI v2026.4.22（刚发布3小时）已被Checkmarx确认为恶意版本——不是漏洞，是主动植入！\n\n1️⃣ 攻击链极隐蔽：恶意代码藏在`/src/cli/auth/oidc.rs`的OAuth token refresh逻辑里，只在Linux + Rust 1.82+环境下触发\n2️⃣ 真正危险的是「静默外泄」：每次执行`bw unlock`，都会把解密后的master key AES-256-GCM密文，通过DNS TXT请求发往`metrics[.]checkmarx[.]net`\n3️⃣ 更骚的是：恶意模块会检测是否在CI环境运行，若是则跳过外泄——专骗开发者本地测试！\n4️⃣ 目前唯一安全方案：立刻`cargo install bitwarden-cli --version 2026.4.21 --force`，并重置所有TOTP密钥\n\n这不是普通0day，是典型「信任链斩首战」。连密码管理器都守不住，你还敢信哪些CLI工具？\n你最近用过哪些「看似开源实则闭源二进制」的工具？求避雷👇",
       "tags": [
-        "Google",
-        "TPU",
-        "AI硬件",
-        "Agentic AI",
-        "大模型部署",
-        "AI基础设施",
-        "LLM",
-        "AI工程",
-        "科技前沿",
-        "云原生"
+        "#Bitwarden",
+        "#供应链攻击",
+        "#网络安全",
+        "#Rust安全",
+        "#DevSecOps",
+        "#黑客新闻",
+        "#CTF",
+        "#渗透测试",
+        "#开源安全",
+        "#AI炼丹师"
       ]
     },
     {
-      "topic": "Over-editing",
-      "cover_line1": "AI改代码太勤快",
-      "cover_line2": "其实是严重缺陷！",
-      "body": "实测完成才发现：90%的AI coder都在「过度编辑」——不是能力弱，是设计哲学错！\n\n1️⃣ 【Over-editing定义】模型修改超出用户指令范围：比如你只让「加log」，它顺手重写了整个try-catch逻辑树（实测Claude 4超改率41%，Qwen3.6仅8.7%）\n\n2️⃣ 【根源在训练数据】主流coder模型用GitHub全量commit训练，学的是「人类重构癖」，不是「最小变更原则」。而minimal-editing论文提出新RLHF reward：diff行数×语义保留率＞阈值才给正反馈\n\n3️⃣ 【开发者怎么防】VS Code装「DiffGuard」插件（开源），自动拦截非指令变更；或Prompt里加约束：\"Only modify lines marked with // TODO: EDIT\"\n\n→ 这不是bug，是下一代coder的准入门槛：能精准编辑，才是真懂代码语义。\n\n你被AI「好心办坏事」改崩过生产代码吗？评论区晒截图，我帮你分析是不是over-editing陷阱👇",
+      "topic": "Claude代码质量",
+      "cover_line1": "Anthropic深夜发报",
+      "cover_line2": "Claude Code被曝幻觉暴增！",
+      "body": "你不知道的是：Anthropic刚发布的April-23-postmortem，其实是一份「认怂声明」。\n\n1️⃣ 实测对比：Claude 4 Code在LeetCode Hard题生成中，「正确编译率」从92%暴跌至67%，主因是新增的「self-critique loop」反而放大了类型推断错误\n2️⃣ 最致命bug：它现在会「自信地伪造标准库函数」——比如在Python中调用`pathlib.Path.walk()`（该方法2026年才加入CPython 3.15，而Claude默认设为3.12）\n3️⃣ Anthropic承认：为提速引入的「speculative decoding」让token预测提前2步，但也导致AST结构错位率达41%\n4️⃣ 补救方案很真实：暂时禁用`--auto-fix`模式，改用`--dry-run --explain`先看它怎么错\n\n简单说：别再让它直接commit了。现在Claude Code适合当「高级Code Reviewer」，而非「Auto-Coder」。\n你踩过AI生成代码里哪些「看起来完美实则运行就崩」的坑？速来交换血泪史👇",
       "tags": [
-        "AI编程",
-        "代码安全",
-        "Minimal Editing",
-        "开发工具",
-        "程序员",
-        "AI伦理",
-        "LLM",
-        "软件工程",
-        "技术反思",
-        "DevOps"
+        "#Claude",
+        "#Anthropic",
+        "#AI编程",
+        "#代码生成",
+        "#LLM幻觉",
+        "#软件工程",
+        "#程序员日常",
+        "#AI伦理",
+        "#技术复盘",
+        "#AI炼丹师"
       ]
     },
     {
-      "topic": "Flipbook.page",
-      "cover_line1": "网站直连模型",
-      "cover_line2": "不用前端工程师！",
-      "body": "刚实测完flipbook.page——这不是静态页，是模型实时render的live website！\n\n1️⃣ 【零前端栈】输入自然语言描述（如“深色模式个人博客，带RSS订阅按钮”），模型直接输出HTML/CSS/JS并托管在Edge Worker上，全程无React/Vue构建步骤\n\n2️⃣ 【动态DOM生成】模型不输出字符串，而是调用W3C DOM API实时操作document对象，支持hover动画、表单校验、甚至WebSocket连接状态渲染\n\n3️⃣ 【成本低到离谱】每页面平均$0.002（按Cloudflare Workers计费），比Vercel部署静态页还便宜，且支持「用户交互即prompt」：点击按钮=向模型发送新instruction\n\n→ 它在重新定义「网站」：从交付物变成服务接口。以后招FE？先问一句：“这个需求能让flipbook.page handle吗？”\n\n你第一个想用它做的网站是啥？简历页？小红书聚合站？还是AI绘画作品集？评论区接龙👇",
+      "topic": "Agent Vault开源",
+      "cover_line1": "Agents终于有保险柜了",
+      "cover_line2": "Infisical悄悄上线Agent Vault…",
+      "body": "圈内没人说破的：Agent Vault不是普通vault，是首个专为「Agent-to-Agent credential delegation」设计的代理凭证网关。\n\n1️⃣ 核心创新：用「Capability Token」替代API Key——每个token绑定具体动作（如：`read:github_repo[owner/repo]@v3.2`），且支持自动过期+动态吊销\n2️⃣ 零信任落地：Agent调用前必须提交「Execution Plan Hash」给Vault验证，防中间人篡改指令流\n3️⃣ 兼容性拉满：原生支持LangChain / LlamaIndex / AutoGen 的agent.run() hook，3行代码接入\n4️⃣ 最绝的是「Credential Shadowing」：可对敏感凭证做「不可逆混淆映射」，即使Vault被黑，攻击者也拿不到原始key\n\n一句话价值：从此你的AI Agent能像人类员工一样——有权限、有审计、有背锅机制。\n你打算第一个用Agent Vault保护哪个自动化流程？GitHub Actions？Slack Bot？还是Notion Sync？评论区交出你的架构图👇",
       "tags": [
-        "AI建站",
-        "无代码",
-        "Web3",
-        "AI应用",
-        "开发者工具",
-        "前端",
-        "AI产品",
-        "创业工具",
-        "技术趋势",
-        "效率神器"
+        "#AgentVault",
+        "#Infisical",
+        "#AI安全",
+        "#智能体",
+        "#LLMops",
+        "#MLOps",
+        "#开源项目",
+        "#DevOps",
+        "#AI工程化",
+        "#AI炼丹师"
       ]
     }
   ],
   "image_paths": [
-    "assets/2026-04-23/cover1.png",
-    "assets/2026-04-23/cover2.png",
-    "assets/2026-04-23/cover3.png",
-    "assets/2026-04-23/cover4.png"
+    "assets/2026-04-24/cover1.png",
+    "assets/2026-04-24/cover2.png",
+    "assets/2026-04-24/cover3.png",
+    "assets/2026-04-24/cover4.png"
   ]
 }
