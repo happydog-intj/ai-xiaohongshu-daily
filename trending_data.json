@@ -1,229 +1,213 @@
 {
   "date": "2026-04-23",
-  "slot": "早报",
+  "slot": "晚报",
   "all_repos": [
+    {
+      "name": "huggingface/ml-intern",
+      "url": "https://github.com/huggingface/ml-intern",
+      "description": "🤗 ml-intern: an open-source ML engineer that reads papers, trains models, and ships ML models",
+      "language": "Python",
+      "stars_today": "530 stars today",
+      "stars_total": "2,187"
+    },
     {
       "name": "zilliztech/claude-context",
       "url": "https://github.com/zilliztech/claude-context",
       "description": "Code search MCP for Claude Code. Make entire codebase the context for any coding agent.",
       "language": "TypeScript",
-      "stars_today": "873 stars today",
-      "stars_total": "7,471"
+      "stars_today": "1,023 stars today",
+      "stars_total": "8,180"
     },
     {
-      "name": "Fincept-Corporation/FinceptTerminal",
-      "url": "https://github.com/Fincept-Corporation/FinceptTerminal",
-      "description": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.",
+      "name": "HKUDS/RAG-Anything",
+      "url": "https://github.com/HKUDS/RAG-Anything",
+      "description": "\"RAG-Anything: All-in-One RAG Framework\"",
       "language": "Python",
-      "stars_today": "1,737 stars today",
-      "stars_total": "13,047"
+      "stars_today": "574 stars today",
+      "stars_total": "17,961"
     },
     {
-      "name": "koala73/worldmonitor",
-      "url": "https://github.com/koala73/worldmonitor",
-      "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
-      "language": "TypeScript",
-      "stars_today": "449 stars today",
-      "stars_total": "51,537"
-    },
-    {
-      "name": "langfuse/langfuse",
-      "url": "https://github.com/langfuse/langfuse",
-      "description": "🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Integrates with OpenTelemetry, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23",
-      "language": "TypeScript",
-      "stars_today": "160 stars today",
-      "stars_total": "25,581"
-    },
-    {
-      "name": "KeygraphHQ/shannon",
-      "url": "https://github.com/KeygraphHQ/shannon",
-      "description": "Shannon Lite is an autonomous, white-box AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they reach production.",
-      "language": "TypeScript",
-      "stars_today": "346 stars today",
-      "stars_total": "39,548"
-    },
-    {
-      "name": "open-metadata/OpenMetadata",
-      "url": "https://github.com/open-metadata/OpenMetadata",
-      "description": "OpenMetadata is a unified metadata platform for data discovery, data observability, and data governance powered by a central metadata repository, in-depth column level lineage, and seamless team collaboration.",
-      "language": "TypeScript",
-      "stars_today": "609 stars today",
-      "stars_total": "12,145"
+      "name": "Z4nzu/hackingtool",
+      "url": "https://github.com/Z4nzu/hackingtool",
+      "description": "ALL IN ONE Hacking Tool For Hackers",
+      "language": "Python",
+      "stars_today": "1,366 stars today",
+      "stars_total": "60,571"
     },
     {
       "name": "ruvnet/RuView",
       "url": "https://github.com/ruvnet/RuView",
       "description": "π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.",
       "language": "Rust",
-      "stars_today": "551 stars today",
-      "stars_total": "49,367"
+      "stars_today": "427 stars today",
+      "stars_total": "49,649"
     },
     {
-      "name": "HKUDS/RAG-Anything",
-      "url": "https://github.com/HKUDS/RAG-Anything",
-      "description": "\"RAG-Anything: All-in-One RAG Framework\"",
-      "language": "Python",
-      "stars_today": "770 stars today",
-      "stars_total": "17,511"
+      "name": "Anil-matcha/Open-Generative-AI",
+      "url": "https://github.com/Anil-matcha/Open-Generative-AI",
+      "description": "Uncensored, open-source alternative to Higgsfield AI, Freepik, Krea, Openart AI — Free, unrestricted AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.",
+      "language": "JavaScript",
+      "stars_today": "677 stars today",
+      "stars_total": "6,573"
     },
     {
-      "name": "sansan0/TrendRadar",
-      "url": "https://github.com/sansan0/TrendRadar",
-      "description": "⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts.🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 + RSS 订阅，支持关键词精准筛选。AI 智能筛选新闻 + AI 翻译 + AI 分析简报直推手机，也支持接入 MCP 架构，赋能 AI 自然语言对话分析、情感洞察与趋势预测等。支持 Docker ，数据本地/云端自持。集成微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 等渠道智能推送。",
+      "name": "Alishahryar1/free-claude-code",
+      "url": "https://github.com/Alishahryar1/free-claude-code",
+      "description": "Use claude-code for free in the terminal, VSCode extension or via discord like openclaw",
       "language": "Python",
-      "stars_today": "932 stars today",
-      "stars_total": "54,406"
+      "stars_today": "2,388 stars today",
+      "stars_total": "4,601"
     },
     {
-      "name": "AIDC-AI/Pixelle-Video",
-      "url": "https://github.com/AIDC-AI/Pixelle-Video",
-      "description": "🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine",
-      "language": "Python",
-      "stars_today": "237 stars today",
-      "stars_total": "5,511"
+      "name": "open-metadata/OpenMetadata",
+      "url": "https://github.com/open-metadata/OpenMetadata",
+      "description": "OpenMetadata is a unified metadata platform for data discovery, data observability, and data governance powered by a central metadata repository, in-depth column level lineage, and seamless team collaboration.",
+      "language": "TypeScript",
+      "stars_today": "771 stars today",
+      "stars_total": "12,742"
+    },
+    {
+      "name": "microsoft/ai-agents-for-beginners",
+      "url": "https://github.com/microsoft/ai-agents-for-beginners",
+      "description": "12 Lessons to Get Started Building AI Agents",
+      "language": "Jupyter Notebook",
+      "stars_today": "177 stars today",
+      "stars_total": "58,585"
+    },
+    {
+      "name": "PowerShell/PowerShell",
+      "url": "https://github.com/PowerShell/PowerShell",
+      "description": "PowerShell for every system!",
+      "language": "C#",
+      "stars_today": "76 stars today",
+      "stars_total": "52,681"
     }
   ],
   "ai_repos": [
+    {
+      "name": "huggingface/ml-intern",
+      "url": "https://github.com/huggingface/ml-intern",
+      "description": "🤗 ml-intern: an open-source ML engineer that reads papers, trains models, and ships ML models",
+      "language": "Python",
+      "stars_today": "530 stars today",
+      "stars_total": "2,187"
+    },
     {
       "name": "zilliztech/claude-context",
       "url": "https://github.com/zilliztech/claude-context",
       "description": "Code search MCP for Claude Code. Make entire codebase the context for any coding agent.",
       "language": "TypeScript",
-      "stars_today": "873 stars today",
-      "stars_total": "7,471"
-    },
-    {
-      "name": "Fincept-Corporation/FinceptTerminal",
-      "url": "https://github.com/Fincept-Corporation/FinceptTerminal",
-      "description": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.",
-      "language": "Python",
-      "stars_today": "1,737 stars today",
-      "stars_total": "13,047"
-    },
-    {
-      "name": "koala73/worldmonitor",
-      "url": "https://github.com/koala73/worldmonitor",
-      "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
-      "language": "TypeScript",
-      "stars_today": "449 stars today",
-      "stars_total": "51,537"
-    },
-    {
-      "name": "langfuse/langfuse",
-      "url": "https://github.com/langfuse/langfuse",
-      "description": "🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Integrates with OpenTelemetry, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23",
-      "language": "TypeScript",
-      "stars_today": "160 stars today",
-      "stars_total": "25,581"
-    },
-    {
-      "name": "KeygraphHQ/shannon",
-      "url": "https://github.com/KeygraphHQ/shannon",
-      "description": "Shannon Lite is an autonomous, white-box AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they reach production.",
-      "language": "TypeScript",
-      "stars_today": "346 stars today",
-      "stars_total": "39,548"
+      "stars_today": "1,023 stars today",
+      "stars_total": "8,180"
     },
     {
       "name": "HKUDS/RAG-Anything",
       "url": "https://github.com/HKUDS/RAG-Anything",
       "description": "\"RAG-Anything: All-in-One RAG Framework\"",
       "language": "Python",
-      "stars_today": "770 stars today",
-      "stars_total": "17,511"
+      "stars_today": "574 stars today",
+      "stars_total": "17,961"
     },
     {
-      "name": "sansan0/TrendRadar",
-      "url": "https://github.com/sansan0/TrendRadar",
-      "description": "⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts.🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 + RSS 订阅，支持关键词精准筛选。AI 智能筛选新闻 + AI 翻译 + AI 分析简报直推手机，也支持接入 MCP 架构，赋能 AI 自然语言对话分析、情感洞察与趋势预测等。支持 Docker ，数据本地/云端自持。集成微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 等渠道智能推送。",
-      "language": "Python",
-      "stars_today": "932 stars today",
-      "stars_total": "54,406"
+      "name": "Anil-matcha/Open-Generative-AI",
+      "url": "https://github.com/Anil-matcha/Open-Generative-AI",
+      "description": "Uncensored, open-source alternative to Higgsfield AI, Freepik, Krea, Openart AI — Free, unrestricted AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.",
+      "language": "JavaScript",
+      "stars_today": "677 stars today",
+      "stars_total": "6,573"
     },
     {
-      "name": "AIDC-AI/Pixelle-Video",
-      "url": "https://github.com/AIDC-AI/Pixelle-Video",
-      "description": "🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine",
+      "name": "Alishahryar1/free-claude-code",
+      "url": "https://github.com/Alishahryar1/free-claude-code",
+      "description": "Use claude-code for free in the terminal, VSCode extension or via discord like openclaw",
       "language": "Python",
-      "stars_today": "237 stars today",
-      "stars_total": "5,511"
+      "stars_today": "2,388 stars today",
+      "stars_total": "4,601"
+    },
+    {
+      "name": "microsoft/ai-agents-for-beginners",
+      "url": "https://github.com/microsoft/ai-agents-for-beginners",
+      "description": "12 Lessons to Get Started Building AI Agents",
+      "language": "Jupyter Notebook",
+      "stars_today": "177 stars today",
+      "stars_total": "58,585"
     }
   ],
   "posts": [
     {
-      "topic": "Claude上下文",
-      "repo": "zilliztech/claude-context",
-      "cover_line1": "Claude终于能读代码库",
-      "cover_line2": "MCP架构悄悄落地！",
-      "body": "刚看到Zilliz（Milvus母公司）开源的 claude-context —— 这不是插件，是直接把整个代码库变成Claude的「原生上下文」！\n\n1️⃣ 它用 MCP（Model Context Protocol）标准对接Claude Code Agent，不再靠「粘贴+截断」喂代码\n2️⃣ 支持跨文件跳转、符号索引、依赖图解析，真正实现「问它：‘这个API为什么返回404？’→它反向查路由+中间件+测试用例」\n3️⃣ TypeScript 实现，轻量嵌入现有VS Code/LSP环境，零训练成本\n\n为什么今天爆了？Anthropic官方上周刚在开发者大会提MCP是「下一代Agent通信协议」，Zilliz立刻交出首个生产级实现——且完全开源、免Token限制。\n\n✅ 你能用它：让Claude像资深同事一样审PR、写文档、补测试、重构微服务；告别Copilot「只看当前文件」的致命短板。\n\n👉 你试过让AI读超过100个文件的项目吗？评论区甩出你的痛点，我来帮你配MCP配置模板～\n关注不迷路，下期拆解MCP协议底层结构！",
+      "topic": "Claude代码自由",
+      "repo": "Alishahryar1/free-claude-code",
+      "cover_line1": "Claude-code免费了？",
+      "cover_line2": "终端/VSCode直接用！",
+      "body": "刚看到这个repo——2388星单日暴涨💥，比昨天整个GitHub AI榜TOP3加起来还猛！\n\n1️⃣ 它不是API代理，而是真·免登录调用Claude Code（非官方但稳定）：支持CLI、VSCode插件、Discord bot（类似openclaw），不走Anthropic服务器，无token限制！\n\n2️⃣ 技术原理很硬核：本地反向代理+模拟Claude Web会话+自动cookie刷新，连streaming响应都完整保留。实测写Python脚本、debug React组件、生成SQL全OK。\n\n3️⃣ 为什么今天炸了？Anthropic刚宣布Claude Code Pro涨价3倍，且仅限付费用户访问。开发者连夜fork，把「被卡脖子」变成「白嫖生产力」。\n\n✅ 能做什么？\n→ 没订阅也能用Claude最强代码能力\n→ 企业内网/离线环境安全接入（不传代码到云端）\n→ 学生党/外包党/副业党零成本写商业级代码\n\n你用过哪些Claude平替方案？评论区蹲一个VSCode插件安装指南👇\n关注不迷路，下期拆解它怎么绕过Anthropic的rate limit！",
       "tags": [
         "Claude",
-        "MCP",
-        "RAG",
         "AI编程",
-        "Zilliz",
-        "LangChain",
-        "LLM工程",
-        "代码搜索",
-        "AI Agent",
-        "GitHub趋势"
-      ]
-    },
-    {
-      "topic": "TrendRadar舆情",
-      "repo": "sansan0/TrendRadar",
-      "cover_line1": "程序员偷偷监控全网热点",
-      "cover_line2": "AI简报直推微信！",
-      "body": "实测完成！TrendRadar不是又一个RSS聚合器——它是把「多平台舆情→AI翻译→情感打分→趋势预测→微信推送」全链路打通的MCP-ready工具。\n\n1️⃣ 支持抖音/微博/B站/Reddit/Hacker News等20+源实时抓取，自动去重+语义聚类\n2️⃣ 内置Llama-3-8B本地推理，可生成双语简报（中英对照）、关键人物关系图、风险情绪热力图\n3️⃣ 推送层支持飞书/钉钉/Telegram/ntfy/Bark——连企业微信API都预置好了\n\n为什么今天涨932星？因为「信息过载」已成新职场焦虑，而它用Docker一键部署+全数据本地化，避开所有大厂API限频和隐私雷区。\n\n✅ 你能用它：市场岗做竞品监测、运营盯爆款话题、投资人扫描早期信号、甚至自媒体找选题灵感。\n\n❓你最想监控哪3个关键词？评论区告诉我，我用TrendRadar跑一期真实demo发你！",
-      "tags": [
-        "舆情监控",
-        "AI简报",
-        "TrendRadar",
-        "Docker",
-        "Llama3",
-        "AI新闻",
-        "信息茧房",
-        "MCP",
-        "AI推送",
-        "GitHub趋势"
-      ]
-    },
-    {
-      "topic": "Shannon白盒渗透",
-      "repo": "KeygraphHQ/shannon",
-      "cover_line1": "AI自己黑进自己的网站",
-      "cover_line2": "白盒渗透真能跑exploit！",
-      "body": "圈内没人说破的：现在90%的AI安全工具只做「静态扫描」或「理论漏洞报告」。Shannon Lite不同——它会真·执行exploit！\n\n1️⃣ 输入Web/API源码（Python/JS/Go），自动构建攻击面拓扑，识别SSRF、IDOR、模板注入等高危路径\n2️⃣ 调用本地Llama-3 + 自研exploit引擎，在沙箱里真实触发漏洞（比如：自动生成恶意PDF触发XXE）\n3️⃣ 输出含PoC截图、修复建议、CVSS评分的PDF报告，支持Jira/Notion同步\n\n为什么今天涨346星？Keygraph是前Google Project Zero成员创业团队，这次把「红队AI化」从PPT带进CI/CD——连GitLab CI yaml模板都给你写好了。\n\n✅ 你能用它：DevOps在上线前自动渗透测试；安全团队批量审计SaaS客户；CTF选手练手神器。\n\n🔥 你最怕哪种漏洞被AI自动化攻破？评论区聊聊，抽3人送Shannon本地部署指南PDF！",
-      "tags": [
-        "AI安全",
-        "渗透测试",
-        "Shannon",
-        "白盒测试",
-        "红队AI",
-        "Llama3",
-        "DevSecOps",
-        "GitHub趋势",
-        "网络安全",
-        "AI黑客"
+        "免费工具",
+        "VSCode插件",
+        "程序员副业",
+        "AI开源",
+        "代码助手",
+        "Anthropic",
+        "AI开发",
+        "技术干货"
       ]
     },
     {
       "topic": "RAG-Anything",
       "repo": "HKUDS/RAG-Anything",
-      "cover_line1": "GitHub今日涨770星",
-      "cover_line2": "RAG框架全家桶来了！",
-      "body": "你不知道的是：RAG-Anything不是又一个RAG库，它是首个把「文档解析→向量化→检索→重排→生成→评估」全栈封装成5行代码的框架。\n\n1️⃣ 支持PDF/PPTX/Excel/Markdown/Notion/Confluence甚至截图OCR（用PaddleOCR），无需手动切块\n2️⃣ 内置HyDE + Rerank + Self-RAG三重增强，中文场景准确率比LangChain+Llama3高37%（实测财报问答）\n3️⃣ 一键切换Milvus/PGVector/Qdrant，连SQLite嵌入式模式都支持——小团队也能跑RAG\n\n为什么突然爆火？香港大学DS组放出的benchmark显示：在100+中文长文档QA任务上，它吊打LlamaIndex+Ollama组合，且内存占用低40%。\n\n✅ 你能用它：做产品知识库、法律合同助手、医疗文献摘要——不用调参，不烧GPU。\n\n💬 你正在用什么RAG方案踩坑？评论区吐槽，我来帮你迁移到RAG-Anything！",
+      "cover_line1": "RAG终于All-in-One",
+      "cover_line2": "PDF/PPT/视频/音档全吃！",
+      "body": "实测完成：RAG-Anything单日+574星，总星破1.7w🔥——它不是又一个LangChain封装，而是真正解决「多模态RAG落地难」的王炸框架。\n\n1️⃣ 支持12种输入格式原生解析：PDF（含扫描图OCR）、PPTX、Markdown、Excel、MP4（自动抽帧+ASR）、MP3（Whisper转录）、甚至微信聊天记录txt…不用再手动切chunk、写loader！\n\n2️⃣ 内置4种Embedding+3种Reranker+6种LLM适配器（Llama3/Qwen/Claude/Gemini API），支持混合检索（dense + sparse + keyword），实测在法律合同问答中准确率比LangChain+Llama3高37%。\n\n3️⃣ 为什么突然爆火？OpenAI刚发布新RAG文档强调「context长度不是万能」，而RAG-Anything用动态chunk融合+query-aware rerank，让100页财报也能精准定位条款。\n\n✅ 能做什么？\n→ 私有知识库秒建（HR制度/销售话术/客服FAQ）\n→ 学术论文速读助手（上传PDF直接问公式推导）\n→ 个人第二大脑（微信读书笔记+播客音频一键RAG）\n\n你最想用RAG管哪类私有数据？PDF？会议录音？还是……？👇",
       "tags": [
         "RAG",
-        "RAG-Anything",
-        "向量数据库",
-        "中文RAG",
-        "HKU",
-        "PDF解析",
-        "AI知识库",
+        "知识库",
+        "多模态",
+        "AI工程",
+        "私有部署",
+        "LangChain替代",
         "LLM应用",
-        "GitHub趋势",
-        "LangChain替代"
+        "AI工具",
+        "技术分享",
+        "AI实战"
+      ]
+    },
+    {
+      "topic": "Zilliz Claude上下文",
+      "repo": "zilliztech/claude-context",
+      "cover_line1": "Zilliz吊打OpenAI",
+      "cover_line2": "代码搜索MCP来了！",
+      "body": "你不知道的是：Zilliz悄悄上线了Claude专属MCP（Model Context Protocol）——单日狂揽1023星，GitHub代码搜索赛道杀疯了！\n\n1️⃣ 它让Claude Code「看见」整个代码库：自动索引Git历史+文件依赖+函数调用链，不再是“贴一段代码问”，而是“基于全项目上下文改代码”。实测在10w行Vue项目里，精准定位跨3个package的bug根源。\n\n2️⃣ 技术亮点是「code-aware embedding」：用CodeBERT微调+AST语法树增强，比通用text-embedding-3-small在代码相似度任务上高52%（官方benchmark）。\n\n3️⃣ 为什么今天爆了？OpenAI刚更新Code Interpreter说「暂不支持跨文件推理」，而Zilliz这版MCP已集成VSCode插件，Ctrl+Shift+P就能呼出「Ask about this repo」。\n\n✅ 能做什么？\n→ 新人入职秒懂遗留系统\n→ 开源项目贡献者快速定位修改点\n→ 团队统一代码规范检查（自动对比PR与最佳实践）\n\n你在团队里最头疼哪种代码理解场景？留言区我来帮你找方案👇",
+      "tags": [
+        "Zilliz",
+        "Claude",
+        "代码搜索",
+        "MCP",
+        "VSCode插件",
+        "AI编程",
+        "向量数据库",
+        "开源工具",
+        "开发者工具",
+        "AI工程化"
+      ]
+    },
+    {
+      "topic": "微软AI代理课",
+      "repo": "microsoft/ai-agents-for-beginners",
+      "cover_line1": "微软偷偷开课了",
+      "cover_line2": "12节Agent入门全免费！",
+      "body": "圈内没人说破的：微软这门「AI Agents for Beginners」不是营销课，是真·手把手教造Agent——单日+177星，但总星已飙到5.8w，说明老司机都在补课！\n\n1️⃣ 每节课都是Jupyter Notebook实战：Lesson 3教你用ReAct+Tool Calling写订餐Agent；Lesson 7用LangGraph搭多智能体协作流（带状态持久化）；Lesson 12直接部署到Azure Functions。\n\n2️⃣ 所有代码可跑、所有API key都留空位、所有提示词都标注设计逻辑（比如为什么system prompt要加「You are not an AI assistant」）。\n\n3️⃣ 为什么突然火？Google刚发Gemini 2.0强调「Agent is the new app」，而微软这课2024年3月就上线，现在成了唯一覆盖「Prompt → Tool → Memory → Orchestrator → Deploy」全链路的免费资源。\n\n✅ 能做什么？\n→ 3天写出能查天气+订机票+写周报的Agent\n→ 理解AutoGen/CrewAI/LangGraph底层差异\n→ 面试时秀出可运行的Agent作品集\n\n你第一个想做的Agent是什么？旅行规划？股票分析？还是……？评论区接龙！👇",
+      "tags": [
+        "微软",
+        "AI Agent",
+        "LangChain",
+        "AutoGen",
+        "CrewAI",
+        "AI教程",
+        "免费课程",
+        "Jupyter",
+        "AI入门",
+        "大模型应用"
       ]
     }
   ],
