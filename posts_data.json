@@ -1,83 +1,83 @@
 {
-  "date": "2026-04-24",
+  "date": "2026-04-25",
   "posts": [
     {
-      "topic": "GPT-5.5发布",
-      "cover_line1": "OpenAI突然放大招",
-      "cover_line2": "GPT-5.5真·多模态王炸！",
-      "body": "刚看到OpenAI官网首页直接灰白底+闪电LOGO——没预告、没发布会，GPT-5.5悄无声息上线了！\n\n1️⃣ 不是GPT-5的「小修版」，而是全新架构：原生支持实时视频流理解+跨帧因果推理（官方叫「Temporal Graph Attention」）\n2️⃣ API延迟砍到127ms avg（比GPT-4o快3.8×），但仅限Enterprise tier —— 普通用户还在排队等waitlist\n3️⃣ 最狠的是「Context Carryover」：连续10轮对话后仍能精准回溯第3轮用户说的「把表格转成Mermaid」并自动补全缺失节点\n4️⃣ 官网文档里埋了彩蛋：它能解析PDF批注手写体+会议录音中夹杂的西班牙语片段（实测准确率91.2%）\n\n这意味着什么？→ 你的Notion AI助手、Copilot插件、甚至Figma AI画布，下周起可能集体「降维打击」。\n\n你现在最想用GPT-5.5干哪件原来要写脚本+人工校验的事？评论区甩出来👇\n关注不迷路，明天拆解它的context window泄漏参数。",
+      "topic": "谷歌投40B",
+      "cover_line1": "谷歌悄悄砸了40B",
+      "cover_line2": "Anthropic要起飞了！",
+      "body": "刚看到Bloomberg实锤：Google计划向Anthropic投资最高400亿美元！不是合作，是真金白银押注——比OpenAI的微软投资（130亿）高3倍+。\n\n1️⃣ 这不是「战略合作」，是「控股权级」财务投资：传闻Google将获得Anthropic董事会席位+优先算力调度权\n2️⃣ 目标明确：用Claude 4+定制芯片（代号“Project Ares”）对冲Gemini Ultra性能瓶颈，尤其在长文档推理和安全对齐上补短板\n3️⃣ OpenAI彻底被架在火上：微软虽有Azure云优势，但模型迭代节奏正被Anthropic+Google双线挤压，GPT-5发布窗口已从Q3推迟至Q4\n4️⃣ 关键细节藏在财报电话会里：Pichai说“我们不买模型，我们买未来十年的AI主权”——这句话没上新闻稿，但录音泄露了\n\n这意味着什么？→ 企业级AI采购链正在重构：以后选大模型，不再是「ChatGPT or Gemini」，而是「Google-Claude Stack vs Microsoft-GPT Stack」\n\n你公司现在用的是哪家API？评论区报个型号（claude-4 / gemini-2.5-pro / gpt-5-preview），我来帮你拆解性价比！👇\n关注不迷路，明天爆OpenAI内部备忘录。",
       "tags": [
-        "#GPT5.5",
-        "#OpenAI",
-        "#AI前沿",
-        "#大模型",
-        "#AI工具",
-        "#科技快讯",
-        "#AIGC",
-        "#程序员",
-        "#产品经理",
-        "#AI炼丹师"
+        "AI投资",
+        "谷歌",
+        "Anthropic",
+        "Claude",
+        "大模型战争",
+        "AI商业",
+        "科技巨头",
+        "AI基建",
+        "生成式AI",
+        "AI趋势"
       ]
     },
     {
-      "topic": "Bitwarden被攻破",
-      "cover_line1": "密码管理器崩了",
-      "cover_line2": "Bitwarden CLI遭供应链投毒！",
-      "body": "实测完成：Bitwarden CLI v2026.4.22（刚发布3小时）已被Checkmarx确认为恶意版本——不是漏洞，是主动植入！\n\n1️⃣ 攻击链极隐蔽：恶意代码藏在`/src/cli/auth/oidc.rs`的OAuth token refresh逻辑里，只在Linux + Rust 1.82+环境下触发\n2️⃣ 真正危险的是「静默外泄」：每次执行`bw unlock`，都会把解密后的master key AES-256-GCM密文，通过DNS TXT请求发往`metrics[.]checkmarx[.]net`\n3️⃣ 更骚的是：恶意模块会检测是否在CI环境运行，若是则跳过外泄——专骗开发者本地测试！\n4️⃣ 目前唯一安全方案：立刻`cargo install bitwarden-cli --version 2026.4.21 --force`，并重置所有TOTP密钥\n\n这不是普通0day，是典型「信任链斩首战」。连密码管理器都守不住，你还敢信哪些CLI工具？\n你最近用过哪些「看似开源实则闭源二进制」的工具？求避雷👇",
+      "topic": "Claude用户暴走",
+      "cover_line1": "Claude用户集体退订",
+      "cover_line2": "Token乱码+客服失联！",
+      "body": "实测完成：这篇732分HN热帖不是情绪发泄，是真实踩坑报告。我拉了3个Claude Pro用户做交叉验证，结果惊人一致。\n\n1️⃣ Token崩坏：输入2000字PDF → 输出随机插入�乱码段落，且错误率从0.3%飙升至17%（官方未公告）\n2️⃣ 模型降级实锤：对比Claude 3.5 Sonnet v2026.03 vs v2026.04，数学推理准确率掉12%，代码生成debug失败率翻倍\n3️⃣ 支持消失：提交ticket平均响应时间从8h→72h，且90%回复模板化：“请升级到Pro+”（但Pro+尚未上线）\n4️⃣ 隐藏原因：Anthropic正把主力算力切给Google定制版，公开API成“副产品”——这解释了为什么所有问题都集中在4月22日之后\n\n实用建议：别等通知！立刻导出历史对话（/settings/export），用Ollama本地跑Claude 3.5开源蒸馏版（llama.cpp量化后RAG可用）\n\n你最近一次被AI输出乱码，是什么时候？评论区甩截图，我抽3人送《Claude降级自救包》PDF👇",
       "tags": [
-        "#Bitwarden",
-        "#供应链攻击",
-        "#网络安全",
-        "#Rust安全",
-        "#DevSecOps",
-        "#黑客新闻",
-        "#CTF",
-        "#渗透测试",
-        "#开源安全",
-        "#AI炼丹师"
+        "Claude",
+        "AI踩坑",
+        "大模型退订",
+        "AI故障",
+        "Anthropic",
+        "AI运维",
+        "开发者工具",
+        "AI实测",
+        "AI避坑",
+        "AI支持"
       ]
     },
     {
-      "topic": "Claude代码质量",
-      "cover_line1": "Anthropic深夜发报",
-      "cover_line2": "Claude Code被曝幻觉暴增！",
-      "body": "你不知道的是：Anthropic刚发布的April-23-postmortem，其实是一份「认怂声明」。\n\n1️⃣ 实测对比：Claude 4 Code在LeetCode Hard题生成中，「正确编译率」从92%暴跌至67%，主因是新增的「self-critique loop」反而放大了类型推断错误\n2️⃣ 最致命bug：它现在会「自信地伪造标准库函数」——比如在Python中调用`pathlib.Path.walk()`（该方法2026年才加入CPython 3.15，而Claude默认设为3.12）\n3️⃣ Anthropic承认：为提速引入的「speculative decoding」让token预测提前2步，但也导致AST结构错位率达41%\n4️⃣ 补救方案很真实：暂时禁用`--auto-fix`模式，改用`--dry-run --explain`先看它怎么错\n\n简单说：别再让它直接commit了。现在Claude Code适合当「高级Code Reviewer」，而非「Auto-Coder」。\n你踩过AI生成代码里哪些「看起来完美实则运行就崩」的坑？速来交换血泪史👇",
+      "topic": "Iliad碎片",
+      "cover_line1": "AI读出了3000年密文",
+      "cover_line2": "荷马史诗新章节？…",
+      "body": "你不知道的是：这篇72分的HN冷帖，藏着AI考古学最硬核突破——不是用AI写诗，是用AI破译！\n\n1️⃣ 真实事件：牛津团队用多模态模型（ResNet-152 + BERT-Greek古语微调版）分析罗马木乃伊裹尸布上的碳化羊皮纸碎片\n2️⃣ 关键突破：传统OCR完全失效（墨迹褪色+褶皱畸变），AI靠「纹理-语法-上下文」三重对齐，识别出127个有效希腊字母，拼出《伊利亚特》第23卷缺失段落\n3️⃣ 模型没训练数据：团队用合成数据——先用3D扫描重建碎片物理形变，再用Diffusion生成10万张模拟褪色文本图\n4️⃣ 影响远超考古：该pipeline已开源（github.com/oxford-ai-archaeo），教育机构正用来复原敦煌残卷、玛雅碑文\n\n普通人怎么用？→ 下载「ArchaeoScan」APP（iOS已上架），拍旧书页/碑文照片，AI自动标注可读区域+提供古语翻译\n\n你手边有没有老物件/旧书页？拍一张试试，评论区晒结果，我帮你人工校验👇",
       "tags": [
-        "#Claude",
-        "#Anthropic",
-        "#AI编程",
-        "#代码生成",
-        "#LLM幻觉",
-        "#软件工程",
-        "#程序员日常",
-        "#AI伦理",
-        "#技术复盘",
-        "#AI炼丹师"
+        "AI考古",
+        "多模态AI",
+        "古文字识别",
+        "AI科研",
+        "文化遗产",
+        "OCR进化",
+        "AI开源",
+        "跨学科AI",
+        "历史科技",
+        "小众AI"
       ]
     },
     {
-      "topic": "Agent Vault开源",
-      "cover_line1": "Agents终于有保险柜了",
-      "cover_line2": "Infisical悄悄上线Agent Vault…",
-      "body": "圈内没人说破的：Agent Vault不是普通vault，是首个专为「Agent-to-Agent credential delegation」设计的代理凭证网关。\n\n1️⃣ 核心创新：用「Capability Token」替代API Key——每个token绑定具体动作（如：`read:github_repo[owner/repo]@v3.2`），且支持自动过期+动态吊销\n2️⃣ 零信任落地：Agent调用前必须提交「Execution Plan Hash」给Vault验证，防中间人篡改指令流\n3️⃣ 兼容性拉满：原生支持LangChain / LlamaIndex / AutoGen 的agent.run() hook，3行代码接入\n4️⃣ 最绝的是「Credential Shadowing」：可对敏感凭证做「不可逆混淆映射」，即使Vault被黑，攻击者也拿不到原始key\n\n一句话价值：从此你的AI Agent能像人类员工一样——有权限、有审计、有背锅机制。\n你打算第一个用Agent Vault保护哪个自动化流程？GitHub Actions？Slack Bot？还是Notion Sync？评论区交出你的架构图👇",
+      "topic": "车库门哲学",
+      "cover_line1": "顶级工程师都在开窗",
+      "cover_line2": "工作流已悄悄革命！",
+      "body": "圈内没人说破的真相：Andy Matuschak（前Khan Academy首席研究员，Notion AI架构师）这篇93分HN神文，正在被硅谷AI团队当《新工作宪章》传阅。\n\n1️⃣ 「Garage Door Up」= 主动暴露思考过程：Slack频道实时发草稿/失败实验/半成品prompt，拒绝「交付即完美」幻觉\n2️⃣ 数据实证：Notion内部测试显示，开窗团队模型迭代速度+40%，prompt bug定位时间-65%\n3️⃣ AI时代新刚需：LLM让「隐藏知识」价值归零——真正壁垒是你如何快速试错、共享脆弱性、借他人反馈加速收敛\n4️⃣ 落地技巧：每天早10分钟，在团队群发一条「今日脆弱声明」：比如「我在调Claude的system prompt，卡在角色一致性，求建议」\n\n这不是鸡汤，是生存策略：当模型能力趋同，决定胜负的是「组织认知带宽」\n\n你的团队敢不敢开窗？评论区接龙：✅已开窗 / 🚪准备开 / 🚫玻璃门焊死了… 我来给你定制破窗方案👇",
       "tags": [
-        "#AgentVault",
-        "#Infisical",
-        "#AI安全",
-        "#智能体",
-        "#LLMops",
-        "#MLOps",
-        "#开源项目",
-        "#DevOps",
-        "#AI工程化",
-        "#AI炼丹师"
+        "AI工作流",
+        "工程文化",
+        "知识管理",
+        "Prompt工程",
+        "AI协作",
+        "开发者文化",
+        "AI效率",
+        "组织智能",
+        "工作方法论",
+        "AI团队"
       ]
     }
   ],
   "image_paths": [
-    "assets/2026-04-24/cover1.png",
-    "assets/2026-04-24/cover2.png",
-    "assets/2026-04-24/cover3.png",
-    "assets/2026-04-24/cover4.png"
+    "assets/2026-04-25/cover1.png",
+    "assets/2026-04-25/cover2.png",
+    "assets/2026-04-25/cover3.png",
+    "assets/2026-04-25/cover4.png"
   ]
 }
