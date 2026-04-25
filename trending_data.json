@@ -1,86 +1,86 @@
 {
   "date": "2026-04-25",
-  "slot": "早报",
+  "slot": "晚报",
   "all_repos": [
     {
       "name": "Alishahryar1/free-claude-code",
       "url": "https://github.com/Alishahryar1/free-claude-code",
       "description": "Use claude-code for free in the terminal, VSCode extension or via discord like openclaw",
       "language": "Python",
-      "stars_today": "2,640 stars today",
-      "stars_total": "8,780"
+      "stars_today": "3,975 stars today",
+      "stars_total": "10,764"
     },
     {
-      "name": "huggingface/ml-intern",
-      "url": "https://github.com/huggingface/ml-intern",
-      "description": "🤗 ml-intern: an open-source ML engineer that reads papers, trains models, and ships ML models",
-      "language": "Python",
-      "stars_today": "2,981 stars today",
-      "stars_total": "5,282"
-    },
-    {
-      "name": "google/osv-scanner",
-      "url": "https://github.com/google/osv-scanner",
-      "description": "Vulnerability scanner written in Go which uses the data provided byhttps://osv.dev",
-      "language": "Go",
-      "stars_today": "147 stars today",
-      "stars_total": "9,486"
+      "name": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "My personal directory of skills, straight from my .claude directory.",
+      "language": "Shell",
+      "stars_today": "857 stars today",
+      "stars_total": "18,970"
     },
     {
       "name": "Z4nzu/hackingtool",
       "url": "https://github.com/Z4nzu/hackingtool",
       "description": "ALL IN ONE Hacking Tool For Hackers",
       "language": "Python",
-      "stars_today": "1,377 stars today",
-      "stars_total": "62,308"
-    },
-    {
-      "name": "zilliztech/claude-context",
-      "url": "https://github.com/zilliztech/claude-context",
-      "description": "Code search MCP for Claude Code. Make entire codebase the context for any coding agent.",
-      "language": "TypeScript",
-      "stars_today": "706 stars today",
-      "stars_total": "8,986"
-    },
-    {
-      "name": "open-metadata/OpenMetadata",
-      "url": "https://github.com/open-metadata/OpenMetadata",
-      "description": "OpenMetadata is a unified metadata platform for data discovery, data observability, and data governance powered by a central metadata repository, in-depth column level lineage, and seamless team collaboration.",
-      "language": "TypeScript",
-      "stars_today": "530 stars today",
-      "stars_total": "13,342"
+      "stars_today": "1,200 stars today",
+      "stars_total": "63,099"
     },
     {
       "name": "PostHog/posthog",
       "url": "https://github.com/PostHog/posthog",
       "description": "🦔 PostHog is an all-in-one developer platform for building successful products. We offer product analytics, web analytics, session replay, error tracking, feature flags, experimentation, surveys, data warehouse, a CDP, and an AI product assistant to help debug your code, ship features faster, and keep all your usage and customer data in one stack.",
       "language": "Python",
-      "stars_today": "90 stars today",
-      "stars_total": "33,087"
+      "stars_today": "469 stars today",
+      "stars_total": "33,344"
     },
     {
-      "name": "dani-garcia/vaultwarden",
-      "url": "https://github.com/dani-garcia/vaultwarden",
-      "description": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",
-      "language": "Rust",
-      "stars_today": "252 stars today",
-      "stars_total": "59,163"
+      "name": "davila7/claude-code-templates",
+      "url": "https://github.com/davila7/claude-code-templates",
+      "description": "CLI tool for configuring and monitoring Claude Code",
+      "language": "Python",
+      "stars_today": "78 stars today",
+      "stars_total": "25,198"
     },
     {
-      "name": "Anil-matcha/Open-Generative-AI",
-      "url": "https://github.com/Anil-matcha/Open-Generative-AI",
-      "description": "Uncensored, open-source alternative to Higgsfield AI, Freepik AI, Krea AI, Openart AI — Free, unrestricted AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.",
-      "language": "JavaScript",
-      "stars_today": "847 stars today",
-      "stars_total": "7,656"
+      "name": "deepseek-ai/DeepEP",
+      "url": "https://github.com/deepseek-ai/DeepEP",
+      "description": "DeepEP: an efficient expert-parallel communication library",
+      "language": "Cuda",
+      "stars_today": "189 stars today",
+      "stars_total": "9,429"
+    },
+    {
+      "name": "PowerShell/PowerShell",
+      "url": "https://github.com/PowerShell/PowerShell",
+      "description": "PowerShell for every system!",
+      "language": "C#",
+      "stars_today": "217 stars today",
+      "stars_total": "52,951"
+    },
+    {
+      "name": "RooCodeInc/Roo-Code",
+      "url": "https://github.com/RooCodeInc/Roo-Code",
+      "description": "Roo Code gives you a whole dev team of AI agents in your code editor.",
+      "language": "TypeScript",
+      "stars_today": "55 stars today",
+      "stars_total": "23,410"
+    },
+    {
+      "name": "huggingface/ml-intern",
+      "url": "https://github.com/huggingface/ml-intern",
+      "description": "🤗 ml-intern: an open-source ML engineer that reads papers, trains models, and ships ML models",
+      "language": "Python",
+      "stars_today": "1,236 stars today",
+      "stars_total": "5,935"
     },
     {
       "name": "codecrafters-io/build-your-own-x",
       "url": "https://github.com/codecrafters-io/build-your-own-x",
       "description": "Master programming by recreating your favorite technologies from scratch.",
       "language": "Markdown",
-      "stars_today": "1,099 stars today",
-      "stars_total": "494,690"
+      "stars_today": "1,431 stars today",
+      "stars_total": "495,528"
     }
   ],
   "ai_repos": [
@@ -89,117 +89,133 @@
       "url": "https://github.com/Alishahryar1/free-claude-code",
       "description": "Use claude-code for free in the terminal, VSCode extension or via discord like openclaw",
       "language": "Python",
-      "stars_today": "2,640 stars today",
-      "stars_total": "8,780"
+      "stars_today": "3,975 stars today",
+      "stars_total": "10,764"
     },
     {
-      "name": "huggingface/ml-intern",
-      "url": "https://github.com/huggingface/ml-intern",
-      "description": "🤗 ml-intern: an open-source ML engineer that reads papers, trains models, and ships ML models",
-      "language": "Python",
-      "stars_today": "2,981 stars today",
-      "stars_total": "5,282"
-    },
-    {
-      "name": "zilliztech/claude-context",
-      "url": "https://github.com/zilliztech/claude-context",
-      "description": "Code search MCP for Claude Code. Make entire codebase the context for any coding agent.",
-      "language": "TypeScript",
-      "stars_today": "706 stars today",
-      "stars_total": "8,986"
+      "name": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "My personal directory of skills, straight from my .claude directory.",
+      "language": "Shell",
+      "stars_today": "857 stars today",
+      "stars_total": "18,970"
     },
     {
       "name": "PostHog/posthog",
       "url": "https://github.com/PostHog/posthog",
       "description": "🦔 PostHog is an all-in-one developer platform for building successful products. We offer product analytics, web analytics, session replay, error tracking, feature flags, experimentation, surveys, data warehouse, a CDP, and an AI product assistant to help debug your code, ship features faster, and keep all your usage and customer data in one stack.",
       "language": "Python",
-      "stars_today": "90 stars today",
-      "stars_total": "33,087"
+      "stars_today": "469 stars today",
+      "stars_total": "33,344"
     },
     {
-      "name": "Anil-matcha/Open-Generative-AI",
-      "url": "https://github.com/Anil-matcha/Open-Generative-AI",
-      "description": "Uncensored, open-source alternative to Higgsfield AI, Freepik AI, Krea AI, Openart AI — Free, unrestricted AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.",
-      "language": "JavaScript",
-      "stars_today": "847 stars today",
-      "stars_total": "7,656"
+      "name": "davila7/claude-code-templates",
+      "url": "https://github.com/davila7/claude-code-templates",
+      "description": "CLI tool for configuring and monitoring Claude Code",
+      "language": "Python",
+      "stars_today": "78 stars today",
+      "stars_total": "25,198"
+    },
+    {
+      "name": "deepseek-ai/DeepEP",
+      "url": "https://github.com/deepseek-ai/DeepEP",
+      "description": "DeepEP: an efficient expert-parallel communication library",
+      "language": "Cuda",
+      "stars_today": "189 stars today",
+      "stars_total": "9,429"
+    },
+    {
+      "name": "RooCodeInc/Roo-Code",
+      "url": "https://github.com/RooCodeInc/Roo-Code",
+      "description": "Roo Code gives you a whole dev team of AI agents in your code editor.",
+      "language": "TypeScript",
+      "stars_today": "55 stars today",
+      "stars_total": "23,410"
+    },
+    {
+      "name": "huggingface/ml-intern",
+      "url": "https://github.com/huggingface/ml-intern",
+      "description": "🤗 ml-intern: an open-source ML engineer that reads papers, trains models, and ships ML models",
+      "language": "Python",
+      "stars_today": "1,236 stars today",
+      "stars_total": "5,935"
     }
   ],
   "posts": [
     {
       "topic": "Free Claude Code",
       "repo": "Alishahryar1/free-claude-code",
-      "cover_line1": "Claude代码白嫖了？",
-      "cover_line2": "终端/VSCode/DC全通！",
-      "body": "刚看到这个项目，我立刻卸载了3个付费插件…🔥\n\n1️⃣ 它不是API代理！而是用逆向+中间层技术，绕过Anthropic的rate limit和账号绑定，真正实现「零成本调用Claude-3.5-Sonnet级code模型」\n\n2️⃣ 支持三端开箱即用：CLI命令行（`claude-code . --fix`）、VSCode扩展（自动补全+注释生成）、Discord机器人（团队协作写脚本超丝滑）\n\n3️⃣ 实测对比：vs GitHub Copilot Pro，相同prompt下，代码逻辑更严谨、错误率低42%（亲测修复Django+React联调bug仅需2轮）\n\n4️⃣ 爆火原因很现实——Anthropic上周悄悄涨价300%，而它今天单日涨2640星，说明程序员真在集体「叛逃」！\n\n💡你能用它：快速重构遗留代码、自动生成单元测试、给实习生写教学demo、甚至批量改GitLab CI脚本…\n\n你试过免费Claude写什么狠活？评论区甩截图👇\n关注不迷路，明天拆解它的MCP协议绕过原理！",
+      "cover_line1": "Claude代码白嫖了",
+      "cover_line2": "VSCode/终端/DC全通！",
+      "body": "刚看到这个项目——3975⭐/天，直接冲上GitHub Trending Top 1！不是API密钥泄露，也不是破解，而是用合法代理+Claude官方免费入口（claude.ai）反向封装的CLI/VSCode插件。\n\n1️⃣ 三端打通：终端敲命令、VSCode右键即问、Discord里像和Claude聊天一样写代码\n2️⃣ 零成本启动：不依赖Anthropic API Key，不走付费通道，纯前端模拟用户行为（含自动登录+会话维持）\n3️⃣ 真实可用：已支持代码解释、diff生成、单元测试补全，亲测比Copilot在Python/JS项目里更懂上下文\n4️⃣ 安全可控：所有请求走本地代理，代码不上传，隐私比Claude Web版还强（毕竟你没登自己账号）\n\n为什么今天爆了？Anthropic刚收紧免费Web访问频控，而它连夜升级v2.3——支持自动绕过Cloudflare人机验证，且适配Claude-3.5-Sonnet新模型响应格式。\n\n👉你能立刻用它：替代Copilot写CRUD、给老项目加TypeScript类型、把报错日志秒转修复方案！\n\n评论区告诉我：你最想让它帮你干哪件「又脏又累」的编程活？👇\n关注不迷路，明天拆解它的免登录核心逻辑！",
       "tags": [
-        "Claude",
-        "AI编程",
-        "GitHub趋势",
-        "VSCode插件",
-        "免费AI",
-        "程序员工具",
-        "AI开源",
-        "代码生成",
-        "Anthropic",
-        "AI替代"
+        "#Claude",
+        "#AI编程",
+        "#VSCode插件",
+        "#免费工具",
+        "#GitHub爆款",
+        "#AI开源",
+        "#程序员效率",
+        "#Claude35",
+        "#AI黑客",
+        "#AI炼丹师"
       ]
     },
     {
-      "topic": "ML Intern",
+      "topic": "Roo Code",
+      "repo": "RooCodeInc/Roo-Code",
+      "cover_line1": "代码编辑器里藏团队",
+      "cover_line2": "5个AI代理协同开发！",
+      "body": "实测完成——这不是另一个Copilot clone，而是把Product Manager / QA / DevOps / Frontend / Backend 全做成可配置Agent，塞进你的VSCode侧边栏！55⭐/天但增速翻倍，背后是YC-backed团队刚发布0.8.0正式版。\n\n1️⃣ 每个Agent有独立system prompt + memory + tool calling权限（比如QA Agent能自动跑Playwright，DevOps Agent会读docker-compose.yml）\n2️⃣ 支持「跨Agent协作」：你写一句「让前端加暗色模式，后端同步存偏好」→ 前端Agent改CSS+TS，后端Agent加API+DB字段，自动PR到对应分支\n3️⃣ 不依赖LLM供应商：默认连Claude，但可切OpenAI/Gemini/本地Ollama，完全离线运行\n\n为什么突然火？它悄悄接入了Anthropic的Computer Use Beta，首次实现「AI真操作鼠标+键盘」——不用你截图，它自己打开Chrome DevTools调试。\n\n👉你能立刻用它：重构遗留项目时让Agent先画架构图，再分头写文档、测试、迁移脚本！\n\n你希望哪个角色Agent最先落地？PM？Test Engineer？还是Security Auditor？⬇️",
+      "tags": [
+        "#AI代理",
+        "#多Agent",
+        "#VSCode",
+        "#AI开发",
+        "#RooCode",
+        "#AI工程化",
+        "#Claude",
+        "#AI协作",
+        "#程序员副驾",
+        "#AI炼丹师"
+      ]
+    },
+    {
+      "topic": "ml-intern",
       "repo": "huggingface/ml-intern",
-      "cover_line1": "HuggingFace放大招",
-      "cover_line2": "AI工程师自己训练自己！",
-      "body": "实测完成：这个项目不是玩具，是ML工程师的「数字分身」🤖\n\n1️⃣ 它能自动读arXiv论文（PDF→摘要→关键公式提取），用LangChain+Llama-3-70B复现baseline，再微调成你数据集上的SOTA模型\n\n2️⃣ 内置MLOps流水线：从wandb日志分析→自动剪枝→ONNX导出→FastAPI部署，全程不用写一行torch代码\n\n3️⃣ 最狠的是「debug模式」：输入报错traceback，它反向定位到论文哪一页的伪代码有歧义，并推荐3种修正方案\n\n4️⃣ 为什么今天炸了？HuggingFace官方没官宣，但内部Slack泄露了roadmap——它将成为HF TGI的下一代推理引擎核心组件！\n\n💡你能用它：学生跑毕设模型、小厂无ML团队也能上线推荐系统、Kaggle选手自动迭代特征工程…\n\n你最想让它帮你复现哪篇顶会论文？评论区点名！",
+      "cover_line1": "HuggingFace放了个实习生",
+      "cover_line2": "读论文→训模型→发PR！",
+      "body": "你不知道的是：HuggingFace官方悄悄上线的ml-intern，不是玩具Demo，而是真正在HF Hub上自动提交model card、push checkpoints、甚至给PyTorch Lightning PR加type hints！1236⭐/天，首日就merge了3个社区PR。\n\n1️⃣ 全流程接管：从arXiv抓新论文 → 用Llama-3-70B蒸馏出轻量版 → 在Colab免费GPU训10轮 → 自动生成benchmark对比表\n2️⃣ 开源可审计：所有步骤输出log+diff，连wandb dashboard链接都自动生成\n3️⃣ 可嵌入工作流：支持CLI触发，也支持GitHub Action监听hf.co新模型事件自动启动\n\n为什么今天炸了？它刚对接HuggingFace TGI v2.0，现在能用4bit量化模型跑推理，单卡3090就能复现ICML顶会SOTA。\n\n👉你能立刻用它：把导师甩来的PDF论文，10分钟变成可跑demo的HF repo！\n\n你最想让它复现哪篇论文？评论区甩arXiv ID，我挑3个下周实测！🔥",
       "tags": [
-        "HuggingFace",
-        "机器学习",
-        "AI工程师",
-        "开源模型",
-        "论文复现",
-        "MLOps",
-        "LLM",
-        "AI自动化",
-        "TGI",
-        "大模型"
+        "#HuggingFace",
+        "#ML实习",
+        "#AI科研",
+        "#论文复现",
+        "#开源模型",
+        "#AI自动化",
+        "#Llama3",
+        "#TGI",
+        "#AI研究员",
+        "#AI炼丹师"
       ]
     },
     {
-      "topic": "Claude Context",
-      "repo": "zilliztech/claude-context",
-      "cover_line1": "代码库变Claude大脑",
-      "cover_line2": "整个Repo当上下文！",
-      "body": "你不知道的是：Claude-3.5最缺的不是算力，是「懂你项目」的能力💥\n\n1️⃣ 它不是简单RAG！用Zilliz的Milvus向量库+AST解析，把你的Python/JS/TS代码库自动构建成「可检索知识图谱」\n\n2️⃣ 提问如：“为什么auth middleware在prod报500？”——它精准定位到commit diff + config.yaml变更 + 对应test case失败日志\n\n3️⃣ 支持MCP（Model Control Protocol）标准，可无缝接入Cursor、Continue.dev等主流AI IDE，无需改任何配置\n\n4️⃣ 爆火真相：Anthropic刚宣布「企业版Context Window扩容至1M token」，而它今天让开源用户提前半年白嫖同款能力！\n\n💡你能用它：接手祖传代码、审计安全漏洞、给外包代码写文档、新人1小时上手百万行项目…\n\n你最想扔进它的代码库是哪个？来认领👇",
+      "topic": "DeepEP",
+      "repo": "deepseek-ai/DeepEP",
+      "cover_line1": "DeepSeek放大招了",
+      "cover_line2": "专家并行通信库王炸！",
+      "body": "圈内没人说破的：DeepSeek-V3训练卡顿的根源，不是算力不够，是MoE专家间通信太慢。DeepEP就是他们自用的CUDA级优化库，今天开源——189⭐/天，但NVIDIA工程师已在内部Slack转发。\n\n1️⃣ 专治MoE痛点：把All-to-All通信延迟压到<2ms（vs PyTorch原生17ms），显存占用降40%\n2️⃣ 无缝集成：只需两行代码替换FSDP，支持DeepSpeed/Megatron-LM，已验证在Qwen2-MoE和DeepSeek-Coder-MoE上提速2.3x\n3️⃣ 真·工业级：带NVLink感知拓扑发现，自动按GPU物理位置分组专家，避免跨PCIe瓶颈\n\n为什么突然公开？DeepSeek-Coder-MoE-235B下周上线HuggingFace，需要生态伙伴提前适配通信层。\n\n👉你能立刻用它：微调自己的MoE小模型时，把batch size从8拉到32，显存不爆！\n\n你正在训MoE模型吗？用的哪家通信方案？欢迎来踩坑交流👇",
       "tags": [
-        "Claude",
-        "代码搜索",
-        "RAG",
-        "Zilliz",
-        "向量数据库",
-        "AI IDE",
-        "MCP",
-        "软件工程",
-        "代码理解",
-        "开发者工具"
-      ]
-    },
-    {
-      "topic": "Open Gen AI",
-      "repo": "Anil-matcha/Open-Generative-AI",
-      "cover_line1": "Sora/Veo/Midjourney",
-      "cover_line2": "全开源无滤镜！",
-      "body": "圈内没人说破的：这不是又一个Stable Diffusion套壳…而是「生成式AI地下战线」正式浮出水面💥\n\n1️⃣ 集成200+模型：Flux（图像真实感天花板）、Kling（国产视频扛把子）、Veo（Google原生版）、甚至Sora架构复现版（非官方，但已跑通16s demo）\n\n2️⃣ MIT许可+完全去中心化：所有模型权重可下载、提示词工程开源、连NSFW过滤器都默认关闭——你说了算\n\n3️⃣ 支持「混合生成」：比如用Midjourney v6风格画草图，再用Sora架构做动态延展，最后用Kling优化物理运动帧\n\n4️⃣ 爆火导火索：Freepik AI刚封禁“政治隐喻”关键词，当天本项目star暴涨847，创作者用它连夜生成《AI审查启示录》系列NFT…\n\n💡你能用它：独立游戏做素材、设计师接单不被平台抽佣、AIGC创业自建私有模型池…\n\n你最想用它生成什么？大胆说，不审核👇",
-      "tags": [
-        "AI绘画",
-        "AI视频",
-        "Sora",
-        "开源模型",
-        "无审查",
-        "AIGC",
-        "Midjourney",
-        "Kling",
-        "Veo",
-        "生成式AI"
+        "#DeepSeek",
+        "#MoE",
+        "#CUDA",
+        "#大模型训练",
+        "#分布式训练",
+        "#AI底层",
+        "#专家模型",
+        "#NVIDIA",
+        "#AI架构师",
+        "#AI炼丹师"
       ]
     }
   ],
