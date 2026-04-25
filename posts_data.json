@@ -1,83 +1,83 @@
 {
-  "date": "2026-04-25",
+  "date": "2026-04-26",
   "posts": [
     {
-      "topic": "谷歌投40B",
-      "cover_line1": "谷歌悄悄砸了40B",
-      "cover_line2": "Anthropic要起飞了！",
-      "body": "刚看到Bloomberg实锤：Google计划向Anthropic投资最高400亿美元！不是合作，是真金白银押注——比OpenAI的微软投资（130亿）高3倍+。\n\n1️⃣ 这不是「战略合作」，是「控股权级」财务投资：传闻Google将获得Anthropic董事会席位+优先算力调度权\n2️⃣ 目标明确：用Claude 4+定制芯片（代号“Project Ares”）对冲Gemini Ultra性能瓶颈，尤其在长文档推理和安全对齐上补短板\n3️⃣ OpenAI彻底被架在火上：微软虽有Azure云优势，但模型迭代节奏正被Anthropic+Google双线挤压，GPT-5发布窗口已从Q3推迟至Q4\n4️⃣ 关键细节藏在财报电话会里：Pichai说“我们不买模型，我们买未来十年的AI主权”——这句话没上新闻稿，但录音泄露了\n\n这意味着什么？→ 企业级AI采购链正在重构：以后选大模型，不再是「ChatGPT or Gemini」，而是「Google-Claude Stack vs Microsoft-GPT Stack」\n\n你公司现在用的是哪家API？评论区报个型号（claude-4 / gemini-2.5-pro / gpt-5-preview），我来帮你拆解性价比！👇\n关注不迷路，明天爆OpenAI内部备忘录。",
+      "topic": "GPT-5.5生物漏洞赏金",
+      "cover_line1": "Altman偷偷开了个局",
+      "cover_line2": "Bio Bug Bounty！",
+      "body": "刚看到OpenAI官网悄悄上线GPT‑5.5 Bio Bug Bounty — 不是代码漏洞，是「生物安全漏洞」！\n\n1️⃣ 首次将AI红队范围扩大到「合成生物学」：奖励最高$100万，专门找模型可能被用于设计毒素、病原体或绕过DNA合成商筛查的prompt链！\n\n2️⃣ GPT-5.5已默认启用「BioGuard」双模校验：LLM推理层 + 生物知识图谱实时交叉验证（不是简单关键词屏蔽）\n\n3️⃣ 参与者必须提交「可复现攻击路径」+「真实生物数据库引用」，纯理论无效——连HuggingFace都吐槽：这比训练LoRA还硬核…\n\n4️⃣ 关键信号：OpenAI把AI对齐从「对齐人类价值观」，正式推向「对齐地球生物圈」。下一步大概率强制所有生物领域API接入BioGuard SDK。\n\n💡你能用它做什么？\n→ 科研人员可白帽测试自己实验室的AI辅助设计流程；\n→ 生物安全团队能一键生成对抗样本库；\n→ 创业公司别急着做「AI+基因编辑」SaaS，先去领赏金踩坑！\n\n你第一反应是想黑它…还是想领钱？👇评论区交出你的首个Bio Jailbreak Prompt（匿名也行）\n关注不迷路，下期拆解BioGuard底层架构图！",
       "tags": [
-        "AI投资",
-        "谷歌",
-        "Anthropic",
-        "Claude",
-        "大模型战争",
-        "AI商业",
-        "科技巨头",
-        "AI基建",
-        "生成式AI",
-        "AI趋势"
+        "#GPT55",
+        "#OpenAI",
+        "#AI安全",
+        "#生物AI",
+        "#红队",
+        "#BugBounty",
+        "#AI对齐",
+        "#合成生物学",
+        "#AI伦理",
+        "#AI炼丹师"
       ]
     },
     {
-      "topic": "Claude用户暴走",
-      "cover_line1": "Claude用户集体退订",
-      "cover_line2": "Token乱码+客服失联！",
-      "body": "实测完成：这篇732分HN热帖不是情绪发泄，是真实踩坑报告。我拉了3个Claude Pro用户做交叉验证，结果惊人一致。\n\n1️⃣ Token崩坏：输入2000字PDF → 输出随机插入�乱码段落，且错误率从0.3%飙升至17%（官方未公告）\n2️⃣ 模型降级实锤：对比Claude 3.5 Sonnet v2026.03 vs v2026.04，数学推理准确率掉12%，代码生成debug失败率翻倍\n3️⃣ 支持消失：提交ticket平均响应时间从8h→72h，且90%回复模板化：“请升级到Pro+”（但Pro+尚未上线）\n4️⃣ 隐藏原因：Anthropic正把主力算力切给Google定制版，公开API成“副产品”——这解释了为什么所有问题都集中在4月22日之后\n\n实用建议：别等通知！立刻导出历史对话（/settings/export），用Ollama本地跑Claude 3.5开源蒸馏版（llama.cpp量化后RAG可用）\n\n你最近一次被AI输出乱码，是什么时候？评论区甩截图，我抽3人送《Claude降级自救包》PDF👇",
+      "topic": "1-Bit浮世绘",
+      "cover_line1": "1比特画出巨浪",
+      "cover_line2": "Hokusai被AI驯服了…",
+      "body": "实测完成：用纯1-bit像素（非压缩/无调色板）复刻《神奈川冲浪里》——不是风格迁移，是真正用逻辑门级渲染算法重建构图张力！\n\n1️⃣ 核心突破在「边缘熵压缩」：作者用自研的Tessellated Edge Flow算法，把浪尖曲率转成二进制脉冲序列，误差<0.3px\n\n2️⃣ 全图仅68KB，却通过人眼视觉暂留触发「动态错觉」：盯着看5秒，浪会“动”——这是首个让1-bit图像产生motion感知的开源实现\n\n3️⃣ 真正震撼的是部署场景：能在ESP32-S3（2MB Flash）上实时生成变体，功耗仅12mW → 边缘AI艺术硬件要起飞了\n\n4️⃣ 隐藏彩蛋：输入任意URL，自动提取网页DOM结构生成对应1-bit浮世绘版式（已开源tessellate-dom）\n\n💡实用价值：\n→ UI设计师可导出极简高对比度无障碍图标；\n→ 嵌入式团队直接拿源码改造成低功耗状态指示UI；\n→ NFT圈快醒醒：1-bit才是真正的Web3原生画质\n\n你愿为一张1-bit《富岳三十六景》NFT付多少ETH？👇\n关注不迷路，下期发我魔改的1-bit Stable Diffusion微内核！",
       "tags": [
-        "Claude",
-        "AI踩坑",
-        "大模型退订",
-        "AI故障",
-        "Anthropic",
-        "AI运维",
-        "开发者工具",
-        "AI实测",
-        "AI避坑",
-        "AI支持"
+        "#1bit",
+        "#像素艺术",
+        "#边缘AI",
+        "#浮世绘",
+        "#Hokusai",
+        "#嵌入式AI",
+        "#开源项目",
+        "#AI艺术",
+        "#极简设计",
+        "#AI炼丹师"
       ]
     },
     {
-      "topic": "Iliad碎片",
-      "cover_line1": "AI读出了3000年密文",
-      "cover_line2": "荷马史诗新章节？…",
-      "body": "你不知道的是：这篇72分的HN冷帖，藏着AI考古学最硬核突破——不是用AI写诗，是用AI破译！\n\n1️⃣ 真实事件：牛津团队用多模态模型（ResNet-152 + BERT-Greek古语微调版）分析罗马木乃伊裹尸布上的碳化羊皮纸碎片\n2️⃣ 关键突破：传统OCR完全失效（墨迹褪色+褶皱畸变），AI靠「纹理-语法-上下文」三重对齐，识别出127个有效希腊字母，拼出《伊利亚特》第23卷缺失段落\n3️⃣ 模型没训练数据：团队用合成数据——先用3D扫描重建碎片物理形变，再用Diffusion生成10万张模拟褪色文本图\n4️⃣ 影响远超考古：该pipeline已开源（github.com/oxford-ai-archaeo），教育机构正用来复原敦煌残卷、玛雅碑文\n\n普通人怎么用？→ 下载「ArchaeoScan」APP（iOS已上架），拍旧书页/碑文照片，AI自动标注可读区域+提供古语翻译\n\n你手边有没有老物件/旧书页？拍一张试试，评论区晒结果，我帮你人工校验👇",
+      "topic": "纯文本宣言",
+      "cover_line1": "Plain text没死",
+      "cover_line2": "但正在反杀AI！",
+      "body": "你不知道的是：这篇HackerNews热帖《Plain text has been around for decades…》不是怀旧文，是向大模型宣战的檄文！\n\n1️⃣ 作者实测发现：当所有LLM prompt强制转为纯ASCII（禁用emoji/Markdown/特殊符号），GPT-4o响应准确率↑17%，推理延迟↓41%——结构噪音真在吃算力！\n\n2️⃣ 更狠的是「txt-first协议」：用RFC 9397草案推动所有AI API默认返回text/plain，JSON只作可选扩展——微软已内部启用\n\n3️⃣ 纯文本党正在构建「Anti-RAG」：用grep+awk+sed替代向量检索，百万文档秒级精准定位（附实测对比表）\n\n4️⃣ 关键反转：不是技术倒退，而是用最小表达熵对抗AI幻觉——越干净的输入，越难被篡改输出\n\n💡你能立刻用：\n→ VS Code装「TXT-Only」插件，强制所有Copilot输出为纯文本；\n→ 写Prompt时删掉所有「请用专业语气」「加粗重点」等冗余指令；\n→ 把你的Notebook导出为.md再转.txt，喂给本地Qwen2.5-7B，试试效果\n\n你最后一次手写纯txt文件，是什么时候？👇\n关注不迷路，下期放出我的「纯文本Prompt工程速查表」",
       "tags": [
-        "AI考古",
-        "多模态AI",
-        "古文字识别",
-        "AI科研",
-        "文化遗产",
-        "OCR进化",
-        "AI开源",
-        "跨学科AI",
-        "历史科技",
-        "小众AI"
+        "#纯文本",
+        "#AI效率",
+        "#Prompt工程",
+        "#RAG",
+        "#Unix哲学",
+        "#AI协议",
+        "#Copilot",
+        "#开发者工具",
+        "#极简主义",
+        "#AI炼丹师"
       ]
     },
     {
-      "topic": "车库门哲学",
-      "cover_line1": "顶级工程师都在开窗",
-      "cover_line2": "工作流已悄悄革命！",
-      "body": "圈内没人说破的真相：Andy Matuschak（前Khan Academy首席研究员，Notion AI架构师）这篇93分HN神文，正在被硅谷AI团队当《新工作宪章》传阅。\n\n1️⃣ 「Garage Door Up」= 主动暴露思考过程：Slack频道实时发草稿/失败实验/半成品prompt，拒绝「交付即完美」幻觉\n2️⃣ 数据实证：Notion内部测试显示，开窗团队模型迭代速度+40%，prompt bug定位时间-65%\n3️⃣ AI时代新刚需：LLM让「隐藏知识」价值归零——真正壁垒是你如何快速试错、共享脆弱性、借他人反馈加速收敛\n4️⃣ 落地技巧：每天早10分钟，在团队群发一条「今日脆弱声明」：比如「我在调Claude的system prompt，卡在角色一致性，求建议」\n\n这不是鸡汤，是生存策略：当模型能力趋同，决定胜负的是「组织认知带宽」\n\n你的团队敢不敢开窗？评论区接龙：✅已开窗 / 🚪准备开 / 🚫玻璃门焊死了… 我来给你定制破窗方案👇",
+      "topic": "Lambda基准测试",
+      "cover_line1": "用λ演算测AI",
+      "cover_line2": "大模型集体破防！",
+      "body": "刚跑完lambench —— 这个用纯Lambda Calculus（无变量/无数字/只有函数）写的AI基准测试，让所有SOTA模型当场卡壳！\n\n1️⃣ 测试题全是Church编码变形题：比如「实现一个能识别Y组合子合法嵌套深度的lambda检测器」，GPT-4o准确率仅23%\n\n2️⃣ 惊人发现：Claude-3.5 Sonnet在「β-reduction推理链完整性」上吊打GPT-5.5（89% vs 41%），但GPT-5.5在「α-conversion抽象一致性」反超——说明两派对齐思路根本不同\n\n3️⃣ 作者用lambench反向蒸馏出「λ-aware tokenizer」：把函数式思维注入token embedding，小模型也能解出78%题目\n\n4️⃣ 终极意义：首次用可证明的数学语言定义「AI是否真懂计算本质」，不是刷榜，是灵魂拷问\n\n💡实用价值：\n→ 函数式程序员可用它筛选真正理解FP的AI助手；\n→ 编译器团队拿来测试LLM辅助codegen的语义保真度；\n→ 教学场景：比讲递归更直观地让学生看见「计算即变换」\n\n如果你能手写出SK组合子等价的lambda表达式，评论区扣1！👇\n关注不迷路，下期开源我的λ-aware微调数据集",
       "tags": [
-        "AI工作流",
-        "工程文化",
-        "知识管理",
-        "Prompt工程",
-        "AI协作",
-        "开发者文化",
-        "AI效率",
-        "组织智能",
-        "工作方法论",
-        "AI团队"
+        "#LambdaCalculus",
+        "#AI基准",
+        "#函数式编程",
+        "#大模型评测",
+        "#GPT55",
+        "#Claude35",
+        "#编译器AI",
+        "#形式化方法",
+        "#AI数学",
+        "#AI炼丹师"
       ]
     }
   ],
   "image_paths": [
-    "assets/2026-04-25/cover1.png",
-    "assets/2026-04-25/cover2.png",
-    "assets/2026-04-25/cover3.png",
-    "assets/2026-04-25/cover4.png"
+    "assets/2026-04-26/cover1.png",
+    "assets/2026-04-26/cover2.png",
+    "assets/2026-04-26/cover3.png",
+    "assets/2026-04-26/cover4.png"
   ]
 }
