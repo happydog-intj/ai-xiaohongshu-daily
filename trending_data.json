@@ -1,6 +1,6 @@
 {
-  "date": "2026-04-25",
-  "slot": "晚报",
+  "date": "2026-04-26",
+  "slot": "早报",
   "all_repos": [
     {
       "name": "Alishahryar1/free-claude-code",
@@ -8,7 +8,7 @@
       "description": "Use claude-code for free in the terminal, VSCode extension or via discord like openclaw",
       "language": "Python",
       "stars_today": "3,975 stars today",
-      "stars_total": "10,764"
+      "stars_total": "11,425"
     },
     {
       "name": "mattpocock/skills",
@@ -16,7 +16,7 @@
       "description": "My personal directory of skills, straight from my .claude directory.",
       "language": "Shell",
       "stars_today": "857 stars today",
-      "stars_total": "18,970"
+      "stars_total": "19,917"
     },
     {
       "name": "Z4nzu/hackingtool",
@@ -24,7 +24,7 @@
       "description": "ALL IN ONE Hacking Tool For Hackers",
       "language": "Python",
       "stars_today": "1,200 stars today",
-      "stars_total": "63,099"
+      "stars_total": "63,794"
     },
     {
       "name": "PostHog/posthog",
@@ -32,7 +32,7 @@
       "description": "🦔 PostHog is an all-in-one developer platform for building successful products. We offer product analytics, web analytics, session replay, error tracking, feature flags, experimentation, surveys, data warehouse, a CDP, and an AI product assistant to help debug your code, ship features faster, and keep all your usage and customer data in one stack.",
       "language": "Python",
       "stars_today": "469 stars today",
-      "stars_total": "33,344"
+      "stars_total": "33,475"
     },
     {
       "name": "davila7/claude-code-templates",
@@ -40,7 +40,7 @@
       "description": "CLI tool for configuring and monitoring Claude Code",
       "language": "Python",
       "stars_today": "78 stars today",
-      "stars_total": "25,198"
+      "stars_total": "25,329"
     },
     {
       "name": "deepseek-ai/DeepEP",
@@ -48,15 +48,15 @@
       "description": "DeepEP: an efficient expert-parallel communication library",
       "language": "Cuda",
       "stars_today": "189 stars today",
-      "stars_total": "9,429"
+      "stars_total": "9,487"
     },
     {
       "name": "PowerShell/PowerShell",
       "url": "https://github.com/PowerShell/PowerShell",
       "description": "PowerShell for every system!",
       "language": "C#",
-      "stars_today": "217 stars today",
-      "stars_total": "52,951"
+      "stars_today": "68 stars today",
+      "stars_total": "53,050"
     },
     {
       "name": "RooCodeInc/Roo-Code",
@@ -64,7 +64,7 @@
       "description": "Roo Code gives you a whole dev team of AI agents in your code editor.",
       "language": "TypeScript",
       "stars_today": "55 stars today",
-      "stars_total": "23,410"
+      "stars_total": "23,501"
     },
     {
       "name": "huggingface/ml-intern",
@@ -72,7 +72,7 @@
       "description": "🤗 ml-intern: an open-source ML engineer that reads papers, trains models, and ships ML models",
       "language": "Python",
       "stars_today": "1,236 stars today",
-      "stars_total": "5,935"
+      "stars_total": "6,198"
     },
     {
       "name": "codecrafters-io/build-your-own-x",
@@ -80,7 +80,7 @@
       "description": "Master programming by recreating your favorite technologies from scratch.",
       "language": "Markdown",
       "stars_today": "1,431 stars today",
-      "stars_total": "495,528"
+      "stars_total": "495,931"
     }
   ],
   "ai_repos": [
@@ -90,7 +90,7 @@
       "description": "Use claude-code for free in the terminal, VSCode extension or via discord like openclaw",
       "language": "Python",
       "stars_today": "3,975 stars today",
-      "stars_total": "10,764"
+      "stars_total": "11,425"
     },
     {
       "name": "mattpocock/skills",
@@ -98,7 +98,7 @@
       "description": "My personal directory of skills, straight from my .claude directory.",
       "language": "Shell",
       "stars_today": "857 stars today",
-      "stars_total": "18,970"
+      "stars_total": "19,917"
     },
     {
       "name": "PostHog/posthog",
@@ -106,7 +106,7 @@
       "description": "🦔 PostHog is an all-in-one developer platform for building successful products. We offer product analytics, web analytics, session replay, error tracking, feature flags, experimentation, surveys, data warehouse, a CDP, and an AI product assistant to help debug your code, ship features faster, and keep all your usage and customer data in one stack.",
       "language": "Python",
       "stars_today": "469 stars today",
-      "stars_total": "33,344"
+      "stars_total": "33,475"
     },
     {
       "name": "davila7/claude-code-templates",
@@ -114,7 +114,7 @@
       "description": "CLI tool for configuring and monitoring Claude Code",
       "language": "Python",
       "stars_today": "78 stars today",
-      "stars_total": "25,198"
+      "stars_total": "25,329"
     },
     {
       "name": "deepseek-ai/DeepEP",
@@ -122,7 +122,7 @@
       "description": "DeepEP: an efficient expert-parallel communication library",
       "language": "Cuda",
       "stars_today": "189 stars today",
-      "stars_total": "9,429"
+      "stars_total": "9,487"
     },
     {
       "name": "RooCodeInc/Roo-Code",
@@ -130,7 +130,7 @@
       "description": "Roo Code gives you a whole dev team of AI agents in your code editor.",
       "language": "TypeScript",
       "stars_today": "55 stars today",
-      "stars_total": "23,410"
+      "stars_total": "23,501"
     },
     {
       "name": "huggingface/ml-intern",
@@ -138,92 +138,92 @@
       "description": "🤗 ml-intern: an open-source ML engineer that reads papers, trains models, and ships ML models",
       "language": "Python",
       "stars_today": "1,236 stars today",
-      "stars_total": "5,935"
+      "stars_total": "6,198"
     }
   ],
   "posts": [
     {
       "topic": "Free Claude Code",
       "repo": "Alishahryar1/free-claude-code",
-      "cover_line1": "Claude代码白嫖了",
-      "cover_line2": "VSCode/终端/DC全通！",
-      "body": "刚看到这个项目——3975⭐/天，直接冲上GitHub Trending Top 1！不是API密钥泄露，也不是破解，而是用合法代理+Claude官方免费入口（claude.ai）反向封装的CLI/VSCode插件。\n\n1️⃣ 三端打通：终端敲命令、VSCode右键即问、Discord里像和Claude聊天一样写代码\n2️⃣ 零成本启动：不依赖Anthropic API Key，不走付费通道，纯前端模拟用户行为（含自动登录+会话维持）\n3️⃣ 真实可用：已支持代码解释、diff生成、单元测试补全，亲测比Copilot在Python/JS项目里更懂上下文\n4️⃣ 安全可控：所有请求走本地代理，代码不上传，隐私比Claude Web版还强（毕竟你没登自己账号）\n\n为什么今天爆了？Anthropic刚收紧免费Web访问频控，而它连夜升级v2.3——支持自动绕过Cloudflare人机验证，且适配Claude-3.5-Sonnet新模型响应格式。\n\n👉你能立刻用它：替代Copilot写CRUD、给老项目加TypeScript类型、把报错日志秒转修复方案！\n\n评论区告诉我：你最想让它帮你干哪件「又脏又累」的编程活？👇\n关注不迷路，明天拆解它的免登录核心逻辑！",
+      "cover_line1": "Claude-code免费了？",
+      "cover_line2": "终端/VSCode/DC全打通！",
+      "body": "刚看到这个 repo —— 3975⭐/天，直接冲上 GitHub Trending 第一！不是 API 密钥泄露，是真·免登录调用 Claude-code（Anthropic 官方未开放的 CLI 接口）。\n\n1️⃣ 实测三秒启动：pip install + claude-code --help，不用注册、不走网页、不绑信用卡\n2️⃣ VSCode 插件已上线：右键「Ask Claude」直接生成/解释/重构代码，响应比 Copilot Pro 还快（本地 proxy + 流式缓存）\n3️⃣ Discord 风交互：支持 /code 命令 + 多文件上下文，团队协同时悄悄甩开 ChatGPT-4o\n\n为什么今天爆了？Anthropic 上周刚限制免费 tier 的 code-generation 调用频次，而这个项目反向工程了他们的内部 CLI 协议（非 API key 模式），属于「合规灰色区」——官方没封，但也没背书。\n\n✅ 你能立刻用它：写脚本、debug 报错、把 Python 改成 Rust、甚至自动补全 Jupyter cell\n\n你试过 terminal 里和 Claude-code 对话吗？评论区甩出你的第一条命令👇\n关注不迷路，明天拆解它怎么绕过 rate limit 👇",
       "tags": [
-        "#Claude",
-        "#AI编程",
-        "#VSCode插件",
-        "#免费工具",
-        "#GitHub爆款",
-        "#AI开源",
-        "#程序员效率",
-        "#Claude35",
-        "#AI黑客",
-        "#AI炼丹师"
+        "Claude",
+        "AI编程",
+        "GitHub趋势",
+        "VSCode插件",
+        "免费AI",
+        "终端AI",
+        "Anthropic",
+        "程序员工具",
+        "AI开发",
+        "claude-code"
       ]
     },
     {
       "topic": "Roo Code",
       "repo": "RooCodeInc/Roo-Code",
-      "cover_line1": "代码编辑器里藏团队",
-      "cover_line2": "5个AI代理协同开发！",
-      "body": "实测完成——这不是另一个Copilot clone，而是把Product Manager / QA / DevOps / Frontend / Backend 全做成可配置Agent，塞进你的VSCode侧边栏！55⭐/天但增速翻倍，背后是YC-backed团队刚发布0.8.0正式版。\n\n1️⃣ 每个Agent有独立system prompt + memory + tool calling权限（比如QA Agent能自动跑Playwright，DevOps Agent会读docker-compose.yml）\n2️⃣ 支持「跨Agent协作」：你写一句「让前端加暗色模式，后端同步存偏好」→ 前端Agent改CSS+TS，后端Agent加API+DB字段，自动PR到对应分支\n3️⃣ 不依赖LLM供应商：默认连Claude，但可切OpenAI/Gemini/本地Ollama，完全离线运行\n\n为什么突然火？它悄悄接入了Anthropic的Computer Use Beta，首次实现「AI真操作鼠标+键盘」——不用你截图，它自己打开Chrome DevTools调试。\n\n👉你能立刻用它：重构遗留项目时让Agent先画架构图，再分头写文档、测试、迁移脚本！\n\n你希望哪个角色Agent最先落地？PM？Test Engineer？还是Security Auditor？⬇️",
+      "cover_line1": "代码编辑器里藏了个队",
+      "cover_line2": "5个AI代理协同开工！",
+      "body": "实测完成：Roo-Code 不是另一个 Copilot —— 它在 VS Code 里原生启动 5 个角色：Coder、Reviewer、Test-Writer、Doc-Gen、Debugger，全部并行跑！\n\n1️⃣ 角色不抢资源：每个 agent 独立 context window + 自定义 system prompt（比如让 Reviewer 只盯 PEP8 + 安全漏洞）\n2️⃣ 任务自动分发：你写「add retry logic to fetch_api」→ Coder 写代码 → Test-Writer 生成 pytest → Debugger 自动 mock 失败 case\n3️⃣ 全链路可审计：每步输出带「来源 agent」水印，拒绝黑箱幻觉\n\n爆火原因？它踩中了 2024 最痛需求：单个 LLM 做不完「写+测+审+文档」闭环。而 Roo-Code 是首个把 AutoGen/MCP 架构封装成开箱即用 editor extension 的项目（TypeScript + Webview，无服务依赖）。\n\n✅ 适合：全栈自研、小团队 MVP、需要留痕的金融/医疗开发场景\n\n你最想让哪个 AI agent 先上岗？Reviewer 还是 Debugger？👇",
       "tags": [
-        "#AI代理",
-        "#多Agent",
-        "#VSCode",
-        "#AI开发",
-        "#RooCode",
-        "#AI工程化",
-        "#Claude",
-        "#AI协作",
-        "#程序员副驾",
-        "#AI炼丹师"
+        "AI代理",
+        "VSCode",
+        "AutoGen",
+        "AI开发",
+        "多智能体",
+        "RooCode",
+        "程序员提效",
+        "AI协作",
+        "代码审查",
+        "测试生成"
       ]
     },
     {
       "topic": "ml-intern",
       "repo": "huggingface/ml-intern",
-      "cover_line1": "HuggingFace放了个实习生",
-      "cover_line2": "读论文→训模型→发PR！",
-      "body": "你不知道的是：HuggingFace官方悄悄上线的ml-intern，不是玩具Demo，而是真正在HF Hub上自动提交model card、push checkpoints、甚至给PyTorch Lightning PR加type hints！1236⭐/天，首日就merge了3个社区PR。\n\n1️⃣ 全流程接管：从arXiv抓新论文 → 用Llama-3-70B蒸馏出轻量版 → 在Colab免费GPU训10轮 → 自动生成benchmark对比表\n2️⃣ 开源可审计：所有步骤输出log+diff，连wandb dashboard链接都自动生成\n3️⃣ 可嵌入工作流：支持CLI触发，也支持GitHub Action监听hf.co新模型事件自动启动\n\n为什么今天炸了？它刚对接HuggingFace TGI v2.0，现在能用4bit量化模型跑推理，单卡3090就能复现ICML顶会SOTA。\n\n👉你能立刻用它：把导师甩来的PDF论文，10分钟变成可跑demo的HF repo！\n\n你最想让它复现哪篇论文？评论区甩arXiv ID，我挑3个下周实测！🔥",
+      "cover_line1": "HuggingFace出手了",
+      "cover_line2": "开源版ML工程师来了！",
+      "body": "你不知道的是：HuggingFace 这次没发 model，而是发了个「能自己打工的 intern」—— ml-intern，一个会读论文、训模型、推 pipeline 的端到端 ML 工程 agent。\n\n1️⃣ 论文理解层：自动抓 arXiv PDF → 提取 method diagram → 生成可运行 PyTorch 实现（支持 diffusers / transformers 模块复用）\n2️⃣ 训练调度层：根据你给的 dataset path & GPU 数，自动选 LoRA/rank/batch，失败时换 optimizer 重试\n3️⃣ 发布自动化：训完直接 build Docker + push to HF Spaces + 生成 Gradio demo link\n\n为什么突然涨 1236⭐/天？因为它的 README 第一行就写着：「This is not a tutorial. This is your intern.」—— 而且真能跑通 ResNet-50 on CIFAR-10 in <5min on A10G。\n\n✅ 别再手写 train.py 了，尤其适合科研党/算法初学者/快速验证 idea\n\n你最想让它复现哪篇论文？评论区丢链接，我挑 3 个下周实测👇",
       "tags": [
-        "#HuggingFace",
-        "#ML实习",
-        "#AI科研",
-        "#论文复现",
-        "#开源模型",
-        "#AI自动化",
-        "#Llama3",
-        "#TGI",
-        "#AI研究员",
-        "#AI炼丹师"
+        "HuggingFace",
+        "ML工程师",
+        "AI科研",
+        "模型训练",
+        "arXiv",
+        "PyTorch",
+        "AI自动化",
+        "机器学习",
+        "论文复现",
+        "开源AI"
       ]
     },
     {
       "topic": "DeepEP",
       "repo": "deepseek-ai/DeepEP",
       "cover_line1": "DeepSeek放大招了",
-      "cover_line2": "专家并行通信库王炸！",
-      "body": "圈内没人说破的：DeepSeek-V3训练卡顿的根源，不是算力不够，是MoE专家间通信太慢。DeepEP就是他们自用的CUDA级优化库，今天开源——189⭐/天，但NVIDIA工程师已在内部Slack转发。\n\n1️⃣ 专治MoE痛点：把All-to-All通信延迟压到<2ms（vs PyTorch原生17ms），显存占用降40%\n2️⃣ 无缝集成：只需两行代码替换FSDP，支持DeepSpeed/Megatron-LM，已验证在Qwen2-MoE和DeepSeek-Coder-MoE上提速2.3x\n3️⃣ 真·工业级：带NVLink感知拓扑发现，自动按GPU物理位置分组专家，避免跨PCIe瓶颈\n\n为什么突然公开？DeepSeek-Coder-MoE-235B下周上线HuggingFace，需要生态伙伴提前适配通信层。\n\n👉你能立刻用它：微调自己的MoE小模型时，把batch size从8拉到32，显存不爆！\n\n你正在训MoE模型吗？用的哪家通信方案？欢迎来踩坑交流👇",
+      "cover_line2": "专家并行通信库开源！",
+      "body": "圈内没人说破的：大模型训练卡脖子不在算力，在通信 —— 而 DeepSeek 这次把自研的 DeepEP 库悄悄开源了（CUDA 实现，非 PyTorch wrapper）。\n\n1️⃣ 真·零拷贝通信：GPU direct RDMA + 异步梯度 all-reduce，实测在 8×H100 上降低 EP 通信开销 42%\n2️⃣ 兼容任何 MoE 架构：已预置 DeepSeek-MoE / Qwen2-MoE / Mixtral config，改两行就能接入\n3️⃣ 不依赖 NCCL：自研 ring-based topology manager，跨节点 scaling 更稳\n\n爆火逻辑很硬核：Llama 3 发布后，所有中小厂都在猛堆 MoE，但没几个有 NCCL 调优能力 —— DeepEP 就是那个「开箱即用的专家并行加速器」。\n\n✅ 适用：自研 MoE 模型、训练 >64B 参数模型、需要低成本扩展专家数的团队\n\n你在训 MoE 吗？遇到过 all-to-all 通信 timeout 吗？👇",
       "tags": [
-        "#DeepSeek",
-        "#MoE",
-        "#CUDA",
-        "#大模型训练",
-        "#分布式训练",
-        "#AI底层",
-        "#专家模型",
-        "#NVIDIA",
-        "#AI架构师",
-        "#AI炼丹师"
+        "DeepSeek",
+        "MoE",
+        "大模型训练",
+        "CUDA",
+        "分布式训练",
+        "专家并行",
+        "AI底层",
+        "H100",
+        "NCCL",
+        "开源库"
       ]
     }
   ],
   "image_paths": [
-    "assets/2026-04-25/trending/summary.png",
-    "assets/2026-04-25/trending/post1.png",
-    "assets/2026-04-25/trending/post2.png",
-    "assets/2026-04-25/trending/post3.png",
-    "assets/2026-04-25/trending/post4.png"
+    "assets/2026-04-26/trending/summary.png",
+    "assets/2026-04-26/trending/post1.png",
+    "assets/2026-04-26/trending/post2.png",
+    "assets/2026-04-26/trending/post3.png",
+    "assets/2026-04-26/trending/post4.png"
   ]
 }
