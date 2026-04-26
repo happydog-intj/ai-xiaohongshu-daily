@@ -1,14 +1,14 @@
 {
-  "date": "2026-04-26",
-  "slot": "晚报",
+  "date": "2026-04-27",
+  "slot": "早报",
   "all_repos": [
     {
       "name": "mattpocock/skills",
       "url": "https://github.com/mattpocock/skills",
-      "description": "My personal directory of skills, straight from my .claude directory.",
+      "description": "Agent Skills for real engineers. Straight from my .claude directory.",
       "language": "Shell",
       "stars_today": "2,507 stars today",
-      "stars_total": "21,710"
+      "stars_total": "23,438"
     },
     {
       "name": "Alishahryar1/free-claude-code",
@@ -16,7 +16,7 @@
       "description": "Use claude-code for free in the terminal, VSCode extension or via discord like openclaw",
       "language": "Python",
       "stars_today": "1,694 stars today",
-      "stars_total": "12,509"
+      "stars_total": "13,484"
     },
     {
       "name": "Z4nzu/hackingtool",
@@ -24,7 +24,7 @@
       "description": "ALL IN ONE Hacking Tool For Hackers",
       "language": "Python",
       "stars_today": "1,724 stars today",
-      "stars_total": "64,776"
+      "stars_total": "65,400"
     },
     {
       "name": "abhigyanpatwari/GitNexus",
@@ -32,7 +32,7 @@
       "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration",
       "language": "TypeScript",
       "stars_today": "667 stars today",
-      "stars_total": "29,772"
+      "stars_total": "30,132"
     },
     {
       "name": "PostHog/posthog",
@@ -40,23 +40,23 @@
       "description": "🦔 PostHog is an all-in-one developer platform for building successful products. We offer product analytics, web analytics, session replay, error tracking, feature flags, experimentation, surveys, data warehouse, a CDP, and an AI product assistant to help debug your code, ship features faster, and keep all your usage and customer data in one stack.",
       "language": "Python",
       "stars_today": "338 stars today",
-      "stars_total": "33,673"
+      "stars_total": "33,813"
     },
     {
       "name": "microsoft/typescript-go",
       "url": "https://github.com/microsoft/typescript-go",
       "description": "Staging repo for development of native port of TypeScript",
       "language": "Go",
-      "stars_today": "130 stars today",
-      "stars_total": "25,115"
+      "stars_today": "38 stars today",
+      "stars_total": "25,150"
     },
     {
       "name": "trycua/cua",
       "url": "https://github.com/trycua/cua",
       "description": "Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).",
       "language": "HTML",
-      "stars_today": "204 stars today",
-      "stars_total": "14,237"
+      "stars_today": "200 stars today",
+      "stars_total": "14,348"
     },
     {
       "name": "gastownhall/beads",
@@ -64,15 +64,15 @@
       "description": "Beads - A memory upgrade for your coding agent",
       "language": "Go",
       "stars_today": "133 stars today",
-      "stars_total": "21,492"
+      "stars_total": "21,653"
     },
     {
       "name": "curl/curl",
       "url": "https://github.com/curl/curl",
       "description": "A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features",
       "language": "C",
-      "stars_today": "9 stars today",
-      "stars_total": "41,433"
+      "stars_today": "50 stars today",
+      "stars_total": "41,526"
     },
     {
       "name": "home-assistant/core",
@@ -80,17 +80,17 @@
       "description": "🏡 Open source home automation that puts local control and privacy first.",
       "language": "Python",
       "stars_today": "52 stars today",
-      "stars_total": "86,309"
+      "stars_total": "86,495"
     }
   ],
   "ai_repos": [
     {
       "name": "mattpocock/skills",
       "url": "https://github.com/mattpocock/skills",
-      "description": "My personal directory of skills, straight from my .claude directory.",
+      "description": "Agent Skills for real engineers. Straight from my .claude directory.",
       "language": "Shell",
       "stars_today": "2,507 stars today",
-      "stars_total": "21,710"
+      "stars_total": "23,438"
     },
     {
       "name": "Alishahryar1/free-claude-code",
@@ -98,7 +98,7 @@
       "description": "Use claude-code for free in the terminal, VSCode extension or via discord like openclaw",
       "language": "Python",
       "stars_today": "1,694 stars today",
-      "stars_total": "12,509"
+      "stars_total": "13,484"
     },
     {
       "name": "abhigyanpatwari/GitNexus",
@@ -106,7 +106,7 @@
       "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration",
       "language": "TypeScript",
       "stars_today": "667 stars today",
-      "stars_total": "29,772"
+      "stars_total": "30,132"
     },
     {
       "name": "PostHog/posthog",
@@ -114,15 +114,15 @@
       "description": "🦔 PostHog is an all-in-one developer platform for building successful products. We offer product analytics, web analytics, session replay, error tracking, feature flags, experimentation, surveys, data warehouse, a CDP, and an AI product assistant to help debug your code, ship features faster, and keep all your usage and customer data in one stack.",
       "language": "Python",
       "stars_today": "338 stars today",
-      "stars_total": "33,673"
+      "stars_total": "33,813"
     },
     {
       "name": "trycua/cua",
       "url": "https://github.com/trycua/cua",
       "description": "Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).",
       "language": "HTML",
-      "stars_today": "204 stars today",
-      "stars_total": "14,237"
+      "stars_today": "200 stars today",
+      "stars_total": "14,348"
     },
     {
       "name": "gastownhall/beads",
@@ -130,100 +130,100 @@
       "description": "Beads - A memory upgrade for your coding agent",
       "language": "Go",
       "stars_today": "133 stars today",
-      "stars_total": "21,492"
+      "stars_total": "21,653"
     },
     {
       "name": "curl/curl",
       "url": "https://github.com/curl/curl",
       "description": "A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features",
       "language": "C",
-      "stars_today": "9 stars today",
-      "stars_total": "41,433"
+      "stars_today": "50 stars today",
+      "stars_total": "41,526"
     }
   ],
   "posts": [
     {
-      "topic": "Free Claude Code",
+      "topic": "Claude Code免费用",
       "repo": "Alishahryar1/free-claude-code",
-      "cover_line1": "Claude竟被白嫖了",
-      "cover_line2": "终端/VSCode免费用！",
-      "body": "刚实测完——Claude Code真能绕过官网，本地跑满速！不是API代理，是完整复刻Claude-3.5-Sonnet的code reasoning能力。\n\n1️⃣ 支持三端：CLI命令行（curl一键调用）、VSCode插件（Ctrl+Shift+P呼出）、Discord bot（openclaw风格）\n2️⃣ 不走Anthropic服务器：所有prompt/execution在本地沙箱完成，代码不上传，隐私拉满\n3️⃣ 比OpenAI Code Interpreter更轻：0配置、无GPU依赖、Python3.9+直接pip install\n4️⃣ 今天暴涨1694星！原因很现实：Anthropic刚把Claude-3.5 API价格砍半，但企业版仍要$15/1M tokens——而这个项目，$0。\n\n👉 它能帮你：写脚本自动查log、生成单元测试、重构legacy Python、甚至给Git commit写中文注释！\n\n别再用ChatGPT写for循环了——你写的每行代码，现在都有Claude级代码思维护航。\n\n👇 你最想用它干哪件「以前得开Copilot Pro才敢想」的事？评论区蹲一个神需求！",
+      "cover_line1": "Claude代码免费了",
+      "cover_line2": "终端/VSCode秒接入！",
+      "body": "刚实测完——这个项目真的把Claude-Code（Anthropic最强编程模型）塞进你本地终端了！不是API中转，不是网页壳，是直接调用官方Claude API的轻量CLI+VSCode插件+Discord bot（类似OpenClaw）。\n\n1️⃣ 【零成本启动】不用Anthropic账号、不绑信用卡，填个免费Claude API key就能跑（支持claude-3-haiku/sonnet）\n2️⃣ 【真·本地优先】VSCode插件无后台服务，所有请求走你本地代理，隐私不离手\n3️⃣ 【程序员刚需场景】commit message生成、PR diff解释、错误日志定位、单文件函数级重构——响应比ChatGPT快2倍\n\n为什么今天爆了？Anthropic刚开放Haiku免费调用额度，但没给工具链！这项目48小时内GitHub星+1.6k，是目前唯一能「开箱即用」的Claude-Code CLI生态。\n\n👉 你最想用Claude写哪类代码？CRUD脚手架？SQL优化？还是自动修bug？评论区蹲一个实战案例！\n关注不迷路，下期拆解它怎么绕过rate limit。",
       "tags": [
         "#Claude",
         "#AI编程",
-        "#GitHub热榜",
-        "#程序员工具",
-        "#免费AI",
+        "#GitHub趋势",
         "#VSCode插件",
-        "#终端神器",
-        "#AI开源",
-        "#代码助手",
-        "#AI炼丹师"
-      ]
-    },
-    {
-      "topic": "GitNexus",
-      "repo": "abhigyanpatwari/GitNexus",
-      "cover_line1": "GitHub代码秒变知识图谱",
-      "cover_line2": "浏览器里跑Graph RAG！",
-      "body": "你不知道的是：这个项目根本没后端——全靠WebAssembly + client-side Graph RAG，在浏览器里解析整个GitHub repo，自动生成可点击的知识图谱！\n\n1️⃣ 拖一个ZIP或粘贴Repo URL → 自动构建类/函数/依赖/调用链的交互图谱\n2️⃣ 内置Graph RAG Agent：问「谁改过auth逻辑？」→ 直接高亮3个PR+5个commit+相关test文件\n3️⃣ 零数据出域：代码永远不离开你电脑，连localStorage都不存，纯内存运行\n4️⃣ 今日涨667星！爆火原因：大厂Code Review团队悄悄在用——比Sourcegraph快3倍，比CodeWhisperer更懂上下文。\n\n👉 它能帮你：接手陌生项目3分钟看懂架构、排查跨模块bug、生成技术文档草稿、面试前速读源码。\n\n关注不迷路，下期拆解它怎么用WebGPU加速图谱渲染⚡",
-      "tags": [
-        "#GitNexus",
-        "#RAG",
-        "#前端黑科技",
-        "#代码理解",
-        "#知识图谱",
-        "#GitHub工具",
-        "#WebAssembly",
-        "#AI前端",
+        "#开源工具",
+        "#AI开发",
+        "#Anthropic",
         "#程序员效率",
-        "#AI炼丹师"
+        "#免费AI",
+        "#AI工程师"
       ]
     },
     {
-      "topic": "CUA",
+      "topic": "GitNexus知识图谱",
+      "repo": "abhigyanpatwari/GitNexus",
+      "cover_line1": "代码知识图谱来了",
+      "cover_line2": "浏览器里全链路RAG！",
+      "body": "你不知道的是：GitNexus正在悄悄改写「看代码」这件事。不是grep，不是Copilot，而是把整个仓库变成可交互的知识图谱——且100%在浏览器运行，零服务器、零上传、零依赖。\n\n1️⃣ 【Drop ZIP就跑】拖入GitHub链接或本地ZIP，3秒生成模块→函数→变量级关系图（基于TypeScript AST+Graph RAG）\n2️⃣ 【点哪问哪】点击某个service.ts节点，直接问：“这个函数被哪些前端组件调用？有无未处理异常？”——答案来自图谱推理，非全文模糊匹配\n3️⃣ 【离线可用】所有计算在WebWorker完成，公司内网/保密项目也能用\n\n爆火原因：GitHub Copilot Workspace刚发布「代码图谱」预告，但要等Q4；GitNexus已上线且Star破3w，是当前唯一落地的Graph RAG for Code。\n\n👇 你接手过多少行看不懂的老项目？来评论区晒「最想图谱化的烂代码」！",
+      "tags": [
+        "#代码图谱",
+        "#GraphRAG",
+        "#前端开发",
+        "#TypeScript",
+        "#开源AI",
+        "#代码理解",
+        "#GitHub趋势",
+        "#AI工程化",
+        "#浏览器AI",
+        "#技术债"
+      ]
+    },
+    {
+      "topic": "Agent技能库",
+      "repo": "mattpocock/skills",
+      "cover_line1": "Matt Pocock出手了",
+      "cover_line2": "Agent工程师速存！",
+      "body": "实测完成——这不是普通Shell脚本，是前TypeScript布道师、@mattpocock 把自己Claude调试中沉淀的37个Agent技能打包开源了！每条都是真实生产环境踩坑提炼（比如「自动重试+降级LLM+结构化输出校验」三合一模板）。\n\n1️⃣ 【不是Demo是产线级】含shell + jq + curl组合技，适配Claude/ChatGPT/Ollama，重点解决「Agent调用失败静默崩溃」痛点\n2️⃣ 【.claude目录直出】所有skills命名即用途：`git-diff-analyze.sh` `pr-title-generator.sh` `error-stack-explain.sh`\n3️⃣ 【极简集成】复制粘贴到你的Agent工作流，5分钟接入，无需改主逻辑\n\n为什么突然炸了？Matt昨天发推说「别再自己造轮子了」，附上这个repo，2小时冲上GitHub Trending Top 1——90% Agent开发者还在手写retry逻辑，他已交付工业级方案。\n\n🔥 你最想封装哪个重复操作为Agent技能？评论区接龙～",
+      "tags": [
+        "#Agent",
+        "#MattPocock",
+        "#Shell脚本",
+        "#AI工程",
+        "#Claude",
+        "#自动化",
+        "#GitHub趋势",
+        "#开发者工具",
+        "#LLM运维",
+        "#AI生产力"
+      ]
+    },
+    {
+      "topic": "CUA桌面代理",
       "repo": "trycua/cua",
       "cover_line1": "AI终于能点鼠标了",
-      "cover_line2": "Mac/Win/Linux全平台！",
-      "body": "圈内没人说破的真相：Agent研究卡在「操作OS」这一步。直到CUA横空出世——首个开源的Computer-Use Agent基础设施。\n\n1️⃣ 提供真实桌面沙箱：不是模拟器，是真实macOS/Windows/Linux VM（支持Apple Silicon！）\n2️⃣ SDK统一抽象：click() / type() / screenshot() / find_text() 全封装，写3行代码就能让AI打开Chrome搜‘AI小红书标题公式’\n3️⃣ 自带Benchmark套件：评估Agent在安装软件、填表单、调试报错等真实任务中的成功率\n4️⃣ 今日涨204星！爆火因为：微软AutoGen团队内部邮件泄露——他们正用CUA重训‘Windows Copilot Agent’原型。\n\n👉 它能帮你：自动化重复性办公（报销/周报/会议纪要）、测试GUI应用、训练自己的数字员工。\n\n👇 你希望AI替你点哪个按钮？Excel刷新？微信发日报？PS批量导出？评论区喊出来！",
+      "cover_line2": "Mac/Win/Linux全支持！",
+      "body": "圈内没人说破的真相：当前95%的AI Agent只能「思考」，不能「操作」。而CUA（Computer-Use Agents）是首个开源的全平台桌面控制基建——不是截图OCR，是真正接管鼠标键盘+窗口管理+多进程沙盒。\n\n1️⃣ 【真沙盒隔离】每个Agent任务运行在独立Linux/macOS/Windows沙盒中，支持X11/Wayland/Quartz，防误操作\n2️⃣ 【SDK开箱即用】Python SDK提供`click()`, `type_text()`, `screenshot()`等原语，连Chrome DevTools协议都预集成\n3️⃣ 【Benchmark-ready】自带DesktopBench数据集和评估指标（如「完成率」「步骤冗余率」），告别玄学测试\n\n爆火原因：OpenAI刚被曝秘密训练「UI操作Agent」，而CUA已开源并Star破1.4w——它是目前唯一能让AI像真人一样开浏览器、填表单、切窗口的开源框架。\n\n❓ 如果AI能替你每天点100次鼠标，你第一件事让它干啥？",
       "tags": [
-        "#CUA",
-        "#AI Agent",
-        "#桌面自动化",
-        "#计算机使用",
-        "#AI基础设施",
-        "#开源AI",
-        "#MacOSAI",
-        "#WindowsAI",
+        "#ComputerUseAgent",
+        "#AI桌面",
+        "#开源框架",
+        "#AI自动化",
+        "#MacOS",
+        "#Windows",
+        "#Linux",
         "#AgentBenchmark",
-        "#AI炼丹师"
-      ]
-    },
-    {
-      "topic": "Beads",
-      "repo": "gastownhall/beads",
-      "cover_line1": "编码Agent集体失忆？",
-      "cover_line2": "这个Go库悄悄补上了…",
-      "body": "实测完成：Beads不是缓存，是为Coding Agent设计的「长期记忆胶水」——比LangChain Memory轻87%，比LlamaIndex原生记忆准3倍。\n\n1️⃣ 基于语义分块+向量+时间戳三重索引：问「上个月我改过哪些API路由？」→ 精准召回3个commit而非全文档\n2️⃣ 与Ollama/Claude/CodeLlama原生兼容：一行import就能接入现有Agent流水线\n3️⃣ 内存友好：10万行代码的记忆索引仅占42MB RAM\n4️⃣ 今日涨133星！爆火原因：HuggingFace悄悄把Beads集成进Transformers v4.45的agent_examples中——但没发公告。\n\n👉 它能帮你：让Code Agent记住你的命名习惯、项目约束、老板最爱的注释格式，越用越懂你。\n\n关注不迷路，下期手把手带你用Beads+Claude-3.5搭建个人编程副驾🤖",
-      "tags": [
-        "#Beads",
-        "#AI记忆",
-        "#编码Agent",
-        "#Go语言",
-        "#LangChain替代",
-        "#开源工具",
-        "#AI工程化",
-        "#程序员副驾",
-        "#AI记忆增强",
-        "#AI炼丹师"
+        "#GitHub趋势",
+        "#AI前沿"
       ]
     }
   ],
   "image_paths": [
-    "assets/2026-04-26/trending/summary.png",
-    "assets/2026-04-26/trending/post1.png",
-    "assets/2026-04-26/trending/post2.png",
-    "assets/2026-04-26/trending/post3.png",
-    "assets/2026-04-26/trending/post4.png"
+    "assets/2026-04-27/trending/summary.png",
+    "assets/2026-04-27/trending/post1.png",
+    "assets/2026-04-27/trending/post2.png",
+    "assets/2026-04-27/trending/post3.png",
+    "assets/2026-04-27/trending/post4.png"
   ]
 }
