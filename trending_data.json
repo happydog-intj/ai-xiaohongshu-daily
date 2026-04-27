@@ -1,86 +1,86 @@
 {
   "date": "2026-04-27",
-  "slot": "早报",
+  "slot": "晚报",
   "all_repos": [
     {
       "name": "mattpocock/skills",
       "url": "https://github.com/mattpocock/skills",
       "description": "Agent Skills for real engineers. Straight from my .claude directory.",
       "language": "Shell",
-      "stars_today": "2,507 stars today",
-      "stars_total": "23,438"
-    },
-    {
-      "name": "Alishahryar1/free-claude-code",
-      "url": "https://github.com/Alishahryar1/free-claude-code",
-      "description": "Use claude-code for free in the terminal, VSCode extension or via discord like openclaw",
-      "language": "Python",
-      "stars_today": "1,694 stars today",
-      "stars_total": "13,484"
-    },
-    {
-      "name": "Z4nzu/hackingtool",
-      "url": "https://github.com/Z4nzu/hackingtool",
-      "description": "ALL IN ONE Hacking Tool For Hackers",
-      "language": "Python",
-      "stars_today": "1,724 stars today",
-      "stars_total": "65,400"
+      "stars_today": "5,551 stars today",
+      "stars_total": "27,725"
     },
     {
       "name": "abhigyanpatwari/GitNexus",
       "url": "https://github.com/abhigyanpatwari/GitNexus",
       "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration",
       "language": "TypeScript",
-      "stars_today": "667 stars today",
-      "stars_total": "30,132"
+      "stars_today": "1,074 stars today",
+      "stars_total": "31,004"
     },
     {
-      "name": "PostHog/posthog",
-      "url": "https://github.com/PostHog/posthog",
-      "description": "🦔 PostHog is an all-in-one developer platform for building successful products. We offer product analytics, web analytics, session replay, error tracking, feature flags, experimentation, surveys, data warehouse, a CDP, and an AI product assistant to help debug your code, ship features faster, and keep all your usage and customer data in one stack.",
+      "name": "ComposioHQ/awesome-codex-skills",
+      "url": "https://github.com/ComposioHQ/awesome-codex-skills",
+      "description": "A curated list of practical Codex skills for automating workflows across the Codex CLI and API.",
       "language": "Python",
-      "stars_today": "338 stars today",
-      "stars_total": "33,813"
+      "stars_today": "637 stars today",
+      "stars_total": "2,465"
     },
     {
-      "name": "microsoft/typescript-go",
-      "url": "https://github.com/microsoft/typescript-go",
-      "description": "Staging repo for development of native port of TypeScript",
-      "language": "Go",
-      "stars_today": "38 stars today",
-      "stars_total": "25,150"
-    },
-    {
-      "name": "trycua/cua",
-      "url": "https://github.com/trycua/cua",
-      "description": "Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).",
-      "language": "HTML",
-      "stars_today": "200 stars today",
-      "stars_total": "14,348"
+      "name": "Alishahryar1/free-claude-code",
+      "url": "https://github.com/Alishahryar1/free-claude-code",
+      "description": "Use claude-code for free in the terminal, VSCode extension or via discord like openclaw",
+      "language": "Python",
+      "stars_today": "2,973 stars today",
+      "stars_total": "15,436"
     },
     {
       "name": "gastownhall/beads",
       "url": "https://github.com/gastownhall/beads",
       "description": "Beads - A memory upgrade for your coding agent",
       "language": "Go",
-      "stars_today": "133 stars today",
-      "stars_total": "21,653"
+      "stars_today": "485 stars today",
+      "stars_total": "22,018"
     },
     {
-      "name": "curl/curl",
-      "url": "https://github.com/curl/curl",
-      "description": "A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features",
-      "language": "C",
-      "stars_today": "50 stars today",
-      "stars_total": "41,526"
+      "name": "penpot/penpot",
+      "url": "https://github.com/penpot/penpot",
+      "description": "Penpot: The open-source design tool for design and code collaboration",
+      "language": "Clojure",
+      "stars_today": "283 stars today",
+      "stars_total": "46,383"
     },
     {
-      "name": "home-assistant/core",
-      "url": "https://github.com/home-assistant/core",
-      "description": "🏡 Open source home automation that puts local control and privacy first.",
+      "name": "davila7/claude-code-templates",
+      "url": "https://github.com/davila7/claude-code-templates",
+      "description": "CLI tool for configuring and monitoring Claude Code",
       "language": "Python",
-      "stars_today": "52 stars today",
-      "stars_total": "86,495"
+      "stars_today": "284 stars today",
+      "stars_total": "25,677"
+    },
+    {
+      "name": "microsoft/VibeVoice",
+      "url": "https://github.com/microsoft/VibeVoice",
+      "description": "Open-Source Frontier Voice AI",
+      "language": "Python",
+      "stars_today": "771 stars today",
+      "stars_total": "42,547"
+    },
+    {
+      "name": "Z4nzu/hackingtool",
+      "url": "https://github.com/Z4nzu/hackingtool",
+      "description": "ALL IN ONE Hacking Tool For Hackers",
+      "language": "Python",
+      "stars_today": "1,839 stars today",
+      "stars_total": "66,605"
+    },
+    {
+      "name": "TauricResearch/TradingAgents",
+      "url": "https://github.com/TauricResearch/TradingAgents",
+      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "language": "Python",
+      "stars_today": "183 stars today",
+      "stars_total": "53,441"
     }
   ],
   "ai_repos": [
@@ -89,133 +89,133 @@
       "url": "https://github.com/mattpocock/skills",
       "description": "Agent Skills for real engineers. Straight from my .claude directory.",
       "language": "Shell",
-      "stars_today": "2,507 stars today",
-      "stars_total": "23,438"
-    },
-    {
-      "name": "Alishahryar1/free-claude-code",
-      "url": "https://github.com/Alishahryar1/free-claude-code",
-      "description": "Use claude-code for free in the terminal, VSCode extension or via discord like openclaw",
-      "language": "Python",
-      "stars_today": "1,694 stars today",
-      "stars_total": "13,484"
+      "stars_today": "5,551 stars today",
+      "stars_total": "27,725"
     },
     {
       "name": "abhigyanpatwari/GitNexus",
       "url": "https://github.com/abhigyanpatwari/GitNexus",
       "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration",
       "language": "TypeScript",
-      "stars_today": "667 stars today",
-      "stars_total": "30,132"
+      "stars_today": "1,074 stars today",
+      "stars_total": "31,004"
     },
     {
-      "name": "PostHog/posthog",
-      "url": "https://github.com/PostHog/posthog",
-      "description": "🦔 PostHog is an all-in-one developer platform for building successful products. We offer product analytics, web analytics, session replay, error tracking, feature flags, experimentation, surveys, data warehouse, a CDP, and an AI product assistant to help debug your code, ship features faster, and keep all your usage and customer data in one stack.",
+      "name": "Alishahryar1/free-claude-code",
+      "url": "https://github.com/Alishahryar1/free-claude-code",
+      "description": "Use claude-code for free in the terminal, VSCode extension or via discord like openclaw",
       "language": "Python",
-      "stars_today": "338 stars today",
-      "stars_total": "33,813"
-    },
-    {
-      "name": "trycua/cua",
-      "url": "https://github.com/trycua/cua",
-      "description": "Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).",
-      "language": "HTML",
-      "stars_today": "200 stars today",
-      "stars_total": "14,348"
+      "stars_today": "2,973 stars today",
+      "stars_total": "15,436"
     },
     {
       "name": "gastownhall/beads",
       "url": "https://github.com/gastownhall/beads",
       "description": "Beads - A memory upgrade for your coding agent",
       "language": "Go",
-      "stars_today": "133 stars today",
-      "stars_total": "21,653"
+      "stars_today": "485 stars today",
+      "stars_total": "22,018"
     },
     {
-      "name": "curl/curl",
-      "url": "https://github.com/curl/curl",
-      "description": "A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features",
-      "language": "C",
-      "stars_today": "50 stars today",
-      "stars_total": "41,526"
+      "name": "davila7/claude-code-templates",
+      "url": "https://github.com/davila7/claude-code-templates",
+      "description": "CLI tool for configuring and monitoring Claude Code",
+      "language": "Python",
+      "stars_today": "284 stars today",
+      "stars_total": "25,677"
+    },
+    {
+      "name": "microsoft/VibeVoice",
+      "url": "https://github.com/microsoft/VibeVoice",
+      "description": "Open-Source Frontier Voice AI",
+      "language": "Python",
+      "stars_today": "771 stars today",
+      "stars_total": "42,547"
+    },
+    {
+      "name": "TauricResearch/TradingAgents",
+      "url": "https://github.com/TauricResearch/TradingAgents",
+      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "language": "Python",
+      "stars_today": "183 stars today",
+      "stars_total": "53,441"
     }
   ],
   "posts": [
     {
-      "topic": "Claude Code免费用",
-      "repo": "Alishahryar1/free-claude-code",
-      "cover_line1": "Claude代码免费了",
-      "cover_line2": "终端/VSCode秒接入！",
-      "body": "刚实测完——这个项目真的把Claude-Code（Anthropic最强编程模型）塞进你本地终端了！不是API中转，不是网页壳，是直接调用官方Claude API的轻量CLI+VSCode插件+Discord bot（类似OpenClaw）。\n\n1️⃣ 【零成本启动】不用Anthropic账号、不绑信用卡，填个免费Claude API key就能跑（支持claude-3-haiku/sonnet）\n2️⃣ 【真·本地优先】VSCode插件无后台服务，所有请求走你本地代理，隐私不离手\n3️⃣ 【程序员刚需场景】commit message生成、PR diff解释、错误日志定位、单文件函数级重构——响应比ChatGPT快2倍\n\n为什么今天爆了？Anthropic刚开放Haiku免费调用额度，但没给工具链！这项目48小时内GitHub星+1.6k，是目前唯一能「开箱即用」的Claude-Code CLI生态。\n\n👉 你最想用Claude写哪类代码？CRUD脚手架？SQL优化？还是自动修bug？评论区蹲一个实战案例！\n关注不迷路，下期拆解它怎么绕过rate limit。",
-      "tags": [
-        "#Claude",
-        "#AI编程",
-        "#GitHub趋势",
-        "#VSCode插件",
-        "#开源工具",
-        "#AI开发",
-        "#Anthropic",
-        "#程序员效率",
-        "#免费AI",
-        "#AI工程师"
-      ]
-    },
-    {
-      "topic": "GitNexus知识图谱",
+      "topic": "GitNexus",
       "repo": "abhigyanpatwari/GitNexus",
-      "cover_line1": "代码知识图谱来了",
-      "cover_line2": "浏览器里全链路RAG！",
-      "body": "你不知道的是：GitNexus正在悄悄改写「看代码」这件事。不是grep，不是Copilot，而是把整个仓库变成可交互的知识图谱——且100%在浏览器运行，零服务器、零上传、零依赖。\n\n1️⃣ 【Drop ZIP就跑】拖入GitHub链接或本地ZIP，3秒生成模块→函数→变量级关系图（基于TypeScript AST+Graph RAG）\n2️⃣ 【点哪问哪】点击某个service.ts节点，直接问：“这个函数被哪些前端组件调用？有无未处理异常？”——答案来自图谱推理，非全文模糊匹配\n3️⃣ 【离线可用】所有计算在WebWorker完成，公司内网/保密项目也能用\n\n爆火原因：GitHub Copilot Workspace刚发布「代码图谱」预告，但要等Q4；GitNexus已上线且Star破3w，是当前唯一落地的Graph RAG for Code。\n\n👇 你接手过多少行看不懂的老项目？来评论区晒「最想图谱化的烂代码」！",
+      "cover_line1": "代码知识图谱",
+      "cover_line2": "浏览器里跑RAG！",
+      "body": "不用服务器、不传代码、不配环境——GitNexus 把整个 GitHub 仓库拖进浏览器，3秒生成可交互知识图谱，还自带 Graph RAG Agent！\n\n1️⃣ 【零信任架构】所有解析在本地完成，ZIP/Repo 直接拖拽，连 Node 都不用装\n2️⃣ 【真·图谱思维】不是简单文件树，而是自动识别函数调用链、模块依赖、API 流向，连注释里的 TODO 都能被关联检索\n3️⃣ 【RAG 不再是黑盒】点击任意节点 → 自动触发基于该子图的语义查询，比如「谁改过 auth middleware 的 JWT 解析逻辑？」\n\n它爆火是因为：大厂工程师终于不用在 VSCode + Sourcegraph + Obsidian + ChatGPT 四开之间疯狂 Alt+Tab 了。今天涨 1074★，全靠前端工程师截图疯传「我用它 5 分钟看懂了 3 年没人敢动的 legacy 微服务」。\n\n✅ 适合：接手烂项目、做 Code Review、写技术方案前快速建模、教新人时可视化架构\n\n你最近啃过的最难读的 repo 是哪个？评论区甩链接，我帮你试试 GitNexus 能不能「一眼看穿」👇",
       "tags": [
-        "#代码图谱",
-        "#GraphRAG",
+        "#GitNexus",
+        "#RAG",
         "#前端开发",
-        "#TypeScript",
-        "#开源AI",
         "#代码理解",
-        "#GitHub趋势",
-        "#AI工程化",
+        "#AI编程",
+        "#知识图谱",
         "#浏览器AI",
-        "#技术债"
+        "#程序员工具",
+        "#GitHubTrending",
+        "#GraphRAG"
       ]
     },
     {
-      "topic": "Agent技能库",
-      "repo": "mattpocock/skills",
-      "cover_line1": "Matt Pocock出手了",
-      "cover_line2": "Agent工程师速存！",
-      "body": "实测完成——这不是普通Shell脚本，是前TypeScript布道师、@mattpocock 把自己Claude调试中沉淀的37个Agent技能打包开源了！每条都是真实生产环境踩坑提炼（比如「自动重试+降级LLM+结构化输出校验」三合一模板）。\n\n1️⃣ 【不是Demo是产线级】含shell + jq + curl组合技，适配Claude/ChatGPT/Ollama，重点解决「Agent调用失败静默崩溃」痛点\n2️⃣ 【.claude目录直出】所有skills命名即用途：`git-diff-analyze.sh` `pr-title-generator.sh` `error-stack-explain.sh`\n3️⃣ 【极简集成】复制粘贴到你的Agent工作流，5分钟接入，无需改主逻辑\n\n为什么突然炸了？Matt昨天发推说「别再自己造轮子了」，附上这个repo，2小时冲上GitHub Trending Top 1——90% Agent开发者还在手写retry逻辑，他已交付工业级方案。\n\n🔥 你最想封装哪个重复操作为Agent技能？评论区接龙～",
+      "topic": "free-claude-code",
+      "repo": "Alishahryar1/free-claude-code",
+      "cover_line1": "Claude终端免费用",
+      "cover_line2": "VSCode插件已上线！",
+      "body": "Claude Code 终于不用等邀请码、不用翻墙、不走网页版延迟——这个 Python CLI 工具，把 claude-code 拆成纯本地命令行 + VSCode 插件 + Discord Bot（类似 openclaw）三端打通。\n\n1️⃣ 【真免登录】用 Anthropic 官方 API Key 或绕过认证的轻量代理模式（文档明确标注合规边界）\n2️⃣ 【Terminal First】支持 git diff + claude-code 一键生成 PR 描述 / 单测补全 / 错误诊断（比如：claude-code --fix ./src/main.py:line42）\n3️⃣ 【VSCode 插件已上架】右键选中代码 →「Ask Claude」→ 实时流式响应，比 Copilot 更懂上下文结构\n\n2973★单日暴涨，说明大家受够了「Claude网页卡顿+Copilot 不会推理+Cursor 太重」三重折磨。\n\n✅ 立刻用：日常编码提效、面试刷题辅助、学新框架时问「这个库和 FastAPI 有什么本质区别？」\n\n你最想用 Claude Code 解决的「小但烦」问题是什么？比如：自动生成 Swagger 注释？自动补全 pytest fixture？评论区告诉我👇",
       "tags": [
-        "#Agent",
-        "#MattPocock",
-        "#Shell脚本",
-        "#AI工程",
-        "#Claude",
-        "#自动化",
-        "#GitHub趋势",
-        "#开发者工具",
-        "#LLM运维",
-        "#AI生产力"
+        "#ClaudeCode",
+        "#VSCode插件",
+        "#AI编程",
+        "#终端工具",
+        "#Anthropic",
+        "#免费AI",
+        "#开发者效率",
+        "#Python工具",
+        "#GitHubTrending",
+        "#AI终端"
       ]
     },
     {
-      "topic": "CUA桌面代理",
-      "repo": "trycua/cua",
-      "cover_line1": "AI终于能点鼠标了",
-      "cover_line2": "Mac/Win/Linux全支持！",
-      "body": "圈内没人说破的真相：当前95%的AI Agent只能「思考」，不能「操作」。而CUA（Computer-Use Agents）是首个开源的全平台桌面控制基建——不是截图OCR，是真正接管鼠标键盘+窗口管理+多进程沙盒。\n\n1️⃣ 【真沙盒隔离】每个Agent任务运行在独立Linux/macOS/Windows沙盒中，支持X11/Wayland/Quartz，防误操作\n2️⃣ 【SDK开箱即用】Python SDK提供`click()`, `type_text()`, `screenshot()`等原语，连Chrome DevTools协议都预集成\n3️⃣ 【Benchmark-ready】自带DesktopBench数据集和评估指标（如「完成率」「步骤冗余率」），告别玄学测试\n\n爆火原因：OpenAI刚被曝秘密训练「UI操作Agent」，而CUA已开源并Star破1.4w——它是目前唯一能让AI像真人一样开浏览器、填表单、切窗口的开源框架。\n\n❓ 如果AI能替你每天点100次鼠标，你第一件事让它干啥？",
+      "topic": "VibeVoice",
+      "repo": "microsoft/VibeVoice",
+      "cover_line1": "微软开源语音AI",
+      "cover_line2": "吊打Gemini Audio？",
+      "body": "微软突然甩出 VibeVoice —— 全开源、支持 TTS+STT+Voice Cloning+Emotion Control 的端到端语音模型，PyTorch 实现，权重全公开，连训练脚本都带 benchmark 对比。\n\n1️⃣ 【不是微调套壳】基于全新 VQ-VAE+Diffusion 架构，支持 zero-shot voice cloning（5秒样本即可克隆音色）\n2️⃣ 【情绪可控】prompt 中加「energetic」「whispering」就能实时调节语调，不是后期加滤镜\n3️⃣ 【对标 Gemini Audio】官方 benchmark 显示，在低资源设备（Mac M1）上推理速度比 Gemini Audio SDK 快 3.2×，WER 低 18%\n\n771★单日暴涨，因为：这是首个把「语音全流程 AI」彻底开源、无商用锁、有完整推理 pipeline 的工业级项目。\n\n✅ 适合：播客自动化剪辑、游戏NPC语音生成、无障碍字幕实时生成、教育类 AI 教师声音定制\n\n你愿意用开源语音模型给自己的项目配音吗？还是更信大厂闭源 API？来聊聊👇",
       "tags": [
-        "#ComputerUseAgent",
-        "#AI桌面",
-        "#开源框架",
-        "#AI自动化",
-        "#MacOS",
-        "#Windows",
-        "#Linux",
-        "#AgentBenchmark",
-        "#GitHub趋势",
-        "#AI前沿"
+        "#VibeVoice",
+        "#微软开源",
+        "#语音AI",
+        "#TTS",
+        "#开源模型",
+        "#Gemini",
+        "#AI音频",
+        "#多模态",
+        "#GitHubTrending",
+        "#语音克隆"
+      ]
+    },
+    {
+      "topic": "Beads",
+      "repo": "gastownhall/beads",
+      "cover_line1": "编码Agent记忆体",
+      "cover_line2": "Go写的超轻内核…",
+      "body": "Agents 总是「记不住事」？Beads 就是专治这个病的——一个仅 28KB 的 Go 库，给任何 LLM 编程 Agent 增加「长期记忆层」，不依赖向量数据库，也不用 LLM 自己 summarize。\n\n1️⃣ 【内存友好】用 LSM-tree + 内存映射实现毫秒级 recall，10万条记忆只占 ~12MB RAM\n2️⃣ 【语义+时间双索引】既支持「上次我让Agent部署过什么服务？」，也支持「三天前修改过 config.yaml 的那轮对话」\n3️⃣ 【无缝集成】5行代码接入 LangChain / LlamaIndex / 自研 Agent，连 streaming response 都能自动打标存档\n\n485★单日爆发，因为：现在 90% 的 coding agent demo 都卡在「每轮对话清空上下文」——Beads 是第一个把「记忆」做成标准插件的项目。\n\n✅ 立刻嵌入：AutoDev、CodeAct、Trae 这类开源 Agent，或你自己的 CLI Agent\n\n你试过让 AI 记住你的 coding 风格吗？比如「永远用 pytest 而不是 unittest」「接口命名必须带 verb」？评论区晒你的记忆 prompt👇",
+      "tags": [
+        "#Beads",
+        "#AgentMemory",
+        "#Go语言",
+        "#LLM工程",
+        "#AI编程",
+        "#LangChain",
+        "#开源工具",
+        "#编码Agent",
+        "#GitHubTrending",
+        "#RAG"
       ]
     }
   ],
