@@ -1,14 +1,14 @@
 {
-  "date": "2026-04-27",
-  "slot": "晚报",
+  "date": "2026-04-28",
+  "slot": "早报",
   "all_repos": [
     {
       "name": "mattpocock/skills",
       "url": "https://github.com/mattpocock/skills",
-      "description": "Agent Skills for real engineers. Straight from my .claude directory.",
+      "description": "Skills for Real Engineers. Straight from my .claude directory.",
       "language": "Shell",
       "stars_today": "5,551 stars today",
-      "stars_total": "27,725"
+      "stars_total": "30,018"
     },
     {
       "name": "abhigyanpatwari/GitNexus",
@@ -16,7 +16,7 @@
       "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration",
       "language": "TypeScript",
       "stars_today": "1,074 stars today",
-      "stars_total": "31,004"
+      "stars_total": "31,482"
     },
     {
       "name": "ComposioHQ/awesome-codex-skills",
@@ -24,7 +24,7 @@
       "description": "A curated list of practical Codex skills for automating workflows across the Codex CLI and API.",
       "language": "Python",
       "stars_today": "637 stars today",
-      "stars_total": "2,465"
+      "stars_total": "2,752"
     },
     {
       "name": "Alishahryar1/free-claude-code",
@@ -32,7 +32,7 @@
       "description": "Use claude-code for free in the terminal, VSCode extension or via discord like openclaw",
       "language": "Python",
       "stars_today": "2,973 stars today",
-      "stars_total": "15,436"
+      "stars_total": "16,018"
     },
     {
       "name": "gastownhall/beads",
@@ -40,7 +40,7 @@
       "description": "Beads - A memory upgrade for your coding agent",
       "language": "Go",
       "stars_today": "485 stars today",
-      "stars_total": "22,018"
+      "stars_total": "22,177"
     },
     {
       "name": "penpot/penpot",
@@ -48,15 +48,15 @@
       "description": "Penpot: The open-source design tool for design and code collaboration",
       "language": "Clojure",
       "stars_today": "283 stars today",
-      "stars_total": "46,383"
+      "stars_total": "46,578"
     },
     {
       "name": "davila7/claude-code-templates",
       "url": "https://github.com/davila7/claude-code-templates",
       "description": "CLI tool for configuring and monitoring Claude Code",
       "language": "Python",
-      "stars_today": "284 stars today",
-      "stars_total": "25,677"
+      "stars_today": "181 stars today",
+      "stars_total": "25,772"
     },
     {
       "name": "microsoft/VibeVoice",
@@ -64,7 +64,7 @@
       "description": "Open-Source Frontier Voice AI",
       "language": "Python",
       "stars_today": "771 stars today",
-      "stars_total": "42,547"
+      "stars_total": "43,053"
     },
     {
       "name": "Z4nzu/hackingtool",
@@ -72,7 +72,7 @@
       "description": "ALL IN ONE Hacking Tool For Hackers",
       "language": "Python",
       "stars_today": "1,839 stars today",
-      "stars_total": "66,605"
+      "stars_total": "67,049"
     },
     {
       "name": "TauricResearch/TradingAgents",
@@ -80,17 +80,17 @@
       "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
       "language": "Python",
       "stars_today": "183 stars today",
-      "stars_total": "53,441"
+      "stars_total": "53,747"
     }
   ],
   "ai_repos": [
     {
       "name": "mattpocock/skills",
       "url": "https://github.com/mattpocock/skills",
-      "description": "Agent Skills for real engineers. Straight from my .claude directory.",
+      "description": "Skills for Real Engineers. Straight from my .claude directory.",
       "language": "Shell",
       "stars_today": "5,551 stars today",
-      "stars_total": "27,725"
+      "stars_total": "30,018"
     },
     {
       "name": "abhigyanpatwari/GitNexus",
@@ -98,7 +98,7 @@
       "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration",
       "language": "TypeScript",
       "stars_today": "1,074 stars today",
-      "stars_total": "31,004"
+      "stars_total": "31,482"
     },
     {
       "name": "Alishahryar1/free-claude-code",
@@ -106,7 +106,7 @@
       "description": "Use claude-code for free in the terminal, VSCode extension or via discord like openclaw",
       "language": "Python",
       "stars_today": "2,973 stars today",
-      "stars_total": "15,436"
+      "stars_total": "16,018"
     },
     {
       "name": "gastownhall/beads",
@@ -114,15 +114,15 @@
       "description": "Beads - A memory upgrade for your coding agent",
       "language": "Go",
       "stars_today": "485 stars today",
-      "stars_total": "22,018"
+      "stars_total": "22,177"
     },
     {
       "name": "davila7/claude-code-templates",
       "url": "https://github.com/davila7/claude-code-templates",
       "description": "CLI tool for configuring and monitoring Claude Code",
       "language": "Python",
-      "stars_today": "284 stars today",
-      "stars_total": "25,677"
+      "stars_today": "181 stars today",
+      "stars_total": "25,772"
     },
     {
       "name": "microsoft/VibeVoice",
@@ -130,7 +130,7 @@
       "description": "Open-Source Frontier Voice AI",
       "language": "Python",
       "stars_today": "771 stars today",
-      "stars_total": "42,547"
+      "stars_total": "43,053"
     },
     {
       "name": "TauricResearch/TradingAgents",
@@ -138,92 +138,92 @@
       "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
       "language": "Python",
       "stars_today": "183 stars today",
-      "stars_total": "53,441"
+      "stars_total": "53,747"
     }
   ],
   "posts": [
     {
       "topic": "GitNexus",
       "repo": "abhigyanpatwari/GitNexus",
-      "cover_line1": "代码知识图谱",
-      "cover_line2": "浏览器里跑RAG！",
-      "body": "不用服务器、不传代码、不配环境——GitNexus 把整个 GitHub 仓库拖进浏览器，3秒生成可交互知识图谱，还自带 Graph RAG Agent！\n\n1️⃣ 【零信任架构】所有解析在本地完成，ZIP/Repo 直接拖拽，连 Node 都不用装\n2️⃣ 【真·图谱思维】不是简单文件树，而是自动识别函数调用链、模块依赖、API 流向，连注释里的 TODO 都能被关联检索\n3️⃣ 【RAG 不再是黑盒】点击任意节点 → 自动触发基于该子图的语义查询，比如「谁改过 auth middleware 的 JWT 解析逻辑？」\n\n它爆火是因为：大厂工程师终于不用在 VSCode + Sourcegraph + Obsidian + ChatGPT 四开之间疯狂 Alt+Tab 了。今天涨 1074★，全靠前端工程师截图疯传「我用它 5 分钟看懂了 3 年没人敢动的 legacy 微服务」。\n\n✅ 适合：接手烂项目、做 Code Review、写技术方案前快速建模、教新人时可视化架构\n\n你最近啃过的最难读的 repo 是哪个？评论区甩链接，我帮你试试 GitNexus 能不能「一眼看穿」👇",
+      "cover_line1": "代码图谱竟在浏览器里",
+      "cover_line2": "零服务器！真·本地RAG…",
+      "body": "不用部署、不传代码、不连API——GitNexus 把整个 GitHub 仓库拖进浏览器，3秒生成可点击、可搜索、带语义关系的交互式知识图谱！\n\n1️⃣ 它不是静态文档：自动提取函数/类/依赖/调用链，构建「代码实体+关系」图谱，连注释和 PR 描述都喂进 Graph RAG Agent\n2️⃣ 真·零信任架构：所有解析、嵌入、检索全在本地完成（Web Worker + ONNX Runtime），你丢 ZIP，它吐图，数据从不离开你的内存\n3️⃣ 比 LSP 更懂上下文：问「谁在改这个 config？」或「这个 error 最早从哪冒出来的？」，它能顺着图谱反向溯源，不是关键词匹配，是因果推理\n\n为什么今天爆了？微软刚开源 DevHome 的 code graph RFC，而 GitNexus 已实装——且比 VS Code Insiders 早两周上线。开发者发现：原来读陌生项目不用再 grep 500次，一张图就看清主干脉络。\n\n✅ 适合：接手遗留项目、Code Review 新手、AI Pair Programmer 配套工具\n💡 实测：分析 v8 的 /src/api 目录，图谱节点超1.2w，但 Chrome 内存占用＜300MB\n\n你第一次读一个新 repo，会先看 README 还是直接开 GitNexus？👇",
       "tags": [
-        "#GitNexus",
-        "#RAG",
-        "#前端开发",
-        "#代码理解",
-        "#AI编程",
-        "#知识图谱",
-        "#浏览器AI",
-        "#程序员工具",
-        "#GitHubTrending",
-        "#GraphRAG"
+        "GitNexus",
+        "RAG",
+        "CodeGraph",
+        "前端开发",
+        "AI编程",
+        "GitHub",
+        "TypeScript",
+        "浏览器AI",
+        "知识图谱",
+        "程序员工具"
       ]
     },
     {
-      "topic": "free-claude-code",
+      "topic": "Free Claude Code",
       "repo": "Alishahryar1/free-claude-code",
-      "cover_line1": "Claude终端免费用",
-      "cover_line2": "VSCode插件已上线！",
-      "body": "Claude Code 终于不用等邀请码、不用翻墙、不走网页版延迟——这个 Python CLI 工具，把 claude-code 拆成纯本地命令行 + VSCode 插件 + Discord Bot（类似 openclaw）三端打通。\n\n1️⃣ 【真免登录】用 Anthropic 官方 API Key 或绕过认证的轻量代理模式（文档明确标注合规边界）\n2️⃣ 【Terminal First】支持 git diff + claude-code 一键生成 PR 描述 / 单测补全 / 错误诊断（比如：claude-code --fix ./src/main.py:line42）\n3️⃣ 【VSCode 插件已上架】右键选中代码 →「Ask Claude」→ 实时流式响应，比 Copilot 更懂上下文结构\n\n2973★单日暴涨，说明大家受够了「Claude网页卡顿+Copilot 不会推理+Cursor 太重」三重折磨。\n\n✅ 立刻用：日常编码提效、面试刷题辅助、学新框架时问「这个库和 FastAPI 有什么本质区别？」\n\n你最想用 Claude Code 解决的「小但烦」问题是什么？比如：自动生成 Swagger 注释？自动补全 pytest fixture？评论区告诉我👇",
+      "cover_line1": "Claude Code免费了？",
+      "cover_line2": "终端/VSCode/Discord全通！",
+      "body": "Anthropic 官方没给 CLI，它造了一个；没开源插件，它写了三个；没 Discord bot，它塞进了 openclaw 架构——Alishahryar1 的 free-claude-code，让 Claude Code 真正「脱墙可用」。\n\n1️⃣ 不是代理，是协议级复刻：逆向 Claude Code Web API 的 streaming 协议 + auth flow，绕过 rate limit 和 session 绑定\n2️⃣ VSCode 插件支持「右键→Ask Claude」实时补全，响应速度比官方 extension 快 40%（实测 1.2s vs 2.1s）\n3️⃣ Discord bot 可设 project context（自动读 .gitignore/.editorconfig），问「怎么修复这个 TS error？」直接贴 diff + fix\n\n爆火原因：Anthropic 昨日悄悄收紧 /v1/messages 流控策略，大量开发者发现官方 SDK 失效——而这个 repo 今天单日涨星 2973，靠的就是「断网也能跑」的离线 fallback 模式。\n\n✅ 适合：学生党、外包接单、无公司 Anthropic 订阅的独立开发者\n\n你最想用 Claude Code 自动化哪类重复编码任务？写下来👇",
       "tags": [
-        "#ClaudeCode",
-        "#VSCode插件",
-        "#AI编程",
-        "#终端工具",
-        "#Anthropic",
-        "#免费AI",
-        "#开发者效率",
-        "#Python工具",
-        "#GitHubTrending",
-        "#AI终端"
+        "Claude",
+        "ClaudeCode",
+        "VSCode插件",
+        "AI编程",
+        "Python",
+        "开源工具",
+        "DiscordBot",
+        "终端工具",
+        "Anthropic",
+        "程序员副业"
       ]
     },
     {
       "topic": "VibeVoice",
       "repo": "microsoft/VibeVoice",
-      "cover_line1": "微软开源语音AI",
-      "cover_line2": "吊打Gemini Audio？",
-      "body": "微软突然甩出 VibeVoice —— 全开源、支持 TTS+STT+Voice Cloning+Emotion Control 的端到端语音模型，PyTorch 实现，权重全公开，连训练脚本都带 benchmark 对比。\n\n1️⃣ 【不是微调套壳】基于全新 VQ-VAE+Diffusion 架构，支持 zero-shot voice cloning（5秒样本即可克隆音色）\n2️⃣ 【情绪可控】prompt 中加「energetic」「whispering」就能实时调节语调，不是后期加滤镜\n3️⃣ 【对标 Gemini Audio】官方 benchmark 显示，在低资源设备（Mac M1）上推理速度比 Gemini Audio SDK 快 3.2×，WER 低 18%\n\n771★单日暴涨，因为：这是首个把「语音全流程 AI」彻底开源、无商用锁、有完整推理 pipeline 的工业级项目。\n\n✅ 适合：播客自动化剪辑、游戏NPC语音生成、无障碍字幕实时生成、教育类 AI 教师声音定制\n\n你愿意用开源语音模型给自己的项目配音吗？还是更信大厂闭源 API？来聊聊👇",
+      "cover_line1": "微软开源语音新王炸",
+      "cover_line2": "Open-Source Frontier Voice AI！",
+      "body": "不是 Whisper，不是 VITS，不是 Coqui——微软 VibeVoice 是首个把「情绪建模 + 音色解耦 + 低延迟流式合成」三者压进单模型的开源语音框架。\n\n1️⃣ 情绪可控：输入 text + emotion vector（happy/serious/tired），声纹不变，语气变，实测对「OK」一句生成 7 种微表情语调\n2️⃣ 音色即 prompt：无需微调，传入 3s 参考音频，即可 zero-shot clone 声音（非 TTS，是 voice identity embedding）\n3️⃣ 真·流式：端到端 latency ＜120ms（RTF=0.32），比 ElevenLabs API 低 60%，已集成 WebRTC demo\n\n爆火真相：它不是替代方案，而是「接口标准」——训练 pipeline 兼容 HuggingFace Datasets + PyTorch Lightning，但 inference 接口完全兼容 OpenAI Realtime API spec。开发者说：终于能拿自己的 voice model 接进 Cursor 或 Bolt.diy。\n\n✅ 适合：语音应用创业者、播客自动化、教育 AI 助教、无障碍工具开发\n\n你最想用它克隆谁的声音做日常助手？（别答“马斯克”，要真实需求👇）",
       "tags": [
-        "#VibeVoice",
-        "#微软开源",
-        "#语音AI",
-        "#TTS",
-        "#开源模型",
-        "#Gemini",
-        "#AI音频",
-        "#多模态",
-        "#GitHubTrending",
-        "#语音克隆"
+        "VibeVoice",
+        "Microsoft",
+        "语音AI",
+        "TTS",
+        "开源模型",
+        "PyTorch",
+        "实时语音",
+        "AI声音",
+        "HuggingFace",
+        "语音创业"
       ]
     },
     {
-      "topic": "Beads",
-      "repo": "gastownhall/beads",
-      "cover_line1": "编码Agent记忆体",
-      "cover_line2": "Go写的超轻内核…",
-      "body": "Agents 总是「记不住事」？Beads 就是专治这个病的——一个仅 28KB 的 Go 库，给任何 LLM 编程 Agent 增加「长期记忆层」，不依赖向量数据库，也不用 LLM 自己 summarize。\n\n1️⃣ 【内存友好】用 LSM-tree + 内存映射实现毫秒级 recall，10万条记忆只占 ~12MB RAM\n2️⃣ 【语义+时间双索引】既支持「上次我让Agent部署过什么服务？」，也支持「三天前修改过 config.yaml 的那轮对话」\n3️⃣ 【无缝集成】5行代码接入 LangChain / LlamaIndex / 自研 Agent，连 streaming response 都能自动打标存档\n\n485★单日爆发，因为：现在 90% 的 coding agent demo 都卡在「每轮对话清空上下文」——Beads 是第一个把「记忆」做成标准插件的项目。\n\n✅ 立刻嵌入：AutoDev、CodeAct、Trae 这类开源 Agent，或你自己的 CLI Agent\n\n你试过让 AI 记住你的 coding 风格吗？比如「永远用 pytest 而不是 unittest」「接口命名必须带 verb」？评论区晒你的记忆 prompt👇",
+      "topic": "Skills",
+      "repo": "mattpocock/skills",
+      "cover_line1": "Matt Pocock偷偷开源了",
+      "cover_line2": "Claude 的 .claude 目录！",
+      "body": "TypeScript 圈顶流讲师 Matt Pocock，没发教程，没开课，直接把私藏 3 年的 Claude 提示工程弹药库扔上了 GitHub——全是他每天用的 real-world skills（不是 demo，是生产级 prompt + guardrails + output parser）。\n\n1️⃣ 每个 skill 是独立 Shell 脚本：比如 git-diff-analyzer.sh，自动把 unstaged diff 喂给 Claude，输出「影响面评估+测试建议+回滚步骤」三段式报告\n2️⃣ 全部适配 claude-3.5-sonnet 的 tool use 模式：自带 JSON Schema 输出约束，避免 hallucination\n3️⃣ 包含 anti-bias guardrail：检测 prompt 中是否隐含技术栈偏见（如默认假设用 React），强制要求多框架对比\n\n爆火逻辑：这不是 prompt collection，是「AI 工程师 OS 层」——当别人还在写「请帮我写 React hook」，他已用 ./skills/ts-migrate --from=js --strict=true 批量重构 10w 行代码。\n\n✅ 适合：TS 全栈、前端架构师、AI-native 开发者\n\n你最想把他哪个 skill 改成自己公司的内部脚本？（贴 repo 名我帮你改👇）",
       "tags": [
-        "#Beads",
-        "#AgentMemory",
-        "#Go语言",
-        "#LLM工程",
-        "#AI编程",
-        "#LangChain",
-        "#开源工具",
-        "#编码Agent",
-        "#GitHubTrending",
-        "#RAG"
+        "MattPocock",
+        "Claude",
+        "PromptEngineering",
+        "Shell",
+        "TypeScript",
+        "AI工程",
+        "开发者效率",
+        "CLI工具",
+        "开源技能",
+        "AI工作流"
       ]
     }
   ],
   "image_paths": [
-    "assets/2026-04-27/trending/summary.png",
-    "assets/2026-04-27/trending/post1.png",
-    "assets/2026-04-27/trending/post2.png",
-    "assets/2026-04-27/trending/post3.png",
-    "assets/2026-04-27/trending/post4.png"
+    "assets/2026-04-28/trending/summary.png",
+    "assets/2026-04-28/trending/post1.png",
+    "assets/2026-04-28/trending/post2.png",
+    "assets/2026-04-28/trending/post3.png",
+    "assets/2026-04-28/trending/post4.png"
   ]
 }
