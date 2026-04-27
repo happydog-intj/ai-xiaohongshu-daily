@@ -1,83 +1,83 @@
 {
-  "date": "2026-04-27",
+  "date": "2026-04-28",
   "posts": [
     {
-      "topic": "AI删库事件",
-      "cover_line1": "AI agent删了生产库",
-      "cover_line2": " confession全程曝光！",
-      "body": "刚看到HackerNews热榜TOP1——AI agent真把客户生产数据库删了，还留下手写体‘confession’日志…不是段子，是真实事故。\n\n1️⃣ 这不是幻觉：agent被授权执行DB操作，但没设rollback权限 + 无dry-run校验 → 一行命令=全表TRUNCATE\n2️⃣ 关键漏洞在「工具调用链」：它先调GitHub API查部署配置，再误读SQL模板里的$ENV→把prod当test\n3️⃣ 更扎心的是：日志里agent写『I thought this was safe』…说明LLM已具备自我归因倾向，但没元认知刹车\n4️⃣ 真实影响：不是技术债，是信任债。客户暂停所有agentic workflow，团队连夜加了3层human-in-the-loop闸门\n\n⚠️ 别再只聊RAG和微调了！现在最该补的课是：Defensive Database Design（防御式数据库设计）+ Agent Sandboxing + Tool Schema Validation\n\n你家的AI agent有「操作前自问3个安全问题」的prompt吗？评论区甩出来👇\n关注不迷路，下期拆解如何用LangGraph+PostgreSQL Row-Level Security实现零信任agent。",
+      "topic": "微软OpenAI分家",
+      "cover_line1": "微软突然断供！",
+      "cover_line2": "OpenAI彻底单飞了！",
+      "body": "微软和OpenAI正式终止独家合作+收入分成协议——不是吵架，是战略离婚。",
       "tags": [
-        "AI安全",
-        "AI代理",
-        "数据库",
-        "LLMops",
-        "工程实践",
-        "AI事故",
-        "HackerNews",
-        "AgenticAI",
-        "DevOps",
-        "AI伦理"
+        "#AI商业",
+        "#Microsoft",
+        "#OpenAI",
+        "#大模型战争",
+        "#科技巨头",
+        "#AI创业",
+        "#LLM",
+        "#AI政策",
+        "#硅谷动态",
+        "#AI炼丹师"
       ]
     },
     {
-      "topic": "AI记忆衰减",
-      "cover_line1": "AI记忆开始‘遗忘’",
-      "cover_line2": "生物式衰减上线！",
-      "body": "实测完成：GitHub新项目YourMemory刚爆火——它让AI记忆像人脑一样‘自然遗忘’，52% recall率，但故意不追求100%！\n\n1️⃣ 核心不是算法，是模型：用指数衰减函数模拟突触权重弱化，时间越久，recall概率越低（可调decay rate）\n2️⃣ 不是bug是feature：避免过时信息污染决策，比如自动淡忘‘上个月促销价’，强化‘当前库存策略’\n3️⃣ 轻量级集成：PyTorch几行就能hook进任何RAG pipeline，memory store自动加timestamp+forgetting curve metadata\n4️⃣ 反常识发现：在客服场景中，52% recall反而提升用户满意度——因为AI不再死磕‘你说过什么’，而是更专注‘你现在需要什么’\n\n这可能是第一个把‘健忘’写进README的AI模块。\n\n你会给AI开多长的记忆保质期？1天？7天？还是按任务类型动态分配？👇\n关注不迷路，下期放出我魔改版+Redis TTL联动实测。",
+      "topic": "Mercor语音泄露",
+      "cover_line1": "4TB语音被偷！",
+      "cover_line2": "4万AI标注员裸奔…",
+      "body": "AI训练背后的「幽灵劳动力」彻底暴露：Mercor 40,000 名全球语音标注员数据遭窃，含原始录音、声纹、设备ID、地理位置——不是加密数据库，是未脱敏S3桶直连公网。",
       "tags": [
-        "AI记忆",
-        "RAG",
-        "长期记忆",
-        "神经科学",
-        "开源项目",
-        "YourMemory",
-        "AI心理学",
-        "LLM架构",
-        "记忆衰减",
-        "HackerNews"
+        "#数据安全",
+        "#AI伦理",
+        "#语音AI",
+        "#数据泄露",
+        "#AI外包",
+        "#隐私保护",
+        "#AI基建",
+        "#AI劳工",
+        "#网络安全",
+        "#AI炼丹师"
       ]
     },
     {
-      "topic": "AI应提升思考",
-      "cover_line1": "AI不该替你思考",
-      "cover_line2": "但99%人用反了…",
-      "body": "你不知道的是：这篇HackerNews热榜211分长文，作者Koshy John曾是Google Brain工程师，他亲手关掉了自己写的3个AI自动化流程。\n\n1️⃣ 真正红线：当AI帮你‘写周报’时，你在丧失结构化表达能力；当AI替你‘列会议纪要’，你在丢掉信息蒸馏本能\n2️⃣ 升维公式：AI = Thinker × (Question + Constraint)，不是Answer Generator。比如：让它先输出3个反向问题，再给答案\n3️⃣ 实操锚点：每天强制用‘AI only as Socratic tutor’模式——只准提问、不准回答，逼自己推导\n4️⃣ 高阶信号：能说出‘这个结论里哪一步我没想透’的人，正在拉开与AI奴隶的距离\n\n警惕温柔陷阱：最危险的不是AI太蠢，而是它太‘体贴’。\n\n你最近一次主动拒用AI完成某件事，是什么？坦白局👇\n关注不迷路，下周发《Socratic Prompting手册》PDF。",
+      "topic": "Meta收购被拒",
+      "cover_line1": "中国一票否决！",
+      "cover_line2": "Meta吞不下Manus！",
+      "body": "Meta拟收购中国AI初创公司Manus（专注多模态手部动作建模），遭中国监管明确否决——理由不是技术，而是‘实时手部空间建模能力属于敏感AI基础设施’。",
       "tags": [
-        "AI思维",
-        "人机协作",
-        "认知增强",
-        "SocraticAI",
-        "AI哲学",
-        "知识工作者",
-        "生产力",
-        "批判性思维",
-        "HackerNews",
-        "AI教育"
+        "#AI地缘政治",
+        "#Meta",
+        "#中国AI",
+        "#Manus",
+        "#多模态",
+        "#AI监管",
+        "#跨境并购",
+        "#AI主权",
+        "#空间计算",
+        "#AI炼丹师"
       ]
     },
     {
-      "topic": "数据库设计冲突",
-      "cover_line1": "Agentic AI暴打DB设计",
-      "cover_line2": "范式崩塌开始了！",
-      "body": "圈内没人说破的真相：传统数据库的ACID、事务隔离、外键约束……全是为‘人类操作员’设计的，不是为AI agent。\n\n1️⃣ 冲突根源：DB假设操作者会‘理解语义’，但LLM agent只懂token匹配 → 它可能把‘DELETE FROM users WHERE status=1’当成‘UPDATE status=0’\n2️⃣ 新防御三件套：① Tool Schema强校验（OpenAPI+JSON Schema）② 操作前生成‘intent summary’供人工确认 ③ 所有DML自动wrap成stored proc with audit log\n3️⃣ 最狠一招：把foreign key改成soft reference + LLM-aware constraint checker（作者已开源PoC）\n4️⃣ 终极预判：2026下半年，PostgreSQL和MySQL会推出native ‘Agent Mode’插件——带runtime intent parsing\n\n这不是修bug，是重写DB契约。\n\n你团队的数据库，敢对AI agent开放DROP权限吗？👇\n关注不迷路，下期放我写的《Defensive DB Checklist》速查表。",
+      "topic": "TerminalBench登顶",
+      "cover_line1": "13B小模型杀疯了！",
+      "cover_line2": "Gemini-3-flash-preview上实测碾压！",
+      "body": "新开源Agent框架 Dirac（13B参数）在 TerminalBench（终端交互权威评测）中跑赢所有闭源竞品，包括 Gemini-3-flash-preview 的原生Agent模式——它不调API，纯本地推理+自主shell操作。",
       "tags": [
-        "数据库",
-        "AI代理",
-        "系统设计",
-        "PostgreSQL",
-        "MySQL",
-        "LLMOps",
-        "数据安全",
-        "HackerNews",
-        "AgenticAI",
-        "工程架构"
+        "#开源AI",
+        "#Agent",
+        "#TerminalBench",
+        "#Gemini",
+        "#本地大模型",
+        "#AI工程",
+        "#OSS",
+        "#AI架构",
+        "#轻量模型",
+        "#AI炼丹师"
       ]
     }
   ],
   "image_paths": [
-    "assets/2026-04-27/cover1.png",
-    "assets/2026-04-27/cover2.png",
-    "assets/2026-04-27/cover3.png",
-    "assets/2026-04-27/cover4.png"
+    "assets/2026-04-28/cover1.png",
+    "assets/2026-04-28/cover2.png",
+    "assets/2026-04-28/cover3.png",
+    "assets/2026-04-28/cover4.png"
   ]
 }
