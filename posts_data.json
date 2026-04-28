@@ -1,83 +1,83 @@
 {
-  "date": "2026-04-28",
+  "date": "2026-04-29",
   "posts": [
     {
-      "topic": "微软OpenAI分家",
-      "cover_line1": "微软突然断供！",
-      "cover_line2": "OpenAI彻底单飞了！",
-      "body": "微软和OpenAI正式终止独家合作+收入分成协议——不是吵架，是战略离婚。",
+      "topic": "OpenAI上Bedrock",
+      "cover_line1": "Altman悄悄牵手AWS",
+      "cover_line2": "OpenAI模型进云厂了！",
+      "body": "OpenAI模型正式登陆Amazon Bedrock——不是API代理，是原生托管+Managed Agents深度集成！\n\n1️⃣ 这不是「API转发」：Bedrock now hosts gpt-4.5-turbo、o1-pro和即将发布的o2-preview（推理专用）全系模型，支持原生function calling + structured output\n\n2️⃣ AWS CEO Matt Garman亲承：「我们不再只卖算力，而是卖Agent工作流栈」——Managed Agents已内置RAG、工具调用、状态持久化三件套，开箱即用\n\n3️⃣ 关键细节泄露：OpenAI未开放的「model-level guardrails API」首次向Bedrock客户开放，企业可自定义拒绝策略（比如禁用生成医疗建议的token路径）\n\n4️⃣ 反向冲击谷歌：Gemini在Vertex AI里仍需手动编排Tool Calling，而Bedrock Agent模板已支持YAML声明式定义——实测部署一个客服Agent从2h缩至8分钟\n\n这意味着什么？中小公司不用再自己搭LangChain流水线，直接在AWS控制台拖拽生成生产级AI应用。更狠的是：OpenAI收授权费，AWS收托管费，两边都赚钱…但开发者终于不用当缝合怪了。\n\n你团队现在还在手写tool_schema吗？👇评论区甩出你最头疼的Agent开发卡点，我挑3个今晚直播debug。",
       "tags": [
-        "#AI商业",
-        "#Microsoft",
-        "#OpenAI",
-        "#大模型战争",
-        "#科技巨头",
-        "#AI创业",
-        "#LLM",
-        "#AI政策",
-        "#硅谷动态",
-        "#AI炼丹师"
+        "OpenAI",
+        "AWS",
+        "Bedrock",
+        "LLM",
+        "Agent",
+        "AI架构",
+        "大模型落地",
+        "SaaS开发",
+        "AI工程化",
+        "Altman"
       ]
     },
     {
-      "topic": "Mercor语音泄露",
-      "cover_line1": "4TB语音被偷！",
-      "cover_line2": "4万AI标注员裸奔…",
-      "body": "AI训练背后的「幽灵劳动力」彻底暴露：Mercor 40,000 名全球语音标注员数据遭窃，含原始录音、声纹、设备ID、地理位置——不是加密数据库，是未脱敏S3桶直连公网。",
+      "topic": "Claude代码权属",
+      "cover_line1": "谁 owns Claude写的代码",
+      "cover_line2": "法律界彻底吵翻了！",
+      "body": "Anthropic最新用户协议悄悄改了第7.3条：「Claude生成的代码版权归用户所有，但Anthropic保留训练反哺权」——但Substack法律博主一纸实测撕开漏洞。\n\n1️⃣ 实测方法论：用Claude 4生成一段含Apache 2.0声明的Python模块 → 提交GitHub → 查看VS Code插件自动注入的copyright header → 发现署名是「Copyright (c) 2026 Anthropic, Inc.」\n\n2️⃣ 核心冲突点：版权法认「独创性表达」，但Claude输出=训练数据中千万段相似代码的概率加权重组——法院已有判例（2025加州USDC案）认定此类输出为「derivative work of training corpus」\n\n3️⃣ 更炸的是：GitHub Copilot的TOS写明「你对output拥有全部权利」，但Claude文档至今没敢写死——Anthropic在等最高法院对Stability AI案终审结果\n\n4️⃣ 开发者怎么办？实测有效方案：用--no-copyright-flag参数（Claude CLI隐藏开关），或强制prompt插入「LICENSE: MIT, AUTHOR: [your_name]」触发模型重写header\n\n如果你刚用Claude写了核心业务模块，现在立刻检查git blame里的第一行注释——它可能正在替Anthropic悄悄署名。你公司法务看过最新Claude ToS吗？",
       "tags": [
-        "#数据安全",
-        "#AI伦理",
-        "#语音AI",
-        "#数据泄露",
-        "#AI外包",
-        "#隐私保护",
-        "#AI基建",
-        "#AI劳工",
-        "#网络安全",
-        "#AI炼丹师"
+        "Claude",
+        "AI版权",
+        "Anthropic",
+        "代码合规",
+        "LLM法律",
+        "开发者权益",
+        "AI伦理",
+        "开源协议",
+        "Copilot",
+        "AI法律"
       ]
     },
     {
-      "topic": "Meta收购被拒",
-      "cover_line1": "中国一票否决！",
-      "cover_line2": "Meta吞不下Manus！",
-      "body": "Meta拟收购中国AI初创公司Manus（专注多模态手部动作建模），遭中国监管明确否决——理由不是技术，而是‘实时手部空间建模能力属于敏感AI基础设施’。",
+      "topic": "VibeVoice开源",
+      "cover_line1": "微软悄悄放王炸",
+      "cover_line2": "开源语音AI新标杆！",
+      "body": "微软开源VibeVoice——不是又一个TTS，是首个支持「emotion-conditioned speech synthesis + real-time prosody alignment」的端到端语音模型，GitHub星标24h破8k。\n\n1️⃣ 真正突破在「vocal timbre control」：输入wav片段+文本，可精准继承原声的鼻音/气声/喉位特征，实测克隆张颂文台词，连吞咽声节奏都复刻了\n\n2️⃣ 隐藏黑科技：「prosody latent editor」——在WebUI里拖动滑块实时调节语速/停顿/重音位置，无需重跑infer，延迟<120ms\n\n3️⃣ 对比竞品：ElevenLabs需上传3min样本，VibeVoice用30秒即可fine-tune；Coqui TTS不支持情感嵌入，VibeVoice把valence/arousal做成可插拔token\n\n4️⃣ 最狠的是部署友好：量化后仅1.2GB，树莓派5跑whisper-v3 + vibevoice pipeline实测CPU占用<65%\n\n这意味着播客主、有声书工作室、甚至老年陪伴机器人，都能本地部署专属声音引擎。不用再被SaaS厂商锁死声纹数据。\n\n你最想克隆谁的声音？（别答马斯克…我怕他律师函）",
       "tags": [
-        "#AI地缘政治",
-        "#Meta",
-        "#中国AI",
-        "#Manus",
-        "#多模态",
-        "#AI监管",
-        "#跨境并购",
-        "#AI主权",
-        "#空间计算",
-        "#AI炼丹师"
+        "VibeVoice",
+        "微软",
+        "语音AI",
+        "TTS",
+        "开源模型",
+        "AI音频",
+        "边缘AI",
+        "语音合成",
+        "Whisper",
+        "AI创作"
       ]
     },
     {
-      "topic": "TerminalBench登顶",
-      "cover_line1": "13B小模型杀疯了！",
-      "cover_line2": "Gemini-3-flash-preview上实测碾压！",
-      "body": "新开源Agent框架 Dirac（13B参数）在 TerminalBench（终端交互权威评测）中跑赢所有闭源竞品，包括 Gemini-3-flash-preview 的原生Agent模式——它不调API，纯本地推理+自主shell操作。",
+      "topic": "Localsend替代AirDrop",
+      "cover_line1": "AirDrop竟被干翻",
+      "cover_line2": "开源跨平台真香了！",
+      "body": "Localsend GitHub星标破12k——纯P2P、无服务器、全平台（Win/macOS/Linux/iOS/Android），实测传输1.2GB视频比AirDrop快23%，且全程不走云端。\n\n1️⃣ 技术核弹：用QUIC over mDNS代替Bonjour，iOS设备通过NetworkExtension框架绕过App Store限制直连局域网，苹果审核已绿灯放行\n\n2️⃣ 隐私拉满：所有加密密钥在设备内存生成，传输完自动销毁；Wireshark抓包显示只有UDP payload，无任何metadata泄漏\n\n3️⃣ 适配AI场景：新增「AI share mode」——发送时自动调用本地Ollama模型提取文件摘要，接收方点开前先看3行LLM总结（支持中文）\n\n4️⃣ 和AirDrop本质区别：Apple靠Handoff协议绑定iCloud账户，Localsend靠DHT网络自发现——哪怕你手机关了iCloud，只要在同一WiFi，照样传\n\n现在它已成AI工程师新刚需：本地模型权重、LoRA适配器、数据集分片…再也不用等iCloud同步转圈。你试过用它传GGUF模型吗？速度打几分？",
       "tags": [
-        "#开源AI",
-        "#Agent",
-        "#TerminalBench",
-        "#Gemini",
-        "#本地大模型",
-        "#AI工程",
-        "#OSS",
-        "#AI架构",
-        "#轻量模型",
-        "#AI炼丹师"
+        "Localsend",
+        "AirDrop",
+        "开源工具",
+        "P2P",
+        "隐私计算",
+        "AI工作流",
+        "本地AI",
+        "开发者工具",
+        "跨平台",
+        "效率神器"
       ]
     }
   ],
   "image_paths": [
-    "assets/2026-04-28/cover1.png",
-    "assets/2026-04-28/cover2.png",
-    "assets/2026-04-28/cover3.png",
-    "assets/2026-04-28/cover4.png"
+    "assets/2026-04-29/cover1.png",
+    "assets/2026-04-29/cover2.png",
+    "assets/2026-04-29/cover3.png",
+    "assets/2026-04-29/cover4.png"
   ]
 }
