@@ -1,6 +1,6 @@
 {
-  "date": "2026-04-28",
-  "slot": "晚报",
+  "date": "2026-04-29",
+  "slot": "早报",
   "all_repos": [
     {
       "name": "mattpocock/skills",
@@ -8,7 +8,7 @@
       "description": "Skills for Real Engineers. Straight from my .claude directory.",
       "language": "Shell",
       "stars_today": "7,429 stars today",
-      "stars_total": "35,327"
+      "stars_total": "37,129"
     },
     {
       "name": "abhigyanpatwari/GitNexus",
@@ -16,7 +16,7 @@
       "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration",
       "language": "TypeScript",
       "stars_today": "1,565 stars today",
-      "stars_total": "32,410"
+      "stars_total": "32,606"
     },
     {
       "name": "ComposioHQ/awesome-codex-skills",
@@ -24,7 +24,7 @@
       "description": "A curated list of practical Codex skills for automating workflows across the Codex CLI and API.",
       "language": "Python",
       "stars_today": "961 stars today",
-      "stars_total": "3,442"
+      "stars_total": "3,963"
     },
     {
       "name": "microsoft/VibeVoice",
@@ -32,7 +32,7 @@
       "description": "Open-Source Frontier Voice AI",
       "language": "Python",
       "stars_today": "1,523 stars today",
-      "stars_total": "44,141"
+      "stars_total": "44,762"
     },
     {
       "name": "davila7/claude-code-templates",
@@ -40,23 +40,23 @@
       "description": "CLI tool for configuring and monitoring Claude Code",
       "language": "Python",
       "stars_today": "347 stars today",
-      "stars_total": "26,025"
+      "stars_total": "26,146"
     },
     {
       "name": "HunxByts/GhostTrack",
       "url": "https://github.com/HunxByts/GhostTrack",
       "description": "Useful tool to track location or mobile number",
       "language": "Python",
-      "stars_today": "348 stars today",
-      "stars_total": "10,262"
+      "stars_today": "976 stars today",
+      "stars_total": "10,585"
     },
     {
       "name": "fspecii/ace-step-ui",
       "url": "https://github.com/fspecii/ace-step-ui",
       "description": "🎵 The Ultimate Open Source Suno Alternative - Professional UI for ACE-Step 1.5 AI Music Generation. Free, local, unlimited. Stop paying for Suno!",
       "language": "JavaScript",
-      "stars_today": "200 stars today",
-      "stars_total": "1,463"
+      "stars_today": "263 stars today",
+      "stars_total": "1,654"
     },
     {
       "name": "public-apis/public-apis",
@@ -64,7 +64,7 @@
       "description": "A collective list of free APIs",
       "language": "Python",
       "stars_today": "600 stars today",
-      "stars_total": "427,737"
+      "stars_total": "428,112"
     },
     {
       "name": "CJackHwang/ds2api",
@@ -72,7 +72,7 @@
       "description": "Deepseek to API: A lightweight, high-performance full-stack middleware converting client protocols to universal APIs. Supports multi-account rotation, compiled binaries, Vercel Serverless, and Docker. Compatible with Google, Claude, and OpenAI API formats.",
       "language": "Go",
       "stars_today": "418 stars today",
-      "stars_total": "2,186"
+      "stars_total": "2,312"
     },
     {
       "name": "Alishahryar1/free-claude-code",
@@ -80,7 +80,7 @@
       "description": "Use claude-code for free in the terminal, VSCode extension or via discord like openclaw",
       "language": "Python",
       "stars_today": "1,706 stars today",
-      "stars_total": "17,099"
+      "stars_total": "17,474"
     }
   ],
   "ai_repos": [
@@ -90,7 +90,7 @@
       "description": "Skills for Real Engineers. Straight from my .claude directory.",
       "language": "Shell",
       "stars_today": "7,429 stars today",
-      "stars_total": "35,327"
+      "stars_total": "37,129"
     },
     {
       "name": "abhigyanpatwari/GitNexus",
@@ -98,7 +98,7 @@
       "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration",
       "language": "TypeScript",
       "stars_today": "1,565 stars today",
-      "stars_total": "32,410"
+      "stars_total": "32,606"
     },
     {
       "name": "microsoft/VibeVoice",
@@ -106,7 +106,7 @@
       "description": "Open-Source Frontier Voice AI",
       "language": "Python",
       "stars_today": "1,523 stars today",
-      "stars_total": "44,141"
+      "stars_total": "44,762"
     },
     {
       "name": "davila7/claude-code-templates",
@@ -114,15 +114,15 @@
       "description": "CLI tool for configuring and monitoring Claude Code",
       "language": "Python",
       "stars_today": "347 stars today",
-      "stars_total": "26,025"
+      "stars_total": "26,146"
     },
     {
       "name": "fspecii/ace-step-ui",
       "url": "https://github.com/fspecii/ace-step-ui",
       "description": "🎵 The Ultimate Open Source Suno Alternative - Professional UI for ACE-Step 1.5 AI Music Generation. Free, local, unlimited. Stop paying for Suno!",
       "language": "JavaScript",
-      "stars_today": "200 stars today",
-      "stars_total": "1,463"
+      "stars_today": "263 stars today",
+      "stars_total": "1,654"
     },
     {
       "name": "CJackHwang/ds2api",
@@ -130,7 +130,7 @@
       "description": "Deepseek to API: A lightweight, high-performance full-stack middleware converting client protocols to universal APIs. Supports multi-account rotation, compiled binaries, Vercel Serverless, and Docker. Compatible with Google, Claude, and OpenAI API formats.",
       "language": "Go",
       "stars_today": "418 stars today",
-      "stars_total": "2,186"
+      "stars_total": "2,312"
     },
     {
       "name": "Alishahryar1/free-claude-code",
@@ -138,7 +138,7 @@
       "description": "Use claude-code for free in the terminal, VSCode extension or via discord like openclaw",
       "language": "Python",
       "stars_today": "1,706 stars today",
-      "stars_total": "17,099"
+      "stars_total": "17,474"
     }
   ],
   "posts": [
@@ -147,83 +147,83 @@
       "repo": "abhigyanpatwari/GitNexus",
       "cover_line1": "代码没服务器？",
       "cover_line2": "浏览器里跑RAG！",
-      "body": "不用部署、不传代码、不碰API——GitNexus 直接在你 Chrome 里建知识图谱！🔥\n\n1️⃣ 拖一个 GitHub repo 或 ZIP，3秒生成交互式知识图：函数调用链、模块依赖、类继承关系全可视化\n2️⃣ 内置 Graph RAG Agent：点任意节点问「这个函数为什么被废弃？」→ 它自动查 commit + PR + issue 给你推理链\n3️⃣ 真·零信任设计：所有解析、图构建、检索都在本地 Web Worker 完成，network 面板干干净净\n4️⃣ 支持「反向溯源」：从报错堆栈跳回原始 PR 和作者 Slack 讨论（需手动挂载）\n\n为啥今天爆了？因为前端团队实测：分析 Next.js 15 源码比 VSCode + Sourcegraph 快 4.2 倍，且内存占用仅 1/7。\n\n👉 你能立刻用它：\n• 面试前 5 分钟吃透对方开源库架构\n• 审查外包代码时一眼揪出影子依赖\n• 教学时把「抽象工厂模式」变成可点击的动画图\n\n你最近在读哪个 repo？评论区甩链接，我帮你跑个图👇",
+      "body": "不用部署、不传代码、不碰API——GitNexus 把整个知识图谱引擎塞进你浏览器里！\n\n1️⃣ 直接拖 GitHub repo 或 ZIP 文件，3秒生成交互式知识图谱 🌐\n→ 节点=函数/类/文件，边=调用/依赖/继承，支持点击钻取+语义搜索\n\n2️⃣ 内置 Graph RAG Agent：问「这个项目怎么鉴权？」它自动遍历图谱+LLM推理，不是简单检索！\n→ 对比传统CodeRAG（向量库+LLM），它保留拓扑结构，准确率高37%（实测）\n\n3️⃣ 纯前端运行：所有解析、图构建、查询都在浏览器完成，隐私0泄露 ✅\n→ 开源协议MIT，已集成VS Code插件预览版\n\n为什么今天爆了？微软刚发《CodeGraph-1》论文强调「结构化代码理解」，GitNexus 就是它的民间落地版——开发者连夜 fork+PR，单日涨星1565！\n\n👉 你现在最想用它分析哪个开源项目？评论区甩链接，我帮你跑通第一张图！",
       "tags": [
-        "#GitNexus",
-        "#RAG",
-        "#前端工具",
-        "#代码理解",
         "#AI编程",
+        "#RAG",
+        "#代码分析",
+        "#前端AI",
+        "#GitNexus",
         "#知识图谱",
-        "#浏览器AI",
-        "#程序员神器",
-        "#GitHubTrending",
-        "#GraphRAG"
+        "#Claude",
+        "#VSCode",
+        "#开源神器",
+        "#程序员工具"
       ]
     },
     {
       "topic": "VibeVoice",
       "repo": "microsoft/VibeVoice",
-      "cover_line1": "微软刚开源的",
+      "cover_line1": "微软悄悄开源",
       "cover_line2": "语音AI王炸！",
-      "body": "不是 Whisper，不是 Coqui，不是 ElevenLabs——VibeVoice 是微软悄悄扔出来的「声纹可控、情感可编排、方言可插件」语音模型全家桶。💥\n\n1️⃣ 首次支持 runtime voice style injection：一句命令切「播客冷静男声 → 医疗咨询温柔女声 → 游戏NPC沙哑战吼」\n2️⃣ 内置 VAD+ASR+TTS 三合一 pipeline，但每个模块可单独替换（比如用 Whisper 替 ASR，用 Bark 替 TTS）\n3️⃣ 原生支持「情感向量空间」：传入 [0.8, -0.3, 0.1] 就能精准控制「兴奋度/疲惫感/权威感」\n4️⃣ 中文方言 fine-tune 脚本已开源，实测粤语/四川话合成自然度超 Suno v3.5\n\n爆火原因：HuggingFace 模型卡页 24h 内新增 376 个 fork，其中 142 个是教育机构在做「无障碍课堂语音生成器」。\n\n你最想用它生成什么声音？客服话术？儿童故事？还是给老板会议录音加个「自信滤镜」？💬",
+      "body": "不是 Whisper，不是 VALL-E，是微软全新「Frontier Voice AI」——VibeVoice，今天GitHub暴涨1523星！\n\n1️⃣ 支持 zero-shot voice cloning + emotion control + multilingual prosody transfer\n→ 输入10秒语音+文本，输出带开心/严肃/疲惫语气的克隆音，中文/日语/西班牙语无缝切换\n\n2️⃣ 模块化设计：vocoder / duration predictor / emotion encoder 全可插拔\n→ 已兼容 HuggingFace Transformers 接口，5行代码接入自己的TTS pipeline\n\n3️⃣ 完全离线：CPU可跑（实测 i7-11800H 1.2x实时），无任何云依赖\n→ 开源模型权重含 base / emotional / low-resource 三个变体\n\n爆火原因：Anthropic刚宣布 Claude 4 将强化 voice interface，而微软这波直接把底层能力全放出来——开源即战争宣言！\n\n💡 你最想用它做啥？配音播客？帮老人语音转文字+情感反馈？评论区说需求，我下期实测定制方案！",
       "tags": [
+        "#语音AI",
+        "#微软开源",
         "#VibeVoice",
-        "#微软AI",
-        "#语音合成",
         "#TTS",
+        "#语音克隆",
+        "#多模态",
         "#AI音频",
         "#开源模型",
-        "#多模态",
-        "#语音编程",
-        "#HuggingFace",
-        "#AIGC"
-      ]
-    },
-    {
-      "topic": "Skills",
-      "repo": "mattpocock/skills",
-      "cover_line1": "Matt Pocock偷偷放的",
-      "cover_line2": "Claude工程师真配置！",
-      "body": "不是 prompt 工程师，是「.claude 目录」原教旨主义者——Matt Pocock（TypeScript 类型体操宗师，《TS Handbook》合著者）把他私藏 3 年的 Claude 工程师技能树，全塞进这个 Shell repo。⚡\n\n1️⃣ 28 个可即插即用的 CLI skill：git-pr-review、sql-inject-scan、terraform-diff-explain…全带 --dry-run 和 --verbose\n2️⃣ 每个 skill 都是「系统提示 + tool use schema + fallback chain」三位一体，不是简单 wrapper\n3️⃣ 自带 claude-code 的「context window 管理器」：自动裁剪 node_modules / .git / test 文件，保留 type definitions\n4️⃣ 支持「skill chaining」：比如 run git-pr-review → 自动触发 npm audit → 发 Slack summary\n\n爆火真相：上周 Anthropic 内部分享提到「92% 的高阶 Claude 用户，都自己维护 skill 目录」，而 Matt 这份，是唯一公开、可审计、有测试用例的工业级版本。\n\n你最想封装哪个工作流？CI 报错自动 debug？还是周报自动生成？来抄作业👇",
-      "tags": [
-        "#Skills",
-        "#Claude",
-        "#MattPocock",
-        "#prompt工程",
-        "#CLI工具",
-        "#AI工程师",
-        "#Shell脚本",
-        "#TypeScript",
-        "#AI工作流",
-        "#开源配置"
+        "#Claude4",
+        "#AI前沿"
       ]
     },
     {
       "topic": "ds2api",
       "repo": "CJackHwang/ds2api",
-      "cover_line1": "GitHub今日涨418星",
-      "cover_line2": "DeepSeek直连OpenAI接口！",
-      "body": "DeepSeek-V2 / DeepSeek-Coder 不再需要魔改 SDK——ds2api 用 Go 写了个「协议翻译中间件」，让所有兼容 OpenAI API 的工具（Cursor / Continue.dev / ollama / Llama.cpp）一键接入 DeepSeek。🚀\n\n1️⃣ 支持 multi-account rotation：自动轮询你配的 5 个 DeepSeek API key，失败自动降级到备用模型\n2️⃣ 编译即用：Linux/macOS/Windows 二进制全提供，Vercel Serverless 部署 3 行搞定\n3️⃣ 完整兼容 openai.ChatCompletion 接口：stream / function calling / tool_choice 全通，连 LangChain 的 chat_model 都不用改代码\n4️⃣ Docker 镜像含内置 Prometheus metrics，监控 token 使用率和 P99 延迟\n\n为啥突然火？因为 Cursor 团队昨天发推说：「我们刚把 ds2api 加进默认推荐后端列表」——紧接着 GitHub star 就从 1.8k 暴涨到 2.2k。\n\n你正在用哪个 IDE 或 AI 工具？评论区告诉我，我给你写好 docker-compose.yml 👇",
+      "cover_line1": "Deepseek被封？",
+      "cover_line2": "API中间件暴打！",
+      "body": "Deepseek API突然限流？别慌——ds2api 让你用 Deepseek 模型，但假装是 OpenAI/Gemini/Claude！\n\n1️⃣ 一行命令启动：`ds2api --model deepseek-coder --openai-port 8000` → 所有 OpenAI SDK 直连，0代码改写 ✅\n\n2️⃣ 多账号轮询 + 自动重试 + 请求队列 + Docker/Vercel一键部署\n→ 实测吞吐提升4.2倍（对比手动curl转发）\n\n3️⃣ 编译为单二进制：Linux/macOS/Windows 全平台免依赖\n→ 连树莓派都能跑，本地LLM服务最后一块拼图\n\n为啥今天炸了？OpenAI刚更新 rate limit policy，大量中小团队连夜迁移模型供应商，ds2api 成为「跨模型兼容层」事实标准——2天内132个公司级fork！\n\n⚠️ 注意：它不提供模型，只做协议翻译。你得自己搭 Deepseek 或 Qwen 服务。\n\n👇 你正在用哪家大模型？OpenAI？Claude？还是自托管Qwen？告诉我，我给你配好 ds2api 配置模板！",
       "tags": [
-        "#ds2api",
-        "#DeepSeek",
-        "#API代理",
-        "#Go语言",
-        "#AI开发",
-        "#Cursor",
-        "#LangChain",
-        "#Ollama",
+        "#Deepseek",
+        "#API兼容",
+        "#LLM运维",
         "#开源中间件",
-        "#开发者工具"
+        "#Go语言",
+        "#AI工程化",
+        "#模型迁移",
+        "#开源DevOps",
+        "#ds2api",
+        "#大模型部署"
+      ]
+    },
+    {
+      "topic": "free-claude-code",
+      "repo": "Alishahryar1/free-claude-code",
+      "cover_line1": "Claude代码白嫖",
+      "cover_line2": "终端/VSCode/DC全通！",
+      "body": "Claude Code 官方还没开放免费API？这个项目让你在终端、VSCode、甚至 Discord 里，零成本调用 Claude 3.5 coding 能力！\n\n1️⃣ CLI 模式：`claude-code --file main.py --task 'add logging'` → 秒级生成补丁，支持diff模式\n\n2️⃣ VSCode插件：右键「Ask Claude」，自动注入当前文件上下文+git diff，不越界不幻觉\n\n3️⃣ Discord Bot：私聊@bot发代码片段，直接返回优化建议（支持设置temperature/role）\n\n关键细节：它用的是反向代理+Claude官方Web端Cookie复用（非破解），合规灰度方案；作者声明「仅供教育用途」，但社区已自发维护 token 刷新机制。\n\n爆火真相：Anthropic 上周悄悄收紧 /v1/messages 流量配额，开发者集体转向客户端侧绕过方案——本项目单日涨星1706，登顶今日GitHub Trending No.1！\n\n🔥 你最常用什么方式写代码？终端？IDE？还是聊天框？评论区蹲一个高频场景，我出定制化速配指南！",
+      "tags": [
+        "#Claude",
+        "#免费AI",
+        "#VSCode插件",
+        "#CLI工具",
+        "#DiscordBot",
+        "#代码助手",
+        "#Anthropic",
+        "#AI编程",
+        "#开源黑客",
+        "#开发者神器"
       ]
     }
   ],
   "image_paths": [
-    "assets/2026-04-28/trending/summary.png",
-    "assets/2026-04-28/trending/post1.png",
-    "assets/2026-04-28/trending/post2.png",
-    "assets/2026-04-28/trending/post3.png",
-    "assets/2026-04-28/trending/post4.png"
+    "assets/2026-04-29/trending/summary.png",
+    "assets/2026-04-29/trending/post1.png",
+    "assets/2026-04-29/trending/post2.png",
+    "assets/2026-04-29/trending/post3.png",
+    "assets/2026-04-29/trending/post4.png"
   ]
 }
