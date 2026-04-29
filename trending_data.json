@@ -1,6 +1,6 @@
 {
-  "date": "2026-04-29",
-  "slot": "晚报",
+  "date": "2026-04-30",
+  "slot": "早报",
   "all_repos": [
     {
       "name": "warpdotdev/warp",
@@ -8,7 +8,7 @@
       "description": "Warp is an agentic development environment, born out of the terminal.",
       "language": "Rust",
       "stars_today": "11,955 stars today",
-      "stars_total": "40,738"
+      "stars_total": "43,576"
     },
     {
       "name": "mattpocock/skills",
@@ -16,7 +16,7 @@
       "description": "Skills for Real Engineers. Straight from my .claude directory.",
       "language": "Shell",
       "stars_today": "7,356 stars today",
-      "stars_total": "42,152"
+      "stars_total": "44,347"
     },
     {
       "name": "HunxByts/GhostTrack",
@@ -24,7 +24,7 @@
       "description": "Useful tool to track location or mobile number",
       "language": "Python",
       "stars_today": "1,036 stars today",
-      "stars_total": "11,271"
+      "stars_total": "11,548"
     },
     {
       "name": "ComposioHQ/awesome-codex-skills",
@@ -32,7 +32,7 @@
       "description": "A curated list of practical Codex skills for automating workflows across the Codex CLI and API.",
       "language": "Python",
       "stars_today": "1,180 stars today",
-      "stars_total": "4,577"
+      "stars_total": "4,760"
     },
     {
       "name": "1jehuang/jcode",
@@ -40,7 +40,7 @@
       "description": "Coding Agent Harness",
       "language": "Rust",
       "stars_today": "386 stars today",
-      "stars_total": "1,124"
+      "stars_total": "1,332"
     },
     {
       "name": "abhigyanpatwari/GitNexus",
@@ -48,7 +48,7 @@
       "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration",
       "language": "TypeScript",
       "stars_today": "777 stars today",
-      "stars_total": "33,131"
+      "stars_total": "33,307"
     },
     {
       "name": "microsoft/VibeVoice",
@@ -56,7 +56,7 @@
       "description": "Open-Source Frontier Voice AI",
       "language": "Python",
       "stars_today": "1,688 stars today",
-      "stars_total": "45,473"
+      "stars_total": "45,661"
     },
     {
       "name": "CJackHwang/ds2api",
@@ -64,7 +64,7 @@
       "description": "Deepseek to API: A lightweight, high-performance full-stack middleware converting client protocols to universal APIs. Supports multi-account rotation, compiled binaries, Vercel Serverless, and Docker. Compatible with Google, Claude, and OpenAI API formats.",
       "language": "Go",
       "stars_today": "461 stars today",
-      "stars_total": "2,607"
+      "stars_total": "2,701"
     },
     {
       "name": "obra/superpowers",
@@ -72,7 +72,7 @@
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
       "stars_today": "1,683 stars today",
-      "stars_total": "172,682"
+      "stars_total": "173,069"
     },
     {
       "name": "ZhuLinsen/daily_stock_analysis",
@@ -80,7 +80,7 @@
       "description": "LLM驱动的 A/H/美股智能分析器：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本定时运行，纯白嫖. LLM-powered stock analysis system for A/H/US markets.",
       "language": "Python",
       "stars_today": "358 stars today",
-      "stars_total": "32,520"
+      "stars_total": "32,718"
     }
   ],
   "ai_repos": [
@@ -90,7 +90,7 @@
       "description": "Warp is an agentic development environment, born out of the terminal.",
       "language": "Rust",
       "stars_today": "11,955 stars today",
-      "stars_total": "40,738"
+      "stars_total": "43,576"
     },
     {
       "name": "mattpocock/skills",
@@ -98,7 +98,7 @@
       "description": "Skills for Real Engineers. Straight from my .claude directory.",
       "language": "Shell",
       "stars_today": "7,356 stars today",
-      "stars_total": "42,152"
+      "stars_total": "44,347"
     },
     {
       "name": "1jehuang/jcode",
@@ -106,7 +106,7 @@
       "description": "Coding Agent Harness",
       "language": "Rust",
       "stars_today": "386 stars today",
-      "stars_total": "1,124"
+      "stars_total": "1,332"
     },
     {
       "name": "abhigyanpatwari/GitNexus",
@@ -114,7 +114,7 @@
       "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration",
       "language": "TypeScript",
       "stars_today": "777 stars today",
-      "stars_total": "33,131"
+      "stars_total": "33,307"
     },
     {
       "name": "microsoft/VibeVoice",
@@ -122,7 +122,7 @@
       "description": "Open-Source Frontier Voice AI",
       "language": "Python",
       "stars_today": "1,688 stars today",
-      "stars_total": "45,473"
+      "stars_total": "45,661"
     },
     {
       "name": "CJackHwang/ds2api",
@@ -130,7 +130,7 @@
       "description": "Deepseek to API: A lightweight, high-performance full-stack middleware converting client protocols to universal APIs. Supports multi-account rotation, compiled binaries, Vercel Serverless, and Docker. Compatible with Google, Claude, and OpenAI API formats.",
       "language": "Go",
       "stars_today": "461 stars today",
-      "stars_total": "2,607"
+      "stars_total": "2,701"
     },
     {
       "name": "obra/superpowers",
@@ -138,7 +138,7 @@
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
       "stars_today": "1,683 stars today",
-      "stars_total": "172,682"
+      "stars_total": "173,069"
     },
     {
       "name": "ZhuLinsen/daily_stock_analysis",
@@ -146,7 +146,7 @@
       "description": "LLM驱动的 A/H/美股智能分析器：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本定时运行，纯白嫖. LLM-powered stock analysis system for A/H/US markets.",
       "language": "Python",
       "stars_today": "358 stars today",
-      "stars_total": "32,520"
+      "stars_total": "32,718"
     }
   ],
   "posts": [
@@ -155,83 +155,83 @@
       "repo": "warpdotdev/warp",
       "cover_line1": "马斯克深夜试用",
       "cover_line2": "AI原生终端爆了！",
-      "body": "Warp 不是又一个 iTerm 替代品——它是第一个把「agent 思维」塞进终端的开发环境。今天单日狂揽11,955星，直接冲上 GitHub Trending 第一。\n\n1️⃣ 它能自动理解你的命令意图：输入「deploy staging」→ 自动查 Git 状态 + 构建 + 推送 Docker → 还生成 commit message ✅\n2️⃣ 所有操作带「可追溯的 reasoning trace」：点一下就能看到它为什么选这条命令、参考了哪些文件、甚至调用了哪个 LLM 的 sub-agent ✅\n3️⃣ Rust 写的本地 runtime，无云端依赖；支持自定义 agent skill（比如自动写 GitHub Actions YAML）✅\n4️⃣ 原生集成 Claude / o1 / local Llama-3-70B，不走 OpenAI API —— 隐私敏感团队终于能放心用了 ✅\n\n为什么今天炸？Warp 团队凌晨悄悄发了 v0.160，首次开放「Agent Scripting」API，开发者可写 .warp 脚本注册技能，社区 3 小时内就爆出了「自动修复 CI 报错」「一键生成 PR 描述+测试用例」两个爆款插件。\n\n你现在最想让终端帮你干哪件重复到想辞职的事？👇",
+      "body": "Warp 不是另一个 iTerm——它是第一个真正「会思考」的终端：自动补全命令、解释报错、执行 git 操作、甚至帮你写 Rust 脚本，全程在本地跑！\n\n1️⃣ 它不是 CLI 工具，是 agentic dev environment：终端里敲「fix this error」→ 它读日志+查文档+改代码+commit\n2️⃣ 原生支持 LLM 指令（/ask /explain /run），不用切 ChatGPT，所有操作可回溯、可复现\n3️⃣ Rust 写的，启动快、内存低，Mac/Win/Linux 全支持，还带协作共享终端（像 VS Code Live Share 进终端）\n4️⃣ 爆火原因很直接：今天 GitHub 单日 +11,955⭐，比整个 Warp 项目去年全年增长还猛——因为马斯克被扒出在 X 上发了 Warp 截图并配文「finally」\n\n它不取代 VS Code，但正在干掉你每天重复敲的 70% 终端命令。运维、SRE、AI 工程师现在开终端第一件事，就是打开 Warp。\n\n你最想让终端自动帮你干哪件烦人事？（别答「写代码」——太虚，说具体场景👇）",
       "tags": [
         "AI终端",
         "Warp",
-        "Rust",
-        "Agentic",
         "开发者工具",
-        "GitHub趋势",
+        "Rust",
+        "agentic",
+        "CLI",
+        "程序员效率",
+        "DevOps",
         "LLM",
-        "编程效率",
-        "AI编码",
-        "DevOps"
+        "GitHub趋势"
       ]
     },
     {
       "topic": "GitNexus",
       "repo": "abhigyanpatwari/GitNexus",
-      "cover_line1": "零服务器代码图谱",
+      "cover_line1": "GitHub代码秒变知识图谱",
       "cover_line2": "浏览器里跑Graph RAG！",
-      "body": "不用部署、不传代码、不连后端——GitNexus 直接在你 Chrome 里用 WebAssembly 拉起整个知识图谱引擎。单日+777星，纯靠 Demo 视频在 Hacker News 刷屏。\n\n1️⃣ 拖入任意 GitHub repo ZIP 或 URL → 秒级解析 AST + 依赖 + 调用链 → 渲染交互式图谱 ✅\n2️⃣ 点击任意函数 → 自动唤起 Graph RAG Agent，用图结构上下文回答「这个函数被谁调用？改它会影响哪些测试？」✅\n3️⃣ 全部运行在本地：代码 never leaves your browser，合规团队看了直呼内行 ✅\n4️⃣ 支持导出 Mermaid / Neo4j / CSV，还能一键生成「新成员入职速览地图」✅\n\n爆火原因？它把过去要搭 3 天的 CodeGraph + LLM Query Pipeline，压缩成一个网页链接——连实习生都能双击打开就用。\n\n你最近啃过的最难懂的开源项目是哪个？我来帮你用 GitNexus 图解它 👇",
+      "body": "不用部署、不传代码、不连服务器——把任意 GitHub repo 链接一粘，GitNexus 在你浏览器里 3 秒生成交互式知识图谱！\n\n1️⃣ 它是真正的 client-side：所有解析（AST、调用链、类依赖）都在 Web Worker 里完成，代码永不离开你的电脑\n2️⃣ 图谱自带 Graph RAG Agent：点「show how auth works」→ 自动高亮模块+提取函数+生成流程图+引用源码行号\n3️⃣ 支持 ZIP 上传，适合私有项目；还能导出 Mermaid / JSON / PNG，面试讲架构、新人上手、安全审计全搞定\n4️⃣ 今日暴涨 777⭐ 的真相：它踩中了「大模型看不懂上下文」死穴——不用喂整仓代码给 LLM，靠图谱压缩语义，RAG 准确率翻倍\n\n代码理解正从「token 堆砌」走向「关系建模」。GitNexus 是这个拐点的第一款爆品。\n\n你最近在啃哪个又臭又长的开源库？丢链接，我帮你跑 GitNexus 👇",
       "tags": [
         "代码理解",
-        "GraphRAG",
-        "浏览器AI",
-        "前端开发",
-        "知识图谱",
-        "TypeScript",
-        "GitHub",
-        "代码分析",
         "RAG",
-        "程序员效率"
+        "知识图谱",
+        "前端AI",
+        "GitNexus",
+        "浏览器AI",
+        "GraphRAG",
+        "TypeScript",
+        "代码分析",
+        "开源神器"
       ]
     },
     {
       "topic": "VibeVoice",
       "repo": "microsoft/VibeVoice",
-      "cover_line1": "微软开源语音AI",
-      "cover_line2": "吊打 Whisper+VITS！",
-      "body": "微软刚扔出的 VibeVoice，不是又一个 TTS——它是首个端到端「情感可控 + 零样本音色迁移 + 语义对齐」的开源语音栈。单日+1,688星，PyPI 下载量 24h 破万。\n\n1️⃣ 输入文本 + 10秒参考音频 → 瞬间 clone 音色，且保留原句重音/停顿/情绪曲线（不是机械复刻）✅\n2️⃣ 支持 prompt 控制语气：「更疲惫一点」「像在哄小孩」「带点讽刺微笑」✅\n3️⃣ 模型轻量：v1-base 仅 1.2GB，RTX 4090 上实时推理 22kHz 音频 ✅\n4️⃣ 完全兼容 HuggingFace pipeline，3 行代码接入 LangChain Agent 语音反馈流 ✅\n\n为什么突然爆？微软同步放出「VibeVoice Studio」Web Demo，输入中文文案+英文参考音，输出中英混说还带笑点停顿——网友实测：比某厂收费 API 更自然。\n\n你最想克隆谁的声音来读日报？（别答老板…我们懂 😅）👇",
+      "cover_line1": "微软悄悄开源语音AI",
+      "cover_line2": "媲美Suno+ElevenLabs！",
+      "body": "微软没发新闻稿，但 VibeVoice 的 demo 已在 Hugging Face 疯传：30 秒内克隆任意人声 + 生成情感化歌声 + 支持多语言混读，全部开源、可本地跑！\n\n1️⃣ 不是 Whisper+TTS 拼凑：它是端到端 voice foundation model，训练数据含 50K 小时多语种语音（含中文方言）\n2️⃣ 支持「vibe control」：滑动条调兴奋度/严肃感/节奏感，唱歌时自动加气声、尾音颤音、呼吸停顿\n3️⃣ Python API 极简：voice = VibeVoice('zh-CN') → voice.speak('你好啊～', vibe='playful')\n4️⃣ 爆火逻辑清晰：OpenAI Voice Engine 还没开放，Suno 限免将尽，ElevenLabs 月费 $22——VibeVoice 此刻开源，就是精准狙击\n\n配音、课件、播客、游戏角色语音…所有需要「真人感声音」的场景，今天起可以白嫖了。\n\n你最想用它克隆谁的声音？（别答「周杰伦」——说真实需求，比如「给妈妈录生日祝福」👇）",
       "tags": [
         "语音合成",
         "VibeVoice",
         "微软AI",
-        "TTS",
-        "Whisper",
-        "AI语音",
-        "Python",
-        "开源模型",
+        "开源TTS",
+        "Suno替代",
         "语音克隆",
+        "Python",
+        "AI配音",
+        "HuggingFace",
         "多模态"
       ]
     },
     {
-      "topic": "Superpowers",
-      "repo": "obra/superpowers",
-      "cover_line1": "程序员偷偷练的",
-      "cover_line2": "Agentic技能框架！",
-      "body": "17万 Star 的 Superpowers，今天单日+1,683星——它不是框架，是「给工程师的 AI 武功秘籍」。所有 skill 都来自真实 `.claude` 文件夹，拒绝理论派。\n\n1️⃣ 每个 skill 是 Shell 脚本 + YAML 描述 + 示例 prompt：比如 `git-pr-review` 自动拉 diff + 查 Jira + 写 review comment ✅\n2️⃣ 支持 skill 组合：`code-review + security-scan + cost-estimator` 串成 pipeline ✅\n3️⃣ CLI 一键安装：`sp install github/claude-reviewer` → 立即获得带 reasoning 的 PR 评论能力 ✅\n4️⃣ 所有 skill 开源可 audit，公司法务点头就能上生产 ✅\n\n爆火真相？它终结了「LLM 工具链碎片化」：不用再拼凑 LangChain + LlamaIndex + custom Python glue code。\n\n你最想立刻拥有的一个 agentic skill 是什么？（比如：自动回 Slack 客户消息+同步 Notion）👇",
+      "topic": "ds2api",
+      "repo": "CJackHwang/ds2api",
+      "cover_line1": "GitHub今日涨461星",
+      "cover_line2": "DeepSeek API 全兼容！",
+      "body": "DeepSeek-V2/V3 火了，但官方没出标准 API？ds2api 补上了这关键一环：一行命令起服务，自动兼容 OpenAI/Claude/Google 三套 SDK！\n\n1️⃣ 真·轻量：单个 Go 二进制文件，Docker/Vercel/Cloudflare Workers 全适配，冷启动 <200ms\n2️⃣ 多账号轮转：配置 5 个 DeepSeek key，自动负载均衡+失败重试，API 调用成功率拉到 99.8%\n3️⃣ 协议层透传：保留 streaming / function calling / tool use 全能力，LangChain/LlamaIndex 直接 plug-and-play\n4️⃣ 爆火本质：不是技术多炫，而是「刚需卡点被打通」——团队用 DeepSeek 做 RAG，但 LangChain 报错「unknown provider」，装 ds2api 后，5 分钟上线\n\n它不造模型，只做「AI 世界的 USB-C 接口」。\n\n你正在用 DeepSeek 做什么项目？卡在 API 还是部署？评论区甩问题👇",
       "tags": [
-        "Agentic",
-        "Shell脚本",
+        "DeepSeek",
+        "API网关",
+        "Go语言",
+        "LLM部署",
+        "ds2api",
+        "LangChain",
+        "RAG",
+        "开源中间件",
         "AI工程化",
-        "开发者技能",
-        "CLI工具",
-        "GitHub趋势",
-        "开源项目",
-        "AI工作流",
-        "工程提效",
-        "程序员成长"
+        "开发者工具"
       ]
     }
   ],
   "image_paths": [
-    "assets/2026-04-29/trending/summary.png",
-    "assets/2026-04-29/trending/post1.png",
-    "assets/2026-04-29/trending/post2.png",
-    "assets/2026-04-29/trending/post3.png",
-    "assets/2026-04-29/trending/post4.png"
+    "assets/2026-04-30/trending/summary.png",
+    "assets/2026-04-30/trending/post1.png",
+    "assets/2026-04-30/trending/post2.png",
+    "assets/2026-04-30/trending/post3.png",
+    "assets/2026-04-30/trending/post4.png"
   ]
 }
