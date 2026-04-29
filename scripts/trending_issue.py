@@ -8,6 +8,7 @@ GitHub Trending AI 追踪器
 import argparse
 import json
 import os
+import re
 import subprocess
 import sys
 from datetime import datetime, timedelta, timezone
@@ -547,7 +548,7 @@ SYSTEM_PROMPT = """\
 1️⃣ 开头（1-2句）：直接进入最有意思的那个点，不需要铺垫词；禁用「今天」「最近」「现在」等模糊时间词
 2️⃣ 核心干货（3-5点，emoji序号，每点2-3行）
 3️⃣ 实用价值（能做什么/怎么用/有什么影响）
-4️⃣ 互动结尾（一个具体问题引发评论，或"关注不迷路"）
+4️⃣ 互动结尾（用一个具体问题引发评论，禁止使用"关注不迷路""下期预告"等套路公式）
 
 【语言风格】
 口语化中文，不装，不端着，技术词保留英文原文
@@ -581,10 +582,46 @@ USER_PROMPT_TEMPLATE = """\
 """
 
 
+# 套路开头/结尾清单 — 与 SYSTEM_PROMPT 中的禁止词保持一致
+_FORBIDDEN_OPENERS = [
+    "刚看到", "实测完成", "实测刚完成", "你不知道的是",
+    "圈内没人说破的", "圈内没人说破", "这件事没人告诉你",
+]
+_FORBIDDEN_TAIL_RE = re.compile(
+    r"(关注不迷路|下期预告|下期拆解|下期发|下期带|关注我.{0,4}不迷路)[^\n]*\n?"
+)
+
+
+def _scrub_forbidden_phrases(text: str) -> str:
+    """移除 LLM 偶尔仍会输出的套路开头/结尾，确保产出符合品牌规范。"""
+    if not text:
+        return text
+
+    cleaned_lines = []
+    for line in text.splitlines():
+        stripped = line.lstrip()
+        prefix = line[: len(line) - len(stripped)]
+        for opener in _FORBIDDEN_OPENERS:
+            if stripped.startswith(opener):
+                stripped = stripped[len(opener):].lstrip("：:，,。.！!～~ \t")
+                break
+        cleaned_lines.append(prefix + stripped)
+    text = "\n".join(cleaned_lines)
+    text = _FORBIDDEN_TAIL_RE.sub("", text)
+    return text.rstrip() + ("\n" if text.endswith("\n") else "")
+
+
+def _sanitize_posts(posts: list[dict]) -> list[dict]:
+    for post in posts:
+        if isinstance(post.get("body"), str):
+            post["body"] = _scrub_forbidden_phrases(post["body"])
+    return posts
+
+
 def generate_posts_with_llm(ai_repos: list[dict], max_posts: int = 4) -> list[dict]:
     if not LLM_API_KEY:
         print("  ⚠️  LLM_API_KEY not set, using fallback")
-        return _fallback_posts(ai_repos, max_posts)
+        return _sanitize_posts(_fallback_posts(ai_repos, max_posts))
 
     count = min(len(ai_repos), max_posts)
     if count == 0:
@@ -618,7 +655,7 @@ def generate_posts_with_llm(ai_repos: list[dict], max_posts: int = 4) -> list[di
         resp_json = resp.json()
         if "choices" not in resp_json:
             print(f"  ⚠️  Unexpected API response: {json.dumps(resp_json)[:300]}")
-            return _fallback_posts(ai_repos, max_posts)
+            return _sanitize_posts(_fallback_posts(ai_repos, max_posts))
 
         raw   = resp_json["choices"][0]["message"]["content"].strip()
         start = raw.find("[")
@@ -627,12 +664,13 @@ def generate_posts_with_llm(ai_repos: list[dict], max_posts: int = 4) -> list[di
             raw = raw[start:end]
 
         posts = json.loads(raw)
+        posts = _sanitize_posts(posts[:max_posts])
         print(f"  ✅ {len(posts)} posts generated")
-        return posts[:max_posts]
+        return posts
 
     except Exception as e:
         print(f"  ⚠️  LLM generation failed: {e}")
-        return _fallback_posts(ai_repos, max_posts)
+        return _sanitize_posts(_fallback_posts(ai_repos, max_posts))
 
 
 def _fallback_posts(repos: list[dict], max_posts: int) -> list[dict]:
