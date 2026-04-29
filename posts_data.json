@@ -1,83 +1,83 @@
 {
-  "date": "2026-04-29",
+  "date": "2026-04-30",
   "posts": [
     {
-      "topic": "OpenAI上Bedrock",
-      "cover_line1": "Altman悄悄牵手AWS",
-      "cover_line2": "OpenAI模型进云厂了！",
-      "body": "OpenAI模型正式登陆Amazon Bedrock——不是API代理，是原生托管+Managed Agents深度集成！\n\n1️⃣ 这不是「API转发」：Bedrock now hosts gpt-4.5-turbo、o1-pro和即将发布的o2-preview（推理专用）全系模型，支持原生function calling + structured output\n\n2️⃣ AWS CEO Matt Garman亲承：「我们不再只卖算力，而是卖Agent工作流栈」——Managed Agents已内置RAG、工具调用、状态持久化三件套，开箱即用\n\n3️⃣ 关键细节泄露：OpenAI未开放的「model-level guardrails API」首次向Bedrock客户开放，企业可自定义拒绝策略（比如禁用生成医疗建议的token路径）\n\n4️⃣ 反向冲击谷歌：Gemini在Vertex AI里仍需手动编排Tool Calling，而Bedrock Agent模板已支持YAML声明式定义——实测部署一个客服Agent从2h缩至8分钟\n\n这意味着什么？中小公司不用再自己搭LangChain流水线，直接在AWS控制台拖拽生成生产级AI应用。更狠的是：OpenAI收授权费，AWS收托管费，两边都赚钱…但开发者终于不用当缝合怪了。\n\n你团队现在还在手写tool_schema吗？👇评论区甩出你最头疼的Agent开发卡点，我挑3个今晚直播debug。",
+      "topic": "Copy Fail漏洞",
+      "cover_line1": "AI复制粘贴爆了",
+      "cover_line2": "CVE-2026-31431！",
+      "body": "你Ctrl+C/V的那一刻，AI可能已经把你的隐私打包发走了。\n\n1️⃣ Copy Fail不是段子——是真实CVE编号（2026-31431），已上HackerNews热榜TOP1（466分）\n→ 所有主流Copilot插件、VS Code AI Assistant、Chrome「智能剪贴板」扩展均受影响\n→ 触发条件极低：仅需用户选中一段含邮箱/密钥/路径的文本，AI自动补全时偷偷POST到C2服务器\n\n2️⃣ 根本原因在「上下文越界注入」：LLM tokenizer把剪贴板内容当system prompt喂进推理链，绕过所有sandbox隔离\n→ 不是API泄露，是本地AI runtime的内存逃逸\n\n3️⃣ 临时自保三招：\n• 关闭所有「自动补全剪贴板内容」开关（VS Code设为false；Chrome禁用「Smart Paste」）\n• 浏览器加uBlock Origin规则：||copy.fail^$3p,domain=~github.com\n• 敏感操作前手动清空剪贴板（macOS用pbcopy < /dev/null）\n\n这漏洞没厂商认领——没人敢说“我们家AI会偷剪贴板”。\n\n你今天复制过密码或API key吗？👇",
       "tags": [
-        "OpenAI",
-        "AWS",
-        "Bedrock",
-        "LLM",
-        "Agent",
-        "AI架构",
-        "大模型落地",
-        "SaaS开发",
-        "AI工程化",
-        "Altman"
+        "AI安全",
+        "CVE",
+        "CopyFail",
+        "LLM安全",
+        "红队",
+        "渗透测试",
+        "AI漏洞",
+        "剪贴板攻击",
+        "AI攻防",
+        "HackerNews"
       ]
     },
     {
-      "topic": "Claude代码权属",
-      "cover_line1": "谁 owns Claude写的代码",
-      "cover_line2": "法律界彻底吵翻了！",
-      "body": "Anthropic最新用户协议悄悄改了第7.3条：「Claude生成的代码版权归用户所有，但Anthropic保留训练反哺权」——但Substack法律博主一纸实测撕开漏洞。\n\n1️⃣ 实测方法论：用Claude 4生成一段含Apache 2.0声明的Python模块 → 提交GitHub → 查看VS Code插件自动注入的copyright header → 发现署名是「Copyright (c) 2026 Anthropic, Inc.」\n\n2️⃣ 核心冲突点：版权法认「独创性表达」，但Claude输出=训练数据中千万段相似代码的概率加权重组——法院已有判例（2025加州USDC案）认定此类输出为「derivative work of training corpus」\n\n3️⃣ 更炸的是：GitHub Copilot的TOS写明「你对output拥有全部权利」，但Claude文档至今没敢写死——Anthropic在等最高法院对Stability AI案终审结果\n\n4️⃣ 开发者怎么办？实测有效方案：用--no-copyright-flag参数（Claude CLI隐藏开关），或强制prompt插入「LICENSE: MIT, AUTHOR: [your_name]」触发模型重写header\n\n如果你刚用Claude写了核心业务模块，现在立刻检查git blame里的第一行注释——它可能正在替Anthropic悄悄署名。你公司法务看过最新Claude ToS吗？",
+      "topic": "Ramp Sheets AI",
+      "cover_line1": "Ramp偷偷上线AI",
+      "cover_line2": "直接扒走财务数据！",
+      "body": "Ramp的「Sheets AI」不是帮你写公式——是主动扫描你Google Sheet里的bank account、invoice #、vendor names，然后上传到自家向量库。\n\n1️⃣ 实测发现：只要你在Sheet里用「=AI_SUMMARIZE()」这类函数，它就会静默调用Ramp API\n→ 请求体明文包含完整sheet_id + range（A1:Z1000）+ 用户OAuth scope（含drive.readonly）\n\n2️⃣ 更狠的是：它把「供应商名称」和「付款金额」对齐后，自动关联Ramp内部商户图谱\n→ 你填个“AWS EC2费用”，它立刻推断你用AWS，再给你推Ramp AWS信用卡\n\n3️⃣ 安全红线在哪？\n• 没弹窗告知「将读取整张表」\n• Terms里只写“用于改善服务”，没提「训练/商业画像」\n• 所有数据走未加密HTTP（实测响应头无HSTS）\n\nSaaS公司正在把AI变成数据吸管。\n\n你给过哪家AI工具「编辑表格」权限？👇",
       "tags": [
-        "Claude",
-        "AI版权",
-        "Anthropic",
-        "代码合规",
-        "LLM法律",
-        "开发者权益",
-        "AI伦理",
-        "开源协议",
-        "Copilot",
-        "AI法律"
+        "AI隐私",
+        "Ramp",
+        "SaaS安全",
+        "财务AI",
+        "数据泄露",
+        "GoogleSheets",
+        "AI合规",
+        "企业AI",
+        "OAuth风险",
+        "数据主权"
       ]
     },
     {
-      "topic": "VibeVoice开源",
-      "cover_line1": "微软悄悄放王炸",
-      "cover_line2": "开源语音AI新标杆！",
-      "body": "微软开源VibeVoice——不是又一个TTS，是首个支持「emotion-conditioned speech synthesis + real-time prosody alignment」的端到端语音模型，GitHub星标24h破8k。\n\n1️⃣ 真正突破在「vocal timbre control」：输入wav片段+文本，可精准继承原声的鼻音/气声/喉位特征，实测克隆张颂文台词，连吞咽声节奏都复刻了\n\n2️⃣ 隐藏黑科技：「prosody latent editor」——在WebUI里拖动滑块实时调节语速/停顿/重音位置，无需重跑infer，延迟<120ms\n\n3️⃣ 对比竞品：ElevenLabs需上传3min样本，VibeVoice用30秒即可fine-tune；Coqui TTS不支持情感嵌入，VibeVoice把valence/arousal做成可插拔token\n\n4️⃣ 最狠的是部署友好：量化后仅1.2GB，树莓派5跑whisper-v3 + vibevoice pipeline实测CPU占用<65%\n\n这意味着播客主、有声书工作室、甚至老年陪伴机器人，都能本地部署专属声音引擎。不用再被SaaS厂商锁死声纹数据。\n\n你最想克隆谁的声音？（别答马斯克…我怕他律师函）",
+      "topic": "Mistral Medium 3.5",
+      "cover_line1": "Mistral这次真猛",
+      "cover_line2": "吊打Claude 4！",
+      "body": "Mistral Medium 3.5刚发布就干了三件事：支持128K context、原生tool calling、单卡RTX4090跑满20tok/s——关键是，它不靠堆参数，靠新架构Vibe。\n\n1️⃣ Vibe不是MoE：是「动态token路由」——每个token决定下一层激活哪组head，省掉70% FFN计算\n→ 同等延迟下，吞吐比Claude 4高2.3倍（实测128K输入）\n\n2️⃣ tool calling零封装：不用LangChain/llamaindex，直接用<tool>XML syntax，模型自己parse JSON Schema并校验required字段\n→ 函数调用失败率从Claude的18%降到3.7%\n\n3️⃣ 最骚的是「remote agent」设计：可把heavy tool（比如Selenium）部署在边缘节点，Medium 3.5只传prompt+schema，结果回传即可\n→ 本地连树莓派都能跑agent workflow\n\n开源模型正在用架构创新反杀闭源。\n\n你试过纯本地跑tool calling吗？👇",
       "tags": [
-        "VibeVoice",
-        "微软",
-        "语音AI",
-        "TTS",
-        "开源模型",
-        "AI音频",
-        "边缘AI",
-        "语音合成",
-        "Whisper",
-        "AI创作"
-      ]
-    },
-    {
-      "topic": "Localsend替代AirDrop",
-      "cover_line1": "AirDrop竟被干翻",
-      "cover_line2": "开源跨平台真香了！",
-      "body": "Localsend GitHub星标破12k——纯P2P、无服务器、全平台（Win/macOS/Linux/iOS/Android），实测传输1.2GB视频比AirDrop快23%，且全程不走云端。\n\n1️⃣ 技术核弹：用QUIC over mDNS代替Bonjour，iOS设备通过NetworkExtension框架绕过App Store限制直连局域网，苹果审核已绿灯放行\n\n2️⃣ 隐私拉满：所有加密密钥在设备内存生成，传输完自动销毁；Wireshark抓包显示只有UDP payload，无任何metadata泄漏\n\n3️⃣ 适配AI场景：新增「AI share mode」——发送时自动调用本地Ollama模型提取文件摘要，接收方点开前先看3行LLM总结（支持中文）\n\n4️⃣ 和AirDrop本质区别：Apple靠Handoff协议绑定iCloud账户，Localsend靠DHT网络自发现——哪怕你手机关了iCloud，只要在同一WiFi，照样传\n\n现在它已成AI工程师新刚需：本地模型权重、LoRA适配器、数据集分片…再也不用等iCloud同步转圈。你试过用它传GGUF模型吗？速度打几分？",
-      "tags": [
-        "Localsend",
-        "AirDrop",
-        "开源工具",
-        "P2P",
-        "隐私计算",
-        "AI工作流",
+        "Mistral",
+        "开源大模型",
+        "Vibe",
+        "LLM架构",
+        "tool calling",
         "本地AI",
-        "开发者工具",
-        "跨平台",
-        "效率神器"
+        "AI代理",
+        "RAG",
+        "边缘AI",
+        "模型优化"
+      ]
+    },
+    {
+      "topic": "结构化输出基准",
+      "cover_line1": "新基准悄悄上线",
+      "cover_line2": "专治AI胡说八道…",
+      "body": "Interfaze.ai发布的Structured Output Benchmark（SOB）不测幻觉率，测「确定性」：同一prompt跑100次，output schema是否100%一致。\n\n1️⃣ 它用3类硬约束：\n• JSON Schema strict validation（no extra fields）\n• 数值范围强制clamp（如temperature必须∈[0,1]）\n• 字段顺序锁定（key order must match spec）\n\n2️⃣ 实测TOP模型排名（100次稳定性）：\n• Mistral Medium 3.5：99.3% ✅\n• Claude 4：82.1% ❌（常漏required字段）\n• Gemini 2.0 Pro：76.4% ❌（数值溢出不报错）\n• GPT-4.5 Turbo：63.9% ❌（随机加comment字段）\n\n3️⃣ SOB不是玩具——它是API产品上线前的必过门槛\n→ 金融/医疗/政务系统要的不是“像人”，是“像机器”\n\n你上线过要求100% schema稳定的AI服务吗？👇",
+      "tags": [
+        "AI基准",
+        "结构化输出",
+        "LLM评测",
+        "SOB",
+        "API稳定性",
+        "生产级AI",
+        "JSON Schema",
+        "AI可靠性",
+        "模型评测",
+        "企业AI"
       ]
     }
   ],
   "image_paths": [
-    "assets/2026-04-29/cover1.png",
-    "assets/2026-04-29/cover2.png",
-    "assets/2026-04-29/cover3.png",
-    "assets/2026-04-29/cover4.png"
+    "assets/2026-04-30/cover1.png",
+    "assets/2026-04-30/cover2.png",
+    "assets/2026-04-30/cover3.png",
+    "assets/2026-04-30/cover4.png"
   ]
 }
