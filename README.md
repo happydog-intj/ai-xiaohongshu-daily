@@ -1,4 +1,4 @@
-# 📱 AI 小红书日报
+# 📱 AI 日报
 
 > 每天早上 8 点自动抓取 AI 圈热点，生成「AI炼丹师」风格小红书内容 + Qwen 封面图，以 GitHub Issue 形式发布。
 
@@ -43,7 +43,7 @@
 
 ## 🔧 手动触发
 
-**Actions → 📱 AI 小红书日报 → Run workflow → Run workflow**
+**Actions → 📱 AI 日报 → Run workflow → Run workflow**
 
 可选择执行阶段（`generate` / `issue` / `all`），默认 `all`。
 

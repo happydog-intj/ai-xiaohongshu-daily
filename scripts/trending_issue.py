@@ -382,7 +382,7 @@ def make_post_body_cover(post: dict, index: int, out_path: Path) -> bool:
 
         # ── 底部：品牌 + 日期 ──
         footer_y = H - PAD - 60
-        brand    = "AI 小红书日报"
+        brand    = "AI 日报"
         f_brand  = get_font(32)
         bbox     = draw.textbbox((0, 0), brand, font=f_brand)
         draw.text(((W - (bbox[2] - bbox[0])) // 2, footer_y), brand, font=f_brand, fill=T["brand"])

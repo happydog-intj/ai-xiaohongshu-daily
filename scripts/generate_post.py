@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-AI 小红书日报生成器
+AI 日报生成器
 每天自动抓取 AI 热点，生成小红书风格内容 + 白底黑字封面图，发布为 GitHub Issue
 """
 
@@ -406,7 +406,7 @@ def make_cover_image(line1: str, line2: str, index: int, out_path: Path) -> bool
 
     # ── 底部：品牌 + 日期 ──
     footer_y = H - PAD - 50
-    brand    = "AI 小红书日报"
+    brand    = "AI 日报"
     f_brand  = get_font(38)
     bbox     = draw.textbbox((0, 0), brand, font=f_brand)
     draw.text(((W - (bbox[2]-bbox[0])) // 2, footer_y), brand, font=f_brand, fill=RED)
@@ -490,7 +490,7 @@ def build_issue_body(
     posts: list[dict], image_paths: list[str | None], branch: str = "main"
 ) -> str:
     parts = [
-        f"# 🤖 AI 小红书日报 · {TODAY_CN}",
+        f"# 🤖 AI 日报 · {TODAY_CN}",
         "",
         "> 由 GitHub Actions 自动生成 · 数据来源：HackerNews / GitHub Trending",
         "",
@@ -553,7 +553,7 @@ def create_github_issue(
             f"https://api.github.com/repos/{owner}/{repo}/issues",
             headers=headers,
             json={
-                "title":  f"📱 AI 小红书日报 · {TODAY}",
+                "title":  f"📱 AI 日报 · {TODAY}",
                 "body":   body,
                 "labels": ["daily-post", "ai-content"],
             },
@@ -592,7 +592,7 @@ def send_feishu_notify(posts: list[dict]) -> None:
 
         # 纯文本格式，易于手动复制
         text = (
-            f"📱 AI小红书日报 {TODAY_CN} · 帖子{i}/{len(posts)} · {topic}\n"
+            f"📱 AI日报 {TODAY_CN} · 帖子{i}/{len(posts)} · {topic}\n"
             f"{'─' * 36}\n"
             f"🎨 封面标题\n"
             f"{line1}\n"
@@ -680,7 +680,7 @@ def phase_issue() -> None:
 
 
 def main() -> None:
-    parser = argparse.ArgumentParser(description="AI 小红书日报生成器")
+    parser = argparse.ArgumentParser(description="AI 日报生成器")
     parser.add_argument(
         "--phase",
         choices=["generate", "issue", "notify", "all"],

@@ -1,4 +1,4 @@
-# AI 小红书日报 — 项目知识库
+# AI 日报 — 项目知识库
 
 ## 项目概述
 
@@ -118,8 +118,8 @@ git stash && git pull --rebase origin master && git stash pop && git push
 ### 触发一次 Action（手动）
 
 ```bash
-gh workflow run "📱 AI 小红书日报" --field phase=all
-gh run list --workflow="📱 AI 小红书日报" --limit 3
+gh workflow run "📱 AI 日报" --field phase=all
+gh run list --workflow="📱 AI 日报" --limit 3
 ```
 
 ### Node.js 版本警告
