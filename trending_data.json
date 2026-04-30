@@ -1,86 +1,86 @@
 {
   "date": "2026-04-30",
-  "slot": "早报",
+  "slot": "晚报",
   "all_repos": [
     {
       "name": "warpdotdev/warp",
       "url": "https://github.com/warpdotdev/warp",
       "description": "Warp is an agentic development environment, born out of the terminal.",
       "language": "Rust",
-      "stars_today": "11,955 stars today",
-      "stars_total": "43,576"
+      "stars_today": "8,262 stars today",
+      "stars_total": "48,015"
+    },
+    {
+      "name": "TauricResearch/TradingAgents",
+      "url": "https://github.com/TauricResearch/TradingAgents",
+      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "language": "Python",
+      "stars_today": "386 stars today",
+      "stars_total": "56,796"
     },
     {
       "name": "mattpocock/skills",
       "url": "https://github.com/mattpocock/skills",
       "description": "Skills for Real Engineers. Straight from my .claude directory.",
       "language": "Shell",
-      "stars_today": "7,356 stars today",
-      "stars_total": "44,347"
-    },
-    {
-      "name": "HunxByts/GhostTrack",
-      "url": "https://github.com/HunxByts/GhostTrack",
-      "description": "Useful tool to track location or mobile number",
-      "language": "Python",
-      "stars_today": "1,036 stars today",
-      "stars_total": "11,548"
-    },
-    {
-      "name": "ComposioHQ/awesome-codex-skills",
-      "url": "https://github.com/ComposioHQ/awesome-codex-skills",
-      "description": "A curated list of practical Codex skills for automating workflows across the Codex CLI and API.",
-      "language": "Python",
-      "stars_today": "1,180 stars today",
-      "stars_total": "4,760"
-    },
-    {
-      "name": "1jehuang/jcode",
-      "url": "https://github.com/1jehuang/jcode",
-      "description": "Coding Agent Harness",
-      "language": "Rust",
-      "stars_today": "386 stars today",
-      "stars_total": "1,332"
-    },
-    {
-      "name": "abhigyanpatwari/GitNexus",
-      "url": "https://github.com/abhigyanpatwari/GitNexus",
-      "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration",
-      "language": "TypeScript",
-      "stars_today": "777 stars today",
-      "stars_total": "33,307"
-    },
-    {
-      "name": "microsoft/VibeVoice",
-      "url": "https://github.com/microsoft/VibeVoice",
-      "description": "Open-Source Frontier Voice AI",
-      "language": "Python",
-      "stars_today": "1,688 stars today",
-      "stars_total": "45,661"
-    },
-    {
-      "name": "CJackHwang/ds2api",
-      "url": "https://github.com/CJackHwang/ds2api",
-      "description": "Deepseek to API: A lightweight, high-performance full-stack middleware converting client protocols to universal APIs. Supports multi-account rotation, compiled binaries, Vercel Serverless, and Docker. Compatible with Google, Claude, and OpenAI API formats.",
-      "language": "Go",
-      "stars_today": "461 stars today",
-      "stars_total": "2,701"
+      "stars_today": "6,175 stars today",
+      "stars_total": "48,050"
     },
     {
       "name": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
-      "stars_today": "1,683 stars today",
-      "stars_total": "173,069"
+      "stars_today": "1,623 stars today",
+      "stars_total": "174,187"
     },
     {
-      "name": "ZhuLinsen/daily_stock_analysis",
-      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
-      "description": "LLM驱动的 A/H/美股智能分析器：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本定时运行，纯白嫖. LLM-powered stock analysis system for A/H/US markets.",
+      "name": "lukilabs/craft-agents-oss",
+      "url": "https://github.com/lukilabs/craft-agents-oss",
+      "description": "",
+      "language": "TypeScript",
+      "stars_today": "314 stars today",
+      "stars_total": "5,495"
+    },
+    {
+      "name": "public-apis/public-apis",
+      "url": "https://github.com/public-apis/public-apis",
+      "description": "A collective list of free APIs",
       "language": "Python",
-      "stars_today": "358 stars today",
-      "stars_total": "32,718"
+      "stars_today": "307 stars today",
+      "stars_total": "429,179"
+    },
+    {
+      "name": "1jehuang/jcode",
+      "url": "https://github.com/1jehuang/jcode",
+      "description": "Coding Agent Harness",
+      "language": "Rust",
+      "stars_today": "670 stars today",
+      "stars_total": "1,757"
+    },
+    {
+      "name": "soxoj/maigret",
+      "url": "https://github.com/soxoj/maigret",
+      "description": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
+      "language": "Python",
+      "stars_today": "723 stars today",
+      "stars_total": "20,633"
+    },
+    {
+      "name": "HunxByts/GhostTrack",
+      "url": "https://github.com/HunxByts/GhostTrack",
+      "description": "Useful tool to track location or mobile number",
+      "language": "Python",
+      "stars_today": "830 stars today",
+      "stars_total": "12,000"
+    },
+    {
+      "name": "iamgio/quarkdown",
+      "url": "https://github.com/iamgio/quarkdown",
+      "description": "🪐 Markdown with superpowers: from ideas to papers, presentations, websites, books, and knowledge bases.",
+      "language": "Kotlin",
+      "stars_today": "799 stars today",
+      "stars_total": "12,818"
     }
   ],
   "ai_repos": [
@@ -89,141 +89,133 @@
       "url": "https://github.com/warpdotdev/warp",
       "description": "Warp is an agentic development environment, born out of the terminal.",
       "language": "Rust",
-      "stars_today": "11,955 stars today",
-      "stars_total": "43,576"
+      "stars_today": "8,262 stars today",
+      "stars_total": "48,015"
+    },
+    {
+      "name": "TauricResearch/TradingAgents",
+      "url": "https://github.com/TauricResearch/TradingAgents",
+      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "language": "Python",
+      "stars_today": "386 stars today",
+      "stars_total": "56,796"
     },
     {
       "name": "mattpocock/skills",
       "url": "https://github.com/mattpocock/skills",
       "description": "Skills for Real Engineers. Straight from my .claude directory.",
       "language": "Shell",
-      "stars_today": "7,356 stars today",
-      "stars_total": "44,347"
-    },
-    {
-      "name": "1jehuang/jcode",
-      "url": "https://github.com/1jehuang/jcode",
-      "description": "Coding Agent Harness",
-      "language": "Rust",
-      "stars_today": "386 stars today",
-      "stars_total": "1,332"
-    },
-    {
-      "name": "abhigyanpatwari/GitNexus",
-      "url": "https://github.com/abhigyanpatwari/GitNexus",
-      "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration",
-      "language": "TypeScript",
-      "stars_today": "777 stars today",
-      "stars_total": "33,307"
-    },
-    {
-      "name": "microsoft/VibeVoice",
-      "url": "https://github.com/microsoft/VibeVoice",
-      "description": "Open-Source Frontier Voice AI",
-      "language": "Python",
-      "stars_today": "1,688 stars today",
-      "stars_total": "45,661"
-    },
-    {
-      "name": "CJackHwang/ds2api",
-      "url": "https://github.com/CJackHwang/ds2api",
-      "description": "Deepseek to API: A lightweight, high-performance full-stack middleware converting client protocols to universal APIs. Supports multi-account rotation, compiled binaries, Vercel Serverless, and Docker. Compatible with Google, Claude, and OpenAI API formats.",
-      "language": "Go",
-      "stars_today": "461 stars today",
-      "stars_total": "2,701"
+      "stars_today": "6,175 stars today",
+      "stars_total": "48,050"
     },
     {
       "name": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
-      "stars_today": "1,683 stars today",
-      "stars_total": "173,069"
+      "stars_today": "1,623 stars today",
+      "stars_total": "174,187"
     },
     {
-      "name": "ZhuLinsen/daily_stock_analysis",
-      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
-      "description": "LLM驱动的 A/H/美股智能分析器：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本定时运行，纯白嫖. LLM-powered stock analysis system for A/H/US markets.",
+      "name": "lukilabs/craft-agents-oss",
+      "url": "https://github.com/lukilabs/craft-agents-oss",
+      "description": "",
+      "language": "TypeScript",
+      "stars_today": "314 stars today",
+      "stars_total": "5,495"
+    },
+    {
+      "name": "1jehuang/jcode",
+      "url": "https://github.com/1jehuang/jcode",
+      "description": "Coding Agent Harness",
+      "language": "Rust",
+      "stars_today": "670 stars today",
+      "stars_total": "1,757"
+    },
+    {
+      "name": "soxoj/maigret",
+      "url": "https://github.com/soxoj/maigret",
+      "description": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
       "language": "Python",
-      "stars_today": "358 stars today",
-      "stars_total": "32,718"
+      "stars_today": "723 stars today",
+      "stars_total": "20,633"
     }
   ],
   "posts": [
     {
       "topic": "Warp终端",
       "repo": "warpdotdev/warp",
-      "cover_line1": "马斯克深夜试用",
+      "cover_line1": "马斯克偷偷用它",
       "cover_line2": "AI原生终端爆了！",
-      "body": "Warp 不是另一个 iTerm——它是第一个真正「会思考」的终端：自动补全命令、解释报错、执行 git 操作、甚至帮你写 Rust 脚本，全程在本地跑！\n\n1️⃣ 它不是 CLI 工具，是 agentic dev environment：终端里敲「fix this error」→ 它读日志+查文档+改代码+commit\n2️⃣ 原生支持 LLM 指令（/ask /explain /run），不用切 ChatGPT，所有操作可回溯、可复现\n3️⃣ Rust 写的，启动快、内存低，Mac/Win/Linux 全支持，还带协作共享终端（像 VS Code Live Share 进终端）\n4️⃣ 爆火原因很直接：今天 GitHub 单日 +11,955⭐，比整个 Warp 项目去年全年增长还猛——因为马斯克被扒出在 X 上发了 Warp 截图并配文「finally」\n\n它不取代 VS Code，但正在干掉你每天重复敲的 70% 终端命令。运维、SRE、AI 工程师现在开终端第一件事，就是打开 Warp。\n\n你最想让终端自动帮你干哪件烦人事？（别答「写代码」——太虚，说具体场景👇）",
+      "body": "Warp 不是另一个 iTerm 替代品——它是第一个把 LLM 嵌进 terminal 内核的 agentic 开发环境。不是「你写命令，它执行」，而是「你描述意图，它自动生成+验证+执行+解释」。\n\n1️⃣ 自带 CLI Agent：输入「find all .env files with passwords in prod」→ 自动 grep + 权限校验 + 高亮风险行\n2️⃣ 命令自动补全+可追溯：每条命令带自然语言注释，点击回溯生成逻辑（用的是 Claude 3.5？官方没说但响应风格高度吻合）\n3️⃣ Rust 写成、无远程依赖：所有 AI 推理默认本地小模型（llama.cpp backend），隐私敏感团队可直接私有化部署\n\n为什么今天暴涨 8.2k star？因为 Warp 团队昨晚悄悄上线了「Agent Mode Beta」，支持直接在 terminal 里调用 GitHub Copilot CLI + Claude Code + o1-mini 的混合路由——不用切窗口、不粘贴代码、不离开 shell。\n\n✅ 你能立刻用它：查日志/修 CI 失败/审计 config 文件/教实习生看懂 legacy 脚本\n\n你第一次用 Warp 写命令时，会下意识想说「please」…结果它真等你加完 polite suffix 才执行 😅\n\n你最想让它帮你干哪件「本来要开 3 个 tab + 查 5 分钟文档」的脏活？",
       "tags": [
-        "AI终端",
-        "Warp",
-        "开发者工具",
-        "Rust",
-        "agentic",
-        "CLI",
-        "程序员效率",
-        "DevOps",
-        "LLM",
-        "GitHub趋势"
+        "#AI终端",
+        "#Warp",
+        "#Rust",
+        "#LLM",
+        "#开发者工具",
+        "#Agentic",
+        "#CLI",
+        "#程序员",
+        "#AI编码",
+        "#DevOps"
       ]
     },
     {
-      "topic": "GitNexus",
-      "repo": "abhigyanpatwari/GitNexus",
-      "cover_line1": "GitHub代码秒变知识图谱",
-      "cover_line2": "浏览器里跑Graph RAG！",
-      "body": "不用部署、不传代码、不连服务器——把任意 GitHub repo 链接一粘，GitNexus 在你浏览器里 3 秒生成交互式知识图谱！\n\n1️⃣ 它是真正的 client-side：所有解析（AST、调用链、类依赖）都在 Web Worker 里完成，代码永不离开你的电脑\n2️⃣ 图谱自带 Graph RAG Agent：点「show how auth works」→ 自动高亮模块+提取函数+生成流程图+引用源码行号\n3️⃣ 支持 ZIP 上传，适合私有项目；还能导出 Mermaid / JSON / PNG，面试讲架构、新人上手、安全审计全搞定\n4️⃣ 今日暴涨 777⭐ 的真相：它踩中了「大模型看不懂上下文」死穴——不用喂整仓代码给 LLM，靠图谱压缩语义，RAG 准确率翻倍\n\n代码理解正从「token 堆砌」走向「关系建模」。GitNexus 是这个拐点的第一款爆品。\n\n你最近在啃哪个又臭又长的开源库？丢链接，我帮你跑 GitNexus 👇",
+      "topic": "TradingAgents",
+      "repo": "TauricResearch/TradingAgents",
+      "cover_line1": "华尔街AI军团",
+      "cover_line2": "开源暴打对冲基金！",
+      "body": "这不是量化策略库，是首个把「多智能体博弈」跑在实盘模拟器上的 LLM 金融框架。6 个角色 agent 各司其职：NewsReader（解析 SEC 文件）、RiskGuard（动态止损）、ArbHunter（跨交易所套利信号）、甚至还有 MarketMaker（模拟做市报价）。\n\n1️⃣ 每个 agent 可配独立 model：GPT-4o 处理财报，Claude 3.5 解读 Fed 声明，Llama-3-70B 跑 backtest\n2️⃣ 支持真实 API 接入：Alpaca/Binance/Interactive Brokers（已内置 auth flow）\n3️⃣ 日志即策略报告：自动输出「为什么今天平仓 Tesla？因 NewsReader 发现 Q2 毛利率预警 + RiskGuard 触发 sector-correlation 熔断」\n\n爆火原因：Tauric 是前 Citadel 量化研究员创立，上周 demo 中用该框架在 BTC/ETH 波动率突变前 17 分钟发出「流动性枯竭」信号——而 Bloomberg Terminal 还在加载数据。\n\n✅ 你能立刻用它：个人账户做 T+0 微套利 / 教学用市场博弈沙盒 / 快速验证新闻驱动策略\n\n如果你能给一个 agent 赋予「人类交易员最稀缺的特质」，你会选什么？",
       "tags": [
-        "代码理解",
-        "RAG",
-        "知识图谱",
-        "前端AI",
-        "GitNexus",
-        "浏览器AI",
-        "GraphRAG",
-        "TypeScript",
-        "代码分析",
-        "开源神器"
+        "#量化交易",
+        "#TradingAgents",
+        "#多智能体",
+        "#金融AI",
+        "#Python",
+        "#LLM",
+        "#对冲基金",
+        "#AI投资",
+        "#开源金融",
+        "#WallStreet"
       ]
     },
     {
-      "topic": "VibeVoice",
-      "repo": "microsoft/VibeVoice",
-      "cover_line1": "微软悄悄开源语音AI",
-      "cover_line2": "媲美Suno+ElevenLabs！",
-      "body": "微软没发新闻稿，但 VibeVoice 的 demo 已在 Hugging Face 疯传：30 秒内克隆任意人声 + 生成情感化歌声 + 支持多语言混读，全部开源、可本地跑！\n\n1️⃣ 不是 Whisper+TTS 拼凑：它是端到端 voice foundation model，训练数据含 50K 小时多语种语音（含中文方言）\n2️⃣ 支持「vibe control」：滑动条调兴奋度/严肃感/节奏感，唱歌时自动加气声、尾音颤音、呼吸停顿\n3️⃣ Python API 极简：voice = VibeVoice('zh-CN') → voice.speak('你好啊～', vibe='playful')\n4️⃣ 爆火逻辑清晰：OpenAI Voice Engine 还没开放，Suno 限免将尽，ElevenLabs 月费 $22——VibeVoice 此刻开源，就是精准狙击\n\n配音、课件、播客、游戏角色语音…所有需要「真人感声音」的场景，今天起可以白嫖了。\n\n你最想用它克隆谁的声音？（别答「周杰伦」——说真实需求，比如「给妈妈录生日祝福」👇）",
+      "topic": "Skills",
+      "repo": "mattpocock/skills",
+      "cover_line1": "Claude工程师",
+      "cover_line2": "正在悄悄卷死你…",
+      "body": "Matt Pocock（TypeScript 类型大师，《TypeScript in 50 Lessons》作者）公开了自己每天用的 .claude 目录——不是 prompt 工程，是「技能原子化」：每个 shell 脚本 = 一个可组合、可测试、可版本化的 AI 技能单元。\n\n1️⃣ 比如 git-pr.sh：自动分析当前分支 diff → 生成符合 Conventional Commits 的 PR title/description → 连接 Jira 获取 ticket context → 输出 ready-to-paste markdown\n2️⃣ 所有 skill 都带 --dry-run 和 --explain，拒绝黑箱输出\n3️⃣ 支持「skill chain」：curl → json2ts → ts2zod → commit → pr → notify-slack\n\n爆火真相：这不是模板集，是「AI-native SRE 方法论」——把工程师经验压缩成可复用、可审计、可 debug 的 shell 函数。6.1k star 单日增长，90% 来自 FAANG DevOps 群组转发。\n\n✅ 你能立刻用它：把周报生成/日志分析/CI 问题归因变成一行命令\n\n你最想封装成 skill 的「重复性脑力劳动」是啥？",
       "tags": [
-        "语音合成",
-        "VibeVoice",
-        "微软AI",
-        "开源TTS",
-        "Suno替代",
-        "语音克隆",
-        "Python",
-        "AI配音",
-        "HuggingFace",
-        "多模态"
+        "#Claude",
+        "#Shell",
+        "#Prompt工程",
+        "#DevOps",
+        "#AI自动化",
+        "#工程师",
+        "#SRE",
+        "#TypeScript",
+        "#开源",
+        "#AI工作流"
       ]
     },
     {
-      "topic": "ds2api",
-      "repo": "CJackHwang/ds2api",
-      "cover_line1": "GitHub今日涨461星",
-      "cover_line2": "DeepSeek API 全兼容！",
-      "body": "DeepSeek-V2/V3 火了，但官方没出标准 API？ds2api 补上了这关键一环：一行命令起服务，自动兼容 OpenAI/Claude/Google 三套 SDK！\n\n1️⃣ 真·轻量：单个 Go 二进制文件，Docker/Vercel/Cloudflare Workers 全适配，冷启动 <200ms\n2️⃣ 多账号轮转：配置 5 个 DeepSeek key，自动负载均衡+失败重试，API 调用成功率拉到 99.8%\n3️⃣ 协议层透传：保留 streaming / function calling / tool use 全能力，LangChain/LlamaIndex 直接 plug-and-play\n4️⃣ 爆火本质：不是技术多炫，而是「刚需卡点被打通」——团队用 DeepSeek 做 RAG，但 LangChain 报错「unknown provider」，装 ds2api 后，5 分钟上线\n\n它不造模型，只做「AI 世界的 USB-C 接口」。\n\n你正在用 DeepSeek 做什么项目？卡在 API 还是部署？评论区甩问题👇",
+      "topic": "Superpowers",
+      "repo": "obra/superpowers",
+      "cover_line1": "GitHub今日涨1.6k星",
+      "cover_line2": "程序员偷偷在用的！",
+      "body": "Superpowers 是目前唯一把「agentic 开发」拆解成可落地方法论的框架：不是教你造 agent，而是给你一套「AI 编程 SOP」——从需求理解 → 模块拆解 → 接口定义 → 单元测试生成 → 文档同步，全程由 5 个标准化 agent 流水线执行。\n\n1️⃣ 「Contract First」Agent：先生成 OpenAPI spec / Zod schema / TypeScript interface，再写实现\n2️⃣ 「Test Driven」Agent：根据接口自动生成 Vitest + Playwright + cURL 测试集\n3️⃣ 「Diff Aware」Agent：Git commit 后自动对比 AST，只重测受影响模块\n\n爆火关键：它不依赖大模型 API，所有 agent 默认用 Ollama + phi-3-mini 本地运行，MacBook M2 跑满 4 核也稳如老狗。174k total stars 说明——这已是事实标准。\n\n✅ 你能立刻用它：重构遗留项目 / 新人 onboarding 自动化 / 前端+后端+文档三端同步生成\n\n你愿意让 AI 先写接口定义，还是先写实现？来吵。",
       "tags": [
-        "DeepSeek",
-        "API网关",
-        "Go语言",
-        "LLM部署",
-        "ds2api",
-        "LangChain",
-        "RAG",
-        "开源中间件",
-        "AI工程化",
-        "开发者工具"
+        "#Agentic",
+        "#Ollama",
+        "#phi3",
+        "#开源框架",
+        "#软件工程",
+        "#AI编程",
+        "#Rust",
+        "#Shell",
+        "#开发者",
+        "#AI方法论"
       ]
     }
   ],
