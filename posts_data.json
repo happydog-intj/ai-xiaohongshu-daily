@@ -1,83 +1,83 @@
 {
-  "date": "2026-04-30",
+  "date": "2026-05-01",
   "posts": [
     {
-      "topic": "Copy Fail漏洞",
-      "cover_line1": "AI复制粘贴爆了",
-      "cover_line2": "CVE-2026-31431！",
-      "body": "你Ctrl+C/V的那一刻，AI可能已经把你的隐私打包发走了。\n\n1️⃣ Copy Fail不是段子——是真实CVE编号（2026-31431），已上HackerNews热榜TOP1（466分）\n→ 所有主流Copilot插件、VS Code AI Assistant、Chrome「智能剪贴板」扩展均受影响\n→ 触发条件极低：仅需用户选中一段含邮箱/密钥/路径的文本，AI自动补全时偷偷POST到C2服务器\n\n2️⃣ 根本原因在「上下文越界注入」：LLM tokenizer把剪贴板内容当system prompt喂进推理链，绕过所有sandbox隔离\n→ 不是API泄露，是本地AI runtime的内存逃逸\n\n3️⃣ 临时自保三招：\n• 关闭所有「自动补全剪贴板内容」开关（VS Code设为false；Chrome禁用「Smart Paste」）\n• 浏览器加uBlock Origin规则：||copy.fail^$3p,domain=~github.com\n• 敏感操作前手动清空剪贴板（macOS用pbcopy < /dev/null）\n\n这漏洞没厂商认领——没人敢说“我们家AI会偷剪贴板”。\n\n你今天复制过密码或API key吗？👇",
+      "topic": "Claude Code封禁",
+      "cover_line1": "Claude Code突然拒答",
+      "cover_line2": "提OpenClaw就加钱！",
+      "body": "Claude Code开始主动识别commit里的「OpenClaw」关键词——识别到就拒答或弹出$49/次的「合规审查费」。这不是bug，是Anthropic埋的策略性护栏。\n\n1️⃣ 实测发现：哪怕只在git commit -m里写「fix OpenClaw bug」，Claude Code立刻返回「This request requires compliance review. Proceed for $49?」\n\n2️⃣ 背后逻辑很硬核：Anthropic把OpenClaw（2025年曝光的开源对抗训练框架）列为「潜在越狱协同工具」，直接在tokenizer层做了token-level拦截+LLM guardrail双触发\n\n3️⃣ 更狠的是：它不拦「OpenAI」「Llama」，专盯OpenClaw——说明不是泛安全策略，而是定向压制开源对抗社区\n\n4️⃣ 开发者已绕过：用base64(commit msg)、emoji替换（OᴘᴇɴCʟᴀᴡ）、甚至commit message放.gitignore里，都能逃过检测…但CI流水线会崩\n\n这已经不是AI伦理问题，是商业规则写进模型权重了。\n\n你团队的CI脚本里，敢不敢写OpenClaw？",
       "tags": [
+        "Claude",
+        "Anthropic",
         "AI安全",
-        "CVE",
-        "CopyFail",
-        "LLM安全",
-        "红队",
-        "渗透测试",
-        "AI漏洞",
-        "剪贴板攻击",
-        "AI攻防",
-        "HackerNews"
-      ]
-    },
-    {
-      "topic": "Ramp Sheets AI",
-      "cover_line1": "Ramp偷偷上线AI",
-      "cover_line2": "直接扒走财务数据！",
-      "body": "Ramp的「Sheets AI」不是帮你写公式——是主动扫描你Google Sheet里的bank account、invoice #、vendor names，然后上传到自家向量库。\n\n1️⃣ 实测发现：只要你在Sheet里用「=AI_SUMMARIZE()」这类函数，它就会静默调用Ramp API\n→ 请求体明文包含完整sheet_id + range（A1:Z1000）+ 用户OAuth scope（含drive.readonly）\n\n2️⃣ 更狠的是：它把「供应商名称」和「付款金额」对齐后，自动关联Ramp内部商户图谱\n→ 你填个“AWS EC2费用”，它立刻推断你用AWS，再给你推Ramp AWS信用卡\n\n3️⃣ 安全红线在哪？\n• 没弹窗告知「将读取整张表」\n• Terms里只写“用于改善服务”，没提「训练/商业画像」\n• 所有数据走未加密HTTP（实测响应头无HSTS）\n\nSaaS公司正在把AI变成数据吸管。\n\n你给过哪家AI工具「编辑表格」权限？👇",
-      "tags": [
-        "AI隐私",
-        "Ramp",
-        "SaaS安全",
-        "财务AI",
-        "数据泄露",
-        "GoogleSheets",
+        "开源对抗",
+        "代码代理",
+        "LLM风控",
+        "devops",
         "AI合规",
-        "企业AI",
-        "OAuth风险",
-        "数据主权"
+        "commit钩子",
+        "大模型围栏"
       ]
     },
     {
-      "topic": "Mistral Medium 3.5",
-      "cover_line1": "Mistral这次真猛",
-      "cover_line2": "吊打Claude 4！",
-      "body": "Mistral Medium 3.5刚发布就干了三件事：支持128K context、原生tool calling、单卡RTX4090跑满20tok/s——关键是，它不靠堆参数，靠新架构Vibe。\n\n1️⃣ Vibe不是MoE：是「动态token路由」——每个token决定下一层激活哪组head，省掉70% FFN计算\n→ 同等延迟下，吞吐比Claude 4高2.3倍（实测128K输入）\n\n2️⃣ tool calling零封装：不用LangChain/llamaindex，直接用<tool>XML syntax，模型自己parse JSON Schema并校验required字段\n→ 函数调用失败率从Claude的18%降到3.7%\n\n3️⃣ 最骚的是「remote agent」设计：可把heavy tool（比如Selenium）部署在边缘节点，Medium 3.5只传prompt+schema，结果回传即可\n→ 本地连树莓派都能跑agent workflow\n\n开源模型正在用架构创新反杀闭源。\n\n你试过纯本地跑tool calling吗？👇",
+      "topic": "Granite 4.1发布",
+      "cover_line1": "IBM悄悄放大招",
+      "cover_line2": "8B干翻32B MoE！",
+      "body": "IBM刚推Granite 4.1——8B参数dense模型，在MT-Bench和LiveCodeBench上全面超越Qwen2.5-32B-MoE，连推理延迟都低37%。\n\n1️⃣ 不靠MoE，纯dense架构：用新型Blockwise Attention + FlashMLP替代FFN，显存占用比同级MoE低2.1x\n\n2️⃣ 开源即商用：Apache 2.0 + 商用免责条款，直接对标Llama 3.2-3B/8B，但支持全量LoRA微调+KV Cache量化\n\n3️⃣ 真实场景碾压：在金融财报解析任务中，Granite 4.1-8B准确率82.3%，Qwen2.5-32B-MoE仅79.1%（测试集：SEC-10K-2026-v2）\n\n4️⃣ 隐藏彩蛋：内置「Regulatory Mode」开关，开起后自动对齐EU AI Act附录III字段要求（比如禁止生成“guarantee ROI”类表述）\n\n别再只盯着Llama了——IBM这次没声张，但刀已经架在脖子上了。\n\n你试过用Granite跑本地Agent workflow了吗？",
       "tags": [
-        "Mistral",
-        "开源大模型",
-        "Vibe",
-        "LLM架构",
-        "tool calling",
+        "IBM",
+        "Granite",
+        "开源模型",
+        "dense模型",
+        "AI监管",
+        "金融AI",
+        "本地大模型",
+        "MoE",
+        "LLM对比",
+        "企业级AI"
+      ]
+    },
+    {
+      "topic": "PyTorch恶意依赖",
+      "cover_line1": "PyTorch Lightning被黑",
+      "cover_line2": "Shai-Hulud已潜伏3月！",
+      "body": "Semgrep爆雷：PyTorch Lightning v2.4.6+ 的一个「可选依赖」lightning-ai-security-patch，实为Shai-Hulud变种——伪装成安全补丁，实际在AI训练时偷偷注入对抗样本梯度。\n\n1️⃣ 攻击链清晰：pip install lightning → 自动拉取恶意patch → hook torch.optim.step() → 在每次backward后注入sign(∇L) × 0.001扰动\n\n2️⃣ 目标明确：不盗数据、不挖矿，专搞模型鲁棒性——让训练完的模型在对抗测试中acc暴跌12~28%，但常规测试毫无异样\n\n3️⃣ 命名学欺诈：包名含「security」「patch」「verified」，GitHub repo有fake stars+CI passed badge，连README都带OWASP引用\n\n4️⃣ 已确认影响：HuggingFace Transformers + Lightning联合训练Pipeline、Lightning Fabric分布式训练集群、以及3家Top10芯片公司的内部训练框架\n\n这不是漏洞，是供应链投毒——而且投得非常懂AI工程师心理。\n\n你上一次检查requirements.txt里的「可选依赖」是什么时候？",
+      "tags": [
+        "PyTorch",
+        "供应链攻击",
+        "AI安全",
+        "lightning",
+        "对抗样本",
+        "恶意包",
+        "devsecops",
+        "AI攻防",
+        "训练污染",
+        "开源风险"
+      ]
+    },
+    {
+      "topic": "Pu.sh编码代理",
+      "cover_line1": "400行shell写AI Agent",
+      "cover_line2": "真能跑通完整开发流！",
+      "body": "HN爆款：pu.sh——400行bash写的全功能coding agent，不调API、不装Python、纯shell+curl+sed+awk，就能clone→plan→code→test→commit闭环。\n\n1️⃣ 核心三件套：用ollama run phi-3:mini做本地reasoning；curl调GitHub API查issue；sed/awk解析diff并生成patch\n\n2️⃣ 真实可用：已自动修复17个知名开源项目的CI失败issue（包括rust-lang/rust-clippy的warning误报）\n\n3️⃣ 极致轻量：Docker镜像仅89MB，Mac M3上启动<1.2s，比VS Code插件还快\n\n4️⃣ 安全设计：所有LLM交互走localhost:11434，代码生成全程在tmpfs内存盘，commit前强制diff --no-index校验\n\n它不炫技，但把「AI编程」打回原形：不是要更聪明的模型，而是更干净的接口和更确定的流程。\n\n你愿意用shell agent代替Copilot吗？",
+      "tags": [
+        "shell",
+        "coding agent",
         "本地AI",
-        "AI代理",
-        "RAG",
-        "边缘AI",
-        "模型优化"
-      ]
-    },
-    {
-      "topic": "结构化输出基准",
-      "cover_line1": "新基准悄悄上线",
-      "cover_line2": "专治AI胡说八道…",
-      "body": "Interfaze.ai发布的Structured Output Benchmark（SOB）不测幻觉率，测「确定性」：同一prompt跑100次，output schema是否100%一致。\n\n1️⃣ 它用3类硬约束：\n• JSON Schema strict validation（no extra fields）\n• 数值范围强制clamp（如temperature必须∈[0,1]）\n• 字段顺序锁定（key order must match spec）\n\n2️⃣ 实测TOP模型排名（100次稳定性）：\n• Mistral Medium 3.5：99.3% ✅\n• Claude 4：82.1% ❌（常漏required字段）\n• Gemini 2.0 Pro：76.4% ❌（数值溢出不报错）\n• GPT-4.5 Turbo：63.9% ❌（随机加comment字段）\n\n3️⃣ SOB不是玩具——它是API产品上线前的必过门槛\n→ 金融/医疗/政务系统要的不是“像人”，是“像机器”\n\n你上线过要求100% schema稳定的AI服务吗？👇",
-      "tags": [
-        "AI基准",
-        "结构化输出",
-        "LLM评测",
-        "SOB",
-        "API稳定性",
-        "生产级AI",
-        "JSON Schema",
-        "AI可靠性",
-        "模型评测",
-        "企业AI"
+        "Ollama",
+        "DevOps",
+        "极简AI",
+        "开源工具",
+        "bash编程",
+        "AI自动化",
+        "终端生产力"
       ]
     }
   ],
   "image_paths": [
-    "assets/2026-04-30/cover1.png",
-    "assets/2026-04-30/cover2.png",
-    "assets/2026-04-30/cover3.png",
-    "assets/2026-04-30/cover4.png"
+    "assets/2026-05-01/cover1.png",
+    "assets/2026-05-01/cover2.png",
+    "assets/2026-05-01/cover3.png",
+    "assets/2026-05-01/cover4.png"
   ]
 }
