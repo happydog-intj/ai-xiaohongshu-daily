@@ -978,9 +978,13 @@ def _feishu_send_image(token: str, user_id: str, image_key: str) -> bool:
             },
             timeout=10,
         )
-        return resp.status_code == 200 and resp.json().get("code") == 0
+        body = resp.json()
+        if resp.status_code == 200 and body.get("code") == 0:
+            return True
+        print(f"  ⚠️  Feishu API error: code={body.get('code')} msg={body.get('msg')} user={user_id[:8]}...")
+        return False
     except Exception as e:
-        print(f"  ⚠️  Feishu send image failed: {e}")
+        print(f"  ⚠️  Feishu send image exception: {e}")
         return False
 
 
