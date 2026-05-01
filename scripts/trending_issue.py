@@ -1004,11 +1004,11 @@ def send_feishu_images(
     today_cn: str,
 ) -> None:
     """依次把每张飞书卡片图发给用户（Bot API）；若无 API 凭据则 fallback 到 URL 文字。"""
-    if not FEISHU_WEBHOOK and not (FEISHU_APP_ID and FEISHU_APP_SECRET and FEISHU_USER_ID):
-        print("  ⚠️  Feishu config missing, skipping image notify")
+    if not FEISHU_WEBHOOK:
+        print("  ⚠️  FEISHU_WEBHOOK not set, skipping image notify")
         return
 
-    use_api   = bool(FEISHU_APP_ID and FEISHU_APP_SECRET and FEISHU_USER_ID)
+    use_api   = bool(FEISHU_APP_ID and FEISHU_APP_SECRET)
     api_token = _feishu_get_token() if use_api else ""
     if use_api and not api_token:
         print("  ⚠️  Failed to get Feishu token, falling back to URL text")
@@ -1038,8 +1038,17 @@ def send_feishu_images(
         if use_api:
             image_key = _feishu_upload_image(api_token, path)
             if image_key:
-                ok = _feishu_send_image(api_token, FEISHU_USER_ID, image_key)
-                print(f"  {'✅' if ok else '⚠️'} {label} {'已发送' if ok else '发送失败'}")
+                # 上传成功后通过 Webhook 发到群
+                try:
+                    resp = requests.post(
+                        FEISHU_WEBHOOK,
+                        json={"msg_type": "image", "content": {"image_key": image_key}},
+                        timeout=10,
+                    )
+                    ok = resp.status_code == 200 and resp.json().get("code") == 0
+                except Exception:
+                    ok = False
+                print(f"  {'✅' if ok else '⚠️'} {label} {'已发到群' if ok else '发送失败'}")
             else:
                 print(f"  ⚠️  {label} 上传失败")
         else:

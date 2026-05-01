@@ -671,11 +671,27 @@ def _feishu_send_image(token: str, user_id: str, image_key: str) -> bool:
 
 
 def _feishu_api_enabled() -> bool:
-    return bool(FEISHU_APP_ID and FEISHU_APP_SECRET and FEISHU_USER_ID)
+    """只需要 APP_ID + APP_SECRET 用于上传图片；发图走 Webhook 到群，不需要 USER_ID。"""
+    return bool(FEISHU_APP_ID and FEISHU_APP_SECRET)
+
+
+def _feishu_send_image_to_webhook(image_key: str) -> bool:
+    """把已上传的图片通过 Webhook 发到群里。"""
+    try:
+        resp = requests.post(
+            FEISHU_WEBHOOK,
+            json={"msg_type": "image", "content": {"image_key": image_key}},
+            timeout=10,
+        )
+        body = resp.json()
+        return resp.status_code == 200 and body.get("code") == 0
+    except Exception as e:
+        print(f"  ⚠️  Webhook image send exception: {e}")
+        return False
 
 
 def send_feishu_notify(posts: list[dict], feishu_image_paths: list[str | None] | None = None) -> None:
-    """将每篇帖子作为独立飞书消息发出；若配置了 Bot API 则同时发对应飞书卡片图。"""
+    """将每篇帖子作为独立飞书消息发出；若配置了 Bot API 则上传图片后通过 Webhook 发到群。"""
     if not FEISHU_WEBHOOK:
         print("  ⚠️  FEISHU_WEBHOOK not set, skipping Feishu notification")
         return
@@ -722,14 +738,14 @@ def send_feishu_notify(posts: list[dict], feishu_image_paths: list[str | None] |
         except Exception as e:
             print(f"  ⚠️  帖子{i} 发送异常: {e}")
 
-        # 发飞书卡片图（需要 Bot API）
+        # 发飞书卡片图（上传 → image_key → Webhook 发到群）
         if use_api and feishu_image_paths and i - 1 < len(feishu_image_paths):
             fei_path = feishu_image_paths[i - 1]
             if fei_path and Path(fei_path).exists():
                 image_key = _feishu_upload_image(api_token, fei_path)
                 if image_key:
-                    ok = _feishu_send_image(api_token, FEISHU_USER_ID, image_key)
-                    print(f"  {'✅' if ok else '⚠️'} 帖子{i} 飞书卡片图{'已发送' if ok else '发送失败'}")
+                    ok = _feishu_send_image_to_webhook(image_key)
+                    print(f"  {'✅' if ok else '⚠️'} 帖子{i} 飞书卡片图{'已发到群' if ok else '发送失败'}")
 
 
 def phase_notify() -> None:
