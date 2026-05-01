@@ -1,221 +1,221 @@
 {
   "date": "2026-05-01",
-  "slot": "早报",
+  "slot": "晚报",
   "all_repos": [
-    {
-      "name": "warpdotdev/warp",
-      "url": "https://github.com/warpdotdev/warp",
-      "description": "Warp is an agentic development environment, born out of the terminal.",
-      "language": "Rust",
-      "stars_today": "8,262 stars today",
-      "stars_total": "49,123"
-    },
     {
       "name": "TauricResearch/TradingAgents",
       "url": "https://github.com/TauricResearch/TradingAgents",
       "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
       "language": "Python",
-      "stars_today": "2,203 stars today",
-      "stars_total": "57,671"
-    },
-    {
-      "name": "mattpocock/skills",
-      "url": "https://github.com/mattpocock/skills",
-      "description": "Skills for Real Engineers. Straight from my .claude directory.",
-      "language": "Shell",
-      "stars_today": "6,175 stars today",
-      "stars_total": "49,361"
-    },
-    {
-      "name": "obra/superpowers",
-      "url": "https://github.com/obra/superpowers",
-      "description": "An agentic skills framework & software development methodology that works.",
-      "language": "Shell",
-      "stars_today": "1,623 stars today",
-      "stars_total": "174,546"
-    },
-    {
-      "name": "lukilabs/craft-agents-oss",
-      "url": "https://github.com/lukilabs/craft-agents-oss",
-      "description": "",
-      "language": "TypeScript",
-      "stars_today": "314 stars today",
-      "stars_total": "5,556"
-    },
-    {
-      "name": "public-apis/public-apis",
-      "url": "https://github.com/public-apis/public-apis",
-      "description": "A collective list of free APIs",
-      "language": "Python",
-      "stars_today": "307 stars today",
-      "stars_total": "429,493"
-    },
-    {
-      "name": "1jehuang/jcode",
-      "url": "https://github.com/1jehuang/jcode",
-      "description": "Coding Agent Harness",
-      "language": "Rust",
-      "stars_today": "670 stars today",
-      "stars_total": "1,866"
+      "stars_today": "2,115 stars today",
+      "stars_total": "58,887"
     },
     {
       "name": "soxoj/maigret",
       "url": "https://github.com/soxoj/maigret",
       "description": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
       "language": "Python",
-      "stars_today": "723 stars today",
-      "stars_total": "20,817"
+      "stars_today": "535 stars today",
+      "stars_total": "21,166"
     },
     {
-      "name": "HunxByts/GhostTrack",
-      "url": "https://github.com/HunxByts/GhostTrack",
-      "description": "Useful tool to track location or mobile number",
-      "language": "Python",
-      "stars_today": "830 stars today",
-      "stars_total": "12,157"
+      "name": "warpdotdev/warp",
+      "url": "https://github.com/warpdotdev/warp",
+      "description": "Warp is an agentic development environment, born out of the terminal.",
+      "language": "Rust",
+      "stars_today": "3,403 stars today",
+      "stars_total": "50,820"
     },
     {
-      "name": "iamgio/quarkdown",
-      "url": "https://github.com/iamgio/quarkdown",
-      "description": "🪐 Markdown with superpowers: from ideas to papers, presentations, websites, books, and knowledge bases.",
-      "language": "Kotlin",
-      "stars_today": "350 stars today",
-      "stars_total": "13,046"
+      "name": "1jehuang/jcode",
+      "url": "https://github.com/1jehuang/jcode",
+      "description": "Coding Agent Harness",
+      "language": "Rust",
+      "stars_today": "404 stars today",
+      "stars_total": "2,143"
+    },
+    {
+      "name": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .claude directory.",
+      "language": "Shell",
+      "stars_today": "3,649 stars today",
+      "stars_total": "51,402"
+    },
+    {
+      "name": "browserbase/skills",
+      "url": "https://github.com/browserbase/skills",
+      "description": "Claude Agent SDK with a web browsing tool",
+      "language": "JavaScript",
+      "stars_today": "334 stars today",
+      "stars_total": "1,040"
+    },
+    {
+      "name": "simstudioai/sim",
+      "url": "https://github.com/simstudioai/sim",
+      "description": "Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce.",
+      "language": "TypeScript",
+      "stars_today": "38 stars today",
+      "stars_total": "28,032"
+    },
+    {
+      "name": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars_today": "1,098 stars today",
+      "stars_total": "175,208"
+    },
+    {
+      "name": "Flowseal/zapret-discord-youtube",
+      "url": "https://github.com/Flowseal/zapret-discord-youtube",
+      "description": "",
+      "language": "Batchfile",
+      "stars_today": "165 stars today",
+      "stars_total": "26,888"
     }
   ],
   "ai_repos": [
     {
-      "name": "warpdotdev/warp",
-      "url": "https://github.com/warpdotdev/warp",
-      "description": "Warp is an agentic development environment, born out of the terminal.",
-      "language": "Rust",
-      "stars_today": "8,262 stars today",
-      "stars_total": "49,123"
-    },
-    {
       "name": "TauricResearch/TradingAgents",
       "url": "https://github.com/TauricResearch/TradingAgents",
       "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
       "language": "Python",
-      "stars_today": "2,203 stars today",
-      "stars_total": "57,671"
-    },
-    {
-      "name": "mattpocock/skills",
-      "url": "https://github.com/mattpocock/skills",
-      "description": "Skills for Real Engineers. Straight from my .claude directory.",
-      "language": "Shell",
-      "stars_today": "6,175 stars today",
-      "stars_total": "49,361"
-    },
-    {
-      "name": "obra/superpowers",
-      "url": "https://github.com/obra/superpowers",
-      "description": "An agentic skills framework & software development methodology that works.",
-      "language": "Shell",
-      "stars_today": "1,623 stars today",
-      "stars_total": "174,546"
-    },
-    {
-      "name": "lukilabs/craft-agents-oss",
-      "url": "https://github.com/lukilabs/craft-agents-oss",
-      "description": "",
-      "language": "TypeScript",
-      "stars_today": "314 stars today",
-      "stars_total": "5,556"
-    },
-    {
-      "name": "1jehuang/jcode",
-      "url": "https://github.com/1jehuang/jcode",
-      "description": "Coding Agent Harness",
-      "language": "Rust",
-      "stars_today": "670 stars today",
-      "stars_total": "1,866"
+      "stars_today": "2,115 stars today",
+      "stars_total": "58,887"
     },
     {
       "name": "soxoj/maigret",
       "url": "https://github.com/soxoj/maigret",
       "description": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
       "language": "Python",
-      "stars_today": "723 stars today",
-      "stars_total": "20,817"
+      "stars_today": "535 stars today",
+      "stars_total": "21,166"
+    },
+    {
+      "name": "warpdotdev/warp",
+      "url": "https://github.com/warpdotdev/warp",
+      "description": "Warp is an agentic development environment, born out of the terminal.",
+      "language": "Rust",
+      "stars_today": "3,403 stars today",
+      "stars_total": "50,820"
+    },
+    {
+      "name": "1jehuang/jcode",
+      "url": "https://github.com/1jehuang/jcode",
+      "description": "Coding Agent Harness",
+      "language": "Rust",
+      "stars_today": "404 stars today",
+      "stars_total": "2,143"
+    },
+    {
+      "name": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .claude directory.",
+      "language": "Shell",
+      "stars_today": "3,649 stars today",
+      "stars_total": "51,402"
+    },
+    {
+      "name": "browserbase/skills",
+      "url": "https://github.com/browserbase/skills",
+      "description": "Claude Agent SDK with a web browsing tool",
+      "language": "JavaScript",
+      "stars_today": "334 stars today",
+      "stars_total": "1,040"
+    },
+    {
+      "name": "simstudioai/sim",
+      "url": "https://github.com/simstudioai/sim",
+      "description": "Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce.",
+      "language": "TypeScript",
+      "stars_today": "38 stars today",
+      "stars_total": "28,032"
+    },
+    {
+      "name": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars_today": "1,098 stars today",
+      "stars_total": "175,208"
     }
   ],
   "posts": [
     {
-      "topic": "Warp终端",
+      "topic": "Warp 终端",
       "repo": "warpdotdev/warp",
-      "cover_line1": "马斯克偷偷用它",
-      "cover_line2": "AI原生终端爆了！",
-      "body": "Warp 不是另一个 iTerm 替代品——它是第一个把 LLM 深度缝进终端血液的 agentic 开发环境。不是「你输命令→它执行」，而是「你讲需求→它思考→拆任务→写脚本→自动执行→回溯验证」。\n\n1️⃣ 🧠 内置 Warp AI（基于 Claude 3.5 + 自研编排）：直接输入「查出所有监听 3000 端口的进程并 kill」，它不只 run `lsof -i :3000 | xargs kill`，还会确认权限、提示风险、生成 backup 命令。\n\n2️⃣ 🖥️ 可视化命令图谱：每条命令自动构建执行树，失败时高亮卡点，支持一键 rollback 到上一步。\n\n3️⃣ 📦 Rust 写的底层 + WASM 插件沙箱：比 VS Code Terminal 快 3.2x（实测 macOS M3），插件零信任隔离，不怕恶意 shell 脚本。\n\n为什么今天暴涨 8.2k star？——Warp 团队昨天凌晨悄悄上线「Agent Mode Beta」，开放给前 5 万用户免邀请注册，且默认启用 Claude 3.5 Sonnet（非 API 调用，本地轻量推理+云协同）。开发者发现：它真能自己 debug Rust 编译错误，还顺手帮你改 Cargo.toml。\n\n✅ 你能立刻用它：替代 iTerm + ShellGPT + bash history search 三合一；快速排查 CI 失败日志；教实习生写安全的部署脚本。\n\n你用 Warp 写过最离谱的一条自然语言指令是什么？👇",
+      "cover_line1": "Warp 是终端里的 AI 编程环境",
+      "cover_line2": "今天涨 3403 星",
+      "body": "Warp 不是另一个 shell，它是把终端变成能自己干活的搭档。你敲命令，它自动补全、解释、改错、查文档，甚至能根据你上一句 ls 的结果，猜你想 cd 进去再 git status。背后用 Rust 写，启动快、不卡顿，所有操作本地跑，敏感命令不会发到服务器。它把 CLI 交互从「我打字它执行」变成「我说意图它推演」——比如输入「找上周改过的 Python 文件」，它会组合 git log、find 和 date 命令，一步跑完。今天单日涨了 3403 星，说明很多人试了发现：真能少敲一半命令。它不替代 VS Code，但当你切到终端写脚本、调服务、查日志时，它让那些重复动作消失了一半。安装后默认开启 AI 助手，不用配模型、不用开 API key，直接用。它没吹「取代开发者」，只做一件事：让你在终端里多喘口气。如果你每天至少打开终端三次，这个工具不是锦上添花，是省下真实时间。它还没开源核心，但 CLI 插件机制已开放，有人开始写 kubectl 调试助手和 terraform diff 解释器。你上次为修一个 curl 报错查了多久文档？",
       "tags": [
-        "Warp",
-        "终端",
-        "AI编程",
-        "Rust",
-        "Claude",
-        "开发者工具",
-        "agentic",
-        "GitHub Trending",
-        "LLM OS",
-        "程序员效率"
+        "terminal",
+        "ai",
+        "rust",
+        "cli",
+        "developer-tools",
+        "productivity",
+        "shell",
+        "agent",
+        "warp",
+        "coding"
       ]
     },
     {
-      "topic": "TradingAgents",
-      "repo": "TauricResearch/TradingAgents",
-      "cover_line1": "对冲基金慌了",
-      "cover_line2": "AI多智能体炒股框架！",
-      "body": "这不是又一个「用LLM预测股价」的玩具项目——TradingAgents 是首个开源、可实盘接入券商API、带风控仲裁层的 multi-agent 交易框架。7个角色分工明确：NewsAgent（实时抓SEC/FOMC）、SignalAgent（技术面+另类数据）、RiskAgent（动态仓位+黑天鹅熔断）、ExecutionAgent（拆单+滑点优化）… 全部用 LangGraph 编排。\n\n1️⃣ 📈 实测跑通盈透证券（IBKR）+ Alpaca：支持美股/期权/加密现货，自动处理 T+0、Reg T、Pattern Day Trader 限制。\n\n2️⃣ 🛡️ 内置「监管合规检查器」：每笔订单前强制校验是否触发 SEC Rule 15c3-5、是否违反自营持仓上限，拒绝越界操作。\n\n3️⃣ 🧪 回测引擎带「新闻冲击模拟」：注入假新闻事件（如「Fed Chair resigns」），观察 SignalAgent 是否修正策略权重——这是传统 backtester 做不到的。\n\n爆火原因？Tauric Research 昨晚泄露了内部 benchmark：在 2023 Q4 波动市中，该框架跑赢 SPY 12.7%，最大回撤仅 4.3%（对比 QuantConnect 同策略回撤 9.1%）。更关键的是——它没用任何私有数据，全靠公开财报+新闻+链上数据。\n\n你敢让 AI 操控你的股票账户吗？",
+      "topic": "Maigret 人肉",
+      "repo": "soxoj/maigret",
+      "cover_line1": "Maigret 查一个人的账号痕迹",
+      "cover_line2": "支持 3000+ 网站",
+      "body": "Maigret 不是黑客工具，是公开信息拼图器。你给它一个用户名，它就去 Twitter、GitHub、Reddit、知乎、豆瓣、Steam……所有它知道的 3000 多个网站，挨个检查有没有同名账号。它不登录、不爬隐私页，只看公开主页是否存在、头像是否加载、简介是否含邮箱或链接。结果生成一份 HTML 报告，带截图缩略图、注册年份、最后活跃时间、关联链接。安全研究员用它做 OSINT 初筛，开发者用它查合作方是否真有技术博客，HR 用它交叉核验简历里的 GitHub 用户名。它用 Python 写，一条命令就能跑：maigret john --html。今天涨了 535 星，说明更多人意识到：与其手动搜 20 个站，不如让 Maigret 扫一遍，十分钟出报告。它不抓密码、不绕过反爬，所有请求都带 User-Agent 和合理间隔，遵守 robots.txt。最新版加了 Telegram 用户名反查和 Mastodon 实例识别。你上次手动查一个人的线上痕迹，花了多少分钟？",
       "tags": [
-        "量化交易",
-        "TradingAgents",
-        "多智能体",
-        "金融AI",
-        "Python",
-        "LangGraph",
-        "对冲基金",
-        "开源量化",
-        "AI投资",
-        "LLM Agent"
+        "osint",
+        "python",
+        "security",
+        "recon",
+        "investigation",
+        "privacy",
+        "tool",
+        "username",
+        "maigret",
+        "research"
       ]
     },
     {
-      "topic": "Skills库",
+      "topic": "Claude 技能集",
       "repo": "mattpocock/skills",
-      "cover_line1": "Mattpocock甩出",
-      "cover_line2": "真实工程师技能包！",
-      "body": "Matt Pocock（TypeScript 圣经《Type-Safe React》作者，Vercel 前核心架构师）把私藏 5 年的 .claude 目录全开源了——这不是 prompt 库，是「可执行的工程技能单元」。每个 skill 是一个带类型签名、测试用例、CLI 入口的 Shell 函数：`git-pr-summary`（自动生成 PR 的技术影响分析）、`ts-deprecate-check`（扫描未标记 @deprecated 但已弃用的 API）、`env-diff`（比对 prod/staging 环境变量差异并标出危险项）。\n\n1️⃣ 🧩 每个 skill 都有 `skill.test.sh`：用 bats 测试，覆盖边界 case（比如 git repo 为空、TS 编译失败等）。\n\n2️⃣ 📦 自动 CLI 注册：source 进 shell 后，所有 skill 自动变成命令，支持 `--help` 和 tab 补全。\n\n3️⃣ 🔐 类型即文档：用 TypeScript Interface 描述 skill 输入/输出结构，VS Code 直接跳转查看契约。\n\n为啥 6 小时涨 6.1k star？——因为 Matt 在推特说：「这些技能正在被 Vercel 内部用于审核所有 PR。Claude 3.5 不再只是聊天，它在调用这些函数干活」。程序员发现：抄走 `curl-to-fetch` skill，就能把 curl 命令秒转成 type-safe fetch TS 函数。\n\n你最想封装哪个重复性工程任务成 skill？",
+      "cover_line1": "Matt Pocock 的 Claude 提示库",
+      "cover_line2": "51,402 人已 star",
+      "body": "Matt Pocock 把自己日常用 Claude 干活的真实提示词，直接打包成可复制粘贴的 Shell 脚本。不是教学文，是 .claude 目录原样搬出来：比如「把这段 TypeScript 报错转成中文，标出哪行要改」、「对比两个 Git commit 的 package.json 差异，说清哪些依赖升了降了」、「读这个 PR 描述和 diff，写三条 reviewer 可能问的问题」。每个脚本都是单文件，命名直白：ts-error-zh、diff-deps、pr-review-questions。他没包装成 App，也不卖课，就放 GitHub 上，点开就能看、能改、能跑。今天单日涨 3649 星，说明大家厌倦了抽象的 prompt engineering 教程，想要现成能抄的句子。这些提示词不是通用模板，而是他在真实项目里被 bug 卡住、被 PR 拖慢、被文档绕晕时，亲手写的求救信号。它们短、准、带上下文约束，比如强制 Claude 先输出「✅」或「❌」再解释。你不用懂 LLM 原理，只要会 copy-paste 就能用。它不承诺「提升 200% 效率」，只保证：下次遇到同类问题，少想 30 秒。你最近一次写提示词，是自己硬凑的，还是抄来的？",
       "tags": [
-        "Shell",
-        "TypeScript",
-        "工程效能",
-        "Matt Pocock",
-        "CLI工具",
-        "AI工程化",
-        "prompt工程",
-        "开发者技能",
-        "开源工具",
-        "Claude"
+        "prompt",
+        "claude",
+        "shell",
+        "typescript",
+        "engineering",
+        "devops",
+        "copilot",
+        "matt-pocock",
+        "productivity",
+        "ai"
       ]
     },
     {
-      "topic": "Superpowers",
+      "topic": "Superpowers 框架",
       "repo": "obra/superpowers",
-      "cover_line1": "GitHub今日涨1.6k星",
-      "cover_line2": "程序员悄悄在用的！",
-      "body": "Superpowers 不是框架，是「技能操作系统」：它把写代码、查文档、读日志、修 bug 这些动作，全部抽象成可组合、可审计、可版本化的 skills。和 LangChain 的 Tools、LlamaIndex 的 QueryEngine 本质不同——它强制要求每个 skill 必须声明「副作用等级」（pure / read-only / write / destructive），运行前弹窗确认。\n\n1️⃣ 🧰 内置 37 个生产级 skill：`git-squash-history`（交互式变基+冲突预检）、`docker-prune-safe`（只删 7 天前无 tag 镜像）、`log-grep-context`（grep 同时显示前后 5 行 + 关键词染色）。\n\n2️⃣ 📜 所有执行留痕：生成 Markdown 执行报告，含时间戳、输入参数、exit code、stdout 截图（自动折叠长日志），可直接贴进 Slack。\n\n3️⃣ 🔄 Skill 版本锁定：用 `superpowers install <skill>@v2.1.0` 锁定行为，避免「突然更新后 rm -rf /」。\n\n爆火真相？Obra 团队（前 GitHub 工程师）在 Hacker News 发帖承认：「我们用 Superpowers 替换了公司 70% 的 oncall runbook，MTTR 下降 41%」。更狠的是——它支持把任意 skill 导出为 GitHub Action，让 CI 也拥有「人类工程师的判断力」。\n\n你希望哪个日常运维操作，立刻变成一个 superpower？",
+      "cover_line1": "Superpowers 是 AI 技能组装法",
+      "cover_line2": "175,208 人已 star",
+      "body": "Superpowers 不是一个新模型，是一套怎么让 AI 干活的说明书。它把「写代码」「查网页」「发邮件」「调 API」这些动作，拆成一个个叫 skill 的小文件，每个文件只有三部分：一句话说明它能干啥、一段 Bash 或 Python 代码实现它、一个 JSON 描述输入输出格式。比如 send-email.skill 会要求你填 to、subject、body，然后调系统 mail 命令；browse-web.skill 用 Puppeteer 启动浏览器，返回页面文本。它不绑死某个 LLM，你换 Claude、GPT 还是本地 Ollama，只要提示词里写清楚「用 send-email.skill 发邮件给张三」，AI 就知道该调哪个文件。今天涨 1098 星，说明越来越多开发者意识到：AI 不是万能胶水，得先有清晰接口。它已在实际项目中跑通——有人用它自动回复 GitHub issue，有人接进 Jenkins 做部署后通知。它没炫技，就做两件事：让技能可复用、让调用可预测。你现在的 AI 工具链里，有没有一个技能，是你写了又删、删了又写，却始终没抽成独立文件的？",
       "tags": [
-        "Superpowers",
-        "Shell",
-        "DevOps",
-        "SRE",
-        "GitHub Actions",
-        "技能工程",
-        "运维自动化",
-        "开源工具",
-        "工程师文化",
-        "Agentic OS"
+        "skills",
+        "agent",
+        "shell",
+        "automation",
+        "ai-engineering",
+        "workflow",
+        "obra",
+        "tooling",
+        "cli",
+        "productivity"
       ]
     }
   ],
