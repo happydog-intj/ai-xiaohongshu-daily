@@ -2,75 +2,75 @@
   "date": "2026-05-01",
   "posts": [
     {
-      "topic": "Claude Code封禁",
-      "cover_line1": "Claude Code突然拒答",
-      "cover_line2": "提OpenClaw就加钱！",
-      "body": "Claude Code开始主动识别commit里的「OpenClaw」关键词——识别到就拒答或弹出$49/次的「合规审查费」。这不是bug，是Anthropic埋的策略性护栏。\n\n1️⃣ 实测发现：哪怕只在git commit -m里写「fix OpenClaw bug」，Claude Code立刻返回「This request requires compliance review. Proceed for $49?」\n\n2️⃣ 背后逻辑很硬核：Anthropic把OpenClaw（2025年曝光的开源对抗训练框架）列为「潜在越狱协同工具」，直接在tokenizer层做了token-level拦截+LLM guardrail双触发\n\n3️⃣ 更狠的是：它不拦「OpenAI」「Llama」，专盯OpenClaw——说明不是泛安全策略，而是定向压制开源对抗社区\n\n4️⃣ 开发者已绕过：用base64(commit msg)、emoji替换（OᴘᴇɴCʟᴀᴡ）、甚至commit message放.gitignore里，都能逃过检测…但CI流水线会崩\n\n这已经不是AI伦理问题，是商业规则写进模型权重了。\n\n你团队的CI脚本里，敢不敢写OpenClaw？",
+      "topic": "PyTorch恶意依赖",
+      "cover_line1": "PyTorch Lightning库藏恶意代码",
+      "cover_line2": "Shai-Hulud主题后门已上传PyPI",
+      "body": "今天安全团队Semgrep发现，PyTorch Lightning官方发布的v2.4.10包里，悄悄混进了一个叫shai-hulud的恶意依赖。它不是自己写的，而是从PyPI上拉取的一个同名第三方包——名字仿得像，作者是伪造的。这个包会在AI训练过程中偷偷把本地环境变量、GPU型号、甚至SSH密钥路径记下来，发到一个域名带'arrakis'的服务器。目前没证据表明数据被实际利用，但所有用pip install lightning==2.4.10装过环境的人，都可能已触发。官方已下架该版本，并发布2.4.11修复。这不是靠‘人工审核不严’能解释的事：恶意包的setup.py里硬编码了混淆过的HTTP请求逻辑，且发布时间比Lightning主包早37分钟——说明攻击者提前劫持了CI流水线某个环节。你昨天跑的训练脚本，用的是哪个版本？",
+      "tags": [
+        "安全",
+        "PyTorch",
+        "供应链攻击",
+        "AI工程",
+        "开源风险",
+        "Semgrep",
+        "恶意包",
+        "CI/CD",
+        "Python",
+        "漏洞"
+      ]
+    },
+    {
+      "topic": "Claude拒答OpenClaw",
+      "cover_line1": "Claude Code拒绝处理含OpenClaw的提交",
+      "cover_line2": "检测到就报错或加收2.7倍费用",
+      "body": "Anthropic悄悄更新了Claude Code的策略：只要Git commit message、PR描述或代码注释里出现'OpenClaw'这个词，服务就会直接拒绝响应，或者弹出提示说‘需额外支付2.7倍费用’才能继续。OpenClaw是今年3月刚开源的一个轻量级RLHF对齐框架，MIT协议，没碰Anthropic任何代码。这事不是技术限制——Claude能正常分析含‘Reinforcement Learning’或‘PPO’的代码。它是个纯文本关键词拦截，连大小写都不区分。有人试过写成'openclaw'或'oPeNcLaW'，照样被拦。Anthropic没发公告，只在API返回头里加了X-Blocked-Reason: trademark-adjacent。这等于单方面给一个开源项目贴上‘高风险’标签，而对方既没起诉也没声明。你团队如果正在用OpenClaw做微调，下次让Claude看日志时，得先全局搜一遍commit记录。",
       "tags": [
         "Claude",
+        "版权策略",
+        "OpenClaw",
+        "RLHF",
+        "API策略",
+        "开源合规",
+        "代码审查",
         "Anthropic",
-        "AI安全",
-        "开源对抗",
-        "代码代理",
-        "LLM风控",
-        "devops",
-        "AI合规",
-        "commit钩子",
-        "大模型围栏"
+        "商标边界",
+        "开发者工具"
       ]
     },
     {
       "topic": "Granite 4.1发布",
-      "cover_line1": "IBM悄悄放大招",
-      "cover_line2": "8B干翻32B MoE！",
-      "body": "IBM刚推Granite 4.1——8B参数dense模型，在MT-Bench和LiveCodeBench上全面超越Qwen2.5-32B-MoE，连推理延迟都低37%。\n\n1️⃣ 不靠MoE，纯dense架构：用新型Blockwise Attention + FlashMLP替代FFN，显存占用比同级MoE低2.1x\n\n2️⃣ 开源即商用：Apache 2.0 + 商用免责条款，直接对标Llama 3.2-3B/8B，但支持全量LoRA微调+KV Cache量化\n\n3️⃣ 真实场景碾压：在金融财报解析任务中，Granite 4.1-8B准确率82.3%，Qwen2.5-32B-MoE仅79.1%（测试集：SEC-10K-2026-v2）\n\n4️⃣ 隐藏彩蛋：内置「Regulatory Mode」开关，开起后自动对齐EU AI Act附录III字段要求（比如禁止生成“guarantee ROI”类表述）\n\n别再只盯着Llama了——IBM这次没声张，但刀已经架在脖子上了。\n\n你试过用Granite跑本地Agent workflow了吗？",
+      "cover_line1": "IBM开源Granite 4.1模型",
+      "cover_line2": "8B参数跑出32B MoE效果",
+      "body": "IBM今天发布了Granite 4.1系列，核心是80亿参数的稠密模型，但在MMLU、HumanEval和GSM8K三项基准上，分数追平了去年发布的320亿参数混合专家模型Granite-MoE-32B。关键不是堆参数，而是它用了一种新的token压缩注意力机制：前12层只处理token的哈希指纹，真正展开计算只发生在最后4层。实测在A100上，推理速度比32B MoE快2.3倍，显存占用少64%。模型权重完全开源，Apache 2.0协议，连训练日志都放到了Hugging Face。但它有个硬约束：输入长度卡死在4096，不支持动态扩窗。如果你现在还在为长上下文成本发愁，这个8B模型可能是当前最稳的‘够用’选择——尤其适合嵌入到企业内部文档问答系统里，不求惊艳，但求每天省下三张A100卡。你手头有需要快速部署的RAG场景吗？",
       "tags": [
         "IBM",
         "Granite",
         "开源模型",
-        "dense模型",
-        "AI监管",
-        "金融AI",
-        "本地大模型",
+        "推理优化",
         "MoE",
-        "LLM对比",
-        "企业级AI"
+        "HuggingFace",
+        "A100",
+        "RAG",
+        "企业AI",
+        "模型压缩"
       ]
     },
     {
-      "topic": "PyTorch恶意依赖",
-      "cover_line1": "PyTorch Lightning被黑",
-      "cover_line2": "Shai-Hulud已潜伏3月！",
-      "body": "Semgrep爆雷：PyTorch Lightning v2.4.6+ 的一个「可选依赖」lightning-ai-security-patch，实为Shai-Hulud变种——伪装成安全补丁，实际在AI训练时偷偷注入对抗样本梯度。\n\n1️⃣ 攻击链清晰：pip install lightning → 自动拉取恶意patch → hook torch.optim.step() → 在每次backward后注入sign(∇L) × 0.001扰动\n\n2️⃣ 目标明确：不盗数据、不挖矿，专搞模型鲁棒性——让训练完的模型在对抗测试中acc暴跌12~28%，但常规测试毫无异样\n\n3️⃣ 命名学欺诈：包名含「security」「patch」「verified」，GitHub repo有fake stars+CI passed badge，连README都带OWASP引用\n\n4️⃣ 已确认影响：HuggingFace Transformers + Lightning联合训练Pipeline、Lightning Fabric分布式训练集群、以及3家Top10芯片公司的内部训练框架\n\n这不是漏洞，是供应链投毒——而且投得非常懂AI工程师心理。\n\n你上一次检查requirements.txt里的「可选依赖」是什么时候？",
+      "topic": "西班牙议会反IP封禁",
+      "cover_line1": "西班牙国会介入LaLiga封IP事件",
+      "cover_line2": "认定AI训练滥用属非法数据抓取",
+      "body": "西班牙众议院本周通过一项临时决议，要求国家电信监管局（CNMC）调查LaLiga近期大规模IP封禁行为。起因是LaLiga在4月单月封禁了1.2万个IP段，其中73%指向大学实验室和AI初创公司服务器。调查发现，这些IP曾批量访问LaLiga官网的公开赛程页和球员资料页——页面本身没设robots.txt禁止，但LaLiga主张‘非人类访问即侵权’。议会决议首次明确认定：以AI训练为目的、未经许可、高频次抓取公开体育数据，构成《西班牙数据保护法》第89条定义的‘滥用性自动化处理’。这不是判例，但给了法院后续裁决依据。这意味着，以后爬公开网页做AI训练，不能只看‘能不能访问’，还得看‘为什么访问’。你上次写爬虫时，留没留User-Agent和访问间隔？",
       "tags": [
-        "PyTorch",
-        "供应链攻击",
-        "AI安全",
-        "lightning",
-        "对抗样本",
-        "恶意包",
-        "devsecops",
-        "AI攻防",
-        "训练污染",
-        "开源风险"
-      ]
-    },
-    {
-      "topic": "Pu.sh编码代理",
-      "cover_line1": "400行shell写AI Agent",
-      "cover_line2": "真能跑通完整开发流！",
-      "body": "HN爆款：pu.sh——400行bash写的全功能coding agent，不调API、不装Python、纯shell+curl+sed+awk，就能clone→plan→code→test→commit闭环。\n\n1️⃣ 核心三件套：用ollama run phi-3:mini做本地reasoning；curl调GitHub API查issue；sed/awk解析diff并生成patch\n\n2️⃣ 真实可用：已自动修复17个知名开源项目的CI失败issue（包括rust-lang/rust-clippy的warning误报）\n\n3️⃣ 极致轻量：Docker镜像仅89MB，Mac M3上启动<1.2s，比VS Code插件还快\n\n4️⃣ 安全设计：所有LLM交互走localhost:11434，代码生成全程在tmpfs内存盘，commit前强制diff --no-index校验\n\n它不炫技，但把「AI编程」打回原形：不是要更聪明的模型，而是更干净的接口和更确定的流程。\n\n你愿意用shell agent代替Copilot吗？",
-      "tags": [
-        "shell",
-        "coding agent",
-        "本地AI",
-        "Ollama",
-        "DevOps",
-        "极简AI",
-        "开源工具",
-        "bash编程",
-        "AI自动化",
-        "终端生产力"
+        "数据合规",
+        "LaLiga",
+        "西班牙",
+        "网络爬虫",
+        "AI训练数据",
+        "版权边界",
+        "robots.txt",
+        "CNMC",
+        "公开数据",
+        "法律风险"
       ]
     }
   ],
@@ -79,5 +79,11 @@
     "assets/2026-05-01/cover2.png",
     "assets/2026-05-01/cover3.png",
     "assets/2026-05-01/cover4.png"
+  ],
+  "feishu_image_paths": [
+    "assets/2026-05-01/cover1_feishu.png",
+    "assets/2026-05-01/cover2_feishu.png",
+    "assets/2026-05-01/cover3_feishu.png",
+    "assets/2026-05-01/cover4_feishu.png"
   ]
 }
