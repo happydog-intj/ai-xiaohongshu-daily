@@ -569,15 +569,29 @@ def generate_summary_card(
 # 飞书风格卡片
 # ══════════════════════════════════════════════════════════════════════════════
 
+# ── 飞书风格卡片模板 ──────────────────────────────────────────────────────────
+# 设计规范来自 feishu-style-card-image skill
+# https://github.com/happydog-intj/feishu-style-card-image
 _FEISHU_CARD_TEMPLATE = """\
 <!DOCTYPE html>
 <html lang="zh-CN">
 <head>
 <meta charset="UTF-8">
 <style>
+  :root {{
+    --blue-primary: #1456F0;
+    --blue-light:   #f0f5ff;
+    --blue-border:  #d0e1fd;
+    --bg-card:      #ffffff;
+    --bg-section:   #f7f8fc;
+    --bg-page:      #f0f2f5;
+    --text-primary:   #222;
+    --text-secondary: #333;
+    --text-muted:     #888;
+  }}
   * {{ margin: 0; padding: 0; box-sizing: border-box; }}
   html, body {{
-    background: #eef0f4;
+    background: var(--bg-page);
     display: flex;
     justify-content: center;
     align-items: flex-start;
@@ -585,140 +599,207 @@ _FEISHU_CARD_TEMPLATE = """\
     font-family: -apple-system, "PingFang SC", "Helvetica Neue", Arial, sans-serif;
     min-height: 100%;
   }}
+
+  /* ── 卡片容器 ── */
   .card {{
-    background: #ffffff;
-    border-radius: 14px;
-    width: 700px;
-    box-shadow: 0 2px 16px rgba(0,0,0,0.10);
+    background: var(--bg-card);
+    border-radius: 12px;
+    width: 600px;
+    box-shadow: 0 2px 12px rgba(0,0,0,0.10);
     overflow: hidden;
   }}
 
-  /* ── Header ── */
+  /* ── 蓝色渐变 Header ── */
   .card-header {{
-    background: linear-gradient(135deg, #1456F0 0%, #2294FF 100%);
-    padding: 28px 30px 26px;
+    background: linear-gradient(135deg, #1456F0 0%, #1890FF 100%);
+    padding: 22px 24px 20px;
     display: flex;
-    align-items: flex-start;
-    gap: 18px;
+    align-items: center;
+    gap: 14px;
   }}
   .header-icon {{
-    font-size: 44px;
+    font-size: 38px;
     line-height: 1;
     flex-shrink: 0;
-    margin-top: 2px;
   }}
   .header-text {{ flex: 1; min-width: 0; }}
+  .header-eyebrow {{
+    font-size: 11px;
+    font-weight: 600;
+    color: rgba(255,255,255,0.75);
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    margin-bottom: 5px;
+  }}
   .header-title {{
-    font-size: 26px;
+    font-size: 22px;
     font-weight: 700;
     color: #ffffff;
     line-height: 1.3;
     letter-spacing: -0.01em;
-    margin-bottom: 7px;
-    word-break: break-all;
+    margin-bottom: 5px;
   }}
   .header-subtitle {{
-    font-size: 17px;
-    color: rgba(255,255,255,0.85);
-    line-height: 1.4;
-    word-break: break-all;
+    font-size: 14px;
+    color: rgba(255,255,255,0.82);
+    line-height: 1.45;
   }}
 
-  /* ── Source row ── */
+  /* ── Repo/来源行 ── */
   .source-row {{
     display: flex;
     align-items: center;
     gap: 8px;
-    padding: 14px 30px;
-    background: #f7f9ff;
+    padding: 11px 24px;
+    background: var(--bg-section);
     border-bottom: 1px solid #e8edf5;
   }}
   .source-dot {{
-    width: 8px; height: 8px;
-    background: #1456F0;
+    width: 7px; height: 7px;
+    background: var(--blue-primary);
     border-radius: 50%;
     flex-shrink: 0;
   }}
   .source-label {{
-    font-size: 14px;
-    color: #1456F0;
+    font-size: 13px;
+    color: var(--blue-primary);
     font-weight: 600;
     letter-spacing: 0.02em;
   }}
   .source-date {{
-    font-size: 14px;
-    color: #8a94a8;
+    font-size: 12.5px;
+    color: var(--text-muted);
     margin-left: auto;
   }}
 
   /* ── Body ── */
-  .card-body {{ padding: 24px 30px 20px; }}
+  .card-body {{ padding: 20px 24px 16px; }}
 
-  /* ── Desc block ── */
-  .desc-block {{
-    background: #f7f8fc;
-    border-left: 3px solid #1456F0;
-    border-radius: 0 10px 10px 0;
-    padding: 16px 18px;
-    font-size: 18px;
-    color: #333;
-    line-height: 1.8;
-    margin-bottom: 20px;
+  /* ── Section 标题（带分割线） ── */
+  .section-title {{
+    font-size: 11px;
+    font-weight: 700;
+    color: var(--blue-primary);
+    letter-spacing: 0.5px;
+    text-transform: uppercase;
+    margin-bottom: 10px;
+    display: flex;
+    align-items: center;
+    gap: 6px;
+  }}
+  .section-title::after {{
+    content: '';
+    flex: 1;
+    height: 1px;
+    background: #e8edf5;
   }}
 
-  /* ── Tags ── */
-  .tags-row {{
+  /* ── 描述块（蓝色左边框） ── */
+  .desc-block {{
+    background: var(--bg-section);
+    border-left: 3px solid var(--blue-primary);
+    border-radius: 0 8px 8px 0;
+    padding: 12px 14px;
+    font-size: 13.5px;
+    color: var(--text-secondary);
+    line-height: 1.75;
+    margin-bottom: 16px;
+  }}
+
+  /* ── Stats 徽章行 ── */
+  .stats-row {{
     display: flex;
     flex-wrap: wrap;
     gap: 8px;
+    margin-bottom: 16px;
+  }}
+  .stat-badge {{
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    background: var(--blue-light);
+    border: 1px solid var(--blue-border);
+    border-radius: 20px;
+    padding: 4px 12px;
+    font-size: 12px;
+    color: #2b4ea8;
+    font-weight: 500;
+  }}
+  .stat-badge.green  {{ background: #f0faf4; border-color: #b7e5c8; color: #1a7a40; }}
+  .stat-badge.orange {{ background: #fff8f0; border-color: #ffd6a0; color: #b05f00; }}
+
+  /* ── 标签行 ── */
+  .tags-row {{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 7px;
     margin-top: 4px;
   }}
   .tag {{
-    background: #f0f5ff;
-    border: 1px solid #d0e1fd;
+    background: var(--blue-light);
+    border: 1px solid var(--blue-border);
     border-radius: 20px;
-    padding: 5px 14px;
-    font-size: 14px;
+    padding: 3px 11px;
+    font-size: 12px;
     color: #2b4ea8;
     font-weight: 500;
   }}
 
   /* ── Footer ── */
   .card-footer {{
-    background: #f7f8fc;
+    background: var(--bg-section);
     border-top: 1px solid #eaecf3;
-    padding: 14px 30px;
+    padding: 12px 24px;
     display: flex;
     align-items: center;
-    justify-content: flex-end;
+    justify-content: space-between;
   }}
   .footer-source {{
-    font-size: 14px;
-    color: #b0b8c8;
+    font-size: 12px;
+    color: var(--text-muted);
     letter-spacing: 0.02em;
+  }}
+  .footer-badge {{
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    font-size: 11.5px;
+    color: var(--blue-primary);
+    font-weight: 600;
   }}
 </style>
 </head>
 <body>
 <div class="card">
+  <!-- Header -->
   <div class="card-header">
     <div class="header-icon">{icon}</div>
     <div class="header-text">
+      <div class="header-eyebrow">{eyebrow}</div>
       <div class="header-title">{title}</div>
       {subtitle_html}
     </div>
   </div>
+
+  <!-- 来源行 -->
   <div class="source-row">
     <div class="source-dot"></div>
-    <span class="source-label">{eyebrow}</span>
+    <span class="source-label">AI 日报</span>
     <span class="source-date">{date_str}</span>
   </div>
+
+  <!-- Body -->
   <div class="card-body">
+    <div class="section-title">📝 内容摘要</div>
     <div class="desc-block">{body_excerpt}</div>
+    {stats_html}
     {tags_html}
   </div>
+
+  <!-- Footer -->
   <div class="card-footer">
     <span class="footer-source">{source}</span>
+    <span class="footer-badge">🤖 AI 日报</span>
   </div>
 </div>
 </body>
@@ -760,13 +841,13 @@ def make_feishu_card_html(
     source: str = "AI日报",
     date_str: str = "",
 ) -> str:
-    """生成飞书风格卡片 HTML（600px 宽，蓝色渐变 Header）。"""
+    """生成飞书风格卡片 HTML（600px 宽，符合 feishu-style-card-image skill 规范）。"""
     import datetime, re as _re
     if not date_str:
         date_str = datetime.datetime.now().strftime("%Y.%m.%d")
 
-    title   = _escape(post.get("cover_line1", post.get("topic", "")))
-    line2   = post.get("cover_line2", "")
+    title = _escape(post.get("cover_line1", post.get("topic", "")))
+    line2 = post.get("cover_line2", "")
     subtitle_html = (
         f'<div class="header-subtitle">{_escape(line2)}</div>' if line2 else ""
     )
@@ -775,6 +856,22 @@ def make_feishu_card_html(
     body_raw = post.get("body", "")
     body_clean = _re.sub(r"[*_`#>\[\]]+", "", body_raw)
     excerpt = _body_excerpt(body_clean)
+
+    # Stats 徽章（来源、话题类型）
+    topic = post.get("topic", "")
+    stats_badges = []
+    if topic:
+        stats_badges.append(f'<span class="stat-badge">💡 {_escape(topic[:20])}</span>')
+    # 字数/长度指示
+    word_count = len(body_raw)
+    if word_count > 0:
+        stats_badges.append(
+            f'<span class="stat-badge green">📝 {word_count} 字</span>'
+        )
+    stats_html = ""
+    if stats_badges:
+        inner = "".join(stats_badges)
+        stats_html = f'<div class="stats-row">{inner}</div>'
 
     # Tags
     tags = post.get("tags", [])[:8]
@@ -794,6 +891,7 @@ def make_feishu_card_html(
         eyebrow=_escape(eyebrow),
         date_str=_escape(date_str),
         body_excerpt=excerpt,
+        stats_html=stats_html,
         tags_html=tags_html,
         source=_escape(source),
     )
@@ -806,8 +904,8 @@ def generate_feishu_card(
     source: str = "AI日报",
     date_str: str = "",
 ) -> bool:
-    """生成飞书风格卡片 PNG（764px 宽），返回是否成功。"""
+    """生成飞书风格卡片 PNG（600px 卡片，符合 feishu-style-card-image skill），返回是否成功。"""
     html_content = make_feishu_card_html(
         post, eyebrow=eyebrow, source=source, date_str=date_str
     )
-    return capture_card(html_content, out_path, width=764)
+    return capture_card(html_content, out_path, width=664)  # 600px 卡片 + 32px 两侧 padding
