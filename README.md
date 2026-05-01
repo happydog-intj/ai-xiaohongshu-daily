@@ -115,6 +115,22 @@ ai-xiaohongshu-daily/
 
 ---
 
+## 🏛️ 系统架构
+
+> 三大自动化日报流水线 · GitHub Actions + LLM + Playwright + 飞书推送
+
+![architecture](architecture.png)
+
+| 区域 | 说明 |
+|------|------|
+| **Data Sources（左）** | HackerNews API、GitHub Trending 爬取、a16z RSS |
+| **GitHub Actions Workflows（中）** | 三条独立泳道，按时触发、并行无依赖 |
+| **Shared Infra（右）** | LLM API、Playwright 渲染、GitHub Repo 托管、飞书推送、GitHub Issues 归档 |
+
+> 完整交互式架构图见 [`architecture.html`](architecture.html)，本地浏览器打开可缩放查看。
+
+---
+
 ## 🔄 工作流程
 
 ### 📱 AI 日报（daily.yml）

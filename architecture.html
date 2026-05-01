@@ -1,0 +1,465 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>ai-xiaohongshu-daily Architecture</title>
+  <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body {
+      font-family: 'JetBrains Mono', monospace;
+      background: #020617;
+      min-height: 100vh;
+      padding: 2rem;
+      color: white;
+    }
+    .container { max-width: 1300px; margin: 0 auto; }
+    .header { margin-bottom: 2rem; }
+    .header-row { display: flex; align-items: center; gap: 1rem; margin-bottom: 0.5rem; }
+    .pulse-dot {
+      width: 12px; height: 12px;
+      background: #22d3ee; border-radius: 50%;
+      animation: pulse 2s infinite;
+    }
+    @keyframes pulse { 0%,100%{opacity:1} 50%{opacity:0.4} }
+    h1 { font-size: 1.5rem; font-weight: 700; letter-spacing: -0.025em; }
+    .subtitle { color: #94a3b8; font-size: 0.875rem; margin-left: 1.75rem; }
+    .diagram-container {
+      background: rgba(15,23,42,0.5);
+      border-radius: 1rem;
+      border: 1px solid #1e293b;
+      padding: 1.5rem;
+      overflow-x: auto;
+    }
+    svg { width: 100%; min-width: 1100px; display: block; }
+    .cards {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+      gap: 1rem;
+      margin-top: 2rem;
+    }
+    .card {
+      background: rgba(15,23,42,0.5);
+      border-radius: 0.75rem;
+      border: 1px solid #1e293b;
+      padding: 1.25rem;
+    }
+    .card-header { display: flex; align-items: center; gap: 0.5rem; margin-bottom: 0.75rem; }
+    .card-dot { width: 8px; height: 8px; border-radius: 50%; }
+    .card-dot.cyan   { background: #22d3ee; }
+    .card-dot.emerald{ background: #34d399; }
+    .card-dot.violet { background: #a78bfa; }
+    .card-dot.amber  { background: #fbbf24; }
+    .card-dot.orange { background: #fb923c; }
+    .card-dot.rose   { background: #fb7185; }
+    .card h3 { font-size: 0.875rem; font-weight: 600; }
+    .card ul { list-style: none; color: #94a3b8; font-size: 0.75rem; }
+    .card li { margin-bottom: 0.375rem; }
+    .footer { text-align: center; margin-top: 1.5rem; color: #475569; font-size: 0.75rem; }
+  </style>
+</head>
+<body>
+<div class="container">
+
+  <!-- Header -->
+  <div class="header">
+    <div class="header-row">
+      <div class="pulse-dot"></div>
+      <h1>ai-xiaohongshu-daily — Architecture</h1>
+    </div>
+    <p class="subtitle">三大自动化日报流水线 · GitHub Actions + LLM + Playwright + 飞书推送</p>
+  </div>
+
+  <!-- Diagram -->
+  <div class="diagram-container">
+    <svg viewBox="0 0 1200 820">
+      <defs>
+        <!-- Standard arrowhead -->
+        <marker id="arr" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+          <polygon points="0 0,10 3.5,0 7" fill="#64748b"/>
+        </marker>
+        <!-- Cyan arrowhead -->
+        <marker id="arr-cyan" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+          <polygon points="0 0,10 3.5,0 7" fill="#22d3ee"/>
+        </marker>
+        <!-- Emerald arrowhead -->
+        <marker id="arr-em" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+          <polygon points="0 0,10 3.5,0 7" fill="#34d399"/>
+        </marker>
+        <!-- Amber arrowhead -->
+        <marker id="arr-amb" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+          <polygon points="0 0,10 3.5,0 7" fill="#fbbf24"/>
+        </marker>
+        <!-- Orange arrowhead -->
+        <marker id="arr-org" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+          <polygon points="0 0,10 3.5,0 7" fill="#fb923c"/>
+        </marker>
+        <!-- Violet arrowhead -->
+        <marker id="arr-vi" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+          <polygon points="0 0,10 3.5,0 7" fill="#a78bfa"/>
+        </marker>
+        <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+          <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#1e293b" stroke-width="0.5"/>
+        </pattern>
+      </defs>
+
+      <!-- Background -->
+      <rect width="100%" height="100%" fill="url(#grid)"/>
+
+      <!-- ═══════════════════════════════════════════════
+           TOP: DATA SOURCES (left column)
+           ═══════════════════════════════════════════════ -->
+
+      <!-- Section label -->
+      <text x="30" y="28" fill="#64748b" font-size="9" font-weight="600" letter-spacing="1.5">DATA SOURCES</text>
+
+      <!-- HackerNews -->
+      <rect x="30" y="38" width="120" height="52" rx="6" fill="#0f172a" stroke="#94a3b8" stroke-width="1.5"/>
+      <rect x="30" y="38" width="120" height="52" rx="6" fill="rgba(30,41,59,0.5)" stroke="#94a3b8" stroke-width="1.5"/>
+      <text x="90" y="60" fill="white" font-size="11" font-weight="600" text-anchor="middle">HackerNews</text>
+      <text x="90" y="76" fill="#94a3b8" font-size="8" text-anchor="middle">Firebase API · Top Stories</text>
+
+      <!-- GitHub Trending -->
+      <rect x="30" y="108" width="120" height="52" rx="6" fill="#0f172a" stroke="#94a3b8" stroke-width="1.5"/>
+      <rect x="30" y="108" width="120" height="52" rx="6" fill="rgba(30,41,59,0.5)" stroke="#94a3b8" stroke-width="1.5"/>
+      <text x="90" y="130" fill="white" font-size="11" font-weight="600" text-anchor="middle">GitHub Trending</text>
+      <text x="90" y="146" fill="#94a3b8" font-size="8" text-anchor="middle">HTML scrape · AI filter</text>
+
+      <!-- a16z -->
+      <rect x="30" y="178" width="120" height="52" rx="6" fill="#0f172a" stroke="#94a3b8" stroke-width="1.5"/>
+      <rect x="30" y="178" width="120" height="52" rx="6" fill="rgba(30,41,59,0.5)" stroke="#94a3b8" stroke-width="1.5"/>
+      <text x="90" y="200" fill="white" font-size="11" font-weight="600" text-anchor="middle">a16z Blog</text>
+      <text x="90" y="216" fill="#94a3b8" font-size="8" text-anchor="middle">RSS Feed · HTML fallback</text>
+
+
+      <!-- ═══════════════════════════════════════════════
+           THREE PIPELINE LANES (GitHub Actions boundary)
+           ═══════════════════════════════════════════════ -->
+
+      <rect x="200" y="18" width="760" height="770" rx="12"
+            fill="rgba(251,191,36,0.03)" stroke="#fbbf24" stroke-width="1" stroke-dasharray="8,4"/>
+      <text x="214" y="34" fill="#fbbf24" font-size="9" font-weight="600">GitHub Actions Workflows</text>
+
+      <!-- ────────────── LANE 1: AI 日报 (top) ────────────── -->
+      <rect x="214" y="44" width="732" height="215" rx="8"
+            fill="rgba(6,78,59,0.06)" stroke="#34d399" stroke-width="0.8" stroke-dasharray="4,3"/>
+      <text x="226" y="60" fill="#34d399" font-size="8" font-weight="600">📱 daily.yml · 每天 08:00 CST → AI 日报</text>
+
+      <!-- generate_post.py -->
+      <rect x="230" y="69" width="130" height="60" rx="6" fill="#0f172a" stroke="#34d399" stroke-width="1.5"/>
+      <rect x="230" y="69" width="130" height="60" rx="6" fill="rgba(6,78,59,0.4)" stroke="#34d399" stroke-width="1.5"/>
+      <text x="295" y="89" fill="white" font-size="10" font-weight="600" text-anchor="middle">generate_post.py</text>
+      <text x="295" y="104" fill="#94a3b8" font-size="8" text-anchor="middle">fetch HN + GitHub</text>
+      <text x="295" y="117" fill="#94a3b8" font-size="8" text-anchor="middle">LLM → 4 posts + prompts</text>
+
+      <!-- Wanx Image Gen -->
+      <rect x="400" y="69" width="120" height="60" rx="6" fill="#0f172a" stroke="#fbbf24" stroke-width="1.5"/>
+      <rect x="400" y="69" width="120" height="60" rx="6" fill="rgba(120,53,15,0.3)" stroke="#fbbf24" stroke-width="1.5"/>
+      <text x="460" y="89" fill="white" font-size="10" font-weight="600" text-anchor="middle">DashScope Wanx</text>
+      <text x="460" y="104" fill="#94a3b8" font-size="8" text-anchor="middle">wanx2.1-t2i-turbo</text>
+      <text x="460" y="117" fill="#fbbf24" font-size="7" text-anchor="middle">cover1~4.png · ¥0.08/张</text>
+
+      <!-- card_generator (daily) -->
+      <rect x="570" y="69" width="120" height="60" rx="6" fill="#0f172a" stroke="#34d399" stroke-width="1.5"/>
+      <rect x="570" y="69" width="120" height="60" rx="6" fill="rgba(6,78,59,0.4)" stroke="#34d399" stroke-width="1.5"/>
+      <text x="630" y="89" fill="white" font-size="10" font-weight="600" text-anchor="middle">card_generator.py</text>
+      <text x="630" y="104" fill="#94a3b8" font-size="8" text-anchor="middle">generate_feishu_card()</text>
+      <text x="630" y="117" fill="#94a3b8" font-size="8" text-anchor="middle">Playwright → PNG</text>
+
+      <!-- GitHub Issue -->
+      <rect x="740" y="69" width="120" height="60" rx="6" fill="#0f172a" stroke="#fbbf24" stroke-width="1.5"/>
+      <rect x="740" y="69" width="120" height="60" rx="6" fill="rgba(120,53,15,0.3)" stroke="#fbbf24" stroke-width="1.5"/>
+      <text x="800" y="89" fill="white" font-size="10" font-weight="600" text-anchor="middle">GitHub Issue</text>
+      <text x="800" y="104" fill="#94a3b8" font-size="8" text-anchor="middle">create via API</text>
+      <text x="800" y="117" fill="#fbbf24" font-size="7" text-anchor="middle">raw.githubusercontent URLs</text>
+
+      <!-- git commit (daily) -->
+      <rect x="400" y="155" width="120" height="48" rx="6" fill="#0f172a" stroke="#fbbf24" stroke-width="1.5"/>
+      <rect x="400" y="155" width="120" height="48" rx="6" fill="rgba(120,53,15,0.3)" stroke="#fbbf24" stroke-width="1.5"/>
+      <text x="460" y="174" fill="white" font-size="10" font-weight="600" text-anchor="middle">git commit</text>
+      <text x="460" y="189" fill="#94a3b8" font-size="8" text-anchor="middle">assets/ + posts_data.json</text>
+
+      <!-- Feishu notify (daily) -->
+      <rect x="740" y="155" width="120" height="48" rx="6" fill="#0f172a" stroke="#22d3ee" stroke-width="1.5"/>
+      <rect x="740" y="155" width="120" height="48" rx="6" fill="rgba(8,51,68,0.4)" stroke="#22d3ee" stroke-width="1.5"/>
+      <text x="800" y="174" fill="white" font-size="10" font-weight="600" text-anchor="middle">飞书推送</text>
+      <text x="800" y="189" fill="#94a3b8" font-size="8" text-anchor="middle">App API · 卡片图 + 文字</text>
+
+      <!-- Lane 1 arrows -->
+      <line x1="360" y1="99" x2="398" y2="99" stroke="#34d399" stroke-width="1.5" marker-end="url(#arr-em)"/>
+      <line x1="520" y1="99" x2="568" y2="99" stroke="#34d399" stroke-width="1.5" marker-end="url(#arr-em)"/>
+      <line x1="690" y1="99" x2="738" y2="99" stroke="#fbbf24" stroke-width="1.5" marker-end="url(#arr-amb)"/>
+      <!-- Wanx → git commit -->
+      <line x1="460" y1="129" x2="460" y2="153" stroke="#fbbf24" stroke-width="1.5" marker-end="url(#arr-amb)"/>
+      <!-- git commit → GitHub Issue (through repo) -->
+      <line x1="520" y1="179" x2="738" y2="179" stroke="#fbbf24" stroke-width="1" stroke-dasharray="4,3" marker-end="url(#arr-amb)"/>
+      <!-- Issue → Feishu -->
+      <line x1="800" y1="129" x2="800" y2="153" stroke="#22d3ee" stroke-width="1.5" marker-end="url(#arr-cyan)"/>
+
+
+      <!-- ────────────── LANE 2: GitHub Trending (middle) ────────────── -->
+      <rect x="214" y="280" width="732" height="215" rx="8"
+            fill="rgba(251,146,60,0.05)" stroke="#fb923c" stroke-width="0.8" stroke-dasharray="4,3"/>
+      <text x="226" y="296" fill="#fb923c" font-size="8" font-weight="600">🔥 trending.yml · 每天 08:00 &amp; 21:00 CST → GitHub Trending 追踪</text>
+
+      <!-- trending_issue.py -->
+      <rect x="230" y="305" width="140" height="60" rx="6" fill="#0f172a" stroke="#fb923c" stroke-width="1.5"/>
+      <rect x="230" y="305" width="140" height="60" rx="6" fill="rgba(251,146,60,0.2)" stroke="#fb923c" stroke-width="1.5"/>
+      <text x="300" y="325" fill="white" font-size="10" font-weight="600" text-anchor="middle">trending_issue.py</text>
+      <text x="300" y="340" fill="#94a3b8" font-size="8" text-anchor="middle">scrape Top 10</text>
+      <text x="300" y="353" fill="#94a3b8" font-size="8" text-anchor="middle">AI keyword filter + LLM</text>
+
+      <!-- card_generator (trending) -->
+      <rect x="420" y="305" width="130" height="60" rx="6" fill="#0f172a" stroke="#34d399" stroke-width="1.5"/>
+      <rect x="420" y="305" width="130" height="60" rx="6" fill="rgba(6,78,59,0.4)" stroke="#34d399" stroke-width="1.5"/>
+      <text x="485" y="325" fill="white" font-size="10" font-weight="600" text-anchor="middle">card_generator.py</text>
+      <text x="485" y="340" fill="#94a3b8" font-size="8" text-anchor="middle">generate_post_card()</text>
+      <text x="485" y="353" fill="#94a3b8" font-size="8" text-anchor="middle">generate_summary_card()</text>
+
+      <!-- git commit (trending) -->
+      <rect x="600" y="305" width="120" height="60" rx="6" fill="#0f172a" stroke="#fbbf24" stroke-width="1.5"/>
+      <rect x="600" y="305" width="120" height="60" rx="6" fill="rgba(120,53,15,0.3)" stroke="#fbbf24" stroke-width="1.5"/>
+      <text x="660" y="325" fill="white" font-size="10" font-weight="600" text-anchor="middle">git commit</text>
+      <text x="660" y="340" fill="#94a3b8" font-size="8" text-anchor="middle">trending_data.json</text>
+      <text x="660" y="353" fill="#94a3b8" font-size="8" text-anchor="middle">assets/trending/*.png</text>
+
+      <!-- GitHub Issue + Feishu (trending) -->
+      <rect x="770" y="305" width="120" height="60" rx="6" fill="#0f172a" stroke="#22d3ee" stroke-width="1.5"/>
+      <rect x="770" y="305" width="120" height="60" rx="6" fill="rgba(8,51,68,0.4)" stroke="#22d3ee" stroke-width="1.5"/>
+      <text x="830" y="325" fill="white" font-size="10" font-weight="600" text-anchor="middle">Issue + 飞书</text>
+      <text x="830" y="340" fill="#94a3b8" font-size="8" text-anchor="middle">早报 / 晚报 label</text>
+      <text x="830" y="353" fill="#94a3b8" font-size="8" text-anchor="middle">汇总头 + 逐帖推送</text>
+
+      <!-- Trending data label -->
+      <rect x="230" y="390" width="140" height="38" rx="6" fill="#0f172a" stroke="#a78bfa" stroke-width="1.2"/>
+      <rect x="230" y="390" width="140" height="38" rx="6" fill="rgba(76,29,149,0.3)" stroke="#a78bfa" stroke-width="1.2"/>
+      <text x="300" y="407" fill="white" font-size="9" font-weight="600" text-anchor="middle">trending_data.json</text>
+      <text x="300" y="420" fill="#94a3b8" font-size="7.5" text-anchor="middle">2-phase: generate → publish</text>
+
+      <!-- Lane 2 arrows -->
+      <line x1="370" y1="335" x2="418" y2="335" stroke="#fb923c" stroke-width="1.5" marker-end="url(#arr-org)"/>
+      <line x1="550" y1="335" x2="598" y2="335" stroke="#34d399" stroke-width="1.5" marker-end="url(#arr-em)"/>
+      <line x1="720" y1="335" x2="768" y2="335" stroke="#22d3ee" stroke-width="1.5" marker-end="url(#arr-cyan)"/>
+      <!-- trending_issue → data file -->
+      <line x1="300" y1="365" x2="300" y2="388" stroke="#a78bfa" stroke-width="1.2" marker-end="url(#arr-vi)"/>
+
+
+      <!-- ────────────── LANE 3: HN & a16z Digest (bottom) ────────────── -->
+      <rect x="214" y="516" width="732" height="258" rx="8"
+            fill="rgba(167,139,250,0.05)" stroke="#a78bfa" stroke-width="0.8" stroke-dasharray="4,3"/>
+      <text x="226" y="532" fill="#a78bfa" font-size="8" font-weight="600">📰 news_digest.yml · 每天 09:00 CST → HN &amp; a16z 日报 ⭐</text>
+
+      <!-- fetch_news.py -->
+      <rect x="230" y="542" width="130" height="72" rx="6" fill="#0f172a" stroke="#a78bfa" stroke-width="1.5"/>
+      <rect x="230" y="542" width="130" height="72" rx="6" fill="rgba(76,29,149,0.4)" stroke="#a78bfa" stroke-width="1.5"/>
+      <text x="295" y="562" fill="white" font-size="10" font-weight="600" text-anchor="middle">fetch_news.py</text>
+      <text x="295" y="577" fill="#94a3b8" font-size="8" text-anchor="middle">HN API Top N</text>
+      <text x="295" y="590" fill="#94a3b8" font-size="8" text-anchor="middle">a16z RSS → HTML fb</text>
+      <text x="295" y="603" fill="#a78bfa" font-size="7" text-anchor="middle">body summary 1000c</text>
+
+      <!-- LLM Translate -->
+      <rect x="410" y="542" width="130" height="72" rx="6" fill="#0f172a" stroke="#34d399" stroke-width="1.5"/>
+      <rect x="410" y="542" width="130" height="72" rx="6" fill="rgba(6,78,59,0.4)" stroke="#34d399" stroke-width="1.5"/>
+      <text x="475" y="562" fill="white" font-size="10" font-weight="600" text-anchor="middle">LLM · Batch</text>
+      <text x="475" y="577" fill="#94a3b8" font-size="8" text-anchor="middle">title_zh + summary_zh</text>
+      <text x="475" y="590" fill="#94a3b8" font-size="8" text-anchor="middle">一次 API 调用 · JSON</text>
+      <text x="475" y="603" fill="#34d399" font-size="7" text-anchor="middle">gpt-4o-mini compatible</text>
+
+      <!-- news_card -->
+      <rect x="590" y="542" width="130" height="72" rx="6" fill="#0f172a" stroke="#34d399" stroke-width="1.5"/>
+      <rect x="590" y="542" width="130" height="72" rx="6" fill="rgba(6,78,59,0.4)" stroke="#34d399" stroke-width="1.5"/>
+      <text x="655" y="562" fill="white" font-size="10" font-weight="600" text-anchor="middle">card_generator.py</text>
+      <text x="655" y="577" fill="#94a3b8" font-size="8" text-anchor="middle">generate_news_card()</text>
+      <text x="655" y="590" fill="#94a3b8" font-size="8" text-anchor="middle">双语卡片 692px PNG</text>
+      <text x="655" y="603" fill="#34d399" font-size="7" text-anchor="middle">HN 🟠 · a16z 🟣</text>
+
+      <!-- Feishu push (news) -->
+      <rect x="770" y="542" width="130" height="72" rx="6" fill="#0f172a" stroke="#22d3ee" stroke-width="1.5"/>
+      <rect x="770" y="542" width="130" height="72" rx="6" fill="rgba(8,51,68,0.4)" stroke="#22d3ee" stroke-width="1.5"/>
+      <text x="835" y="562" fill="white" font-size="10" font-weight="600" text-anchor="middle">飞书推送</text>
+      <text x="835" y="577" fill="#94a3b8" font-size="8" text-anchor="middle">App API 私信</text>
+      <text x="835" y="590" fill="#94a3b8" font-size="8" text-anchor="middle">图片 + 原文链接</text>
+      <text x="835" y="603" fill="#22d3ee" font-size="7" text-anchor="middle">Webhook fallback</text>
+
+      <!-- news_digest.py label -->
+      <rect x="230" y="636" width="200" height="48" rx="6" fill="#0f172a" stroke="#a78bfa" stroke-width="1.2"/>
+      <rect x="230" y="636" width="200" height="48" rx="6" fill="rgba(76,29,149,0.25)" stroke="#a78bfa" stroke-width="1.2"/>
+      <text x="330" y="656" fill="white" font-size="9" font-weight="600" text-anchor="middle">news_digest.py</text>
+      <text x="330" y="670" fill="#94a3b8" font-size="7.5" text-anchor="middle">orchestrates fetch → translate → card → push</text>
+
+      <!-- git commit (news) -->
+      <rect x="480" y="636" width="120" height="48" rx="6" fill="#0f172a" stroke="#fbbf24" stroke-width="1.5"/>
+      <rect x="480" y="636" width="120" height="48" rx="6" fill="rgba(120,53,15,0.3)" stroke="#fbbf24" stroke-width="1.5"/>
+      <text x="540" y="656" fill="white" font-size="10" font-weight="600" text-anchor="middle">git commit</text>
+      <text x="540" y="671" fill="#94a3b8" font-size="8" text-anchor="middle">assets/news/*.png</text>
+
+      <!-- Lane 3 arrows -->
+      <line x1="360" y1="578" x2="408" y2="578" stroke="#a78bfa" stroke-width="1.5" marker-end="url(#arr-vi)"/>
+      <line x1="540" y1="578" x2="588" y2="578" stroke="#34d399" stroke-width="1.5" marker-end="url(#arr-em)"/>
+      <line x1="720" y1="578" x2="768" y2="578" stroke="#22d3ee" stroke-width="1.5" marker-end="url(#arr-cyan)"/>
+      <!-- news_digest label arc -->
+      <line x1="295" y1="614" x2="295" y2="634" stroke="#a78bfa" stroke-width="1" stroke-dasharray="3,3"/>
+      <!-- card → git commit -->
+      <line x1="655" y1="614" x2="655" y2="640" stroke="#fbbf24" stroke-width="1.2" marker-end="url(#arr-amb)"/>
+      <line x1="655" y1="660" x2="602" y2="660" stroke="#fbbf24" stroke-width="1.2" marker-end="url(#arr-amb)"/>
+
+
+      <!-- ═══════════════════════════════════════════════
+           DATA SOURCES → LANES arrows
+           ═══════════════════════════════════════════════ -->
+
+      <!-- HN → generate_post.py (lane 1) -->
+      <line x1="150" y1="64" x2="228" y2="90" stroke="#94a3b8" stroke-width="1.2" marker-end="url(#arr)"/>
+      <!-- HN → trending_issue.py (lane 2) -->
+      <path d="M 150 78 Q 190 78 190 335 L 228 335" fill="none" stroke="#94a3b8" stroke-width="1.2" stroke-dasharray="4,3" marker-end="url(#arr)"/>
+      <!-- GitHub Trending → trending_issue.py (lane 2) -->
+      <line x1="150" y1="134" x2="228" y2="335" stroke="#94a3b8" stroke-width="1.2" marker-end="url(#arr)"/>
+      <!-- HN → fetch_news.py (lane 3) -->
+      <path d="M 90 90 Q 90 578 228 578" fill="none" stroke="#94a3b8" stroke-width="1.2" stroke-dasharray="4,3" marker-end="url(#arr)"/>
+      <!-- a16z → fetch_news.py (lane 3) -->
+      <line x1="150" y1="204" x2="228" y2="578" stroke="#94a3b8" stroke-width="1.2" marker-end="url(#arr)"/>
+      <!-- HN → generate_post.py also feeds Lane1 summary data -->
+
+
+      <!-- ═══════════════════════════════════════════════
+           SHARED INFRASTRUCTURE (right column)
+           ═══════════════════════════════════════════════ -->
+
+      <text x="985" y="28" fill="#64748b" font-size="9" font-weight="600" letter-spacing="1.5">SHARED INFRA</text>
+
+      <!-- LLM API -->
+      <rect x="982" y="38" width="140" height="58" rx="6" fill="#0f172a" stroke="#34d399" stroke-width="1.5"/>
+      <rect x="982" y="38" width="140" height="58" rx="6" fill="rgba(6,78,59,0.4)" stroke="#34d399" stroke-width="1.5"/>
+      <text x="1052" y="60" fill="white" font-size="11" font-weight="600" text-anchor="middle">LLM API</text>
+      <text x="1052" y="75" fill="#94a3b8" font-size="8" text-anchor="middle">OpenAI-compatible</text>
+      <text x="1052" y="87" fill="#34d399" font-size="7" text-anchor="middle">LLM_BASE_URL · LLM_MODEL</text>
+
+      <!-- Playwright (Node.js) -->
+      <rect x="982" y="118" width="140" height="58" rx="6" fill="#0f172a" stroke="#fb923c" stroke-width="1.5"/>
+      <rect x="982" y="118" width="140" height="58" rx="6" fill="rgba(251,146,60,0.2)" stroke="#fb923c" stroke-width="1.5"/>
+      <text x="1052" y="140" fill="white" font-size="11" font-weight="600" text-anchor="middle">Playwright</text>
+      <text x="1052" y="155" fill="#94a3b8" font-size="8" text-anchor="middle">Node.js · Chromium</text>
+      <text x="1052" y="167" fill="#fb923c" font-size="7" text-anchor="middle">HTML → PNG · capture.js</text>
+
+      <!-- GitHub Repo / Assets -->
+      <rect x="982" y="198" width="140" height="58" rx="6" fill="#0f172a" stroke="#fbbf24" stroke-width="1.5"/>
+      <rect x="982" y="198" width="140" height="58" rx="6" fill="rgba(120,53,15,0.3)" stroke="#fbbf24" stroke-width="1.5"/>
+      <text x="1052" y="220" fill="white" font-size="11" font-weight="600" text-anchor="middle">GitHub Repo</text>
+      <text x="1052" y="235" fill="#94a3b8" font-size="8" text-anchor="middle">assets/ · *.json</text>
+      <text x="1052" y="247" fill="#fbbf24" font-size="7" text-anchor="middle">raw.githubusercontent CDN</text>
+
+      <!-- Feishu App -->
+      <rect x="982" y="278" width="140" height="70" rx="6" fill="#0f172a" stroke="#22d3ee" stroke-width="1.5"/>
+      <rect x="982" y="278" width="140" height="70" rx="6" fill="rgba(8,51,68,0.4)" stroke="#22d3ee" stroke-width="1.5"/>
+      <text x="1052" y="298" fill="white" font-size="11" font-weight="600" text-anchor="middle">飞书 Feishu</text>
+      <text x="1052" y="313" fill="#94a3b8" font-size="8" text-anchor="middle">App API · 私信图片+文字</text>
+      <text x="1052" y="326" fill="#94a3b8" font-size="8" text-anchor="middle">Webhook fallback</text>
+      <text x="1052" y="339" fill="#22d3ee" font-size="7" text-anchor="middle">APP_ID / SECRET / USER_ID</text>
+
+      <!-- GitHub Issues -->
+      <rect x="982" y="370" width="140" height="58" rx="6" fill="#0f172a" stroke="#a78bfa" stroke-width="1.5"/>
+      <rect x="982" y="370" width="140" height="58" rx="6" fill="rgba(76,29,149,0.35)" stroke="#a78bfa" stroke-width="1.5"/>
+      <text x="1052" y="392" fill="white" font-size="11" font-weight="600" text-anchor="middle">GitHub Issues</text>
+      <text x="1052" y="407" fill="#94a3b8" font-size="8" text-anchor="middle">Labels · Body · Images</text>
+      <text x="1052" y="419" fill="#a78bfa" font-size="7" text-anchor="middle">ai-content / trending</text>
+
+      <!-- Shared arrows (right side connectors) -->
+      <!-- LLM used by all 3 lanes -->
+      <line x1="980" y1="67" x2="894" y2="99" stroke="#34d399" stroke-width="1" stroke-dasharray="3,3" marker-end="url(#arr-em)"/>
+      <line x1="980" y1="67" x2="546" y2="340" stroke="#34d399" stroke-width="1" stroke-dasharray="3,3" marker-end="url(#arr-em)"/>
+      <line x1="980" y1="67" x2="538" y2="578" stroke="#34d399" stroke-width="1" stroke-dasharray="3,3" marker-end="url(#arr-em)"/>
+
+      <!-- Playwright used by card_generator -->
+      <line x1="980" y1="147" x2="690" y2="99" stroke="#fb923c" stroke-width="1" stroke-dasharray="3,3" marker-end="url(#arr-org)"/>
+      <line x1="980" y1="147" x2="616" y2="335" stroke="#fb923c" stroke-width="1" stroke-dasharray="3,3" marker-end="url(#arr-org)"/>
+      <line x1="980" y1="147" x2="718" y2="578" stroke="#fb923c" stroke-width="1" stroke-dasharray="3,3" marker-end="url(#arr-org)"/>
+
+      <!-- GitHub Repo / CDN -->
+      <line x1="980" y1="227" x2="862" y2="129" stroke="#fbbf24" stroke-width="1" stroke-dasharray="3,3" marker-end="url(#arr-amb)"/>
+
+      <!-- Feishu receives from all 3 lanes -->
+      <line x1="980" y1="313" x2="862" y2="179" stroke="#22d3ee" stroke-width="1" stroke-dasharray="3,3"/>
+      <line x1="980" y1="313" x2="892" y2="365" stroke="#22d3ee" stroke-width="1" stroke-dasharray="3,3"/>
+      <line x1="980" y1="313" x2="902" y2="578" stroke="#22d3ee" stroke-width="1" stroke-dasharray="3,3"/>
+
+      <!-- GitHub Issues from lanes 1 & 2 -->
+      <line x1="980" y1="399" x2="862" y2="129" stroke="#a78bfa" stroke-width="1" stroke-dasharray="3,3"/>
+      <line x1="980" y1="399" x2="862" y2="365" stroke="#a78bfa" stroke-width="1" stroke-dasharray="3,3"/>
+
+
+      <!-- ═══════════════════════════════════════════════
+           LEGEND
+           ═══════════════════════════════════════════════ -->
+      <rect x="230" y="730" width="400" height="62" rx="8"
+            fill="rgba(15,23,42,0.6)" stroke="#1e293b" stroke-width="1"/>
+      <text x="246" y="748" fill="#64748b" font-size="8" font-weight="600" letter-spacing="1">LEGEND</text>
+
+      <rect x="246" y="756" width="12" height="8" rx="2" fill="rgba(6,78,59,0.4)" stroke="#34d399" stroke-width="1"/>
+      <text x="262" y="763" fill="#94a3b8" font-size="8">Script / LLM</text>
+
+      <rect x="330" y="756" width="12" height="8" rx="2" fill="rgba(120,53,15,0.3)" stroke="#fbbf24" stroke-width="1"/>
+      <text x="346" y="763" fill="#94a3b8" font-size="8">Cloud Service / Storage</text>
+
+      <rect x="464" y="756" width="12" height="8" rx="2" fill="rgba(8,51,68,0.4)" stroke="#22d3ee" stroke-width="1"/>
+      <text x="480" y="763" fill="#94a3b8" font-size="8">Delivery / Feishu</text>
+
+      <rect x="246" y="774" width="12" height="8" rx="2" fill="rgba(76,29,149,0.4)" stroke="#a78bfa" stroke-width="1"/>
+      <text x="262" y="781" fill="#94a3b8" font-size="8">News Fetch / Issues</text>
+
+      <rect x="330" y="774" width="12" height="8" rx="2" fill="rgba(251,146,60,0.2)" stroke="#fb923c" stroke-width="1"/>
+      <text x="346" y="781" fill="#94a3b8" font-size="8">Trending Pipeline</text>
+
+      <line x1="464" y1="778" x2="478" y2="778" stroke="#94a3b8" stroke-width="1" stroke-dasharray="3,3"/>
+      <text x="482" y="781" fill="#94a3b8" font-size="8">Shared Dependency</text>
+
+    </svg>
+  </div>
+
+  <!-- Info Cards -->
+  <div class="cards">
+    <div class="card">
+      <div class="card-header">
+        <div class="card-dot emerald"></div>
+        <h3>三大工作流</h3>
+      </div>
+      <ul>
+        <li>• 📱 daily.yml — AI 日报 · 08:00 CST</li>
+        <li>• 🔥 trending.yml — GitHub Trending · 08:00 &amp; 21:00</li>
+        <li>• 📰 news_digest.yml — HN &amp; a16z · 09:00 CST ⭐</li>
+        <li>• 全部 GitHub Actions 定时触发，无需服务器</li>
+      </ul>
+    </div>
+
+    <div class="card">
+      <div class="card-header">
+        <div class="card-dot violet"></div>
+        <h3>核心脚本</h3>
+      </div>
+      <ul>
+        <li>• generate_post.py — AI 日报生成</li>
+        <li>• trending_issue.py — Trending 追踪</li>
+        <li>• fetch_news.py — HN + a16z 抓取 ⭐</li>
+        <li>• news_digest.py — 日报主流程 ⭐</li>
+        <li>• card_generator.py — 共享卡片生成</li>
+      </ul>
+    </div>
+
+    <div class="card">
+      <div class="card-header">
+        <div class="card-dot cyan"></div>
+        <h3>飞书推送方式</h3>
+      </div>
+      <ul>
+        <li>• App API — 私信图片卡片 + 文字链接</li>
+        <li>• Webhook — 纯文字降级备用</li>
+        <li>• 卡片类型：feishu_card / news_card</li>
+        <li>• 月度 API 成本估算 &lt; ¥30</li>
+      </ul>
+    </div>
+  </div>
+
+  <p class="footer">ai-xiaohongshu-daily · GitHub Actions + LLM + Playwright + 飞书 · 2026-05</p>
+</div>
+</body>
+</html>
