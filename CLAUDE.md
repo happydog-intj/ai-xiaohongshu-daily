@@ -181,4 +181,3 @@ python scripts/news_digest.py --no-card --dry-run
 | `FEISHU_APP_ID` | 飞书 App ID（发私信图片必需）|
 | `FEISHU_APP_SECRET` | 飞书 App Secret（发私信图片必需）|
 | `FEISHU_USER_ID` | 飞书接收人 User ID（私信目标）|
-| `DASHSCOPE_API_KEY` | 阿里云 DashScope（备用）|

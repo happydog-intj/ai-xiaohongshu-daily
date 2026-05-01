@@ -55,7 +55,6 @@
 | `LLM_API_KEY` | ✅ | 全部 | OpenAI 兼容 API Key（内容生成 + 翻译）|
 | `LLM_BASE_URL` | 可选 | 全部 | API Base URL，默认 `https://api.openai.com/v1` |
 | `LLM_MODEL` | 可选 | 全部 | 模型名称，默认 `gpt-4o-mini` |
-| `DASHSCOPE_API_KEY` | 可选 | AI日报 | 阿里云 DashScope（Wanx 图像生成）|
 | `FEISHU_APP_ID` | ✅ 推荐 | 全部飞书 | 飞书 App ID（发私信图片必需）|
 | `FEISHU_APP_SECRET` | ✅ 推荐 | 全部飞书 | 飞书 App Secret |
 | `FEISHU_USER_ID` | ✅ 推荐 | 全部飞书 | 飞书接收人 User ID |
@@ -197,7 +196,7 @@ python scripts/news_digest.py --hn 5 --a16z 5
 
 | 功能 | LLM 用量 | 图片生成 | 月度成本估算 |
 |---|---|---|---|
-| AI 日报（每日） | ~2000 in + 2000 out tokens | 4张 Wanx（¥0.08/张） | ~¥10 |
+| AI 日报（每日） | ~2000 in + 2000 out tokens | 无（Playwright） | ~¥5 |
 | GitHub Trending（每日×2） | ~1500 in + 1500 out tokens | 4张/次 | ~¥15 |
 | HN & a16z 日报（每日） | ~3000 in + 1000 out tokens | 无（Playwright） | ~¥3 |
 

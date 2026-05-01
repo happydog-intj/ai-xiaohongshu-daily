@@ -54,7 +54,6 @@ jobs:
       # ── 3. 生成内容 & 图片 ──────────────────────────────────────────────────
       - name: Generate posts & cover images
         env:
-          DASHSCOPE_API_KEY: ${{ secrets.DASHSCOPE_API_KEY }}
           LLM_API_KEY:       ${{ secrets.LLM_API_KEY }}
           LLM_BASE_URL:      ${{ secrets.LLM_BASE_URL }}
           LLM_MODEL:         ${{ secrets.LLM_MODEL }}
