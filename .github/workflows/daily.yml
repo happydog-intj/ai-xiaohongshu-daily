@@ -78,8 +78,12 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: python scripts/generate_post.py --phase issue
 
-      # ── 6. 飞书逐条推送（每篇帖子一条消息，方便复制）────────────────────────
+      # ── 6. 飞书逐条推送（文字 + 飞书卡片图）──────────────────────────────────
+      # 可选：配置 FEISHU_APP_ID / FEISHU_APP_SECRET / FEISHU_USER_ID 后自动发图
       - name: Send Feishu notifications
         env:
-          FEISHU_WEBHOOK: ${{ secrets.FEISHU_WEBHOOK }}
+          FEISHU_WEBHOOK:    ${{ secrets.FEISHU_WEBHOOK }}
+          FEISHU_APP_ID:     ${{ secrets.FEISHU_APP_ID }}
+          FEISHU_APP_SECRET: ${{ secrets.FEISHU_APP_SECRET }}
+          FEISHU_USER_ID:    ${{ secrets.FEISHU_USER_ID }}
         run: python scripts/generate_post.py --phase notify

@@ -60,11 +60,14 @@ jobs:
       # ── 3. 生成数据和图片 ────────────────────────────────────────────────
       - name: Generate trending posts & images
         env:
-          LLM_API_KEY:      ${{ secrets.LLM_API_KEY }}
-          LLM_BASE_URL:     ${{ secrets.LLM_BASE_URL }}
-          LLM_MODEL:        ${{ secrets.LLM_MODEL }}
-          GITHUB_TOKEN:     ${{ secrets.GITHUB_TOKEN }}
-          FEISHU_WEBHOOK:   ${{ secrets.FEISHU_WEBHOOK }}
+          LLM_API_KEY:       ${{ secrets.LLM_API_KEY }}
+          LLM_BASE_URL:      ${{ secrets.LLM_BASE_URL }}
+          LLM_MODEL:         ${{ secrets.LLM_MODEL }}
+          GITHUB_TOKEN:      ${{ secrets.GITHUB_TOKEN }}
+          FEISHU_WEBHOOK:    ${{ secrets.FEISHU_WEBHOOK }}
+          FEISHU_APP_ID:     ${{ secrets.FEISHU_APP_ID }}
+          FEISHU_APP_SECRET: ${{ secrets.FEISHU_APP_SECRET }}
+          FEISHU_USER_ID:    ${{ secrets.FEISHU_USER_ID }}
         run: |
           python scripts/trending_issue.py \
             --since ${{ github.event.inputs.since || 'daily' }} \
@@ -84,6 +87,9 @@ jobs:
       # ── 5. 创建 Issue + 发飞书通知（含图片链接）────────────────────────
       - name: Create Issue & send Feishu notifications
         env:
-          GITHUB_TOKEN:     ${{ secrets.GITHUB_TOKEN }}
-          FEISHU_WEBHOOK:   ${{ secrets.FEISHU_WEBHOOK }}
+          GITHUB_TOKEN:      ${{ secrets.GITHUB_TOKEN }}
+          FEISHU_WEBHOOK:    ${{ secrets.FEISHU_WEBHOOK }}
+          FEISHU_APP_ID:     ${{ secrets.FEISHU_APP_ID }}
+          FEISHU_APP_SECRET: ${{ secrets.FEISHU_APP_SECRET }}
+          FEISHU_USER_ID:    ${{ secrets.FEISHU_USER_ID }}
         run: python scripts/trending_issue.py --phase publish

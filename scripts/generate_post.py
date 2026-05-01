@@ -39,7 +39,10 @@ LLM_BASE_URL = os.environ.get("LLM_BASE_URL", "https://api.openai.com/v1").rstri
 LLM_MODEL    = os.environ.get("LLM_MODEL", "gpt-4o-mini")
 GITHUB_TOKEN   = os.environ.get("GITHUB_TOKEN", "")
 GITHUB_REPO    = os.environ.get("GITHUB_REPOSITORY", "")   # owner/repo
-FEISHU_WEBHOOK = os.environ.get("FEISHU_WEBHOOK", "")      # 飞书自定义机器人 Webhook URL
+FEISHU_WEBHOOK    = os.environ.get("FEISHU_WEBHOOK", "")       # 飞书自定义机器人 Webhook URL
+FEISHU_APP_ID     = os.environ.get("FEISHU_APP_ID", "")        # 飞书开放平台 App ID（用于发图）
+FEISHU_APP_SECRET = os.environ.get("FEISHU_APP_SECRET", "")    # 飞书开放平台 App Secret
+FEISHU_USER_ID    = os.environ.get("FEISHU_USER_ID", "")       # 接收人 open_id
 
 # XHS 品牌红
 XHS_RED  = "#FF2D55"
@@ -428,10 +431,13 @@ def make_cover_image(line1: str, line2: str, index: int, out_path: Path) -> bool
     return True
 
 
-def generate_cover_images(posts: list[dict]) -> list[str | None]:
-    """为所有帖子生成两种封面图：ljg-card 长图 + 飞书卡片"""
+def generate_cover_images(posts: list[dict]) -> tuple[list[str | None], list[str | None]]:
+    """为所有帖子生成两种封面图：ljg-card 长图 + 飞书卡片。
+    返回 (ljg_paths, feishu_paths)，各元素为本地路径或 None。
+    """
     print("🎨 Generating cover images (ljg-card + 飞书卡片)…")
-    image_paths: list[str | None] = []
+    ljg_paths:    list[str | None] = []
+    feishu_paths: list[str | None] = []
 
     for i, post in enumerate(posts, 1):
         eyebrow = f"AI日报 · {TODAY_CN}"
@@ -447,9 +453,10 @@ def generate_cover_images(posts: list[dict]) -> list[str | None]:
         if ok_fei:
             print(f"  ✅ cover{i}_feishu.png (飞书卡片)")
 
-        image_paths.append(str(dest_ljg) if ok_ljg else None)
+        ljg_paths.append(str(dest_ljg) if ok_ljg else None)
+        feishu_paths.append(str(dest_feishu) if ok_fei else None)
 
-    return image_paths
+    return ljg_paths, feishu_paths
 
 
 # ══════════════════════════════════════════════════════════════════════════════
@@ -593,11 +600,77 @@ def create_github_issue(
 # 5. 飞书通知
 # ══════════════════════════════════════════════════════════════════════════════
 
-def send_feishu_notify(posts: list[dict]) -> None:
-    """将每篇帖子作为独立飞书消息发出，方便逐条复制。"""
+# ── Feishu Bot API 辅助（仅在配置了 APP_ID/SECRET/USER_ID 时启用）──────────────
+
+def _feishu_get_token() -> str:
+    """获取飞书 tenant_access_token。"""
+    try:
+        resp = requests.post(
+            "https://open.feishu.cn/open-apis/auth/v3/tenant_access_token/internal",
+            json={"app_id": FEISHU_APP_ID, "app_secret": FEISHU_APP_SECRET},
+            timeout=10,
+        )
+        return resp.json().get("tenant_access_token", "")
+    except Exception as e:
+        print(f"  ⚠️  Feishu token failed: {e}")
+        return ""
+
+
+def _feishu_upload_image(token: str, img_path: str) -> str:
+    """上传本地图片到飞书，返回 image_key；失败返回空串。"""
+    try:
+        with open(img_path, "rb") as f:
+            resp = requests.post(
+                "https://open.feishu.cn/open-apis/im/v1/images",
+                headers={"Authorization": f"Bearer {token}"},
+                data={"image_type": "message"},
+                files={"image": ("cover.png", f, "image/png")},
+                timeout=30,
+            )
+        data = resp.json().get("data", {})
+        return data.get("image_key", "")
+    except Exception as e:
+        print(f"  ⚠️  Feishu upload failed: {e}")
+        return ""
+
+
+def _feishu_send_image(token: str, user_id: str, image_key: str) -> bool:
+    """用 Feishu Bot API 向指定 open_id 发一条图片消息。"""
+    try:
+        resp = requests.post(
+            "https://open.feishu.cn/open-apis/im/v1/messages?receive_id_type=open_id",
+            headers={
+                "Authorization": f"Bearer {token}",
+                "Content-Type": "application/json",
+            },
+            json={
+                "receive_id": user_id,
+                "msg_type": "image",
+                "content": json.dumps({"image_key": image_key}),
+            },
+            timeout=10,
+        )
+        return resp.status_code == 200 and resp.json().get("code") == 0
+    except Exception as e:
+        print(f"  ⚠️  Feishu send image failed: {e}")
+        return False
+
+
+def _feishu_api_enabled() -> bool:
+    return bool(FEISHU_APP_ID and FEISHU_APP_SECRET and FEISHU_USER_ID)
+
+
+def send_feishu_notify(posts: list[dict], feishu_image_paths: list[str | None] | None = None) -> None:
+    """将每篇帖子作为独立飞书消息发出；若配置了 Bot API 则同时发对应飞书卡片图。"""
     if not FEISHU_WEBHOOK:
         print("  ⚠️  FEISHU_WEBHOOK not set, skipping Feishu notification")
         return
+
+    use_api   = _feishu_api_enabled()
+    api_token = _feishu_get_token() if use_api else ""
+    if use_api and not api_token:
+        print("  ⚠️  Failed to get Feishu token, images will be skipped")
+        use_api = False
 
     print("📨 Sending Feishu notifications…")
     for i, post in enumerate(posts, 1):
@@ -629,11 +702,20 @@ def send_feishu_notify(posts: list[dict]) -> None:
             )
             result = resp.json()
             if resp.status_code == 200 and result.get("code") == 0:
-                print(f"  ✅ 帖子{i} ({topic}) 已发送")
+                print(f"  ✅ 帖子{i} ({topic}) 文字已发送")
             else:
-                print(f"  ⚠️  帖子{i} 发送失败: {result.get('msg', resp.text[:120])}")
+                print(f"  ⚠️  帖子{i} 文字发送失败: {result.get('msg', resp.text[:120])}")
         except Exception as e:
             print(f"  ⚠️  帖子{i} 发送异常: {e}")
+
+        # 发飞书卡片图（需要 Bot API）
+        if use_api and feishu_image_paths and i - 1 < len(feishu_image_paths):
+            fei_path = feishu_image_paths[i - 1]
+            if fei_path and Path(fei_path).exists():
+                image_key = _feishu_upload_image(api_token, fei_path)
+                if image_key:
+                    ok = _feishu_send_image(api_token, FEISHU_USER_ID, image_key)
+                    print(f"  {'✅' if ok else '⚠️'} 帖子{i} 飞书卡片图{'已发送' if ok else '发送失败'}")
 
 
 def phase_notify() -> None:
@@ -643,9 +725,10 @@ def phase_notify() -> None:
         print("❌ posts_data.json not found. Run --phase generate first.")
         sys.exit(1)
 
-    data  = json.loads(DATA_FILE.read_text(encoding="utf-8"))
-    posts = data["posts"]
-    send_feishu_notify(posts)
+    data          = json.loads(DATA_FILE.read_text(encoding="utf-8"))
+    posts         = data["posts"]
+    feishu_paths  = data.get("feishu_image_paths")
+    send_feishu_notify(posts, feishu_image_paths=feishu_paths)
     print("  🎉 Feishu notify done")
 
 
@@ -669,9 +752,10 @@ def phase_generate() -> None:
         print("❌ No posts generated. Exiting.")
         sys.exit(1)
 
-    image_paths = generate_cover_images(posts)
+    image_paths, feishu_paths = generate_cover_images(posts)
 
-    data = {"date": TODAY, "posts": posts, "image_paths": image_paths}
+    data = {"date": TODAY, "posts": posts, "image_paths": image_paths,
+            "feishu_image_paths": feishu_paths}
     DATA_FILE.write_text(
         json.dumps(data, ensure_ascii=False, indent=2), encoding="utf-8"
     )

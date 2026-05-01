@@ -50,7 +50,10 @@ LLM_BASE_URL   = os.environ.get("LLM_BASE_URL", "https://api.openai.com/v1").rst
 LLM_MODEL      = os.environ.get("LLM_MODEL", "gpt-4o-mini")
 GITHUB_TOKEN   = os.environ.get("GITHUB_TOKEN", "")
 GITHUB_REPO    = os.environ.get("GITHUB_REPOSITORY", "")
-FEISHU_WEBHOOK = os.environ.get("FEISHU_WEBHOOK", "")
+FEISHU_WEBHOOK    = os.environ.get("FEISHU_WEBHOOK", "")
+FEISHU_APP_ID     = os.environ.get("FEISHU_APP_ID", "")
+FEISHU_APP_SECRET = os.environ.get("FEISHU_APP_SECRET", "")
+FEISHU_USER_ID    = os.environ.get("FEISHU_USER_ID", "")
 
 ASSETS_DIR = Path("assets") / TODAY
 
@@ -931,8 +934,55 @@ def send_feishu_notify(posts: list[dict], issue_url: str | None = None) -> None:
 
 
 # ══════════════════════════════════════════════════════════════════════════════
-# 5. 飞书图片链接通知
+# 5. 飞书图片通知（Bot API 直接发图；fallback 发 URL 文字）
 # ══════════════════════════════════════════════════════════════════════════════
+
+def _feishu_get_token() -> str:
+    try:
+        resp = requests.post(
+            "https://open.feishu.cn/open-apis/auth/v3/tenant_access_token/internal",
+            json={"app_id": FEISHU_APP_ID, "app_secret": FEISHU_APP_SECRET},
+            timeout=10,
+        )
+        return resp.json().get("tenant_access_token", "")
+    except Exception as e:
+        print(f"  ⚠️  Feishu token failed: {e}")
+        return ""
+
+
+def _feishu_upload_image(token: str, img_path: str) -> str:
+    try:
+        with open(img_path, "rb") as f:
+            resp = requests.post(
+                "https://open.feishu.cn/open-apis/im/v1/images",
+                headers={"Authorization": f"Bearer {token}"},
+                data={"image_type": "message"},
+                files={"image": ("cover.png", f, "image/png")},
+                timeout=30,
+            )
+        return resp.json().get("data", {}).get("image_key", "")
+    except Exception as e:
+        print(f"  ⚠️  Feishu upload failed: {e}")
+        return ""
+
+
+def _feishu_send_image(token: str, user_id: str, image_key: str) -> bool:
+    try:
+        resp = requests.post(
+            "https://open.feishu.cn/open-apis/im/v1/messages?receive_id_type=open_id",
+            headers={"Authorization": f"Bearer {token}", "Content-Type": "application/json"},
+            json={
+                "receive_id": user_id,
+                "msg_type": "image",
+                "content": json.dumps({"image_key": image_key}),
+            },
+            timeout=10,
+        )
+        return resp.status_code == 200 and resp.json().get("code") == 0
+    except Exception as e:
+        print(f"  ⚠️  Feishu send image failed: {e}")
+        return False
+
 
 def send_feishu_images(
     image_paths: list[str | None],
@@ -940,44 +990,64 @@ def send_feishu_images(
     slot: str,
     today_cn: str,
 ) -> None:
-    """依次把每张封面图的 GitHub raw URL 发到飞书（一图一条消息）。"""
-    if not FEISHU_WEBHOOK:
-        print("  ⚠️  FEISHU_WEBHOOK not set, skipping image notify")
-        return
-    if not GITHUB_REPO:
-        print("  ⚠️  GITHUB_REPOSITORY not set, skipping image notify")
+    """依次把每张飞书卡片图发给用户（Bot API）；若无 API 凭据则 fallback 到 URL 文字。"""
+    if not FEISHU_WEBHOOK and not (FEISHU_APP_ID and FEISHU_APP_SECRET and FEISHU_USER_ID):
+        print("  ⚠️  Feishu config missing, skipping image notify")
         return
 
-    owner, repo = GITHUB_REPO.split("/", 1)
-    branch      = get_default_branch(owner, repo)
+    use_api   = bool(FEISHU_APP_ID and FEISHU_APP_SECRET and FEISHU_USER_ID)
+    api_token = _feishu_get_token() if use_api else ""
+    if use_api and not api_token:
+        print("  ⚠️  Failed to get Feishu token, falling back to URL text")
+        use_api = False
 
     n_posts = len(posts)
-    # image_paths[0] = summary, image_paths[1:] = post covers
-    labels: list[str] = [f"📊 今日 AI 热榜总览"]
+    labels: list[str] = ["📊 今日 AI 热榜总览"]
     for i, post in enumerate(posts, 1):
         topic = post.get("cover_line1", post.get("topic", f"帖子{i}"))
-        labels.append(f"🖼️ 帖子{i}/{n_posts} · {topic}")
+        labels.append(f"🖼️ {slot}帖子{i}/{n_posts} · {topic}")
 
-    print("📨 Sending Feishu image notifications…")
+    # feishu_paths: 把 ljg-card 路径替换为 _feishu 路径
+    feishu_paths: list[str | None] = []
     for idx, path in enumerate(image_paths):
-        if not path:
+        if path and idx > 0:   # idx=0 是 summary，没有飞书版
+            fei = path.replace(f"post{idx}.png", f"post{idx}_feishu.png")
+            feishu_paths.append(fei if Path(fei).exists() else path)
+        else:
+            feishu_paths.append(path)
+
+    print(f"📨 Sending Feishu image notifications ({'Bot API' if use_api else 'URL text'})…")
+    for idx, path in enumerate(feishu_paths):
+        if not path or not Path(path).exists():
             continue
-        label   = labels[idx] if idx < len(labels) else f"🖼️ 图片{idx}"
-        raw_url = f"https://raw.githubusercontent.com/{GITHUB_REPO}/{branch}/{path}"
-        text    = f"{label}\n{raw_url}"
-        try:
-            resp   = requests.post(
-                FEISHU_WEBHOOK,
-                json={"msg_type": "text", "content": {"text": text}},
-                timeout=10,
-            )
-            result = resp.json()
-            if resp.status_code == 200 and result.get("code") == 0:
-                print(f"  ✅ 图片{idx} ({label}) 已发送")
+        label = labels[idx] if idx < len(labels) else f"🖼️ 图片{idx}"
+
+        if use_api:
+            image_key = _feishu_upload_image(api_token, path)
+            if image_key:
+                ok = _feishu_send_image(api_token, FEISHU_USER_ID, image_key)
+                print(f"  {'✅' if ok else '⚠️'} {label} {'已发送' if ok else '发送失败'}")
             else:
-                print(f"  ⚠️  图片{idx} 发送失败: {result.get('msg', resp.text[:120])}")
-        except Exception as e:
-            print(f"  ⚠️  图片{idx} 发送异常: {e}")
+                print(f"  ⚠️  {label} 上传失败")
+        else:
+            # fallback: 发 URL 文字
+            if not GITHUB_REPO:
+                continue
+            owner, repo_name = GITHUB_REPO.split("/", 1)
+            branch  = get_default_branch(owner, repo_name)
+            raw_url = f"https://raw.githubusercontent.com/{GITHUB_REPO}/{branch}/{path}"
+            try:
+                resp = requests.post(
+                    FEISHU_WEBHOOK,
+                    json={"msg_type": "text", "content": {"text": f"{label}\n{raw_url}"}},
+                    timeout=10,
+                )
+                if resp.status_code == 200 and resp.json().get("code") == 0:
+                    print(f"  ✅ {label} URL 已发送")
+                else:
+                    print(f"  ⚠️  {label} 发送失败")
+            except Exception as e:
+                print(f"  ⚠️  {label} 异常: {e}")
 
 
 # ══════════════════════════════════════════════════════════════════════════════
