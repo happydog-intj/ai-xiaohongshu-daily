@@ -909,3 +909,191 @@ def generate_feishu_card(
         post, eyebrow=eyebrow, source=source, date_str=date_str
     )
     return capture_card(html_content, out_path, width=664)  # 600px 卡片 + 32px 两侧 padding
+
+
+# ══════════════════════════════════════════════════════════════════════════════
+# News Digest 简单卡片（HackerNews / a16z → 飞书）
+# ══════════════════════════════════════════════════════════════════════════════
+
+_NEWS_CARD_TEMPLATE = """<!DOCTYPE html>
+<html lang="zh">
+<head>
+<meta charset="UTF-8">
+<style>
+  * {{ box-sizing: border-box; margin: 0; padding: 0; }}
+  body {{
+    font-family: -apple-system, "PingFang SC", "Helvetica Neue", Arial, sans-serif;
+    background: #F7F8FA;
+    padding: 16px;
+    width: 660px;
+  }}
+  .card {{
+    background: #ffffff;
+    border-radius: 12px;
+    padding: 20px 24px 18px;
+    box-shadow: 0 1px 4px rgba(0,0,0,0.08);
+    border-left: 4px solid {accent};
+  }}
+  .source-row {{
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    margin-bottom: 10px;
+  }}
+  .source-badge {{
+    font-size: 11px;
+    font-weight: 600;
+    color: #fff;
+    background: {accent};
+    border-radius: 4px;
+    padding: 2px 8px;
+    letter-spacing: 0.5px;
+    text-transform: uppercase;
+  }}
+  .date {{
+    font-size: 11px;
+    color: #999;
+  }}
+  .title-en {{
+    font-size: 15px;
+    font-weight: 700;
+    color: #1a1a1a;
+    line-height: 1.45;
+    margin-bottom: 8px;
+  }}
+  .title-zh {{
+    font-size: 15px;
+    font-weight: 700;
+    color: {accent};
+    line-height: 1.45;
+    margin-bottom: 12px;
+  }}
+  .divider {{
+    height: 1px;
+    background: #F0F1F3;
+    margin: 10px 0 12px;
+  }}
+  .summary-label {{
+    font-size: 11px;
+    font-weight: 600;
+    color: #999;
+    letter-spacing: 0.8px;
+    text-transform: uppercase;
+    margin-bottom: 6px;
+  }}
+  .summary {{
+    font-size: 13px;
+    color: #444;
+    line-height: 1.65;
+  }}
+  .meta-row {{
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    margin-top: 14px;
+    padding-top: 12px;
+    border-top: 1px solid #F0F1F3;
+  }}
+  .meta-item {{
+    font-size: 11px;
+    color: #888;
+    display: flex;
+    align-items: center;
+    gap: 3px;
+  }}
+  .url {{
+    font-size: 11px;
+    color: #bbb;
+    margin-left: auto;
+    max-width: 200px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+  }}
+  .footer {{
+    text-align: right;
+    font-size: 10px;
+    color: #ccc;
+    margin-top: 8px;
+  }}
+</style>
+</head>
+<body>
+<div class="card">
+  <div class="source-row">
+    <span class="source-badge">{source}</span>
+    <span class="date">{date_str}</span>
+  </div>
+  <div class="title-en">{title_en}</div>
+  <div class="title-zh">{title_zh}</div>
+  <div class="divider"></div>
+  <div class="summary-label">摘要</div>
+  <div class="summary">{summary_zh}</div>
+  {meta_html}
+</div>
+<div class="footer">AI 日报 · News Digest</div>
+</body>
+</html>"""
+
+
+def make_news_card_html(
+    item: dict,
+    date_str: str = "",
+) -> str:
+    """
+    生成 HN / a16z 热帖的简单双语卡片 HTML。
+
+    item 字段：
+        source, title（英文）, url,
+        title_zh（中文标题，LLM翻译后填入）,
+        summary_zh（中文摘要，LLM翻译后填入）,
+        points（可选）, comments（可选）
+    """
+    source = _escape(item.get("source", "News"))
+    # 来源配色
+    accent = "#FF6900" if source.lower() == "hackernews" else "#6B5CE7"
+
+    title_en   = _escape(item.get("title", ""))
+    title_zh   = _escape(item.get("title_zh", ""))
+    summary_zh = _escape(item.get("summary_zh", ""))
+    url        = item.get("url", "")
+
+    # 元信息行
+    meta_parts = []
+    if item.get("points") is not None:
+        meta_parts.append(f'<span class="meta-item">▲ {item["points"]} pts</span>')
+    if item.get("comments") is not None:
+        meta_parts.append(f'<span class="meta-item">💬 {item["comments"]}</span>')
+
+    domain = ""
+    if url:
+        try:
+            from urllib.parse import urlparse
+            domain = urlparse(url).netloc.replace("www.", "")
+        except Exception:
+            pass
+        meta_parts.append(f'<span class="url">{_escape(domain)}</span>')
+
+    meta_html = ""
+    if meta_parts:
+        meta_html = f'<div class="meta-row">{"".join(meta_parts)}</div>'
+
+    return _NEWS_CARD_TEMPLATE.format(
+        accent=accent,
+        source=source,
+        date_str=_escape(date_str),
+        title_en=title_en,
+        title_zh=title_zh,
+        summary_zh=summary_zh,
+        meta_html=meta_html,
+    )
+
+
+def generate_news_card(
+    item: dict,
+    out_path: Path,
+    date_str: str = "",
+) -> bool:
+    """生成 HN / a16z 新闻双语卡片 PNG，返回是否成功。"""
+    html_content = make_news_card_html(item, date_str=date_str)
+    return capture_card(html_content, out_path, width=692)  # 660px + 16px padding×2

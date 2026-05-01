@@ -125,6 +125,51 @@ gh run list --workflow="📱 AI 日报" --limit 3
 
 ---
 
+## HN & a16z 日报（第三功能）
+
+### 触发时间
+- 北京时间 09:00（每天早报）
+- 工作流：`.github/workflows/news_digest.yml`
+- 脚本：`scripts/news_digest.py`（主流程）+ `scripts/fetch_news.py`（抓取模块）
+
+### 流程
+```
+HackerNews API Top N（过滤无URL条目，取有外链帖子）
+a16z RSS Feed Latest N（备用：HTML抓取 a16z.com/posts）
+    ↓ 抓取正文摘要（前1000字）
+LLM 批量翻译标题 + 生成中文摘要（一次 API 调用）
+    ↓
+card_generator.generate_news_card() → PNG 卡片
+    ↓ 简洁双语卡片：原文标题 / 中文标题 / 摘要 / 来源/评论数
+飞书推送（App API 图片消息 + 文字链接；降级 Webhook 纯文字）
+```
+
+### 卡片设计
+- **HackerNews**：橙色主题（`#FF6900`），显示分数+评论数
+- **a16z**：紫色主题（`#6B5CE7`），显示域名
+- 双语展示：英文原题（黑色）+ 中文翻译（彩色）
+- 底部：中文摘要 80-120 字
+
+### 手动触发
+```bash
+gh workflow run "📰 HN & a16z 日报" --field hn=8 --field a16z=5
+gh run list --workflow="📰 HN & a16z 日报" --limit 3
+```
+
+### 本地调试
+```bash
+export LLM_API_KEY="..."
+export FEISHU_APP_ID="..." FEISHU_APP_SECRET="..." FEISHU_USER_ID="..."
+# 完整运行
+python scripts/news_digest.py --hn 5 --a16z 5
+# 预览不发送
+python scripts/news_digest.py --dry-run
+# 跳过图片（纯文字）
+python scripts/news_digest.py --no-card --dry-run
+```
+
+---
+
 ## LLM 配置
 
 | 环境变量 | 说明 |
@@ -132,5 +177,8 @@ gh run list --workflow="📱 AI 日报" --limit 3
 | `LLM_API_KEY` | OpenAI 兼容 API Key |
 | `LLM_BASE_URL` | API 基础 URL（默认 `https://api.openai.com/v1`）|
 | `LLM_MODEL` | 模型名（默认 `gpt-4o-mini`）|
-| `FEISHU_WEBHOOK` | 飞书自定义机器人 Webhook URL（可选，不填则跳过推送）|
+| `FEISHU_WEBHOOK` | 飞书自定义机器人 Webhook URL（可选，降级使用）|
+| `FEISHU_APP_ID` | 飞书 App ID（发私信图片必需）|
+| `FEISHU_APP_SECRET` | 飞书 App Secret（发私信图片必需）|
+| `FEISHU_USER_ID` | 飞书接收人 User ID（私信目标）|
 | `DASHSCOPE_API_KEY` | 阿里云 DashScope（备用）|

@@ -1,0 +1,87 @@
+name: 📰 HN & a16z 日报
+
+on:
+  schedule:
+    # 北京时间 09:00（UTC 01:00）— 早上推送
+    - cron: "0 1 * * *"
+    # 北京时间 21:00（UTC 13:00）— 晚上推送（可选，删除此行则只推早报）
+    # - cron: "0 13 * * *"
+  workflow_dispatch:
+    inputs:
+      hn:
+        description: "HackerNews 条数（默认5）"
+        required: false
+        default: "5"
+      a16z:
+        description: "a16z 条数（默认5）"
+        required: false
+        default: "5"
+      no_card:
+        description: "跳过卡片图片（true/false）"
+        required: false
+        default: "false"
+
+permissions:
+  contents: write   # 提交卡片图片
+
+jobs:
+  news-digest:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+
+    steps:
+      # ── 1. Checkout ──────────────────────────────────────────────────────
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      # ── 2. Python ────────────────────────────────────────────────────────
+      - name: Set up Python 3.12
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install Python dependencies
+        run: pip install -r requirements.txt
+
+      # ── 3. Node.js + Playwright（卡片渲染）──────────────────────────────
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+          cache: npm
+          cache-dependency-path: tools/card/package.json
+
+      - name: Install Playwright
+        working-directory: tools/card
+        run: |
+          npm install
+          npx playwright install --with-deps chromium
+
+      # ── 4. 抓取 → 翻译 → 生成卡片 → 发飞书 ─────────────────────────────
+      - name: Run news digest
+        env:
+          LLM_API_KEY:       ${{ secrets.LLM_API_KEY }}
+          LLM_BASE_URL:      ${{ secrets.LLM_BASE_URL }}
+          LLM_MODEL:         ${{ secrets.LLM_MODEL }}
+          FEISHU_APP_ID:     ${{ secrets.FEISHU_APP_ID }}
+          FEISHU_APP_SECRET: ${{ secrets.FEISHU_APP_SECRET }}
+          FEISHU_USER_ID:    ${{ secrets.FEISHU_USER_ID }}
+          FEISHU_WEBHOOK:    ${{ secrets.FEISHU_WEBHOOK }}
+        run: |
+          python scripts/news_digest.py \
+            --hn ${{ github.event.inputs.hn || '5' }} \
+            --a16z ${{ github.event.inputs.a16z || '5' }} \
+            ${{ github.event.inputs.no_card == 'true' && '--no-card' || '' }}
+
+      # ── 5. 提交卡片图片（可选，方便历史查看）────────────────────────────
+      - name: Commit card images
+        run: |
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --local user.name  "github-actions[bot]"
+          git add assets/ 2>/dev/null || true
+          git diff --staged --quiet || git commit -m "chore: news digest cards $(date +%Y-%m-%d-%H%M) [skip ci]"
+          git pull --rebase origin master
+          git push
