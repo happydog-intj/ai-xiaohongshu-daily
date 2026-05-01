@@ -563,3 +563,251 @@ def generate_summary_card(
     """生成热榜总览卡片 PNG，返回是否成功。"""
     html_content = make_summary_card_html(ai_repos, slot=slot, today_cn=today_cn)
     return capture_card(html_content, out_path)
+
+
+# ══════════════════════════════════════════════════════════════════════════════
+# 飞书风格卡片
+# ══════════════════════════════════════════════════════════════════════════════
+
+_FEISHU_CARD_TEMPLATE = """\
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<style>
+  * {{ margin: 0; padding: 0; box-sizing: border-box; }}
+  html, body {{
+    background: #eef0f4;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    padding: 32px;
+    font-family: -apple-system, "PingFang SC", "Helvetica Neue", Arial, sans-serif;
+    min-height: 100%;
+  }}
+  .card {{
+    background: #ffffff;
+    border-radius: 14px;
+    width: 700px;
+    box-shadow: 0 2px 16px rgba(0,0,0,0.10);
+    overflow: hidden;
+  }}
+
+  /* ── Header ── */
+  .card-header {{
+    background: linear-gradient(135deg, #1456F0 0%, #2294FF 100%);
+    padding: 28px 30px 26px;
+    display: flex;
+    align-items: flex-start;
+    gap: 18px;
+  }}
+  .header-icon {{
+    font-size: 44px;
+    line-height: 1;
+    flex-shrink: 0;
+    margin-top: 2px;
+  }}
+  .header-text {{ flex: 1; min-width: 0; }}
+  .header-title {{
+    font-size: 26px;
+    font-weight: 700;
+    color: #ffffff;
+    line-height: 1.3;
+    letter-spacing: -0.01em;
+    margin-bottom: 7px;
+    word-break: break-all;
+  }}
+  .header-subtitle {{
+    font-size: 17px;
+    color: rgba(255,255,255,0.85);
+    line-height: 1.4;
+    word-break: break-all;
+  }}
+
+  /* ── Source row ── */
+  .source-row {{
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    padding: 14px 30px;
+    background: #f7f9ff;
+    border-bottom: 1px solid #e8edf5;
+  }}
+  .source-dot {{
+    width: 8px; height: 8px;
+    background: #1456F0;
+    border-radius: 50%;
+    flex-shrink: 0;
+  }}
+  .source-label {{
+    font-size: 14px;
+    color: #1456F0;
+    font-weight: 600;
+    letter-spacing: 0.02em;
+  }}
+  .source-date {{
+    font-size: 14px;
+    color: #8a94a8;
+    margin-left: auto;
+  }}
+
+  /* ── Body ── */
+  .card-body {{ padding: 24px 30px 20px; }}
+
+  /* ── Desc block ── */
+  .desc-block {{
+    background: #f7f8fc;
+    border-left: 3px solid #1456F0;
+    border-radius: 0 10px 10px 0;
+    padding: 16px 18px;
+    font-size: 18px;
+    color: #333;
+    line-height: 1.8;
+    margin-bottom: 20px;
+  }}
+
+  /* ── Tags ── */
+  .tags-row {{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    margin-top: 4px;
+  }}
+  .tag {{
+    background: #f0f5ff;
+    border: 1px solid #d0e1fd;
+    border-radius: 20px;
+    padding: 5px 14px;
+    font-size: 14px;
+    color: #2b4ea8;
+    font-weight: 500;
+  }}
+
+  /* ── Footer ── */
+  .card-footer {{
+    background: #f7f8fc;
+    border-top: 1px solid #eaecf3;
+    padding: 14px 30px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+  }}
+  .footer-source {{
+    font-size: 14px;
+    color: #b0b8c8;
+    letter-spacing: 0.02em;
+  }}
+</style>
+</head>
+<body>
+<div class="card">
+  <div class="card-header">
+    <div class="header-icon">{icon}</div>
+    <div class="header-text">
+      <div class="header-title">{title}</div>
+      {subtitle_html}
+    </div>
+  </div>
+  <div class="source-row">
+    <div class="source-dot"></div>
+    <span class="source-label">{eyebrow}</span>
+    <span class="source-date">{date_str}</span>
+  </div>
+  <div class="card-body">
+    <div class="desc-block">{body_excerpt}</div>
+    {tags_html}
+  </div>
+  <div class="card-footer">
+    <span class="footer-source">{source}</span>
+  </div>
+</div>
+</body>
+</html>
+"""
+
+_TOPIC_ICONS = {
+    "llm": "🧠", "agent": "🤖", "model": "🧬", "code": "💻",
+    "search": "🔍", "image": "🎨", "video": "🎬", "audio": "🎵",
+    "rag": "📚", "memory": "💾", "tool": "🔧", "deploy": "🚀",
+    "data": "📊", "security": "🔐", "robot": "🦾", "chat": "💬",
+}
+
+def _pick_icon(post: dict) -> str:
+    """根据 topic/tags 选一个合适的 emoji 图标。"""
+    text = " ".join([
+        post.get("topic", ""),
+        " ".join(post.get("tags", [])),
+        post.get("body", "")[:100],
+    ]).lower()
+    for kw, icon in _TOPIC_ICONS.items():
+        if kw in text:
+            return icon
+    return "✨"
+
+def _body_excerpt(body: str, max_chars: int = 200) -> str:
+    """取正文前几段（不超过 max_chars 字），用于飞书卡片摘要。"""
+    paragraphs = [p.strip() for p in body.split("\n") if p.strip()]
+    result = ""
+    for p in paragraphs:
+        if len(result) + len(p) > max_chars:
+            break
+        result = (result + p) if not result else result + "\n" + p
+    return _escape(result or body[:max_chars])
+
+def make_feishu_card_html(
+    post: dict,
+    eyebrow: str = "AI日报",
+    source: str = "AI日报",
+    date_str: str = "",
+) -> str:
+    """生成飞书风格卡片 HTML（600px 宽，蓝色渐变 Header）。"""
+    import datetime, re as _re
+    if not date_str:
+        date_str = datetime.datetime.now().strftime("%Y.%m.%d")
+
+    title   = _escape(post.get("cover_line1", post.get("topic", "")))
+    line2   = post.get("cover_line2", "")
+    subtitle_html = (
+        f'<div class="header-subtitle">{_escape(line2)}</div>' if line2 else ""
+    )
+
+    # 正文摘要（去掉 markdown 符号）
+    body_raw = post.get("body", "")
+    body_clean = _re.sub(r"[*_`#>\[\]]+", "", body_raw)
+    excerpt = _body_excerpt(body_clean)
+
+    # Tags
+    tags = post.get("tags", [])[:8]
+    tags_html = ""
+    if tags:
+        badges = "".join(
+            f'<span class="tag">#{_escape(t.lstrip("#"))}</span>' for t in tags
+        )
+        tags_html = f'<div class="tags-row">{badges}</div>'
+
+    icon = _pick_icon(post)
+
+    return _FEISHU_CARD_TEMPLATE.format(
+        icon=icon,
+        title=title,
+        subtitle_html=subtitle_html,
+        eyebrow=_escape(eyebrow),
+        date_str=_escape(date_str),
+        body_excerpt=excerpt,
+        tags_html=tags_html,
+        source=_escape(source),
+    )
+
+
+def generate_feishu_card(
+    post: dict,
+    out_path: Path,
+    eyebrow: str = "AI日报",
+    source: str = "AI日报",
+    date_str: str = "",
+) -> bool:
+    """生成飞书风格卡片 PNG（764px 宽），返回是否成功。"""
+    html_content = make_feishu_card_html(
+        post, eyebrow=eyebrow, source=source, date_str=date_str
+    )
+    return capture_card(html_content, out_path, width=764)

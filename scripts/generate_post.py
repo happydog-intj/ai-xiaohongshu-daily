@@ -16,6 +16,10 @@ from pathlib import Path
 
 import requests
 
+# ── card_generator（同目录）────────────────────────────────────────────────────
+sys.path.insert(0, str(Path(__file__).parent))
+from card_generator import generate_post_card, generate_feishu_card, THEME_TECH  # noqa: E402
+
 # ── 时区 & 常量 ────────────────────────────────────────────────────────────────
 CST     = timezone(timedelta(hours=8))
 TODAY   = datetime.now(CST).strftime("%Y-%m-%d")
@@ -425,21 +429,25 @@ def make_cover_image(line1: str, line2: str, index: int, out_path: Path) -> bool
 
 
 def generate_cover_images(posts: list[dict]) -> list[str | None]:
-    """为所有帖子生成封面图"""
-    print("🎨 Generating cover images (Pillow)…")
+    """为所有帖子生成两种封面图：ljg-card 长图 + 飞书卡片"""
+    print("🎨 Generating cover images (ljg-card + 飞书卡片)…")
     image_paths: list[str | None] = []
 
     for i, post in enumerate(posts, 1):
-        line1 = post.get("cover_line1", post.get("topic", "AI 热点"))
-        line2 = post.get("cover_line2", TODAY_CN)
-        dest  = ASSETS_DIR / f"cover{i}.png"
+        eyebrow = f"AI日报 · {TODAY_CN}"
+        dest_ljg    = ASSETS_DIR / f"cover{i}.png"
+        dest_feishu = ASSETS_DIR / f"cover{i}_feishu.png"
 
-        ok = make_cover_image(line1, line2, i, dest)
-        if ok:
-            print(f"  ✅ cover{i}.png → {line1} / {line2}")
-            image_paths.append(str(dest))
-        else:
-            image_paths.append(None)
+        ok_ljg = generate_post_card(post, dest_ljg, eyebrow=eyebrow, theme=THEME_TECH)
+        ok_fei = generate_feishu_card(post, dest_feishu, eyebrow="AI日报",
+                                      source="AI日报", date_str=TODAY_CN)
+
+        if ok_ljg:
+            print(f"  ✅ cover{i}.png (ljg-card)")
+        if ok_fei:
+            print(f"  ✅ cover{i}_feishu.png (飞书卡片)")
+
+        image_paths.append(str(dest_ljg) if ok_ljg else None)
 
     return image_paths
 
@@ -504,12 +512,25 @@ def build_issue_body(
         # 封面标题
         parts += ["**📌 封面标题：**", "```", f"{line1}", f"{line2}", "```", ""]
 
-        # 封面图
+        # 封面图（两种风格）
         if img_path and GITHUB_REPO:
             raw_url = (
                 f"https://raw.githubusercontent.com/{GITHUB_REPO}/{branch}/{img_path}"
             )
-            parts += [f"**🖼️ 封面图：**", f"![cover{i}]({raw_url})", ""]
+            feishu_path = str(img_path).replace(f"cover{i}.png", f"cover{i}_feishu.png")
+            feishu_url  = (
+                f"https://raw.githubusercontent.com/{GITHUB_REPO}/{branch}/{feishu_path}"
+            )
+            parts += [
+                "**🖼️ 封面图（两种风格，任选其一）：**",
+                "",
+                f"**ljg-card 长图：**",
+                f"![cover{i}_ljg]({raw_url})",
+                "",
+                f"**飞书卡片：**",
+                f"![cover{i}_feishu]({feishu_url})",
+                "",
+            ]
 
         # 正文
         parts += ["**📝 正文：**", "", post.get("body", ""), ""]

@@ -17,6 +17,13 @@ from pathlib import Path
 import requests
 from bs4 import BeautifulSoup
 
+# ── card_generator（同目录）────────────────────────────────────────────────────
+sys.path.insert(0, str(Path(__file__).parent))
+from card_generator import (  # noqa: E402
+    generate_post_card, generate_summary_card,
+    generate_feishu_card, THEME_TECH, THEME_WARM,
+)
+
 # ── 时区 & 常量 ─────────────────────────────────────────────────────────────
 CST      = timezone(timedelta(hours=8))
 NOW      = datetime.now(CST)
@@ -774,13 +781,26 @@ def build_issue_body(
         # 封面标题
         parts += ["**📌 封面标题：**", "```", line1, line2, "```", ""]
 
-        # 帖子正文封面图
+        # 帖子正文封面图（两种风格）
         post_img = post_imgs[i - 1] if i - 1 < len(post_imgs) else None
         if post_img and GITHUB_REPO:
             raw_url = (
                 f"https://raw.githubusercontent.com/{GITHUB_REPO}/{branch}/{post_img}"
             )
-            parts += [f"**🖼️ 封面图：**", f"![post{i}]({raw_url})", ""]
+            feishu_img = post_img.replace(f"post{i}.png", f"post{i}_feishu.png")
+            feishu_url = (
+                f"https://raw.githubusercontent.com/{GITHUB_REPO}/{branch}/{feishu_img}"
+            )
+            parts += [
+                "**🖼️ 封面图（两种风格，任选其一）：**",
+                "",
+                "**ljg-card 长图：**",
+                f"![post{i}_ljg]({raw_url})",
+                "",
+                "**飞书卡片：**",
+                f"![post{i}_feishu]({feishu_url})",
+                "",
+            ]
 
         # 正文
         parts += ["**📝 正文：**", "", post.get("body", ""), ""]
@@ -986,29 +1006,37 @@ def phase_generate(since: str = "daily", top_n: int = 10, max_posts: int = 4) ->
         print("❌ No posts generated. Exiting.")
         sys.exit(1)
 
-    # 4. 生成封面图
-    print("🎨 Generating trending cover images (Pillow)…")
-    trending_dir  = ASSETS_DIR / "trending"
+    # 4. 生成封面图（ljg-card + 飞书卡片 两种风格）
+    print("🎨 Generating trending cover images (ljg-card + 飞书卡片)…")
+    trending_dir = ASSETS_DIR / "trending"
+    trending_dir.mkdir(parents=True, exist_ok=True)
     image_paths: list[str | None] = []
 
-    # 4a. 热榜总览封面图
+    # 4a. 热榜总览封面图（仅 ljg-card 长图；飞书卡片不适合列表型总览）
     summary_path = trending_dir / "summary.png"
-    ok = make_summary_cover(ai_repos, SLOT, TODAY_CN, summary_path)
+    ok = generate_summary_card(ai_repos, summary_path, slot=SLOT, today_cn=TODAY_CN)
     if ok:
         print(f"  ✅ summary.png → {summary_path}")
         image_paths.append(str(summary_path))
     else:
         image_paths.append(None)
 
-    # 4b. 各帖子正文封面图
+    # 4b. 各帖子封面图（两种风格）
+    eyebrow = f"GitHub Trending · {TODAY_CN} · {SLOT}"
     for i, post in enumerate(posts, 1):
-        post_path = trending_dir / f"post{i}.png"
-        ok = make_post_body_cover(post, i, post_path)
-        if ok:
-            print(f"  ✅ post{i}.png → {post_path}")
-            image_paths.append(str(post_path))
-        else:
-            image_paths.append(None)
+        ljg_path    = trending_dir / f"post{i}.png"
+        feishu_path = trending_dir / f"post{i}_feishu.png"
+
+        ok_ljg = generate_post_card(post, ljg_path, eyebrow=eyebrow, theme=THEME_TECH)
+        ok_fei = generate_feishu_card(post, feishu_path, eyebrow="GitHub Trending",
+                                      source="GitHub Trending", date_str=TODAY_CN)
+
+        if ok_ljg:
+            print(f"  ✅ post{i}.png (ljg-card)")
+        if ok_fei:
+            print(f"  ✅ post{i}_feishu.png (飞书卡片)")
+
+        image_paths.append(str(ljg_path) if ok_ljg else None)
 
     # 5. 保存中间数据（含 image_paths 字段）
     DATA_FILE.write_text(
