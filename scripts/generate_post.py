@@ -634,11 +634,21 @@ def _feishu_upload_image(token: str, img_path: str) -> str:
         return ""
 
 
+def _feishu_id_type(user_id: str) -> str:
+    """根据前缀自动判断 Feishu user_id 类型。"""
+    if user_id.startswith("on_"):
+        return "union_id"
+    if user_id.startswith("oc_"):
+        return "chat_id"
+    return "open_id"   # ou_ 默认
+
+
 def _feishu_send_image(token: str, user_id: str, image_key: str) -> bool:
-    """用 Feishu Bot API 向指定 open_id 发一条图片消息。"""
+    """用 Feishu Bot API 向指定用户发一条图片消息（自动识别 id 类型）。"""
+    id_type = _feishu_id_type(user_id)
     try:
         resp = requests.post(
-            "https://open.feishu.cn/open-apis/im/v1/messages?receive_id_type=open_id",
+            f"https://open.feishu.cn/open-apis/im/v1/messages?receive_id_type={id_type}",
             headers={
                 "Authorization": f"Bearer {token}",
                 "Content-Type": "application/json",
@@ -653,7 +663,7 @@ def _feishu_send_image(token: str, user_id: str, image_key: str) -> bool:
         body = resp.json()
         if resp.status_code == 200 and body.get("code") == 0:
             return True
-        print(f"  ⚠️  Feishu API error: code={body.get('code')} msg={body.get('msg')} user={user_id[:8]}...")
+        print(f"  ⚠️  Feishu API error: code={body.get('code')} msg={body.get('msg')} id_type={id_type}")
         return False
     except Exception as e:
         print(f"  ⚠️  Feishu send image exception: {e}")
