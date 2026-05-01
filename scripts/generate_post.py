@@ -690,8 +690,12 @@ def _feishu_send_image_to_webhook(image_key: str) -> bool:
         return False
 
 
-def send_feishu_notify(posts: list[dict], feishu_image_paths: list[str | None] | None = None) -> None:
-    """将每篇帖子作为独立飞书消息发出；若配置了 Bot API 则上传图片后通过 Webhook 发到群。"""
+def send_feishu_notify(
+    posts: list[dict],
+    ljg_image_paths: list[str | None] | None = None,
+    feishu_image_paths: list[str | None] | None = None,
+) -> None:
+    """将每篇帖子作为独立飞书消息发出，同时发两张封面图（ljg-card 长图 + 飞书卡片）到群。"""
     if not FEISHU_WEBHOOK:
         print("  ⚠️  FEISHU_WEBHOOK not set, skipping Feishu notification")
         return
@@ -738,14 +742,20 @@ def send_feishu_notify(posts: list[dict], feishu_image_paths: list[str | None] |
         except Exception as e:
             print(f"  ⚠️  帖子{i} 发送异常: {e}")
 
-        # 发飞书卡片图（上传 → image_key → Webhook 发到群）
-        if use_api and feishu_image_paths and i - 1 < len(feishu_image_paths):
-            fei_path = feishu_image_paths[i - 1]
-            if fei_path and Path(fei_path).exists():
-                image_key = _feishu_upload_image(api_token, fei_path)
-                if image_key:
-                    ok = _feishu_send_image_to_webhook(image_key)
-                    print(f"  {'✅' if ok else '⚠️'} 帖子{i} 飞书卡片图{'已发到群' if ok else '发送失败'}")
+        def _send_cover(path_list, label):
+            if not (use_api and path_list and i - 1 < len(path_list)):
+                return
+            p = path_list[i - 1]
+            if p and Path(p).exists():
+                key = _feishu_upload_image(api_token, p)
+                if key:
+                    ok = _feishu_send_image_to_webhook(key)
+                    print(f"  {'✅' if ok else '⚠️'} 帖子{i} {label}{'已发到群' if ok else '发送失败'}")
+
+        # 发 ljg-card 长图
+        _send_cover(ljg_image_paths, "ljg-card 长图 ")
+        # 发飞书卡片图
+        _send_cover(feishu_image_paths, "飞书卡片图 ")
 
 
 def phase_notify() -> None:
@@ -757,8 +767,9 @@ def phase_notify() -> None:
 
     data          = json.loads(DATA_FILE.read_text(encoding="utf-8"))
     posts         = data["posts"]
+    ljg_paths     = data.get("image_paths")
     feishu_paths  = data.get("feishu_image_paths")
-    send_feishu_notify(posts, feishu_image_paths=feishu_paths)
+    send_feishu_notify(posts, ljg_image_paths=ljg_paths, feishu_image_paths=feishu_paths)
     print("  🎉 Feishu notify done")
 
 
