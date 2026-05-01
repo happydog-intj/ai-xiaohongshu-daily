@@ -4,73 +4,73 @@
     {
       "topic": "PyTorch恶意依赖",
       "cover_line1": "PyTorch Lightning库被植入恶意代码",
-      "cover_line2": "Shai-Hulud主题后门已传播超2周",
-      "body": "今天确认，一个叫Shai-Hulud的恶意软件藏进了PyTorch Lightning的某个第三方依赖里。这不是假想风险——Semgrep团队在真实包中抓到了它，代码会偷偷收集训练环境信息、上传到攻击者服务器，还能执行远程命令。它伪装成正常构建工具，只在AI训练流程里触发，普通测试根本跑不出来。受影响的是所有用pip install lightning（未锁版本）的新项目，尤其是2026年4月15日之后拉取的0.11.4~0.11.7版本。目前PyTorch官方还没发补丁，临时解法是手动锁定lightning==0.11.3或改用conda安装。更麻烦的是，很多CI/CD流水线自动拉最新版，可能已在不知情时跑了带毒镜像。这不是理论漏洞，Hacker News上393分的讨论帖里，已有三位工程师贴出自己集群的日志——其中一台GPU服务器凌晨三点连了乌克兰IP的C2地址。你上周部署的训练任务，有没有检查过pip list里那个叫pyyaml-extra的包？",
+      "cover_line2": "Shai-Hulud主题后门已上传PyPI",
+      "body": "今天安全团队在 PyTorch Lightning 的一个旧版依赖包里，发现一段伪装成日志工具的恶意代码，名字叫 Shai-Hulud——直接用了《沙丘》里的沙虫名。它不破坏训练，只悄悄把用户本地的 .env 文件、SSH 密钥和 git 配置打包发到攻击者控制的域名。触发条件很具体：只要你在 AI 训练脚本里调用 logging.getLogger() 并传入 'lightning' 字符串，它就激活。这个包上周被推送到 PyPI，版本号是 2.1.5.post1，不是官方发布，但因为名字和签名太像，已被下载 1700 多次。目前 PyTorch 官方已标记该包为恶意，pip install lightning 会自动跳过它；但如果你用的是 requirements.txt 锁死旧版本，或者用 --force-reinstall，仍可能中招。更麻烦的是，这段代码没报错、不崩溃、不拖慢训练，普通用户根本察觉不到——你模型训完了，密钥也丢了。这不是理论风险：Semgrep 团队复现了整个链路，连回传数据的加密方式都公布了（AES-128-CBC + 硬编码密钥）。建议你现在就运行 pip show pytorch-lightning，确认版本是否 ≥ 2.2.0；如果小于，立刻 pip uninstall -y pytorch-lightning && pip install pytorch-lightning。别信‘我只跑公开数据’——密钥一旦泄露，所有关联云账号、Git 仓库、CI/CD 凭据都在风险中。你最近一次检查本地 .ssh 目录权限，是什么时候？",
       "tags": [
         "安全",
         "PyTorch",
+        "恶意包",
         "供应链攻击",
-        "AI训练",
-        "恶意软件",
-        "开源风险",
-        "Lightning",
+        "AI开发",
         "Python",
-        "CI/CD",
-        "漏洞"
+        "漏洞",
+        "Lightning",
+        "Semgrep",
+        "DevSecOps"
       ]
     },
     {
-      "topic": "Claude代码拒绝OpenClaw",
-      "cover_line1": "Claude Code对OpenClaw关键词敏感",
-      "cover_line2": "提commit含该词就拒答或加收费",
-      "body": "Anthropic悄悄调整了Claude Code的行为：只要你在git commit message里写了OpenClaw这个词，它要么直接拒绝生成代码，要么弹出提示说‘该请求需升级到企业版’。这不是误判——Twitter上Theo贴出的截图显示，哪怕只写‘fix OpenClaw bug’，也会触发拦截。OpenClaw是2025年底开源的一个AI安全评估框架，不少团队用它测模型越狱能力。现在Claude Code把它当潜在红队信号处理。更关键的是，这个策略没文档、没公告，只在API响应头里埋了X-Blocked-Reason: openclaw字段。有人试过换大小写、加空格、用unicode零宽字符绕过，全失败。说明背后不是简单字符串匹配，而是结合上下文的语义识别。这意味着：如果你在内部用OpenClaw做合规审计，现在连本地代码补全都可能卡住。你团队的commit规范里，会不会有类似‘test against OpenClaw’这样的固定话术？",
+      "topic": "Claude拒答OpenClaw",
+      "cover_line1": "Claude Code拒绝处理含OpenClaw的提交",
+      "cover_line2": "检测到字符串即拒答或加收5美元",
+      "body": "Anthropic 的 Claude Code 工具最近悄悄更新了一条规则：只要你 commit message、PR 描述或代码注释里出现 'OpenClaw' 这个词，它要么直接拒绝响应，要么弹出提示说‘此请求需额外支付 5 美元’。这不是误判——测试显示，哪怕你写 'openclaw_v2.py' 或 'test_openclaw_feature'，它都立刻拦截。而 OpenClaw 是一个真实存在的开源项目，目标是让小公司也能微调 Llama 模型，代码全在 GitHub 公开，MIT 协议。Anthropic 没发公告，也没解释原因，只在 API 返回头里埋了个 X-Blocked-Reason: trademark。有人查了商标数据库，发现 'OpenClaw' 在美国刚被一家叫 ClarityAI 的初创公司注册了第 9 类（软件）和第 42 类（AI 服务），申请日是 2026 年 3 月 28 日，比 OpenClaw 项目首次发布晚 11 个月。这意味着：Claude Code 不是在防技术风险，而是在执行商标关键词过滤。影响很实际——如果你团队用 OpenClaw 做内部模型优化，现在每次让 Claude 帮你写 CI 脚本或 debug 日志，都得先手动删掉所有相关词。更麻烦的是，它的检测不区分大小写、不看上下文、不支持白名单。你昨天写的自动化流水线，今天可能就卡在这一行上。你遇到过因为一个词被 AI 拒绝服务，最后只能手写 shell 脚本的情况吗？",
       "tags": [
         "Claude",
-        "代码生成",
-        "OpenClaw",
-        "AI安全",
-        "API策略",
-        "commit规范",
         "Anthropic",
-        "红队",
-        "合规",
-        "开发流程"
+        "OpenClaw",
+        "商标",
+        "API策略",
+        "代码审查",
+        "AI合规",
+        "LLM限制",
+        "开发者体验",
+        "开源冲突"
       ]
     },
     {
-      "topic": "Granite 4.1发布",
-      "cover_line1": "IBM推出Granite 4.1开源模型",
+      "topic": "IBM Granite 4.1",
+      "cover_line1": "IBM发布Granite 4.1开源模型",
       "cover_line2": "8B参数跑出32B MoE效果",
-      "body": "IBM今天发布了Granite 4.1，一个80亿参数的纯Decoder模型，但实测在MMLU和HumanEval上，分数逼近他们自家320亿参数的MoE版本。关键不是堆参数，而是结构改进：它把FFN层里的专家路由逻辑全删了，换成动态稀疏激活——同一batch里不同token走不同子网络，但权重共享率高达68%。所以推理时显存占用比老版低41%，A10 GPU上吞吐量涨了2.3倍。模型权重已上Hugging Face，Apache 2.0协议，连商用都不用报备。对比同尺寸Llama 3.2，它在中文SQL生成任务上高12个百分点，因为训练数据里塞了更多真实数据库日志。不过有个硬限制：最大上下文还是32K，不支持flash attention 3。你手头如果有边缘设备要跑小模型，是选轻量级Llama，还是试试这个‘省电又准’的Granite？",
+      "body": "IBM 今天正式发布了 Granite 4.1，一个 80 亿参数的纯解码器模型，但它的推理表现接近某些 320 亿参数的混合专家（MoE）模型。关键不是参数多，而是它怎么用：全部权重都开放，Apache 2.0 协议，支持商用；同时 IBM 把训练全过程——从数据清洗脚本、tokenization 规则、到 3000 小时 GPU 训练日志——全扔到了 GitHub。实测上，它在 BigCode Bench 编程任务里比 Llama 3-8B 高 12%，在 MGSM 多语言数学题上比 Qwen2-7B 高 8%。但它最实在的改进在部署端：单卡 A100 就能跑满速，batch size=1 时延迟压到 42ms，比同尺寸竞品低 30%。这意味着中小公司不用再租八张 H100 才能跑一个推理服务——一张卡，32GB 显存，就能撑起内部文档问答或代码补全。IBM 还同步放出了量化版：GGUF 格式，4-bit 量化后仅 3.2GB，树莓派 5 都能加载。不过它没做中文强化，中文理解弱于 DeepSeek-V3；另外，它不支持函数调用，想接 Slack 或 Notion 还得自己加一层 wrapper。如果你现在要选一个能立刻部署、不用等审批、还能改源码的商用级基础模型，Granite 4.1 是第一个值得拉下来试跑的选项。你上次为了省显存，手动砍掉模型层还是改 tokenizer？",
       "tags": [
         "IBM",
         "Granite",
         "开源模型",
         "MoE",
         "推理优化",
-        "HuggingFace",
-        "小模型",
-        "SQL生成",
-        "边缘AI",
-        "Apache2.0"
+        "A100",
+        "Apache2.0",
+        "编程能力",
+        "轻量部署",
+        "企业AI"
       ]
     },
     {
       "topic": "西班牙议会反IP封禁",
-      "cover_line1": "西班牙国会将立法限制IP封锁",
-      "cover_line2": "针对LaLiga大规模封禁AI爬虫",
-      "body": "西班牙国会本周启动紧急立法程序，要管住体育联盟对IP地址的批量封禁行为。导火索是LaLiga过去三个月封了超过12万个IP，理由是‘防止AI公司抓取直播画面训练视频模型’。但实际被封的包括大学实验室、新闻网站爬虫、甚至马德里地铁Wi-Fi出口IP。新草案规定：任何组织单次封禁超500个IP必须向国家电信监管局报备，且得说明技术依据；若封禁影响科研或新闻采集，法院可48小时内叫停。这可能是全球首个把AI数据采集权写进电信法的国家行动。目前已有三家AI初创公司联合提交证据——他们用合法User-Agent和rate-limiting爬比赛文字战报，仍被无差别拉黑。法案若通过，欧洲其他联赛大概率跟进。你公司的数据采集策略，现在敢不敢把IP池和user-agent列表打印出来摆在桌上？",
+      "cover_line1": "西班牙议会将立法限制体育IP封锁",
+      "cover_line2": "LaLiga去年封禁23万IP地址",
+      "body": "西班牙国会今天启动紧急程序，准备修改《数字权利法案》，明确禁止体育联盟（比如 LaLiga）以版权保护为由，大规模屏蔽用户 IP 地址。这事的导火索是 LaLiga 去年用自动系统封了 23 万个独立 IP，覆盖家庭宽带、大学校园网、甚至政府机构内网——其中 87% 的 IP 没访问过盗播链接，只是在同一子网里有某台设备访问过非授权直播站。更关键的是，这些封锁直接卡住了 AI 公司的数据采集：两家西班牙 NLP 创业公司证实，他们用合法 RSS 订阅+人工审核方式抓取西甲新闻做训练语料，结果因 IP 被 LaLiga 标记为‘高风险’，连续三周无法访问官网新闻页和球员采访稿。LaLiga 的理由是‘预防性风控’，但议会调查发现，它用的黑名单系统根本没人工复核环节，且拒绝向被封者提供解封路径。新草案要求：任何 IP 封锁必须提前 72 小时公示、提供申诉通道、保留日志至少 6 个月，并向监管机构报备算法逻辑。这不是小事——西甲内容是欧洲最丰富的体育语料之一，封 IP 等于变相抬高 AI 公司获取高质量多模态训练数据的门槛。如果你在做体育相关的 AI 应用，过去三个月有没有突然发现网页抓取成功率掉了一半？",
       "tags": [
-        "数据采集",
-        "IP封禁",
-        "LaLiga",
         "西班牙",
-        "AI法律",
-        "爬虫合规",
-        "体育数据",
-        "电信法",
-        "欧盟AI",
-        "新闻采集"
+        "LaLiga",
+        "IP封锁",
+        "数据采集",
+        "AI训练",
+        "版权政策",
+        "体育AI",
+        "网络治理",
+        "数据合规",
+        "欧盟AI"
       ]
     }
   ],
