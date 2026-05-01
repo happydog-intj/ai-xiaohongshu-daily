@@ -1,0 +1,12 @@
+{
+  "name": "ai-daily-card-capture",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Playwright-based HTML-to-PNG capture for AI日报 cards",
+  "scripts": {
+    "install-browsers": "playwright install --with-deps chromium"
+  },
+  "dependencies": {
+    "playwright": "^1.44.0"
+  }
+}
