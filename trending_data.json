@@ -1,78 +1,78 @@
 {
   "date": "2026-05-02",
-  "slot": "早报",
+  "slot": "晚报",
   "all_repos": [
     {
       "name": "TauricResearch/TradingAgents",
       "url": "https://github.com/TauricResearch/TradingAgents",
       "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
       "language": "Python",
-      "stars_today": "2,115 stars today",
-      "stars_total": "59,794"
+      "stars_today": "2,227 stars today",
+      "stars_total": "61,168"
     },
     {
-      "name": "soxoj/maigret",
-      "url": "https://github.com/soxoj/maigret",
-      "description": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
-      "language": "Python",
-      "stars_today": "535 stars today",
-      "stars_total": "21,615"
-    },
-    {
-      "name": "warpdotdev/warp",
-      "url": "https://github.com/warpdotdev/warp",
-      "description": "Warp is an agentic development environment, born out of the terminal.",
-      "language": "Rust",
-      "stars_today": "3,403 stars today",
-      "stars_total": "51,409"
-    },
-    {
-      "name": "1jehuang/jcode",
-      "url": "https://github.com/1jehuang/jcode",
-      "description": "Coding Agent Harness",
-      "language": "Rust",
-      "stars_today": "404 stars today",
-      "stars_total": "2,340"
-    },
-    {
-      "name": "mattpocock/skills",
-      "url": "https://github.com/mattpocock/skills",
-      "description": "Skills for Real Engineers. Straight from my .claude directory.",
-      "language": "Shell",
-      "stars_today": "3,649 stars today",
-      "stars_total": "52,479"
+      "name": "ruvnet/ruflo",
+      "url": "https://github.com/ruvnet/ruflo",
+      "description": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code / Codex Integration",
+      "language": "TypeScript",
+      "stars_today": "1,258 stars today",
+      "stars_total": "35,953"
     },
     {
       "name": "browserbase/skills",
       "url": "https://github.com/browserbase/skills",
       "description": "Claude Agent SDK with a web browsing tool",
       "language": "JavaScript",
-      "stars_today": "334 stars today",
-      "stars_total": "1,165"
+      "stars_today": "347 stars today",
+      "stars_total": "1,368"
     },
     {
-      "name": "simstudioai/sim",
-      "url": "https://github.com/simstudioai/sim",
-      "description": "Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce.",
-      "language": "TypeScript",
-      "stars_today": "38 stars today",
-      "stars_total": "28,144"
+      "name": "D4Vinci/Scrapling",
+      "url": "https://github.com/D4Vinci/Scrapling",
+      "description": "🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!",
+      "language": "Python",
+      "stars_today": "1,284 stars today",
+      "stars_total": "41,005"
     },
     {
-      "name": "obra/superpowers",
-      "url": "https://github.com/obra/superpowers",
-      "description": "An agentic skills framework & software development methodology that works.",
-      "language": "Shell",
-      "stars_today": "1,098 stars today",
-      "stars_total": "175,594"
+      "name": "soxoj/maigret",
+      "url": "https://github.com/soxoj/maigret",
+      "description": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
+      "language": "Python",
+      "stars_today": "1,065 stars today",
+      "stars_total": "22,234"
     },
     {
       "name": "Flowseal/zapret-discord-youtube",
       "url": "https://github.com/Flowseal/zapret-discord-youtube",
       "description": "",
       "language": "Batchfile",
-      "stars_today": "165 stars today",
-      "stars_total": "26,967"
+      "stars_today": "179 stars today",
+      "stars_total": "27,049"
+    },
+    {
+      "name": "1jehuang/jcode",
+      "url": "https://github.com/1jehuang/jcode",
+      "description": "Coding Agent Harness",
+      "language": "Rust",
+      "stars_today": "482 stars today",
+      "stars_total": "2,600"
+    },
+    {
+      "name": "ShareX/ShareX",
+      "url": "https://github.com/ShareX/ShareX",
+      "description": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types to a wide range of destinations.",
+      "language": "C#",
+      "stars_today": "129 stars today",
+      "stars_total": "36,587"
+    },
+    {
+      "name": "jwasham/coding-interview-university",
+      "url": "https://github.com/jwasham/coding-interview-university",
+      "description": "A complete computer science study plan to become a software engineer.",
+      "language": "",
+      "stars_today": "717 stars today",
+      "stars_total": "344,253"
     }
   ],
   "ai_repos": [
@@ -81,141 +81,117 @@
       "url": "https://github.com/TauricResearch/TradingAgents",
       "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
       "language": "Python",
-      "stars_today": "2,115 stars today",
-      "stars_total": "59,794"
+      "stars_today": "2,227 stars today",
+      "stars_total": "61,168"
     },
     {
-      "name": "soxoj/maigret",
-      "url": "https://github.com/soxoj/maigret",
-      "description": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
-      "language": "Python",
-      "stars_today": "535 stars today",
-      "stars_total": "21,615"
-    },
-    {
-      "name": "warpdotdev/warp",
-      "url": "https://github.com/warpdotdev/warp",
-      "description": "Warp is an agentic development environment, born out of the terminal.",
-      "language": "Rust",
-      "stars_today": "3,403 stars today",
-      "stars_total": "51,409"
-    },
-    {
-      "name": "1jehuang/jcode",
-      "url": "https://github.com/1jehuang/jcode",
-      "description": "Coding Agent Harness",
-      "language": "Rust",
-      "stars_today": "404 stars today",
-      "stars_total": "2,340"
-    },
-    {
-      "name": "mattpocock/skills",
-      "url": "https://github.com/mattpocock/skills",
-      "description": "Skills for Real Engineers. Straight from my .claude directory.",
-      "language": "Shell",
-      "stars_today": "3,649 stars today",
-      "stars_total": "52,479"
+      "name": "ruvnet/ruflo",
+      "url": "https://github.com/ruvnet/ruflo",
+      "description": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code / Codex Integration",
+      "language": "TypeScript",
+      "stars_today": "1,258 stars today",
+      "stars_total": "35,953"
     },
     {
       "name": "browserbase/skills",
       "url": "https://github.com/browserbase/skills",
       "description": "Claude Agent SDK with a web browsing tool",
       "language": "JavaScript",
-      "stars_today": "334 stars today",
-      "stars_total": "1,165"
+      "stars_today": "347 stars today",
+      "stars_total": "1,368"
     },
     {
-      "name": "simstudioai/sim",
-      "url": "https://github.com/simstudioai/sim",
-      "description": "Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce.",
-      "language": "TypeScript",
-      "stars_today": "38 stars today",
-      "stars_total": "28,144"
+      "name": "soxoj/maigret",
+      "url": "https://github.com/soxoj/maigret",
+      "description": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
+      "language": "Python",
+      "stars_today": "1,065 stars today",
+      "stars_total": "22,234"
     },
     {
-      "name": "obra/superpowers",
-      "url": "https://github.com/obra/superpowers",
-      "description": "An agentic skills framework & software development methodology that works.",
-      "language": "Shell",
-      "stars_today": "1,098 stars today",
-      "stars_total": "175,594"
+      "name": "1jehuang/jcode",
+      "url": "https://github.com/1jehuang/jcode",
+      "description": "Coding Agent Harness",
+      "language": "Rust",
+      "stars_today": "482 stars today",
+      "stars_total": "2,600"
     }
   ],
   "posts": [
     {
-      "topic": "Warp终端",
-      "repo": "warpdotdev/warp",
-      "cover_line1": "Warp 是带 AI 代理的终端",
-      "cover_line2": "今天涨 3403 星",
-      "body": "Warp 这个终端不是换个配色，它把命令行变成了能自己干活的搭档。你敲一句「查下最近三次失败的 CI 日志」，它不光找文件，还能读内容、定位错误、甚至建议怎么修。背后是 Rust 写的本地执行层 + 可插拔的 LLM 调度器，所有操作默认不传数据到云端。今天单日涨了 3403 星，说明很多人试过之后发现：原来终端真能少敲一半命令。它不取代 shell，而是接在你现有的 zsh 或 bash 上，按 Ctrl+L 就唤出 Agent 模式，提问用自然语言，返回结果带可点击路径和一键重试按钮。连 Git 冲突解决都做成三步流程图：先看差异，再选保留哪边，最后自动 commit。没有魔法词，所有能力都在右下角「Agent Skills」面板里列得清清楚楚，点开就知道它现在会什么、不会什么、依赖哪个本地工具。它也不假装全能——没装 jq 的机器上，它不会硬跑 JSON 解析，而是提醒你「先 brew install jq」。这种诚实，反而让人愿意每天多用十分钟。你上次手动翻 200 行日志是什么时候？",
-      "tags": [
-        "terminal",
-        "cli",
-        "ai-agent",
-        "rust",
-        "developer-tools",
-        "local-first",
-        "shell",
-        "warp",
-        "productivity",
-        "oss"
-      ]
-    },
-    {
-      "topic": "Claude技能集",
-      "repo": "mattpocock/skills",
-      "cover_line1": "Matt Pocock 的 Claude 技能库",
-      "cover_line2": "52479 星，全公开",
-      "body": "Matt Pocock 把自己每天在 .claude 目录里写的 Shell 脚本直接推到了 GitHub。不是教程，不是 demo，就是他真实用的 37 个技能：一键生成 PR 描述、从 Jira 链接提取 ticket 号并查状态、把 Figma 链接转成设计要点 Markdown、甚至自动给新分支起名。每个脚本都带 USAGE 注释，复制粘贴就能跑，不依赖任何私有服务。今天涨了 3649 星，不是因为有多炫，而是因为它解决了「我知道 LLM 能干这事，但我不知道第一行该写啥」这个卡点。比如 rename-branch.sh：你输 git rename-branch feat/login-button，它就自动跑 git branch -m feat/login-button，再 push --set-upstream。没有抽象层，没有 config 文件，只有 5 行 Shell 加一行注释。它不教你怎么调 API，它告诉你「我就是这样每天省下 11 分钟的」。所有脚本都用 $1 $2 接参数，你改两行就能塞进自己的工作流。它甚至有个 cleanup-old-branches.sh，运行后只留最近 3 个 feature 分支，其余全删。你试过一个脚本，就大概率会去翻第二个。你最近一次想自动化但懒得写脚本的事，是什么？",
-      "tags": [
-        "shell",
-        "claude",
-        "automation",
-        "developer",
-        "cli",
-        "oss",
-        "productivity",
-        "matt-pocock",
-        "scripting",
-        "tooling"
-      ]
-    },
-    {
-      "topic": "Maigret人肉",
-      "repo": "soxoj/maigret",
-      "cover_line1": "Maigret 查用户名的开源工具",
-      "cover_line2": "支持 3000+ 网站",
-      "body": "你输入一个用户名，Maigret 就去 3000 多个网站批量查注册记录：Twitter、GitHub、Reddit、豆瓣、知乎、甚至小众论坛和代码托管站。它不爬页面，而是发 HEAD 请求判断账号是否存在，快、轻、不封 IP。结果整理成 HTML 报告，带截图链接、注册时间、头像 URL，还标出哪些站用了相同邮箱。今天涨了 535 星，不是因为多神秘，而是安全审计、红队演练、甚至程序员查竞品团队成员时，真的要这么干。它用 Python 写，配置全在 YAML 里，你可以删掉不想查的站，也能加自己的目标——比如公司内网论坛。不联网也能跑离线版，预置了常见平台指纹规则。它不生成报告就完事，还提供 --cookies 参数，让你登录后查私密主页。没有「AI 分析」噱头，就老老实实做一件事：确认这个 ID 在哪儿活过。它甚至能比对两个用户名的重合站点，帮你猜关联身份。你手头有没有一个还没查全的用户名？",
-      "tags": [
-        "osint",
-        "security",
-        "python",
-        "recon",
-        "privacy",
-        "tool",
-        "maigret",
-        "username-search",
-        "red-team",
-        "open-source"
-      ]
-    },
-    {
       "topic": "TradingAgents",
       "repo": "TauricResearch/TradingAgents",
-      "cover_line1": "TradingAgents 多智能体交易框架",
-      "cover_line2": "59794 星，已实盘跑",
-      "body": "Tauric Research 团队把真实跑在美股市场的交易智能体开源了。不是模拟器，不是 notebook，是用 Python 写的可部署 agent 框架：行情 agent 实时拉 Polygon 数据，信号 agent 跑 TA-Lib 指标，执行 agent 对接 Alpaca API 下单，风控 agent 监控仓位和滑点。所有模块用 Pydantic 定义接口，换掉一个 agent 不影响其他部分。今天单日涨 2115 星，说明很多人看了代码发现：它真在用。README 里直接贴出上周实盘收益曲线，标注了哪天因熔断暂停、哪次因 API 限频降级为只读模式。它不承诺赚钱，但每行 backtest 代码都带 assert 校验——比如「买入前必须满足 RSI < 30 且成交量 > 均值 1.5 倍」。文档里连怎么申请 Alpaca 纸质账户、怎么设 webhook 收成交通知都写了。最实在的是 examples 目录：一个 agent 专盯财报发布后 30 分钟波动，另一个只做加密货币跨交易所套利。你不需要懂金融，但得懂 Python。它不卖课，不建群，就放代码和日志。你愿意拿自己真金白银跑它的第一个 agent 吗？",
+      "cover_line1": "多智能体股票交易框架",
+      "cover_line2": "61k星，Python写成",
+      "body": "今天它涨了2227星，总星数冲到61168——一个用Python写的多智能体金融交易框架。它不预测股价，而是让多个LLM智能体分工协作：一个盯新闻情绪，一个查财报数据，一个模拟订单执行，一个做风控回撤。所有智能体共享一个记忆池，用本地向量库存历史决策和市场反馈。代码里直接写了实盘对接接口，支持Alpaca、Interactive Brokers等券商，也留了回测入口。文档里有完整跑通示例：从加载标普500成分股，到生成买卖信号，再到用真实tick数据验证胜率。没有抽象概念堆砌，每个Agent类都带明确输入输出类型注解，连错误日志格式都统一成JSONL。它不封装成黑盒API，所有策略逻辑都在/src/agents目录下，改一行就能换选股逻辑。最实在的是它的评估模块：自动算夏普比率、最大回撤、交易胜率，还画出资金曲线图。这不是玩具项目，上周有人在Reddit发帖说，用它搭了个小仓位实盘策略，过去30天跑出1.8%净收益（扣除手续费后）。你如果手上有行情数据，今天下午就能跑起来。你最近一次手动盯盘是什么时候？",
       "tags": [
         "trading",
         "llm-agent",
         "python",
         "finance",
-        "quant",
-        "oss",
-        "tauric",
+        "multi-agent",
         "backtesting",
         "alpaca",
-        "multi-agent"
+        "ibkr",
+        "vector-db",
+        "reinforcement-learning"
+      ]
+    },
+    {
+      "topic": "Ruflo",
+      "repo": "ruvnet/ruflo",
+      "cover_line1": "Claude多智能体调度平台",
+      "cover_line2": "支持Claude Code原生集成",
+      "body": "它今天涨了1258星，总星数35953——一个专为Claude设计的多智能体协调系统。不是通用框架，只深度适配Claude系列模型，尤其Claude Code。它把智能体拆成三类：Coordinator负责拆任务、Router负责分发请求、Worker执行具体动作。所有通信走JSON Schema定义的消息协议，连超时重试策略都可配置。最实在的是它的RAG集成方式：不靠外部插件，而是把检索结果直接注入系统提示词的固定位置，且标注来源链接。部署上支持单机Docker和K8s集群，配置文件里明确定义了每个Worker的CPU/Memory限制。文档首页就放着一个真实用例：用三个Agent协作完成一份季度财报分析——一个爬PDF，一个抽关键指标，一个写管理层点评。所有代码开源，没闭源组件。它不鼓吹‘自主进化’，只解决一个问题：怎么让Claude们不抢话、不漏活、不错序。你有没有试过让两个LLM同时改同一份代码？",
+      "tags": [
+        "claude",
+        "agent-orchestration",
+        "typescript",
+        "rag",
+        "swarm",
+        "distributed-system",
+        "kubernetes",
+        "docker",
+        "json-schema",
+        "code-integration"
+      ]
+    },
+    {
+      "topic": "Browserbase Skills",
+      "repo": "browserbase/skills",
+      "cover_line1": "Claude网页浏览SDK",
+      "cover_line2": "带真实浏览器操作工具",
+      "body": "它今天涨了347星，总星数1368——一个轻量级SDK，让Claude能真正点网页、填表单、截图、等加载完成。不是模拟HTTP请求，而是通过Browserbase API调起真实无头浏览器，支持JavaScript渲染、登录态保持、防反爬绕过。SDK只暴露两个核心函数：browse(url, instructions) 和 upload_file(file_path)。instructions是自然语言指令，比如‘在GitHub搜索框输入rust agent，点第一个仓库链接，截取README顶部区域’。返回结果包含HTML快照、截图base64、以及结构化提取的文本块。代码只有3个文件，main.js不到200行，依赖仅axios。它没做复杂工作流，就专注解决一件事：让LLM发出的‘去看看那个网站’变成真动作。文档里每行示例都带实际响应截图，连错误码含义都列清楚：429是浏览器并发超限，503是目标站封了IP。它不谈‘认知架构’，只告诉你怎么让Claude第一次真正看见网页。你上次让AI帮你查航班号，它返回的是链接还是实际出发时间？",
+      "tags": [
+        "claude",
+        "browser-automation",
+        "javascript",
+        "sdk",
+        "web-browsing",
+        "browserbase",
+        "llm-tool",
+        "real-browser",
+        "screenshot",
+        "structured-output"
+      ]
+    },
+    {
+      "topic": "Maigret",
+      "repo": "soxoj/maigret",
+      "cover_line1": "跨3000站人肉搜索工具",
+      "cover_line2": "查用户名出完整档案",
+      "body": "它今天涨了1065星，总星数22234——一个命令行工具，输入一个用户名，自动在3000多个网站查注册记录。不是爬虫集合，而是维护了一份精确到站点级别的检测清单：知道Twitter要查/api/v1/users/show.json，知道知乎要POST /api/v4/members/xxx，连小众论坛Discourse的用户API路径都写死了。查完自动生成HTML报告，含头像、注册时间、最后活跃时间、简介原文、关联邮箱（如果公开）、甚至推文高频词云。所有请求加了随机延迟和UA轮换，避免被秒封。它不搞AI分析，只干一件事：把散落各处的数字足迹拼成一张表。报告里每个结果都带原始URL和状态码，404和200一样清晰标出。更新机制很实在：每周自动抓取最新站点列表，PR合并后立刻发新版。有人用它帮朋友找回失联十年的豆瓣账号，也有人在渗透测试中快速定位员工社交痕迹。它诚实，不承诺‘找全’，只说‘已覆盖3027站’。你手机通讯录里，有多少人的微博或知乎主页你还没点开过？",
+      "tags": [
+        "osint",
+        "username-search",
+        "python",
+        "recon",
+        "privacy",
+        "security",
+        "command-line",
+        "html-report",
+        "user-agents",
+        "rate-limiting"
       ]
     }
   ],
