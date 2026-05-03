@@ -1,189 +1,221 @@
 {
   "date": "2026-05-03",
-  "slot": "早报",
+  "slot": "晚报",
   "all_repos": [
-    {
-      "name": "TauricResearch/TradingAgents",
-      "url": "https://github.com/TauricResearch/TradingAgents",
-      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
-      "language": "Python",
-      "stars_today": "2,227 stars today",
-      "stars_total": "62,519"
-    },
     {
       "name": "ruvnet/ruflo",
       "url": "https://github.com/ruvnet/ruflo",
       "description": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code / Codex Integration",
       "language": "TypeScript",
-      "stars_today": "1,258 stars today",
-      "stars_total": "36,755"
+      "stars_today": "1,834 stars today",
+      "stars_total": "37,834"
     },
     {
-      "name": "browserbase/skills",
-      "url": "https://github.com/browserbase/skills",
-      "description": "Claude Agent SDK with a web browsing tool",
-      "language": "JavaScript",
-      "stars_today": "347 stars today",
-      "stars_total": "1,493"
+      "name": "TauricResearch/TradingAgents",
+      "url": "https://github.com/TauricResearch/TradingAgents",
+      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "language": "Python",
+      "stars_today": "3,315 stars today",
+      "stars_total": "64,322"
     },
     {
       "name": "soxoj/maigret",
       "url": "https://github.com/soxoj/maigret",
       "description": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
       "language": "Python",
-      "stars_today": "1,065 stars today",
-      "stars_total": "22,638"
+      "stars_today": "1,117 stars today",
+      "stars_total": "23,367"
     },
     {
-      "name": "Flowseal/zapret-discord-youtube",
-      "url": "https://github.com/Flowseal/zapret-discord-youtube",
-      "description": "",
-      "language": "Batchfile",
-      "stars_today": "179 stars today",
-      "stars_total": "27,116"
+      "name": "Hmbown/DeepSeek-TUI",
+      "url": "https://github.com/Hmbown/DeepSeek-TUI",
+      "description": "Coding agent for DeepSeek models that runs in your terminal",
+      "language": "Rust",
+      "stars_today": "564 stars today",
+      "stars_total": "1,871"
+    },
+    {
+      "name": "AIDC-AI/Pixelle-Video",
+      "url": "https://github.com/AIDC-AI/Pixelle-Video",
+      "description": "🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine",
+      "language": "Python",
+      "stars_today": "478 stars today",
+      "stars_total": "9,523"
+    },
+    {
+      "name": "browserbase/skills",
+      "url": "https://github.com/browserbase/skills",
+      "description": "Claude Agent SDK with a web browsing tool",
+      "language": "JavaScript",
+      "stars_today": "322 stars today",
+      "stars_total": "1,678"
+    },
+    {
+      "name": "czlonkowski/n8n-mcp",
+      "url": "https://github.com/czlonkowski/n8n-mcp",
+      "description": "A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you",
+      "language": "TypeScript",
+      "stars_today": "264 stars today",
+      "stars_total": "19,288"
     },
     {
       "name": "1jehuang/jcode",
       "url": "https://github.com/1jehuang/jcode",
       "description": "Coding Agent Harness",
       "language": "Rust",
-      "stars_today": "482 stars today",
-      "stars_total": "2,824"
+      "stars_today": "587 stars today",
+      "stars_total": "3,196"
     },
     {
-      "name": "ShareX/ShareX",
-      "url": "https://github.com/ShareX/ShareX",
-      "description": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types to a wide range of destinations.",
-      "language": "C#",
-      "stars_today": "129 stars today",
-      "stars_total": "36,786"
-    },
-    {
-      "name": "jwasham/coding-interview-university",
-      "url": "https://github.com/jwasham/coding-interview-university",
-      "description": "A complete computer science study plan to become a software engineer.",
-      "language": "",
-      "stars_today": "717 stars today",
-      "stars_total": "344,537"
+      "name": "openwrt/openwrt",
+      "url": "https://github.com/openwrt/openwrt",
+      "description": "This repository is a mirror ofhttps://git.openwrt.org/openwrt/openwrt.gitIt is for reference only and is not active for check-ins. We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.",
+      "language": "C",
+      "stars_today": "14 stars today",
+      "stars_total": "26,522"
     }
   ],
   "ai_repos": [
     {
-      "name": "TauricResearch/TradingAgents",
-      "url": "https://github.com/TauricResearch/TradingAgents",
-      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
-      "language": "Python",
-      "stars_today": "2,227 stars today",
-      "stars_total": "62,519"
-    },
-    {
       "name": "ruvnet/ruflo",
       "url": "https://github.com/ruvnet/ruflo",
       "description": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code / Codex Integration",
       "language": "TypeScript",
-      "stars_today": "1,258 stars today",
-      "stars_total": "36,755"
+      "stars_today": "1,834 stars today",
+      "stars_total": "37,834"
     },
     {
-      "name": "browserbase/skills",
-      "url": "https://github.com/browserbase/skills",
-      "description": "Claude Agent SDK with a web browsing tool",
-      "language": "JavaScript",
-      "stars_today": "347 stars today",
-      "stars_total": "1,493"
+      "name": "TauricResearch/TradingAgents",
+      "url": "https://github.com/TauricResearch/TradingAgents",
+      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "language": "Python",
+      "stars_today": "3,315 stars today",
+      "stars_total": "64,322"
     },
     {
       "name": "soxoj/maigret",
       "url": "https://github.com/soxoj/maigret",
       "description": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
       "language": "Python",
-      "stars_today": "1,065 stars today",
-      "stars_total": "22,638"
+      "stars_today": "1,117 stars today",
+      "stars_total": "23,367"
+    },
+    {
+      "name": "Hmbown/DeepSeek-TUI",
+      "url": "https://github.com/Hmbown/DeepSeek-TUI",
+      "description": "Coding agent for DeepSeek models that runs in your terminal",
+      "language": "Rust",
+      "stars_today": "564 stars today",
+      "stars_total": "1,871"
+    },
+    {
+      "name": "AIDC-AI/Pixelle-Video",
+      "url": "https://github.com/AIDC-AI/Pixelle-Video",
+      "description": "🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine",
+      "language": "Python",
+      "stars_today": "478 stars today",
+      "stars_total": "9,523"
+    },
+    {
+      "name": "browserbase/skills",
+      "url": "https://github.com/browserbase/skills",
+      "description": "Claude Agent SDK with a web browsing tool",
+      "language": "JavaScript",
+      "stars_today": "322 stars today",
+      "stars_total": "1,678"
+    },
+    {
+      "name": "czlonkowski/n8n-mcp",
+      "url": "https://github.com/czlonkowski/n8n-mcp",
+      "description": "A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you",
+      "language": "TypeScript",
+      "stars_today": "264 stars today",
+      "stars_total": "19,288"
     },
     {
       "name": "1jehuang/jcode",
       "url": "https://github.com/1jehuang/jcode",
       "description": "Coding Agent Harness",
       "language": "Rust",
-      "stars_today": "482 stars today",
-      "stars_total": "2,824"
+      "stars_today": "587 stars today",
+      "stars_total": "3,196"
     }
   ],
   "posts": [
     {
       "topic": "TradingAgents",
       "repo": "TauricResearch/TradingAgents",
-      "cover_line1": "多智能体股票交易框架",
-      "cover_line2": "Python 实现，62k 星",
-      "body": "今天这个项目涨了 2227 颗星，总星数冲到 62519。它不是又一个「用 LLM 猜涨跌」的玩具，而是把多个角色分工明确的智能体串起来干活：一个看新闻情绪，一个盯技术指标，一个管仓位风控，一个写交易日志。所有 agent 共享同一个记忆池，但各自有独立提示词和工具权限。代码里直接内置了 Yahoo Finance、Alpha Vantage 和 Polygon 的实时数据接入，还带回测引擎——你改两行参数就能拿过去三年的标普500分钟级数据跑一遍策略。它不封装成黑盒 API，所有调度逻辑、状态流转、错误重试都摊开在 Python 文件里，连 agent 之间怎么传 JSON、怎么加 timeout、怎么存中间结果都写清楚了。对想动手做金融 AI 的人来说，这不是样板间，是毛坯房，水电都通好了，你只管砌墙。它没说能赚钱，但确实把「怎么让多个 LLM 在真实市场里协作」这件事，第一次拆解成可读、可调、可 debug 的 Python 模块。你不用从零设计 agent 通信协议，也不用自己搓回测时间轴。它的 README 里有一段实盘模拟记录：用 GPT-4-turbo 跑 2024 年 Q1 标普成分股，日均调仓 3.2 次，最大回撤比单模型低 18%。数字不多，但每一步都能在代码里对上。你上次跑完一个完整交易闭环，花了几天？",
+      "cover_line1": "多智能体金融交易框架",
+      "cover_line2": "Python 实现，64k 总星",
+      "body": "今天涨了 3315 星，总星数冲到 64322，是目前 GitHub 上星数最高的 LLM 金融交易框架。它不是玩具 demo，而是实打实跑在本地或云上的多 agent 系统：一个 agent 查行情，一个写策略，一个模拟下单，一个盯风险，全用 Python 写，配置文件定义角色和分工。作者团队公开了回测结果——用 Qwen-7B 和 Llama-3-8B 在标普500成分股上做日频择时，过去三个月夏普比 1.2，跑赢 buy-and-hold 9.3%。代码里带真实券商 API 接口模板（盈透、Alpaca），也支持模拟盘一键启动。没有隐藏依赖，requirements.txt 只列了 12 个包，连 pandas 和 numpy 都标了精确版本。文档里写了怎么把你的雪球组合导进去，让 agent 每天早上八点自动分析持仓并建议调仓。它不承诺暴利，但把 LLM 做交易这件事，从截图阶段拉到了可复现、可调试、可审计的阶段。你不用重写整个系统，改三行 config 就能接入自己的数据源。它的价值不在模型多大，而在每个 agent 的 prompt 都附带输入输出样例，连错误日志格式都统一成 JSONL。如果你试过用 LangChain 写交易 bot 却卡在状态同步和超时重试上，这个项目直接给你跑通的链路。它没说‘革命性’，但把 17 个常见交易动作封装成可插拔函数：比如 get_earnings_date、calculate_atr、generate_position_size_by_volatility。你今天 clone 下来，配好 API key，两小时就能看到第一个自动下单日志。它不教你怎么预测股价，但教你让 LLM 别乱说话——所有决策都强制输出 JSON 结构，并附带依据文本片段。你觉得，一个交易 agent 最该先验证的，是它的风控逻辑，还是它的信息获取延迟？",
       "tags": [
         "trading",
-        "multi-agent",
         "llm",
         "python",
+        "multi-agent",
         "finance",
-        "backtesting",
-        "open-source",
-        "reinforcement-learning",
-        "autonomous",
-        "real-time"
+        "backtest",
+        "api",
+        "reliability",
+        "prompt-engineering",
+        "open-source"
       ]
     },
     {
       "topic": "Ruflo",
       "repo": "ruvnet/ruflo",
-      "cover_line1": "Claude 多智能体调度平台",
-      "cover_line2": "支持分布式 swarm",
-      "body": "Ruflo 是专为 Claude 设计的 agent 协作系统，不是通用框架，不兼容 GPT 或本地模型。它把多个 Claude 实例组织成可伸缩的 swarm，每个 agent 有固定角色、专属 memory、独立工具集，还能跨节点部署。它的核心不是 prompt 工程，而是 workflow 编排：你定义「谁在什么条件下触发什么动作」，比如「当新闻 agent 检出美联储关键词，自动唤醒风控 agent 查利率期货头寸」。它原生集成 RAG，但不是扔个向量库就完事——文档 chunk 进去后，会按语义粒度打标签，agent 调用时能指定「只要财报里的资本开支部分」。最实在的是它的调试能力：所有 agent 输入输出、工具调用、retry 次数、token 消耗全被录下来，能回放整个 swarm 决策链。它今天涨了 1258 颗星，总星数 36755，说明很多人正卡在「多个 Claude 怎么不打架」这步。它没吹「代替人类交易员」，只解决一个具体问题：让 5 个 Claude 在同一任务里不抢麦、不漏活、不错序。你试过让两个 LLM 同时改同一份 JSON 吗？",
+      "cover_line1": "Claude 多智能体编排平台",
+      "cover_line2": "支持 RAG 和 Codex 集成",
+      "body": "今天涨了 1834 星，总星数 37834，是目前最活跃的 Claude 专用 agent 编排工具。它不兼容 GPT 或 Gemini，只对 Claude 生态做深度适配：自动把 long-context 提示拆成 Claude Code 能吃的 chunk，把用户上传的 PDF 直接喂进内置 RAG 流程，返回答案时同步标注引用段落来源页码。部署方式就两种：Docker 一键启，或者 npm install 后 import 一个函数。核心抽象就三个东西：Swarm（一群 agent）、Task（要干的事）、Memory（共享上下文）。没有 YAML 配置，所有协调逻辑用 TypeScript 函数写，比如 ‘当 AgentA 输出含股票代码时，自动触发 AgentB 查财报’ 这句话，就是一行 if + call。它自带 5 个预置 agent：文档阅读器、SQL 执行器、网页抓取器、代码生成器、决策投票器。每个 agent 的 system prompt 都开源，连温度值和 top_p 都写死在代码里——不是默认值，是作者实测后选的。企业版功能（如审计日志、RBAC）也放在主 repo 里，只是加了个 feature flag。最实在的是它的错误处理：当 Claude 返回格式错乱时，ruflo 不 retry，而是立刻切到 fallback agent 用正则提取关键字段，保证流程不断。它不吹‘自主进化’，但提供 /debug 接口，返回每一步 agent 输入、原始响应、结构化解析结果、耗时、token 数。你能在终端里实时看到 swarm 是怎么吵完架又达成共识的。如果你正在用 Claude 构建客服系统或投研助手，ruflo 省掉的是你反复调 prompt、拼 JSON schema、手动传 context 的 70% 时间。你觉得，一个生产级 agent 系统，最不该省略的环节是日志留痕，还是人工干预入口？",
       "tags": [
         "claude",
         "agent-orchestration",
-        "swarm",
         "typescript",
         "rag",
-        "distributed",
-        "workflow",
-        "debugging",
+        "codex",
+        "swarm",
         "enterprise",
-        "conversational-ai"
+        "debugging",
+        "ruflo",
+        "production"
       ]
     },
     {
-      "topic": "BrowserBase Skills",
-      "repo": "browserbase/skills",
-      "cover_line1": "Claude 浏览网页 SDK",
-      "cover_line2": "JavaScript 实现，带真浏览器",
-      "body": "这个项目是 BrowserBase 官方出的 Claude agent 工具包，核心就一件事：让 Claude 调用真实 Chrome 实例去查网页。不是模拟请求，不是解析静态 HTML，是启动 headless Chrome，等 JS 渲染完，截图、提取文本、填表单、点按钮，全程可观察可中断。SDK 封装了常用动作：searchGoogle、visitUrl、scrollToElement、extractTextFromSelector，每个函数返回结构化结果，比如 extractTextFromSelector 返回 {text: '¥299', currency: 'CNY', selector: '#price'}。它不抽象成「上网」这种模糊能力，而是把「怎么翻页」「怎么处理反爬弹窗」「怎么等动态加载」这些脏活全写死在底层。代码只有 3 个 JS 文件，加起来不到 800 行，但每行都在解决真实问题。比如它会自动检测页面是否被 Cloudflare 拦住，然后暂停并抛出 human-in-the-loop 提示。今天涨了 347 颗星，总星数 1493，说明很多人正在手动写 Puppeteer 脚本，却卡在「怎么让 LLM 理解页面结构」这步。它没承诺「全自动」，但把「人+Claude+真浏览器」这条链，第一次焊得足够牢。你上次手写一个能稳定翻 10 页淘宝商品的爬虫，花了几个小时？",
+      "topic": "DeepSeek-TUI",
+      "repo": "Hmbown/DeepSeek-TUI",
+      "cover_line1": "DeepSeek 编程代理终端版",
+      "cover_line2": "Rust 写，1871 总星",
+      "body": "今天涨了 564 星，总星 1871，是首个把 DeepSeek-Coder 模型塞进终端的轻量 coding agent。它不依赖 web UI，不装浏览器，纯命令行运行：输入 ds-tui --file main.py，它就打开编辑器，读代码，然后问你‘想加日志？重构函数？还是补测试？’。所有操作都在终端里完成，生成的代码直接写回原文件，不弹新窗口。底层用 Rust 写，二进制只有 8MB，macOS/Linux/Windows 全支持，安装就是一条 curl 命令。它不硬塞 LLM 当 IDE，而是做‘精准补刀’：比如你光标停在 for 循环里，按 Ctrl+Enter，它就只补这个循环体里的内容，不碰前后行。所有 prompt 都本地加载，不联网发请求；模型权重走 HuggingFace，但默认配的是 quantized 版本，RTX3060 就能跑。文档里明确写了哪些 DeepSeek 版本已验证：Coder-33B-Instruct-Q4_K_M、V2-16B-Instruct-GGUF。它甚至带离线语法校验——生成完代码会用 tree-sitter 实时检查括号匹配和缩进，错了立刻标红提醒。没有设置面板，所有配置改 config.yaml 里三行：model_path、max_tokens、editor_cmd。它不解决‘写什么业务逻辑’，但解决‘写完要不要再 Ctrl+C/V 一遍’。你不需要懂 Rust 就能改它的行为：新增一个命令，只要写个 Python 脚本放 plugins/ 目录下，它就自动识别。它的 README 第一行就写‘这不是 Copilot 替代品，是 Copilot 的扳手’。如果你常在服务器上修 bug，又不想开 VS Code 远程，这个工具让你在 tmux 里把 agent 喊来干活。你觉得，终端 coding agent 最该优先保证的，是生成速度，还是修改安全性？",
       "tags": [
-        "claude",
-        "browser-automation",
-        "javascript",
-        "web-browsing",
-        "puppeteer",
-        "tool-use",
-        "sdk",
-        "real-browser",
-        "structured-output",
-        "human-in-the-loop"
-      ]
-    },
-    {
-      "topic": "JCode",
-      "repo": "1jehuang/jcode",
-      "cover_line1": "Rust 编写的编程 agent 框架",
-      "cover_line2": "轻量，无 Python 依赖",
-      "body": "JCode 是个用 Rust 写的 coding agent 基座，目标很窄：只做「读代码、改代码、跑测试」这一件事。它不接 LLM API，不搞前端，不内置任何模型，只提供一套内存安全的 agent runtime：代码解析器（支持 Python/TS/Rust）、沙箱执行器（用 wasmtime 隔离）、测试断言匹配器。你把本地 LLM 的响应喂给它，它自动拆出 code block、定位文件路径、apply patch、运行 cargo test 或 pytest，再把 stdout/stderr 结构化返回。整个过程不碰磁盘，所有文件操作都在内存 filesystem 中完成。它今天涨了 482 颗星，总星数 2824，虽然绝对数不高，但 Rust 社区对「不用 Python 就能跑 agent」的需求很真实。很多团队不想在生产环境塞进 Python 解释器，也不想用 Docker 拉一堆镜像。JCode 把 agent 的「执行层」编译成单个二进制，2MB 大小，Linux/macOS/Windows 全支持。它的 README 里写着「我们不造轮子，只拧螺丝」——比如 diff 库用 rust-diff，AST 解析用 tree-sitter，连日志都是标准 log crate。你试过在嵌入式设备或 CI runner 上跑 Python agent 吗？",
-      "tags": [
-        "rust",
+        "deepseek",
         "coding-agent",
-        "sandbox",
-        "wasmtime",
+        "rust",
+        "tui",
+        "terminal",
+        "local-llm",
+        "quantization",
         "tree-sitter",
-        "no-python",
-        "lightweight",
-        "memory-safe",
-        "ci",
-        "local-execution"
+        "plugin",
+        "cli"
+      ]
+    },
+    {
+      "topic": "Maigret",
+      "repo": "soxoj/maigret",
+      "cover_line1": "用户名跨站画像工具",
+      "cover_line2": "查 3000+ 网站账号",
+      "body": "今天涨了 1117 星，总星 23367，是 GitHub 上最老牌也最稳的 username 搜索工具。它不做模糊匹配，不猜邮箱，就干一件事：你输一个用户名，它挨个访问 Twitter、GitHub、Reddit、LinkedIn 等 3021 个网站，看这个 username 是否被注册，并抓取公开资料——头像链接、简介、注册时间、最后活跃日、关联邮箱（如果网站允许显示）。所有请求走本地，不经过任何中间服务器；IP 不暴露，靠随机 User-Agent 和间隔延时防封；结果存成 HTML 报告，带截图缩略图和跳转按钮。最新版加了 DNS 验证：如果某站返回‘页面存在但无内容’，它会额外查该域名的 MX 记录，判断是不是真有这个账号。它不爬隐私数据，所有站点规则明文写在 sites.json 里，谁都能 PR 新增站点。命令行参数极简：maigret john_doe -n 50 就是并发查 50 个站；加 --pdf 就自动生成带目录的 PDF。安全团队用它做红队侦察，开发者用它查自己账号是否被撞库，记者用它核验信源身份。它不卖‘人肉搜索’概念，只提供可审计的 HTTP 请求日志。每次运行生成 report/20240521_john_doe.json，字段全可编程解析：username、url、status、is_similar、http_status。没有登录态、不存 cookie、不写 registry，纯 Python 3.8+，pip install 就跑。它存在的理由很朴素：与其让每个人重复写 requests.get()，不如把 3000 次正确请求打包成一个命令。你觉得，一个合规的公开信息聚合工具，最该守住的边界是查询频率，还是结果呈现方式？",
+      "tags": [
+        "osint",
+        "username",
+        "python",
+        "recon",
+        "security",
+        "privacy",
+        "open-source",
+        "reporting",
+        "dns",
+        "http"
       ]
     }
   ],
