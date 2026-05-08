@@ -1,6 +1,6 @@
 {
-  "date": "2026-05-08",
-  "slot": "晚报",
+  "date": "2026-05-09",
+  "slot": "早报",
   "all_repos": [
     {
       "name": "anthropics/financial-services",
@@ -8,7 +8,7 @@
       "description": "",
       "language": "Python",
       "stars_today": "3,662 stars today",
-      "stars_total": "13,893"
+      "stars_total": "15,058"
     },
     {
       "name": "addyosmani/agent-skills",
@@ -16,7 +16,7 @@
       "description": "Production-grade engineering skills for AI coding agents.",
       "language": "Shell",
       "stars_today": "1,794 stars today",
-      "stars_total": "34,345"
+      "stars_total": "35,313"
     },
     {
       "name": "Hmbown/DeepSeek-TUI",
@@ -24,7 +24,7 @@
       "description": "Coding agent for DeepSeek models that runs in your terminal",
       "language": "Rust",
       "stars_today": "3,827 stars today",
-      "stars_total": "21,296"
+      "stars_total": "21,704"
     },
     {
       "name": "z-lab/dflash",
@@ -32,7 +32,7 @@
       "description": "DFlash: Block Diffusion for Flash Speculative Decoding",
       "language": "Python",
       "stars_today": "388 stars today",
-      "stars_total": "3,698"
+      "stars_total": "3,837"
     },
     {
       "name": "decolua/9router",
@@ -40,7 +40,7 @@
       "description": "Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.",
       "language": "JavaScript",
       "stars_today": "1,028 stars today",
-      "stars_total": "5,246"
+      "stars_total": "5,543"
     },
     {
       "name": "CloakHQ/CloakBrowser",
@@ -48,15 +48,15 @@
       "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
       "language": "Python",
       "stars_today": "482 stars today",
-      "stars_total": "2,574"
+      "stars_total": "2,938"
     },
     {
       "name": "awslabs/aidlc-workflows",
       "url": "https://github.com/awslabs/aidlc-workflows",
       "description": "AI-Driven Life Cycle (AI-DLC) adaptive workflow steering rules for AI coding agents",
       "language": "Python",
-      "stars_today": "31 stars today",
-      "stars_total": "1,641"
+      "stars_today": "92 stars today",
+      "stars_total": "1,744"
     },
     {
       "name": "HKUDS/AI-Trader",
@@ -64,7 +64,7 @@
       "description": "\"AI-Trader: 100% Fully-Automated Agent-Native Trading\"",
       "language": "Python",
       "stars_today": "189 stars today",
-      "stars_total": "14,392"
+      "stars_total": "14,591"
     },
     {
       "name": "LearningCircuit/local-deep-research",
@@ -72,7 +72,7 @@
       "description": "~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cloud LLMs (llama.cpp, Ollama, Google, ...). 10+ search engines - arXiv, PubMed, your private documents. Everything Local & Encrypted.",
       "language": "Python",
       "stars_today": "572 stars today",
-      "stars_total": "6,587"
+      "stars_total": "6,715"
     },
     {
       "name": "lobehub/lobehub",
@@ -80,7 +80,7 @@
       "description": "The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effortless agent team design, and introducing agents as the unit of work interaction.",
       "language": "TypeScript",
       "stars_today": "74 stars today",
-      "stars_total": "76,308"
+      "stars_total": "76,482"
     }
   ],
   "ai_repos": [
@@ -90,7 +90,7 @@
       "description": "",
       "language": "Python",
       "stars_today": "3,662 stars today",
-      "stars_total": "13,893"
+      "stars_total": "15,058"
     },
     {
       "name": "addyosmani/agent-skills",
@@ -98,7 +98,7 @@
       "description": "Production-grade engineering skills for AI coding agents.",
       "language": "Shell",
       "stars_today": "1,794 stars today",
-      "stars_total": "34,345"
+      "stars_total": "35,313"
     },
     {
       "name": "Hmbown/DeepSeek-TUI",
@@ -106,7 +106,7 @@
       "description": "Coding agent for DeepSeek models that runs in your terminal",
       "language": "Rust",
       "stars_today": "3,827 stars today",
-      "stars_total": "21,296"
+      "stars_total": "21,704"
     },
     {
       "name": "z-lab/dflash",
@@ -114,7 +114,7 @@
       "description": "DFlash: Block Diffusion for Flash Speculative Decoding",
       "language": "Python",
       "stars_today": "388 stars today",
-      "stars_total": "3,698"
+      "stars_total": "3,837"
     },
     {
       "name": "decolua/9router",
@@ -122,15 +122,15 @@
       "description": "Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.",
       "language": "JavaScript",
       "stars_today": "1,028 stars today",
-      "stars_total": "5,246"
+      "stars_total": "5,543"
     },
     {
       "name": "awslabs/aidlc-workflows",
       "url": "https://github.com/awslabs/aidlc-workflows",
       "description": "AI-Driven Life Cycle (AI-DLC) adaptive workflow steering rules for AI coding agents",
       "language": "Python",
-      "stars_today": "31 stars today",
-      "stars_total": "1,641"
+      "stars_today": "92 stars today",
+      "stars_total": "1,744"
     },
     {
       "name": "HKUDS/AI-Trader",
@@ -138,7 +138,7 @@
       "description": "\"AI-Trader: 100% Fully-Automated Agent-Native Trading\"",
       "language": "Python",
       "stars_today": "189 stars today",
-      "stars_total": "14,392"
+      "stars_total": "14,591"
     },
     {
       "name": "LearningCircuit/local-deep-research",
@@ -146,7 +146,7 @@
       "description": "~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cloud LLMs (llama.cpp, Ollama, Google, ...). 10+ search engines - arXiv, PubMed, your private documents. Everything Local & Encrypted.",
       "language": "Python",
       "stars_today": "572 stars today",
-      "stars_total": "6,587"
+      "stars_total": "6,715"
     },
     {
       "name": "lobehub/lobehub",
@@ -154,7 +154,7 @@
       "description": "The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effortless agent team design, and introducing agents as the unit of work interaction.",
       "language": "TypeScript",
       "stars_today": "74 stars today",
-      "stars_total": "76,308"
+      "stars_total": "76,482"
     }
   ],
   "posts": [
@@ -162,84 +162,84 @@
       "topic": "DeepSeek-TUI",
       "repo": "Hmbown/DeepSeek-TUI",
       "cover_line1": "DeepSeek 终端编码代理",
-      "cover_line2": "Rust 写成，直接跑在终端里",
-      "body": "你不用开浏览器、不用配 API 密钥、也不用装桌面应用，只要在命令行敲几行命令，就能让 DeepSeek 模型帮你写代码、改 bug、读项目。它把模型调用封装成 shell 命令，比如 `ds code --file main.py 'add logging'`，就自动改好并输出 diff。整个流程不传代码到云端，所有推理默认走本地或你指定的 DeepSeek API 端点。作者用 Rust 写，启动快、内存省，实测在 M2 Mac 和 RTX 4070 笔记本上都能秒级响应。它不是 demo，已经支持多文件上下文、自动补全路径、错误重试和快捷键绑定。README 里写了 7 个真实使用场景，包括‘快速给旧脚本加 argparse’‘从报错日志反推修复位置’‘把 Python 脚本转成可 pip 安装的包’。今天涨了 3827 星，是今日涨幅最高 AI 项目，说明很多人正卡在‘想用大模型写代码但懒得切窗口’这个点上。它没提多智能，只解决一个动作：让你在写代码时，手不离开键盘、眼不离开终端。",
+      "cover_line2": "Rust 写，直接跑在终端里",
+      "body": "你不用开浏览器、不用配 Web UI，就打开一个终端，输入几行命令，它立刻调用 DeepSeek 模型帮你写代码、改 bug、读项目。它把模型推理、工具调用、文件操作全打包进一个二进制里，连 Python 环境都不用装。作者用 Rust 实现，启动快，内存占得少，实测在 M2 MacBook 和 3090 服务器上都跑得稳。它支持 DeepSeek-Coder 1.5B 到 32B 全系列，也兼容本地 llama.cpp 接口。不是 demo，是真能每天用来修 CI 失败、补单元测试、翻老项目注释的工具。今天涨了 3827 星，说明很多人试完第一分钟就关掉了 IDE。它不替代你思考，但把「查文档→切窗口→粘贴→等响应→再切回来」这个循环砍掉 80%。它也不假装全能——不自动提交 Git，不接管你的数据库，只做三件事：读你当前目录、理解你自然语言指令、输出可运行的代码块。所有交互明文可见，没黑盒，没后台上传。你删掉它，就只剩一个二进制文件，不留痕迹。它解决的不是「AI 多厉害」，而是「我此刻卡在哪一行，想快点过去」。",
       "tags": [
         "terminal",
         "coding-agent",
         "deepseek",
         "rust",
-        "local-first",
+        "local",
         "cli",
-        "python",
+        "productivity",
         "devtool",
-        "open-source",
-        "productivity"
+        "opensource",
+        "ai"
       ]
     },
     {
       "topic": "agent-skills",
       "repo": "addyosmani/agent-skills",
-      "cover_line1": "AI 编码代理工程技能库",
-      "cover_line2": "Addy Osmani 整理，34k 星",
-      "body": "Google 工程师 Addy Osmani 把过去两年他教 AI 编码代理干活的经验，全拆成可复用的 Shell 脚本和配置模板。比如怎么让模型安全地执行 git commit、怎么用 curl 自动拉 GitHub PR 评论、怎么把 LLM 输出转成 valid JSON 再喂给下一个工具、怎么在失败时自动重试并保留上下文。每个脚本都带测试用例和实际运行截图，不讲原理，只说‘粘贴这行命令，它就能做 X’。它不依赖任何特定框架，Shell + curl + jq 就能跑通。目前已有 27 个技能模块，包括文件批量重命名、自动提取代码中的 TODO、从 markdown 表格生成 CSV、监控 CI 日志关键词并告警。这不是理论文档，是每天被工程师 copy-paste 到自己 agent pipeline 里的东西。今天涨了 1794 星，说明很多人正从‘调一个 prompt’走向‘搭一条稳定流水线’。它不承诺让模型更聪明，只确保模型每次调用都落在正确的输入格式、权限边界和错误处理路径上。",
+      "cover_line1": "Google 工程师写的 AI 编码技能库",
+      "cover_line2": "35k 星，覆盖 12 类真实任务",
+      "body": "Addy Osmani 是 Google Chrome 团队的老兵，也做过 Web 性能和 AI 工具链。他开源了这个叫 agent-skills 的仓库，不是教你怎么调 API，而是把 AI 编码代理在真实工程中必须会的活，一条条拆成可复用的模块。比如：怎么安全地执行 shell 命令、怎么从模糊日志定位到具体文件行号、怎么给 LLM 输出加结构化校验、怎么在多步任务中保存中间状态、怎么用 git diff 做增量提示。每个技能都带测试用例、错误处理和性能注释。它不绑定某个框架，Python / TypeScript 都能抄走函数直接用。今天涨了 1794 星，说明很多人正卡在「模型很聪明，但一落地就崩」这一步。它不讲原理，只讲「你复制这 15 行，下次遇到 Jenkins 报错就能自动找 build.gradle 里错的 plugin 版本」。它甚至写了怎么让 AI 自己写单元测试——不是 mock 掉一切，而是让它生成真实可跑的 test.py，连 pytest 参数都配好。这不是教程，是工地上的扳手和卷尺。",
       "tags": [
-        "shell",
         "engineering",
         "coding-agent",
-        "production",
         "google",
-        "automation",
+        "production",
+        "python",
+        "typescript",
+        "testing",
         "cli",
-        "reliability",
-        "tooling",
-        "oss"
+        "oss",
+        "devops"
       ]
     },
     {
       "topic": "9router",
       "repo": "decolua/9router",
-      "cover_line1": "AI 编码代理免费路由层",
-      "cover_line2": "连 Claude/GPT/Gemini 免费用",
-      "body": "你本地写了个 coding agent，但它卡在 API 钱包空了、服务商限流、或者某个模型突然挂掉。9router 就是插在你 agent 和各大 AI 服务之间的‘交通警察’——它自动选可用通道，比如当前 Claude 接口超时，就切到 Gemini；如果 Gemini 返回 token 超限，就自动压缩 prompt 重试；如果所有商业 API 都堵住，它还能 fallback 到免费的 Ollama 本地模型。它支持 40+ 提供商，配置方式就是改一个 YAML 文件，连 API key 都不用硬编码，支持环境变量注入。实测在连续请求下，RTK（Real Token Kill）策略能省掉约 40% 的 token 开销，靠的是自动删注释、合并重复 system prompt、缓存中间结果。它不改模型本身，只管怎么把请求送出去、把结果拿回来、出错了怎么办。今天涨了 1028 星，说明越来越多开发者不再只问‘哪个模型最强’，而开始问‘怎么让它永远在线’。",
+      "cover_line1": "免费 AI 编码路由代理",
+      "cover_line2": "连通 40+ 服务商，省 40% token",
+      "body": "你本地装了 Cursor，又想用 Claude，但官网要排队；你买了 Copilot Pro，但想临时切 Gemini 查论文；你公司禁用公网模型，但允许你连内部 Ollama。9router 就是干这个的：一个轻量 Node.js 服务，跑在你本机或内网服务器上，把你发过去的编程请求，自动选路、转协议、加 fallback。它不是转发器，是智能路由器——比如你问「用 React 写个倒计时组件」，它先发给免费 Claude，超时就切 GPT-3.5，再超时切本地 Qwen，全程不让你感知。它还做了 token 省钱动作：对响应做结构化裁剪，把「我来帮你写」这类废话去掉，实测节省约 40% token。今天涨了 1028 星，说明很多人受够了「换一个模型就要重配整个编辑器」。它不碰你的代码，所有流量走你自己的机器，请求日志默认关闭，连配置文件里都写着「no telemetry」。它不造新模型，但让现有模型用得更顺、更省、更稳。",
       "tags": [
         "routing",
-        "api",
-        "free-tier",
-        "fallback",
-        "token-optimization",
-        "multi-provider",
+        "free-ai",
+        "claude",
+        "gpt",
+        "gemini",
+        "token-saving",
+        "local",
         "javascript",
-        "agent-infrastructure",
-        "reliability",
-        "devops"
+        "proxy",
+        "devtool"
       ]
     },
     {
       "topic": "local-deep-research",
       "repo": "LearningCircuit/local-deep-research",
       "cover_line1": "本地深度研究助手",
-      "cover_line2": "SimpleQA 95% 准确率（3090）",
-      "body": "你在本地显卡上跑大模型做研究，但总被两个问题卡住：一是查资料要手动翻 arXiv、PubMed、维基、自己 PDF，二是模型一问三不知，因为没喂够上下文。这个项目把两者焊死了：你丢进一个问题，它自动搜 10+ 来源，下载、解析、去重、摘要，再把精炼后的材料喂给本地 LLM（比如 Qwen3.6-27B），最后输出带引用的答案。它不联网查，所有数据都在你硬盘上，PDF 加密存储，搜索索引也存在本地 SQLite。README 明确写了硬件要求：RTX 3090 单卡能跑满 Qwen3.6-27B，SimpleQA 测试集准确率 94.7%。它还支持自定义搜索引擎，比如把公司内部 Confluence 或 Notion 页面加进去。今天涨了 572 星，不是因为‘又一个 RAG 工具’，而是因为它把‘本地、加密、能跑、有数字’四件事一次做齐了。它没说要替代 Google Scholar，只说：你关掉网络，也能完成论文初稿。",
+      "cover_line2": "SimpleQA 95%，支持 arXiv/PubMed",
+      "body": "它不是另一个 ChatPDF，而是一个能真正替你做文献调研的工具。你丢进一个研究问题，比如「LLM 在金融风控中的幻觉缓解方法有哪些」，它自动去 arXiv、PubMed、Semantic Scholar 甚至你本地的 PDF 文件夹里搜，下载原文，用本地 Qwen3.6-27B（3090 可跑）摘要、比对、提取关键结论，最后给你一份带引用来源的简报。它不联网调云 API，所有模型和搜索都走你指定的本地接口：llama.cpp、Ollama、或你自己的 vLLM 服务。它支持 10+ 学术源，连 arXiv 的 LaTeX 渲染结果都能解析。今天涨了 572 星，说明很多研究生和研究员终于不用一边 Ctrl+F 一边怀疑自己漏了关键论文。它不做「一键写论文」，但确保你读的每一篇，都是被它交叉验证过的真相关文献。加密方式也实在：你设一个密码，所有缓存文档 AES-256 加密，密钥不上传、不记忆、不恢复。它不承诺答案正确，但承诺过程透明——每一步检索词、匹配分数、摘要依据，都原样输出。",
       "tags": [
-        "local-rag",
         "research",
-        "qwen",
+        "local",
         "arxiv",
-        "pdf",
+        "pubmed",
+        "qwen",
+        "ollama",
+        "llama.cpp",
+        "academic",
         "privacy",
-        "3090",
-        "simpleqa",
-        "offline",
-        "encryption"
+        "pdf"
       ]
     }
   ],
   "image_paths": [
-    "assets/2026-05-08/trending/summary.png",
-    "assets/2026-05-08/trending/post1.png",
-    "assets/2026-05-08/trending/post2.png",
-    "assets/2026-05-08/trending/post3.png",
-    "assets/2026-05-08/trending/post4.png"
+    "assets/2026-05-09/trending/summary.png",
+    "assets/2026-05-09/trending/post1.png",
+    "assets/2026-05-09/trending/post2.png",
+    "assets/2026-05-09/trending/post3.png",
+    "assets/2026-05-09/trending/post4.png"
   ]
 }
