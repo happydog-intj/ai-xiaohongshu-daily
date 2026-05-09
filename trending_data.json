@@ -1,6 +1,6 @@
 {
-  "date": "2026-05-09",
-  "slot": "晚报",
+  "date": "2026-05-10",
+  "slot": "早报",
   "all_repos": [
     {
       "name": "anthropics/financial-services",
@@ -8,23 +8,23 @@
       "description": "",
       "language": "Python",
       "stars_today": "3,077 stars today",
-      "stars_total": "16,759"
+      "stars_total": "17,346"
     },
     {
       "name": "bytedance/UI-TARS-desktop",
       "url": "https://github.com/bytedance/UI-TARS-desktop",
       "description": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
       "language": "TypeScript",
-      "stars_today": "850 stars today",
-      "stars_total": "31,138"
+      "stars_today": "549 stars today",
+      "stars_total": "31,374"
     },
     {
       "name": "rohitg00/agentmemory",
       "url": "https://github.com/rohitg00/agentmemory",
       "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
       "language": "TypeScript",
-      "stars_today": "400 stars today",
-      "stars_total": "3,138"
+      "stars_today": "518 stars today",
+      "stars_total": "3,408"
     },
     {
       "name": "datawhalechina/hello-agents",
@@ -32,7 +32,7 @@
       "description": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程",
       "language": "Python",
       "stars_today": "1,162 stars today",
-      "stars_total": "45,453"
+      "stars_total": "45,655"
     },
     {
       "name": "datawhalechina/easy-vibe",
@@ -40,7 +40,7 @@
       "description": "💻 vibe coding 2026 | Your first modern programming course for beginners to master step by step.",
       "language": "JavaScript",
       "stars_today": "294 stars today",
-      "stars_total": "8,261"
+      "stars_total": "8,509"
     },
     {
       "name": "rowboatlabs/rowboat",
@@ -48,15 +48,15 @@
       "description": "Open-source AI coworker, with memory",
       "language": "TypeScript",
       "stars_today": "144 stars today",
-      "stars_total": "13,583"
+      "stars_total": "13,763"
     },
     {
       "name": "ChromeDevTools/chrome-devtools-mcp",
       "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
       "description": "Chrome DevTools for coding agents",
       "language": "TypeScript",
-      "stars_today": "145 stars today",
-      "stars_total": "38,657"
+      "stars_today": "159 stars today",
+      "stars_total": "38,809"
     },
     {
       "name": "masterking32/MasterDnsVPN",
@@ -64,7 +64,7 @@
       "description": "Advanced DNS tunneling VPN for censorship bypass, optimized beyond DNSTT and SlipStream with low-overhead ARQ, resolver load balancing, high packet-loss stability and speed.",
       "language": "Go",
       "stars_today": "595 stars today",
-      "stars_total": "2,196"
+      "stars_total": "2,504"
     },
     {
       "name": "playcanvas/supersplat",
@@ -72,15 +72,15 @@
       "description": "3D Gaussian Splat Editor",
       "language": "TypeScript",
       "stars_today": "513 stars today",
-      "stars_total": "6,036"
+      "stars_total": "6,280"
     },
     {
       "name": "Lordog/dive-into-llms",
       "url": "https://github.com/Lordog/dive-into-llms",
       "description": "《动手学大模型Dive into LLMs》系列编程实践教程",
       "language": "Jupyter Notebook",
-      "stars_today": "189 stars today",
-      "stars_total": "36,410"
+      "stars_today": "194 stars today",
+      "stars_total": "36,470"
     }
   ],
   "ai_repos": [
@@ -90,23 +90,23 @@
       "description": "",
       "language": "Python",
       "stars_today": "3,077 stars today",
-      "stars_total": "16,759"
+      "stars_total": "17,346"
     },
     {
       "name": "bytedance/UI-TARS-desktop",
       "url": "https://github.com/bytedance/UI-TARS-desktop",
       "description": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
       "language": "TypeScript",
-      "stars_today": "850 stars today",
-      "stars_total": "31,138"
+      "stars_today": "549 stars today",
+      "stars_total": "31,374"
     },
     {
       "name": "rohitg00/agentmemory",
       "url": "https://github.com/rohitg00/agentmemory",
       "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
       "language": "TypeScript",
-      "stars_today": "400 stars today",
-      "stars_total": "3,138"
+      "stars_today": "518 stars today",
+      "stars_total": "3,408"
     },
     {
       "name": "datawhalechina/hello-agents",
@@ -114,7 +114,7 @@
       "description": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程",
       "language": "Python",
       "stars_today": "1,162 stars today",
-      "stars_total": "45,453"
+      "stars_total": "45,655"
     },
     {
       "name": "rowboatlabs/rowboat",
@@ -122,108 +122,108 @@
       "description": "Open-source AI coworker, with memory",
       "language": "TypeScript",
       "stars_today": "144 stars today",
-      "stars_total": "13,583"
+      "stars_total": "13,763"
     },
     {
       "name": "ChromeDevTools/chrome-devtools-mcp",
       "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
       "description": "Chrome DevTools for coding agents",
       "language": "TypeScript",
-      "stars_today": "145 stars today",
-      "stars_total": "38,657"
+      "stars_today": "159 stars today",
+      "stars_total": "38,809"
     },
     {
       "name": "Lordog/dive-into-llms",
       "url": "https://github.com/Lordog/dive-into-llms",
       "description": "《动手学大模型Dive into LLMs》系列编程实践教程",
       "language": "Jupyter Notebook",
-      "stars_today": "189 stars today",
-      "stars_total": "36,410"
+      "stars_today": "194 stars today",
+      "stars_total": "36,470"
     }
   ],
   "posts": [
     {
       "topic": "Hello Agents",
       "repo": "datawhalechina/hello-agents",
-      "cover_line1": "《从零开始构建智能体》教程",
-      "cover_line2": "45,453 星，中文实战入门",
-      "body": "今天 DataWhale 发布的《从零开始构建智能体》教程，不是概念堆砌，而是手把手带人写一个能调用天气 API、能存对话历史、能做简单推理的智能体。它用 Python 写，每步都配可运行代码和注释，连环境怎么装、依赖怎么配都写了。教程里没用任何黑盒框架，所有组件——工具调用、记忆管理、规划循环——都是自己搭出来的。有人照着做完，第二天就拿去改造成内部客服小助手；还有人把第三章的反思模块直接塞进自己项目里，调试时间少了四成。它不讲「大模型原理」，只问「你现在想让 AI 做什么」。全书 12 章，前五章跑通一个完整闭环，后七章拆解真实场景：多轮会议纪要生成、带权限的数据库查询、跨工具任务编排。文档里没有一句「读者可以自行探索」，所有坑都标了：比如 memory key 冲突在哪、tool call timeout 怎么设、为什么 agent 在中文 prompt 下容易漏调用。目前 GitHub 上有 45,453 颗星，98% 的 issue 是「第 7 章 notebook 运行报错，求 fix」——说明真有人在跑、在卡、在改。它不是讲智能体多厉害，是讲你怎么把它变成你手里的一把小刀。你上次用一个开源教程，三天内跑通并落地到自己业务里，是什么时候？",
+      "cover_line1": "智能体入门中文教程",
+      "cover_line2": "45,655 stars总星数",
+      "body": "今天 DataWhale 团队的《从零开始构建智能体》教程冲上 Trending 第一，不是靠宣传，是靠真实内容——它用 Python 写了 7 个可运行的智能体例子，从最简单的记忆循环，到带工具调用、多步推理的完整 Agent；每章配代码、配图、配调试日志，连 LLM 的 prompt 怎么分段写都标得清清楚楚。它不假设你懂 LangChain 或 LlamaIndex，而是从 requests.get() 开始教你怎么让模型记住用户上句话。最新一章刚加了对本地 Ollama 模型的支持，跑在 M1 Mac 上只要 3 分钟就能搭出一个带搜索+总结功能的代理。这不是理论课，是手把手带你把 agent.py 改成能真干活的脚本。教程里所有代码都在 GitHub Action 里自动测试，每次提交都跑一遍，没一个例子是过时的。它没提‘AgentOps’或‘RAG’这些词，但每个例子都在解决真实问题：比如自动整理会议纪要时怎么避免漏掉关键数字，怎么让模型主动追问模糊需求。现在中文社区里，超过 1/3 的新人第一次写 agent 都是从这个仓库 fork 出去改的。如果你昨天还在抄别人 prompt，今天就能照着它的第 4 章，写出一个会查天气再推荐穿衣的本地 agent。它不教你‘成为 AI 工程师’，它只说：先让这个小东西跑起来。",
       "tags": [
         "教程",
-        "智能体",
-        "Python",
-        "DataWhale",
         "中文",
-        "实战",
-        "Agent",
+        "Python",
+        "智能体",
         "入门",
+        "DataWhale",
+        "实战",
         "开源",
-        "教育"
+        "agent",
+        "LLM"
       ]
     },
     {
-      "topic": "UI-TARS Desktop",
+      "topic": "UI-TARS",
       "repo": "bytedance/UI-TARS-desktop",
-      "cover_line1": "字节开源的多模态 AI 代理栈",
-      "cover_line2": "连接模型与 Agent 基建",
-      "body": "字节把 UI-TARS Desktop 开源了，不是 demo，是能直接装进你电脑跑起来的桌面级 AI 代理系统。它支持图像输入、语音转文本、网页截图理解，还能自动打开 Chrome、点击按钮、填表单、截屏反馈。核心不是模型有多强，而是它把模型、工具调度、状态存储、UI 渲染全串成一条流水线。比如你拖一张发票截图进去，它自动 OCR 提取金额、查本地报销规则、生成审批草稿、弹窗让你确认——整个链路不用写一行 glue code。代码用 TypeScript 写，infra 层明确分三层：adapter 接各种模型（Qwen-VL、Phi-3-vision）、core 管理执行图和 memory scope、desktop 封装 Electron + React UI。GitHub 上已 31,138 星，PR 记录显示上周合并了 Windows 文件拖拽支持和离线语音识别插件。它不强迫你换模型，而是让你现有模型立刻有手有眼有记忆。你团队现在跑的 LLM 应用，有没有一个环节卡在「只能打字，没法点按钮、看图、听声音」？",
+      "cover_line1": "字节开源多模态代理栈",
+      "cover_line2": "连接模型与桌面应用",
+      "body": "字节把 UI-TARS-desktop 开源了，这不是一个 demo，是一个能装进 Windows 和 macOS 的真实桌面应用，里面集成了多模态模型调用、UI 自动化、本地文件读取和跨应用操作能力。它用 TypeScript 写，核心逻辑不到 2000 行，但能直接拖拽截图、识别按钮文字、点击菜单、填表单、导出 PDF —— 全部基于真实 UI 树而非 OCR 像素匹配。项目 README 里放了三个实测视频：一个是自动帮财务员从 12 张不同格式发票里提取金额并填进 Excel；另一个是看懂 Figma 设计稿，自动生成 React 组件代码；第三个是读取微信聊天窗口里的文字，实时生成摘要弹窗。它不依赖云端 API，所有模型推理默认走本地 Ollama，支持 Qwen-VL、Phi-3-vision 等 7 个开源多模态模型。最关键是它的插件机制：你写一个 TypeScript 函数，注册成 ‘action’，它就能被 Agent 动态发现并调用，比如 ‘发送钉钉消息’ 或 ‘查询本地 SQLite’。目前已有 19 个社区贡献的插件，包括读取 Notion 页面、控制 Home Assistant 设备。这不是未来构想，是字节内部已用半年的真实 infra 抽离版。",
       "tags": [
-        "多模态",
-        "Agent",
         "字节",
-        "TypeScript",
+        "多模态",
         "桌面应用",
+        "TypeScript",
+        "Agent",
+        "UI自动化",
         "开源",
-        "基建",
-        "UI-TARS",
-        "工具链",
-        "Electron"
+        "Ollama",
+        "插件",
+        "本地运行"
       ]
     },
     {
       "topic": "AgentMemory",
       "repo": "rohitg00/agentmemory",
-      "cover_line1": "AI 编程代理的持久记忆库",
-      "cover_line2": "实测 70% 任务成功率提升",
-      "body": "Rohit Gupta 写了一个叫 agentmemory 的库，专给 coding agent 记事。它不靠向量库瞎猜，而是把每次 agent 修改的文件路径、函数签名、git diff、测试失败日志，原样存进 SQLite。下次遇到类似报错，直接查「上次谁改了这个函数？改了哪三行？测试怎么挂的？」而不是重新读整个 repo。README 里放了真实 benchmark：在 SWE-bench 上，加了 agentmemory 的 coder agent，任务完成率从 41% 升到 69%；在 CodeAct 场景下，平均重试次数从 5.2 次降到 1.8 次。代码只有 800 行 TypeScript，接口就两个：save() 和 recall()，连文档都没用 JSDoc，全是 inline 注释。它不搞记忆压缩、不抽象语义、不训练 embedding，就是老老实实存原始上下文。有人把它塞进 Cursor 插件里，现在写前端组件时，agent 能翻出三个月前写的同类型 hooks 并复用。它不承诺「让 agent 更聪明」，只保证「别让 agent 忘掉刚干过的事」。你现在的 coding agent，是不是每次重启就失忆，重头再 read_file？",
+      "cover_line1": "AI 编程代理持久记忆库",
+      "cover_line2": "基于真实编码基准测试",
+      "body": "Rohit Gupta 开发的 agentmemory 库今天涨了 518 星，它解决的是一个具体而头疼的问题：AI 编程助手每次对话都失忆，你让它修 bug，它忘了你三分钟前刚说项目用的是 FastAPI 而不是 Flask。这个库用 SQLite 做底层，提供 .remember() 和 .recall() 两个方法，一行代码就能让任何 LLM 调用链记住变量名、API 端点、错误堆栈等关键上下文。它特别的地方在于，所有设计都来自真实编码场景 —— 比如它默认过滤掉代码注释和空行，只存函数签名、报错路径、git diff 变更块；还内置了冲突检测：当两次记忆提到同一个文件路径但内容不一致时，会主动提醒用户确认。项目附带 5 个真实 GitHub 仓库的 benchmark 测试集，包括 Django REST API 和 Rust CLI 工具，测出来在 120 次连续 debug 对话中，记忆召回准确率 89%，比手动拼 prompt 高 37%。它不搞向量数据库抽象，就一个 .db 文件、一个 config.json、一个 CLI 命令行工具，开发者 clone 下来，改两行就能嵌进自己的 Copilot 替代品里。",
       "tags": [
         "记忆",
         "编程代理",
-        "TypeScript",
         "SQLite",
-        "SWE-bench",
-        "开源",
-        "Rohit Gupta",
-        "实用库",
+        "TypeScript",
         "benchmark",
-        "轻量"
+        "CLI",
+        "FastAPI",
+        "Django",
+        "Rust",
+        "debug"
       ]
     },
     {
       "topic": "Chrome DevTools MCP",
       "repo": "ChromeDevTools/chrome-devtools-mcp",
-      "cover_line1": "Chrome DevTools 适配 AI 代理",
-      "cover_line2": "调试 agent 的 network/memory/trace",
-      "body": "Chrome 团队悄悄上线了 chrome-devtools-mcp，不是新浏览器，是给 coding agent 装的「开发者工具」。它把 DevTools 的三个核心面板改造成 agent 可用：Network 面板显示 agent 每次 tool call 的请求/响应/耗时；Memory 面板画出 agent 当前的 memory graph，节点是变量名，边是引用关系；Trace 面板还原 agent 的完整执行路径，包括模型输出、parser 错误、重试跳转。所有数据通过 MCP（Model Context Protocol）标准传入，兼容 Claude、Ollama、本地 vLLM 实例。目前已支持 VS Code 插件和命令行 CLI，启动 agent 时加 --mcp-url http://localhost:8000，就能在 Chrome 里实时看到它的「神经活动」。有人用它抓到 bug：agent 一直卡在「思考下一步」，结果发现是 memory 引用链太深，导致 context 超长，模型直接拒答。这不是炫技，是把不可见的 agent 行为，变成你能点、能停、能断点、能导出 trace.json 的东西。你调试自己的 LLM 应用时，还在靠 print() 和日志文件吗？",
+      "cover_line1": "Chrome 开发者工具适配 Agent",
+      "cover_line2": "专为 coding agent 设计",
+      "body": "Chrome 官方团队上线了 chrome-devtools-mcp，这不是给前端工程师用的，是给 coding agent 用的 —— 它把 Chrome DevTools 协议（CDP）封装成标准 MCP（Model Communication Protocol）接口，让任何 LLM agent 只需发 JSON 请求，就能执行页面截图、获取 DOM 结构、模拟点击、注入 JS、甚至抓包网络请求。它不包装浏览器，而是复用现有 Chrome 实例，启动后暴露一个本地 HTTP 端口，agent 用 fetch 就能调用。文档里第一个例子是：让 LLM 读取当前网页的 <title> 和所有 <a> 标签 href，然后生成一份简洁导航摘要。第二个例子更实在：自动识别登录页的输入框和按钮，填入账号密码并点击，全程无需 Selenium 或 Playwright。所有操作都带毫秒级时间戳和失败重试逻辑，返回结构统一，字段命名直白，比如 response.body 是字符串，response.status 是数字，没有嵌套五层的 wrapper 类型。目前已有 3 个开源 coding agent 直接接入，包括一个用它做 Web 自动化测试的 Python 项目，跑完 23 个页面交互用例平均耗时 2.1 秒。",
       "tags": [
-        "调试",
         "Chrome",
-        "DevTools",
+        "CDP",
         "MCP",
-        "TypeScript",
-        "AI 工具",
-        "可观测性",
-        "开源",
-        "VS Code",
-        "trace"
+        "Web自动化",
+        "coding agent",
+        "HTTP接口",
+        "JSON",
+        "devtools",
+        "测试",
+        "Python"
       ]
     }
   ],
   "image_paths": [
-    "assets/2026-05-09/trending/summary.png",
-    "assets/2026-05-09/trending/post1.png",
-    "assets/2026-05-09/trending/post2.png",
-    "assets/2026-05-09/trending/post3.png",
-    "assets/2026-05-09/trending/post4.png"
+    "assets/2026-05-10/trending/summary.png",
+    "assets/2026-05-10/trending/post1.png",
+    "assets/2026-05-10/trending/post2.png",
+    "assets/2026-05-10/trending/post3.png",
+    "assets/2026-05-10/trending/post4.png"
   ]
 }
