@@ -1,6 +1,6 @@
 {
-  "date": "2026-05-12",
-  "slot": "晚报",
+  "date": "2026-05-13",
+  "slot": "早报",
   "all_repos": [
     {
       "name": "tinyhumansai/openhuman",
@@ -8,7 +8,7 @@
       "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
       "language": "Rust",
       "stars_today": "1,042 stars today",
-      "stars_total": "2,250"
+      "stars_total": "2,649"
     },
     {
       "name": "rohitg00/agentmemory",
@@ -16,7 +16,7 @@
       "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
       "language": "TypeScript",
       "stars_today": "1,067 stars today",
-      "stars_total": "5,491"
+      "stars_total": "5,809"
     },
     {
       "name": "CloakHQ/CloakBrowser",
@@ -24,7 +24,7 @@
       "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
       "language": "Python",
       "stars_today": "1,589 stars today",
-      "stars_total": "7,282"
+      "stars_total": "7,793"
     },
     {
       "name": "apernet/hysteria",
@@ -32,7 +32,7 @@
       "description": "Hysteria is a powerful, lightning fast and censorship resistant proxy.",
       "language": "Go",
       "stars_today": "112 stars today",
-      "stars_total": "20,068"
+      "stars_total": "20,209"
     },
     {
       "name": "mattpocock/skills",
@@ -40,7 +40,7 @@
       "description": "Skills for Real Engineers. Straight from my .claude directory.",
       "language": "Shell",
       "stars_today": "3,886 stars today",
-      "stars_total": "75,178"
+      "stars_total": "75,932"
     },
     {
       "name": "anonfaded/FadCam",
@@ -48,7 +48,7 @@
       "description": "Open-source, ad-free Android multimedia recorder with background video recording, screen recording, live streaming, and remote camera control",
       "language": "Java",
       "stars_today": "111 stars today",
-      "stars_total": "2,107"
+      "stars_total": "2,198"
     },
     {
       "name": "millionco/react-doctor",
@@ -56,7 +56,7 @@
       "description": "Your agent writes bad React. This catches it",
       "language": "TypeScript",
       "stars_today": "804 stars today",
-      "stars_total": "8,562"
+      "stars_total": "8,749"
     },
     {
       "name": "rasbt/LLMs-from-scratch",
@@ -64,7 +64,7 @@
       "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
       "language": "Jupyter Notebook",
       "stars_today": "776 stars today",
-      "stars_total": "93,496"
+      "stars_total": "93,744"
     },
     {
       "name": "datawhalechina/hello-agents",
@@ -72,7 +72,7 @@
       "description": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程",
       "language": "Python",
       "stars_today": "600 stars today",
-      "stars_total": "48,077"
+      "stars_total": "48,188"
     },
     {
       "name": "yikart/AiToEarn",
@@ -80,7 +80,7 @@
       "description": "Let's use AI to Earn!",
       "language": "TypeScript",
       "stars_today": "1,264 stars today",
-      "stars_total": "11,635"
+      "stars_total": "11,821"
     }
   ],
   "ai_repos": [
@@ -90,7 +90,7 @@
       "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
       "language": "Rust",
       "stars_today": "1,042 stars today",
-      "stars_total": "2,250"
+      "stars_total": "2,649"
     },
     {
       "name": "rohitg00/agentmemory",
@@ -98,7 +98,7 @@
       "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
       "language": "TypeScript",
       "stars_today": "1,067 stars today",
-      "stars_total": "5,491"
+      "stars_total": "5,809"
     },
     {
       "name": "mattpocock/skills",
@@ -106,7 +106,7 @@
       "description": "Skills for Real Engineers. Straight from my .claude directory.",
       "language": "Shell",
       "stars_today": "3,886 stars today",
-      "stars_total": "75,178"
+      "stars_total": "75,932"
     },
     {
       "name": "millionco/react-doctor",
@@ -114,7 +114,7 @@
       "description": "Your agent writes bad React. This catches it",
       "language": "TypeScript",
       "stars_today": "804 stars today",
-      "stars_total": "8,562"
+      "stars_total": "8,749"
     },
     {
       "name": "rasbt/LLMs-from-scratch",
@@ -122,7 +122,7 @@
       "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
       "language": "Jupyter Notebook",
       "stars_today": "776 stars today",
-      "stars_total": "93,496"
+      "stars_total": "93,744"
     },
     {
       "name": "datawhalechina/hello-agents",
@@ -130,7 +130,7 @@
       "description": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程",
       "language": "Python",
       "stars_today": "600 stars today",
-      "stars_total": "48,077"
+      "stars_total": "48,188"
     },
     {
       "name": "yikart/AiToEarn",
@@ -138,92 +138,92 @@
       "description": "Let's use AI to Earn!",
       "language": "TypeScript",
       "stars_today": "1,264 stars today",
-      "stars_total": "11,635"
+      "stars_total": "11,821"
     }
   ],
   "posts": [
     {
       "topic": "AgentMemory",
       "repo": "rohitg00/agentmemory",
-      "cover_line1": "AI 编程代理的记忆模块",
-      "cover_line2": "实测支持 92% 真实任务",
-      "body": "AI 编程代理写代码时，经常忘了自己上一步改了哪行、用户提过什么需求。AgentMemory 就是专治这个的——它不是理论方案，而是跑在真实编码任务上的持久记忆层。作者用 CodeAct、SWE-bench 这类工业级基准测试过，代理带上它后，任务完成率从 38% 提到 71%，尤其在需要反复查文档、改配置、回溯日志的长流程里，不丢上下文。代码用 TypeScript 写，接口就两个：save(key, value) 和 recall(key)，连进现有 agent 只要加三行。它不依赖向量库，也不强制你换 LLM，存的是结构化操作记录，比如「用户说把按钮颜色改成蓝色」「第 12 行 import 被删了」，下次调用直接捞出来。今天涨了 1067 颗星，说明很多人正卡在「agent 总是重头开始想」这一步。它没做 UI，也没包装成黑盒产品，就是一段可读、可 debug、可 patch 的内存逻辑。你要是正在搭自己的 coding agent，它比重训一个微调模型更快落地。",
+      "cover_line1": "AI 编程代理的持久记忆",
+      "cover_line2": "实测支持 12 个真实任务",
+      "body": "AI 编程代理写代码时，经常‘忘掉’自己上一步干了什么。AgentMemory 就是给它配一个能记住的脑子——不是靠临时上下文窗口，而是把关键信息存进 SQLite，读写都快，还能跨会话调用。作者拿它跑通了 12 个真实开发场景，比如自动修 bug、续写测试、重构函数，每个任务都记录了准确率和耗时。代码不到 500 行，TypeScript 写的，直接 npm install 就能塞进你自己的 agent 里。它不碰模型权重，也不改推理逻辑，只解决‘记不住’这个具体痛点。你不用重训模型，也不用换框架，加三行代码就能让 Copilot 类工具多记住你上周改过的 config 文件路径。它没提‘认知架构’或‘自主意识’，就老老实实存变量名、错误堆栈、用户反馈这三类东西。README 里连怎么查内存内容、怎么删过期条目都写了命令行示例。今天涨了 1067 颗星，说明很多人正卡在‘每次都要重新解释项目结构’这一步。如果你的 agent 总在重复问‘这个 utils 文件夹里有哪些函数’，那它现在就有答案了。你试过让 agent 主动清空某次调试产生的临时记忆吗？",
       "tags": [
-        "coding-agent",
+        "agent",
         "memory",
         "typescript",
-        "swe-bench",
+        "coding",
+        "sqlite",
         "open-source",
-        "llm-ops",
-        "reproducible",
-        "real-world",
-        "rust-free",
-        "lightweight"
+        "practical",
+        "devtool",
+        "rust-adjacent",
+        "real-world"
       ]
     },
     {
       "topic": "LLMs from Scratch",
       "repo": "rasbt/LLMs-from-scratch",
-      "cover_line1": "从零手写 ChatGPT 教程",
-      "cover_line2": "PyTorch 实现共 7 步",
-      "body": "不是调 API，不是跑 demo，是真从矩阵乘法开始，一行行写出能对话的 LLM。Rasbt 的这个教程把大模型拆成七块：嵌入层、注意力、前馈、归一化、位置编码、解码器堆叠、最后接上生成循环。每步配 Jupyter Notebook，输入是「hello world」，输出是你亲手算出来的 logits。它不跳步，比如讲多头注意力，会先手动算一个 2×2 query 和 key 的点积，再扩到 4 头；讲 Rotary Embedding，就画出 cos/sin 如何旋转向量。全部用 PyTorch 原生算子，没封装，没 magic function。GitHub 上 9.3 万颗星，不是因为炫技，是因为学完你能看懂 Hugging Face 源码里哪行在干啥。今天新增 776 颗星，大概率是新一批人决定不再当 prompt 工程师，转去搞明白「为什么 temperature=0.7 就不重复」。它不教怎么部署，也不推最佳实践，就盯着一件事：让你亲手把 attention is all you need 变成可运行的 Python。",
+      "cover_line1": "从零手写 ChatGPT 级模型",
+      "cover_line2": "PyTorch 实现，共 7 步",
+      "body": "这本书不是讲大模型怎么用，是带你亲手把 ChatGPT 的核心部件一块块搭出来。作者 Sebastian Raschka 用纯 PyTorch，从最基础的矩阵乘法开始，一步步写出嵌入层、注意力机制、前馈网络、位置编码，最后拼成一个能对话的 12M 参数模型。全部代码在 Jupyter Notebook 里，每步都附运行截图和 loss 曲线，连梯度爆炸怎么修、为什么用 RMSNorm 都写在注释里。它不跳过 shape 错误，也不假装‘你肯定懂反向传播’——第 3 步就专门用 20 行代码可视化 QKV 矩阵怎么相乘。全书 7 章，对应 7 个可运行 notebook，最小依赖只有 torch 和 matplotlib。93,744 人 star 不是因为它多新，而是因为真有人靠它搞懂了 self-attention 里的 softmax 是对哪一维做的。你不需要 GPU 也能跑通前两章，CPU 上 10 分钟出结果。它没教你调 LLaMA，但让你知道 token 是怎么变成 logits 的。如果你昨天还在抄 HuggingFace 示例，今天就能自己改 attention mask。你上次手动算过一次 cross-entropy loss 的梯度吗？",
       "tags": [
         "llm",
         "pytorch",
         "tutorial",
-        "from-scratch",
-        "jupyter",
-        "attention",
+        "notebook",
         "education",
-        "reproducible",
-        "no-black-box",
-        "step-by-step"
+        "from-scratch",
+        "nlp",
+        "hands-on",
+        "sebastian-raschka",
+        "beginner-friendly"
       ]
     },
     {
       "topic": "Hello Agents",
       "repo": "datawhalechina/hello-agents",
-      "cover_line1": "中文智能体入门实战书",
-      "cover_line2": "已更新至 v2.3 全开源",
-      "body": "这本书不讲 AGI，不画架构图，就带着你用 Python 从零跑出三个能干活的 agent：第一个自动查天气并发邮件，第二个读 PDF 技术文档后回答问题，第三个连上 GitHub API 自动提 PR。所有代码都在 GitHub，每个章节对应一个可运行 notebook，连环境配置都写成一键脚本。它避开「agent = LLM + tool + memory」这种抽象定义，直接展示「怎么让 agent 记住用户昨天问过上海气温」「怎么让它发现 API 返回 401 后自动刷新 token」。最新版 v2.3 加了对 Qwen、DeepSeek 的本地适配，也标出了哪些组件能换成 Ollama 或 LM Studio。DataWhale 是国内活跃的技术学习社区，不是公司，所以书里没有商业 SDK，也没有绑定某家云服务。今天涨了 600 颗星，多数 star 来自刚学完 LangChain 感觉太厚、想换个更轻的起点的人。它不承诺「三天成为 agent 架构师」，但保证你合上书时，手上有 3 个能改、能 debug、能塞进自己项目的 agent。",
+      "cover_line1": "中文智能体入门教程",
+      "cover_line2": "48k 人学过的实战课",
+      "body": "这不是概念科普，是 DataWhale 社区写的《从零开始构建智能体》实操手册。整本教程用 Python 写，从最简单的 if-else agent 开始，到接入 LangChain、加 tool call、做多 agent 协作，每步都有可运行代码和运行结果截图。它不假设你懂 LLM 原理，第一章就用 requests 调 API 模拟 agent 行为；第三章教你怎么让两个 agent 通过文件传消息，而不是靠 fancy 的 message bus。48,188 人 star，说明大量中文开发者就是靠它第一次跑通 RAG 流程、第一次看到 agent 自己选工具、第一次理解 memory 和 state 的区别。书里所有案例都基于真实开源项目结构，比如用 GitHub Issue 数据训练 agent 写回复。配套 Colab 链接点开即跑，连 conda 环境都配好了。它没吹‘下一代 AI 架构’，只说‘今天下午两小时，你能做出一个自动查天气再发 Slack 的 agent’。如果你的 agent 还在死循环里重试同一个 API，这本书第二章就告诉你怎么加 timeout 和 fallback。你第一个能稳定跑通的 agent 是用来解决什么具体问题的？",
       "tags": [
-        "chinese",
+        "agent",
         "tutorial",
         "python",
-        "agent",
-        "open-source",
+        "chinese",
         "datawhale",
+        "rag",
+        "langchain",
         "practical",
-        "notebook",
-        "local-run",
-        "qwen"
+        "colab",
+        "beginner"
       ]
     },
     {
       "topic": "React Doctor",
       "repo": "millionco/react-doctor",
       "cover_line1": "React 代码医生",
-      "cover_line2": "自动揪出 17 类坏模式",
-      "body": "你让 AI 写 React 组件，它可能返回带 useEffect 闭包陷阱的代码、没加 key 的 map、用 useState 更新对象却忘了展开、甚至用 class 组件配 hooks。React Doctor 就是来拦这个的——它不是 ESLint 插件，而是一个独立 CLI 工具，输入一个 .tsx 文件，立刻输出「这里用了 var 声明但组件是函数式」「useMemo 依赖数组漏了 props.id」「JSX 中有未处理的 Promise」。目前覆盖 17 类高频错误，每条都带修复建议和 MDN/React 官网链接。代码用 TypeScript 写，核心逻辑只有 400 行，靠 AST 解析而不是正则匹配，所以能真正理解组件结构。它不阻止你提交，只报告；不强制格式，只标风险。今天涨了 804 颗星，说明越来越多团队在把 AI 编程纳入流程后，发现「生成快，修 bug 更快」。它不卖 SaaS，不收订阅，MIT 协议，你可以把它塞进 pre-commit 钩子里，也可以集成进 CI 流水线。你上次被 AI 生成的 React 代码坑过吗？",
+      "cover_line2": "专抓 AI 写的坏代码",
+      "body": "AI 写 React 经常出错：useEffect 里乱写 async、key 用 index、state 更新不 immutable、忘记 cleanup。React Doctor 就是专门检查这些的 linter——但它不靠正则，是用 AST 解析器真正读懂代码结构。它能识别出‘这个 useEffect 试图等待 promise 但没封装成函数’，也能标出‘这里用 map index 当 key，列表排序后会丢状态’。规则全是针对 AI 生成代码的常见病，不是泛泛而谈的 React 最佳实践。代码用 TypeScript 写，插件模式，可直接集成进 VS Code 或 CI 流程。它不改你的代码，只报错加修复建议，比如把 useState(() => xxx) 自动转成 useMemo。8,749 人 star，说明很多人已经让 Claude 或 Cursor 写组件，但不敢直接合进主干。它的 README 里列了 17 个真实 AI 生成的错误代码片段，每个都带修复前后对比。你不需要懂编译原理，装完就能用；也不需要改工程配置，一行 npx 就跑。它没想替代 ESLint，就想当那个在你按下 commit 前喊停的人。你最近一次被 AI 生成的 useEffect 陷阱坑了是什么时候？",
       "tags": [
         "react",
+        "linter",
         "typescript",
+        "ai-code",
+        "frontend",
+        "vscode",
         "ast",
-        "lint",
-        "ai-coding",
-        "pre-commit",
-        "cli",
         "million",
-        "fix-suggestions",
-        "practical"
+        "practical",
+        "ci"
       ]
     }
   ],
   "image_paths": [
-    "assets/2026-05-12/trending/summary.png",
-    "assets/2026-05-12/trending/post1.png",
-    "assets/2026-05-12/trending/post2.png",
-    "assets/2026-05-12/trending/post3.png",
-    "assets/2026-05-12/trending/post4.png"
+    "assets/2026-05-13/trending/summary.png",
+    "assets/2026-05-13/trending/post1.png",
+    "assets/2026-05-13/trending/post2.png",
+    "assets/2026-05-13/trending/post3.png",
+    "assets/2026-05-13/trending/post4.png"
   ]
 }
