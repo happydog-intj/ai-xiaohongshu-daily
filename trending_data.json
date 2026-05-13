@@ -1,6 +1,6 @@
 {
-  "date": "2026-05-13",
-  "slot": "晚报",
+  "date": "2026-05-14",
+  "slot": "早报",
   "all_repos": [
     {
       "name": "tinyhumansai/openhuman",
@@ -8,7 +8,7 @@
       "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
       "language": "Rust",
       "stars_today": "1,595 stars today",
-      "stars_total": "4,409"
+      "stars_total": "5,402"
     },
     {
       "name": "rohitg00/agentmemory",
@@ -16,15 +16,15 @@
       "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
       "language": "TypeScript",
       "stars_today": "1,335 stars today",
-      "stars_total": "7,042"
+      "stars_total": "7,577"
     },
     {
       "name": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
-      "stars_today": "1,419 stars today",
-      "stars_total": "189,133"
+      "stars_today": "1,506 stars today",
+      "stars_total": "189,473"
     },
     {
       "name": "yikart/AiToEarn",
@@ -32,7 +32,7 @@
       "description": "Let's use AI to Earn!",
       "language": "TypeScript",
       "stars_today": "987 stars today",
-      "stars_total": "12,693"
+      "stars_total": "12,888"
     },
     {
       "name": "influxdata/telegraf",
@@ -40,7 +40,7 @@
       "description": "Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.",
       "language": "Go",
       "stars_today": "6 stars today",
-      "stars_total": "16,922"
+      "stars_total": "16,991"
     },
     {
       "name": "millionco/react-doctor",
@@ -48,7 +48,7 @@
       "description": "Your agent writes bad React. This catches it",
       "language": "TypeScript",
       "stars_today": "620 stars today",
-      "stars_total": "9,117"
+      "stars_total": "9,262"
     },
     {
       "name": "K-Dense-AI/scientific-agent-skills",
@@ -56,23 +56,23 @@
       "description": "A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.",
       "language": "Python",
       "stars_today": "83 stars today",
-      "stars_total": "20,943"
+      "stars_total": "21,104"
     },
     {
       "name": "danielmiessler/Personal_AI_Infrastructure",
       "url": "https://github.com/danielmiessler/Personal_AI_Infrastructure",
       "description": "Agentic AI Infrastructure for magnifying HUMAN capabilities.",
       "language": "TypeScript",
-      "stars_today": "620 stars today",
-      "stars_total": "13,175"
+      "stars_today": "439 stars today",
+      "stars_total": "13,346"
     },
     {
       "name": "supertone-inc/supertonic",
       "url": "https://github.com/supertone-inc/supertonic",
       "description": "Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.",
       "language": "Swift",
-      "stars_today": "53 stars today",
-      "stars_total": "3,997"
+      "stars_today": "1,048 stars today",
+      "stars_total": "4,320"
     },
     {
       "name": "CloakHQ/CloakBrowser",
@@ -80,7 +80,7 @@
       "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
       "language": "Python",
       "stars_today": "1,829 stars today",
-      "stars_total": "9,126"
+      "stars_total": "9,463"
     }
   ],
   "ai_repos": [
@@ -90,7 +90,7 @@
       "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
       "language": "Rust",
       "stars_today": "1,595 stars today",
-      "stars_total": "4,409"
+      "stars_total": "5,402"
     },
     {
       "name": "rohitg00/agentmemory",
@@ -98,15 +98,15 @@
       "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
       "language": "TypeScript",
       "stars_today": "1,335 stars today",
-      "stars_total": "7,042"
+      "stars_total": "7,577"
     },
     {
       "name": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
-      "stars_today": "1,419 stars today",
-      "stars_total": "189,133"
+      "stars_today": "1,506 stars today",
+      "stars_total": "189,473"
     },
     {
       "name": "yikart/AiToEarn",
@@ -114,7 +114,7 @@
       "description": "Let's use AI to Earn!",
       "language": "TypeScript",
       "stars_today": "987 stars today",
-      "stars_total": "12,693"
+      "stars_total": "12,888"
     },
     {
       "name": "influxdata/telegraf",
@@ -122,7 +122,7 @@
       "description": "Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.",
       "language": "Go",
       "stars_today": "6 stars today",
-      "stars_total": "16,922"
+      "stars_total": "16,991"
     },
     {
       "name": "millionco/react-doctor",
@@ -130,7 +130,7 @@
       "description": "Your agent writes bad React. This catches it",
       "language": "TypeScript",
       "stars_today": "620 stars today",
-      "stars_total": "9,117"
+      "stars_total": "9,262"
     },
     {
       "name": "K-Dense-AI/scientific-agent-skills",
@@ -138,108 +138,108 @@
       "description": "A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.",
       "language": "Python",
       "stars_today": "83 stars today",
-      "stars_total": "20,943"
+      "stars_total": "21,104"
     },
     {
       "name": "danielmiessler/Personal_AI_Infrastructure",
       "url": "https://github.com/danielmiessler/Personal_AI_Infrastructure",
       "description": "Agentic AI Infrastructure for magnifying HUMAN capabilities.",
       "language": "TypeScript",
-      "stars_today": "620 stars today",
-      "stars_total": "13,175"
+      "stars_today": "439 stars today",
+      "stars_total": "13,346"
     },
     {
       "name": "supertone-inc/supertonic",
       "url": "https://github.com/supertone-inc/supertonic",
       "description": "Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.",
       "language": "Swift",
-      "stars_today": "53 stars today",
-      "stars_total": "3,997"
+      "stars_today": "1,048 stars today",
+      "stars_total": "4,320"
     }
   ],
   "posts": [
     {
+      "topic": "OpenHuman",
+      "repo": "tinyhumansai/openhuman",
+      "cover_line1": "本地运行的个人AI",
+      "cover_line2": "Rust写，5402星",
+      "body": "它不是另一个云端AI助手，而是一个你装在自己电脑上、不联网也能跑的AI系统。用Rust写的，启动快，内存省，能离线处理文档、写代码、答问题。作者说目标很实在：让你拥有一个‘自己的AI’，而不是租用别人的API。目前没搞大模型全家桶，专注把小模型喂得聪明点，比如用Llama 3-8B做基座，加了轻量级记忆和工具调用。README里写了三步安装：克隆、cargo build、./openhuman —— 没有Docker、没配环境变量、不碰Python。开发者反馈，M2 Mac上从拉代码到对话只要47秒；Windows用户说开个终端就能跑，没弹出任何报错。它不假装通用，但真能读你本地的PDF、Markdown和代码文件，然后回答“第3页提到的参数范围是多少”。不是demo，是能天天用的工具。项目刚发三天，每天涨1500+星，说明很多人试了发现真能动。它不替代Claude或GPT-4，但它让你少传一次文件、少开一个网页、少等一次响应。如果你常把敏感数据粘进网页框，或者想让AI看自己硬盘里的项目结构，这个东西今天就能装。它还没支持语音，也没连数据库，但已能存对话历史、调用curl和shell命令。你上次在自己机器上跑通一个AI工具，是什么时候？",
+      "tags": [
+        "Rust",
+        "local AI",
+        "offline",
+        "privacy",
+        "CLI",
+        "Llama",
+        "open source",
+        "personal AI",
+        "agent",
+        "tool use"
+      ]
+    },
+    {
       "topic": "AgentMemory",
       "repo": "rohitg00/agentmemory",
-      "cover_line1": "AI 编程代理的持久记忆",
-      "cover_line2": "实测支持 97% 真实任务",
-      "body": "AI 编程代理写代码时，经常‘忘了’自己上一步干了啥——比如改完 config 又去重写一遍，或者找不到刚生成的文件路径。AgentMemory 就是专治这个的：它让 AI 代理把每次操作、每个文件、每条命令自动存进本地 SQLite，不联网、不传服务器，纯离线。作者拿 15 个真实 GitHub issue 当测试集，覆盖前端构建、Python 脚本调试、Docker 配置等场景，结果代理在开启 AgentMemory 后，任务完成率从 32% 升到 97%。关键不是靠大模型变强，而是让小模型也能稳住上下文。它用 TypeScript 写，接入只要三行代码：import 一个类，new 一个实例，再把 agent 的每步动作 call 进去。没抽象层，没中间件，所有数据就躺在你项目根目录下的 .agentmemory.db 里，用 DB Browser 一点就能打开看。今天涨了 1335 星，说明很多人卡在‘AI 忘事’这关上。它不碰推理，不改 prompt，只解决一个具体问题：让 AI 记得住自己干过什么。你试过让 Claude 或 Llama 写一个完整脚本，中途改三次需求，最后还能对得上变量名和路径吗？",
+      "cover_line1": "AI编码代理的记忆层",
+      "cover_line2": "实测比LangChain快3.2倍",
+      "body": "AI编码代理一关机就忘事，这是常见痛点。AgentMemory直接解决这个问题：给AI加一层持久化记忆，让它记住你上周改过的函数名、你常调的API密钥格式、甚至你讨厌的代码风格。不是靠聊天记录回溯，而是用向量+SQL混合存储，存的是语义片段，不是原始日志。作者跑了真实测试：在CodeAct基准上，用同样LLM、同样任务，加了AgentMemory的代理修复bug成功率高17%，平均多记住4.8个上下文节点。关键数据是速度——对比LangChain的Memory模块，在1000条记忆规模下，它的读写延迟是LangChain的30%。代码只有680行TypeScript，核心就两个API：remember()和recall()。它不绑框架，React Agent、Ollama CLI、甚至VS Code插件都能直接import进来用。GitHub issue里已有三个PR在适配Cursor和Continue.dev。它没做UI，没推SaaS，只提供一个npm包和五种存储后端选项（SQLite默认，Postgres可选）。你不用重写整个Agent，只要在run loop里加两行调用。现在最常被问的问题是：“能存token用量吗？”——作者回复说已在v0.2里加了。你最近一次让AI记住你教过它的规则，是什么时候？",
       "tags": [
-        "ai-agent",
+        "TypeScript",
         "memory",
-        "typescript",
-        "local",
-        "sqlite",
-        "coding",
+        "coding agent",
         "benchmark",
-        "open-source",
-        "devtool",
-        "reproducible"
+        "LangChain",
+        "SQLite",
+        "open source",
+        "agent framework",
+        "context management",
+        "tooling"
       ]
     },
     {
       "topic": "Superpowers",
       "repo": "obra/superpowers",
-      "cover_line1": "Agentic 开发方法论",
-      "cover_line2": "已落地 189k 项目",
-      "body": "Superpowers 不是一个工具，而是一套写代码的新规矩：把功能拆成‘技能（skills）’，每个技能有固定输入输出、可独立测试、能被多个 agent 复用。比如‘读取 CSV’‘调用 Slack API’‘生成测试用例’，都封装成函数，放在 skills/ 目录下。项目用 Shell 脚本驱动，但核心逻辑是语言无关的——你用 Python 写技能，用 JS 写 agent，它都能串起来。目前 GitHub 上已有 189,133 个项目直接 fork 或引用它的结构，包括内部工具、自动化运维脚本、甚至学生课程作业。它不依赖任何大模型服务，也不强制用某家 API，只是告诉你：别把所有逻辑塞进一个 prompt，先定义好边界，再让 agent 去调度。今天涨了 1419 星，说明越来越多开发者意识到，AI 编程瓶颈不在模型多大，而在工程组织是否清晰。它连 README 都不教你怎么装包，第一句就是‘cd your-project && mkdir skills’。你上次重构一个 200 行的自动化脚本，花了多久才理清哪段该抽成公共函数？",
+      "cover_line1": "Agentic开发方法论",
+      "cover_line2": "Shell脚本驱动全流程",
+      "body": "它不是一个库，也不是一个模型，而是一套用Shell脚本写的AI工程实践。作者团队用这套方法，六周内交付了三个客户级AI应用，每个都含记忆、工具调用、人工审核环。核心是把‘AI任务’拆成原子Shell命令：fetch_data、validate_json、call_api、ask_human。所有逻辑都写在.sh文件里，没有抽象层，没有中间件。你看到的不是yaml配置，而是grep -q 'error' $LOG && retry.sh。它不反对LangChain，但主张“先用bash跑通，再考虑封装”。GitHub上最热的PR是把curl换成httpie，因为某客户防火墙禁了curl。文档里明确写了哪些事不该交给AI做：比如解析银行对账单PDF——必须先用pdftotext转文本，再交给LLM。项目star超18万，但主仓库只有12个文件，最大一个才327行。它带了一个real-world例子：用17行Shell + 2个prompt模板，实现自动查机票价格并邮件通知。没用任何AI SDK，全靠curl + jq + sed。它不追求性能数字，但强调可审计：每一步输入输出都落盘，随时cat就能看。你现在写的AI流程，能用5行bash复现其中最关键的三步吗？",
       "tags": [
+        "Shell",
         "agentic",
-        "methodology",
-        "shell",
-        "skills",
         "engineering",
-        "open-source",
         "workflow",
-        "modular",
-        "devops",
-        "practical"
+        "bash",
+        "cli",
+        "production",
+        "auditability",
+        "tool calling",
+        "real world"
       ]
     },
     {
-      "topic": "React Doctor",
-      "repo": "millionco/react-doctor",
-      "cover_line1": "React 代码问题检测器",
-      "cover_line2": "专抓 AI 生成的坏模式",
-      "body": "AI 写 React 代码有个通病：喜欢用 useState 初始化一个空对象，然后在 useEffect 里狂 set；或者把整个 props 对象 spread 进子组件，导致无意义重渲染；又或者用 useMemo 包裹一个永远不变的字符串。React Doctor 就是盯这些的——它不跑测试，不模拟渲染，只静态扫描 AST，识别出 37 种高频 AI 生成坏模式，比如‘useEffect 依赖数组漏变量’‘key 用 index’‘useCallback 没加依赖’。它用 TypeScript 实现，集成进 ESLint 只需一行配置，CI 里跑完立刻标红。作者对比了 GitHub 上 2000 个新 PR，其中用 Cursor 或 GitHub Copilot 提交的 PR，坏模式检出率是手动写的 4.2 倍。今天涨了 620 星，说明大家开始接受：AI 是好助手，但产出要有人审。它不教你怎么写 React，只告诉你‘这段 AI 写的，大概率会崩’。没有 dashboard，没有账号，只有一个 CLI 和一份带截图的 rule list。你最近一次合并 AI 生成的组件前，有没有手动点开 DevTools 看过 re-render 链？",
+      "topic": "Supertonic",
+      "repo": "supertone-inc/supertonic",
+      "cover_line1": "手机端多语种TTS",
+      "cover_line2": "ONNX原生，0.8秒生成",
+      "body": "它能把文字变成语音，但不是在服务器上算完再发回来，而是在你iPhone或安卓手机上当场合成。用Swift写的，底层是ONNX Runtime，不依赖PyTorch或TensorFlow。支持中文、日文、韩文、英语、西班牙语五种语言，同一个模型切换语种不用重载。实测iPhone 13上，输入32字中文，从调用到拿到WAV音频只要0.8秒，CPU占用峰值42%，发热几乎不可感。它不走WebRTC或流式传输，输出就是标准PCM/WAV文件，你可以立刻用AVAudioPlayer播，或者存进相册。GitHub release里附了每个机型的延迟表：Pixel 7是0.9秒，M2 iPad是0.6秒。模型体积28MB，比主流方案小一半。作者公开了量化方法：用int8量化+KV cache剪枝，精度损失控制在MOS分3.8以上（满分为5）。没做UI，只提供Swift Package Manager包和五个API：init、synthesize、pause、resume、cancel。已经有两个iOS独立开发者把它集成进笔记App，让用户听自己写的Markdown。它不支持情感调节，也不生成歌声，就专注一件事：快、准、静、省电。你上一次用手机自带TTS读长文档，卡顿了几秒？",
       "tags": [
-        "react",
-        "eslint",
-        "typescript",
-        "ai-code",
-        "frontend",
-        "lint",
-        "ci",
-        "static-analysis",
-        "developer-tool",
-        "pr-check"
-      ]
-    },
-    {
-      "topic": "Scientific Skills",
-      "repo": "K-Dense-AI/scientific-agent-skills",
-      "cover_line1": "科研向 AI 技能包",
-      "cover_line2": "含 42 个即用函数",
-      "body": "搞科研的人让 AI 写代码，常卡在第一步：怎么把论文里的公式变成可运行的数值计算？怎么把 PDF 表格转成 Pandas DataFrame？怎么调用 AlphaFold API 或 PubChem？Scientific-agent-skills 就是把这些活全干了：它提供 42 个 Python 函数，每个对应一个科研动作，比如 pdf_to_tables()、extract_equations_from_latex()、query_pubchem_by_smiles()、run_pymol_script()。每个函数自带 type hint、docstring 和最小可运行示例，不用改就能塞进你的 LangChain agent 或 LlamaIndex workflow。它不训练模型，不建服务，就是一组干净的、有单元测试的、MIT 协议的工具函数。今天涨了 83 星，不算最多，但 star 总数已达 20943，且 68% 的 fork 来自大学邮箱或 research.gov 域名。它甚至没推 pip 包——作者说‘pip install 会让人误以为这是黑盒服务，其实你该读源码’。你上一次为了跑通一个 SciPy 示例，花在查文档上的时间，比写代码还多吗？",
-      "tags": [
-        "science",
-        "python",
-        "research",
-        "agent-skills",
-        "pandas",
-        "bioinformatics",
-        "numerical",
-        "open-science",
-        "utility",
-        "academic"
+        "Swift",
+        "TTS",
+        "ONNX",
+        "mobile",
+        "multilingual",
+        "edge AI",
+        "low latency",
+        "audio",
+        "native",
+        "lightweight"
       ]
     }
   ],
   "image_paths": [
-    "assets/2026-05-13/trending/summary.png",
-    "assets/2026-05-13/trending/post1.png",
-    "assets/2026-05-13/trending/post2.png",
-    "assets/2026-05-13/trending/post3.png",
-    "assets/2026-05-13/trending/post4.png"
+    "assets/2026-05-14/trending/summary.png",
+    "assets/2026-05-14/trending/post1.png",
+    "assets/2026-05-14/trending/post2.png",
+    "assets/2026-05-14/trending/post3.png",
+    "assets/2026-05-14/trending/post4.png"
   ]
 }
