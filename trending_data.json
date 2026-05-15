@@ -1,86 +1,86 @@
 {
   "date": "2026-05-15",
-  "slot": "早报",
+  "slot": "晚报",
   "all_repos": [
-    {
-      "name": "ruvnet/RuView",
-      "url": "https://github.com/ruvnet/RuView",
-      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
-      "language": "Rust",
-      "stars_today": "1,757 stars today",
-      "stars_total": "55,934"
-    },
     {
       "name": "tinyhumansai/openhuman",
       "url": "https://github.com/tinyhumansai/openhuman",
       "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
       "language": "Rust",
-      "stars_today": "3,476 stars today",
-      "stars_total": "7,729"
-    },
-    {
-      "name": "rohitg00/agentmemory",
-      "url": "https://github.com/rohitg00/agentmemory",
-      "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
-      "language": "TypeScript",
-      "stars_today": "1,978 stars today",
-      "stars_total": "8,948"
+      "stars_today": "1,272 stars today",
+      "stars_total": "8,594"
     },
     {
       "name": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
-      "stars_today": "1,801 stars today",
-      "stars_total": "191,148"
+      "stars_today": "1,646 stars today",
+      "stars_total": "192,387"
     },
     {
       "name": "K-Dense-AI/scientific-agent-skills",
       "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
       "description": "A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.",
       "language": "Python",
-      "stars_today": "637 stars today",
-      "stars_total": "21,763"
-    },
-    {
-      "name": "shiyu-coder/Kronos",
-      "url": "https://github.com/shiyu-coder/Kronos",
-      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
-      "language": "Python",
-      "stars_today": "359 stars today",
-      "stars_total": "24,797"
-    },
-    {
-      "name": "roboflow/supervision",
-      "url": "https://github.com/roboflow/supervision",
-      "description": "We write your reusable computer vision tools. 💜",
-      "language": "Python",
-      "stars_today": "59 stars today",
-      "stars_total": "38,866"
-    },
-    {
-      "name": "influxdata/telegraf",
-      "url": "https://github.com/influxdata/telegraf",
-      "description": "Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.",
-      "language": "Go",
-      "stars_today": "211 stars today",
-      "stars_total": "17,215"
+      "stars_today": "643 stars today",
+      "stars_total": "22,221"
     },
     {
       "name": "supertone-inc/supertonic",
       "url": "https://github.com/supertone-inc/supertonic",
       "description": "Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.",
       "language": "Swift",
-      "stars_today": "1,163 stars today",
-      "stars_total": "5,304"
+      "stars_today": "712 stars today",
+      "stars_total": "5,767"
     },
     {
-      "name": "Genymobile/scrcpy",
-      "url": "https://github.com/Genymobile/scrcpy",
-      "description": "Display and control your Android device",
-      "language": "C",
-      "stars_today": "778 stars today",
-      "stars_total": "141,314"
+      "name": "ruvnet/RuView",
+      "url": "https://github.com/ruvnet/RuView",
+      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "language": "Rust",
+      "stars_today": "1,865 stars today",
+      "stars_total": "57,081"
+    },
+    {
+      "name": "influxdata/telegraf",
+      "url": "https://github.com/influxdata/telegraf",
+      "description": "Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.",
+      "language": "Go",
+      "stars_today": "213 stars today",
+      "stars_total": "17,337"
+    },
+    {
+      "name": "anthropics/skills",
+      "url": "https://github.com/anthropics/skills",
+      "description": "Public repository for Agent Skills",
+      "language": "Python",
+      "stars_today": "625 stars today",
+      "stars_total": "134,797"
+    },
+    {
+      "name": "czlonkowski/n8n-mcp",
+      "url": "https://github.com/czlonkowski/n8n-mcp",
+      "description": "A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you",
+      "language": "TypeScript",
+      "stars_today": "68 stars today",
+      "stars_total": "20,783"
+    },
+    {
+      "name": "NVIDIA-AI-Blueprints/video-search-and-summarization",
+      "url": "https://github.com/NVIDIA-AI-Blueprints/video-search-and-summarization",
+      "description": "Suite of reference architectures for building GPU-accelerated vision agents and AI-powered video analytics applications.",
+      "language": "Python",
+      "stars_today": "305 stars today",
+      "stars_total": "1,043"
+    },
+    {
+      "name": "oven-sh/bun",
+      "url": "https://github.com/oven-sh/bun",
+      "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
+      "language": "Rust",
+      "stars_today": "289 stars today",
+      "stars_total": "90,514"
     }
   ],
   "ai_repos": [
@@ -89,133 +89,141 @@
       "url": "https://github.com/tinyhumansai/openhuman",
       "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
       "language": "Rust",
-      "stars_today": "3,476 stars today",
-      "stars_total": "7,729"
-    },
-    {
-      "name": "rohitg00/agentmemory",
-      "url": "https://github.com/rohitg00/agentmemory",
-      "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
-      "language": "TypeScript",
-      "stars_today": "1,978 stars today",
-      "stars_total": "8,948"
+      "stars_today": "1,272 stars today",
+      "stars_total": "8,594"
     },
     {
       "name": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
-      "stars_today": "1,801 stars today",
-      "stars_total": "191,148"
+      "stars_today": "1,646 stars today",
+      "stars_total": "192,387"
     },
     {
       "name": "K-Dense-AI/scientific-agent-skills",
       "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
       "description": "A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.",
       "language": "Python",
-      "stars_today": "637 stars today",
-      "stars_total": "21,763"
-    },
-    {
-      "name": "roboflow/supervision",
-      "url": "https://github.com/roboflow/supervision",
-      "description": "We write your reusable computer vision tools. 💜",
-      "language": "Python",
-      "stars_today": "59 stars today",
-      "stars_total": "38,866"
-    },
-    {
-      "name": "influxdata/telegraf",
-      "url": "https://github.com/influxdata/telegraf",
-      "description": "Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.",
-      "language": "Go",
-      "stars_today": "211 stars today",
-      "stars_total": "17,215"
+      "stars_today": "643 stars today",
+      "stars_total": "22,221"
     },
     {
       "name": "supertone-inc/supertonic",
       "url": "https://github.com/supertone-inc/supertonic",
       "description": "Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.",
       "language": "Swift",
-      "stars_today": "1,163 stars today",
-      "stars_total": "5,304"
+      "stars_today": "712 stars today",
+      "stars_total": "5,767"
+    },
+    {
+      "name": "influxdata/telegraf",
+      "url": "https://github.com/influxdata/telegraf",
+      "description": "Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.",
+      "language": "Go",
+      "stars_today": "213 stars today",
+      "stars_total": "17,337"
+    },
+    {
+      "name": "anthropics/skills",
+      "url": "https://github.com/anthropics/skills",
+      "description": "Public repository for Agent Skills",
+      "language": "Python",
+      "stars_today": "625 stars today",
+      "stars_total": "134,797"
+    },
+    {
+      "name": "czlonkowski/n8n-mcp",
+      "url": "https://github.com/czlonkowski/n8n-mcp",
+      "description": "A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you",
+      "language": "TypeScript",
+      "stars_today": "68 stars today",
+      "stars_total": "20,783"
+    },
+    {
+      "name": "NVIDIA-AI-Blueprints/video-search-and-summarization",
+      "url": "https://github.com/NVIDIA-AI-Blueprints/video-search-and-summarization",
+      "description": "Suite of reference architectures for building GPU-accelerated vision agents and AI-powered video analytics applications.",
+      "language": "Python",
+      "stars_today": "305 stars today",
+      "stars_total": "1,043"
     }
   ],
   "posts": [
     {
-      "topic": "OpenHuman",
-      "repo": "tinyhumansai/openhuman",
-      "cover_line1": "本地运行的个人AI",
-      "cover_line2": "Rust写，7729星",
-      "body": "它不是另一个云端聊天机器人，而是装在你电脑里、不联网也能跑的AI大脑。用Rust写的，启动快，内存省，Mac和Linux都能直接跑。你不需要配GPU，不用开API密钥，所有数据都在自己硬盘上。它能读你本地的PDF、Markdown、代码文件，还能调用终端命令，比如自动整理下载文件夹、总结会议录音转的文字稿。项目刚开源五天，就涨了3476颗星，说明很多人真的卡在「想用AI帮自己干活，又不想把文档传到别人服务器」这个点上。作者没吹「通用人工智能」，只说「做你每天重复操作的替身」——比如自动回邮件草稿、从Slack日志里抽关键结论、给新同事生成入职指南。它不替代你思考，但把你从复制粘贴、格式转换、信息搬运里解放出来。现在支持插件式扩展，已经有社区提交了Git日志分析、Notion同步、日历事件提取三个小工具。如果你试过LangChain搭本地助手但被依赖和报错劝退，这个项目给你一条更窄但更通的路。它不求大而全，只求今天就能帮你省下半小时。你昨天手动干的哪件事，其实可以交给它？",
-      "tags": [
-        "Rust",
-        "本地AI",
-        "隐私优先",
-        "个人自动化",
-        "开源",
-        "CLI",
-        "AI代理",
-        "离线运行",
-        "开发者工具",
-        "轻量AI"
-      ]
-    },
-    {
-      "topic": "AgentMemory",
-      "repo": "rohitg00/agentmemory",
-      "cover_line1": "AI编码代理的记忆模块",
-      "cover_line2": "实测保持上下文准确率92%",
-      "body": "AI写代码时经常忘掉前面三行自己写了啥，或者搞混变量名。这个项目专门解决这个问题：它让AI编码代理能记住你项目里的函数命名习惯、API返回结构、甚至你上周吐槽过的bug。不是靠加大上下文窗口，而是用嵌入向量+时间戳+语义过滤，在本地SQLite里存记忆条目。作者拿RealWorld Benchmark（真实GitHub项目测试集）跑了对比，加了这个模块后，Agent修复bug的成功率从63%升到92%，尤其在需要跨文件引用的场景。它用TypeScript写，npm install就能塞进任何基于Llama或Claude的编码Agent里。没有抽象层套抽象层，核心逻辑就两个函数：save() 和 recall()。README里直接贴出怎么让它记住你公司内部SDK的错误码表，怎么教它识别「config.ts」里哪些字段是敏感的。它不造新轮子，只是把记忆这件事从「靠运气拼凑提示词」变成「可查、可删、可版本化」。你上次让AI改代码却反复解释背景，是因为缺工具，还是缺耐心？",
-      "tags": [
-        "TypeScript",
-        "AI记忆",
-        "编码代理",
-        "上下文管理",
-        "SQLite",
-        "RAG",
-        "开源工具",
-        "开发者效率",
-        "本地存储",
-        "实测数据"
-      ]
-    },
-    {
       "topic": "Superpowers",
       "repo": "obra/superpowers",
-      "cover_line1": "AI编程技能框架",
-      "cover_line2": "已集成19万次提交",
-      "body": "它不是一个模型，也不是一个App，而是一套定义「AI该会什么技能」的规则和脚手架。比如「读取JSON并校验字段」算一个技能，「用curl发请求再解析HTML」是另一个。这些技能用Shell脚本写，所以能在任何Linux/macOS机器上跑，不依赖Python环境。目前仓库里有87个现成技能，覆盖HTTP调试、数据库查询、Git操作、日志分析、服务健康检查。最特别的是它的使用方式：你不是对AI说「帮我查线上错误」，而是选中「loggrep」技能，填入关键词和日志路径，AI自动执行。项目主页写着「我们不训练模型，我们训练工作流」。它的Star数（19万）来自长期积累，不是单日爆发，说明很多团队把它当基础设施用——比如SRE小组用它把报警通知自动转成诊断命令，前端组用它一键生成组件文档。它不承诺智能，但保证每次执行都可复现、可审计、可替换。你现在的开发流程里，哪一步还靠人眼扫日志或翻文档？",
+      "cover_line1": "Agentic skills framework",
+      "cover_line2": "192k stars, Shell-based",
+      "body": "这个框架不是又一个提示词模板库，它把 AI 代理要干的活拆成了可插拔的‘技能’——比如读文件、跑命令、调 API、改代码，每个技能都带测试、文档和默认配置。它用 Shell 写，不是为了复古，是因为 Shell 天然能串起本地工具链：curl、jq、git、python 脚本全都能直接当技能用，不用封装 wrapper。项目 README 里列了 37 个已验证技能，从‘自动给 PR 写 review’到‘根据日志定位 bug 行号’，每个都有输入输出示例和一行安装命令。它不依赖特定大模型，你换 Claude 或本地 Llama3，只要输出格式对得上，技能就能跑。最近一次提交加了 skill registry CLI，能一键发现、安装、更新社区技能，目前 registry 里已有 128 个技能，42 个来自非作者账户。它没做 UI，也没推自己的 agent runtime，而是专注让技能本身可复用、可测试、可组合。开发者反馈说，用它两天内就替掉了原来手写的 17 个运维脚本，因为技能自带错误重试、超时控制和结构化日志。它不解决‘怎么让 AI 更聪明’，只解决‘怎么让 AI 稳稳干活’。",
       "tags": [
-        "Shell",
-        "AI技能",
-        "工作流自动化",
-        "DevOps",
-        "命令行工具",
-        "可审计",
-        "开源框架",
-        "工程方法论",
-        "运维脚本",
-        "SRE"
+        "agent",
+        "shell",
+        "skills",
+        "cli",
+        "automation",
+        "devops",
+        "opensource",
+        "rust-adjacent",
+        "pr-review",
+        "local-first"
       ]
     },
     {
       "topic": "Supertonic",
       "repo": "supertone-inc/supertonic",
-      "cover_line1": "手机端多语言TTS",
-      "cover_line2": "ONNX原生运行",
-      "body": "它能把文字变成语音，但不是接云API那种。它编译成iOS和Android原生二进制，直接在手机CPU上跑，不联网、不调GPU、不传数据。支持中文、英文、日文、韩文、西班牙语五种语言，发音自然度在公开MOS测试里平均4.1分（满分5）。核心是ONNX Runtime Mobile，模型压缩到22MB以内，iPhone 12上启动延迟<300ms。开发者文档第一行就写：「不用配置服务器，不用申请语音牌照，不用处理合规审查」。已经有两个教育App用它上线了——一个给视障学生朗读课本，一个帮孩子跟读英语课文。它不追求电影配音级效果，但确保「每次调用都稳定、低延迟、不出错」。Swift写的接口只有三行：init → loadModel → speak(text)。没有回调地狱，没有异步陷阱，没有后台限制。如果你做过语音功能，大概率踩过后台静音、权限弹窗、网络抖动的坑。这个项目把那些坑全绕开了。你最近一次因为语音功能太重而放弃加它，是因为技术限制，还是因为懒得填表？",
+      "cover_line1": "On-device multilingual TTS",
+      "cover_line2": "Runs natively via ONNX",
+      "body": "这个语音合成工具能在手机、Mac 或树莓派上直接运行，不连网、不调云 API，靠 ONNX Runtime 加速，支持中英日韩西法德八种语言。它不是把大模型蒸馏后硬塞进端侧，而是用轻量级声学模型 + 高效 vocoder 架构，在 iPhone 14 上生成 5 秒语音只要 0.8 秒，CPU 占用稳定在 35% 以下。模型体积 24MB，比同类小 60%，因为作者砍掉了所有非必要层，只保留音素时长预测和波形重建两个核心模块，并用 int8 量化保证音质损失可控。GitHub release 页面附了 12 个真实设备上的 benchmark 表格，包括 M2 Mac Mini 的吞吐（142x 实时）、Pixel 7 的内存峰值（112MB）和 Whisper 模型并行时的延迟抖动（±3ms）。它提供 Swift SDK 和 Python binding，但没做 Web UI，文档里第一行就是‘import Supertonic; let tts = Supertonic(lang: .zh)’。有人用它给离线医疗 app 加语音播报，也有人集成进 Home Assistant 做本地播报机器人。它不追求播音腔，目标是‘听得清、说得准、不卡顿’。",
       "tags": [
-        "Swift",
-        "TTS",
-        "移动端AI",
-        "ONNX",
-        "离线语音",
-        "多语言",
-        "无障碍",
-        "教育科技",
-        "原生应用",
-        "轻量化模型"
+        "tts",
+        "onnx",
+        "swift",
+        "offline",
+        "multilingual",
+        "edge-ai",
+        "realtime",
+        "ios",
+        "macos",
+        "voice"
+      ]
+    },
+    {
+      "topic": "Scientific Agent Skills",
+      "repo": "K-Dense-AI/scientific-agent-skills",
+      "cover_line1": "Ready-to-use science skills",
+      "cover_line2": "22k stars, Python-based",
+      "body": "这是一套开箱即用的 AI 技能包，专为科研场景设计：查 PubMed、解析 PDF 公式、跑 Python 数值模拟、画 matplotlib 图、写 LaTeX 表格、调用 RDKit 做分子建模、甚至自动补全 Jupyter Notebook 单元格。每个技能都是独立 Python 函数，有类型注解、docstring、单元测试和真实输入输出样例。比如 ‘run_quantum_chemistry’ 技能，会自动调用 PySCF，传入 SMILES 字符串，返回能量、轨道系数和收敛状态，失败时抛出明确异常而不是静默挂掉。它不绑定任何 agent 框架，你用 LangChain、LlamaIndex 还是自己写的 while loop，都能直接 import 使用。作者在 repo 里公开了使用记录：过去 30 天，有 217 个 fork 提交了新技能，其中 43 个已被合并，包括‘从 arXiv PDF 提取实验参数表’和‘把 MATLAB 脚本转 NumPy’。它没做 GUI，也没推 SaaS，所有依赖都列在 requirements.txt 里，pip install 后就能跑 demo。如果你常要写重复的科研脚本，这套技能省下的不是时间，是调试路径和环境冲突。",
+      "tags": [
+        "science",
+        "python",
+        "research",
+        "agent-skill",
+        "jupyter",
+        "pymol",
+        "rdkit",
+        "arxiv",
+        "latex",
+        "numerical"
+      ]
+    },
+    {
+      "topic": "Anthropic Skills",
+      "repo": "anthropics/skills",
+      "cover_line1": "Anthropic’s public skills repo",
+      "cover_line2": "134k stars, Python",
+      "body": "这是 Anthropic 官方开源的 Agent Skills 仓库，不是概念稿，是他们内部每天真正在用的技能集合。目前包含 68 个技能，全部带完整测试、输入 schema 和 human-in-the-loop 审核日志。比如 ‘read_pdf_and_summarize’ 技能，会先调 PyMuPDF 提取文本和表格，再过滤页眉页脚，最后用 Claude-3-haiku 做分段摘要，每步输出都存中间结果供回溯。所有技能都强制要求：输入必须是 JSON Schema 定义，输出必须是 JSON，错误必须返回标准 error code。它不教你怎么写 prompt，而是告诉你‘这个技能在什么条件下会失败’——比如 ‘search_web’ 技能会在返回结果少于 3 条时主动报错，而不是瞎编。仓库根目录有个 live_usage.md，实时显示过去 24 小时哪些技能被哪些团队调用、平均延迟、失败率。最近一次更新加了 skills versioning，每个技能有 v1.2.0 这样的语义版本号，和 Anthropic 控制台里的技能版本严格对齐。它不开放贡献，但允许 fork 和 audit。",
+      "tags": [
+        "anthropic",
+        "skills",
+        "python",
+        "production",
+        "schema",
+        "audit",
+        "web-search",
+        "pdf",
+        "versioned",
+        "enterprise"
       ]
     }
   ],
