@@ -8,7 +8,7 @@
       "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
       "language": "Python",
       "stars_today": "891 stars today",
-      "stars_total": "21,705"
+      "stars_total": "22,350"
     },
     {
       "name": "colbymchenry/codegraph",
@@ -16,7 +16,7 @@
       "description": "Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, and OpenCode — fewer tokens, fewer tool calls, 100% local",
       "language": "TypeScript",
       "stars_today": "4,222 stars today",
-      "stars_total": "12,554"
+      "stars_total": "13,356"
     },
     {
       "name": "multica-ai/andrej-karpathy-skills",
@@ -24,15 +24,15 @@
       "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
       "language": "",
       "stars_today": "2,590 stars today",
-      "stars_total": "142,655"
+      "stars_total": "143,104"
     },
     {
       "name": "dotnet/skills",
       "url": "https://github.com/dotnet/skills",
       "description": "Repository for skills to assist AI coding agents with .NET and C#",
       "language": "C#",
-      "stars_today": "96 stars today",
-      "stars_total": "2,080"
+      "stars_today": "179 stars today",
+      "stars_total": "2,183"
     },
     {
       "name": "obra/superpowers",
@@ -40,7 +40,7 @@
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
       "stars_today": "1,572 stars today",
-      "stars_total": "201,209"
+      "stars_total": "201,477"
     },
     {
       "name": "HKUDS/CLI-Anything",
@@ -48,7 +48,7 @@
       "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub:https://clianything.cc/",
       "language": "Python",
       "stars_today": "644 stars today",
-      "stars_total": "38,960"
+      "stars_total": "39,105"
     },
     {
       "name": "rmyndharis/OpenWA",
@@ -56,7 +56,7 @@
       "description": "Free, Open Source, Self-Hosted WhatsApp API Gateway",
       "language": "TypeScript",
       "stars_today": "704 stars today",
-      "stars_total": "5,264"
+      "stars_total": "5,388"
     },
     {
       "name": "ChromeDevTools/chrome-devtools-mcp",
@@ -64,7 +64,7 @@
       "description": "Chrome DevTools for coding agents",
       "language": "TypeScript",
       "stars_today": "132 stars today",
-      "stars_total": "40,345"
+      "stars_total": "40,472"
     },
     {
       "name": "rohitg00/ai-engineering-from-scratch",
@@ -72,7 +72,7 @@
       "description": "Learn it. Build it. Ship it for others.",
       "language": "Python",
       "stars_today": "1,318 stars today",
-      "stars_total": "10,482"
+      "stars_total": "10,691"
     },
     {
       "name": "teng-lin/notebooklm-py",
@@ -80,7 +80,7 @@
       "description": "Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to NotebookLM's features—including capabilities the web UI doesn't expose—via Python, CLI, and AI agents like Claude Code, Codex, and OpenClaw.",
       "language": "Python",
       "stars_today": "182 stars today",
-      "stars_total": "14,261"
+      "stars_total": "14,363"
     }
   ],
   "ai_repos": [
@@ -90,7 +90,7 @@
       "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
       "language": "Python",
       "stars_today": "891 stars today",
-      "stars_total": "21,705"
+      "stars_total": "22,350"
     },
     {
       "name": "colbymchenry/codegraph",
@@ -98,7 +98,7 @@
       "description": "Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, and OpenCode — fewer tokens, fewer tool calls, 100% local",
       "language": "TypeScript",
       "stars_today": "4,222 stars today",
-      "stars_total": "12,554"
+      "stars_total": "13,356"
     },
     {
       "name": "multica-ai/andrej-karpathy-skills",
@@ -106,15 +106,15 @@
       "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
       "language": "",
       "stars_today": "2,590 stars today",
-      "stars_total": "142,655"
+      "stars_total": "143,104"
     },
     {
       "name": "dotnet/skills",
       "url": "https://github.com/dotnet/skills",
       "description": "Repository for skills to assist AI coding agents with .NET and C#",
       "language": "C#",
-      "stars_today": "96 stars today",
-      "stars_total": "2,080"
+      "stars_today": "179 stars today",
+      "stars_total": "2,183"
     },
     {
       "name": "obra/superpowers",
@@ -122,7 +122,7 @@
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
       "stars_today": "1,572 stars today",
-      "stars_total": "201,209"
+      "stars_total": "201,477"
     },
     {
       "name": "HKUDS/CLI-Anything",
@@ -130,7 +130,7 @@
       "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub:https://clianything.cc/",
       "language": "Python",
       "stars_today": "644 stars today",
-      "stars_total": "38,960"
+      "stars_total": "39,105"
     },
     {
       "name": "ChromeDevTools/chrome-devtools-mcp",
@@ -138,7 +138,7 @@
       "description": "Chrome DevTools for coding agents",
       "language": "TypeScript",
       "stars_today": "132 stars today",
-      "stars_total": "40,345"
+      "stars_total": "40,472"
     },
     {
       "name": "rohitg00/ai-engineering-from-scratch",
@@ -146,7 +146,7 @@
       "description": "Learn it. Build it. Ship it for others.",
       "language": "Python",
       "stars_today": "1,318 stars today",
-      "stars_total": "10,482"
+      "stars_total": "10,691"
     },
     {
       "name": "teng-lin/notebooklm-py",
@@ -154,7 +154,7 @@
       "description": "Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to NotebookLM's features—including capabilities the web UI doesn't expose—via Python, CLI, and AI agents like Claude Code, Codex, and OpenClaw.",
       "language": "Python",
       "stars_today": "182 stars today",
-      "stars_total": "14,261"
+      "stars_total": "14,363"
     }
   ],
   "posts": [
@@ -162,76 +162,76 @@
       "topic": "Claude插件目录",
       "repo": "anthropics/claude-plugins-official",
       "cover_line1": "Anthropic官方Claude插件库",
-      "cover_line2": "891星/天，21,705总星",
-      "body": "Anthropic自己建了个插件目录，不是第三方凑的，也不是文档链接集合，而是真正审核过、能直接用的插件清单。每个插件都标了支持的Claude版本、用途说明、是否开源、有没有认证。它不运行插件，但告诉你哪个插件能查天气、哪个能读PDF、哪个能调GitHub API——而且全是Anthropic团队亲自维护的。今天涨了891颗星，说明很多人正卡在「知道要插件，但找不到靠谱的」这一步。以前得翻Discord、搜Hugging Face、试五个才有一个能跑通；现在点开就能看到「Code Interpreter for Python」和「Web Search v2.1」这种带版本号的实名插件。它没改模型，也没加新功能，就是把散落各处的工具收进一个可信入口。对开发者来说，省的是时间，不是算力。你不用再猜某个插件是不是被弃更了，因为页面底部写着「Last updated: 2024-06-12」。它也不教你怎么写插件，只回答一个问题：现在我能用什么？如果你刚配好Claude Code，想马上连上数据库或自动写测试，这个目录就是第一站。它不炫技，但每天有近九百人点星，说明大家宁可为「确定性」付费。",
+      "cover_line2": "891星/天，22k总星",
+      "body": "Anthropic自己建了个插件目录，叫claude-plugins-official。不是第三方凑热闹，是Anthropic团队亲自审核、托管、更新的插件集合。里面目前有几十个插件，覆盖代码审查、文档生成、API调用、本地文件读写等真实场景。每个插件都带说明、使用示例和权限声明，不像有些社区项目连README都没写全。今天涨了891颗星，总星数22350，说明开发者在认真找能落地的工具链，不是只看模型多大。它不改模型本身，但让Claude Code能真正调外部服务——比如一键把当前代码丢进SonarQube扫漏洞，或把函数签名自动同步到Postman。没有复杂部署，插件本质是标准化的HTTP接口+权限描述JSON。你不用自己写OAuth流程，Anthropic已经帮你对齐了schema。它也不锁死技术栈，Python/TS/Go写的后端都能接。唯一门槛是你得用Claude Code（不是ChatGPT或Gemini），但如果你已经在用，这个目录就是你今天该打开的第一页。它没承诺‘颠覆编程’，但它把过去要三天搭的插件桥，压缩成三分钟配好config。你最近一次手动复制粘贴API响应，是什么时候？",
       "tags": [
         "claude",
         "plugin",
         "anthropic",
-        "tool-use",
-        "ai-agent",
-        "developer-tool",
-        "code-assistant",
-        "official",
-        "python",
-        "api"
+        "coding",
+        "api",
+        "tooling",
+        "devex",
+        "agent",
+        "typescript",
+        "python"
       ]
     },
     {
-      "topic": "CodeGraph本地图谱",
+      "topic": "CodeGraph知识图谱",
       "repo": "colbymchenry/codegraph",
       "cover_line1": "预建代码知识图谱",
-      "cover_line2": "100%本地，少100%token",
-      "body": "这个项目把整个代码库变成一张「关系网」：函数A调用B，B依赖C，C改过三次，最后一次是上周三。它不是靠实时分析源码，而是提前建好这张图，存在你本地硬盘里。用的时候，Claude Code或Cursor一问「谁用了这个API？」，CodeGraph直接返回节点列表，不调LLM，不传代码，不走网络。作者测过，原来需要3次工具调用+2000 token的问题，现在1次本地查询+200 token搞定。它支持Python、TypeScript、Rust等主流语言，图谱生成用的是Tree-sitter解析器，不是正则硬凑。最关键是「100%本地」——你的私有代码不会上传，连Docker都不用，装完就跑。今天涨了4222颗星，比第二名还多，说明很多人正在被「每次提问都要发完整文件」拖慢。它不取代IDE，但让AI助手从「读全文」变成「查字典」。如果你常为「为什么这个函数没人敢动」发愁，CodeGraph能立刻给你调用链和修改历史，不是猜测，是图里画出来的。",
+      "cover_line2": "4222星/天，100%本地",
+      "body": "CodeGraph把你的整个代码库，提前转成一张结构化知识图谱。不是运行时去查，而是启动前就建好索引：哪些函数调用了哪些类，哪些变量被哪个测试覆盖，哪些commit改过同一块逻辑。它支持Claude Code、Codex、Cursor和OpenCode，不用改模型，只换输入格式。关键点是‘100%本地’——所有解析、索引、查询都在你机器上跑，代码不出内网。今天单日涨了4222颗星，说明很多人卡在‘AI总记不住我项目的命名习惯’这一步。它不靠大模型硬记，而是用图谱关系代替token上下文：问‘谁在用这个deprecated方法’，直接返回节点路径，而不是让模型从10万行里猜。支持TS/JS/Python/Go/Rust，解析器开箱即用。你不需要重构代码，它读的是你现有的AST。它也不卖SaaS，只有一个CLI和一个VS Code插件。你上次因为AI反复问错模块名而重写prompt，是在哪次code review里？",
       "tags": [
-        "code-graph",
-        "local",
-        "tree-sitter",
-        "claude-code",
-        "cursor",
-        "token-saving",
         "knowledge-graph",
+        "code-search",
+        "local-ai",
         "typescript",
-        "offline",
-        "dev-tool"
+        "ast",
+        "cli",
+        "vscode",
+        "agent",
+        "indexing",
+        "open-source"
       ]
     },
     {
       "topic": "Karpathy技能提示",
       "repo": "multica-ai/andrej-karpathy-skills",
-      "cover_line1": "Karpathy写的Claude编码提示",
-      "cover_line2": "单个CLAUDE.md文件",
-      "body": "Andrej Karpathy说，LLM写代码最大的问题是「假装懂，然后硬编」。这个项目就把他说的那些坑，一条条转化成Claude能听懂的指令，全塞进一个叫CLAUDE.md的文件里。比如「别猜函数签名，没文档就报错」、「改一行代码前，先列出所有影响」、「生成SQL时，必须写注释说明WHERE条件来源」。它不是教程，不是博客，就是一个纯文本文件，你可以直接复制进Claude Code的系统提示区。今天涨了2590颗星，总星超14万，说明很多人试过默认提示后发现：AI总在补不存在的接口、总在删不该删的import、总在重命名变量却不改调用。这个文件不改模型权重，不加新API，只是给Claude一个「行为守则」。它甚至不教你写提示词，只告诉你Karpathy认为「正确」的写法长什么样。如果你的AI助手老是自信地写出错代码，这不是它不够聪明，可能是它根本不知道什么叫「谨慎」。这份提示词就是那个「谨慎开关」。",
+      "cover_line1": "Karpathy风格Claude提示",
+      "cover_line2": "143k总星，单文件CLAUDE.md",
+      "body": "这个项目就一个文件：CLAUDE.md。但它不是随便写的prompt，而是把Andrej Karpathy在YouTube、推特和讲座里反复说的LLM编码坑，全收进一份可直接加载的系统提示。比如‘别让模型猜函数名，让它先列出所有候选再选’‘遇到报错，必须先打印stack trace再重试’‘修改代码前，先用注释写出预期行为变更’。它不教语法，专治‘模型明明懂Python却改错三行’这类病。143104颗星，说明大量人在用Claude Code写业务代码，且已被类似问题反复绊倒。它不依赖新模型，旧版Claude就能用；不需训练，copy paste进system prompt就行。文件里每条规则都有来源标注，比如‘[Karpathy, 2024-03-12, LLM Coding Workshop]’，不是玄学总结。它甚至考虑了token效率：用缩写代替长句，但保留语义锚点。你昨天有没有因为模型‘自信地改对了80%的代码，剩下20%悄悄崩掉’而多花两小时debug？",
       "tags": [
         "prompt-engineering",
+        "claude",
         "karpathy",
-        "claude-code",
-        "coding-pitfalls",
+        "coding-practice",
+        "llm-pitfalls",
         "system-prompt",
-        "md-file",
-        "ai-behavior",
-        "llm",
-        "developer",
-        "best-practice"
+        "markdown",
+        "engineering",
+        "best-practice",
+        "open-source"
       ]
     },
     {
-      "topic": "CLI-Anything代理桥",
-      "repo": "HKUDS/CLI-Anything",
-      "cover_line1": "让任何CLI命令变AI技能",
-      "cover_line2": "已接入38,960个命令",
-      "body": "你电脑上装的git、curl、jq、ffmpeg这些命令行工具，现在AI可以直接调用。CLI-Anything不是又一个新CLI，而是一个「翻译层」：把自然语言请求（比如「把最近三个commit的diff转成中文摘要」）自动拆成git log + git diff + curl调翻译API + jq格式化。它不改原命令，也不要求开发者重写接口，只靠YAML配置就能把任意CLI包装成AI能理解的技能。官网clianything.cc列出了已支持的38,960个命令，从docker ps到aws s3 ls全在里头。它不训练模型，但让现有工具突然有了「听人话」的能力。今天涨了644颗星，说明很多人卡在「AI想帮我，但我得先学十种CLI语法」这步。它最有用的地方是「零学习成本」——你不用教AI怎么用ffmpeg，只要告诉它「抽视频第一帧」，它自己找ffmpeg -i + -vframes 1。如果你的AI助手还在问「你希望我用什么工具？」，那它缺的不是能力，是这座桥。",
+      "topic": "NotebookLM Python API",
+      "repo": "teng-lin/notebooklm-py",
+      "cover_line1": "NotebookLM非官方Python SDK",
+      "cover_line2": "暴露网页UI没给的功能",
+      "body": "Google NotebookLM的网页版只能上传PDF、做问答、生成摘要，但背后API其实能干更多：批量导入笔记、按时间戳提取片段、导出带引用的Markdown、甚至让AI代理直接调用它的向量库。teng-lin写的notebooklm-py把这些能力全包进Python库，还加了CLI和Agent Skill封装。比如你可以写一行Python，让Claude Code自动把当前PR的diff塞进NotebookLM，再让它比对历史类似bug的解决方案。它不破解，只是逆向了公开的Web API通信协议。今天涨了182颗星，虽然不算最多，但说明真有人在生产环境卡在‘NotebookLM好用但没法集成’这步。它不改Google的服务，只做连接层：你传本地文件，它帮你转base64上传；你问‘这段代码像不像去年X月Y日的某个实验’，它帮你调相似度接口。没有账号绑定，不用OAuth，只要一个Google登录后的cookie。你上次想把会议录音+代码+设计文档喂给同一个AI，结果发现每个工具都要单独上传，最后放弃了——那会儿有没有想过，其实只差一个SDK？",
       "tags": [
+        "notebooklm",
+        "google",
+        "python-api",
         "cli",
-        "ai-agent",
-        "command-line",
-        "tool-integration",
-        "yaml-config",
-        "shell",
-        "automation",
-        "developer",
-        "python",
-        "open-source"
+        "agent-skill",
+        "vector-db",
+        "integration",
+        "productivity",
+        "open-source",
+        "web-api"
       ]
     }
   ],
