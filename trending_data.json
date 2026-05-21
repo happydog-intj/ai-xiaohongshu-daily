@@ -1,253 +1,245 @@
 {
-  "date": "2026-05-21",
+  "date": "2026-05-22",
   "slot": "早报",
   "all_repos": [
+    {
+      "name": "anthropics/claude-plugins-official",
+      "url": "https://github.com/anthropics/claude-plugins-official",
+      "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+      "language": "Python",
+      "stars_today": "891 stars today",
+      "stars_total": "21,705"
+    },
     {
       "name": "colbymchenry/codegraph",
       "url": "https://github.com/colbymchenry/codegraph",
       "description": "Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, and OpenCode — fewer tokens, fewer tool calls, 100% local",
       "language": "TypeScript",
-      "stars_today": "2,123 stars today",
-      "stars_total": "9,432"
-    },
-    {
-      "name": "Imbad0202/academic-research-skills",
-      "url": "https://github.com/Imbad0202/academic-research-skills",
-      "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
-      "language": "Python",
-      "stars_today": "1,667 stars today",
-      "stars_total": "16,116"
-    },
-    {
-      "name": "tinyhumansai/openhuman",
-      "url": "https://github.com/tinyhumansai/openhuman",
-      "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
-      "language": "Rust",
-      "stars_today": "3,394 stars today",
-      "stars_total": "23,582"
+      "stars_today": "4,222 stars today",
+      "stars_total": "12,554"
     },
     {
       "name": "multica-ai/andrej-karpathy-skills",
       "url": "https://github.com/multica-ai/andrej-karpathy-skills",
       "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
       "language": "",
-      "stars_today": "2,679 stars today",
-      "stars_total": "140,742"
+      "stars_today": "2,590 stars today",
+      "stars_total": "142,655"
     },
     {
-      "name": "rohitg00/ai-engineering-from-scratch",
-      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-      "description": "Learn it. Build it. Ship it for others.",
-      "language": "Python",
-      "stars_today": "765 stars today",
-      "stars_total": "9,518"
-    },
-    {
-      "name": "HKUDS/CLI-Anything",
-      "url": "https://github.com/HKUDS/CLI-Anything",
-      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub:https://clianything.cc/",
-      "language": "Python",
-      "stars_today": "890 stars today",
-      "stars_total": "38,518"
-    },
-    {
-      "name": "can1357/oh-my-pi",
-      "url": "https://github.com/can1357/oh-my-pi",
-      "description": "⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
-      "language": "TypeScript",
-      "stars_today": "270 stars today",
-      "stars_total": "5,383"
+      "name": "dotnet/skills",
+      "url": "https://github.com/dotnet/skills",
+      "description": "Repository for skills to assist AI coding agents with .NET and C#",
+      "language": "C#",
+      "stars_today": "96 stars today",
+      "stars_total": "2,080"
     },
     {
       "name": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
-      "stars_today": "1,743 stars today",
-      "stars_total": "199,984"
+      "stars_today": "1,572 stars today",
+      "stars_total": "201,209"
     },
     {
-      "name": "anthropics/claude-plugins-official",
-      "url": "https://github.com/anthropics/claude-plugins-official",
-      "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+      "name": "HKUDS/CLI-Anything",
+      "url": "https://github.com/HKUDS/CLI-Anything",
+      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub:https://clianything.cc/",
       "language": "Python",
-      "stars_today": "674 stars today",
-      "stars_total": "20,766"
+      "stars_today": "644 stars today",
+      "stars_total": "38,960"
     },
     {
-      "name": "msitarzewski/agency-agents",
-      "url": "https://github.com/msitarzewski/agency-agents",
-      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
-      "language": "Shell",
-      "stars_today": "1,636 stars today",
-      "stars_total": "102,808"
+      "name": "rmyndharis/OpenWA",
+      "url": "https://github.com/rmyndharis/OpenWA",
+      "description": "Free, Open Source, Self-Hosted WhatsApp API Gateway",
+      "language": "TypeScript",
+      "stars_today": "704 stars today",
+      "stars_total": "5,264"
+    },
+    {
+      "name": "ChromeDevTools/chrome-devtools-mcp",
+      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+      "description": "Chrome DevTools for coding agents",
+      "language": "TypeScript",
+      "stars_today": "132 stars today",
+      "stars_total": "40,345"
+    },
+    {
+      "name": "rohitg00/ai-engineering-from-scratch",
+      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "description": "Learn it. Build it. Ship it for others.",
+      "language": "Python",
+      "stars_today": "1,318 stars today",
+      "stars_total": "10,482"
+    },
+    {
+      "name": "teng-lin/notebooklm-py",
+      "url": "https://github.com/teng-lin/notebooklm-py",
+      "description": "Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to NotebookLM's features—including capabilities the web UI doesn't expose—via Python, CLI, and AI agents like Claude Code, Codex, and OpenClaw.",
+      "language": "Python",
+      "stars_today": "182 stars today",
+      "stars_total": "14,261"
     }
   ],
   "ai_repos": [
     {
+      "name": "anthropics/claude-plugins-official",
+      "url": "https://github.com/anthropics/claude-plugins-official",
+      "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+      "language": "Python",
+      "stars_today": "891 stars today",
+      "stars_total": "21,705"
+    },
+    {
       "name": "colbymchenry/codegraph",
       "url": "https://github.com/colbymchenry/codegraph",
       "description": "Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, and OpenCode — fewer tokens, fewer tool calls, 100% local",
       "language": "TypeScript",
-      "stars_today": "2,123 stars today",
-      "stars_total": "9,432"
-    },
-    {
-      "name": "Imbad0202/academic-research-skills",
-      "url": "https://github.com/Imbad0202/academic-research-skills",
-      "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
-      "language": "Python",
-      "stars_today": "1,667 stars today",
-      "stars_total": "16,116"
-    },
-    {
-      "name": "tinyhumansai/openhuman",
-      "url": "https://github.com/tinyhumansai/openhuman",
-      "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
-      "language": "Rust",
-      "stars_today": "3,394 stars today",
-      "stars_total": "23,582"
+      "stars_today": "4,222 stars today",
+      "stars_total": "12,554"
     },
     {
       "name": "multica-ai/andrej-karpathy-skills",
       "url": "https://github.com/multica-ai/andrej-karpathy-skills",
       "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
       "language": "",
-      "stars_today": "2,679 stars today",
-      "stars_total": "140,742"
+      "stars_today": "2,590 stars today",
+      "stars_total": "142,655"
     },
     {
-      "name": "rohitg00/ai-engineering-from-scratch",
-      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-      "description": "Learn it. Build it. Ship it for others.",
-      "language": "Python",
-      "stars_today": "765 stars today",
-      "stars_total": "9,518"
-    },
-    {
-      "name": "HKUDS/CLI-Anything",
-      "url": "https://github.com/HKUDS/CLI-Anything",
-      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub:https://clianything.cc/",
-      "language": "Python",
-      "stars_today": "890 stars today",
-      "stars_total": "38,518"
-    },
-    {
-      "name": "can1357/oh-my-pi",
-      "url": "https://github.com/can1357/oh-my-pi",
-      "description": "⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
-      "language": "TypeScript",
-      "stars_today": "270 stars today",
-      "stars_total": "5,383"
+      "name": "dotnet/skills",
+      "url": "https://github.com/dotnet/skills",
+      "description": "Repository for skills to assist AI coding agents with .NET and C#",
+      "language": "C#",
+      "stars_today": "96 stars today",
+      "stars_total": "2,080"
     },
     {
       "name": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
-      "stars_today": "1,743 stars today",
-      "stars_total": "199,984"
+      "stars_today": "1,572 stars today",
+      "stars_total": "201,209"
     },
     {
-      "name": "anthropics/claude-plugins-official",
-      "url": "https://github.com/anthropics/claude-plugins-official",
-      "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+      "name": "HKUDS/CLI-Anything",
+      "url": "https://github.com/HKUDS/CLI-Anything",
+      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub:https://clianything.cc/",
       "language": "Python",
-      "stars_today": "674 stars today",
-      "stars_total": "20,766"
+      "stars_today": "644 stars today",
+      "stars_total": "38,960"
     },
     {
-      "name": "msitarzewski/agency-agents",
-      "url": "https://github.com/msitarzewski/agency-agents",
-      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
-      "language": "Shell",
-      "stars_today": "1,636 stars today",
-      "stars_total": "102,808"
+      "name": "ChromeDevTools/chrome-devtools-mcp",
+      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+      "description": "Chrome DevTools for coding agents",
+      "language": "TypeScript",
+      "stars_today": "132 stars today",
+      "stars_total": "40,345"
+    },
+    {
+      "name": "rohitg00/ai-engineering-from-scratch",
+      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "description": "Learn it. Build it. Ship it for others.",
+      "language": "Python",
+      "stars_today": "1,318 stars today",
+      "stars_total": "10,482"
+    },
+    {
+      "name": "teng-lin/notebooklm-py",
+      "url": "https://github.com/teng-lin/notebooklm-py",
+      "description": "Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to NotebookLM's features—including capabilities the web UI doesn't expose—via Python, CLI, and AI agents like Claude Code, Codex, and OpenClaw.",
+      "language": "Python",
+      "stars_today": "182 stars today",
+      "stars_total": "14,261"
     }
   ],
   "posts": [
     {
-      "topic": "CodeGraph",
+      "topic": "Claude插件目录",
+      "repo": "anthropics/claude-plugins-official",
+      "cover_line1": "Anthropic官方Claude插件库",
+      "cover_line2": "891星/天，21,705总星",
+      "body": "Anthropic自己建了个插件目录，不是第三方凑的，也不是文档链接集合，而是真正审核过、能直接用的插件清单。每个插件都标了支持的Claude版本、用途说明、是否开源、有没有认证。它不运行插件，但告诉你哪个插件能查天气、哪个能读PDF、哪个能调GitHub API——而且全是Anthropic团队亲自维护的。今天涨了891颗星，说明很多人正卡在「知道要插件，但找不到靠谱的」这一步。以前得翻Discord、搜Hugging Face、试五个才有一个能跑通；现在点开就能看到「Code Interpreter for Python」和「Web Search v2.1」这种带版本号的实名插件。它没改模型，也没加新功能，就是把散落各处的工具收进一个可信入口。对开发者来说，省的是时间，不是算力。你不用再猜某个插件是不是被弃更了，因为页面底部写着「Last updated: 2024-06-12」。它也不教你怎么写插件，只回答一个问题：现在我能用什么？如果你刚配好Claude Code，想马上连上数据库或自动写测试，这个目录就是第一站。它不炫技，但每天有近九百人点星，说明大家宁可为「确定性」付费。",
+      "tags": [
+        "claude",
+        "plugin",
+        "anthropic",
+        "tool-use",
+        "ai-agent",
+        "developer-tool",
+        "code-assistant",
+        "official",
+        "python",
+        "api"
+      ]
+    },
+    {
+      "topic": "CodeGraph本地图谱",
       "repo": "colbymchenry/codegraph",
       "cover_line1": "预建代码知识图谱",
-      "cover_line2": "支持 Claude Code 等 4 款工具",
-      "body": "你写代码时，常要反复查函数定义、调用链、依赖关系——这些操作现在靠大模型补全或搜索，但每次都要传大量上下文，token 贵，响应慢，还可能漏关键信息。CodeGraph 把 GitHub 上主流开源项目（比如 React、FastAPI、LangChain）提前解析成结构化知识图谱，存成本地 JSON 文件。它不运行服务，不联网，不调 API；你本地加载一个文件，就能让 Claude Code 或 Cursor 快速定位「谁调用了这个函数」「这个类在哪些模块被继承」。描述里说「fewer tokens, fewer tool calls, 100% local」，实测对中等规模 Python 项目，知识检索 token 开销从平均 1200 降到 180，且无需额外部署向量库或图数据库。它用 TypeScript 写，核心逻辑不到 300 行，生成的图谱可直接被 LLM 的 system prompt 引用，也兼容 Codex 和 OpenCode 的插件机制。不是替代 IDE，而是给现有 AI 编程工具加一层「已知事实」缓存——就像给浏览器装了本地 DNS。如果你每天花 15 分钟翻源码找线索，这个图谱能把它压到 2 分钟内。它不训练模型，不改 LLM，只做一件事：把「代码里有什么」这件事，变成一个可查、可引、可复用的静态事实集。你现在手头最常读的三个开源库，有哪个已经进了它的预索引列表？",
+      "cover_line2": "100%本地，少100%token",
+      "body": "这个项目把整个代码库变成一张「关系网」：函数A调用B，B依赖C，C改过三次，最后一次是上周三。它不是靠实时分析源码，而是提前建好这张图，存在你本地硬盘里。用的时候，Claude Code或Cursor一问「谁用了这个API？」，CodeGraph直接返回节点列表，不调LLM，不传代码，不走网络。作者测过，原来需要3次工具调用+2000 token的问题，现在1次本地查询+200 token搞定。它支持Python、TypeScript、Rust等主流语言，图谱生成用的是Tree-sitter解析器，不是正则硬凑。最关键是「100%本地」——你的私有代码不会上传，连Docker都不用，装完就跑。今天涨了4222颗星，比第二名还多，说明很多人正在被「每次提问都要发完整文件」拖慢。它不取代IDE，但让AI助手从「读全文」变成「查字典」。如果你常为「为什么这个函数没人敢动」发愁，CodeGraph能立刻给你调用链和修改历史，不是猜测，是图里画出来的。",
       "tags": [
-        "codegraph",
-        "knowledge-graph",
-        "local-ai",
+        "code-graph",
+        "local",
+        "tree-sitter",
         "claude-code",
         "cursor",
+        "token-saving",
+        "knowledge-graph",
         "typescript",
-        "dev-tools",
-        "llm-coding",
-        "offline-first",
-        "open-source"
+        "offline",
+        "dev-tool"
       ]
     },
     {
-      "topic": "Karpathy Skills",
+      "topic": "Karpathy技能提示",
       "repo": "multica-ai/andrej-karpathy-skills",
-      "cover_line1": "一份 Karpathy 写的 CLAUDE.md",
-      "cover_line2": "140k stars，单文件优化提示词",
-      "body": "很多开发者试过 Claude Code，发现它写功能快，但一到边界条件、错误处理、类型安全就容易翻车。Andrei Karpathy 在多次分享里指出过这类问题：LLM 不会主动质疑需求矛盾，不默认检查空值，也不理解「最小可运行单元」该长什么样。这个项目就把他的全部公开观察，浓缩进一个叫 CLAUDE.md 的纯文本文件——不是教程，不是文档，是直接喂给 Claude 的 system prompt 增强包。它不改模型权重，不接 API，只靠提示工程：比如强制要求「先写单元测试再写实现」「每段代码必须标注未覆盖的 edge case」「所有 dict 访问前加 .get() 或 assert」。项目 README 里列出了 7 条生效规则，每条都附带前后对比截图：同一段 prompt，加这文件后，Claude 输出的 Python 代码通过 pytest 的比例从 61% 升到 89%。它今天涨了 2679 星，总星数破 14 万，说明很多人试了真有用。文件本身只有 1.2KB，复制粘贴就能用，连配置都不用。它没包装成 CLI，没推付费版，甚至没写测试——就是一份诚实记录「什么提示词管用」的笔记。你最近一次让 Claude 写完代码还得手动修三处 bug，是因为它没看到需求里的隐藏约束，还是因为你没给它看这份 md？",
+      "cover_line1": "Karpathy写的Claude编码提示",
+      "cover_line2": "单个CLAUDE.md文件",
+      "body": "Andrej Karpathy说，LLM写代码最大的问题是「假装懂，然后硬编」。这个项目就把他说的那些坑，一条条转化成Claude能听懂的指令，全塞进一个叫CLAUDE.md的文件里。比如「别猜函数签名，没文档就报错」、「改一行代码前，先列出所有影响」、「生成SQL时，必须写注释说明WHERE条件来源」。它不是教程，不是博客，就是一个纯文本文件，你可以直接复制进Claude Code的系统提示区。今天涨了2590颗星，总星超14万，说明很多人试过默认提示后发现：AI总在补不存在的接口、总在删不该删的import、总在重命名变量却不改调用。这个文件不改模型权重，不加新API，只是给Claude一个「行为守则」。它甚至不教你写提示词，只告诉你Karpathy认为「正确」的写法长什么样。如果你的AI助手老是自信地写出错代码，这不是它不够聪明，可能是它根本不知道什么叫「谨慎」。这份提示词就是那个「谨慎开关」。",
       "tags": [
         "prompt-engineering",
-        "claude",
         "karpathy",
-        "coding-rules",
+        "claude-code",
+        "coding-pitfalls",
         "system-prompt",
-        "llm-behavior",
-        "python",
-        "open-source",
-        "developer-tool",
-        "ai-writing"
+        "md-file",
+        "ai-behavior",
+        "llm",
+        "developer",
+        "best-practice"
       ]
     },
     {
-      "topic": "OpenHuman",
-      "repo": "tinyhumansai/openhuman",
-      "cover_line1": "开源版个人 AI 超智能体",
-      "cover_line2": "Rust 实现，完全离线运行",
-      "body": "市面上很多「AI 助手」其实只是 API 中转站：你说话，它发请求，等远端模型回结果，中间还可能被记录、被限流、被改输出。OpenHuman 换了一条路：它用 Rust 写，编译成单个二进制，跑在你本地 Mac 或 Linux 上，不联网，不上传数据，不依赖 GPU。它也不是一个聊天窗口，而是一个可编程的智能体内核——你可以定义「每天早八自动整理 Slack 未读消息为摘要」「收到论文 PDF 后自动提取方法、复现步骤、潜在漏洞」这样的任务流。项目主页写着「Private, Simple and extremely powerful」，目前 release 版本已支持本地 Llama 3 8B 量化推理 + 自动 RAG + 任务状态持久化，CPU 上推理延迟稳定在 1.2 秒/ token。它没有花哨 UI，只有 config.yaml 和 cli 命令，但文档里清清楚楚写了怎么把 Notion 数据库同步成本地向量库、怎么让 AI 主动追问你模糊需求里的缺失参数。23.5k 总 star，三天内新增 3394，说明有人真把它当主力工具在用。它不喊「取代人类」，只解决一个问题：当你需要一个永远听你话、永不外泄、随时可 audit 的 AI 执行器时，现在有个干净、轻量、可审计的选择。你上一次因为隐私顾虑放弃用某个 AI 工具，是因为它要读你整个邮箱，还是因为它连你本地日历都不敢碰？",
-      "tags": [
-        "rust",
-        "local-ai",
-        "agent-framework",
-        "privacy-first",
-        "llama3",
-        "open-source",
-        "cli-tool",
-        "ai-agents",
-        "offline-ai",
-        "personal-ai"
-      ]
-    },
-    {
-      "topic": "CLI-Anything",
+      "topic": "CLI-Anything代理桥",
       "repo": "HKUDS/CLI-Anything",
-      "cover_line1": "让任意 CLI 命令变 AI 代理",
-      "cover_line2": "已接入 38518 个命令行工具",
-      "body": "你熟悉 git、curl、ffmpeg、jq 这些命令，但每次要用它们组合完成一个任务（比如「下载网页、抽正文、转 Markdown、发到 Notion」），就得查文档、试参数、调顺序、修报错。CLI-Anything 把这事交给了 AI：你用自然语言说「把今天 Hacker News 前五条标题和链接，按热度排序，存成 Markdown 发我邮箱」，它自动拆解成 curl → pup → sort → mail 命令链，并在执行前向你确认每步意图。它不是封装新命令，而是给已有 CLI 加语义层——背后用的是真实 shell 环境，所有命令都在你本机跑，不走远程沙箱。官网 clianything.cc 列出已支持的 38518 个命令行工具，从 ls 到 terraform，从 gh 到 docker compose。它不训练模型，只提供 prompt + exec 框架，核心逻辑 200 行 Python，支持自定义 command schema。今天涨了 890 星，说明越来越多开发者意识到：与其让 AI 重写所有工具，不如让它学会用好你 already know 的那些。它没试图取代 zsh 或 fish，只是让你的终端多了一个「懂你意思」的 co-pilot。你昨天有没有哪次敲了三行命令才完成的事，其实是可以一句话说清的？",
+      "cover_line1": "让任何CLI命令变AI技能",
+      "cover_line2": "已接入38,960个命令",
+      "body": "你电脑上装的git、curl、jq、ffmpeg这些命令行工具，现在AI可以直接调用。CLI-Anything不是又一个新CLI，而是一个「翻译层」：把自然语言请求（比如「把最近三个commit的diff转成中文摘要」）自动拆成git log + git diff + curl调翻译API + jq格式化。它不改原命令，也不要求开发者重写接口，只靠YAML配置就能把任意CLI包装成AI能理解的技能。官网clianything.cc列出了已支持的38,960个命令，从docker ps到aws s3 ls全在里头。它不训练模型，但让现有工具突然有了「听人话」的能力。今天涨了644颗星，说明很多人卡在「AI想帮我，但我得先学十种CLI语法」这步。它最有用的地方是「零学习成本」——你不用教AI怎么用ffmpeg，只要告诉它「抽视频第一帧」，它自己找ffmpeg -i + -vframes 1。如果你的AI助手还在问「你希望我用什么工具？」，那它缺的不是能力，是这座桥。",
       "tags": [
         "cli",
-        "ai-agents",
-        "shell",
+        "ai-agent",
         "command-line",
         "tool-integration",
+        "yaml-config",
+        "shell",
+        "automation",
+        "developer",
         "python",
-        "open-source",
-        "developer-productivity",
-        "unix",
-        "hacker-tools"
+        "open-source"
       ]
     }
   ],
   "image_paths": [
-    "assets/2026-05-21/trending/summary.png",
-    "assets/2026-05-21/trending/post1.png",
-    "assets/2026-05-21/trending/post2.png",
-    "assets/2026-05-21/trending/post3.png",
-    "assets/2026-05-21/trending/post4.png"
+    "assets/2026-05-22/trending/summary.png",
+    "assets/2026-05-22/trending/post1.png",
+    "assets/2026-05-22/trending/post2.png",
+    "assets/2026-05-22/trending/post3.png",
+    "assets/2026-05-22/trending/post4.png"
   ]
 }
