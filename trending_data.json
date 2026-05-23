@@ -1,213 +1,245 @@
 {
   "date": "2026-05-23",
-  "slot": "早报",
+  "slot": "晚报",
   "all_repos": [
+    {
+      "name": "Lum1104/Understand-Anything",
+      "url": "https://github.com/Lum1104/Understand-Anything",
+      "description": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
+      "language": "TypeScript",
+      "stars_today": "2,331 stars today",
+      "stars_total": "20,080"
+    },
     {
       "name": "anthropics/claude-plugins-official",
       "url": "https://github.com/anthropics/claude-plugins-official",
       "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
       "language": "Python",
-      "stars_today": "2,549 stars today",
-      "stars_total": "24,880"
+      "stars_today": "2,172 stars today",
+      "stars_total": "25,994"
     },
     {
       "name": "colbymchenry/codegraph",
       "url": "https://github.com/colbymchenry/codegraph",
       "description": "Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, OpenCode, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
       "language": "TypeScript",
-      "stars_today": "3,684 stars today",
-      "stars_total": "16,489"
-    },
-    {
-      "name": "ruvnet/RuView",
-      "url": "https://github.com/ruvnet/RuView",
-      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
-      "language": "Rust",
-      "stars_today": "978 stars today",
-      "stars_total": "63,988"
+      "stars_today": "2,434 stars today",
+      "stars_total": "18,256"
     },
     {
       "name": "rohitg00/ai-engineering-from-scratch",
       "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
       "description": "Learn it. Build it. Ship it for others.",
       "language": "Python",
-      "stars_today": "988 stars today",
-      "stars_total": "11,882"
+      "stars_today": "1,523 stars today",
+      "stars_total": "12,982"
     },
     {
-      "name": "ChromeDevTools/chrome-devtools-mcp",
-      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
-      "description": "Chrome DevTools for coding agents",
-      "language": "TypeScript",
-      "stars_today": "501 stars today",
-      "stars_total": "40,962"
+      "name": "Fincept-Corporation/FinceptTerminal",
+      "url": "https://github.com/Fincept-Corporation/FinceptTerminal",
+      "description": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.",
+      "language": "Python",
+      "stars_today": "537 stars today",
+      "stars_total": "22,932"
+    },
+    {
+      "name": "multica-ai/andrej-karpathy-skills",
+      "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "language": "",
+      "stars_today": "3,152 stars today",
+      "stars_total": "148,697"
     },
     {
       "name": "dotnet/skills",
       "url": "https://github.com/dotnet/skills",
       "description": "Repository for skills to assist AI coding agents with .NET and C#",
       "language": "C#",
-      "stars_today": "389 stars today",
-      "stars_total": "2,522"
+      "stars_today": "262 stars today",
+      "stars_total": "2,673"
     },
     {
-      "name": "Lum1104/Understand-Anything",
-      "url": "https://github.com/Lum1104/Understand-Anything",
-      "description": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
+      "name": "ChromeDevTools/chrome-devtools-mcp",
+      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+      "description": "Chrome DevTools for coding agents",
       "language": "TypeScript",
-      "stars_today": "1,393 stars today",
-      "stars_total": "18,526"
+      "stars_today": "437 stars today",
+      "stars_total": "41,213"
     },
     {
-      "name": "odoo/odoo",
-      "url": "https://github.com/odoo/odoo",
-      "description": "Odoo. Open Source Apps To Grow Your Business.",
+      "name": "mukul975/Anthropic-Cybersecurity-Skills",
+      "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+      "description": "754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND & NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 26 security domains · Apache 2.0",
       "language": "Python",
-      "stars_today": "79 stars today",
-      "stars_total": "51,118"
+      "stars_today": "238 stars today",
+      "stars_total": "7,005"
     },
     {
-      "name": "byJoey/cfnew",
-      "url": "https://github.com/byJoey/cfnew",
-      "description": "",
-      "language": "",
-      "stars_today": "87 stars today",
-      "stars_total": "13,295"
-    },
-    {
-      "name": "trimstray/the-book-of-secret-knowledge",
-      "url": "https://github.com/trimstray/the-book-of-secret-knowledge",
-      "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
-      "language": "",
-      "stars_today": "969 stars today",
-      "stars_total": "223,185"
+      "name": "presenton/presenton",
+      "url": "https://github.com/presenton/presenton",
+      "description": "Open-Source AI Presentation Generator and API (Gamma, Beautiful AI, Decktopus Alternative)",
+      "language": "TypeScript",
+      "stars_today": "302 stars today",
+      "stars_total": "6,118"
     }
   ],
   "ai_repos": [
     {
+      "name": "Lum1104/Understand-Anything",
+      "url": "https://github.com/Lum1104/Understand-Anything",
+      "description": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
+      "language": "TypeScript",
+      "stars_today": "2,331 stars today",
+      "stars_total": "20,080"
+    },
+    {
       "name": "anthropics/claude-plugins-official",
       "url": "https://github.com/anthropics/claude-plugins-official",
       "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
       "language": "Python",
-      "stars_today": "2,549 stars today",
-      "stars_total": "24,880"
+      "stars_today": "2,172 stars today",
+      "stars_total": "25,994"
     },
     {
       "name": "colbymchenry/codegraph",
       "url": "https://github.com/colbymchenry/codegraph",
       "description": "Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, OpenCode, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
       "language": "TypeScript",
-      "stars_today": "3,684 stars today",
-      "stars_total": "16,489"
+      "stars_today": "2,434 stars today",
+      "stars_total": "18,256"
     },
     {
       "name": "rohitg00/ai-engineering-from-scratch",
       "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
       "description": "Learn it. Build it. Ship it for others.",
       "language": "Python",
-      "stars_today": "988 stars today",
-      "stars_total": "11,882"
+      "stars_today": "1,523 stars today",
+      "stars_total": "12,982"
     },
     {
-      "name": "ChromeDevTools/chrome-devtools-mcp",
-      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
-      "description": "Chrome DevTools for coding agents",
-      "language": "TypeScript",
-      "stars_today": "501 stars today",
-      "stars_total": "40,962"
+      "name": "Fincept-Corporation/FinceptTerminal",
+      "url": "https://github.com/Fincept-Corporation/FinceptTerminal",
+      "description": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.",
+      "language": "Python",
+      "stars_today": "537 stars today",
+      "stars_total": "22,932"
+    },
+    {
+      "name": "multica-ai/andrej-karpathy-skills",
+      "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "language": "",
+      "stars_today": "3,152 stars today",
+      "stars_total": "148,697"
     },
     {
       "name": "dotnet/skills",
       "url": "https://github.com/dotnet/skills",
       "description": "Repository for skills to assist AI coding agents with .NET and C#",
       "language": "C#",
-      "stars_today": "389 stars today",
-      "stars_total": "2,522"
+      "stars_today": "262 stars today",
+      "stars_total": "2,673"
     },
     {
-      "name": "Lum1104/Understand-Anything",
-      "url": "https://github.com/Lum1104/Understand-Anything",
-      "description": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
+      "name": "ChromeDevTools/chrome-devtools-mcp",
+      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+      "description": "Chrome DevTools for coding agents",
       "language": "TypeScript",
-      "stars_today": "1,393 stars today",
-      "stars_total": "18,526"
+      "stars_today": "437 stars today",
+      "stars_total": "41,213"
+    },
+    {
+      "name": "mukul975/Anthropic-Cybersecurity-Skills",
+      "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+      "description": "754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND & NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 26 security domains · Apache 2.0",
+      "language": "Python",
+      "stars_today": "238 stars today",
+      "stars_total": "7,005"
+    },
+    {
+      "name": "presenton/presenton",
+      "url": "https://github.com/presenton/presenton",
+      "description": "Open-Source AI Presentation Generator and API (Gamma, Beautiful AI, Decktopus Alternative)",
+      "language": "TypeScript",
+      "stars_today": "302 stars today",
+      "stars_total": "6,118"
     }
   ],
   "posts": [
     {
-      "topic": "Claude插件库",
-      "repo": "anthropics/claude-plugins-official",
-      "cover_line1": "Anthropic官方Claude插件目录",
-      "cover_line2": "24,880颗星，今天涨2549颗",
-      "body": "Anthropic自己建了个插件目录，不是第三方凑的，也不是社区投票选的，就是他们团队在管。里面所有插件都经过审核，能跑通、有文档、不乱调API。不是每个插件都支持全部Claude模型，但每个页面都写了清楚支持哪个版本，比如‘仅Claude 3.5 Sonnet’或者‘兼容Claude 3 Opus’。你点进去能看到真实测试用例，不是截图，是可复制粘贴的JSON payload示例。语言标注很实在：Python插件标‘Python 3.11+’，TypeScript插件写明‘需要tsc 5.3以上’。没有‘一键部署’这种话，但每项都列了依赖、环境变量和最小权限说明。今天一天涨了2549颗星，说明很多人正在试它，不是光收藏。它不解决‘怎么写插件’，而是解决‘写完之后放哪儿、谁来验证、用户信不信’这三件事。如果你已经做过一个Claude插件，现在可以直接提PR；如果你刚想开始，这里16个已上线插件就是现成的模板——连错误重试逻辑和token截断处理都写在代码里。它没做UI，没做市场页，就干一件事：让插件能被找见、能被信得过、能被安全用上。你最近试过哪个插件？",
+      "topic": "Understand-Anything",
+      "repo": "Lum1104/Understand-Anything",
+      "cover_line1": "代码转可交互知识图谱",
+      "cover_line2": "支持 Claude、Copilot、Gemini",
+      "body": "你打开一个新项目，想搞懂它怎么跑起来，现在不用硬啃 README 和 main.py 了。这个工具把任意代码仓库自动变成一张带节点和连线的知识图谱，函数连着调用它的函数，类标着它继承谁，变量连着赋值它的行。点一下就能展开，搜一个函数名马上定位，还能直接问‘用户登录流程走哪几个模块’——背后是调用本地或远程的 Claude Code 或 Gemini CLI 来理解语义。它不改你代码，也不上传源码到别处，所有解析都在你机器上做。TypeScript 写的，插件式设计，已经适配了 Cursor、Copilot、Codex CLI 这些主流 AI 编程助手。今天涨了 2331 星，总星数破两万，说明很多人正卡在‘看懂别人代码’这一步。它没做模型训练，也没建大平台，就是专注解决一个具体动作：让代码结构可触摸、可追问、可回溯。如果你上周花三小时才理清一个 legacy service 的依赖链，这个工具大概能帮你省下两小时。",
       "tags": [
-        "claude",
-        "plugin",
-        "anthropic",
-        "python",
-        "api",
-        "tool-use",
-        "agent",
-        "production",
-        "verification",
-        "open-source"
-      ]
-    },
-    {
-      "topic": "CodeGraph本地图谱",
-      "repo": "colbymchenry/codegraph",
-      "cover_line1": "预建代码知识图谱工具",
-      "cover_line2": "100%本地运行，少用token",
-      "body": "它把你的整个代码库提前转成一张图——函数连函数，类连方法，import连定义，全用标准AST解析出来，不靠LLM猜。生成后存在本地SQLite里，不用联网，也不走API。你问‘哪些地方调用了PaymentService.cancel()’，它秒回三个文件两个测试，不是大段文本摘要。因为图结构固定，每次查询只读几十KB数据，不像RAG那样每次都要embed整个文件再算相似度。支持Claude Code、Codex、Cursor这些工具直接接入，只要加一行配置就能用。README里写了实测对比：同样查‘auth流程怎么跳转到SSO’，用它比用原始代码检索少发7次API请求，token用量降62%。它不改你代码，也不要求你装新IDE，就一个CLI命令：codegraph build --path ./src。build完生成一个graph.db和一个config.yaml，剩下的交给你的Agent读。没训练过程，没模型权重，纯静态分析+图查询。如果你的项目超过5万行，又常要跨模块定位，这个图就是你的新跳转键。你愿意为减少一次LLM调用，多花两分钟建一次图吗？",
-      "tags": [
-        "code-graph",
+        "code-understanding",
         "knowledge-graph",
-        "local",
+        "ai-coding",
         "typescript",
-        "ast",
-        "agent",
-        "reduction",
-        "sqlite",
-        "cli",
-        "offline"
+        "claude-code",
+        "copilot",
+        "cursor",
+        "gemini-cli",
+        "local-first",
+        "developer-tool"
       ]
     },
     {
-      "topic": "AI工程从零做",
-      "repo": "rohitg00/ai-engineering-from-scratch",
-      "cover_line1": "手把手做AI工程课",
-      "cover_line2": "11,882人跟着写完生产系统",
-      "body": "这不是讲概念的课，是让你从空文件夹开始，一行行敲出能上线的AI服务。第一课：用Flask搭最小API，接通OpenRouter，加rate limit和log；第三课：把response缓存进Redis，写失效逻辑；第七课：加Prometheus指标，配Grafana看latency分布；第十课：用Docker Compose启动整套，包括PostgreSQL和vector DB。所有代码都在GitHub，commit时间戳连着课程章节，你能看到作者每天推什么——比如‘feat: 加retry backoff’或‘fix: pg vector schema typo’。没PPT，只有md文档+代码+CI日志链接。配套Discord里，327人贴出了自己部署成功的截图，带curl测试结果和Cloudflare日志。它不教你transformer原理，但教你怎么让模型输出稳定进数据库、怎么防prompt注入、怎么给客户开API key管理页。课程最后交作业：用所学部署一个带WebUI的RAG服务，作者会人工review PR。今天新增988颗星，多数来自刚部署完第二课的人。你上次部署一个带监控和鉴权的AI服务，是什么时候？",
+      "topic": "Karpathy Skills",
+      "repo": "multica-ai/andrej-karpathy-skills",
+      "cover_line1": "一份 Karpathy 写的 Claude 提示模板",
+      "cover_line2": "单文件 CLAUDE.md 改写行为",
+      "body": "这不是一个新模型，也不是一个 SDK，就是一个叫 CLAUDE.md 的纯文本文件。它由 Multica 团队整理，内容全部来自 Andrej Karpathy 在推特、视频和访谈里讲过的 LLM 编程常见翻车点：比如别硬凑代码补全、要先画数据流再写函数、遇到报错先检查输入形状而不是重写整个模块。这份提示词不是泛泛而谈‘请认真思考’，而是具体到‘当你看到 assert len(x) == 3 报错时，下一步必须打印 x.shape 和 type(x)’。把它放进项目根目录，Claude Code 就会按这个节奏工作。目前总星数 14.8 万，今天涨了 3152 星，是今天涨幅最高的 AI 项目。它没加一行新代码，只靠一份对齐人类调试直觉的提示词，就让现有工具更可靠。你试过给 Claude 传一段出错代码，它却绕开关键变量直接重写整个函数吗？这份文件就是为这事写的。",
       "tags": [
-        "ai-engineering",
-        "production",
-        "flask",
-        "docker",
-        "redis",
-        "prometheus",
-        "python",
-        "deployment",
-        "hands-on",
-        "course"
-      ]
-    },
-    {
-      "topic": "Chrome DevTools MCP",
-      "repo": "ChromeDevTools/chrome-devtools-mcp",
-      "cover_line1": "Chrome调试器适配AI代理",
-      "cover_line2": "40,962颗星，已进VS Code插件市场",
-      "body": "Chrome DevTools本来是给人用的，现在它能直接喂给AI代理了。这个项目把DevTools协议（CDP）封装成MCP（Model Control Protocol）标准接口，让Claude、Cursor这类Agent能像人一样‘打开开发者工具’——不是截图识别，而是真拿到DOM树、Network请求列表、Console日志流、Performance时间线。Agent可以发指令：‘找出加载最慢的JS资源’，它就返回URL+size+TTFB；‘高亮所有未处理的Promise rejection’，它就返行号和堆栈。所有通信走本地WebSocket，不上传代码、不传页面内容。它已打包进VS Code官方插件市场，名字就叫‘Chrome DevTools for Agents’，安装后在右下角点‘Start CDP Server’就行。README里列了6个真实Agent集成案例，包括一个自动修复前端内存泄漏的脚本——它用CDP发现detached DOM节点，再调Puppeteer删掉引用。不是概念验证，是已有40,962人用它跑通了实际任务。它没做新UI，只是把Chrome已有的能力，变成Agent能读懂的动词和名词。你希望Agent帮你查什么前端问题？",
-      "tags": [
-        "chrome-devtools",
-        "cdp",
-        "mcp",
-        "vscode",
-        "agent",
-        "frontend",
+        "prompt-engineering",
+        "claude-code",
+        "karpathy",
         "debugging",
-        "websocket",
+        "llm-behavior",
+        "markdown",
+        "ai-coding",
+        "engineering-practice",
+        "open-source",
+        "developer-habit"
+      ]
+    },
+    {
+      "topic": "CodeGraph",
+      "repo": "colbymchenry/codegraph",
+      "cover_line1": "预建好的代码知识图谱",
+      "cover_line2": "100% 本地运行，零网络调用",
+      "body": "你不想每次问 AI ‘这个函数被谁调用’都要等几秒、发请求、还担心代码上传吗？这个项目提前把你的代码解析成图谱存好，所有查询都在本地跑。它支持 TypeScript、Python、Rust 等主流语言，生成的图谱包含函数、类、模块、import 关系、甚至注释关键词，体积比原始代码小得多。查一个调用链，不到 10ms；问‘哪些测试覆盖了 auth middleware’，它直接从 AST+注释里匹配，不依赖运行时。它不接任何云服务，不调 API，连 token 都不碰——所有逻辑用 TypeScript 写，打包进 VS Code 插件或 CLI 工具里就能用。今天涨了 2434 星，总星数近 1.8 万。它没造新轮子，只是把‘静态分析 + 图数据库’这件事做得足够轻、足够快、足够离线。如果你的公司禁用外部 AI 工具，或者你正在调试一个不能联网的嵌入式服务，这个图谱就是你能摸得着的上下文。",
+      "tags": [
+        "static-analysis",
+        "knowledge-graph",
+        "local-first",
         "typescript",
-        "automation"
+        "vscode-extension",
+        "cli-tool",
+        "ai-coding",
+        "offline",
+        "ast",
+        "developer-tool"
+      ]
+    },
+    {
+      "topic": "Cybersecurity Skills",
+      "repo": "mukul975/Anthropic-Cybersecurity-Skills",
+      "cover_line1": "754 条结构化安全技能",
+      "cover_line2": "覆盖 MITRE ATT&CK 等 5 大框架",
+      "body": "AI 编程助手写业务逻辑越来越顺，但一碰到权限校验、日志脱敏、JWT 签名验证这些安全动作，就容易漏掉关键 check。这个项目把 754 个真实安全操作拆成原子技能：比如‘识别硬编码密钥’‘检测 SQL 注入风险参数’‘生成符合 NIST CSF 2.0 的审计日志字段’。每条技能都标注对应 MITRE ATT&CK 技术编号、NIST CSF 类别、D3FEND 防御层，甚至注明该用正则还是 AST 分析来实现。它不训练模型，只提供 skill.yaml 文件，Claude Code 或 Copilot 插件加载后就能在写代码时自动触发。Apache 2.0 开源，已适配 20+ 平台。今天涨了 238 星，总星数 7005。它不喊‘AI 要懂安全’，而是直接给你 754 个 if-else 规则。你上一次手动加 try/catch 是为了防错，还是为了防攻击？",
+      "tags": [
+        "cybersecurity",
+        "ai-safety",
+        "mitre-attck",
+        "nists-csf",
+        "prompt-library",
+        "yaml",
+        "claude-code",
+        "copilot",
+        "agentskills-io",
+        "devsecops"
       ]
     }
   ],
