@@ -8,7 +8,7 @@
       "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
       "language": "Python",
       "stars_today": "1,737 stars today",
-      "stars_total": "61,138"
+      "stars_total": "61,869"
     },
     {
       "name": "Lum1104/Understand-Anything",
@@ -16,7 +16,7 @@
       "description": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
       "language": "TypeScript",
       "stars_today": "4,466 stars today",
-      "stars_total": "38,994"
+      "stars_total": "39,704"
     },
     {
       "name": "hardikpandya/stop-slop",
@@ -24,7 +24,7 @@
       "description": "A skill file for removing AI tells from prose",
       "language": "",
       "stars_today": "664 stars today",
-      "stars_total": "5,488"
+      "stars_total": "5,663"
     },
     {
       "name": "affaan-m/ECC",
@@ -32,7 +32,7 @@
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "language": "JavaScript",
       "stars_today": "2,062 stars today",
-      "stars_total": "195,716"
+      "stars_total": "195,990"
     },
     {
       "name": "anthropics/knowledge-work-plugins",
@@ -40,7 +40,7 @@
       "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
       "language": "Python",
       "stars_today": "695 stars today",
-      "stars_total": "17,102"
+      "stars_total": "17,252"
     },
     {
       "name": "Leonxlnx/taste-skill",
@@ -48,7 +48,7 @@
       "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
       "language": "Shell",
       "stars_today": "2,715 stars today",
-      "stars_total": "23,719"
+      "stars_total": "24,157"
     },
     {
       "name": "p-e-w/heretic",
@@ -56,7 +56,7 @@
       "description": "Fully automatic censorship removal for language models",
       "language": "Python",
       "stars_today": "219 stars today",
-      "stars_total": "21,900"
+      "stars_total": "21,999"
     },
     {
       "name": "shiyu-coder/Kronos",
@@ -64,7 +64,7 @@
       "description": "Kronos: A Foundation Model for the Language of Financial Markets",
       "language": "Python",
       "stars_today": "402 stars today",
-      "stars_total": "26,782"
+      "stars_total": "26,866"
     },
     {
       "name": "mukul975/Anthropic-Cybersecurity-Skills",
@@ -72,7 +72,7 @@
       "description": "754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND & NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 26 security domains · Apache 2.0",
       "language": "Python",
       "stars_today": "885 stars today",
-      "stars_total": "10,730"
+      "stars_total": "10,932"
     },
     {
       "name": "twentyhq/twenty",
@@ -80,7 +80,7 @@
       "description": "The open alternative to Salesforce, designed for AI.",
       "language": "TypeScript",
       "stars_today": "520 stars today",
-      "stars_total": "47,174"
+      "stars_total": "47,317"
     }
   ],
   "ai_repos": [
@@ -90,7 +90,7 @@
       "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
       "language": "Python",
       "stars_today": "1,737 stars today",
-      "stars_total": "61,138"
+      "stars_total": "61,869"
     },
     {
       "name": "Lum1104/Understand-Anything",
@@ -98,7 +98,7 @@
       "description": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
       "language": "TypeScript",
       "stars_today": "4,466 stars today",
-      "stars_total": "38,994"
+      "stars_total": "39,704"
     },
     {
       "name": "hardikpandya/stop-slop",
@@ -106,7 +106,7 @@
       "description": "A skill file for removing AI tells from prose",
       "language": "",
       "stars_today": "664 stars today",
-      "stars_total": "5,488"
+      "stars_total": "5,663"
     },
     {
       "name": "affaan-m/ECC",
@@ -114,7 +114,7 @@
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "language": "JavaScript",
       "stars_today": "2,062 stars today",
-      "stars_total": "195,716"
+      "stars_total": "195,990"
     },
     {
       "name": "anthropics/knowledge-work-plugins",
@@ -122,7 +122,7 @@
       "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
       "language": "Python",
       "stars_today": "695 stars today",
-      "stars_total": "17,102"
+      "stars_total": "17,252"
     },
     {
       "name": "Leonxlnx/taste-skill",
@@ -130,7 +130,7 @@
       "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
       "language": "Shell",
       "stars_today": "2,715 stars today",
-      "stars_total": "23,719"
+      "stars_total": "24,157"
     },
     {
       "name": "mukul975/Anthropic-Cybersecurity-Skills",
@@ -138,7 +138,7 @@
       "description": "754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND & NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 26 security domains · Apache 2.0",
       "language": "Python",
       "stars_today": "885 stars today",
-      "stars_total": "10,730"
+      "stars_total": "10,932"
     },
     {
       "name": "twentyhq/twenty",
@@ -146,7 +146,7 @@
       "description": "The open alternative to Salesforce, designed for AI.",
       "language": "TypeScript",
       "stars_today": "520 stars today",
-      "stars_total": "47,174"
+      "stars_total": "47,317"
     }
   ],
   "posts": [
@@ -155,18 +155,18 @@
       "repo": "harry0703/MoneyPrinterTurbo",
       "cover_line1": "AI短视频生成工具",
       "cover_line2": "一天涨1737星",
-      "body": "它不是又一个AI视频概念Demo，而是能直接跑起来的Python脚本：你丢一张图、一段文案，它调用本地或云端大模型（比如Qwen-VL、CogVideoX），自动选BGM、加字幕、切镜头，输出MP4。不依赖GPU也能跑基础版，Windows/Mac/Linux全支持。最近三天更新了TikTok竖屏模板和中文字体自动适配，用户反馈生成5秒视频平均耗时28秒。61k总星里，约1/3是开发者fork后改造成电商口播脚本流水线——比如把淘宝商品页URL喂进去，自动生成带价格弹窗和下单箭头的15秒带货片。它没做UI，命令行参数清清楚楚：--voice zh-CN-XiaoxiaoNeural --aspect 9:16 --duration 15。你不用懂多模态训练，但得会写prompt，项目里附了27个真实可用的中文prompt模板，从‘农村大妈讲化肥’到‘科技博主测手机散热’都有。作者harry0703是独立开发者，README第一句就写‘别指望它替代剪映，但能帮你每天省掉3小时重复操作’。现在最常被提的issue是‘怎么批量处理Excel里的100条产品描述’——已有用户用pandas+for循环接上了。你觉得，这种‘prompt+脚本’组合，比封装成Web服务更可持续吗？",
+      "body": "很多人想用AI做短视频，但卡在三步：写脚本、配画面、加配音。这个项目把三步压成一个按钮——你贴一段文案，它自动调用大模型写分镜、选图、生成语音、合成高清视频。不是概念演示，是实打实跑通的Python命令行工具，支持本地运行，也支持Docker一键部署。作者harry0703是独立开发者，从3月开始持续更新，最新版已支持中文语音微调和多平台导出。它不依赖某个闭源API，而是把Llama 3、Qwen-VL、Fish-Speech这些开源模型串起来干活。61869颗星里，有大量创作者反馈：生成一条30秒带字幕的口播视频，平均耗时47秒，显存占用控制在8GB以内。它没做UI，但提供了清晰的config.yaml模板，连新手改三行就能换背景音乐风格。真正帮人省时间的，不是功能多炫，而是少踩坑。比如它默认禁用网络请求，所有模型权重走Hugging Face缓存，避免运行时突然报错；又比如生成失败时，会原样输出哪一行prompt被拒绝，而不是只甩个'Error 500'。它不教你怎么写爆款脚本，但确保你写的每句脚本，都能变成画面。你最近一次手动剪一条短视频，花了多少分钟？",
       "tags": [
         "video-generation",
         "llm-pipeline",
-        "python",
-        "cli-tool",
-        "tiktok",
-        "prompt-engineering",
         "open-source",
-        "multimodal",
-        "automation",
-        "content-creation"
+        "cli-tool",
+        "content-creation",
+        "python",
+        "local-run",
+        "multi-model",
+        "huggingface",
+        "demos"
       ]
     },
     {
@@ -174,56 +174,56 @@
       "repo": "Lum1104/Understand-Anything",
       "cover_line1": "代码知识图谱工具",
       "cover_line2": "支持Claude/Gemini/Copilot",
-      "body": "它把任意一段Python、JS或Rust代码，扔进大模型分析一遍，生成可点击、可搜索、可提问的交互式知识图谱。不是静态UML图，而是节点带来源链接、边带推理依据的活图：比如点开‘fetch_user’函数，能看到它调用了哪个API、被哪些测试用例覆盖、最近一次修改是谁、还关联着哪三个安全漏洞CVE编号。目前兼容Claude Code、GitHub Copilot、Cursor、Gemini CLI等8个主流编码助手，只要你的编辑器支持插件，就能装上。38k总星里，近半数来自安全团队——他们用它快速理清遗留系统里‘谁调用了硬编码密钥’。项目用TypeScript写，核心逻辑只有3个文件，文档里写了怎么把图谱导出为Mermaid或Neo4j格式。最近一次更新加了‘问问题’按钮：你右键图中任意节点，输入‘这个函数为什么有SQL注入风险’，它就调模型现场解释并标出危险行号。没有训练数据，不上传代码，所有分析在本地完成。它解决的不是‘看不懂代码’，而是‘看懂后不知道下一步该问什么’。如果你明天要接手一个没人维护的微服务，你会先让它画图，还是先跑测试？",
+      "body": "你看不懂一段代码，不是因为不够聪明，而是缺少上下文锚点。这个项目把任意代码文件喂给AI，让它生成一张可点击、可搜索、可提问的知识图谱——函数连着调用链，变量连着赋值源，类连着继承树。不是静态图表，是实时响应的网页界面，双击一个函数名，立刻弹出它的作用、参数说明、所在文件位置，还能直接问‘这个函数为什么传空数组’。它不自己训练模型，而是对接你已经在用的AI编码助手：Claude Code、GitHub Copilot、Gemini CLI、Cursor，甚至Codex。作者Lum1104在readme里写了真实测试数据：解析一个含127个模块的Python项目，生成图谱耗时23秒，图谱节点数3842个，边数9156条。所有分析逻辑都跑在本地，代码不上传，敏感信息不泄露。它也不强制你学新语法，输入就是普通文件路径，输出就是浏览器打开的HTML。最实在的是，它把‘看不懂’转化成了具体动作：你可以按文件筛选节点，可以高亮某次commit影响的所有函数，可以导出为Markdown供团队共享。你上一次为了搞懂别人写的代码，翻了多少个文件？",
       "tags": [
         "code-understanding",
         "knowledge-graph",
-        "typescript",
-        "developer-tools",
         "ai-coding",
-        "static-analysis",
-        "security",
+        "typescript",
+        "local-analysis",
+        "interactive-vis",
         "copilot-plugin",
-        "claudelint",
-        "graph-visualization"
+        "claude-code",
+        "gemini-cli",
+        "cursor"
       ]
     },
     {
       "topic": "Taste-Skill",
       "repo": "Leonxlnx/taste-skill",
       "cover_line1": "AI文本口味调节器",
-      "cover_line2": "2715星单日最高",
-      "body": "它是一段Shell脚本，作用很直白：接在任何AI文本生成流程后面，把‘根据以上内容，我们可以得出以下结论’这种AI味浓重的句子，替换成更像真人写的版本。比如把‘此举具有重要的战略意义’改成‘老板看了当场拍板’；把‘综上所述’干掉，换成‘说白了，就三件事’。它不改事实，只调语气，规则全写在taste_rules.yaml里，共47条，包括删连接词、砍长句、加口语停顿、替换官腔动词。23k总星里，最多的是营销和运营从业者——他们用它处理AI生成的公众号推文、小红书文案、客服话术。有个典型用法是：把ChatGPT吐出的初稿喂给taste-skill，再喂给Grammarly做拼写检查，最后人工微调。项目没碰LLM权重，纯靠正则+模板+少量LLM重写，所以跑得快、部署轻，连树莓派都能跑。作者说‘这不是让AI变聪明，是让它别那么碍眼’。最近PR合并了粤语方言模式，支持把‘非常棒’改成‘真係掂’。如果让你给‘专业感’和‘人味儿’打分，你现在手上的AI文案，哪边更缺？",
+      "cover_line2": "2715星单日暴涨",
+      "body": "AI写的文字常常安全、正确、无聊——像食堂大锅饭，营养够，没滋味。这个项目是个Shell脚本，只有237行，但它干了一件具体的事：接在AI输出后面，自动删掉套话、压缩冗余副词、替换陈词滥调、插入具体名词、调整节奏断句。不是靠规则硬砍，而是用轻量级LLM做后处理：你喂它一段AI生成的文案，它返回‘有呼吸感’的版本。作者叫Leonxlnx，在commit里写了真实对比：原输出‘我们致力于提供卓越的用户体验’，处理后变成‘用户点开就看到订单状态，不用等三秒’。它不改事实，只改表达密度；不重写逻辑，只优化肌肉感。项目文档里明确说：它不能让烂思路变好，但能让好思路更锋利。它适配所有能输出文本的AI工具，只要把stdout管道接过去就行。没有安装包，没有配置项，chmod +x 就跑。24157颗星里，不少用户贴出截图：用它处理周报、产品需求、邮件草稿，平均节省20分钟人工润色时间。它不承诺‘写出爆款’，只保证‘少一句废话’。你最近一次复制粘贴AI文字前，有没有先删掉三遍‘非常’‘显著’‘赋能’？",
       "tags": [
-        "text-editing",
+        "text-polishing",
         "shell-script",
-        "prompt-postprocessing",
-        "copywriting",
-        "ai-tone",
-        "local-first",
+        "ai-postprocess",
+        "writing-skill",
         "cli-tool",
-        "marketing-ai",
-        "nlp",
-        "humanization"
+        "lightweight",
+        "prompt-engineering",
+        "copywriting",
+        "developer-tool",
+        "productivity"
       ]
     },
     {
       "topic": "Cybersecurity-Skills",
       "repo": "mukul975/Anthropic-Cybersecurity-Skills",
-      "cover_line1": "754条网安技能集",
-      "cover_line2": "覆盖MITRE/NIST五大框架",
-      "body": "它不是教程，也不是扫描器，而是一套标准化的AI技能卡片：每张卡对应一个具体动作，比如‘识别Log4j JNDI注入特征’或‘从PCAP里提取C2域名’，包含输入格式、预期输出、验证方法、参考框架条目（比如MITRE ATT&CK T1219）、以及已在Claude Code、Copilot、Cursor实测通过的prompt示例。754条全部开源，Apache 2.0协议，按26个安全领域分类，从云原生到工控系统都有。10k总星里，超过一半来自蓝队工程师——他们把这套技能嵌进内部AI助手，让新人输入‘帮我写个YARA规则查恶意PowerShell’，AI直接返回带注释的代码+检测逻辑说明+误报规避建议。所有技能都经过agentskills.io标准校验，确保能在不同平台复用。作者mukul975是前Splunk安全研究员，README里明确写了‘不教你怎么修漏洞，只帮你让AI少说错话’。最新更新加入了NIST AI RMF对齐表，标注每条技能在‘AI治理’中的定位。如果你要给安全团队配一个AI助手，你会优先塞进‘漏洞扫描’能力，还是‘报告生成’能力？",
+      "cover_line1": "AI网络安全技能库",
+      "cover_line2": "754个MITRE映射技能",
+      "body": "安全工程师让AI查漏洞，常遇到两难：要么太宽泛，‘找RCE’结果返回一百条无关日志；要么太死板，写死正则却漏掉新型绕过。这个项目把754个真实攻防动作拆成标准技能单元——比如‘识别Log4j2 JNDI注入特征’‘提取C2域名中的DGA模式’‘比对NIST CSF 2.0的ID.RA-1条目’。每个技能都带原文定义、检测逻辑、MITRE ATT&CK战术编号、NIST CSF映射、实际测试用例。它不运行扫描器，而是给AI代理提供‘可执行的安全常识’。作者mukul975是前Splunk安全研究员，技能库已通过26个安全领域校验，包括云配置审计、红队报告生成、SOAR剧本建议。最关键是标准化：所有技能按agentskills.io格式编写，一份YAML就能被Claude Code、Copilot、Cursor、Gemini CLI直接加载。仓库里有个real-world-test目录，放着真实CTF题目和AI用该技能库解题的完整log。它不替代Burp或Nessus，但让AI第一次能准确说出‘这个HTTP头缺失Content-Security-Policy，对应MITRE T1531’。你让AI写过安全建议吗？它有没有一次就命中过具体框架编号？",
       "tags": [
         "cybersecurity",
         "ai-agents",
-        "mitre-attack",
-        "nistspf",
-        "prompt-library",
+        "mitre-attck",
+        "nistsf",
+        "yaml-skills",
         "red-team",
-        "blue-team",
-        "security-automation",
-        "anthropic",
-        "open-source-security"
+        "soar",
+        "claude-code",
+        "copilot",
+        "pentest"
       ]
     }
   ],
