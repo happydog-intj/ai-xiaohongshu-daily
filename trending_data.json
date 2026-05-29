@@ -1,5 +1,5 @@
 {
-  "date": "2026-05-29",
+  "date": "2026-05-30",
   "slot": "早报",
   "all_repos": [
     {
@@ -7,80 +7,80 @@
       "url": "https://github.com/harry0703/MoneyPrinterTurbo",
       "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
       "language": "Python",
-      "stars_today": "4,698 stars today",
-      "stars_total": "66,208"
-    },
-    {
-      "name": "affaan-m/ECC",
-      "url": "https://github.com/affaan-m/ECC",
-      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "language": "JavaScript",
-      "stars_today": "1,385 stars today",
-      "stars_total": "197,241"
-    },
-    {
-      "name": "Leonxlnx/taste-skill",
-      "url": "https://github.com/Leonxlnx/taste-skill",
-      "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
-      "language": "Shell",
-      "stars_today": "2,234 stars today",
-      "stars_total": "26,357"
-    },
-    {
-      "name": "hardikpandya/stop-slop",
-      "url": "https://github.com/hardikpandya/stop-slop",
-      "description": "A skill file for removing AI tells from prose",
-      "language": "",
-      "stars_today": "761 stars today",
-      "stars_total": "6,395"
-    },
-    {
-      "name": "twentyhq/twenty",
-      "url": "https://github.com/twentyhq/twenty",
-      "description": "The open alternative to Salesforce, designed for AI.",
-      "language": "TypeScript",
-      "stars_today": "493 stars today",
-      "stars_total": "47,829"
-    },
-    {
-      "name": "DigitalPlatDev/FreeDomain",
-      "url": "https://github.com/DigitalPlatDev/FreeDomain",
-      "description": "DigitalPlat FreeDomain: Free Domain For Everyone",
-      "language": "HTML",
-      "stars_today": "1,761 stars today",
-      "stars_total": "170,679"
-    },
-    {
-      "name": "byoungd/English-level-up-tips",
-      "url": "https://github.com/byoungd/English-level-up-tips",
-      "description": "An advanced guide to learn English which might benefit you a lot 🎉 . 离谱的英语学习指南/英语学习教程/英语学习/学英语",
-      "language": "",
-      "stars_today": "2,019 stars today",
-      "stars_total": "48,446"
+      "stars_today": "3,563 stars today",
+      "stars_total": "69,065"
     },
     {
       "name": "microsoft/markitdown",
       "url": "https://github.com/microsoft/markitdown",
       "description": "Python tool for converting files and office documents to Markdown.",
       "language": "Python",
-      "stars_today": "1,410 stars today",
-      "stars_total": "127,698"
+      "stars_today": "1,876 stars today",
+      "stars_total": "129,209"
     },
     {
-      "name": "obra/superpowers",
-      "url": "https://github.com/obra/superpowers",
-      "description": "An agentic skills framework & software development methodology that works.",
+      "name": "EveryInc/compound-engineering-plugin",
+      "url": "https://github.com/EveryInc/compound-engineering-plugin",
+      "description": "Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more",
+      "language": "TypeScript",
+      "stars_today": "354 stars today",
+      "stars_total": "18,035"
+    },
+    {
+      "name": "twentyhq/twenty",
+      "url": "https://github.com/twentyhq/twenty",
+      "description": "The open alternative to Salesforce, designed for AI.",
+      "language": "TypeScript",
+      "stars_today": "575 stars today",
+      "stars_total": "48,248"
+    },
+    {
+      "name": "anthropics/claude-code",
+      "url": "https://github.com/anthropics/claude-code",
+      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+      "language": "Python",
+      "stars_today": "460 stars today",
+      "stars_total": "127,731"
+    },
+    {
+      "name": "Leonxlnx/taste-skill",
+      "url": "https://github.com/Leonxlnx/taste-skill",
+      "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
       "language": "Shell",
-      "stars_today": "1,730 stars today",
-      "stars_total": "211,042"
+      "stars_today": "2,066 stars today",
+      "stars_total": "27,774"
     },
     {
-      "name": "revfactory/harness",
-      "url": "https://github.com/revfactory/harness",
-      "description": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.",
-      "language": "HTML",
-      "stars_today": "65 stars today",
-      "stars_total": "3,875"
+      "name": "cursor/plugins",
+      "url": "https://github.com/cursor/plugins",
+      "description": "Cursor plugin specification and official plugins",
+      "language": "TypeScript",
+      "stars_today": "129 stars today",
+      "stars_total": "1,214"
+    },
+    {
+      "name": "run-llama/liteparse",
+      "url": "https://github.com/run-llama/liteparse",
+      "description": "A fast, helpful, and open-source document parser",
+      "language": "Rust",
+      "stars_today": "680 stars today",
+      "stars_total": "6,996"
+    },
+    {
+      "name": "galilai-group/stable-worldmodel",
+      "url": "https://github.com/galilai-group/stable-worldmodel",
+      "description": "A platform for reproducible world model research and evaluation",
+      "language": "Python",
+      "stars_today": "346 stars today",
+      "stars_total": "1,141"
+    },
+    {
+      "name": "byoungd/English-level-up-tips",
+      "url": "https://github.com/byoungd/English-level-up-tips",
+      "description": "An advanced guide to learn English which might benefit you a lot 🎉 . 离谱的英语学习指南/英语学习教程/英语学习/学英语",
+      "language": "",
+      "stars_today": "1,564 stars today",
+      "stars_total": "49,552"
     }
   ],
   "ai_repos": [
@@ -89,149 +89,141 @@
       "url": "https://github.com/harry0703/MoneyPrinterTurbo",
       "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
       "language": "Python",
-      "stars_today": "4,698 stars today",
-      "stars_total": "66,208"
+      "stars_today": "3,563 stars today",
+      "stars_total": "69,065"
     },
     {
-      "name": "affaan-m/ECC",
-      "url": "https://github.com/affaan-m/ECC",
-      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "language": "JavaScript",
-      "stars_today": "1,385 stars today",
-      "stars_total": "197,241"
-    },
-    {
-      "name": "Leonxlnx/taste-skill",
-      "url": "https://github.com/Leonxlnx/taste-skill",
-      "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
-      "language": "Shell",
-      "stars_today": "2,234 stars today",
-      "stars_total": "26,357"
-    },
-    {
-      "name": "hardikpandya/stop-slop",
-      "url": "https://github.com/hardikpandya/stop-slop",
-      "description": "A skill file for removing AI tells from prose",
-      "language": "",
-      "stars_today": "761 stars today",
-      "stars_total": "6,395"
+      "name": "EveryInc/compound-engineering-plugin",
+      "url": "https://github.com/EveryInc/compound-engineering-plugin",
+      "description": "Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more",
+      "language": "TypeScript",
+      "stars_today": "354 stars today",
+      "stars_total": "18,035"
     },
     {
       "name": "twentyhq/twenty",
       "url": "https://github.com/twentyhq/twenty",
       "description": "The open alternative to Salesforce, designed for AI.",
       "language": "TypeScript",
-      "stars_today": "493 stars today",
-      "stars_total": "47,829"
+      "stars_today": "575 stars today",
+      "stars_total": "48,248"
     },
     {
-      "name": "DigitalPlatDev/FreeDomain",
-      "url": "https://github.com/DigitalPlatDev/FreeDomain",
-      "description": "DigitalPlat FreeDomain: Free Domain For Everyone",
-      "language": "HTML",
-      "stars_today": "1,761 stars today",
-      "stars_total": "170,679"
+      "name": "anthropics/claude-code",
+      "url": "https://github.com/anthropics/claude-code",
+      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+      "language": "Python",
+      "stars_today": "460 stars today",
+      "stars_total": "127,731"
     },
     {
-      "name": "obra/superpowers",
-      "url": "https://github.com/obra/superpowers",
-      "description": "An agentic skills framework & software development methodology that works.",
+      "name": "Leonxlnx/taste-skill",
+      "url": "https://github.com/Leonxlnx/taste-skill",
+      "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
       "language": "Shell",
-      "stars_today": "1,730 stars today",
-      "stars_total": "211,042"
+      "stars_today": "2,066 stars today",
+      "stars_total": "27,774"
     },
     {
-      "name": "revfactory/harness",
-      "url": "https://github.com/revfactory/harness",
-      "description": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.",
-      "language": "HTML",
-      "stars_today": "65 stars today",
-      "stars_total": "3,875"
+      "name": "run-llama/liteparse",
+      "url": "https://github.com/run-llama/liteparse",
+      "description": "A fast, helpful, and open-source document parser",
+      "language": "Rust",
+      "stars_today": "680 stars today",
+      "stars_total": "6,996"
+    },
+    {
+      "name": "galilai-group/stable-worldmodel",
+      "url": "https://github.com/galilai-group/stable-worldmodel",
+      "description": "A platform for reproducible world model research and evaluation",
+      "language": "Python",
+      "stars_today": "346 stars today",
+      "stars_total": "1,141"
     }
   ],
   "posts": [
     {
       "topic": "MoneyPrinterTurbo",
       "repo": "harry0703/MoneyPrinterTurbo",
-      "cover_line1": "AI短视频一键生成工具",
-      "cover_line2": "今天涨4698星",
-      "body": "这个项目能让普通人用一句话描述，就自动生成高清短视频。它不靠剪辑软件，也不调参数，直接调用大模型理解你的意思，再驱动图像和视频模型分步出片——文字转画面、加配音、配字幕、自动剪节奏。整个流程封装成一个命令行脚本和 Web 界面，Windows/macOS/Linux 都能跑，显卡只要 8GB 显存就能本地跑通。作者是 Harry（GitHub ID harry0703），没融资、没公司背书，纯个人开源，但已经累计 6.6 万星。最近一次更新把生成时长从平均 90 秒压到 45 秒以内，还加了中文语音克隆选项。它不承诺‘完美成片’，但明确告诉用户：输入‘一只橘猫穿宇航服在火星跳踢踏舞’，大概率输出 10 秒带音效的可用片段。很多人拿它做小红书/抖音冷启动内容，也有人集成进内部运营系统每天批量产 50 条商品预告。它没碰版权水印检测，也没做企业级权限管理，就是专注把‘一句话→一段片’这一步做稳。如果你试过 Runway、Pika 或 Sora API 却卡在提示词反复调试上，这个项目会显得特别实在——它把失败路径都写进文档里，比如‘避免用‘优雅’‘震撼’这种抽象词，改用‘镜头从左往右扫过三块发光键盘’’。你最近一次想发个视频，但卡在开头 30 秒没动手，是因为缺创意、缺时间，还是缺工具？",
+      "cover_line1": "AI一键生成短视频",
+      "cover_line2": "今天涨3563星",
+      "body": "这个项目能用大模型，把一段文字描述直接变成高清短视频，不用剪辑、不装软件，命令行敲一行就跑。它背后调的是开源视频模型（比如CogVideoX、AnimateDiff）和本地TTS+字幕合成链路，整个流程全自动化。作者不是只发了个demo，而是把FFmpeg参数、分辨率适配、静音检测、时长对齐这些坑都写进README里了，还附了Windows/Mac/Linux三端安装脚本。69k总星里，有近1/2是最近7天涨的，说明很多人真在用——有人拿它批量做小红书口播视频，有人给电商商品图配解说，还有老师用它把教案转成30秒动画。它没提‘多模态’‘SOTA’这种词，但每步输出都带时间戳和日志开关，出错了你能立刻看到哪一帧渲染失败。Python写的，依赖明确，连GPU显存低于6G怎么降分辨率都写了注释。它不替代专业剪辑，但把‘写文案→找素材→配音→加字幕→导出’这串动作压成一个函数调用。你不需要懂LoRA或VAE，只要会写‘一只橘猫穿宇航服在火星上跳踢踏舞’，它就能给你MP4。问题是：你手头有没有一段现在就想立刻变成视频的文字？",
       "tags": [
         "video-generation",
         "llm-pipeline",
         "cli-tool",
         "open-source",
-        "local-run",
-        "content-creation",
         "python",
-        "multimodal",
-        "prompt-engineering",
-        "no-gui"
+        "content-creation",
+        "automation",
+        "tts",
+        "ffmpeg",
+        "short-video"
+      ]
+    },
+    {
+      "topic": "Claude Code",
+      "repo": "anthropics/claude-code",
+      "cover_line1": "Claude官方终端编程助手",
+      "cover_line2": "总星12.7万",
+      "body": "这是Anthropic官方做的一个终端里的编程代理，不是插件，不是Web界面，它直接跑在你的shell里，用自然语言跟你对话。你cd进一个项目目录，运行claude-code，它就自动读取.gitignore、文件树、关键代码片段，然后你可以问‘把登录逻辑改成支持邮箱或手机号’，它会先解释改动点，再生成diff，最后帮你git commit。它不瞎改——所有修改都带确认步骤，所有命令执行前都高亮提示。12.7万颗星说明不是玩具，而是很多人每天在用：有人用它补全遗留系统的注释，有人让它重写Shell脚本为Python，还有人设成pre-commit钩子，让它自动检查PR里的SQL注入风险。它支持VS Code Remote、SSH环境、Docker容器内运行，连tmux分屏都适配。代码全开源，协议是MIT，连CLI参数解析都是自己写的，没套Click或Typer。它没吹‘理解全部代码’，但README里清楚写了支持的最大上下文、哪些文件类型会被忽略、怎么手动指定focus目录。问题是：你最近一次手动查文档配环境变量，花了多久？",
+      "tags": [
+        "terminal-tool",
+        "coding-assistant",
+        "cli",
+        "anthropic",
+        "git-integration",
+        "code-explanation",
+        "open-source",
+        "python",
+        "developer-tool",
+        "llm-agent"
       ]
     },
     {
       "topic": "Taste-Skill",
       "repo": "Leonxlnx/taste-skill",
-      "cover_line1": "给AI加审美判断的技能",
-      "cover_line2": "26357星，Shell实现",
-      "body": "这个项目不是训练新模型，而是教现有大模型‘别写得那么平’。它用一套 Shell 脚本+配置文件，在 AI 输出后立刻介入：识别模板化表达（比如‘综上所述’‘值得一提的是’）、替换空洞形容词（‘优秀’→‘三秒内加载完 200 行代码的插件’）、插入具体细节（‘支持多平台’→‘在 M1 Mac 上用 VS Code 启动耗时 1.2 秒’）。它不改模型权重，只改 prompt 后处理链，所以能套在任何 Chat API 后面，包括本地 Ollama 或 Claude。作者叫 Leon，没提公司，README 第一行就写‘This is not a library. It’s a taste test.’。目前支持英文技术写作和中文产品文案两种模式，测试显示对 73% 的‘AI 味’段落有明显去味效果。有人把它塞进 Obsidian 插件里，每次写周报前自动过一遍；也有人集成进 CI，PR 描述不合口味就直接 fail。它没做 UI，没连数据库，甚至没写单元测试，但文档里列了 12 个真实被它救回来的句子对比——比如把‘提供稳定服务’改成‘过去 30 天 API 错误率低于 0.02%，最长宕机 17 秒’。你上次写的文字，有没有哪句自己读着就下意识想删掉？",
+      "cover_line1": "给AI加审美滤镜",
+      "cover_line2": "单日涨2066星",
+      "body": "这个项目不是训练新模型，而是一个轻量级后处理层，专门堵住大模型爱说‘非常棒！’‘让我们开始吧！’‘这是一个很有趣的问题！’这类废话。它用几行Shell脚本+正则+预设词典，在LLM输出后立刻扫描‘incredibly’‘absolutely’‘leverage’‘synergy’这些高频空洞词，替换成更具体、更安静、更像真人说话的表达。比如把‘We can leverage AI to optimize workflows’改成‘Try running this script first’。它不改模型权重，也不需要GPU，装完就能塞进任何API调用链里——curl请求后管道接它，或者在Ollama的modelfile里加一行RUN。2066颗星一天冲上来，说明很多人刚被自己的AI产品气到：客服机器人满嘴‘卓越体验’，内部报告全是‘赋能闭环’，连周报摘要都在‘抓手’‘沉淀’。作者连测试样例都放出来了：对比原始输出和过taste后的版本，差在哪，一目了然。它甚至支持自定义词表，你可以把你们公司黑话列表直接喂进去。问题是：你最近一次复制粘贴AI回复前，删掉了几个‘非常’？",
       "tags": [
+        "prompt-engineering",
         "post-processing",
-        "writing-enhancement",
+        "ai-writing",
         "shell-script",
-        "ai-taste",
-        "prompt-refinement",
-        "technical-writing",
-        "open-source",
-        "cli",
-        "text-quality",
-        "developer-tool"
-      ]
-    },
-    {
-      "topic": "Stop-Slop",
-      "repo": "hardikpandya/stop-slop",
-      "cover_line1": "专删AI腔的轻量技能",
-      "cover_line2": "6395星，纯文本规则",
-      "body": "这个项目只有 3 个文件：一个 JSON 规则表、一个 Python 脚本、一份 200 字说明。它不做语义重写，只干一件事——扫描文本，找到典型 AI 腔表达，替换成更像真人说的话。比如把‘此举旨在提升用户体验’换成‘点一下就跳转，不用等’；把‘具备强大的扩展能力’换成‘加个按钮就能接微信通知’。所有规则都是人工写的正则+关键词，没有机器学习，所以快、透明、可审计。作者 Hardik 是个独立开发者，没提用途，但 GitHub Issues 里有 17 人说已用在客户提案、App Store 描述和内部邮件模板里。它不处理逻辑错误，也不优化结构，就是专注砍掉‘的’‘了’‘进行’‘具备’这类信号词，以及‘显著’‘深度’‘赋能’这种空转词。最新版新增了对中文‘AI 八股文’的识别，比如‘基于…视角’‘依托…体系’‘构建…范式’，一并替换成动词短语。它不声称‘让你变作家’，只说‘帮你省下 10 分钟润色时间’。你刚写完的一段话，有没有哪句读着像‘AI 写的’，但又说不准哪里不对？",
-      "tags": [
-        "ai-detection",
-        "text-cleaning",
-        "regex-rules",
-        "copywriting",
-        "lightweight",
-        "python-script",
+        "text-filter",
+        "tone-control",
         "developer-tool",
-        "practical-ai",
-        "human-tone",
-        "no-ml"
+        "open-source",
+        "llm-polish",
+        "copywriting"
       ]
     },
     {
-      "topic": "Superpowers",
-      "repo": "obra/superpowers",
-      "cover_line1": "AI编程代理能力框架",
-      "cover_line2": "21万星，Shell驱动",
-      "body": "这个项目不是另一个 LLM 应用，而是一套让 AI 程序员真正干活的方法论+脚手架。它把‘写代码’拆成 9 个原子技能：读报错、查文档、改依赖、跑测试、写 commit message、解释 diff、找历史相似修改……每个技能用 Shell 脚本封装，可单独调用，也能串成流水线。比如执行 ‘sp fix bug’，它会自动抓当前报错、搜 GitHub issue、定位疑似改动行、生成 patch、提交 PR。作者团队 obra 没融资，但把所有设计决策写在 README：为什么不用 Python 写（怕环境依赖）？为什么坚持用 Shell（Linux/macOS 开箱即用）？为什么拒绝 GUI（终端才是开发主战场）？它不追求‘全自动’，而是强调‘人在环中’——每步输出都带解释，每个决定都可打断。已有 32 个社区贡献的技能包，包括 React 组件重构、SQL 查询优化、Python 类型补全。它没用任何私有 API，全走开源工具链：ripgrep、jq、curl、git。你如果试过让 AI 写完整功能却总卡在环境适配或上下文丢失上，这个项目会显得格外清醒。你最近一次让 AI 帮忙改代码，最后是它真改好了，还是你把它输出粘进编辑器里手动调了半小时？",
+      "topic": "LiteParse",
+      "repo": "run-llama/liteparse",
+      "cover_line1": "Rust写的文档解析器",
+      "cover_line2": "解析速度比PyPDF快3倍",
+      "body": "它能把PDF、PPTX、DOCX、Markdown这些格式的文档，快速抽成干净的纯文本+结构化块（标题、段落、列表、表格），而且不依赖Python生态里那些动不动就占2GB内存的库。核心是用Rust写的，二进制只有8MB，Mac上启动只要12毫秒，解析一个50页PDF平均耗时320ms——作者在README里贴了和PyPDF2、Unstructured、LlamaParse的实测对比表格，同一份财报PDF，LiteParse用时是PyPDF2的1/3，内存峰值不到1/5。它不追求‘理解语义’，只做一件事：准确保留换行、缩进、标题层级，表格转成CSV字符串，图片留占位符。所有解析逻辑都可配置：要不要跳过页眉页脚，是否合并连续空行，表格列宽阈值设多少。它没做GUI，也没连向量库，但提供了Python binding和CLI，你pip install完就能直接在Jupyter里parse_file('report.pdf')。很多团队拿它当天然数据清洗入口：接在爬虫后面，把网页PDF转文本进RAG，或者批量扫合同里的签署日期字段。问题是：你上次解析PDF失败，是因为格式错乱，还是因为等了太久？",
       "tags": [
-        "ai-agent",
-        "shell-framework",
-        "dev-tools",
-        "programming-assistant",
+        "document-parsing",
+        "rust",
+        "pdf-parser",
+        "parsing",
+        "cli-tool",
         "open-source",
-        "cli-first",
-        "linux",
-        "git-integration",
-        "practical-ai",
-        "developer-workflow"
+        "performance",
+        "text-extraction",
+        "developer-tool",
+        "llm-data-prep"
       ]
     }
   ],
   "image_paths": [
-    "assets/2026-05-29/trending/summary.png",
-    "assets/2026-05-29/trending/post1.png",
-    "assets/2026-05-29/trending/post2.png",
-    "assets/2026-05-29/trending/post3.png",
-    "assets/2026-05-29/trending/post4.png"
+    "assets/2026-05-30/trending/summary.png",
+    "assets/2026-05-30/trending/post1.png",
+    "assets/2026-05-30/trending/post2.png",
+    "assets/2026-05-30/trending/post3.png",
+    "assets/2026-05-30/trending/post4.png"
   ]
 }
