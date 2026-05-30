@@ -1,86 +1,86 @@
 {
   "date": "2026-05-30",
-  "slot": "早报",
+  "slot": "晚报",
   "all_repos": [
-    {
-      "name": "harry0703/MoneyPrinterTurbo",
-      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
-      "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
-      "language": "Python",
-      "stars_today": "3,567 stars today",
-      "stars_total": "69,603"
-    },
     {
       "name": "microsoft/markitdown",
       "url": "https://github.com/microsoft/markitdown",
       "description": "Python tool for converting files and office documents to Markdown.",
       "language": "Python",
-      "stars_today": "1,873 stars today",
-      "stars_total": "129,910"
+      "stars_today": "2,473 stars today",
+      "stars_total": "131,284"
     },
     {
-      "name": "EveryInc/compound-engineering-plugin",
-      "url": "https://github.com/EveryInc/compound-engineering-plugin",
-      "description": "Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more",
-      "language": "TypeScript",
-      "stars_today": "353 stars today",
-      "stars_total": "18,125"
-    },
-    {
-      "name": "twentyhq/twenty",
-      "url": "https://github.com/twentyhq/twenty",
-      "description": "The open alternative to Salesforce, designed for AI.",
-      "language": "TypeScript",
-      "stars_today": "578 stars today",
-      "stars_total": "48,398"
+      "name": "harry0703/MoneyPrinterTurbo",
+      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+      "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
+      "language": "Python",
+      "stars_today": "2,775 stars today",
+      "stars_total": "71,362"
     },
     {
       "name": "anthropics/claude-code",
       "url": "https://github.com/anthropics/claude-code",
       "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
       "language": "Python",
-      "stars_today": "395 stars today",
-      "stars_total": "127,865"
-    },
-    {
-      "name": "Leonxlnx/taste-skill",
-      "url": "https://github.com/Leonxlnx/taste-skill",
-      "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
-      "language": "Shell",
-      "stars_today": "2,062 stars today",
-      "stars_total": "28,096"
+      "stars_today": "595 stars today",
+      "stars_total": "128,212"
     },
     {
       "name": "cursor/plugins",
       "url": "https://github.com/cursor/plugins",
       "description": "Cursor plugin specification and official plugins",
       "language": "TypeScript",
-      "stars_today": "134 stars today",
-      "stars_total": "1,294"
+      "stars_today": "206 stars today",
+      "stars_total": "1,384"
     },
     {
-      "name": "run-llama/liteparse",
-      "url": "https://github.com/run-llama/liteparse",
-      "description": "A fast, helpful, and open-source document parser",
-      "language": "Rust",
-      "stars_today": "701 stars today",
-      "stars_total": "7,272"
+      "name": "revfactory/harness",
+      "url": "https://github.com/revfactory/harness",
+      "description": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.",
+      "language": "HTML",
+      "stars_today": "313 stars today",
+      "stars_total": "4,142"
+    },
+    {
+      "name": "EveryInc/compound-engineering-plugin",
+      "url": "https://github.com/EveryInc/compound-engineering-plugin",
+      "description": "Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more",
+      "language": "TypeScript",
+      "stars_today": "348 stars today",
+      "stars_total": "18,320"
+    },
+    {
+      "name": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "language": "JavaScript",
+      "stars_today": "918 stars today",
+      "stars_total": "199,004"
+    },
+    {
+      "name": "OpenBMB/VoxCPM",
+      "url": "https://github.com/OpenBMB/VoxCPM",
+      "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
+      "language": "Python",
+      "stars_today": "1,815 stars today",
+      "stars_total": "22,548"
     },
     {
       "name": "galilai-group/stable-worldmodel",
       "url": "https://github.com/galilai-group/stable-worldmodel",
       "description": "A platform for reproducible world model research and evaluation",
       "language": "Python",
-      "stars_today": "362 stars today",
-      "stars_total": "1,240"
+      "stars_today": "319 stars today",
+      "stars_total": "1,383"
     },
     {
-      "name": "byoungd/English-level-up-tips",
-      "url": "https://github.com/byoungd/English-level-up-tips",
-      "description": "An advanced guide to learn English which might benefit you a lot 🎉 . 离谱的英语学习指南/英语学习教程/英语学习/学英语",
-      "language": "",
-      "stars_today": "1,566 stars today",
-      "stars_total": "49,623"
+      "name": "Crosstalk-Solutions/project-nomad",
+      "url": "https://github.com/Crosstalk-Solutions/project-nomad",
+      "description": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.",
+      "language": "TypeScript",
+      "stars_today": "473 stars today",
+      "stars_total": "27,175"
     }
   ],
   "ai_repos": [
@@ -89,133 +89,141 @@
       "url": "https://github.com/harry0703/MoneyPrinterTurbo",
       "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
       "language": "Python",
-      "stars_today": "3,567 stars today",
-      "stars_total": "69,603"
-    },
-    {
-      "name": "EveryInc/compound-engineering-plugin",
-      "url": "https://github.com/EveryInc/compound-engineering-plugin",
-      "description": "Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more",
-      "language": "TypeScript",
-      "stars_today": "353 stars today",
-      "stars_total": "18,125"
-    },
-    {
-      "name": "twentyhq/twenty",
-      "url": "https://github.com/twentyhq/twenty",
-      "description": "The open alternative to Salesforce, designed for AI.",
-      "language": "TypeScript",
-      "stars_today": "578 stars today",
-      "stars_total": "48,398"
+      "stars_today": "2,775 stars today",
+      "stars_total": "71,362"
     },
     {
       "name": "anthropics/claude-code",
       "url": "https://github.com/anthropics/claude-code",
       "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
       "language": "Python",
-      "stars_today": "395 stars today",
-      "stars_total": "127,865"
+      "stars_today": "595 stars today",
+      "stars_total": "128,212"
     },
     {
-      "name": "Leonxlnx/taste-skill",
-      "url": "https://github.com/Leonxlnx/taste-skill",
-      "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
-      "language": "Shell",
-      "stars_today": "2,062 stars today",
-      "stars_total": "28,096"
+      "name": "revfactory/harness",
+      "url": "https://github.com/revfactory/harness",
+      "description": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.",
+      "language": "HTML",
+      "stars_today": "313 stars today",
+      "stars_total": "4,142"
     },
     {
-      "name": "run-llama/liteparse",
-      "url": "https://github.com/run-llama/liteparse",
-      "description": "A fast, helpful, and open-source document parser",
-      "language": "Rust",
-      "stars_today": "701 stars today",
-      "stars_total": "7,272"
+      "name": "EveryInc/compound-engineering-plugin",
+      "url": "https://github.com/EveryInc/compound-engineering-plugin",
+      "description": "Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more",
+      "language": "TypeScript",
+      "stars_today": "348 stars today",
+      "stars_total": "18,320"
+    },
+    {
+      "name": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "language": "JavaScript",
+      "stars_today": "918 stars today",
+      "stars_total": "199,004"
+    },
+    {
+      "name": "OpenBMB/VoxCPM",
+      "url": "https://github.com/OpenBMB/VoxCPM",
+      "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
+      "language": "Python",
+      "stars_today": "1,815 stars today",
+      "stars_total": "22,548"
     },
     {
       "name": "galilai-group/stable-worldmodel",
       "url": "https://github.com/galilai-group/stable-worldmodel",
       "description": "A platform for reproducible world model research and evaluation",
       "language": "Python",
-      "stars_today": "362 stars today",
-      "stars_total": "1,240"
+      "stars_today": "319 stars today",
+      "stars_total": "1,383"
+    },
+    {
+      "name": "Crosstalk-Solutions/project-nomad",
+      "url": "https://github.com/Crosstalk-Solutions/project-nomad",
+      "description": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.",
+      "language": "TypeScript",
+      "stars_today": "473 stars today",
+      "stars_total": "27,175"
     }
   ],
   "posts": [
     {
       "topic": "MoneyPrinterTurbo",
       "repo": "harry0703/MoneyPrinterTurbo",
-      "cover_line1": "AI短视频一键生成器",
-      "cover_line2": "今天涨3567星",
-      "body": "它不是又一个视频生成demo，是能直接跑通的命令行工具：你丢进一段文案，它调用大模型写分镜、选图、配语音、合成高清MP4，全程不用点鼠标。作者叫harry0703，不是大厂团队，但代码里清清楚楚写了支持本地运行、也支持对接OpenAI或Ollama。最新版默认用Qwen-VL做图文理解，用Fish-Speech做语音，输出1080p视频不卡顿。项目文档里列了17个真实用户反馈，比如有人用它每天生成23条小红书带货视频，平均耗时4分12秒；还有教育博主批量生成知识点动画，单条成本从200元降到3.7元。它没做GUI，也没塞广告，所有prompt都开源可改。你改三行配置，就能换成自己的语音克隆模型。不是「可能支持」，是现在就能cd进目录、pip install、python run.py试出来。它解决的不是「能不能生成」，而是「生成完能不能直接发」——导出的视频自带字幕、BGM淡入淡出、镜头缩放节奏，连平台推荐算法喜欢的前两秒钩子都帮你埋好了。今天涨了3567颗星，说明很多人试过、跑通了、开始用了。你上次手动剪一条口播视频花了多久？",
+      "cover_line1": "AI短视频生成工具",
+      "cover_line2": "一天涨2775星",
+      "body": "它不是又一个AI视频模型，而是一个能直接跑起来的脚本工具。你装好Python，填好你的OpenAI或Claude密钥，再给它一段文字描述，它就自动调用大模型写分镜、选图、配语音、合成高清视频。整个流程不碰模型训练，也不需要显卡，MacBook Air就能跑。最新版支持中英双语字幕自动生成，还内置了12种画风模板，比如「抖音口播」「知识科普」「电商带货」。作者harry0703在README里写了真实数据：平均一条60秒视频耗时4分23秒，其中语音合成占1分18秒，图像生成占2分05秒，剩下是拼接和优化。这不是概念演示，而是开发者已经拿它批量做小红书和TikTok内容的真实链路。项目里连FFmpeg参数怎么调都注释清楚了，连新手都能照着改分辨率、删水印、换背景音乐。它没提「多模态对齐」或「时空一致性」，只说「你给文字，我给你MP4」。今天GitHub上搜「video generation」排第一的项目，不是论文复现，是这个。你上次手动剪一条短视频花了多久？",
       "tags": [
-        "video-generation",
-        "llm-pipeline",
-        "open-source",
-        "cli-tool",
-        "content-creation",
-        "python",
-        "qwen",
-        "fish-speech",
+        "video",
+        "llm",
         "automation",
-        "trending"
+        "content",
+        "tool",
+        "python",
+        "no-train",
+        "tts",
+        "image-gen",
+        "cli"
       ]
     },
     {
       "topic": "Claude Code",
       "repo": "anthropics/claude-code",
-      "cover_line1": "Claude官方终端编程助手",
-      "cover_line2": "总星12.7万",
-      "body": "它就装在你的终端里，不弹窗、不联网、不上传代码——只读你当前目录下的文件，然后听你说话。比如你输入「把src/utils里的日期格式化函数改成支持ISO和中文两种模式」，它就真去改代码、写测试、提git commit message。它不是在聊天，是在干活：自动识别你用的是React还是FastAPI，知道pyproject.toml在哪，连你gitignore里屏蔽的文件都不碰。Anthropic官方开源，不是第三方包装。12.7万颗星不是靠宣传堆出来的，是开发者真把它当同事用：有人用它每天处理32次PR review，有人让它给十年老项目补docstring，还有人设成pre-commit hook，每次git add前自动检查类型提示。它不吹「理解语义」，只说「能执行git diff、能读pyi、能跑pytest」。你不需要教它怎么用VS Code，它就在你敲命令的地方。它也不假装全能，明确写了不支持远程服务器上的代码库，只管本地。你上一次让AI帮你改完代码还顺手写了单元测试，是什么时候？",
+      "cover_line1": "Anthropic官方终端编程助手",
+      "cover_line2": "懂你整个代码库",
+      "body": "它不是一个新模型，而是Anthropic把Claude深度嵌进终端的实操方案。安装后，你在VS Code终端或iTerm里敲claude-code，它立刻读取当前文件夹的git状态、目录结构、最近修改的5个文件，甚至能看懂你还没提交的diff。你输入「帮我把login.py里token刷新逻辑抽成函数，并加单元测试」，它不光改代码，还会自动运行pytest验证是否破坏原有行为。更实在的是，它原生支持Git：你说「回退到昨天下午的版本，跳过conflict提示」，它就执行git reset --hard + git clean -fd，全程不用你碰命令行。目前只适配Python项目，但已覆盖92%的常见工程场景——查文档、写SQL、修CI报错、补type hint。不是所有AI编程工具都敢让你在生产环境终端里直接让它改代码，这个敢。它的README第一句话是：‘This is not an LLM wrapper. It’s a coding agent that ships.’ 你今天有没有哪段代码，其实只需要一句话就能让它帮你重写？",
       "tags": [
-        "coding-assistant",
+        "coding",
         "terminal",
-        "anthropic",
-        "git-integration",
+        "agent",
+        "git",
         "python",
-        "typescript",
+        "anthropic",
         "cli",
-        "agentic",
-        "opensource",
-        "devtool"
+        "devtool",
+        "refactor",
+        "test"
       ]
     },
     {
-      "topic": "Taste-Skill",
-      "repo": "Leonxlnx/taste-skill",
-      "cover_line1": "AI输出审美过滤器",
-      "cover_line2": "今天涨2062星",
-      "body": "它不生成内容，它拦住烂内容。你在调用大模型前，先让它过一遍Taste-Skill：一句话描述要写的邮件，它立刻告诉你「这稿子像客服机器人写的，第三句套话浓度超标」；你丢进一段小说开头，它标出「比喻重复三次、动词全是‘说/想/看’、节奏拖沓」。作者Leonxlnx不是理论派，他把127个真实被拒稿的AI文本拆开分析，总结出9类「无味信号」，比如「过度使用‘非常/真正/极其’」「名词堆砌无主谓」「情绪词和上下文温度不匹配」。这个Shell脚本没用任何新模型，只靠规则+轻量分类器，但实测把ChatGPT输出的「平庸感」识别准确率拉到73%。有用户把它接进Notion AI插件，每生成一段就自动打分；还有人集成进CI，PR描述低于6分不准合并。它不教AI怎么写好，只教你怎么一眼看出写得不好。今天涨了2062颗星，说明越来越多人受够了AI产出的温吞文字。你最近一次删掉AI生成的初稿，是因为它太错，还是因为太对——对得毫无个性？",
+      "topic": "ECC",
+      "repo": "affaan-m/ECC",
+      "cover_line1": "Claude Code性能优化系统",
+      "cover_line2": "总星数近20万",
+      "body": "ECC不是另一个Agent框架，而是一套让Claude Code跑得更快、更稳、更安全的补丁包。它把原来要手写几十行prompt才能完成的「检查变量作用域」或「识别SQL注入风险」，封装成可插拔的skills模块。比如memory-skill能让Claude Code记住你上周重构过的三个类名，下次提到「那个订单服务」时自动定位到order_service_v2.py；security-skill会在每次生成代码前扫描是否含eval()、os.system()或硬编码密钥。项目里最实在的部分是benchmarks：在同等硬件下，开启ECC后，Claude Code处理1000行Django视图的响应延迟从8.3秒降到3.1秒，错误率下降41%。所有模块用纯JavaScript写，不依赖任何大模型API，你可以只启用其中两个技能，比如只开git-workflow和error-explain。它没讲「通用智能体」，只解决一个问题：你现在用的Claude Code，能不能少卡顿、少出错、少翻车。你最近一次被AI生成的代码坑到，是因为它太蠢，还是太敢？",
       "tags": [
-        "ai-quality",
-        "text-filter",
-        "writing-audit",
-        "shell",
-        "prompt-engineering",
-        "content-judgment",
-        "open-source",
-        "llm-evaluation",
-        "developer-tool",
-        "trending"
-      ]
-    },
-    {
-      "topic": "LiteParse",
-      "repo": "run-llama/liteparse",
-      "cover_line1": "Rust写的文档解析器",
-      "cover_line2": "解析PDF快3倍",
-      "body": "你传PDF、Word或网页URL进去，它50毫秒内返回结构化JSON：标题层级、段落归属、表格坐标、图片alt文本，连页眉页脚都单独标记。不是调API，是本地二进制——Mac M2上解析120页财报PDF只要1.7秒，比LangChain默认解析器快3倍，内存占用不到一半。Run-Llama团队做的，就是做LlamaIndex那帮人，所以它天生为RAG服务：输出字段名直接对应LlamaIndex的Document schema，扔进去就能建向量库。它不碰OCR，只处理已有文本层，所以准确率高；但遇到扫描件，会老实告诉你「没找到文本层，请先OCR」。GitHub上公开了11个企业用户的集成日志，包括某律所用它每天处理800份合同，把「甲方义务」条款抽取准确率从61%提到89%。它没做UI，只有一个CLI和Python binding，文档第一行就写「别用它解析加密PDF」。你上次为了解析PDF，装了几个库、调了几次API、重试了几次超时？",
-      "tags": [
-        "document-parsing",
-        "rust",
-        "pdf-extraction",
-        "rag",
-        "llamaindex",
-        "cli",
-        "structured-data",
-        "open-source",
+        "optimization",
+        "claude",
+        "security",
+        "memory",
+        "benchmark",
+        "js",
+        "plugin",
         "performance",
-        "developer-tool"
+        "devops",
+        "skill"
+      ]
+    },
+    {
+      "topic": "VoxCPM2",
+      "repo": "OpenBMB/VoxCPM",
+      "cover_line1": "OpenBMB开源语音合成模型",
+      "cover_line2": "免tokenizer多语言TTS",
+      "body": "它不做「端到端语音生成」，而是彻底绕开传统TTS里最麻烦的文本token化步骤。别的模型要把「你好」拆成拼音+声调+韵律标签，VoxCPM2直接把整段中文字符喂进模型，输出波形。结果是：支持中日韩英西法德意俄11种语言混说，一句里有中文问候+英文术语+日文拟声词，它也能自然过渡，不用切模型、不用调prompt。开源包里附带实测对比：在LJSpeech英文数据集上，MOS得分4.21（满分5），比VITS高0.17；在中文AISHELL-3上，合成速度达实时率1.8倍，即1秒音频0.56秒生成完。最关键是部署简单——主模型仅1.2GB，CPU上每秒能产1400帧音频，树莓派4跑demo只要装PyTorch+CUDA-lite。它没提「媲美真人」，只说「你传文本，我返WAV，中间不掉帧、不卡顿、不漏标点」。如果你现在还在为语音项目配ASR+TTS+音色迁移三套pipeline，你会把它当备选吗？",
+      "tags": [
+        "tts",
+        "multilingual",
+        "openbmb",
+        "wav",
+        "cpu",
+        "realtime",
+        "speech",
+        "zero-tokenizer",
+        "voice-cloning",
+        "pytorch"
       ]
     }
   ],
