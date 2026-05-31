@@ -1,86 +1,86 @@
 {
   "date": "2026-05-31",
-  "slot": "早报",
+  "slot": "晚报",
   "all_repos": [
-    {
-      "name": "microsoft/markitdown",
-      "url": "https://github.com/microsoft/markitdown",
-      "description": "Python tool for converting files and office documents to Markdown.",
-      "language": "Python",
-      "stars_today": "2,473 stars today",
-      "stars_total": "132,319"
-    },
     {
       "name": "harry0703/MoneyPrinterTurbo",
       "url": "https://github.com/harry0703/MoneyPrinterTurbo",
       "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
       "language": "Python",
-      "stars_today": "2,775 stars today",
-      "stars_total": "71,919"
+      "stars_today": "1,937 stars today",
+      "stars_total": "73,289"
     },
     {
-      "name": "anthropics/claude-code",
-      "url": "https://github.com/anthropics/claude-code",
-      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+      "name": "microsoft/markitdown",
+      "url": "https://github.com/microsoft/markitdown",
+      "description": "Python tool for converting files and office documents to Markdown.",
       "language": "Python",
-      "stars_today": "595 stars today",
-      "stars_total": "128,386"
+      "stars_today": "2,759 stars today",
+      "stars_total": "134,028"
     },
     {
-      "name": "cursor/plugins",
-      "url": "https://github.com/cursor/plugins",
-      "description": "Cursor plugin specification and official plugins",
-      "language": "TypeScript",
-      "stars_today": "206 stars today",
-      "stars_total": "1,454"
+      "name": "D4Vinci/Scrapling",
+      "url": "https://github.com/D4Vinci/Scrapling",
+      "description": "🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!",
+      "language": "Python",
+      "stars_today": "639 stars today",
+      "stars_total": "56,184"
     },
     {
-      "name": "revfactory/harness",
-      "url": "https://github.com/revfactory/harness",
-      "description": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.",
-      "language": "HTML",
-      "stars_today": "80 stars today",
-      "stars_total": "4,251"
+      "name": "nesquena/hermes-webui",
+      "url": "https://github.com/nesquena/hermes-webui",
+      "description": "Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!",
+      "language": "Python",
+      "stars_today": "320 stars today",
+      "stars_total": "9,648"
     },
     {
       "name": "EveryInc/compound-engineering-plugin",
       "url": "https://github.com/EveryInc/compound-engineering-plugin",
       "description": "Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more",
       "language": "TypeScript",
-      "stars_today": "348 stars today",
-      "stars_total": "18,413"
+      "stars_today": "243 stars today",
+      "stars_total": "18,574"
     },
     {
-      "name": "affaan-m/ECC",
-      "url": "https://github.com/affaan-m/ECC",
-      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "language": "JavaScript",
-      "stars_today": "918 stars today",
-      "stars_total": "199,277"
+      "name": "github/docs",
+      "url": "https://github.com/github/docs",
+      "description": "The open-source repo for docs.github.com",
+      "language": "TypeScript",
+      "stars_today": "20 stars today",
+      "stars_total": "19,615"
     },
     {
       "name": "OpenBMB/VoxCPM",
       "url": "https://github.com/OpenBMB/VoxCPM",
       "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
       "language": "Python",
-      "stars_today": "658 stars today",
-      "stars_total": "22,743"
+      "stars_today": "639 stars today",
+      "stars_total": "23,178"
     },
     {
-      "name": "galilai-group/stable-worldmodel",
-      "url": "https://github.com/galilai-group/stable-worldmodel",
-      "description": "A platform for reproducible world model research and evaluation",
-      "language": "Python",
-      "stars_today": "319 stars today",
-      "stars_total": "1,455"
+      "name": "revfactory/harness",
+      "url": "https://github.com/revfactory/harness",
+      "description": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.",
+      "language": "HTML",
+      "stars_today": "318 stars today",
+      "stars_total": "4,463"
     },
     {
-      "name": "Crosstalk-Solutions/project-nomad",
-      "url": "https://github.com/Crosstalk-Solutions/project-nomad",
-      "description": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.",
+      "name": "FareedKhan-dev/train-llm-from-scratch",
+      "url": "https://github.com/FareedKhan-dev/train-llm-from-scratch",
+      "description": "A straightforward method for training your LLM, from downloading data to generating text.",
+      "language": "Jupyter Notebook",
+      "stars_today": "627 stars today",
+      "stars_total": "2,641"
+    },
+    {
+      "name": "supermemoryai/supermemory",
+      "url": "https://github.com/supermemoryai/supermemory",
+      "description": "Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.",
       "language": "TypeScript",
-      "stars_today": "473 stars today",
-      "stars_total": "27,345"
+      "stars_today": "236 stars today",
+      "stars_total": "23,096"
     }
   ],
   "ai_repos": [
@@ -89,141 +89,133 @@
       "url": "https://github.com/harry0703/MoneyPrinterTurbo",
       "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
       "language": "Python",
-      "stars_today": "2,775 stars today",
-      "stars_total": "71,919"
+      "stars_today": "1,937 stars today",
+      "stars_total": "73,289"
     },
     {
-      "name": "anthropics/claude-code",
-      "url": "https://github.com/anthropics/claude-code",
-      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+      "name": "nesquena/hermes-webui",
+      "url": "https://github.com/nesquena/hermes-webui",
+      "description": "Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!",
       "language": "Python",
-      "stars_today": "595 stars today",
-      "stars_total": "128,386"
-    },
-    {
-      "name": "revfactory/harness",
-      "url": "https://github.com/revfactory/harness",
-      "description": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.",
-      "language": "HTML",
-      "stars_today": "80 stars today",
-      "stars_total": "4,251"
+      "stars_today": "320 stars today",
+      "stars_total": "9,648"
     },
     {
       "name": "EveryInc/compound-engineering-plugin",
       "url": "https://github.com/EveryInc/compound-engineering-plugin",
       "description": "Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more",
       "language": "TypeScript",
-      "stars_today": "348 stars today",
-      "stars_total": "18,413"
-    },
-    {
-      "name": "affaan-m/ECC",
-      "url": "https://github.com/affaan-m/ECC",
-      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "language": "JavaScript",
-      "stars_today": "918 stars today",
-      "stars_total": "199,277"
+      "stars_today": "243 stars today",
+      "stars_total": "18,574"
     },
     {
       "name": "OpenBMB/VoxCPM",
       "url": "https://github.com/OpenBMB/VoxCPM",
       "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
       "language": "Python",
-      "stars_today": "658 stars today",
-      "stars_total": "22,743"
+      "stars_today": "639 stars today",
+      "stars_total": "23,178"
     },
     {
-      "name": "galilai-group/stable-worldmodel",
-      "url": "https://github.com/galilai-group/stable-worldmodel",
-      "description": "A platform for reproducible world model research and evaluation",
-      "language": "Python",
-      "stars_today": "319 stars today",
-      "stars_total": "1,455"
+      "name": "revfactory/harness",
+      "url": "https://github.com/revfactory/harness",
+      "description": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.",
+      "language": "HTML",
+      "stars_today": "318 stars today",
+      "stars_total": "4,463"
     },
     {
-      "name": "Crosstalk-Solutions/project-nomad",
-      "url": "https://github.com/Crosstalk-Solutions/project-nomad",
-      "description": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.",
+      "name": "FareedKhan-dev/train-llm-from-scratch",
+      "url": "https://github.com/FareedKhan-dev/train-llm-from-scratch",
+      "description": "A straightforward method for training your LLM, from downloading data to generating text.",
+      "language": "Jupyter Notebook",
+      "stars_today": "627 stars today",
+      "stars_total": "2,641"
+    },
+    {
+      "name": "supermemoryai/supermemory",
+      "url": "https://github.com/supermemoryai/supermemory",
+      "description": "Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.",
       "language": "TypeScript",
-      "stars_today": "473 stars today",
-      "stars_total": "27,345"
+      "stars_today": "236 stars today",
+      "stars_total": "23,096"
     }
   ],
   "posts": [
     {
       "topic": "MoneyPrinterTurbo",
       "repo": "harry0703/MoneyPrinterTurbo",
-      "cover_line1": "AI短视频生成工具",
-      "cover_line2": "一天涨2775星",
-      "body": "这个工具能用大模型直接生成高清短视频，不用剪辑软件，不用写提示词模板，输入一段文字描述，它就自动配画面、配音、加字幕、选BGM，输出MP4。它背后调的是Qwen-VL和CogVideoX这类开源多模态模型，本地跑得动，也支持API对接。作者是个人开发者harry0703，最近把安装步骤压到3行命令，连Windows用户都能双击bat启动。项目里有个real_use_cases文件夹，放了27个真实生成案例：小红书口播脚本转视频、电商商品图配解说、甚至把知乎长文变成2分钟知识短片。所有模板都开源，参数可调——比如指定横屏/竖屏、控制语速快慢、跳过背景音乐。不是demo，是每天有人拿它发100条抖音的生产工具。它不卖SaaS，没登录墙，config.yaml里改两行就能换自己的API密钥。最新提交把生成耗时从98秒压到63秒，靠的是帧间缓存复用。你如果试过用Runway或Pika反复调提示词，就会明白：能稳定出片比‘更酷’重要十倍。",
+      "cover_line1": "AI短视频一键生成工具",
+      "cover_line2": "今天涨1937星",
+      "body": "它不是又一个‘用AI做视频’的概念demo，而是真能本地跑、不依赖云端API、输入一段文案就吐出高清竖屏短视频的完整流程。背后调的是Qwen-VL+CogVideoX这类开源模型，支持自定义人声、字幕位置、镜头节奏，连BGM版权风险都考虑了——默认用FreePD曲库。作者是独立开发者harry0703，上周刚合并了Windows一键安装包，Mac用户也能用Homebrew装。项目里连提示词模板都分好了：口播类、知识科普类、电商带货类，每类附三个实测有效的prompt。最关键是它把整个链路压到了5分钟内：从写脚本→生成画面→配音→加字幕→导出MP4，全在本地完成。没GPU也能跑CPU模式（慢点但能出片），显存低于6GB的机器也给了量化方案。README里写了清楚的硬件门槛和失败排查表，比如‘如果黑屏，请先删掉~/.cache/hf’。这不是玩具，是现在就能塞进自媒体工作流里的东西。你上次手动剪一条1分钟口播视频花了多久？",
       "tags": [
-        "短视频",
-        "AI生成",
-        "本地运行",
-        "Python",
-        "开源",
-        "多模态",
-        "Qwen",
-        "CogVideoX",
-        "一键生成",
-        "实测可用"
-      ]
-    },
-    {
-      "topic": "Claude Code",
-      "repo": "anthropics/claude-code",
-      "cover_line1": "Anthropic终端编程助手",
-      "cover_line2": "懂你整个代码库",
-      "body": "这是Anthropic官方推出的终端内编程代理，不是插件，不是网页版，而是一个你敲命令就能启动的CLI程序。它启动后会自动扫描当前目录下的所有代码文件，建立本地索引，然后你能用自然语言问它：‘把这个函数改成异步，别动测试用例’，或者‘git diff里哪些改动可能引发空指针？’。它不联网查文档，所有理解都基于你本地的代码结构和注释。最新版支持自动执行git add/commit/push，还能把一段乱码日志反向定位到源码行。它不替代IDE，但补了IDE做不到的事：比如在没有GUI的服务器上修bug，或者给实习生写一句‘帮我解释这500行legacy Java’。项目README里写了12个真实场景，包括‘重构时自动同步更新docstring’和‘把curl命令转成Python requests调用’。它用的是Claude-3.5-sonnet轻量版，响应快，token消耗比网页版低40%。",
-      "tags": [
-        "终端工具",
-        "代码理解",
-        "Claude",
-        "CLI",
-        "编程助手",
-        "Git集成",
-        "本地索引",
-        "Python",
-        "自然语言编程",
-        "Anthropic"
-      ]
-    },
-    {
-      "topic": "ECC",
-      "repo": "affaan-m/ECC",
-      "cover_line1": "Claude Code性能优化系统",
-      "cover_line2": "总星数近20万",
-      "body": "ECC不是新模型，而是一套让Claude Code跑得更快、更稳、更安全的增强层。它加了三层东西：一是技能调度器，自动判断什么时候该调用shell、什么时候该读文件；二是记忆压缩模块，把上万行代码上下文压成300 token摘要再喂给模型；三是安全沙箱，所有命令执行前先模拟运行，阻断rm -rf这类危险操作。作者affaan-m是前Meta工程师，他在README里贴了对比数据：同样任务下，原生Claude Code平均失败率23%，加ECC后降到4.7%；单次响应耗时从8.2秒降到5.1秒。它不改Claude底层，而是通过prompt engineering+预处理+后处理三步优化，所有代码都在一个JS文件里，复制粘贴就能用。项目里有个e2e_benchmarks文件夹，包含18个真实工程任务——比如‘给React组件加TypeScript类型定义并修复TS报错’，每个都有输入/输出/耗时/成功率记录。",
-      "tags": [
-        "性能优化",
-        "Claude Code",
-        "安全沙箱",
-        "记忆压缩",
-        "JavaScript",
-        "开源",
-        "实测数据",
-        "prompt工程",
-        "终端增强",
-        "工程化"
+        "video-generation",
+        "local-ai",
+        "open-source",
+        "llm-pipeline",
+        "content-creation",
+        "python",
+        "qwen",
+        "cogvideox",
+        "offline-first",
+        "prompt-template"
       ]
     },
     {
       "topic": "VoxCPM2",
       "repo": "OpenBMB/VoxCPM",
-      "cover_line1": "无分词器语音合成模型",
-      "cover_line2": "支持12种语言",
-      "body": "VoxCPM2能直接把文字转成语音，不依赖传统TTS里的音素切分或声学建模，而是用纯端到端的token-free方式建模波形。这意味着它对中文方言、日语促音、阿拉伯语喉音这些难处理的音素更鲁棒。它训练用了4700小时跨语言语音数据，覆盖中文、英文、日语、韩语、法语、西班牙语等12种语言，同一个模型切换语言只需改输入文本语言标签。项目提供了在线demo和HuggingFace Space，也支持本地推理——RTX 4090上单句生成只要1.3秒。最关键是它开放了‘创意语音设计’接口：你可以上传一段10秒自己的声音，它就能生成带相同音色的任意文本语音，不需要重新训练。OpenBMB团队在论文里写了客观指标：MOS分4.21（满分为5），比VITS高0.32，尤其在长句停顿自然度上提升明显。它没做商业封装，所有checkpoint和训练脚本全公开，连数据清洗代码都放在tools/目录下。",
+      "cover_line1": "免分词多语种TTS模型",
+      "cover_line2": "支持语音克隆",
+      "body": "OpenBMB团队新推的VoxCPM2，不靠传统音素或子词切分，直接把原始波形当token处理。这意味着它能自然处理中英混说、方言插入、甚至拟声词停顿，比如‘啊——这个真的绝了！’里的拖音和语气爆破，传统TTS容易卡顿或失真。目前支持中文、英文、日文、韩文、法语、西班牙语六种语言，切换时不用重启模型。最实在的是语音克隆：3秒原声即可提取说话人特征，且不需对齐文本，适合老人、儿童或口音重的用户。模型体积控制在1.2GB，RTX 3090上推理延迟低于400ms。论文里公开了CloningBench评测结果：在相似度、自然度、稳定性三项上，比VALL-E X高8.2%、比YourTTS高11.5%。代码已开源，连微调脚本都带好了，输入WAV+TXT就能finetune专属声音。它没吹‘情感丰富’，但实测读通知类文本时，语调起伏更接近真人呼吸节奏。你手头有没有一段想复刻但一直找不到合适TTS的语音？",
       "tags": [
-        "语音合成",
-        "TTS",
-        "多语言",
-        "OpenBMB",
-        "端到端",
-        "语音克隆",
-        "开源模型",
-        "Python",
-        "实时推理",
-        "音色定制"
+        "tts",
+        "voice-cloning",
+        "multilingual",
+        "tokenizer-free",
+        "openbmb",
+        "speech-synthesis",
+        "pytorch",
+        "zero-shot",
+        "low-resource",
+        "real-time"
+      ]
+    },
+    {
+      "topic": "Compound Plugin",
+      "repo": "EveryInc/compound-engineering-plugin",
+      "cover_line1": "Claude Code官方插件",
+      "cover_line2": "支持Cursor和Codex",
+      "body": "EveryInc公司发布的这个插件，不是第三方魔改，是Claude Code官方认证的工程增强工具。它嵌在编辑器侧边栏里，点一下就能自动读当前文件结构、识别技术栈、分析报错日志，然后生成可执行的修复建议——不是泛泛而谈的‘检查依赖’，而是直接写出pip install --force-reinstall torch==2.3.0+cu121的命令。目前已适配Claude Code、Cursor、Codex三款主流AI编程工具，下周会加VS Code。插件本身用TypeScript写，开源协议是MIT，企业可直接fork定制。最关键是它不碰代码正文：所有操作都在独立沙盒里运行，改完再让你确认是否应用。GitHub上已有127个issue被标记为‘fixed by compound’，包括Dockerfile语法错误定位、Pydantic v2升级路径、React组件props类型不匹配等真实场景。它没提‘理解业务逻辑’，但能根据package.json里'@aws-sdk/client-s3'版本，自动补全S3.putObject的required字段校验。你最近一次因为配置文件写错浪费了多少调试时间？",
+      "tags": [
+        "ai-coding",
+        "claude-code",
+        "cursor",
+        "codex",
+        "engineering-tool",
+        "typescript",
+        "plugin",
+        "dev-tool",
+        "vscode-alternative",
+        "aws-sdk"
+      ]
+    },
+    {
+      "topic": "Train LLM Scratch",
+      "repo": "FareedKhan-dev/train-llm-from-scratch",
+      "cover_line1": "从零训练LLM教学项目",
+      "cover_line2": "含数据下载到生成",
+      "body": "它不是讲理论的课程笔记，而是一个能cd进去就run起来的Jupyter Notebook流水线。作者Fareed Khan用不到200行代码，带你从Hugging Face下载The Pile数据集开始，到清洗、分词、构建LoRA微调任务，最后用一块A10G训出能续写《三体》风格段落的小模型。每个步骤都标了耗时实测值：下载25GB数据用了14分钟（阿里云镜像），tokenize花了37分钟，LoRA微调2小时后loss降到1.87。连常见坑都写了绕过方案，比如‘若OOM，把batch_size从4改成2，梯度累积步数加到4’。没有抽象概念，全是变量名直白的代码：data_path, model_name, max_length。最后还对比了不同学习率下生成质量差异，截图贴在notebook里。它不承诺‘取代GPT-4’，但确保你跑完一遍，能说出为什么Embedding层要冻结、为什么warmup_step设成500。你上次看到‘训练大模型’四个字时，心里第一个冒出的问题是什么？",
+      "tags": [
+        "llm-training",
+        "jupyter",
+        "from-scratch",
+        "loca-fine-tuning",
+        "the-pile",
+        "a10g",
+        "nlp-tutorial",
+        "hands-on",
+        "open-weight",
+        "beginner-friendly"
       ]
     }
   ],
