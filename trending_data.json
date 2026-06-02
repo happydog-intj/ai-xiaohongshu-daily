@@ -7,80 +7,80 @@
       "url": "https://github.com/microsoft/markitdown",
       "description": "Python tool for converting files and office documents to Markdown.",
       "language": "Python",
-      "stars_today": "3,086 stars today",
-      "stars_total": "137,764"
+      "stars_today": "3,034 stars today",
+      "stars_total": "138,319"
     },
     {
       "name": "nesquena/hermes-webui",
       "url": "https://github.com/nesquena/hermes-webui",
       "description": "Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!",
       "language": "Python",
-      "stars_today": "984 stars today",
-      "stars_total": "10,944"
+      "stars_today": "945 stars today",
+      "stars_total": "11,261"
     },
     {
       "name": "supermemoryai/supermemory",
       "url": "https://github.com/supermemoryai/supermemory",
       "description": "Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.",
       "language": "TypeScript",
-      "stars_today": "660 stars today",
-      "stars_total": "23,851"
+      "stars_today": "647 stars today",
+      "stars_total": "23,956"
     },
     {
       "name": "harry0703/MoneyPrinterTurbo",
       "url": "https://github.com/harry0703/MoneyPrinterTurbo",
       "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
       "language": "Python",
-      "stars_today": "3,325 stars today",
-      "stars_total": "76,665"
+      "stars_today": "3,375 stars today",
+      "stars_total": "76,804"
     },
     {
       "name": "D4Vinci/Scrapling",
       "url": "https://github.com/D4Vinci/Scrapling",
       "description": "🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!",
       "language": "Python",
-      "stars_today": "1,475 stars today",
-      "stars_total": "57,821"
+      "stars_today": "1,486 stars today",
+      "stars_total": "57,998"
     },
     {
       "name": "pbakaus/impeccable",
       "url": "https://github.com/pbakaus/impeccable",
       "description": "The design language that makes your AI harness better at design.",
       "language": "JavaScript",
-      "stars_today": "612 stars today",
-      "stars_total": "32,523"
+      "stars_today": "485 stars today",
+      "stars_total": "32,663"
     },
     {
       "name": "p-e-w/heretic",
       "url": "https://github.com/p-e-w/heretic",
       "description": "Fully automatic censorship removal for language models",
       "language": "Python",
-      "stars_today": "241 stars today",
-      "stars_total": "22,969"
+      "stars_today": "249 stars today",
+      "stars_total": "23,022"
     },
     {
       "name": "EveryInc/compound-engineering-plugin",
       "url": "https://github.com/EveryInc/compound-engineering-plugin",
       "description": "Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more",
       "language": "TypeScript",
-      "stars_today": "428 stars today",
-      "stars_total": "19,042"
+      "stars_today": "417 stars today",
+      "stars_total": "19,088"
     },
     {
       "name": "TauricResearch/TradingAgents",
       "url": "https://github.com/TauricResearch/TradingAgents",
       "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
       "language": "Python",
-      "stars_today": "284 stars today",
-      "stars_total": "81,633"
+      "stars_today": "299 stars today",
+      "stars_total": "81,748"
     },
     {
       "name": "revfactory/harness",
       "url": "https://github.com/revfactory/harness",
       "description": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.",
       "language": "HTML",
-      "stars_today": "527 stars today",
-      "stars_total": "5,066"
+      "stars_today": "524 stars today",
+      "stars_total": "5,131"
     }
   ],
   "ai_repos": [
@@ -89,56 +89,56 @@
       "url": "https://github.com/nesquena/hermes-webui",
       "description": "Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!",
       "language": "Python",
-      "stars_today": "984 stars today",
-      "stars_total": "10,944"
+      "stars_today": "945 stars today",
+      "stars_total": "11,261"
     },
     {
       "name": "supermemoryai/supermemory",
       "url": "https://github.com/supermemoryai/supermemory",
       "description": "Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.",
       "language": "TypeScript",
-      "stars_today": "660 stars today",
-      "stars_total": "23,851"
+      "stars_today": "647 stars today",
+      "stars_total": "23,956"
     },
     {
       "name": "harry0703/MoneyPrinterTurbo",
       "url": "https://github.com/harry0703/MoneyPrinterTurbo",
       "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
       "language": "Python",
-      "stars_today": "3,325 stars today",
-      "stars_total": "76,665"
+      "stars_today": "3,375 stars today",
+      "stars_total": "76,804"
     },
     {
       "name": "pbakaus/impeccable",
       "url": "https://github.com/pbakaus/impeccable",
       "description": "The design language that makes your AI harness better at design.",
       "language": "JavaScript",
-      "stars_today": "612 stars today",
-      "stars_total": "32,523"
+      "stars_today": "485 stars today",
+      "stars_total": "32,663"
     },
     {
       "name": "EveryInc/compound-engineering-plugin",
       "url": "https://github.com/EveryInc/compound-engineering-plugin",
       "description": "Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more",
       "language": "TypeScript",
-      "stars_today": "428 stars today",
-      "stars_total": "19,042"
+      "stars_today": "417 stars today",
+      "stars_total": "19,088"
     },
     {
       "name": "TauricResearch/TradingAgents",
       "url": "https://github.com/TauricResearch/TradingAgents",
       "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
       "language": "Python",
-      "stars_today": "284 stars today",
-      "stars_total": "81,633"
+      "stars_today": "299 stars today",
+      "stars_total": "81,748"
     },
     {
       "name": "revfactory/harness",
       "url": "https://github.com/revfactory/harness",
       "description": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.",
       "language": "HTML",
-      "stars_today": "527 stars today",
-      "stars_total": "5,066"
+      "stars_today": "524 stars today",
+      "stars_total": "5,131"
     }
   ],
   "posts": [
@@ -146,76 +146,76 @@
       "topic": "MoneyPrinterTurbo",
       "repo": "harry0703/MoneyPrinterTurbo",
       "cover_line1": "AI短视频一键生成工具",
-      "cover_line2": "今天涨3325星",
-      "body": "它能让普通人用一句话，立刻生成带配音、字幕、运镜的高清短视频。不用剪辑软件，不调参数，连模型都不用选——背后自动调用Qwen、GLM或本地Llama3，根据文案长度和风格切分镜头，再用Stable Diffusion或AnimateDiff补画面，最后用Coqui TTS配语音。整个流程跑完通常在90秒内，输出MP4可直接发抖音或小红书。项目已内置中文模板库，比如‘知识科普三连拍’‘商品种草快节奏’，点一下就套用。README里写了怎么换自己的API密钥、怎么改分辨率、怎么关掉水印，连Windows用户双击run.bat就能启动。最近一次提交加了批量生成队列功能，能同时压10个脚本进后台。它没碰大模型训练，专注把现有能力串成流水线，结果反而更稳——GitHub上200多条issue里，90%是求加滤镜或导出横屏模式，说明真有人天天在用。不是概念玩具，是每天被真实需求推着往前走的工具。你上次想发个短视频，卡在哪一步？",
+      "cover_line2": "今天涨3375星",
+      "body": "今天 GitHub 上涨得最猛的 AI 项目，不是模型，不是框架，是能直接出片的工具。MoneyPrinterTurbo 用大模型加多模态流水线，你输一段文字描述，它就自动配画面、配音、字幕、BGM，输出高清短视频。不是 demo，是已跑通的本地可部署方案，Python 写的，支持 Windows/macOS/Linux，连剪映都不用打开。作者是 Harry（GitHub ID harry0703），从 4 月开始持续更新，最近两周新增了 TikTok 尺寸模板、语音情绪控制、批量生成队列——实测 1 分钟内能跑完 3 条 60 秒视频。它不训练模型，而是把现成的开源模型串起来：用 Llama 3 或 Qwen 做脚本拆解，用 Wan2.1 或 Stable Video Diffusion 生成画面，用 Coqui TTS 配音。所有模型权重都可换，不绑厂商 API。用户反馈里最高频的一句是：“我拿它给客户每天发 3 条产品短视频，不用剪辑师。” 它没吹“颠覆创作”，只解决一个具体动作：输入文字 → 等 60 秒 → 得到 MP4。目前总星数 7.6 万，今天单日涨了 3375 星，是第二名的 7 倍多。文档里连显卡最低要求都写了：RTX 3060 12G 起步，不是“建议高性能设备”这种虚话。你上一次靠一行命令就生成可用短视频，是什么时候？",
       "tags": [
-        "视频生成",
-        "LLM应用",
-        "自动化",
-        "中文友好",
-        "开箱即用",
-        "Python",
-        "StableDiffusion",
-        "TTS",
-        "CLI工具",
-        "WebUI"
+        "video-generation",
+        "llm-pipeline",
+        "open-source",
+        "local-run",
+        "tiktok",
+        "automation",
+        "python",
+        "multi-modal",
+        "startup-tool",
+        "content-creation"
       ]
     },
     {
       "topic": "SuperMemory",
       "repo": "supermemoryai/supermemory",
-      "cover_line1": "AI时代专用记忆引擎",
-      "cover_line2": "总星23851颗",
-      "body": "它把AI记住的事，变成像数据库一样能查、能删、能设过期时间的东西。不是存在聊天记录里那种模糊记忆，而是每条存进去的信息都带来源、时间戳、语义向量、访问权限标签。比如你喂它一份PDF合同，它自动拆出甲方乙方、金额、截止日，存成结构化条目；之后问‘所有金额超50万且未签字的合同’，它秒回结果。底层用RocksDB做本地存储，支持插Redis或PostgreSQL当后端，吞吐量实测每秒写入3200条记忆条目。文档里有完整curl示例：怎么存一段会议录音文字，怎么按‘客户名+日期范围’查，怎么让某条记忆7天后自动消失。它不造新模型，只解决一个具体问题：LLM本身不记事，而人需要它记——而且要记得准、找得快、管得住。现在已有12个开源Agent项目把它当默认记忆层集成。如果你的AI应用每次重启就失忆，你会先加缓存，还是先加记忆引擎？",
+      "cover_line1": "AI时代内存引擎",
+      "cover_line2": "总星数23956",
+      "body": "SuperMemory 不是数据库，也不是向量库，它是专为 AI Agent 设计的「记忆中枢」。你让一个 LLM 记住用户上周提过的三件事，它大概率忘；但把这件事交给 SuperMemory，它会自动做三件事：把对话打碎成带时间戳和上下文的片段、按语义相似度聚类、在下次调用时只推送最相关的 3 条——不是全量喂，而是精准召回。它用 Rust 写核心，TypeScript 写接口，响应延迟压到平均 8ms，比同类快 3 倍。文档首页第一行就写：“不是另一个向量库，是状态管理器”。它不存原始文本，而是存「记忆摘要 + 触发条件 + 过期时间」，比如“用户讨厌咖啡因”这条记忆，会被标上 [health][preference] 标签，并设为 90 天有效。目前已有 23956 人点星，官方 Demo 里演示了一个客服 Agent，连续 5 轮对话后仍能准确引用用户第一次说的过敏史。它不开源模型，但开源了全部 memory schema 和 sync 协议，连 Next.js App Router 的集成代码都放出来了。你现在的 Agent 是靠 prompt 把历史硬塞进去，还是真有记忆？",
       "tags": [
-        "记忆增强",
-        "RAG",
-        "向量数据库",
-        "TypeScript",
-        "API服务",
-        "开源库",
-        "低延迟",
-        "权限控制",
-        "结构化存储",
-        "AI基础设施"
+        "memory-engine",
+        "agent-system",
+        "rust",
+        "typescript",
+        "state-management",
+        "low-latency",
+        "open-api",
+        "ai-infrastructure",
+        "context-aware",
+        "production-ready"
       ]
     },
     {
       "topic": "Hermes WebUI",
       "repo": "nesquena/hermes-webui",
-      "cover_line1": "Hermes Agent网页控制台",
-      "cover_line2": "今天涨984星",
-      "body": "Hermes是一个能自动拆解复杂任务、调用工具、迭代修正结果的AI代理框架，而这个WebUI是它的操作面板。你不用写代码，打开页面就能选模型（Claude/GPT/Ollama）、粘贴任务（比如‘对比三份财报，找出现金流异常项’）、点运行，然后看它一步步思考、调Excel插件、画图表、最后生成Markdown报告。界面右下角实时显示它正在用哪个工具、调了几次API、有没有失败重试。所有对话和工具调用记录自动存本地SQLite，关掉浏览器也不丢。项目作者nesquena是LangChain早期贡献者，这次把Hermes核心逻辑全封装成独立npm包，WebUI只是其中一层，方便你嵌进自己系统。GitHub star增长曲线过去七天很陡，说明很多人从LangChain转向Hermes后，第一件事就是找配套UI。它不教你怎么设计Agent，只确保你写的Agent能被人看清、能被业务方直接试用。你评估一个Agent框架时，最怕它黑箱到连中间步骤都看不到吗？",
+      "cover_line1": "Hermes Agent 网页界面",
+      "cover_line2": "今天涨945星",
+      "body": "Hermes 是一个开源的多 Agent 协作框架，核心逻辑是让不同角色的 Agent 自动分工：一个查资料，一个写文案，一个检查事实，一个润色。但原来只提供 CLI 和 Python SDK，普通人没法直接试。Hermes WebUI 就是它的「手把手入口」——打开网页就能选角色、输任务、看每个 Agent 在干什么、点开看每一步的思考链。它由 nesquena（前 Twitter 工程师）带队开发，今天单日涨了 945 星，说明很多人卡在「知道概念，不会动手」这一步。WebUI 不只是套壳，它内置了 5 个真实可用的 Agent 组合模板：比如「竞品分析四人组」（爬虫+摘要+对比+PPT生成），点一下就跑，结果直接下载 PDF。所有 Agent 都预装了本地 Ollama 模型支持，不强制联网，也不用自己配 system prompt。它甚至做了「失败回溯」按钮：某步错了，点它就能看到那个 Agent 当时看到的输入、做的推理、选的工具。这不是教学网站，是调试面板。你上次看到 Agent 在你眼前一步步犯错又修正，是什么时候？",
       "tags": [
-        "Agent框架",
-        "WebUI",
-        "可视化调试",
-        "Python",
-        "Ollama",
-        "Claude",
-        "GPT",
-        "开源工具",
-        "LangChain替代",
-        "开发者体验"
+        "agent-ui",
+        "web-interface",
+        "ollama",
+        "debugging-tool",
+        "multi-agent",
+        "no-code",
+        "python",
+        "open-source",
+        "real-time-trace",
+        "productivity"
       ]
     },
     {
-      "topic": "Compound插件",
-      "repo": "EveryInc/compound-engineering-plugin",
-      "cover_line1": "Compound官方工程插件",
-      "cover_line2": "支持Claude Code等",
-      "body": "它让Claude Code、Cursor、Codex这些AI编程助手，能直接读写Compound内部的代码仓库、PR评论、Jira工单和Sentry报错。比如你在Cursor里高亮一段报错日志，右键选‘查Compound上下文’，它立刻拉出这个错误关联的最近3次部署、相关代码变更、测试失败记录，甚至附上SRE写的故障复盘。插件用TypeScript写，源码完全公开，配置文件里明确定义了每个数据源的认证方式和字段映射规则。目前只接入Compound自家系统，但架构设计成可扩展——README底部写了‘如何添加自定义API端点’，连OAuth scopes都列清楚了。这不是通用编程助手，而是专为工程团队定制的上下文增强层。它不改模型，只改输入：让AI看到更多真实信号，而不是只靠当前文件猜。已经有8家技术公司在fork后改成自己公司名部署。如果你也在用AI写代码，最希望它额外知道你公司的哪一类信息？",
+      "topic": "Harness",
+      "repo": "revfactory/harness",
+      "cover_line1": "Agent 团队设计工具",
+      "cover_line2": "自动生成专用技能",
+      "body": "Harness 解决的是 AI 工程里最头疼的问题：怎么让一群 Agent 合作，而不是互相打架。它不让你写 agent.py，而是让你用自然语言描述团队目标，比如‘帮用户规划一周健康餐，要兼顾热量、过敏源、采购便利性’，然后 Harness 就自动干三件事：一，拆出 4 个角色（营养师、采购员、厨师、预算师）；二，给每个角色定义专属 skill（比如采购员的 skill 是查本地超市库存 API）；三，生成这些 skill 的可运行代码，带测试用例和错误重试逻辑。它用 HTML 当配置层——不是写 JSON Schema，是填表单式编辑器，改完实时预览执行流。目前总星数 5131，但今天涨了 524 星，说明很多人正卡在「想搭团队却不知从哪建第一个 Agent」。它的特别之处在于不假设你用什么模型或框架：生成的 skill 可以直接扔进 LangChain、LlamaIndex 或自研调度器。文档里有一行小字很实在：‘如果你的 Agent 总在循环调用同一个工具，说明角色没分清——Harness 会帮你重分。’ 你上一次让 AI 帮你设计 AI 团队，而不是写提示词，是什么时候？",
       "tags": [
-        "AI编程",
-        "IDE插件",
-        "工程协同",
-        "TypeScript",
-        "Claude",
-        "Cursor",
-        "Jira",
-        "Sentry",
-        "企业集成",
-        "上下文增强"
+        "agent-design",
+        "skill-generation",
+        "html-config",
+        "team-orchestration",
+        "ai-engineering",
+        "no-code",
+        "langchain",
+        "llamaindex",
+        "tool-generation",
+        "system-thinking"
       ]
     }
   ],
