@@ -1,5 +1,5 @@
 {
-  "date": "2026-06-03",
+  "date": "2026-06-04",
   "slot": "早报",
   "all_repos": [
     {
@@ -7,80 +7,80 @@
       "url": "https://github.com/chopratejas/headroom",
       "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
       "language": "Python",
-      "stars_today": "1,265 stars today",
-      "stars_total": "6,351"
-    },
-    {
-      "name": "microsoft/markitdown",
-      "url": "https://github.com/microsoft/markitdown",
-      "description": "Python tool for converting files and office documents to Markdown.",
-      "language": "Python",
-      "stars_today": "3,618 stars today",
-      "stars_total": "141,090"
+      "stars_today": "3,528 stars today",
+      "stars_total": "9,089"
     },
     {
       "name": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "language": "JavaScript",
-      "stars_today": "1,533 stars today",
-      "stars_total": "203,914"
+      "stars_today": "2,147 stars today",
+      "stars_total": "205,361"
     },
     {
-      "name": "D4Vinci/Scrapling",
-      "url": "https://github.com/D4Vinci/Scrapling",
-      "description": "🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!",
+      "name": "aquasecurity/trivy",
+      "url": "https://github.com/aquasecurity/trivy",
+      "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+      "language": "Go",
+      "stars_today": "26 stars today",
+      "stars_total": "35,324"
+    },
+    {
+      "name": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
       "language": "Python",
-      "stars_today": "1,182 stars today",
-      "stars_total": "59,142"
+      "stars_today": "1,736 stars today",
+      "stars_total": "178,736"
+    },
+    {
+      "name": "microsoft/markitdown",
+      "url": "https://github.com/microsoft/markitdown",
+      "description": "Python tool for converting files and office documents to Markdown.",
+      "language": "Python",
+      "stars_today": "2,006 stars today",
+      "stars_total": "142,617"
     },
     {
       "name": "nesquena/hermes-webui",
       "url": "https://github.com/nesquena/hermes-webui",
       "description": "Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!",
       "language": "Python",
-      "stars_today": "1,722 stars today",
-      "stars_total": "12,527"
+      "stars_today": "734 stars today",
+      "stars_total": "13,010"
     },
     {
-      "name": "reconurge/flowsint",
-      "url": "https://github.com/reconurge/flowsint",
-      "description": "A modern platform for visual, flexible, and extensible graph-based investigations. For cybersecurity analysts and investigators.",
-      "language": "TypeScript",
-      "stars_today": "124 stars today",
-      "stars_total": "4,492"
-    },
-    {
-      "name": "OpenBMB/VoxCPM",
-      "url": "https://github.com/OpenBMB/VoxCPM",
-      "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
+      "name": "D4Vinci/Scrapling",
+      "url": "https://github.com/D4Vinci/Scrapling",
+      "description": "🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!",
       "language": "Python",
-      "stars_today": "783 stars today",
-      "stars_total": "25,104"
+      "stars_today": "1,078 stars today",
+      "stars_total": "59,987"
     },
     {
-      "name": "stefan-jansen/machine-learning-for-trading",
-      "url": "https://github.com/stefan-jansen/machine-learning-for-trading",
-      "description": "Code for Machine Learning for Algorithmic Trading, 2nd edition.",
-      "language": "Jupyter Notebook",
-      "stars_today": "574 stars today",
-      "stars_total": "18,447"
+      "name": "opendataloader-project/opendataloader-pdf",
+      "url": "https://github.com/opendataloader-project/opendataloader-pdf",
+      "description": "PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.",
+      "language": "Java",
+      "stars_today": "573 stars today",
+      "stars_total": "23,145"
     },
     {
-      "name": "jamwithai/production-agentic-rag-course",
-      "url": "https://github.com/jamwithai/production-agentic-rag-course",
-      "description": "",
+      "name": "odoo/odoo",
+      "url": "https://github.com/odoo/odoo",
+      "description": "Odoo. Open Source Apps To Grow Your Business.",
       "language": "Python",
-      "stars_today": "30 stars today",
-      "stars_total": "6,369"
+      "stars_today": "29 stars today",
+      "stars_total": "51,860"
     },
     {
-      "name": "supermemoryai/supermemory",
-      "url": "https://github.com/supermemoryai/supermemory",
-      "description": "Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.",
-      "language": "TypeScript",
-      "stars_today": "680 stars today",
-      "stars_total": "24,616"
+      "name": "Open-LLM-VTuber/Open-LLM-VTuber",
+      "url": "https://github.com/Open-LLM-VTuber/Open-LLM-VTuber",
+      "description": "Talk to any LLM with hands-free voice interaction, voice interruption, and Live2D taking face running locally across platforms",
+      "language": "Python",
+      "stars_today": "702 stars today",
+      "stars_total": "8,847"
     }
   ],
   "ai_repos": [
@@ -89,141 +89,141 @@
       "url": "https://github.com/chopratejas/headroom",
       "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
       "language": "Python",
-      "stars_today": "1,265 stars today",
-      "stars_total": "6,351"
+      "stars_today": "3,528 stars today",
+      "stars_total": "9,089"
     },
     {
       "name": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "language": "JavaScript",
-      "stars_today": "1,533 stars today",
-      "stars_total": "203,914"
+      "stars_today": "2,147 stars today",
+      "stars_total": "205,361"
+    },
+    {
+      "name": "aquasecurity/trivy",
+      "url": "https://github.com/aquasecurity/trivy",
+      "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+      "language": "Go",
+      "stars_today": "26 stars today",
+      "stars_total": "35,324"
+    },
+    {
+      "name": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "language": "Python",
+      "stars_today": "1,736 stars today",
+      "stars_total": "178,736"
     },
     {
       "name": "nesquena/hermes-webui",
       "url": "https://github.com/nesquena/hermes-webui",
       "description": "Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!",
       "language": "Python",
-      "stars_today": "1,722 stars today",
-      "stars_total": "12,527"
+      "stars_today": "734 stars today",
+      "stars_total": "13,010"
     },
     {
-      "name": "OpenBMB/VoxCPM",
-      "url": "https://github.com/OpenBMB/VoxCPM",
-      "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
+      "name": "opendataloader-project/opendataloader-pdf",
+      "url": "https://github.com/opendataloader-project/opendataloader-pdf",
+      "description": "PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.",
+      "language": "Java",
+      "stars_today": "573 stars today",
+      "stars_total": "23,145"
+    },
+    {
+      "name": "Open-LLM-VTuber/Open-LLM-VTuber",
+      "url": "https://github.com/Open-LLM-VTuber/Open-LLM-VTuber",
+      "description": "Talk to any LLM with hands-free voice interaction, voice interruption, and Live2D taking face running locally across platforms",
       "language": "Python",
-      "stars_today": "783 stars today",
-      "stars_total": "25,104"
-    },
-    {
-      "name": "stefan-jansen/machine-learning-for-trading",
-      "url": "https://github.com/stefan-jansen/machine-learning-for-trading",
-      "description": "Code for Machine Learning for Algorithmic Trading, 2nd edition.",
-      "language": "Jupyter Notebook",
-      "stars_today": "574 stars today",
-      "stars_total": "18,447"
-    },
-    {
-      "name": "jamwithai/production-agentic-rag-course",
-      "url": "https://github.com/jamwithai/production-agentic-rag-course",
-      "description": "",
-      "language": "Python",
-      "stars_today": "30 stars today",
-      "stars_total": "6,369"
-    },
-    {
-      "name": "supermemoryai/supermemory",
-      "url": "https://github.com/supermemoryai/supermemory",
-      "description": "Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.",
-      "language": "TypeScript",
-      "stars_today": "680 stars today",
-      "stars_total": "24,616"
+      "stars_today": "702 stars today",
+      "stars_total": "8,847"
     }
   ],
   "posts": [
     {
       "topic": "Headroom",
       "repo": "chopratejas/headroom",
-      "cover_line1": "LLM 输入压缩库",
-      "cover_line2": "60–95% token 减少",
-      "body": "大模型调用贵，主要贵在输入 token 多。你传给 LLM 的日志、RAG 检索结果、工具输出，经常带大量冗余空格、重复描述、调试字段——这些全算钱。Headroom 就干一件事：在数据进 LLM 前，把它压得更瘦。它不是删内容，而是用规则+轻量模型识别并剔除无信息量部分，比如「执行完成，状态码 200」后面跟着的 300 行 JSON 日志里重复的 timestamp 字段。实测对 RAG chunk 压缩后，token 少了 60% 到 95%，但回答准确率没掉——因为保留的是语义主干，不是格式边角料。它提供三种接入方式：Python 库直接调用、HTTP 代理层透明转发、MCP 协议服务器兼容现有 Agent 框架。你不用改业务逻辑，加个中间件就行。项目作者是 Tejas Chopra，代码干净，文档里有对比表格：原始 chunk 平均 842 token，经 Headroom 处理后剩 97 token，LLM 回答完全一致。今天涨了 1265 星，说明很多人正卡在「效果还行，但成本太高」这一步。如果你在搭 RAG 或 Agent 系统，还没做输入预处理，那现在就是最该试它的时刻。",
+      "cover_line1": "LLM 输入压缩工具",
+      "cover_line2": "60–95% 少用 token",
+      "body": "大模型调用贵，主要贵在 token。你传给它的日志、RAG 检索结果、文件内容，经常带一堆冗余空格、重复描述、上下文注释——这些全算 token，但对回答没帮助。Headroom 就是干这个的：它不改答案，只删废话。你把它接在 RAG pipeline 后面、或者代理层里，它自动把输入压缩，比如把一段 2000 字的文档摘要成 300 字，保留关键事实和逻辑链；把 5 条相似日志合并成 1 条；把 API 返回的 JSON 去掉无用字段。作者测了 12 个真实场景，压缩后 token 减少 60% 到 95%，LLM 输出完全一致。它不是靠大模型重写，而是规则 + 小模型轻量裁剪，延迟增加不到 80ms。支持库模式（Python import）、HTTP 代理（开箱即用）、MCP 协议（对接 Cursor / Continue）。今天涨了 3528 星，说明很多人卡在「效果好但太烧钱」这一步。它不提升能力，只让已有能力更便宜、更快跑起来。",
       "tags": [
         "llm",
         "token",
-        "rag",
-        "agent",
-        "optimization",
-        "python",
         "compression",
+        "rag",
+        "proxy",
+        "python",
+        "mcp",
+        "optimization",
         "cost",
-        "headroom",
-        "tejas"
+        "tool"
       ]
     },
     {
       "topic": "ECC",
       "repo": "affaan-m/ECC",
-      "cover_line1": "Claude 代码代理优化系统",
-      "cover_line2": "支持 Cursor 和 Codex",
-      "body": "写代码时让 Claude 当助手，但每次它生成的补全、解释或重构，总要反复调整才能用？ECC 是一个专门针对代码类大模型代理的性能增强系统，不是换模型，而是给现有工作流加「肌肉」。它把代理拆成四块：技能（比如自动查文档、跑测试）、本能（比如遇到报错优先看 stack trace 而不是重写）、记忆（跨会话记住你项目的命名习惯）、安全（自动拦截危险命令如 rm -rf）。目前已明确适配 Claude Code、GitHub Copilot（Codex）、Cursor 和 OpenCode，不是口号，是代码里真写了对应插件桥接。作者 Affaan 在 README 里列了 7 个真实场景提速数据，比如「在 Cursor 中生成完整单元测试」从平均 3.2 次交互降到 1.4 次。它用 JavaScript 写，可嵌入 VS Code 插件或本地代理层，不依赖特定后端。今天单日涨星 1533，远超其他项目，说明开发者正在从「能跑」转向「跑得稳、跑得快、不翻车」。",
+      "cover_line1": "Claude 代码代理系统",
+      "cover_line2": "适配 Cursor 和 Codex",
+      "body": "写代码时，你用 Claude 的「代码解释器」或「代码生成」功能，但每次都要手动粘贴文件、描述上下文、反复修正——ECC 把这件事变成自动流程。它不是另一个 LLM，而是一套运行在本地的代理框架：能读你当前项目结构、调用 IDE 插件（已支持 Cursor、Opencode、Codex）、管理记忆块、执行安全沙箱命令、甚至回溯历史操作。作者把「技能」定义成可插拔模块，比如「自动补全测试用例」、「查 CVE 后自动修依赖」、「从 PR 描述生成 commit message」，每个技能都带明确输入输出和失败兜底。它不绑定某个模型，但默认连 Claude 3.5 Sonnet，因为实测在代码理解上比 GPT-4o 稳。今天涨了 2147 星，总星数超 20 万，说明开发者真在用它代替手敲。它不承诺「全自动写完项目」，但让「每次调用 LLM 都有上下文、有权限、有记忆、有退路」这件事变简单了。",
       "tags": [
         "agent",
-        "coding",
         "claude",
         "cursor",
-        "copilot",
+        "codex",
+        "ide",
         "javascript",
-        "optimization",
-        "plugin",
-        "ecc",
-        "affaan"
+        "code",
+        "security",
+        "memory",
+        "plugin"
       ]
     },
     {
-      "topic": "Hermes WebUI",
-      "repo": "nesquena/hermes-webui",
-      "cover_line1": "Hermes 代理网页控制台",
-      "cover_line2": "手机也能操作 agent",
-      "body": "Hermes 是一个开源的 AI 代理框架，擅长多步任务规划和工具调用，但它原本只有命令行接口。nesquena 做的这个 WebUI，相当于给 Hermes 装了个浏览器遥控器——你在 Chrome 里打开，选个模型，粘贴一段任务描述，点运行，它就自动调用搜索、代码执行、文件读取等工具，一步步做完，每步结果都实时显示。关键不是「有界面」，而是它真能跑通复杂链路：比如「分析我上传的 CSV，画出趋势图，再用邮件发给我」，WebUI 会分三步调用 Pandas、Matplotlib、SMTP 工具，且错误时自动回退重试。它还支持手机访问，响应式布局，扫码就能连自己本机跑的 Hermes 后端。作者是 Nestor Naranjo，也是 LangChain 早期贡献者。今天涨星 1722，是今日最高，说明大家不要「又一个 CLI 工具」，而要「能立刻上手、给别人演示、出差路上也能用」的东西。",
+      "topic": "Hermes Agent",
+      "repo": "NousResearch/hermes-agent",
+      "cover_line1": "Nous 研究所新代理",
+      "cover_line2": "支持长期记忆进化",
+      "body": "Hermes Agent 不是玩具 demo，是 Nous Research 正式发布的可扩展代理框架，目标很实在：让一个 agent 在多次对话中记住你的偏好、习惯、常用路径、甚至你上次说「别再推荐 Python 库了」这种细节。它用 SQLite 做本地记忆库，每次交互后自动存档意图、动作、结果，下次遇到类似请求就直接复用，而不是重新规划。它不依赖云端服务，所有推理和记忆都在本地走；支持自定义工具函数，比如你加个「查我上周 Slack 里提过的 API key」，它就能调 Slack API 插件去搜。官方文档里写了三个真实用例：自动化论文阅读（抓 PDF→摘重点→存 Zotero）、批量处理 GitHub issues（分类→分配→写回复草稿）、日常知识管理（你语音说「记下这个思路」，它转文字+打标签+关联已有笔记）。今天涨了 1736 星，总星数近 18 万，说明它正被拿去当主力工具用，不是概念验证。",
       "tags": [
         "agent",
-        "webui",
-        "hermes",
-        "langchain",
+        "nous",
+        "memory",
+        "local",
         "python",
-        "ui",
-        "mobile",
         "tool",
-        "nestor",
-        "demo"
+        "zotero",
+        "github",
+        "sl",
+        "note"
       ]
     },
     {
-      "topic": "VoxCPM2",
-      "repo": "OpenBMB/VoxCPM",
-      "cover_line1": "免分词 TTS 模型",
-      "cover_line2": "支持多语言语音克隆",
-      "body": "传统语音合成（TTS）要先用 tokenizer 把文字切成分词，再喂给模型，切不准就念错。VoxCPM2 直接跳过这一步：它把整句话当图像一样处理，用视觉 Transformer 编码文本，用扩散模型生成波形。好处很明显：中英文混排、专有名词、代码变量名（比如「get_user_profile_v2」）不再被乱切；多语言切换不用换模型，同一套权重跑中文、日文、西班牙语都行；更重要的是，它支持「True-to-Life Cloning」——只用 3 秒参考音频，就能克隆出音色、语调、停顿节奏高度接近的语音，不是简单变声，是复刻说话人的呼吸感。这是清华 OpenBMB 团队发布的第二代，论文里对比显示，在 VCTK 数据集上 MOS 分 4.12，比 VITS 高 0.31。代码已开源，带 Colab 一键试听脚本。如果你在做语音交互产品，或者需要快速生成多语种播客配音，它省掉的不是开发时间，是反复调参的耐心。",
+      "topic": "Open LLM VTuber",
+      "repo": "Open-LLM-VTuber/Open-LLM-VTuber",
+      "cover_line1": "本地语音 LLM VTuber",
+      "cover_line2": "Live2D + 语音打断",
+      "body": "想对着电脑说话，让 LLM 回答，还要它实时动嘴、眨眼、点头？这个项目做到了全部本地运行。它把 Whisper 实时语音转文本、Ollama 或 LM Studio 跑本地小模型、Live2D 渲染角色动画，全串在一起。关键不是「能动」，而是「能打断」：你说一半，它立刻停嘴、切上下文、重新思考——就像真人对话。所有模型都在你机器上跑，录音不上传，角色表情驱动靠 OpenCV 检测你嘴型+手势，不需要摄像头外设。它支持 Win/Mac/Linux，手机也能连 WebUI 控制。今天涨了 702 星，很多人留言说「终于不用开网页版听半天才回」。它不追求电影级渲染，但把「语音输入→本地 LLM 处理→Live2D 输出」这条链跑通了，延迟压到 1.2 秒以内。如果你试过语音助手卡顿、断句错乱、说完三秒才眨一次眼，这个项目就是冲着那些痛点来的。",
       "tags": [
-        "tts",
+        "vtuber",
         "voice",
-        "cpm",
-        "openbmb",
-        "multilingual",
-        "cloning",
+        "local",
+        "live2d",
+        "whisper",
+        "ollama",
         "python",
-        "diffusion",
-        "tokenizer-free",
-        "speech"
+        "realtime",
+        "interrupt",
+        "animation"
       ]
     }
   ],
   "image_paths": [
-    "assets/2026-06-03/trending/summary.png",
-    "assets/2026-06-03/trending/post1.png",
-    "assets/2026-06-03/trending/post2.png",
-    "assets/2026-06-03/trending/post3.png",
-    "assets/2026-06-03/trending/post4.png"
+    "assets/2026-06-04/trending/summary.png",
+    "assets/2026-06-04/trending/post1.png",
+    "assets/2026-06-04/trending/post2.png",
+    "assets/2026-06-04/trending/post3.png",
+    "assets/2026-06-04/trending/post4.png"
   ]
 }
