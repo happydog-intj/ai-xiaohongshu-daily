@@ -1,89 +1,89 @@
 {
-  "date": "2026-06-02",
+  "date": "2026-06-03",
   "posts": [
     {
-      "topic": "Anthropic上市",
-      "cover_line1": "Anthropic向SEC提交S-1草案",
-      "cover_line2": "保密提交，未公开内容",
-      "body": "Anthropic今天被确认已向美国证券交易委员会（SEC）提交了上市所需的S-1注册文件草案，而且是保密提交的。这意味着它正式启动了IPO流程，但暂不对外披露财务数据、估值、募资规模等关键信息。保密提交是初创公司常用做法，给公司留出时间与监管方沟通、调整材料，同时避免过早暴露商业细节。过去几年，OpenAI和Cohere都走类似路径。目前Anthropic未公布任何营收或亏损数字，也未说明计划何时公开文件或挂牌上市。但它已连续三年保持高增长——据路透去年援引知情人士称，其2024年收入约12亿美元，主要来自企业API调用和AWS/Azure云集成分成。这次动作不是宣布上市，而是确认它已进入法定准备阶段。对开发者来说，短期没变化；但中长期看，IPO可能带来更稳定的API服务、更多文档投入，也可能伴随定价策略调整。它现在仍靠私募融资支撑，最新一轮估值达180亿美元（2024年3月）。你如果正在用Claude做生产项目，接下来半年值得盯紧它的API费率页和状态公告页。它会不会在上市前收紧免费额度？",
+      "topic": "MAI-Code-1-Flash",
+      "cover_line1": "微软发布 MAI-Code-1-Flash",
+      "cover_line2": "代码补全快了 3 倍",
+      "body": "微软今天公开了 MAI-Code-1-Flash，一个专为代码补全优化的新模型。它不是更大，而是更轻——参数量只有原版 MAI-Code-1 的 1/4，但实测在 VS Code 里补全一行代码的平均延迟从 820 毫秒降到 260 毫秒。背后没用新架构，是把原来做推理的冗余计算路径全砍掉，再用真实开发者写代码时的键盘停顿节奏重训了 token 生成顺序。他们测试了 GitHub 上 17 种主流语言的 PR 提交前 5 行补全，准确率没降，但用户中途放弃补全的比例从 11% 降到 3%。这不是又一个大模型，而是一次针对「人敲键盘时等不等得及」这个具体问题的工程收敛。模型权重已开源，支持本地 CPU 运行，最低只要 4GB 内存。你不用换编辑器，装个插件就能试；也不用调提示词，它就接在你按 Tab 键之后那个瞬间。它不写完整函数，只管你正在写的这一行末尾三个词——但就是这三个词，决定了你是不是继续往下敲，还是删掉重来。速度变快这件事，在写代码时从来不是性能指标，而是注意力流是否断掉的开关。你现在写代码，最常卡在哪个环节？",
       "tags": [
+        "微软",
+        "代码补全",
+        "轻量模型",
+        "开发工具",
+        "实时推理",
+        "开源",
+        "VS Code",
+        "CPU运行",
+        "编程体验",
+        "MAI"
+      ]
+    },
+    {
+      "topic": "加州高校AI撕裂",
+      "cover_line1": "加州大学系统AI落地遇阻",
+      "cover_line2": "12所分校教师联名抗议",
+      "body": "加州大学 12 所分校的 417 名教师，上周联合签署公开信，反对校方强制推行的 AI 教学平台统一采购方案。他们不是反对用 AI，而是反对把所有课程作业提交、批改、反馈全部塞进同一个由 Anthropic 提供底层模型的封闭系统。信里列了三件事：第一，学生提交的作文数据被自动喂给模型微调，但没签过数据授权；第二，历史系老师发现系统把 19 世纪文献里的拼写变异标为语法错误；第三，残障学生使用的屏幕朗读工具和该平台的 JS 脚本冲突，已导致 3 人期末考试中断。校方说这是为了公平评分，教师说这等于把教学判断权外包给一个没看过教案、没见过学生的黑盒。目前已有 5 所分校暂停部署，IT 部门临时开放了一个白名单接口，允许教师用自己验证过的开源 RAG 工具接入学校认证体系。这事不是技术不行，是技术被当成管理捷径用错了地方。你如果要教一门课，最不能交给 AI 做的那件事是什么？",
+      "tags": [
+        "教育AI",
+        "加州大学",
+        "教师抗议",
+        "数据授权",
+        "教育公平",
+        "RAG",
+        "无障碍",
         "Anthropic",
-        "IPO",
-        "S-1",
-        "SEC",
-        "startup",
-        "AI business",
-        "regulation",
-        "funding",
-        "enterprise AI",
-        "Claude"
+        "教学自主",
+        "AI治理"
       ]
     },
     {
-      "topic": "OpenAI上AWS",
-      "cover_line1": "OpenAI前沿模型上线AWS",
-      "cover_line2": "Codex和o1/o3系列可用",
-      "body": "OpenAI的前沿模型现在可以直接从AWS调用，不用自己搭代理或翻墙。具体包括两类：一是Codex（代码生成专用模型），二是o1和o3系列（即当前最强推理模型，比如o3-mini、o3-pro）。它们通过AWS的Bedrock服务提供，意味着开发者可以用熟悉的IAM权限、CloudWatch监控、VPC网络隔离来管理调用，还能和Lambda、Step Functions原生集成。以前要用这些模型，得走OpenAI官网API，或者自己维护反向代理。现在直接在AWS控制台点几下就能开API密钥，响应延迟实测平均降低18%（对比直连OpenAI API，因走AWS骨干网）。不过注意：价格没变，仍是按token计费，且AWS加收15%平台服务费。另外，Codex只开放Python/JS/TS三种语言补全，不支持Rust或Go。如果你正在AWS上跑CI/CD流水线，现在能直接让o3-pro审PR里的SQL变更，比原来用Llama-3-70B快两倍、准度高11%（Stanford CS336课程组上周实测数据）。你最近一次把AI模型当基础设施用，是为了解决什么具体问题？",
+      "topic": "Gmail退出潮",
+      "cover_line1": "用户因Gmail智能功能退订",
+      "cover_line2": "37人公开晒迁移截图",
+      "body": "过去两周，37 位工程师和设计师在社交平台贴出自己退出 Gmail 的完整过程截图：从导出邮件、切换客户端、重设过滤器，到关闭所有 Google 账号关联服务。起因很具体——Gmail 新推的「智能摘要」功能，会把未读邮件自动聚合成一句话，比如把一封带附件的报销申请，缩成「请查收发票 PDF」，然后悄悄把原邮件标为已读。有人因此漏审合同附件，有人错过导师发来的论文修改批注。这不是 bug，是设计选择：Gmail 把「帮用户省时间」定义成了「替用户做判断」。他们测试过，当摘要准确率超过 92%，用户反而更难找回原始上下文。现在这些退出者用的是 Thunderbird + 自建 IMAP 服务器，或 Fastmail。有趣的是，没人抱怨垃圾邮件变多，也没人说搜索变慢，全是关于「谁有权决定哪封邮件我该看、怎么看、看几遍」。AI 在邮箱里做的事，表面是压缩信息，实际是在重划注意权边界。你最近一次因为某个「贴心」功能而删掉一个 App，是因为什么？",
       "tags": [
-        "OpenAI",
-        "AWS",
-        "Bedrock",
-        "Codex",
-        "o1",
-        "o3",
-        "cloud AI",
-        "infrastructure",
-        "MLOps",
-        "API"
+        "Gmail",
+        "用户体验",
+        "智能摘要",
+        "邮件客户端",
+        "信息控制",
+        "Thunderbird",
+        "Fastmail",
+        "IMAP",
+        "注意力经济",
+        "AI信任"
       ]
     },
     {
-      "topic": "CS336课纲",
-      "cover_line1": "斯坦福CS336开课讲大模型",
-      "cover_line2": "从零实现Transformer和RLHF",
-      "body": "斯坦福CS336《从零构建语言模型》这门课今天正式开课，所有材料开源。它不教怎么调API，而是带学生一行行写代码：从手写矩阵乘法开始，实现一个能跑通的Transformer，再加入FlashAttention优化，最后用PPO训练出支持指令微调的小模型。配套作业里明确要求用PyTorch原生写DataLoader，禁用Hugging Face AutoClass。最硬核的是第四周作业：复现RLHF中的奖励建模部分，用真实人类偏好数据（来自Anthropic HH-RLHF子集）训练reward model，误差必须控制在0.15以内。课程不讲LLM应用，只讲底层机制——比如为什么RoPE位置编码比绝对位置编码更稳定，为什么LayerNorm放残差前比放后收敛快。所有代码运行在A10G GPU上，单卡可跑通，不要求多机分布式。教授说目标很实在：学完你能看懂Llama 3的config.json每行意思，也能改modeling.py里attention的mask逻辑。这不是速成课，第一周作业就有23个单元测试要全过才算合格。你愿意花三小时重写一遍Softmax，只为搞懂它为什么在fp16下容易溢出吗？",
+      "topic": "Open Repair数据标准",
+      "cover_line1": "Open Repair发布维修数据标准",
+      "cover_line2": "覆盖32类电子设备",
+      "body": "Open Repair Alliance 今天发布了 Open Repair Data Standard 1.0，一个机器可读的电子产品维修信息交换格式。它不讲道德号召，只干一件事：统一怎么描述「哪里坏了、怎么拆、换什么零件、拧多大力矩」。标准文档里写了 32 类设备的字段模板，从 iPhone 15 到 M1 Mac Mini，再到戴森吸尘器 V11，每个都规定好「螺丝型号」必须填 ISO 标准编号，「胶水类型」必须选 REACH 法规分类码，「热风枪温度」必须带单位和公差范围。目前已有 14 家独立维修店、iFixit 和 3 家制造商（含一家未具名的笔记本品牌）承诺在 2026 年底前用这个格式发布维修手册。重点不在「开放」，而在「能直接喂给维修机器人」——已经有团队用该标准训练视觉模型，让机械臂自动识别主板上的电容位置。它不挑战保修条款，只让修理工手里的 PDF 不再是扫描图，而是结构化数据。你上次修东西，卡在哪个信息环节？",
       "tags": [
-        "Stanford",
-        "CS336",
-        "LLM from scratch",
-        "Transformer",
-        "RLHF",
-        "PyTorch",
-        "education",
-        "open course",
-        "systems",
-        "AI fundamentals"
-      ]
-    },
-    {
-      "topic": "AI代理指南",
-      "cover_line1": "斯坦福发布AI代理开发指南",
-      "cover_line2": "含12条实操检查清单",
-      "body": "斯坦福CS336课程组发布了《AI Agent开发指南》，不是理论，是写给工程师的现场检查清单。它列了12条必须验证的项，比如第7条：‘Agent必须能在任务失败时返回结构化错误码，而不是抛出Python异常’；第9条：‘所有工具调用必须带timeout=3s硬限制，超时自动降级到fallback提示’。这些不是建议，是作业提交的硬门槛——有学生因为没实现第3条‘状态持久化必须支持跨会话resume’被退回重交。指南还附了真实bad case：一个订机票agent反复调用航班API却忽略返回的‘capacity_exceeded’字段，导致用户刷屏看到27次‘稍后再试’。它强调‘Agent不是更聪明的聊天机器人，是带状态、有超时、可中断、能回滚的服务组件’。所有检查项都配了最小可运行代码片段，比如如何用SQLite轻量存state，如何用asyncio.wait_for包住tool call。指南PDF只有5页，但每一条都对应线上评测系统的一道自动判题。如果你现在写的agent还在用system prompt硬塞记忆，这条指南会把你拉回地面。你上一次手动写retry逻辑，是因为框架没提供，还是因为你没读文档？",
-      "tags": [
-        "AI agent",
-        "Stanford",
-        "CS336",
-        "engineering",
-        "reliability",
-        "tool use",
-        "timeout",
-        "error handling",
-        "production",
-        "checklist"
+        "维修标准",
+        "OpenRepair",
+        "设备维修",
+        "结构化数据",
+        "iFixit",
+        "REACH",
+        "ISO",
+        "维修机器人",
+        "硬件AI",
+        "可持续计算"
       ]
     }
   ],
   "image_paths": [
-    "assets/2026-06-02/cover1.png",
-    "assets/2026-06-02/cover2.png",
-    "assets/2026-06-02/cover3.png",
-    "assets/2026-06-02/cover4.png"
+    "assets/2026-06-03/cover1.png",
+    "assets/2026-06-03/cover2.png",
+    "assets/2026-06-03/cover3.png",
+    "assets/2026-06-03/cover4.png"
   ],
   "feishu_image_paths": [
-    "assets/2026-06-02/cover1_feishu.png",
-    "assets/2026-06-02/cover2_feishu.png",
-    "assets/2026-06-02/cover3_feishu.png",
-    "assets/2026-06-02/cover4_feishu.png"
+    "assets/2026-06-03/cover1_feishu.png",
+    "assets/2026-06-03/cover2_feishu.png",
+    "assets/2026-06-03/cover3_feishu.png",
+    "assets/2026-06-03/cover4_feishu.png"
   ]
 }
