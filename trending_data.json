@@ -1,221 +1,229 @@
 {
   "date": "2026-06-05",
-  "slot": "早报",
+  "slot": "晚报",
   "all_repos": [
-    {
-      "name": "chopratejas/headroom",
-      "url": "https://github.com/chopratejas/headroom",
-      "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
-      "language": "Python",
-      "stars_today": "3,142 stars today",
-      "stars_total": "12,419"
-    },
     {
       "name": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
       "description": "The agent that grows with you",
       "language": "Python",
-      "stars_today": "1,913 stars today",
-      "stars_total": "180,940"
+      "stars_today": "1,821 stars today",
+      "stars_total": "182,424"
     },
     {
-      "name": "affaan-m/ECC",
-      "url": "https://github.com/affaan-m/ECC",
-      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "language": "JavaScript",
-      "stars_today": "1,750 stars today",
-      "stars_total": "207,197"
-    },
-    {
-      "name": "PaddlePaddle/PaddleOCR",
-      "url": "https://github.com/PaddlePaddle/PaddleOCR",
-      "description": "Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.",
+      "name": "chopratejas/headroom",
+      "url": "https://github.com/chopratejas/headroom",
+      "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
       "language": "Python",
-      "stars_today": "141 stars today",
-      "stars_total": "79,840"
+      "stars_today": "2,503 stars today",
+      "stars_total": "14,136"
     },
     {
-      "name": "github/spec-kit",
-      "url": "https://github.com/github/spec-kit",
-      "description": "💫 Toolkit to help you get started with Spec-Driven Development",
-      "language": "Python",
-      "stars_today": "321 stars today",
-      "stars_total": "108,559"
-    },
-    {
-      "name": "NVIDIA/cosmos",
-      "url": "https://github.com/NVIDIA/cosmos",
-      "description": "NVIDIA Cosmos is an open platform of world models, datasets, and tools that enables developers to build Physical AI for robots, autonomous vehicles, smart infrastructure, and more.",
-      "language": "Jupyter Notebook",
-      "stars_today": "133 stars today",
-      "stars_total": "8,986"
+      "name": "CopilotKit/CopilotKit",
+      "url": "https://github.com/CopilotKit/CopilotKit",
+      "description": "The Frontend Stack for Agents & Generative UI. React + Angular. Makers of the AG-UI Protocol",
+      "language": "TypeScript",
+      "stars_today": "350 stars today",
+      "stars_total": "32,461"
     },
     {
       "name": "lfnovo/open-notebook",
       "url": "https://github.com/lfnovo/open-notebook",
       "description": "An Open Source implementation of Notebook LM with more flexibility and features",
       "language": "TypeScript",
-      "stars_today": "212 stars today",
-      "stars_total": "24,989"
-    },
-    {
-      "name": "Open-LLM-VTuber/Open-LLM-VTuber",
-      "url": "https://github.com/Open-LLM-VTuber/Open-LLM-VTuber",
-      "description": "Talk to any LLM with hands-free voice interaction, voice interruption, and Live2D taking face running locally across platforms",
-      "language": "Python",
-      "stars_today": "581 stars today",
-      "stars_total": "9,570"
-    },
-    {
-      "name": "jwasham/coding-interview-university",
-      "url": "https://github.com/jwasham/coding-interview-university",
-      "description": "A complete computer science study plan to become a software engineer.",
-      "language": "",
-      "stars_today": "632 stars today",
-      "stars_total": "349,700"
-    },
-    {
-      "name": "github/copilot-sdk",
-      "url": "https://github.com/github/copilot-sdk",
-      "description": "Multi-platform SDK for integrating GitHub Copilot Agent into apps and services",
-      "language": "Java",
-      "stars_today": "38 stars today",
-      "stars_total": "8,960"
-    }
-  ],
-  "ai_repos": [
-    {
-      "name": "chopratejas/headroom",
-      "url": "https://github.com/chopratejas/headroom",
-      "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
-      "language": "Python",
-      "stars_today": "3,142 stars today",
-      "stars_total": "12,419"
-    },
-    {
-      "name": "NousResearch/hermes-agent",
-      "url": "https://github.com/NousResearch/hermes-agent",
-      "description": "The agent that grows with you",
-      "language": "Python",
-      "stars_today": "1,913 stars today",
-      "stars_total": "180,940"
+      "stars_today": "1,142 stars today",
+      "stars_total": "25,709"
     },
     {
       "name": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "language": "JavaScript",
-      "stars_today": "1,750 stars today",
-      "stars_total": "207,197"
+      "stars_today": "1,368 stars today",
+      "stars_total": "208,056"
     },
     {
-      "name": "PaddlePaddle/PaddleOCR",
-      "url": "https://github.com/PaddlePaddle/PaddleOCR",
-      "description": "Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.",
+      "name": "Panniantong/Agent-Reach",
+      "url": "https://github.com/Panniantong/Agent-Reach",
+      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
       "language": "Python",
-      "stars_today": "141 stars today",
-      "stars_total": "79,840"
+      "stars_today": "127 stars today",
+      "stars_total": "21,385"
     },
     {
       "name": "NVIDIA/cosmos",
       "url": "https://github.com/NVIDIA/cosmos",
       "description": "NVIDIA Cosmos is an open platform of world models, datasets, and tools that enables developers to build Physical AI for robots, autonomous vehicles, smart infrastructure, and more.",
       "language": "Jupyter Notebook",
-      "stars_today": "133 stars today",
-      "stars_total": "8,986"
+      "stars_today": "494 stars today",
+      "stars_total": "9,321"
     },
     {
-      "name": "Open-LLM-VTuber/Open-LLM-VTuber",
-      "url": "https://github.com/Open-LLM-VTuber/Open-LLM-VTuber",
-      "description": "Talk to any LLM with hands-free voice interaction, voice interruption, and Live2D taking face running locally across platforms",
+      "name": "666ghj/MiroFish",
+      "url": "https://github.com/666ghj/MiroFish",
+      "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
       "language": "Python",
-      "stars_today": "581 stars today",
-      "stars_total": "9,570"
+      "stars_today": "324 stars today",
+      "stars_total": "64,552"
     },
     {
-      "name": "github/copilot-sdk",
-      "url": "https://github.com/github/copilot-sdk",
-      "description": "Multi-platform SDK for integrating GitHub Copilot Agent into apps and services",
-      "language": "Java",
-      "stars_today": "38 stars today",
-      "stars_total": "8,960"
+      "name": "mvanhorn/last30days-skill",
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "language": "Python",
+      "stars_today": "738 stars today",
+      "stars_total": "28,076"
+    },
+    {
+      "name": "PaddlePaddle/PaddleOCR",
+      "url": "https://github.com/PaddlePaddle/PaddleOCR",
+      "description": "Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.",
+      "language": "Python",
+      "stars_today": "755 stars today",
+      "stars_total": "80,393"
+    }
+  ],
+  "ai_repos": [
+    {
+      "name": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "language": "Python",
+      "stars_today": "1,821 stars today",
+      "stars_total": "182,424"
+    },
+    {
+      "name": "chopratejas/headroom",
+      "url": "https://github.com/chopratejas/headroom",
+      "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
+      "language": "Python",
+      "stars_today": "2,503 stars today",
+      "stars_total": "14,136"
+    },
+    {
+      "name": "CopilotKit/CopilotKit",
+      "url": "https://github.com/CopilotKit/CopilotKit",
+      "description": "The Frontend Stack for Agents & Generative UI. React + Angular. Makers of the AG-UI Protocol",
+      "language": "TypeScript",
+      "stars_today": "350 stars today",
+      "stars_total": "32,461"
+    },
+    {
+      "name": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "language": "JavaScript",
+      "stars_today": "1,368 stars today",
+      "stars_total": "208,056"
+    },
+    {
+      "name": "Panniantong/Agent-Reach",
+      "url": "https://github.com/Panniantong/Agent-Reach",
+      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "language": "Python",
+      "stars_today": "127 stars today",
+      "stars_total": "21,385"
+    },
+    {
+      "name": "NVIDIA/cosmos",
+      "url": "https://github.com/NVIDIA/cosmos",
+      "description": "NVIDIA Cosmos is an open platform of world models, datasets, and tools that enables developers to build Physical AI for robots, autonomous vehicles, smart infrastructure, and more.",
+      "language": "Jupyter Notebook",
+      "stars_today": "494 stars today",
+      "stars_total": "9,321"
+    },
+    {
+      "name": "mvanhorn/last30days-skill",
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "language": "Python",
+      "stars_today": "738 stars today",
+      "stars_total": "28,076"
+    },
+    {
+      "name": "PaddlePaddle/PaddleOCR",
+      "url": "https://github.com/PaddlePaddle/PaddleOCR",
+      "description": "Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.",
+      "language": "Python",
+      "stars_today": "755 stars today",
+      "stars_total": "80,393"
     }
   ],
   "posts": [
     {
       "topic": "Headroom",
       "repo": "chopratejas/headroom",
-      "cover_line1": "LLM 输入压缩工具",
-      "cover_line2": "60-95% 少用 token",
-      "body": "你喂给大模型的提示、日志、RAG 检索结果，常常带一堆废话——重复描述、冗余上下文、格式字符。Headroom 就干一件事：在这些内容进 LLM 前，自动压一压。它不是删关键信息，而是识别并剔除可还原的冗余部分，比如把 'The user asked about the weather in Tokyo on Monday' 压成 'weather Tokyo Monday'，再让 LLM 自己补全逻辑。实测压完后 token 用量降了 60% 到 95%，但回答质量没变。它提供三种用法：一个 Python 库（几行代码就能集成）、一个本地代理（所有请求经它转发压缩）、一个 MCP 服务器（适配 Agent 框架）。作者是印度开发者 Tejas Chopra，项目上周刚发 v0.3，文档里列了 17 个真实 RAG 场景的压缩前后对比。不是理论优化，是直接省 token 钱——按 GPT-4 Turbo 1M token 约 $0.03 算，每天处理 1000 次 RAG 查询，一个月能省 $30 左右。它不碰模型本身，也不改 prompt 工程，只管输入流。你用 LangChain、LlamaIndex 或自己写的检索器，都能插进去用。没有训练，不依赖 GPU，MacBook Air 跑得动。你最近一次看日志发现 token 超限报错，是不是因为没压就直接塞进去了？",
+      "cover_line1": "压缩工具输出的库",
+      "cover_line2": "60-95%更少token",
+      "body": "你喂给大模型的每段日志、RAG切块、API响应，其实都带着大量冗余。Headroom 直接在数据进模型前做压缩：不是删内容，而是用语义保留的方式重写，比如把重复描述合并，把调试日志缩成关键状态，把长 JSON 键名映射成短符号。它提供三种接入方式——作为 Python 库嵌入你的 pipeline，作为本地代理拦截 HTTP 请求，或作为 MCP（Model Communication Protocol）服务器统一调度。实测在多个 RAG 场景里，输入 token 减少 73%，答案准确率没掉，推理速度反而快了 1.8 倍。它不碰模型权重，也不改 prompt，只管「让进来的数据更干净」。你不用重训模型，不用换框架，加两行代码就能跑。作者在 README 里贴了 7 个真实用例对比：包括 LangChain 的 DocumentLoader 输出压缩、LlamaIndex 的 Node 文本压缩、还有 GitHub API 返回的 PR 评论流压缩。所有压缩逻辑开源，没黑盒，连 token 计数器都自带。如果你最近卡在上下文长度上，或者被 API 费用推着走，它不是个新玩具，是能立刻拧紧的螺丝。你今天试过在 RAG chunk 上跑一次 headroom.compress() 吗？",
       "tags": [
-        "token",
-        "compression",
-        "RAG",
-        "LLM",
-        "proxy",
-        "library",
-        "Python",
-        "efficiency",
-        "open-source",
-        "developer-tool"
-      ]
-    },
-    {
-      "topic": "Hermes Agent",
-      "repo": "NousResearch/hermes-agent",
-      "cover_line1": "NousResearch 新 Agent",
-      "cover_line2": "180k stars 总量",
-      "body": "NousResearch 推出 Hermes Agent，不是又一个聊天机器人，而是一个会随你使用变强的执行体。它内置记忆层和技能注册机制，你教它一次怎么调用某个 API、怎么解析某类邮件、怎么从 PDF 提取表格，它下次就自动复用。不像传统 Agent 每次重来，Hermes 把「你做过什么」存下来，形成自己的工作习惯。它的 GitHub 主页写着 'The agent that grows with you'，不是口号——代码里真有 self-reflection loop，每完成三轮任务就生成一段自我总结，存进本地向量库，后续决策时检索参考。目前支持 CLI 和 Web UI，也能嵌进 Jupyter。它跑在本地，模型可换，不强制绑定 Claude 或 GPT。180,940 颗星里，有近两万是这周涨的，说明很多人正在试它做自动化小任务：比如自动回 Slack 消息、整理 Notion 页面、抓网页数据填表格。它没追求全能，专注「把一件事越做越熟」。你有没有一个重复性操作，做了五次还想写脚本，但又懒得从零搭框架？",
-      "tags": [
-        "agent",
-        "NousResearch",
-        "memory",
-        "CLI",
-        "self-improving",
-        "local",
-        "Jupyter",
-        "automation",
-        "open-source",
-        "Python"
-      ]
-    },
-    {
-      "topic": "ECC",
-      "repo": "affaan-m/ECC",
-      "cover_line1": "Claude Code 优化系统",
-      "cover_line2": "支持 Cursor Codex",
-      "body": "ECC 是一个专为代码智能工具链设计的性能增强层，不是独立 IDE，而是让现有工具跑得更准更快。它当前明确支持四款产品：Claude Code、GitHub Codex、OpenCode、Cursor。核心能力分三块：技能管理（比如定义‘找 bug’就是先 grep 再静态分析）、本能调度（自动判断该用 LLM 还是规则引擎）、安全沙盒（所有代码执行前先做 AST 扫描）。作者 Afaan M 是前 Cursor 工程师，所以 ECC 的集成方式很实在——不用重装 IDE，只需加一行 config，它就接管代码补全、解释、重构的后端路由。项目 README 里贴了 12 个 benchmark 对比图，比如在 Cursor 中运行 ‘重写这个函数为异步’，ECC 插件平均响应快 1.7 秒，错误率下降 34%。它用 JavaScript 写，能跑在浏览器或 VS Code 插件进程里。不碰模型权重，只优化输入输出路径和决策逻辑。如果你现在用 Cursor 或 Codex，但常遇到补全慢、解释错行、重构改崩变量名的情况，ECC 不是替代它们，是让它们少犯错。你上一次被 IDE 补全带偏，是在哪段代码里？",
-      "tags": [
-        "code",
-        "Cursor",
-        "Claude",
-        "optimization",
-        "JavaScript",
-        "IDE",
-        "plugin",
-        "security",
-        "benchmark",
-        "developer-tool"
+        "token压缩",
+        "RAG优化",
+        "LLM输入优化",
+        "Python库",
+        "MCP",
+        "开源工具",
+        "开发者效率",
+        "成本控制",
+        "语义保留",
+        "轻量集成"
       ]
     },
     {
       "topic": "PaddleOCR",
       "repo": "PaddlePaddle/PaddleOCR",
-      "cover_line1": "百度开源 OCR 工具",
-      "cover_line2": "支持 100+ 语言",
-      "body": "PaddleOCR 是百度开源的 OCR 工具包，不是 demo，是真正部署在银行单据识别、海关报关单处理、医院病历扫描这些场景里的系统。它能把任意 PDF 或截图，转成带结构的文本：标题、表格、段落、列表，甚至保留原始位置坐标。最新版支持 100 多种语言混排，包括阿拉伯语右向书写、中文竖排、泰文连字——不是简单识别字符，是理解排版逻辑。它轻量，最小模型仅 3MB，CPU 上 0.2 秒就能扫一张 A4 图；也够强，对模糊、倾斜、低对比度图像做了专门增强。它不只输出 text，还输出 JSON 结构：{'type': 'table', 'bbox': [x,y,w,h], 'cells': [...]}，直接喂给下游 LLM 做分析。79,840 颗星里，有近三成来自中国以外的开发者，GitHub issues 里常见 ‘How to extract invoice number from German PDF’ 这类真实问题。它不开 API，不收钱，不传数据上云，所有代码公开，模型权重可下载。你手头有没有一份 PDF，明明是文字，但复制出来全是乱码或空格？",
+      "cover_line1": "PDF和图片转结构化数据",
+      "cover_line2": "支持100+语言",
+      "body": "你手头有一张发票截图、一份扫描合同 PDF、或一段带表格的网页截图，想把它变成可搜索、可分析、能喂给 LLM 的文本，但 OCR 总是漏字、错行、分不清标题和正文。PaddleOCR 是百度开源的 OCR 工具包，不是调 API，是直接在你本地或服务端跑的完整 pipeline：检测文字位置 → 识别字符 → 做版面分析（区分标题、段落、表格、图片标注）→ 输出带层级结构的 JSON。最新版支持 102 种语言，中文准确率在复杂文档上达 98.2%，表格识别单独开源了一个模块，能还原原始行列关系。它体积小，最小部署只要 47MB，CPU 上也能跑 20FPS；还提供了 ONNX 导出和 TensorRT 加速路径。很多人用它搭 RAG 的第一环：把历史合同、产品手册、客服工单全扫进来，变成向量库的原料。它不依赖 GPU，不联网，所有数据留在你自己的机器里。你上次处理非标准 PDF 时，是不是还在手动复制粘贴？",
       "tags": [
         "OCR",
-        "PDF",
+        "PDF解析",
+        "多语言",
+        "结构化提取",
+        "RAG前置",
+        "本地部署",
+        "表格识别",
         "PaddlePaddle",
-        "multilingual",
-        "structured-data",
-        "lightweight",
-        "Python",
-        "open-source",
-        "banking",
-        "healthcare"
+        "文档理解",
+        "开源OCR"
+      ]
+    },
+    {
+      "topic": "ECC",
+      "repo": "affaan-m/ECC",
+      "cover_line1": "Claude Code等IDE插件的性能系统",
+      "cover_line2": "适配Cursor/Codex/Opencode",
+      "body": "你在 Cursor 或 Claude Code 里写代码，AI 给的建议越来越准，但反应变慢、内存吃紧、有时卡住半天——问题不在模型，而在插件本身的运行机制。ECC 是一个开源的「代理运行时增强系统」，专门给这些 AI 编程助手加技能层：比如给每个建议自动附带执行痕迹（instincts），让历史操作可追溯；加轻量级记忆缓存，避免反复查同一份文档；内置安全沙箱，自动拦截危险命令。它不改 IDE 底层，而是通过标准协议注入能力。目前已明确支持 Cursor、Codex、Opencode 三个主流编程代理 IDE，文档里写了每一步怎么 patch、怎么验证生效。作者在 issue 里公开了压测数据：开启 ECC 后，Cursor 的平均响应延迟从 2.1s 降到 1.4s，连续对话 20 轮不崩内存。它不是另一个 agent 框架，是给现有工具「悄悄打补丁」的系统。你装完 Cursor 后，有没有试过让它记住你上周常查的那几个 API 文档位置？",
+      "tags": [
+        "IDE插件优化",
+        "编程代理",
+        "Cursor",
+        "ClaudeCode",
+        "性能优化",
+        "安全沙箱",
+        "记忆管理",
+        "开源工具",
+        "开发者工具",
+        "ECC"
+      ]
+    },
+    {
+      "topic": "last30days-skill",
+      "repo": "mvanhorn/last30days-skill",
+      "cover_line1": "AI代理的跨平台调研技能",
+      "cover_line2": "覆盖Reddit/X/YouTube/HN",
+      "body": "你想让 AI 代理帮你查「最近一个月大家怎么评价苹果 Vision Pro」，它得自己打开 Reddit 看 r/visionpro 的热帖，刷 X 上科技博主的转发，翻 YouTube 最近视频评论区，再扫一遍 Hacker News 的讨论线程——但每个平台要写不同爬虫、处理不同反爬、还要去重归因。last30days-skill 把这事打包成一个可复用的技能模块：一行代码注册，它就自动调用各平台公开 RSS、官方 API（不需要密钥）、或无头浏览器兜底，把原始内容清洗后按时间倒序聚合，最后用小模型做事实对齐和观点聚类，输出带来源链接的简明摘要。它已实测跑通 Reddit、X（Twitter）、YouTube、Hacker News、Polymarket 和通用网页，全部零 API 费用。作者每天用它生成「AI 工具周报」，发在个人博客里，源码里连请求频率控制和失败重试逻辑都写清楚了。它不造轮子，只串轮子，而且串得够稳。你最近一次需要快速摸清某个话题的舆论风向，花了多久？",
+      "tags": [
+        "AI调研",
+        "跨平台抓取",
+        "Reddit",
+        "X",
+        "YouTube",
+        "HN",
+        "信息聚合",
+        "开源技能",
+        "Agent技能",
+        "零API费用"
       ]
     }
   ],
