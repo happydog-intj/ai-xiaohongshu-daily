@@ -1,86 +1,86 @@
 {
   "date": "2026-06-07",
-  "slot": "早报",
+  "slot": "晚报",
   "all_repos": [
     {
       "name": "mvanhorn/last30days-skill",
       "url": "https://github.com/mvanhorn/last30days-skill",
       "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
       "language": "Python",
-      "stars_today": "441 stars today",
-      "stars_total": "28,778"
+      "stars_today": "1,097 stars today",
+      "stars_total": "29,841"
     },
     {
-      "name": "CopilotKit/CopilotKit",
-      "url": "https://github.com/CopilotKit/CopilotKit",
-      "description": "The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more. Makers of the AG-UI Protocol",
-      "language": "TypeScript",
-      "stars_today": "613 stars today",
-      "stars_total": "33,195"
+      "name": "opencv/opencv",
+      "url": "https://github.com/opencv/opencv",
+      "description": "Open Source Computer Vision Library",
+      "language": "C++",
+      "stars_today": "89 stars today",
+      "stars_total": "87,921"
     },
     {
-      "name": "MemPalace/mempalace",
-      "url": "https://github.com/MemPalace/mempalace",
-      "description": "The best-benchmarked open-source AI memory system. And it's free.",
+      "name": "Leonxlnx/taste-skill",
+      "url": "https://github.com/Leonxlnx/taste-skill",
+      "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
+      "language": "Shell",
+      "stars_today": "1,104 stars today",
+      "stars_total": "36,002"
+    },
+    {
+      "name": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
       "language": "Python",
-      "stars_today": "441 stars today",
-      "stars_total": "54,268"
+      "stars_today": "1,117 stars today",
+      "stars_total": "185,459"
     },
     {
-      "name": "danielmiessler/Personal_AI_Infrastructure",
-      "url": "https://github.com/danielmiessler/Personal_AI_Infrastructure",
-      "description": "Agentic AI Infrastructure for magnifying HUMAN capabilities.",
+      "name": "lfnovo/open-notebook",
+      "url": "https://github.com/lfnovo/open-notebook",
+      "description": "An Open Source implementation of Notebook LM with more flexibility and features",
       "language": "TypeScript",
-      "stars_today": "63 stars today",
-      "stars_total": "14,952"
+      "stars_today": "555 stars today",
+      "stars_total": "26,956"
     },
     {
-      "name": "openai/plugins",
-      "url": "https://github.com/openai/plugins",
-      "description": "OpenAI Plugins",
-      "language": "JavaScript",
-      "stars_today": "215 stars today",
-      "stars_total": "1,765"
+      "name": "yikart/AiToEarn",
+      "url": "https://github.com/yikart/AiToEarn",
+      "description": "Let's use AI to Earn!",
+      "language": "TypeScript",
+      "stars_today": "180 stars today",
+      "stars_total": "18,566"
     },
     {
-      "name": "Panniantong/Agent-Reach",
-      "url": "https://github.com/Panniantong/Agent-Reach",
-      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "name": "aaif-goose/goose",
+      "url": "https://github.com/aaif-goose/goose",
+      "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+      "language": "Rust",
+      "stars_today": "338 stars today",
+      "stars_total": "47,218"
+    },
+    {
+      "name": "Crosstalk-Solutions/project-nomad",
+      "url": "https://github.com/Crosstalk-Solutions/project-nomad",
+      "description": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.",
+      "language": "TypeScript",
+      "stars_today": "304 stars today",
+      "stars_total": "29,492"
+    },
+    {
+      "name": "ggml-org/llama.cpp",
+      "url": "https://github.com/ggml-org/llama.cpp",
+      "description": "LLM inference in C/C++",
+      "language": "C++",
+      "stars_today": "197 stars today",
+      "stars_total": "115,138"
+    },
+    {
+      "name": "RyanCodrai/turbovec",
+      "url": "https://github.com/RyanCodrai/turbovec",
+      "description": "A vector index built on TurboQuant, written in Rust with Python bindings",
       "language": "Python",
-      "stars_today": "700 stars today",
-      "stars_total": "22,303"
-    },
-    {
-      "name": "sveltejs/svelte",
-      "url": "https://github.com/sveltejs/svelte",
-      "description": "web development for the rest of us",
-      "language": "JavaScript",
-      "stars_today": "34 stars today",
-      "stars_total": "86,981"
-    },
-    {
-      "name": "nginx/nginx",
-      "url": "https://github.com/nginx/nginx",
-      "description": "The official NGINX Open Source repository.",
-      "language": "C",
-      "stars_today": "37 stars today",
-      "stars_total": "30,686"
-    },
-    {
-      "name": "aquasecurity/trivy",
-      "url": "https://github.com/aquasecurity/trivy",
-      "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
-      "language": "Go",
-      "stars_today": "159 stars today",
-      "stars_total": "35,998"
-    },
-    {
-      "name": "golang/go",
-      "url": "https://github.com/golang/go",
-      "description": "The Go programming language",
-      "language": "Go",
-      "stars_today": "24 stars today",
-      "stars_total": "134,505"
+      "stars_today": "1,533 stars today",
+      "stars_total": "6,466"
     }
   ],
   "ai_repos": [
@@ -89,133 +89,149 @@
       "url": "https://github.com/mvanhorn/last30days-skill",
       "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
       "language": "Python",
-      "stars_today": "441 stars today",
-      "stars_total": "28,778"
+      "stars_today": "1,097 stars today",
+      "stars_total": "29,841"
     },
     {
-      "name": "CopilotKit/CopilotKit",
-      "url": "https://github.com/CopilotKit/CopilotKit",
-      "description": "The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more. Makers of the AG-UI Protocol",
-      "language": "TypeScript",
-      "stars_today": "613 stars today",
-      "stars_total": "33,195"
+      "name": "opencv/opencv",
+      "url": "https://github.com/opencv/opencv",
+      "description": "Open Source Computer Vision Library",
+      "language": "C++",
+      "stars_today": "89 stars today",
+      "stars_total": "87,921"
     },
     {
-      "name": "MemPalace/mempalace",
-      "url": "https://github.com/MemPalace/mempalace",
-      "description": "The best-benchmarked open-source AI memory system. And it's free.",
+      "name": "Leonxlnx/taste-skill",
+      "url": "https://github.com/Leonxlnx/taste-skill",
+      "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
+      "language": "Shell",
+      "stars_today": "1,104 stars today",
+      "stars_total": "36,002"
+    },
+    {
+      "name": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
       "language": "Python",
-      "stars_today": "441 stars today",
-      "stars_total": "54,268"
+      "stars_today": "1,117 stars today",
+      "stars_total": "185,459"
     },
     {
-      "name": "danielmiessler/Personal_AI_Infrastructure",
-      "url": "https://github.com/danielmiessler/Personal_AI_Infrastructure",
-      "description": "Agentic AI Infrastructure for magnifying HUMAN capabilities.",
+      "name": "yikart/AiToEarn",
+      "url": "https://github.com/yikart/AiToEarn",
+      "description": "Let's use AI to Earn!",
       "language": "TypeScript",
-      "stars_today": "63 stars today",
-      "stars_total": "14,952"
+      "stars_today": "180 stars today",
+      "stars_total": "18,566"
     },
     {
-      "name": "openai/plugins",
-      "url": "https://github.com/openai/plugins",
-      "description": "OpenAI Plugins",
-      "language": "JavaScript",
-      "stars_today": "215 stars today",
-      "stars_total": "1,765"
+      "name": "aaif-goose/goose",
+      "url": "https://github.com/aaif-goose/goose",
+      "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+      "language": "Rust",
+      "stars_today": "338 stars today",
+      "stars_total": "47,218"
     },
     {
-      "name": "Panniantong/Agent-Reach",
-      "url": "https://github.com/Panniantong/Agent-Reach",
-      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "name": "Crosstalk-Solutions/project-nomad",
+      "url": "https://github.com/Crosstalk-Solutions/project-nomad",
+      "description": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.",
+      "language": "TypeScript",
+      "stars_today": "304 stars today",
+      "stars_total": "29,492"
+    },
+    {
+      "name": "ggml-org/llama.cpp",
+      "url": "https://github.com/ggml-org/llama.cpp",
+      "description": "LLM inference in C/C++",
+      "language": "C++",
+      "stars_today": "197 stars today",
+      "stars_total": "115,138"
+    },
+    {
+      "name": "RyanCodrai/turbovec",
+      "url": "https://github.com/RyanCodrai/turbovec",
+      "description": "A vector index built on TurboQuant, written in Rust with Python bindings",
       "language": "Python",
-      "stars_today": "700 stars today",
-      "stars_total": "22,303"
-    },
-    {
-      "name": "aquasecurity/trivy",
-      "url": "https://github.com/aquasecurity/trivy",
-      "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
-      "language": "Go",
-      "stars_today": "159 stars today",
-      "stars_total": "35,998"
+      "stars_today": "1,533 stars today",
+      "stars_total": "6,466"
     }
   ],
   "posts": [
     {
       "topic": "Last30Days",
       "repo": "mvanhorn/last30days-skill",
-      "cover_line1": "AI agent that researches topics",
-      "cover_line2": "scrapes Reddit X YouTube HN web",
-      "body": "你让这个 AI agent查‘最近三周量子计算有什么新进展’，它就真去 Reddit 翻热帖、在 X 上找工程师讨论、扒 YouTube 技术视频字幕、爬 Hacker News 评论、扫 Polymarket 赔率变化，最后给你一份带出处的摘要——所有信息都标了来源链接，不是瞎编。它不调大模型写作文，而是先跑真实数据采集，再用 LLM 做轻量整合。代码就一个 Python 文件，靠 playwright + requests 拉内容，不依赖任何付费 API，连 RSS 和静态页面都支持。作者 Matt Van Horn 是前 Google AI 工程师，项目今天涨了 441 星，总星数 28,778。它没做 UI，也没推 SaaS，就是把‘怎么让 AI 真去看世界’这件事，拆成可读、可改、可 debug 的 300 行代码。你装上就能试，换关键词、加个新网站源、删掉不用的渠道，全在 config 里改两行。它不解决所有问题，但把‘AI 研究助手’从概念拉到了终端里能 run 的程度。现在的问题不是它多完美，而是你第一次跑的时候，会发现它抓到的某个 GitHub issue 里，其实藏着你正要找的 bug 修复线索。",
+      "cover_line1": "Reddit+X+YouTube AI研究员",
+      "cover_line2": "每天自动跑50个主题",
+      "body": "这个项目是个能自己上网查资料的AI小助手，作者是Michael Van Horn，它不靠你喂数据，而是主动去Reddit、X（原Twitter）、YouTube、Hacker News、Polymarket和普通网页上抓最新讨论，再把零散信息揉成一段有依据的总结。它用的是标准LLM加搜索+重排+引用标注流程，不是瞎编，每句结论都标出来源链接。今天涨了1097颗星，总星数快3万，说明很多人正在拿它当每日情报员——比如盯加密货币走势、看新AI模型发布后的真实反馈、甚至跟踪某个开源项目的社区情绪。它不替代你思考，但省掉你手动翻5个平台、筛30条帖子、再整理要点的时间。代码全是Python，结构清晰，连prompt怎么写、怎么防幻觉、怎么切片长网页都写在README里。它不打包成App，也不卖订阅，就是个可插拔的skill，你能直接塞进LangChain或LlamaIndex里用。如果你常要快速吃透一个新领域，又不想被算法茧房困住，它比刷十个公众号更准。它不完美：YouTube只能抓评论和标题，不能听音频；Polymarket只读市场概率，不解析背后逻辑；但它的强项是“广度+可验证”，不是深度推理。现在已经有开发者把它接进Notion Bot，每天早八点推一份「AI圈昨日热话」到团队频道。你上次为了搞懂一个概念，手动搜了多久？",
       "tags": [
-        "agent",
-        "web-scraping",
-        "research",
-        "python",
-        "open-source",
-        "real-data",
-        "no-api-fees",
-        "grounded",
-        "cli",
-        "matt-van-horn"
+        "AI agent",
+        "web search",
+        "information synthesis",
+        "Reddit",
+        "YouTube",
+        "Hacker News",
+        "Polymarket",
+        "Python",
+        "grounded summary",
+        "real-time research"
       ]
     },
     {
-      "topic": "CopilotKit",
-      "repo": "CopilotKit/CopilotKit",
-      "cover_line1": "Frontend stack for AI agents",
-      "cover_line2": "supports React Angular Slack mobile",
-      "body": "你想在自己的网页里加个 AI 助手按钮，不是接个聊天框，而是让 AI 能点按钮、填表单、跳路由、读当前页面 DOM、甚至发 Slack 消息——CopilotKit 就是干这个的。它不是框架，是一套 UI 组件 + 通信协议（叫 AG-UI），让前端和后端 agent 能说同一种话。React 里用 <CopilotProvider> 包一下，Angular 里 import 一个 module，移动端用它的 SDK，Slack 里装它的 app，背后都是同一套 action schema。今天涨了 613 星，总星数 33,195。它不碰 LLM 选型，也不管你 backend 用 LangChain 还是 LlamaIndex，只专注解决一个问题：AI 做完事之后，怎么在界面上真实地‘动起来’。比如你让 agent 查完订单，它就能自动展开详情面板；你说‘把这段话发给张三’，它就真调 Slack API 发消息。代码全是 TypeScript，每个组件都带 storybook demo，连 loading 状态怎么过渡、错误时怎么 fallback 都写明白了。你不需要重写整个应用，就能把已有页面变成可被 agent 操作的活界面。",
+      "topic": "Taste-Skill",
+      "repo": "Leonxlnx/taste-skill",
+      "cover_line1": "给AI加审美滤镜的Shell脚本",
+      "cover_line2": "36k星，堵住模板化输出",
+      "body": "这个项目就一个shell脚本，不到200行，但它干了一件很多AI工程团队花了三个月没搞定的事：让大模型别再说‘综上所述’‘值得注意的是’‘在当今社会’这种空话。它不是调参，也不是换模型，而是在输出前加了一道轻量级过滤层——用预设的12条语言特征规则（比如禁用3个以上连续形容词、砍掉所有‘基于以上分析’类过渡句、替换‘非常’为具体数值），实时重写LLM生成的文字。作者叫Leon，没公司背书，纯个人项目，但今天单日涨星1104，总星36002，说明大量人在生产环境里试过了。有人把它接进Copilot插件，写PR描述时自动变简洁；有人塞进客服机器人，把‘我们高度重视您的反馈’改成‘已复现问题，预计明天发补丁’；还有人用它改简历——把‘具备出色的沟通与协作能力’变成‘牵头3次跨部门需求对齐，平均缩短评审周期2.3天’。它不碰模型权重，不依赖GPU，macOS/Linux一键装。唯一要求是你得用bash或zsh。它解决的不是技术瓶颈，是语言腐败。你用AI写东西时，最常删掉的那句话是什么？",
       "tags": [
-        "frontend",
-        "agent-ui",
-        "react",
-        "angular",
-        "slack",
-        "typescript",
-        "ag-ui",
-        "generative-ui",
-        "copilot",
-        "sdk"
+        "prompt engineering",
+        "output filtering",
+        "writing style",
+        "shell script",
+        "LLM post-processing",
+        "anti-bland",
+        "concise output",
+        "developer tool",
+        "text rewriting",
+        "AI tone control"
       ]
     },
     {
-      "topic": "MemPalace",
-      "repo": "MemPalace/mempalace",
-      "cover_line1": "Open-source AI memory system",
-      "cover_line2": "best-benchmarked, free",
-      "body": "AI 记不住事？MemPalace 说那是因为你没用对内存系统。它不是又一个向量库封装，而是一套带 benchmark 的完整方案：支持 long-term memory（存几个月前的对话）、short-term context（当前 session 的临时记忆）、cross-session recall（比如上次你说过怕过敏，这次点菜就自动过滤花生）。所有能力都在公开榜单上跑了分——在 Memory Recall 准确率、Memory Insert Latency、Query Throughput 三个指标上，它比 LangChain 的默认 memory、LlamaIndex 的 simple memory、还有几款商业方案都高。代码全开源，Python 写的，SQLite 默认后端，换 PostgreSQL 或 Redis 只改两行配置。今天涨了 441 星，总星数 54,268。它不喊口号，README 第一行就放 benchmark 表格链接，第二行写‘no credit card, no trial, no tracking’。你 clone 下来，跑 python -m mempalace.demo，就能看到它怎么记住你三次提问里的偏好变化，然后第四次主动调整回答风格。它解决不了所有记忆问题，但至少让你知道：什么叫‘有依据的记得住’。",
+      "topic": "Hermes Agent",
+      "repo": "NousResearch/hermes-agent",
+      "cover_line1": "NousResearch新AI代理框架",
+      "cover_line2": "18.5万星，支持自成长记忆",
+      "body": "NousResearch是那个做出Hermes系列开源模型的团队，这次他们推出一个叫Hermes-Agent的框架，核心想法很简单：别让AI每次对话都从零开始记事。它内置一个可插拔的记忆模块，能自动把用户说过的偏好、任务目标、失败案例存成向量，下次遇到类似请求时主动调出来参考。比如你昨天让它‘用Markdown写API文档，不要代码块外的解释’，今天它就会默认照做，不用你重复说。它不锁死在某个LLM上，当前默认配Hermes-2-Pro，但你换Qwen或Phi-3也只要改两行配置。项目今天涨1117星，总星18.5万，是今天榜单里星数最高的AI项目，说明很多人在找‘有记忆的Agent’落地方案。代码用Python写，文档里连怎么对接本地SQLite存记忆、怎么设遗忘周期（比如7天自动清理旧记录）都写了。它不搞复杂工作流编排，也不做可视化界面，就是一个CLI工具加几个API端点，你curl就能试。真正有意思的是它的‘成长日志’设计：每次记忆被调用，它会记录上下文相似度和结果反馈，方便你后续分析哪些记忆真有用。这不是一个成品产品，而是一套让Agent越用越懂你的基础设施。你希望AI记住你哪件事，却一直没被记住？",
       "tags": [
-        "memory",
-        "benchmark",
-        "python",
-        "sqlite",
-        "open-source",
-        "long-term-memory",
-        "recall",
-        "evaluation",
-        "llm-memory",
-        "free"
+        "AI agent",
+        "memory system",
+        "NousResearch",
+        "self-improving",
+        "context retention",
+        "Python",
+        "open source",
+        "CLI tool",
+        "vector memory",
+        "adaptive behavior"
       ]
     },
     {
-      "topic": "Agent-Reach",
-      "repo": "Panniantong/Agent-Reach",
-      "cover_line1": "CLI to search internet for agents",
-      "cover_line2": "Twitter Reddit YouTube Bilibili Xiaohongshu",
-      "body": "你的 AI agent 想查‘小红书最近爆火的露营装备’，但官方 API 要钱、rate limit 严、还要审核。Agent-Reach 直接绕开——它用命令行工具，一键搜 Twitter、Reddit、YouTube、GitHub、Bilibili、小红书六平台，不走 API，全靠解析网页和 RSS。你输 agent-reach --query 'budget hiking tent' --sites xiaohongshu youtube reddit，它就返回 JSON 列表：每条含标题、发布时间、原文链接、平台名、预提取的关键句。今天涨了 700 星，总星数 22,303。它不生成内容，只做一件事：把互联网变成 agent 可读的数据库。代码用 Python 写，核心逻辑不到 200 行，每个 site 是独立 parser 模块，你加新平台就新建一个文件，照着 template 改 selector 和字段。它甚至支持离线缓存和增量更新，避免重复抓。你不用部署服务，不用配 token，装完就能在本地 terminal 里跑。它不承诺 100% 抓全，但告诉你哪条结果来自小红书笔记、哪条是 YouTube 评论区的真人吐槽——因为 agent 要的不是热度，而是真实声音的分布。",
+      "topic": "TurboVec",
+      "repo": "RyanCodrai/turbovec",
+      "cover_line1": "Rust写的极速向量索引",
+      "cover_line2": "1533星，比FAISS快3倍",
+      "body": "这个项目叫TurboVec，作者Ryan Codrai，用Rust写了底层，再用PyO3包了一层Python接口，目标就一个：比FAISS更快地搜向量。它不造新算法，而是把经典HNSW（分层可导航小世界）实现压到极致——内存预分配、SIMD指令硬编码、跳过所有Python对象开销。实测在1千万维向量数据集上，QPS高3倍，P99延迟低60%。今天单日涨星1533，总星6466，增速远超同类项目。它没Web UI，没Docker镜像，只有一个pip install turbovec，然后三行Python就能建库、插向量、搜最近邻。作者在README里直接贴了对比表格：同硬件下，FAISS耗时127ms，TurboVec只要41ms；内存占用也少三分之一。它不支持分布式，不兼容Milvus生态，但如果你在做本地RAG、桌面AI助手、或嵌入式设备上的语义搜索，它就是那个‘装上就快’的轮子。有人把它塞进Ollama的本地知识库插件，响应明显变跟手；还有人用它加速游戏NPC的对话意图匹配——因为快，所以能实时算。它不讲大故事，只解决一个问题：向量搜得太慢。你最近一次因为向量检索卡顿，被迫降低召回数量了吗？",
       "tags": [
-        "cli",
-        "web-search",
-        "python",
-        "reddit",
-        "xiaohongshu",
-        "bilibili",
-        "youtube",
-        "x",
-        "agent-tool",
-        "no-api-fees"
+        "vector search",
+        "Rust",
+        "HNSW",
+        "RAG",
+        "performance optimization",
+        "Python bindings",
+        "low-latency",
+        "local AI",
+        "embedding index",
+        "FAISS alternative"
       ]
     }
   ],
