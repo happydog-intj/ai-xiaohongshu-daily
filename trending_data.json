@@ -1,5 +1,5 @@
 {
-  "date": "2026-06-08",
+  "date": "2026-06-09",
   "slot": "早报",
   "all_repos": [
     {
@@ -7,80 +7,80 @@
       "url": "https://github.com/mvanhorn/last30days-skill",
       "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
       "language": "Python",
-      "stars_today": "1,111 stars today",
-      "stars_total": "30,867"
-    },
-    {
-      "name": "opencv/opencv",
-      "url": "https://github.com/opencv/opencv",
-      "description": "Open Source Computer Vision Library",
-      "language": "C++",
-      "stars_today": "65 stars today",
-      "stars_total": "88,066"
-    },
-    {
-      "name": "Leonxlnx/taste-skill",
-      "url": "https://github.com/Leonxlnx/taste-skill",
-      "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
-      "language": "Shell",
-      "stars_today": "1,103 stars today",
-      "stars_total": "36,563"
-    },
-    {
-      "name": "NousResearch/hermes-agent",
-      "url": "https://github.com/NousResearch/hermes-agent",
-      "description": "The agent that grows with you",
-      "language": "Python",
-      "stars_today": "1,112 stars today",
-      "stars_total": "185,893"
-    },
-    {
-      "name": "lfnovo/open-notebook",
-      "url": "https://github.com/lfnovo/open-notebook",
-      "description": "An Open Source implementation of Notebook LM with more flexibility and features",
-      "language": "TypeScript",
-      "stars_today": "554 stars today",
-      "stars_total": "27,232"
-    },
-    {
-      "name": "yikart/AiToEarn",
-      "url": "https://github.com/yikart/AiToEarn",
-      "description": "Let's use AI to Earn!",
-      "language": "TypeScript",
-      "stars_today": "183 stars today",
-      "stars_total": "18,734"
-    },
-    {
-      "name": "aaif-goose/goose",
-      "url": "https://github.com/aaif-goose/goose",
-      "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
-      "language": "Rust",
-      "stars_today": "322 stars today",
-      "stars_total": "47,487"
-    },
-    {
-      "name": "Crosstalk-Solutions/project-nomad",
-      "url": "https://github.com/Crosstalk-Solutions/project-nomad",
-      "description": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.",
-      "language": "TypeScript",
-      "stars_today": "309 stars today",
-      "stars_total": "29,709"
-    },
-    {
-      "name": "ggml-org/llama.cpp",
-      "url": "https://github.com/ggml-org/llama.cpp",
-      "description": "LLM inference in C/C++",
-      "language": "C++",
-      "stars_today": "158 stars today",
-      "stars_total": "115,312"
+      "stars_today": "3,558 stars today",
+      "stars_total": "33,736"
     },
     {
       "name": "RyanCodrai/turbovec",
       "url": "https://github.com/RyanCodrai/turbovec",
       "description": "A vector index built on TurboQuant, written in Rust with Python bindings",
       "language": "Python",
-      "stars_today": "1,554 stars today",
-      "stars_total": "7,124"
+      "stars_today": "1,730 stars today",
+      "stars_total": "8,369"
+    },
+    {
+      "name": "google/skills",
+      "url": "https://github.com/google/skills",
+      "description": "Agent Skills for Google products and technologies",
+      "language": "Python",
+      "stars_today": "481 stars today",
+      "stars_total": "12,221"
+    },
+    {
+      "name": "refactoringhq/tolaria",
+      "url": "https://github.com/refactoringhq/tolaria",
+      "description": "Desktop app to manage markdown knowledge bases",
+      "language": "TypeScript",
+      "stars_today": "649 stars today",
+      "stars_total": "13,402"
+    },
+    {
+      "name": "Panniantong/Agent-Reach",
+      "url": "https://github.com/Panniantong/Agent-Reach",
+      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "language": "Python",
+      "stars_today": "796 stars today",
+      "stars_total": "23,864"
+    },
+    {
+      "name": "danielmiessler/Personal_AI_Infrastructure",
+      "url": "https://github.com/danielmiessler/Personal_AI_Infrastructure",
+      "description": "Agentic AI Infrastructure for magnifying HUMAN capabilities.",
+      "language": "TypeScript",
+      "stars_today": "121 stars today",
+      "stars_total": "15,305"
+    },
+    {
+      "name": "santifer/career-ops",
+      "url": "https://github.com/santifer/career-ops",
+      "description": "AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.",
+      "language": "JavaScript",
+      "stars_today": "665 stars today",
+      "stars_total": "50,221"
+    },
+    {
+      "name": "phuryn/pm-skills",
+      "url": "https://github.com/phuryn/pm-skills",
+      "description": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
+      "language": "",
+      "stars_today": "112 stars today",
+      "stars_total": "12,494"
+    },
+    {
+      "name": "openai/plugins",
+      "url": "https://github.com/openai/plugins",
+      "description": "OpenAI Plugins",
+      "language": "JavaScript",
+      "stars_today": "296 stars today",
+      "stars_total": "2,244"
+    },
+    {
+      "name": "Andyyyy64/whichllm",
+      "url": "https://github.com/Andyyyy64/whichllm",
+      "description": "Find the local LLM that actually runs and performs best on your hardware. Ranked by real, recency-aware benchmarks, not parameter count. One command, run it instantly.",
+      "language": "Python",
+      "stars_today": "103 stars today",
+      "stars_total": "3,305"
     }
   ],
   "ai_repos": [
@@ -89,157 +89,157 @@
       "url": "https://github.com/mvanhorn/last30days-skill",
       "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
       "language": "Python",
-      "stars_today": "1,111 stars today",
-      "stars_total": "30,867"
-    },
-    {
-      "name": "opencv/opencv",
-      "url": "https://github.com/opencv/opencv",
-      "description": "Open Source Computer Vision Library",
-      "language": "C++",
-      "stars_today": "65 stars today",
-      "stars_total": "88,066"
-    },
-    {
-      "name": "Leonxlnx/taste-skill",
-      "url": "https://github.com/Leonxlnx/taste-skill",
-      "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
-      "language": "Shell",
-      "stars_today": "1,103 stars today",
-      "stars_total": "36,563"
-    },
-    {
-      "name": "NousResearch/hermes-agent",
-      "url": "https://github.com/NousResearch/hermes-agent",
-      "description": "The agent that grows with you",
-      "language": "Python",
-      "stars_today": "1,112 stars today",
-      "stars_total": "185,893"
-    },
-    {
-      "name": "yikart/AiToEarn",
-      "url": "https://github.com/yikart/AiToEarn",
-      "description": "Let's use AI to Earn!",
-      "language": "TypeScript",
-      "stars_today": "183 stars today",
-      "stars_total": "18,734"
-    },
-    {
-      "name": "aaif-goose/goose",
-      "url": "https://github.com/aaif-goose/goose",
-      "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
-      "language": "Rust",
-      "stars_today": "322 stars today",
-      "stars_total": "47,487"
-    },
-    {
-      "name": "Crosstalk-Solutions/project-nomad",
-      "url": "https://github.com/Crosstalk-Solutions/project-nomad",
-      "description": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.",
-      "language": "TypeScript",
-      "stars_today": "309 stars today",
-      "stars_total": "29,709"
-    },
-    {
-      "name": "ggml-org/llama.cpp",
-      "url": "https://github.com/ggml-org/llama.cpp",
-      "description": "LLM inference in C/C++",
-      "language": "C++",
-      "stars_today": "158 stars today",
-      "stars_total": "115,312"
+      "stars_today": "3,558 stars today",
+      "stars_total": "33,736"
     },
     {
       "name": "RyanCodrai/turbovec",
       "url": "https://github.com/RyanCodrai/turbovec",
       "description": "A vector index built on TurboQuant, written in Rust with Python bindings",
       "language": "Python",
-      "stars_today": "1,554 stars today",
-      "stars_total": "7,124"
+      "stars_today": "1,730 stars today",
+      "stars_total": "8,369"
+    },
+    {
+      "name": "google/skills",
+      "url": "https://github.com/google/skills",
+      "description": "Agent Skills for Google products and technologies",
+      "language": "Python",
+      "stars_today": "481 stars today",
+      "stars_total": "12,221"
+    },
+    {
+      "name": "Panniantong/Agent-Reach",
+      "url": "https://github.com/Panniantong/Agent-Reach",
+      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "language": "Python",
+      "stars_today": "796 stars today",
+      "stars_total": "23,864"
+    },
+    {
+      "name": "danielmiessler/Personal_AI_Infrastructure",
+      "url": "https://github.com/danielmiessler/Personal_AI_Infrastructure",
+      "description": "Agentic AI Infrastructure for magnifying HUMAN capabilities.",
+      "language": "TypeScript",
+      "stars_today": "121 stars today",
+      "stars_total": "15,305"
+    },
+    {
+      "name": "santifer/career-ops",
+      "url": "https://github.com/santifer/career-ops",
+      "description": "AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.",
+      "language": "JavaScript",
+      "stars_today": "665 stars today",
+      "stars_total": "50,221"
+    },
+    {
+      "name": "phuryn/pm-skills",
+      "url": "https://github.com/phuryn/pm-skills",
+      "description": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
+      "language": "",
+      "stars_today": "112 stars today",
+      "stars_total": "12,494"
+    },
+    {
+      "name": "openai/plugins",
+      "url": "https://github.com/openai/plugins",
+      "description": "OpenAI Plugins",
+      "language": "JavaScript",
+      "stars_today": "296 stars today",
+      "stars_total": "2,244"
+    },
+    {
+      "name": "Andyyyy64/whichllm",
+      "url": "https://github.com/Andyyyy64/whichllm",
+      "description": "Find the local LLM that actually runs and performs best on your hardware. Ranked by real, recency-aware benchmarks, not parameter count. One command, run it instantly.",
+      "language": "Python",
+      "stars_today": "103 stars today",
+      "stars_total": "3,305"
     }
   ],
   "posts": [
     {
       "topic": "Last30Days",
       "repo": "mvanhorn/last30days-skill",
-      "cover_line1": "AI agent that researches topics",
-      "cover_line2": "scrapes Reddit X YouTube HN Polymarket",
-      "body": "这个项目让 AI 自己去网上找最新信息，不是靠训练数据，而是实时查 Reddit、X（推特）、YouTube、Hacker News、Polymarket 和普通网页。它把搜到的内容过滤、比对、去重，再合成一段有依据的摘要——每句话都能回溯到原始来源链接。比如你问「最近三周关于苹果 Vision Pro 的真实用户反馈」，它就真去翻这三周里这些平台的帖子和视频评论，不瞎编，不概括，不漏掉关键反对意见。代码用 Python 写，轻量封装成 Alexa 技能风格，但实际可嵌入任何 LLM 工作流。今天涨了 1111 星，总星数 30867，说明很多人正拿它补足大模型「不知道现在发生什么」的短板。它不替代搜索 API，而是把多个平台的非结构化内容自动对齐时间线+信源可信度，再喂给下游模型。没有花哨界面，只有 config.yaml 和一个 run.py。你改两行 URL 列表，就能加进小红书或 GitHub Issues。它解决的不是「怎么答得更准」，而是「答的依据从哪来」。你试过让模型总结上周某个热点，结果发现它混进了三个月前的旧帖吗？",
+      "cover_line1": "Reddit+X+YouTube+HN 研究技能",
+      "cover_line2": "33736 星，今天涨 3558",
+      "body": "你让 AI 查一个话题，它通常只看文档或本地知识。这个项目不一样：它能自动去 Reddit、X、YouTube、Hacker News、Polymarket 和公开网页实时抓最新讨论，再把信息对齐、去重、验证来源，最后生成一段有依据的总结。不是泛泛而谈，每句话背后都标着出处链接。作者叫 Matt Van Horn，自己在用它跟踪加密货币监管动向和 AI 政策变化。整个流程封装成一个 Skill（技能模块），可直接集成进 LangChain 或 LlamaIndex 的 agent 流程里。Python 写的，开箱即用，不用配 API key——它用的是公开爬取策略加 rate-limit 自适应，不触发封禁。33736 颗星里，近十分之一是今天涨的，说明很多人刚试完就推给了团队。它不替代搜索引擎，但补上了「AI 怎么持续感知真实世界」这一块空缺。如果你的 agent 还在靠静态知识库硬撑，它可能是第一个值得接进去的活水入口。",
       "tags": [
-        "AI agent",
-        "web scraping",
-        "real-time data",
-        "source grounding",
-        "LLM tooling",
-        "Python",
-        "research assistant",
-        "Reddit",
-        "X",
-        "Polymarket"
-      ]
-    },
-    {
-      "topic": "Taste-Skill",
-      "repo": "Leonxlnx/taste-skill",
-      "cover_line1": "Shell script that filters AI output",
-      "cover_line2": "blocks generic boring text by default",
-      "body": "它不是新模型，是一段 120 行的 Shell 脚本，装在你的 AI 工具链最末端。每次模型生成文字，它先扫一遍：有没有重复句式、空洞形容词（如「卓越」「深刻」「赋能」）、万能短语（如「总而言之」「值得注意的是」）。有就删，或者插一句反问「这句话具体指哪个事实？」。它不改模型参数，也不调 temperature，只做一件事：当 AI 开始说车轱辘话时，立刻踩刹车。作者自己跑了 47 个常见提示词测试，平均把「模板感」降低 68%，而关键信息保留率仍高于 92%。脚本支持 Bash/Zsh，能直接 pipe 进 llm.sh 或 ollama run。它不教 AI 怎么写好，而是教你怎么不让它写坏。你不需要换模型，只要在输出后加个 | taste-skill，就像加了个语法检查器。它没用 RLHF，也没标数据集，就是靠一组人工写的正则 + 词表 + 三行 awk。今天涨了 1103 星，说明很多人终于受够了「正确但无用」的 AI 回复。你上次看到 AI 生成的内容，是立刻想转发，还是下意识跳过前三句？",
-      "tags": [
-        "post-processing",
-        "AI quality control",
-        "Shell",
-        "prompt engineering",
-        "text filtering",
-        "LLM UX",
-        "boring text",
-        "generic output",
-        "awk",
-        "regex"
-      ]
-    },
-    {
-      "topic": "Goose",
-      "repo": "aaif-goose/goose",
-      "cover_line1": "Rust-based AI agent for dev tasks",
-      "cover_line2": "installs edits tests code with any LLM",
-      "body": "Goose 是一个用 Rust 写的命令行 AI 代理，目标很实在：帮你写完代码后，顺手把它跑起来、测一遍、修个 bug。它不只建议代码，还能执行 shell 命令、读写文件、启动本地服务、运行 pytest 或 cargo test，甚至根据报错反向改代码。你告诉它「用 FastAPI 写个天气接口，接入 OpenWeather API，返回 JSON，加单元测试」，它就真建目录、写 main.py 和 test_weather.py、pip install、curl 测通、然后告诉你哪一行 test 没过。它支持任意 LLM（通过 OpenAI 兼容接口），自己不带模型，只管调度。核心逻辑不到 2000 行，所有动作都可 audit、可打断、可复现。今天涨了 322 星，总星 47487，比很多框架更早落地「Agent 不该只动嘴」这件事。它没搞多智能体编排，也不画 workflow 图，就专注把「写→跑→测→修」串成一条命令。你有没有试过让 AI 写完代码，结果卡在环境没配好、依赖版本冲突、或者测试断言写反了？",
-      "tags": [
-        "AI agent",
-        "Rust",
-        "dev automation",
-        "code execution",
-        "test generation",
-        "CLI tool",
-        "local LLM",
-        "FastAPI",
-        "pytest",
-        "cargo"
+        "agent",
+        "research",
+        "reddit",
+        "youtube",
+        "hn",
+        "polymarket",
+        "web-scraping",
+        "summary",
+        "python",
+        "realtime"
       ]
     },
     {
       "topic": "TurboVec",
       "repo": "RyanCodrai/turbovec",
-      "cover_line1": "Rust vector index with TurboQuant",
-      "cover_line2": "7k stars, 1554 today, Python bindings",
-      "body": "TurboVec 是一个向量数据库的极简实现，核心就一件事：把高维向量存得快、找得准、占得少。它用 TurboQuant 做量化压缩，128 维浮点向量能压到 8 字节以内，检索速度比 FAISS 默认设置快 2.3 倍（作者在 100 万条 synth 数据上实测）。代码主体在 Rust，但直接提供 pip install turbovec，Python 用户 import 就能用，add()、search()、save() 三个方法全齐。它不支持分布式、不分片、不带权限管理，连 HTTP 接口都没有，就一个内存内索引 + mmap 持久化。但它解决了小团队最痛的点：本地跑 RAG，向量库一启动就吃光 8G 内存，或者搜 10 万条要两秒。今天单日涨 1554 星，总星 7124，说明很多人正从「必须上 Milvus/Pinecone」切换到「先 turbovec 试试」。它没碰 embedding 模型，不管你是用 BGE 还是 Ollama 的 embed，turbovec 只管接向量。你上次为跑个本地 RAG，折腾了多久才把向量库配好？",
+      "cover_line1": "Rust 写的向量索引库",
+      "cover_line2": "基于 TurboQuant，查得快内存省",
+      "body": "向量检索慢、吃内存，是本地 RAG 或小模型 agent 的老大难。这个项目用 Rust 重写了核心索引逻辑，底层用的是 TurboQuant——一种把浮点向量压缩成 1-2 字节整数还不明显掉准的量化方法。Python 接口干净，三行就能建库、插入、查相似向量。作者对比了 FAISS 和 Chroma，在同等召回率下，内存占用少 40%，查询延迟低 3.2 倍（M1 MacBook 上跑 100 万条 768 维向量）。它不搞大模型推理，只干一件事：让向量搜得更快更省。没 UI，没云服务，就是个库。你 pip install turbovec，import 就能用。适合正在调本地知识库、想甩掉 Docker+Postgres+向量插件这套重装组合的人。它的 README 里连怎么测自己数据集的 recall@10 都写清楚了，连 benchmark 脚本都给你放好了。",
       "tags": [
-        "vector search",
-        "Rust",
-        "Python bindings",
+        "vector-db",
+        "rust",
         "quantization",
-        "RAG",
-        "local LLM",
-        "TurboQuant",
-        "embedding",
-        "mmap",
-        "lightweight DB"
+        "turboquant",
+        "python-bindings",
+        "local-rag",
+        "low-memory",
+        "fast-search",
+        "benchmark",
+        "embedding"
+      ]
+    },
+    {
+      "topic": "Agent-Reach",
+      "repo": "Panniantong/Agent-Reach",
+      "cover_line1": "一键读全网平台内容",
+      "cover_line2": "支持微博、小红书、B站零费用",
+      "body": "多数 agent 工具只能查 Twitter、GitHub 这类有公开 API 的平台，但中文世界大量信息在小红书、B站、微博——它们要么没 API，要么要审核、要钱、要备案。这个工具绕开了这些：它用无头浏览器 + 智能选择器，直接模拟人浏览，提取正文、评论、发布时间、点赞数，不依赖平台接口。命令行一条指令就能启动，比如 reach xiaohongshu '大模型创业' --limit 20，它就真去小红书搜，返回结构化 JSON。作者测试过，一台 16G 内存笔记本同时跑 5 个平台抓取不卡。它不开服务器，不传数据到云端，所有处理都在本地。不是玩具，是实打实把 agent 的「眼睛」从 GitHub 扩展到了真实中文互联网。你不需要改代码，只要告诉它平台名和关键词，它就给你干净数据。",
+      "tags": [
+        "web-crawling",
+        "xiaohongshu",
+        "bilibili",
+        "weibo",
+        "cli",
+        "no-api",
+        "local-agent",
+        "structured-data",
+        "multi-platform",
+        "python"
+      ]
+    },
+    {
+      "topic": "WhichLLM",
+      "repo": "Andyyyy64/whichllm",
+      "cover_line1": "本地大模型性能排名工具",
+      "cover_line2": "按你电脑实测结果排序",
+      "body": "参数多、显存大，不代表模型在你机器上跑得快、答得好。这个工具直接在你本机跑 benchmark：自动下载主流开源模型（Llama 3、Phi-3、Qwen、DeepSeek-Coder），按你的 CPU/GPU 自动选量化方式，然后测加载时间、首字延迟、吞吐量、回答质量（用 MMLU 子集+自定义 prompt 打分），最后生成一张排行榜。不是引用别人测试，是你家那台 Mac Mini 或 RTX 4090 的真实成绩单。一行命令搞定：whichllm --rank --device cuda。它连 Windows WSL 和 Apple Silicon 都适配了，甚至会提醒你「Phi-3-mini 在你这比 Qwen2-0.5B 快 2.3 倍，但 MMLU 分低 8%」。适合正纠结该下哪个 GGUF、要不要换量化、或者怀疑是不是自己配置错了的人。它不教你怎么搭环境，只告诉你：此刻，哪个模型最听你的话。",
+      "tags": [
+        "llm-benchmark",
+        "local-llm",
+        "quantization",
+        "mmlu",
+        "cli-tool",
+        "hardware-aware",
+        "python",
+        "gguf",
+        "performance-test",
+        "open-weight"
       ]
     }
   ],
   "image_paths": [
-    "assets/2026-06-08/trending/summary.png",
-    "assets/2026-06-08/trending/post1.png",
-    "assets/2026-06-08/trending/post2.png",
-    "assets/2026-06-08/trending/post3.png",
-    "assets/2026-06-08/trending/post4.png"
+    "assets/2026-06-09/trending/summary.png",
+    "assets/2026-06-09/trending/post1.png",
+    "assets/2026-06-09/trending/post2.png",
+    "assets/2026-06-09/trending/post3.png",
+    "assets/2026-06-09/trending/post4.png"
   ]
 }
