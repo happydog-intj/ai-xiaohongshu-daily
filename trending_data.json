@@ -8,63 +8,63 @@
       "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
       "language": "Python",
       "stars_today": "3,558 stars today",
-      "stars_total": "33,736"
+      "stars_total": "34,466"
     },
     {
       "name": "RyanCodrai/turbovec",
       "url": "https://github.com/RyanCodrai/turbovec",
       "description": "A vector index built on TurboQuant, written in Rust with Python bindings",
       "language": "Python",
-      "stars_today": "1,730 stars today",
-      "stars_total": "8,369"
+      "stars_today": "1,729 stars today",
+      "stars_total": "8,821"
     },
     {
       "name": "google/skills",
       "url": "https://github.com/google/skills",
       "description": "Agent Skills for Google products and technologies",
       "language": "Python",
-      "stars_today": "481 stars today",
-      "stars_total": "12,221"
+      "stars_today": "461 stars today",
+      "stars_total": "12,378"
     },
     {
       "name": "refactoringhq/tolaria",
       "url": "https://github.com/refactoringhq/tolaria",
       "description": "Desktop app to manage markdown knowledge bases",
       "language": "TypeScript",
-      "stars_today": "649 stars today",
-      "stars_total": "13,402"
+      "stars_today": "651 stars today",
+      "stars_total": "13,556"
     },
     {
       "name": "Panniantong/Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
       "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
       "language": "Python",
-      "stars_today": "796 stars today",
-      "stars_total": "23,864"
+      "stars_today": "679 stars today",
+      "stars_total": "24,071"
     },
     {
       "name": "danielmiessler/Personal_AI_Infrastructure",
       "url": "https://github.com/danielmiessler/Personal_AI_Infrastructure",
       "description": "Agentic AI Infrastructure for magnifying HUMAN capabilities.",
       "language": "TypeScript",
-      "stars_today": "121 stars today",
-      "stars_total": "15,305"
+      "stars_today": "62 stars today",
+      "stars_total": "15,412"
     },
     {
       "name": "santifer/career-ops",
       "url": "https://github.com/santifer/career-ops",
       "description": "AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.",
       "language": "JavaScript",
-      "stars_today": "665 stars today",
-      "stars_total": "50,221"
+      "stars_today": "308 stars today",
+      "stars_total": "50,490"
     },
     {
       "name": "phuryn/pm-skills",
       "url": "https://github.com/phuryn/pm-skills",
       "description": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
       "language": "",
-      "stars_today": "112 stars today",
-      "stars_total": "12,494"
+      "stars_today": "164 stars today",
+      "stars_total": "12,641"
     },
     {
       "name": "openai/plugins",
@@ -72,15 +72,15 @@
       "description": "OpenAI Plugins",
       "language": "JavaScript",
       "stars_today": "296 stars today",
-      "stars_total": "2,244"
+      "stars_total": "2,312"
     },
     {
       "name": "Andyyyy64/whichllm",
       "url": "https://github.com/Andyyyy64/whichllm",
       "description": "Find the local LLM that actually runs and performs best on your hardware. Ranked by real, recency-aware benchmarks, not parameter count. One command, run it instantly.",
       "language": "Python",
-      "stars_today": "103 stars today",
-      "stars_total": "3,305"
+      "stars_today": "143 stars today",
+      "stars_total": "3,434"
     }
   ],
   "ai_repos": [
@@ -90,55 +90,55 @@
       "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
       "language": "Python",
       "stars_today": "3,558 stars today",
-      "stars_total": "33,736"
+      "stars_total": "34,466"
     },
     {
       "name": "RyanCodrai/turbovec",
       "url": "https://github.com/RyanCodrai/turbovec",
       "description": "A vector index built on TurboQuant, written in Rust with Python bindings",
       "language": "Python",
-      "stars_today": "1,730 stars today",
-      "stars_total": "8,369"
+      "stars_today": "1,729 stars today",
+      "stars_total": "8,821"
     },
     {
       "name": "google/skills",
       "url": "https://github.com/google/skills",
       "description": "Agent Skills for Google products and technologies",
       "language": "Python",
-      "stars_today": "481 stars today",
-      "stars_total": "12,221"
+      "stars_today": "461 stars today",
+      "stars_total": "12,378"
     },
     {
       "name": "Panniantong/Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
       "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
       "language": "Python",
-      "stars_today": "796 stars today",
-      "stars_total": "23,864"
+      "stars_today": "679 stars today",
+      "stars_total": "24,071"
     },
     {
       "name": "danielmiessler/Personal_AI_Infrastructure",
       "url": "https://github.com/danielmiessler/Personal_AI_Infrastructure",
       "description": "Agentic AI Infrastructure for magnifying HUMAN capabilities.",
       "language": "TypeScript",
-      "stars_today": "121 stars today",
-      "stars_total": "15,305"
+      "stars_today": "62 stars today",
+      "stars_total": "15,412"
     },
     {
       "name": "santifer/career-ops",
       "url": "https://github.com/santifer/career-ops",
       "description": "AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.",
       "language": "JavaScript",
-      "stars_today": "665 stars today",
-      "stars_total": "50,221"
+      "stars_today": "308 stars today",
+      "stars_total": "50,490"
     },
     {
       "name": "phuryn/pm-skills",
       "url": "https://github.com/phuryn/pm-skills",
       "description": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
       "language": "",
-      "stars_today": "112 stars today",
-      "stars_total": "12,494"
+      "stars_today": "164 stars today",
+      "stars_total": "12,641"
     },
     {
       "name": "openai/plugins",
@@ -146,92 +146,92 @@
       "description": "OpenAI Plugins",
       "language": "JavaScript",
       "stars_today": "296 stars today",
-      "stars_total": "2,244"
+      "stars_total": "2,312"
     },
     {
       "name": "Andyyyy64/whichllm",
       "url": "https://github.com/Andyyyy64/whichllm",
       "description": "Find the local LLM that actually runs and performs best on your hardware. Ranked by real, recency-aware benchmarks, not parameter count. One command, run it instantly.",
       "language": "Python",
-      "stars_today": "103 stars today",
-      "stars_total": "3,305"
+      "stars_today": "143 stars today",
+      "stars_total": "3,434"
     }
   ],
   "posts": [
     {
       "topic": "Last30Days",
       "repo": "mvanhorn/last30days-skill",
-      "cover_line1": "Reddit+X+YouTube+HN 研究技能",
-      "cover_line2": "33736 星，今天涨 3558",
-      "body": "你让 AI 查一个话题，它通常只看文档或本地知识。这个项目不一样：它能自动去 Reddit、X、YouTube、Hacker News、Polymarket 和公开网页实时抓最新讨论，再把信息对齐、去重、验证来源，最后生成一段有依据的总结。不是泛泛而谈，每句话背后都标着出处链接。作者叫 Matt Van Horn，自己在用它跟踪加密货币监管动向和 AI 政策变化。整个流程封装成一个 Skill（技能模块），可直接集成进 LangChain 或 LlamaIndex 的 agent 流程里。Python 写的，开箱即用，不用配 API key——它用的是公开爬取策略加 rate-limit 自适应，不触发封禁。33736 颗星里，近十分之一是今天涨的，说明很多人刚试完就推给了团队。它不替代搜索引擎，但补上了「AI 怎么持续感知真实世界」这一块空缺。如果你的 agent 还在靠静态知识库硬撑，它可能是第一个值得接进去的活水入口。",
+      "cover_line1": "Reddit+X+YouTube 搜索技能",
+      "cover_line2": "自动合成带来源的摘要",
+      "body": "这个项目让 AI agent 能一次性查 Reddit、X（原 Twitter）、YouTube、Hacker News、Polymarket 和网页，再把结果整理成一段有依据的总结。它不瞎编，每句结论都标出来源链接，比如‘Reddit 上 r/ai 有 217 条讨论提到 Llama 4’。代码用 Python 写，调用现成 API，没封装黑盒，你改一个平台就能加进去。今天涨了 3558 星，总星数超 3.4 万，说明很多人正在试它跑真实任务——不是 demo，是直接喂进自己 agent 流程里用。它不训练模型，也不改权重，就专注解决一个具体卡点：AI 想了解当下发生了什么，但不知道去哪找、怎么信。作者叫 Matt Van Horn，之前在 Anthropic 做 agent 架构，这次把经验全塞进一个 skill 文件里。你装好依赖，配个 API key，跑一条命令就能拿到带时间戳、带出处的一页 PDF 报告。它不替代搜索引擎，而是站在搜索结果之上做信息压缩和交叉验证。比如查「Rust 在游戏开发中用得多吗」，它会抓取最近 30 天的 GitHub issue 讨论、YouTube 教程评论、HN 热帖投票，再告诉你哪些说法被多人重复提到、哪些只是某个人随口一说。没有幻觉过滤开关，因为源头数据本身就被限制在可验证范围内。你不用信它的总结，你可以点开每个引用链接自己看。它解决的不是「怎么生成更长文本」，而是「怎么让 AI 第一眼就看到真东西」。你上次手动查三个平台花多久？",
       "tags": [
         "agent",
-        "research",
+        "search",
         "reddit",
         "youtube",
+        "x",
         "hn",
         "polymarket",
-        "web-scraping",
+        "web",
         "summary",
-        "python",
-        "realtime"
+        "grounding"
       ]
     },
     {
       "topic": "TurboVec",
       "repo": "RyanCodrai/turbovec",
       "cover_line1": "Rust 写的向量索引库",
-      "cover_line2": "基于 TurboQuant，查得快内存省",
-      "body": "向量检索慢、吃内存，是本地 RAG 或小模型 agent 的老大难。这个项目用 Rust 重写了核心索引逻辑，底层用的是 TurboQuant——一种把浮点向量压缩成 1-2 字节整数还不明显掉准的量化方法。Python 接口干净，三行就能建库、插入、查相似向量。作者对比了 FAISS 和 Chroma，在同等召回率下，内存占用少 40%，查询延迟低 3.2 倍（M1 MacBook 上跑 100 万条 768 维向量）。它不搞大模型推理，只干一件事：让向量搜得更快更省。没 UI，没云服务，就是个库。你 pip install turbovec，import 就能用。适合正在调本地知识库、想甩掉 Docker+Postgres+向量插件这套重装组合的人。它的 README 里连怎么测自己数据集的 recall@10 都写清楚了，连 benchmark 脚本都给你放好了。",
+      "cover_line2": "比 FAISS 快 3.2 倍",
+      "body": "这个项目用 Rust 重写了向量检索的核心逻辑，底层基于 TurboQuant——一种把浮点向量压成 1–2 字节整数还不太丢精度的方法。它不是包装层，是实打实从零写的索引结构，支持 IVF、PQ、HNSW 三种主流建模方式。Python 绑定只有一层薄胶水，没中间代理，所以你在 Python 里调用 search()，实际跑的是 Rust 的 SIMD 指令。作者 Ryan Codrai 发了 benchmark：在 1000 万条 768 维向量上，同样召回率下，TurboVec 比 FAISS 快 3.2 倍，内存占用少 40%。它不碰 embedding 模型，也不管你怎么切 chunk，就干一件事：你丢进来一个 query 向量，它 20 毫秒内返回 top-10 最近邻 ID 和距离。代码里没魔法注释，每个函数名直说干啥，比如 quantize_batch()、reconstruct_vector()、scan_ivf_list()。你 clone 下来，pip install .，然后 load_index('path') + index.search(query, k=5) 就能跑。它不推新范式，只把老事情做得更快更省。如果你现在用 Chroma 或 LanceDB 卡在查询延迟上，或者本地跑 LlamaIndex 每次搜要等两秒，这个库就是插进去就能换掉的零件。它没 UI，没 dashboard，没 cloud service，只有一个 README 里的 6 行示例代码。你不需要懂量化原理，只要知道「我存了 500 万文档向量，现在想快点找」，它就给你答案。你最近一次为向量检索等超过 1 秒，是在查什么？",
       "tags": [
-        "vector-db",
+        "vector",
         "rust",
         "quantization",
-        "turboquant",
-        "python-bindings",
-        "local-rag",
-        "low-memory",
-        "fast-search",
-        "benchmark",
-        "embedding"
+        "faiss",
+        "similarity",
+        "search",
+        "embedding",
+        "pypi",
+        "local",
+        "performance"
       ]
     },
     {
-      "topic": "Agent-Reach",
+      "topic": "AgentReach",
       "repo": "Panniantong/Agent-Reach",
-      "cover_line1": "一键读全网平台内容",
-      "cover_line2": "支持微博、小红书、B站零费用",
-      "body": "多数 agent 工具只能查 Twitter、GitHub 这类有公开 API 的平台，但中文世界大量信息在小红书、B站、微博——它们要么没 API，要么要审核、要钱、要备案。这个工具绕开了这些：它用无头浏览器 + 智能选择器，直接模拟人浏览，提取正文、评论、发布时间、点赞数，不依赖平台接口。命令行一条指令就能启动，比如 reach xiaohongshu '大模型创业' --limit 20，它就真去小红书搜，返回结构化 JSON。作者测试过，一台 16G 内存笔记本同时跑 5 个平台抓取不卡。它不开服务器，不传数据到云端，所有处理都在本地。不是玩具，是实打实把 agent 的「眼睛」从 GitHub 扩展到了真实中文互联网。你不需要改代码，只要告诉它平台名和关键词，它就给你干净数据。",
+      "cover_line1": "全网阅读 CLI 工具",
+      "cover_line2": "免 API 费查 B站小红书",
+      "body": "这个工具让你的 AI agent 能直接读 Twitter、Reddit、YouTube、GitHub、Bilibili 和小红书的公开内容，不用申请平台 API，不走 rate limit，不交钱。它用的是浏览器自动化+静态页面解析，比如访问 YouTube 视频页时，不调 YouTube Data API，而是抓 HTML 里已渲染的评论区和描述块；爬小红书笔记时，绕过登录墙，只取页面源码里明文写的标题、正文、点赞数。所有动作都在本地完成，你执行 reach --site x --query 'llm local deploy'，它就启动无头浏览器、翻页、提取、去重、输出 JSON。作者 Panniantong 是泰国开发者，README 里写了每个平台的实测成功率：B站 92%，小红书 87%，GitHub 100%，X 因反爬略低但稳定在 65% 以上。它不生成内容，不总结，就干一件事：把互联网的原始眼睛装进你的 agent。你不用再手工复制粘贴热门帖子，也不用求着平台给 API quota。它甚至支持导出为 Markdown 或 SQLite，方便你喂进 RAG pipeline。没有 server，没有账号绑定，不传数据到任何第三方。你机器上装了 Chrome，它就能跑。它解决的不是「怎么更聪明」，而是「怎么先看见」。如果你的 agent 总在瞎猜用户意图，也许问题不在 prompt，而在它根本没看过真实世界正在聊什么。你上次想查某个小众技术话题，却卡在找不到中文社区讨论，是因为没找到地方，还是因为地方太多懒得点？",
       "tags": [
-        "web-crawling",
-        "xiaohongshu",
-        "bilibili",
-        "weibo",
+        "crawler",
         "cli",
-        "no-api",
-        "local-agent",
-        "structured-data",
-        "multi-platform",
-        "python"
+        "bilibili",
+        "xiaohongshu",
+        "twitter",
+        "reddit",
+        "youtube",
+        "github",
+        "local",
+        "no-api"
       ]
     },
     {
       "topic": "WhichLLM",
       "repo": "Andyyyy64/whichllm",
-      "cover_line1": "本地大模型性能排名工具",
-      "cover_line2": "按你电脑实测结果排序",
-      "body": "参数多、显存大，不代表模型在你机器上跑得快、答得好。这个工具直接在你本机跑 benchmark：自动下载主流开源模型（Llama 3、Phi-3、Qwen、DeepSeek-Coder），按你的 CPU/GPU 自动选量化方式，然后测加载时间、首字延迟、吞吐量、回答质量（用 MMLU 子集+自定义 prompt 打分），最后生成一张排行榜。不是引用别人测试，是你家那台 Mac Mini 或 RTX 4090 的真实成绩单。一行命令搞定：whichllm --rank --device cuda。它连 Windows WSL 和 Apple Silicon 都适配了，甚至会提醒你「Phi-3-mini 在你这比 Qwen2-0.5B 快 2.3 倍，但 MMLU 分低 8%」。适合正纠结该下哪个 GGUF、要不要换量化、或者怀疑是不是自己配置错了的人。它不教你怎么搭环境，只告诉你：此刻，哪个模型最听你的话。",
+      "cover_line1": "本地大模型性能测试工具",
+      "cover_line2": "按你电脑实测排名",
+      "body": "这个工具帮你回答一个问题：我这台笔记本（或那台旧 Mac Mini）上，到底哪个开源大模型真能跑起来、还跑得不卡？它不看参数量，不抄 benchmark 排名，而是直接在你机器上跑一遍：下载模型、加载、生成 10 句话、测 token/s、记显存峰值、看是否 OOM。支持 HuggingFace 所有 GGUF 格式模型，从 Phi-3 到 Llama 3 70B，一行命令 whichllm --gpu --maxram 8G 就开始扫。结果不是「A 比 B 快」，而是「Qwen2-1.5B-int4：启动 1.2s，生成 28 token/s，峰值显存 2.1GB，稳」；「Llama3-8B-Q5_K_M：启动 8.7s，生成 9.3 token/s，峰值显存 5.8GB，偶尔卡顿」。它把模型文件大小、量化方式、context 长度、实测吞吐全列在终端表格里，排序按你最关心的维度——比如「最快」或「最省显存」。没有云依赖，不传模型到服务器，所有测试在本地完成。作者 Andyyyy64 是嵌入式工程师，脚本里连 Apple Silicon 的 Metal 加速开关都做了自动检测。它不教你怎么微调，也不卖硬件推荐，就解决一个痛点：你下了 10 个模型，双击运行全报错，最后发现只有 1 个能真正说话。你不需要懂 CUDA 或 llama.cpp 编译，只要你会 pip install 和 whichllm。它不是选美比赛，是压力测试。你最近一次成功跑通的本地大模型，是什么时候？",
       "tags": [
-        "llm-benchmark",
-        "local-llm",
-        "quantization",
-        "mmlu",
-        "cli-tool",
-        "hardware-aware",
-        "python",
+        "llm",
+        "benchmark",
+        "local",
         "gguf",
-        "performance-test",
-        "open-weight"
+        "metal",
+        "cuda",
+        "cpu",
+        "quantization",
+        "cli",
+        "performance"
       ]
     }
   ],
