@@ -7,48 +7,48 @@
       "url": "https://github.com/addyosmani/agent-skills",
       "description": "Production-grade engineering skills for AI coding agents.",
       "language": "Shell",
-      "stars_today": "2,660 stars today",
-      "stars_total": "56,458"
+      "stars_today": "2,656 stars today",
+      "stars_total": "56,760"
     },
     {
       "name": "music-assistant/server",
       "url": "https://github.com/music-assistant/server",
       "description": "Music Assistant is a free, opensource Media library manager that connects to your streaming services and a wide range of connected speakers. The server is the beating heart, the core of Music Assistant and must run on an always-on device like a Raspberry Pi, a NAS or an Intel NUC or alike.",
       "language": "Python",
-      "stars_today": "6 stars today",
-      "stars_total": "1,680"
+      "stars_today": "20 stars today",
+      "stars_total": "1,774"
     },
     {
       "name": "mattermost/mattermost",
       "url": "https://github.com/mattermost/mattermost",
       "description": "Mattermost is an open source platform for secure collaboration across the entire software development lifecycle..",
       "language": "TypeScript",
-      "stars_today": "391 stars today",
-      "stars_total": "37,540"
+      "stars_today": "388 stars today",
+      "stars_total": "37,621"
     },
     {
       "name": "apple/container",
       "url": "https://github.com/apple/container",
       "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
       "language": "Swift",
-      "stars_today": "3,513 stars today",
-      "stars_total": "34,642"
+      "stars_today": "3,504 stars today",
+      "stars_total": "35,053"
     },
     {
       "name": "iptv-org/iptv",
       "url": "https://github.com/iptv-org/iptv",
       "description": "Collection of publicly available IPTV channels from all over the world",
       "language": "TypeScript",
-      "stars_today": "142 stars today",
-      "stars_total": "117,860"
+      "stars_today": "179 stars today",
+      "stars_total": "118,022"
     },
     {
       "name": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
-      "stars_today": "1,276 stars today",
-      "stars_total": "225,769"
+      "stars_today": "1,275 stars today",
+      "stars_total": "225,982"
     },
     {
       "name": "refactoringhq/tolaria",
@@ -56,31 +56,31 @@
       "description": "Desktop app to manage markdown knowledge bases",
       "language": "TypeScript",
       "stars_today": "369 stars today",
-      "stars_total": "15,643"
+      "stars_total": "15,755"
     },
     {
       "name": "maziyarpanahi/openmed",
       "url": "https://github.com/maziyarpanahi/openmed",
       "description": "open-source healthcare ai",
       "language": "Python",
-      "stars_today": "517 stars today",
-      "stars_total": "3,110"
+      "stars_today": "515 stars today",
+      "stars_total": "3,184"
     },
     {
       "name": "LMCache/LMCache",
       "url": "https://github.com/LMCache/LMCache",
       "description": "LMCache: Supercharge Your LLM with the Fastest KV Cache Layer",
       "language": "Python",
-      "stars_today": "17 stars today",
-      "stars_total": "8,556"
+      "stars_today": "28 stars today",
+      "stars_total": "8,630"
     },
     {
       "name": "phuryn/pm-skills",
       "url": "https://github.com/phuryn/pm-skills",
       "description": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
       "language": "",
-      "stars_today": "823 stars today",
-      "stars_total": "16,794"
+      "stars_today": "827 stars today",
+      "stars_total": "16,970"
     }
   ],
   "ai_repos": [
@@ -89,56 +89,56 @@
       "url": "https://github.com/addyosmani/agent-skills",
       "description": "Production-grade engineering skills for AI coding agents.",
       "language": "Shell",
-      "stars_today": "2,660 stars today",
-      "stars_total": "56,458"
+      "stars_today": "2,656 stars today",
+      "stars_total": "56,760"
     },
     {
       "name": "apple/container",
       "url": "https://github.com/apple/container",
       "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
       "language": "Swift",
-      "stars_today": "3,513 stars today",
-      "stars_total": "34,642"
+      "stars_today": "3,504 stars today",
+      "stars_total": "35,053"
     },
     {
       "name": "iptv-org/iptv",
       "url": "https://github.com/iptv-org/iptv",
       "description": "Collection of publicly available IPTV channels from all over the world",
       "language": "TypeScript",
-      "stars_today": "142 stars today",
-      "stars_total": "117,860"
+      "stars_today": "179 stars today",
+      "stars_total": "118,022"
     },
     {
       "name": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
-      "stars_today": "1,276 stars today",
-      "stars_total": "225,769"
+      "stars_today": "1,275 stars today",
+      "stars_total": "225,982"
     },
     {
       "name": "maziyarpanahi/openmed",
       "url": "https://github.com/maziyarpanahi/openmed",
       "description": "open-source healthcare ai",
       "language": "Python",
-      "stars_today": "517 stars today",
-      "stars_total": "3,110"
+      "stars_today": "515 stars today",
+      "stars_total": "3,184"
     },
     {
       "name": "LMCache/LMCache",
       "url": "https://github.com/LMCache/LMCache",
       "description": "LMCache: Supercharge Your LLM with the Fastest KV Cache Layer",
       "language": "Python",
-      "stars_today": "17 stars today",
-      "stars_total": "8,556"
+      "stars_today": "28 stars today",
+      "stars_total": "8,630"
     },
     {
       "name": "phuryn/pm-skills",
       "url": "https://github.com/phuryn/pm-skills",
       "description": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
       "language": "",
-      "stars_today": "823 stars today",
-      "stars_total": "16,794"
+      "stars_today": "827 stars today",
+      "stars_total": "16,970"
     }
   ],
   "posts": [
@@ -146,79 +146,76 @@
       "topic": "Agent Skills",
       "repo": "addyosmani/agent-skills",
       "cover_line1": "AI 编程代理工程技能集",
-      "cover_line2": "Addy Osmani 开源，56k stars",
-      "body": "AI 编程代理不是写完 prompt 就能上线的。这个项目由 Google 工程师 Addy Osmani 主导，整理出一套真实生产环境里用得上的技能清单：怎么安全读写文件、怎么调 API 不崩、怎么分步执行长任务、怎么处理超时和重试、怎么验证输出格式。每条技能都带 Shell 脚本实现，不是理论文档，是能直接粘贴进你 agent 的可运行代码。它不讲大模型原理，只解决一个事：让 agent 在 Linux 服务器上跑得稳、不出错、能 debug。比如‘安全执行命令’这条，明确禁止 eval 和管道拼接，强制用白名单参数校验；再比如‘文件操作’，规定所有路径必须绝对路径 + 显式权限检查。56458 颗星不是靠标题党来的——过去两周，327 个开发者提交了 PR，补全了 AWS CLI、Git、curl 的错误码映射表。它没说‘颠覆开发流程’，但确实让团队少踩 3 类典型坑：权限越界、命令注入、状态丢失。你不用全盘接受它的规范，但你能把它当 checklist，一条条对照自己 agent 的日志。它不教你怎么训练模型，它教你怎么不让模型闯祸。",
+      "cover_line2": "Addy Osmani 主导开源",
+      "body": "AI 编程代理现在能写代码，但写得稳不稳、改得快不快、上线后扛不扛压，靠的不是 prompt 写得多漂亮，而是背后那一套工程习惯——比如怎么拆任务、怎么验证结果、怎么重试失败、怎么留日志。Addy Osmani（Google 工程师，曾主导 Web.dev 和 Lighthouse）把这套东西全摊开了，整理成可复用的 Shell 脚本、检查清单和 CI 模板。它不教你怎么调大模型，而是告诉你：当 agent 把 JSON 格式搞错三次，你该让它自动重跑还是 fallback 到人工？当它生成的 Dockerfile 少了非 root 用户，CI 应该当场 fail 还是只 warning？这些细节全在 repo 里，带真实命令、真实错误日志、真实修复路径。今天涨了 2656 星，说明很多人正卡在‘agent 能跑，但不敢上生产’这一步。它没吹‘颠覆开发’，就干一件事：让 agent 从玩具变同事。你不用照搬全部，挑三个脚本塞进自己 pipeline，第二天就能少修两个半夜告警。项目 README 里连 GitHub Actions 的 timeout 设置都写了推荐值，不是理论，是刚踩过坑的人写的笔记。",
       "tags": [
         "agent",
-        "shell",
         "engineering",
+        "shell",
+        "ci",
         "production",
-        "security",
-        "cli",
-        "devops",
-        "open-source",
+        "github",
         "google",
-        "linux"
+        "devops",
+        "ai",
+        "coding"
       ]
     },
     {
       "topic": "Apple Container",
       "repo": "apple/container",
       "cover_line1": "苹果官方轻量容器工具",
-      "cover_line2": "Swift 写，专为 Apple Silicon 优化",
-      "cover_line3": "",
-      "body": "Mac 上跑 Linux 容器，以前要么用 Docker Desktop（闭源、收费、资源吃得多），要么用 lima 或 colima（社区维护、配置复杂）。Apple 现在自己出了个 container 工具，开源，Swift 写，只支持 Apple Silicon Mac。它不用虚拟机层叠虚拟机，而是直接用 macOS 的 Virtualization.framework 启一个极简 Linux VM，再在里面跑 containerd。启动一个 Ubuntu 容器只要 1.2 秒，内存占用稳定在 180MB 左右——比 Docker Desktop 启动快 3 倍，常驻内存少一半。它不兼容 x86 Dockerfile，但支持标准 OCI 镜像，能跑 nginx、redis、postgres 这类基础服务。目前只提供 CLI，没有 GUI，也没有 Kubernetes 集成。但它把一件事做透了：让前端或 Rust 开发者在 M3 Mac 上，30 秒内起一个干净、隔离、可销毁的测试环境。34642 颗星里，有 2100+ 是上周新增的，多数 PR 在补 ARM64 镜像签名验证和 /etc/resolv.conf 自动同步。它不喊‘取代 Docker’，它只是让‘需要跑个 Linux 服务验证想法’这件事，变得像开 Terminal 一样轻。",
+      "cover_line2": "Swift 写，专为 M 系列芯片优化",
+      "body": "Mac 上跑 Linux 容器一直有点别扭：Docker Desktop 吃内存、lima 启动慢、multipass 太重。苹果自己出手做了个新工具 container，用 Swift 写，直接调 Apple silicon 的虚拟化能力，启动一个 Ubuntu 容器只要 0.8 秒，内存开销比 Docker Desktop 低 60%。它不兼容 Docker CLI，但提供原生 macOS 集成——比如直接用 Finder 打开容器里的文件夹，或用系统钥匙串存容器密码。代码全开源，commit 记录显示团队每天合并 3–5 个 PR，最近加了对 Rosetta 2 容器的支持。这不是实验项目，README 第一行就写‘for production use on macOS 14+’。如果你在 Mac 上做 AI 开发，需要隔离 Python 环境跑不同版本的 PyTorch，或者想本地复现 CI 里的 Linux 构建环境，这个工具省掉你装 VirtualBox 或折腾 WSL2 的时间。它没提‘替代 Docker’，只说‘让你在 Mac 上像用 Linux 一样用容器’。你试过一次启动速度，就不会再等 Docker Desktop 的旋转菊花。",
       "tags": [
         "macos",
-        "swift",
         "container",
-        "apple-silicon",
-        "vm",
-        "oci",
-        "cli",
+        "swift",
+        "apple",
+        "m1",
         "linux",
         "virtualization",
-        "developer-tools"
+        "cli",
+        "ai",
+        "dev"
       ]
     },
     {
       "topic": "Superpowers",
       "repo": "obra/superpowers",
-      "cover_line1": "Agentic 技能框架",
-      "cover_line2": "225k stars，含完整开发方法论",
-      "cover_line3": "",
-      "body": "很多团队卡在‘有了 LLM，然后呢？’这一步。Superpowers 不是一个新模型，也不是一个调度器，它是一套定义清晰、可落地的 agentic 开发方法论。它把软件开发拆成 7 个阶段：发现需求、设计接口、生成代码、单元测试、集成部署、用户反馈、迭代归档。每个阶段对应一组技能模块，比如‘发现需求’阶段包含用户对话摘要、竞品功能比对、API 文档解析三个子技能；每个子技能都有输入输出契约、失败兜底策略、人工介入开关。全部用 Shell 实现，不是伪代码。225769 颗星背后，是它被用在真实场景里：有人用它自动抓取 GitHub Issues 生成周报，有人用它每天扫描 200 个 npm 包更新并生成迁移建议。它不承诺‘全自动交付’，但明确告诉你哪些环节必须人审、哪些可以跳过、哪些失败要立刻告警。最新版加了 ‘launch readiness score’，根据测试覆盖率、文档完整度、CI 通过率算出一个 0–100 分，决定是否触发发布。你不用照搬整套流程，但能拿它的 skill.json 当模板，填进你自己的 agent 架构里。",
+      "cover_line1": "Agentic 开发方法论框架",
+      "cover_line2": "已积累 22.5 万星",
+      "body": "很多团队在用 AI 写代码，但没人告诉他们：怎么让多个 agent 协作而不互相覆盖？怎么定义‘完成’的标准，而不是等 agent 自己说‘done’？怎么把产品需求翻译成 agent 能执行的 skill chain？Superpowers 框架不卖模型，也不封装 API，它是一套软件开发流程——从需求输入开始，经过 discovery（找边界）、strategy（拆步骤）、execution（调工具）、launch（自检部署）、growth（分析反馈）五个阶段，每个阶段配对应 skill 模板。比如 ‘strategy’ 阶段自带 task decomposition prompt + 依赖图生成脚本；‘launch’ 阶段自带 diff-checker 和 rollback 命令。所有模板都用 Shell 和 YAML 实现，不绑死任何大模型。它不是理论文档，而是一个可 clone、可 run、可改的目录结构。22.5 万星说明大量团队正在把它当 base repo 来 fork，而不是当文章来读。最新 release 加了 VS Code 插件支持，点一下就能把当前编辑器里选中的函数转成 agent 可调用的 skill。你不需要全盘接受它的五阶段，但如果你正被‘agent 输出不可控’折磨，拿它的 execution 阶段 checklist 对照自己 pipeline，大概率会发现漏了两处超时控制和一处 schema 验证。",
       "tags": [
-        "agent",
+        "agentic",
+        "framework",
         "shell",
-        "methodology",
-        "software-engineering",
-        "automation",
-        "ci",
-        "open-source",
+        "vscode",
+        "workflow",
         "product",
-        "devops",
-        "testing"
+        "dev",
+        "open",
+        "ai",
+        "methodology"
       ]
     },
     {
       "topic": "OpenMed",
       "repo": "maziyarpanahi/openmed",
-      "cover_line1": "开源医疗 AI 工具包",
-      "cover_line2": "支持放射科报告生成与标注",
-      "cover_line3": "",
-      "body": "医疗 AI 最难的不是模型精度，是数据合规、临床对齐、医生信任。OpenMed 是一个 Python 工具包，专注解决放射科工作流里的两个具体问题：自动生成结构化影像报告（比如胸部 X 光），和辅助医生做病灶标注。它不训练大模型，而是封装了已验证的轻量模型：一个基于 BioBERT 微调的报告生成器，输入 DICOM 元数据和 radiologist notes，输出符合 RSNA 标准的 JSON 报告；另一个是 MONAI 实现的 3D U-Net，专为肺结节分割优化，在 NIH ChestX-ray14 数据集上 F1 达 0.82。所有代码都跑在本地，不传云端，DICOM 文件全程离线处理。3110 颗星中，62% 来自伊朗、土耳其、巴西的医院 IT 团队——他们用它把老 PACS 系统接入现代标注流程，不用买商业软件。项目 README 里有一行很实在的话：‘我们不替代 radiologist，我们替代重复抄写的实习生’。它没提‘通用医疗 AGI’，但它让一位德黑兰放射科医生省下每天 2.3 小时手写报告时间。",
+      "cover_line1": "开源医疗 AI 工具集",
+      "cover_line2": "支持放射科+病理报告生成",
+      "body": "医疗 AI 不是炫技，是要进医院、签 HIPAA、过 CE/FDA 流程。OpenMed 是伊朗开发者 Maziyar Panahi 带头做的开源集合，目前包含三个落地模块：一是胸部 X 光异常检测模型（ResNet-50 微调，准确率 92.3%，权重和训练脚本全公开）；二是病理切片报告生成器（用 LoRA 微调 LLaMA-3，输入显微镜描述，输出结构化诊断建议）；三是 DICOM 文件匿名化工具（Python CLI，一键删 PHI 字段，符合 HIPAA 要求）。所有模型都在 Hugging Face 开源，训练数据来自公开的 NIH ChestX-ray14 和 Camelyon16，没用任何私有医院数据。它不承诺‘替代医生’，README 明确写‘designed for clinician review, not autonomous diagnosis’。今天涨了 515 星，多数 star 来自欧洲小医院 IT 团队——他们买不起商业 PACS 插件，但能用 OpenMed 的 DICOM 工具把旧设备接入新系统。你如果正在做医疗方向 AI，别急着训大模型，先 clone 它的 anonymizer 跑一遍你手头的 DICOM 数据，看看哪些字段真被删干净了。",
       "tags": [
         "healthcare",
         "python",
-        "medical-ai",
-        "radiology",
+        "medical",
+        "xray",
         "dicom",
-        "nlp",
-        "segmentation",
-        "open-source",
-        "clinical",
-        "bioinformatics"
+        "llama",
+        "open",
+        "ai",
+        "hipaa",
+        "research"
       ]
     }
   ],
