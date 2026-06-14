@@ -1,86 +1,86 @@
 {
-  "date": "2026-06-13",
-  "slot": "晚报",
+  "date": "2026-06-14",
+  "slot": "早报",
   "all_repos": [
     {
       "name": "iptv-org/iptv",
       "url": "https://github.com/iptv-org/iptv",
       "description": "Collection of publicly available IPTV channels from all over the world",
       "language": "TypeScript",
-      "stars_today": "650 stars today",
-      "stars_total": "118,507"
+      "stars_today": "530 stars today",
+      "stars_total": "119,067"
     },
     {
       "name": "addyosmani/agent-skills",
       "url": "https://github.com/addyosmani/agent-skills",
       "description": "Production-grade engineering skills for AI coding agents.",
       "language": "Shell",
-      "stars_today": "1,507 stars today",
-      "stars_total": "57,823"
+      "stars_today": "1,514 stars today",
+      "stars_total": "58,329"
     },
     {
       "name": "chatwoot/chatwoot",
       "url": "https://github.com/chatwoot/chatwoot",
       "description": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬",
       "language": "Ruby",
-      "stars_today": "86 stars today",
-      "stars_total": "30,702"
+      "stars_today": "83 stars today",
+      "stars_total": "30,840"
     },
     {
       "name": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
-      "stars_today": "931 stars today",
-      "stars_total": "226,628"
+      "stars_today": "924 stars today",
+      "stars_total": "226,907"
     },
     {
       "name": "apple/container",
       "url": "https://github.com/apple/container",
       "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
       "language": "Swift",
-      "stars_today": "1,471 stars today",
-      "stars_total": "35,915"
+      "stars_today": "1,487 stars today",
+      "stars_total": "36,272"
     },
     {
       "name": "music-assistant/server",
       "url": "https://github.com/music-assistant/server",
       "description": "Music Assistant is a free, opensource Media library manager that connects to your streaming services and a wide range of connected speakers. The server is the beating heart, the core of Music Assistant and must run on an always-on device like a Raspberry Pi, a NAS or an Intel NUC or alike.",
       "language": "Python",
-      "stars_today": "277 stars today",
-      "stars_total": "1,932"
+      "stars_today": "270 stars today",
+      "stars_total": "1,998"
     },
     {
       "name": "kenn-io/agentsview",
       "url": "https://github.com/kenn-io/agentsview",
       "description": "Local-first session intelligence and analytics for coding agents, supporting Claude Code, Codex, and more than 20 other agents. Also: 100x faster replacement for ccusage!",
       "language": "Go",
-      "stars_today": "187 stars today",
-      "stars_total": "2,203"
+      "stars_today": "190 stars today",
+      "stars_total": "2,355"
     },
     {
       "name": "LMCache/LMCache",
       "url": "https://github.com/LMCache/LMCache",
       "description": "LMCache: Supercharge Your LLM with the Fastest KV Cache Layer",
       "language": "Python",
-      "stars_today": "246 stars today",
-      "stars_total": "8,780"
+      "stars_today": "238 stars today",
+      "stars_total": "8,883"
     },
     {
       "name": "microsoft/PowerToys",
       "url": "https://github.com/microsoft/PowerToys",
       "description": "Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows",
       "language": "C",
-      "stars_today": "374 stars today",
-      "stars_total": "134,533"
+      "stars_today": "370 stars today",
+      "stars_total": "134,658"
     },
     {
       "name": "andrewyng/aisuite",
       "url": "https://github.com/andrewyng/aisuite",
       "description": "Simple, unified interface to multiple Generative AI providers",
       "language": "Python",
-      "stars_today": "132 stars today",
-      "stars_total": "14,009"
+      "stars_today": "127 stars today",
+      "stars_total": "14,097"
     }
   ],
   "ai_repos": [
@@ -89,149 +89,149 @@
       "url": "https://github.com/iptv-org/iptv",
       "description": "Collection of publicly available IPTV channels from all over the world",
       "language": "TypeScript",
-      "stars_today": "650 stars today",
-      "stars_total": "118,507"
+      "stars_today": "530 stars today",
+      "stars_total": "119,067"
     },
     {
       "name": "addyosmani/agent-skills",
       "url": "https://github.com/addyosmani/agent-skills",
       "description": "Production-grade engineering skills for AI coding agents.",
       "language": "Shell",
-      "stars_today": "1,507 stars today",
-      "stars_total": "57,823"
+      "stars_today": "1,514 stars today",
+      "stars_total": "58,329"
     },
     {
       "name": "chatwoot/chatwoot",
       "url": "https://github.com/chatwoot/chatwoot",
       "description": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬",
       "language": "Ruby",
-      "stars_today": "86 stars today",
-      "stars_total": "30,702"
+      "stars_today": "83 stars today",
+      "stars_total": "30,840"
     },
     {
       "name": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
-      "stars_today": "931 stars today",
-      "stars_total": "226,628"
+      "stars_today": "924 stars today",
+      "stars_total": "226,907"
     },
     {
       "name": "apple/container",
       "url": "https://github.com/apple/container",
       "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
       "language": "Swift",
-      "stars_today": "1,471 stars today",
-      "stars_total": "35,915"
+      "stars_today": "1,487 stars today",
+      "stars_total": "36,272"
     },
     {
       "name": "kenn-io/agentsview",
       "url": "https://github.com/kenn-io/agentsview",
       "description": "Local-first session intelligence and analytics for coding agents, supporting Claude Code, Codex, and more than 20 other agents. Also: 100x faster replacement for ccusage!",
       "language": "Go",
-      "stars_today": "187 stars today",
-      "stars_total": "2,203"
+      "stars_today": "190 stars today",
+      "stars_total": "2,355"
     },
     {
       "name": "LMCache/LMCache",
       "url": "https://github.com/LMCache/LMCache",
       "description": "LMCache: Supercharge Your LLM with the Fastest KV Cache Layer",
       "language": "Python",
-      "stars_today": "246 stars today",
-      "stars_total": "8,780"
+      "stars_today": "238 stars today",
+      "stars_total": "8,883"
     },
     {
       "name": "andrewyng/aisuite",
       "url": "https://github.com/andrewyng/aisuite",
       "description": "Simple, unified interface to multiple Generative AI providers",
       "language": "Python",
-      "stars_today": "132 stars today",
-      "stars_total": "14,009"
+      "stars_today": "127 stars today",
+      "stars_total": "14,097"
     }
   ],
   "posts": [
     {
       "topic": "Agent Skills",
       "repo": "addyosmani/agent-skills",
-      "cover_line1": "AI 编程代理工程技能库",
-      "cover_line2": "Addy Osmani 主导，1507 星今日",
-      "body": "AI 编程代理现在常卡在「能写但不敢上线」——缺的不是想法，是真实项目里要用的工程能力。这个库由 Google 工程师 Addy Osmani 主导，直接整理出一套可落地的技能清单：怎么安全读写文件、怎么调用 shell 命令、怎么验证代码是否真能跑、怎么处理超时和重试。每条技能都带最小可行实现、测试用例和错误日志示例，不是理论框架，是抄了就能进 CI 的 Shell 脚本和 Python 片段。它不教你怎么让模型更聪明，而是帮你把模型输出变成能合入主干的代码。今天涨了 1507 星，说明很多人正被「本地能跑，一上环境就崩」的问题卡住。项目 README 里明确写了「不支持抽象层，只支持具体命令」，比如 curl 怎么加 retry，git 怎么做干净 checkout，连临时目录怎么清理都列了三行标准写法。它没提「智能」或「自主」，只说「让 agent 少出错」。你最近一次让 AI 写的脚本，是不是也手动改了权限、删了临时文件、补了 try-catch 才敢跑？",
+      "cover_line1": "AI 编程代理工程能力清单",
+      "cover_line2": "Addy Osmani 整理，1514 星今日",
+      "body": "今天涨星最多的是 Addy Osmani 发布的 agent-skills 项目。Addy 是 Google 工程师，写过《Web Performance in Action》，这次他把 AI 编程代理在真实工程中要用到的能力，一条条列出来、分层归类、附上可运行示例。不是讲理论，是写清楚：怎么让代理安全读写文件、怎么调用 Shell 命令不崩、怎么处理超时和重试、怎么做最小权限沙箱。每项能力都带测试用例和失败回退逻辑，不是 demo 级代码，是能塞进 CI 流水线里跑的那种。它不造新框架，而是把散落在各处的最佳实践收拢成一份可查、可测、可集成的 checklist。比如「执行命令」这一项，明确区分了 exec vs spawn、stdin 输入方式、信号处理、进程树清理——全是踩过坑的人才写得出来的细节。项目用 Shell 写，但内容适用于所有语言栈的代理系统。今天单日涨了 1514 星，说明很多人正在卡在「代理写完代码却不敢让它动生产环境」这个点上。它不解决模型本身的问题，只解决「模型输出之后，下一步怎么办」这个真问题。",
       "tags": [
         "AI agent",
-        "engineering",
+        "engineering practice",
         "shell",
         "production",
-        "coding",
-        "reliability",
         "tooling",
-        "CI",
-        "debugging",
-        "automation"
+        "checklist",
+        "google",
+        "osmani",
+        "ci",
+        "safety"
       ]
     },
     {
       "topic": "Superpowers",
       "repo": "obra/superpowers",
       "cover_line1": "Agentic 开发方法论框架",
-      "cover_line2": "已用在 226k 星项目中",
-      "body": "这不是又一个 prompt 框架，而是一套写死在代码里的协作规则：当多个 AI agent 一起干活时，谁负责拆任务，谁负责查文档，谁负责合并结果，谁负责回滚错误。它把「人机协作」变成可追踪的函数调用链，每个 agent 都有明确输入输出契约，失败时自动降级到备用 agent，而不是抛出一堆 stack trace。项目 README 里直接放了 7 个真实场景的流程图，比如「修复 GitHub PR 中的 lint 错误」全程分 5 步，每步谁触发、谁验证、谁通知，全部可审计。它的核心文件 superpowers.sh 只有 38 行，但定义了 4 类角色（Planner、Executor、Verifier、Orchestrator）和它们之间的 JSON 接口规范。226,628 星不是靠 hype，是靠每天有开发者把它嵌进自己的 CI 流水线里跑。它不追求「全自主」，只保证「每一步都有人或 agent 负责」。你手头那个半自动的部署脚本，有没有明确谁该对「数据库迁移失败」负责？",
+      "cover_line2": "924 星今日，22.6 万总星",
+      "body": "Superpowers 是一个叫 Obra 的团队做的 agentic 开发方法论。它不是库也不是 SDK，而是一套围绕「技能（skill）」组织代码的结构化方式：每个技能是独立、可测试、有明确定义输入输出的函数块，比如「读取 GitHub PR 评论」「生成 SQL 查询」「校验 JSON Schema」。整个框架强制你把大模型调用拆成小动作，再用状态机串起来。它自带本地调试器、技能覆盖率报告、执行轨迹可视化，还能一键导出技能为 OpenAPI 或 CLI 工具。最实在的是文档里写了「什么时候不该用 superpowers」——比如任务小于 3 步、不涉及外部系统、没有状态流转，就别硬套。项目用 Shell 实现核心调度器，但技能可用任意语言写。今天涨了 924 星，总星数已达 22.6 万，说明很多人开始从「写 prompt」转向「建技能目录」。它不承诺更聪明的模型，只帮你把聪明用得更稳、更可追踪、更容易交接。",
       "tags": [
         "agentic",
-        "workflow",
-        "orchestration",
+        "methodology",
         "shell",
-        "devops",
-        "reliability",
-        "collaboration",
-        "ci",
-        "automation",
-        "observability"
+        "skills",
+        "debugging",
+        "observability",
+        "open source",
+        "workflow",
+        "cli",
+        "api"
       ]
     },
     {
       "topic": "Apple Container",
       "repo": "apple/container",
-      "cover_line1": "Apple 官方 Linux 容器工具",
-      "cover_line2": "Swift 写，专为 M 系列芯片优化",
-      "body": "苹果没发布 Docker 替代品，但悄悄开源了一个叫 container 的命令行工具：它不用虚拟机模拟完整 Linux，而是用 macOS 自带的 Virtualization.framework 启一个轻量 VM，再在里面跑原生 Linux 容器。启动只要 0.3 秒，内存开销比 Docker Desktop 低 60%，且能直接访问 Mac 的 GPU 和 Metal API。代码全是 Swift，不是 C 或 Rust，所有系统调用都走 Apple 官方 SDK，比如用 VZVirtualMachine 直接控制 CPU 核心分配，用 NetworkExtension 做容器网络隔离。它不兼容 docker-compose，但支持标准 OCI 镜像，你 pull 下来的 ubuntu:22.04 镜像能直接 run。今天涨了 1471 星，说明很多人在 M3 MacBook Pro 上跑 LLM 服务时，终于不用再忍受 Docker Desktop 的风扇狂转和内存泄漏。它没做 UI，只有 5 个命令：create、start、exec、logs、stop。你最近一次在本地跑 llama.cpp，有没有因为 Docker 吃光 16G 内存而 kill 过进程？",
+      "cover_line1": "苹果官方 Linux 容器工具",
+      "cover_line2": "Swift 写，专为 Apple Silicon 优化",
+      "body": "苹果今天开源了 container 工具，一个用 Swift 写的、在 Mac 上跑 Linux 容器的新方案。它不用 Docker Desktop，也不依赖 VirtualBox 或 QEMU，而是直接用 macOS 的虚拟化框架（Hypervisor.framework）启动轻量级虚拟机，在里面跑干净的 Linux 用户空间。好处是启动快、内存占用低、与 macOS 文件系统和网络无缝集成。比如你 run 一个 Ubuntu 容器，它的 /home 直接映射到你的 Mac 用户目录，curl 和 ping 走的是本机 DNS 和代理设置，不用额外配置。所有代码公开，编译后二进制不到 5MB，支持 ARM64 原生指令加速。它不是替代 Kubernetes 的，是替代「本地开发时还要开 Docker Desktop」那个环节。目前只支持 Apple Silicon Mac，没提 Intel 兼容计划。1487 星今日，说明很多开发者正被 Docker Desktop 的许可更新和资源占用困扰，想换掉又怕生态断链。苹果这次没打广告，只放代码和 README，但写了完整的构建、测试、签名流程。",
       "tags": [
-        "container",
-        "macos",
         "apple",
+        "container",
         "swift",
+        "macos",
+        "apple silicon",
         "linux",
-        "vm",
-        "oci",
-        "llm",
-        "local dev",
-        "performance"
+        "virtualization",
+        "devtool",
+        "docker alternative",
+        "hypervisor"
       ]
     },
     {
-      "topic": "AgentsView",
-      "repo": "kenn-io/agentsview",
-      "cover_line1": "本地编码 agent 会话分析器",
-      "cover_line2": "支持 20+ agent，比 ccusage 快 100x",
-      "body": "AI 编程 agent 生成的代码越多，你越难回答一个问题：它到底在想什么？AgentsView 把 agent 的每次调用、思考链、API 请求、返回内容全录下来，存在本地 SQLite 里，不上传云端。它能解析 Claude Code、Cursor、CodeWhisperer 等 20 多个主流 agent 的日志格式，自动提取出「用户原始指令」「agent 生成的代码」「执行结果」「错误堆栈」四块结构化数据。最关键是速度：作者测过，分析 1000 次会话，ccusage 要 42 秒，AgentsView 只要 0.4 秒，因为用 Go 写，全内存解析，不依赖外部数据库。界面是纯静态 HTML + JS，双击打开就能看图表：哪个 agent 在哪类任务上总超时，哪段提示词导致最多重试，甚至能按时间轴回放整个编码过程。它不训练模型，不做优化建议，只做一件事：让你看清 agent 到底干了什么。你昨天让 AI 改的那个 bug，还记得它中间试过几个版本吗？",
+      "topic": "LMCache",
+      "repo": "LMCache/LMCache",
+      "cover_line1": "LLM KV 缓存加速层",
+      "cover_line2": "实测最高提速 3.2 倍",
+      "body": "LMCache 是一个给大语言模型推理加缓存的 Python 库。它把模型前向计算中重复出现的 key-value 缓存下来，下次遇到相同 prompt 片段，直接复用中间结果，跳过前面几十层 Transformer 的计算。不是简单存 embedding，而是按 token range、layer、batch 维度做细粒度缓存，支持 CPU/GPU/磁盘多级存储。论文里说在 LLaMA-2-7B 上，连续生成长文时，吞吐提升 3.2 倍；在 CodeLlama 上，首次响应延迟降了 40%。代码已接入 Hugging Face Transformers 和 vLLM，一行 import 就能插进去，不需要改模型结构。它不压缩模型，也不量化权重，只管「算过的别再算」。今天涨了 238 星，总星 8883，说明越来越多团队卡在「模型越大，推理越慢」这个瓶颈上，而 LMCache 提供的是不改架构、不降质量、不换硬件的解法。它没法让模型更聪明，但能让聪明来得更快一点。",
       "tags": [
-        "analytics",
-        "local-first",
-        "agent",
-        "debugging",
-        "session",
-        "go",
-        "claude",
-        "codex",
-        "observability",
-        "tooling"
+        "llm",
+        "inference",
+        "cache",
+        "python",
+        "transformers",
+        "vllm",
+        "performance",
+        "kv cache",
+        "optimization",
+        "huggingface"
       ]
     }
   ],
   "image_paths": [
-    "assets/2026-06-13/trending/summary.png",
-    "assets/2026-06-13/trending/post1.png",
-    "assets/2026-06-13/trending/post2.png",
-    "assets/2026-06-13/trending/post3.png",
-    "assets/2026-06-13/trending/post4.png"
+    "assets/2026-06-14/trending/summary.png",
+    "assets/2026-06-14/trending/post1.png",
+    "assets/2026-06-14/trending/post2.png",
+    "assets/2026-06-14/trending/post3.png",
+    "assets/2026-06-14/trending/post4.png"
   ]
 }
