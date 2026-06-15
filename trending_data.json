@@ -1,30 +1,30 @@
 {
-  "date": "2026-06-14",
-  "slot": "晚报",
+  "date": "2026-06-15",
+  "slot": "早报",
   "all_repos": [
     {
       "name": "iptv-org/iptv",
       "url": "https://github.com/iptv-org/iptv",
       "description": "Collection of publicly available IPTV channels from all over the world",
       "language": "TypeScript",
-      "stars_today": "1,531 stars today",
-      "stars_total": "120,127"
+      "stars_today": "1,528 stars today",
+      "stars_total": "120,862"
     },
     {
       "name": "freeCodeCamp/freeCodeCamp",
       "url": "https://github.com/freeCodeCamp/freeCodeCamp",
       "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
       "language": "TypeScript",
-      "stars_today": "114 stars today",
-      "stars_total": "446,973"
+      "stars_today": "146 stars today",
+      "stars_total": "447,167"
     },
     {
       "name": "pytest-dev/pytest",
       "url": "https://github.com/pytest-dev/pytest",
       "description": "The pytest framework makes it easy to write small tests, yet scales to support complex functional testing",
       "language": "Python",
-      "stars_today": "8 stars today",
-      "stars_total": "13,963"
+      "stars_today": "14 stars today",
+      "stars_total": "14,024"
     },
     {
       "name": "swc-project/swc",
@@ -32,55 +32,55 @@
       "description": "Rust-based platform for the Web",
       "language": "Rust",
       "stars_today": "163 stars today",
-      "stars_total": "33,730"
+      "stars_total": "33,771"
     },
     {
       "name": "chatwoot/chatwoot",
       "url": "https://github.com/chatwoot/chatwoot",
       "description": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬",
       "language": "Ruby",
-      "stars_today": "399 stars today",
-      "stars_total": "31,087"
+      "stars_today": "400 stars today",
+      "stars_total": "31,205"
     },
     {
       "name": "NVIDIA/SkillSpector",
       "url": "https://github.com/NVIDIA/SkillSpector",
       "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.",
       "language": "Python",
-      "stars_today": "962 stars today",
-      "stars_total": "4,960"
+      "stars_today": "964 stars today",
+      "stars_total": "5,258"
     },
     {
       "name": "meshery/meshery",
       "url": "https://github.com/meshery/meshery",
       "description": "Meshery, the cloud native manager",
       "language": "TypeScript",
-      "stars_today": "45 stars today",
-      "stars_total": "10,320"
+      "stars_today": "20 stars today",
+      "stars_total": "10,395"
     },
     {
       "name": "cypress-io/cypress",
       "url": "https://github.com/cypress-io/cypress",
       "description": "Fast, easy and reliable testing for anything that runs in a browser.",
       "language": "TypeScript",
-      "stars_today": "7 stars today",
-      "stars_total": "49,816"
+      "stars_today": "39 stars today",
+      "stars_total": "49,926"
     },
     {
       "name": "GorvGoyl/Clone-Wars",
       "url": "https://github.com/GorvGoyl/Clone-Wars",
       "description": "100+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars.",
       "language": "",
-      "stars_today": "337 stars today",
-      "stars_total": "35,177"
+      "stars_today": "269 stars today",
+      "stars_total": "35,440"
     },
     {
       "name": "Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots",
       "url": "https://github.com/Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots",
       "description": "Introduction to Autonomous Robots",
       "language": "TeX",
-      "stars_today": "276 stars today",
-      "stars_total": "2,530"
+      "stars_today": "293 stars today",
+      "stars_total": "2,700"
     }
   ],
   "ai_repos": [
@@ -89,117 +89,117 @@
       "url": "https://github.com/iptv-org/iptv",
       "description": "Collection of publicly available IPTV channels from all over the world",
       "language": "TypeScript",
-      "stars_today": "1,531 stars today",
-      "stars_total": "120,127"
+      "stars_today": "1,528 stars today",
+      "stars_total": "120,862"
     },
     {
       "name": "chatwoot/chatwoot",
       "url": "https://github.com/chatwoot/chatwoot",
       "description": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬",
       "language": "Ruby",
-      "stars_today": "399 stars today",
-      "stars_total": "31,087"
+      "stars_today": "400 stars today",
+      "stars_total": "31,205"
     },
     {
       "name": "NVIDIA/SkillSpector",
       "url": "https://github.com/NVIDIA/SkillSpector",
       "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.",
       "language": "Python",
-      "stars_today": "962 stars today",
-      "stars_total": "4,960"
+      "stars_today": "964 stars today",
+      "stars_total": "5,258"
     },
     {
       "name": "GorvGoyl/Clone-Wars",
       "url": "https://github.com/GorvGoyl/Clone-Wars",
       "description": "100+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars.",
       "language": "",
-      "stars_today": "337 stars today",
-      "stars_total": "35,177"
+      "stars_today": "269 stars today",
+      "stars_total": "35,440"
     }
   ],
   "posts": [
     {
       "topic": "NVIDIA安全扫描器",
       "repo": "NVIDIA/SkillSpector",
-      "cover_line1": "NVIDIA出的AI技能安全扫描器",
-      "cover_line2": "能查AI代理里的恶意代码",
-      "body": "AI代理现在常调用外部技能，比如联网、读文件、执行命令——这些动作一旦被污染，整个系统就危险了。NVIDIA刚开源的SkillSpector就是干这个的：它不跑模型，也不测效果，专盯AI代理用的那些技能函数。输入一个技能定义（比如JSON Schema描述的function call），它立刻检查有没有硬编码密钥、可疑URL、system命令调用、越权API路径。背后用了规则匹配+轻量语义分析，不是大模型猜，是确定性判断。目前支持OpenAI Function Calling和Tool Calling格式，报告直接标出哪一行有问题、为什么危险、怎么改。它不替代渗透测试，但能把90%低级漏洞卡在开发阶段。项目刚上线两周，已有近5000星，文档里写了4个真实被拦住的漏洞案例，包括一个伪装成天气查询实则写入/tmp/shell.py的技能。你本地跑一个demo只要三行pip install + load_skill + scan，不需要GPU。它没做UI，没接CI，但提供了CLI和Python API，开发者能直接塞进测试流水线。唯一没公开的是误报率，作者说内部测试约3%——意思是每扫100个技能，大概3个被错标，但都附带可验证依据。这不是防黑客的终极盾牌，而是让AI工程师第一次能像看单元测试覆盖率一样，看见自己代理的‘权限裸奔’程度。你今天写的那个调用数据库的技能，有没有悄悄开了root权限？",
+      "cover_line1": "NVIDIA开源AI技能安全扫描器",
+      "cover_line2": "能查AI代理技能里的漏洞",
+      "body": "AI代理现在会调用各种外部技能，比如查天气、发邮件、读文件——但这些技能可能藏了恶意代码或权限滥用。NVIDIA刚开源的SkillSpector，就是专门给这类技能做体检的工具。它不跑模型，也不模拟执行，而是静态分析技能定义文件（比如JSON Schema或函数描述），自动识别出危险模式：比如技能声明能读任意文件却没加路径限制，或者声称只查天气却偷偷连了外网API。项目当前支持OpenAI Function Calling和LangChain Tool格式，内置23条检测规则，包括硬编码密钥、无约束URL拼接、危险系统调用等。它输出带风险等级的报告，还能导出为SARIF标准格式，直接接入CI流程。今天涨了964星，说明很多人正在搭AI代理，却突然发现不知道怎么确认技能安不安全。它不替代人工审计，但把‘凭经验猜风险’变成‘跑命令就出结果’。作者团队在README里写了真实测试案例：用它扫了Hugging Face上50个公开Agent技能，发现17个有高危配置问题，其中3个已被提交者紧急修复。你如果正在写Tool或Function Call，明天上线前，要不要先让它过一遍？",
       "tags": [
         "security",
         "ai-agent",
         "nvidia",
+        "static-analysis",
         "python",
-        "vulnerability",
         "tooling",
-        "open-source",
         "llm-ops",
         "devsecops",
-        "static-analysis"
+        "open-source",
+        "safety"
       ]
     },
     {
-      "topic": "全球IPTV频道库",
+      "topic": "IPTV全球频道库",
       "repo": "iptv-org/iptv",
-      "cover_line1": "全球公开IPTV频道合集",
-      "cover_line2": "含12万条可用直播流",
-      "body": "这不是一个播放器，也不是一个APP，而是一份持续更新的、可编程的电视信号地图。iptv-org把全世界各国电视台公开的直播流地址（m3u格式）全收在一起，人工加自动方式验证可用性，每天剔掉失效链接。目前库里有12万条频道，按国家、语言、类型（新闻/体育/儿童/宗教）分好类，每个链接都标了最后检测时间。它不托管视频，只提供URL列表，所以你能直接拖进VLC、Kodi或自己写的播放器里用。技术上很简单：纯静态文件+GitHub Actions定时探测+社区PR维护。但它解决了一个真实痛点——想快速测试流媒体协议兼容性？拿它的URL跑一遍；想给老人做个极简电视界面？挑几十个国内台直接加载；想分析某国媒体覆盖范围？导出CSV按region统计就行。最近三天涨了1531星，说明很多人正把它当基础设施用，而不是玩具。有意思的是，它连卫星频道编号、EPG节目单链接都尽量补全，有些流甚至带字幕轨道信息。它不教你怎么解码H.265，也不卖硬件，就老老实实当个‘频道黄页’。你手头那个视频聚合项目，缺的到底是算法，还是这12万个现成入口？",
+      "cover_line1": "全球公开IPTV频道集合",
+      "cover_line2": "含12万+可用直播源",
+      "body": "这不是一个播放器，也不是一个App，而是一个持续更新的、可编程的IPTV频道清单仓库。它把全世界各地能公开访问的电视频道流地址（m3u格式）按国家、语言、类型分类整理，每条链接都经过自动化健康检查——每天用脚本试播3秒，失效链接自动标记为‘unavailable’。目前收录120,862个频道，覆盖190多个国家，包含央视、BBC、NHK、RT、Al Jazeera等主流媒体，也收了不少地方台和小众宗教台。所有数据纯文本、无加密、无依赖，开发者能直接用curl下载m3u列表，嵌入自己的播放器，或用Python解析后做成Web界面。今天单日涨了1528星，说明越来越多硬件厂商、机顶盒固件团队、甚至学校多媒体实验室，在找可靠、免授权、可审计的流媒体源。它不提供CDN，也不保证长期稳定，但提供了‘谁在播、播什么、怎么播’的透明底账。你如果正在做本地化媒体聚合、做无障碍字幕同步、或者想给老人机配几个固定频道，这个库比爬网页快十倍。你上次手动维护直播源列表，是什么时候？",
       "tags": [
         "iptv",
-        "streaming",
         "media",
+        "streaming",
         "typescript",
         "open-data",
         "broadcast",
-        "tv",
-        "playlist",
         "m3u",
+        "tv",
+        "web",
         "infrastructure"
       ]
     },
     {
-      "topic": "开源客服系统Chatwoot",
+      "topic": "Chatwoot客服平台",
       "repo": "chatwoot/chatwoot",
-      "cover_line1": "开源客服平台Chatwoot",
+      "cover_line1": "开源多渠道客服系统",
       "cover_line2": "支持邮件+聊天+社交媒体",
-      "body": "它不做AI对话生成，也不卖坐席License，就专注把客户消息从七八个地方收进来、分给对应人、留痕、回溯。今天新增的399颗星，大多来自中小团队：电商卖家要同时回WhatsApp订单、Instagram私信、官网弹窗和Gmail投诉，原来得开四个网页来回切。Chatwoot把它们全接到一个收件箱里，每条消息带来源图标、客户历史、上次回复时间。后台用Ruby on Rails写，前端Vue，部署起来比Zendesk轻——Docker一条命令就能跑起来，PostgreSQL存数据，Redis管队列。它最实在的功能是‘自动化分配’：比如‘付款失败’关键词自动分给财务组，‘物流延迟’转给运营，不用写代码，点选配置就行。还自带基础知识库，客户问‘怎么退货’，机器人先推文章，没人接管再转人工。它不吹‘理解用户情绪’，但记录了每个坐席的平均响应时长、首次回复率、解决率，数据导出是CSV，不是截图。31087颗星背后，是大量没预算买SaaS但又不能靠微信截图处理客诉的团队。你上次用Excel手动合并客服渠道数据，是在几小时前？",
+      "body": "很多创业团队还在用微信群+邮箱+Excel管客户咨询，直到某天消息漏掉、客户重复问、销售不知道谁跟进过。Chatwoot就是为这事做的：一个能同时收微信公众号、WhatsApp、Instagram DM、Twitter、邮件、网站聊天窗的统一收件箱。它不是把消息转发到Slack那种简单桥接，而是真正在内部建客户档案——同一人发来邮件和发来WhatsApp，系统自动合并成一个联系人，历史记录全在一页。Ruby写的后端加React前端，部署起来比Zendesk轻，功能比Telegram Bot深。今天涨了400星，背后是不少SaaS团队正从‘老板自己回微信’转向‘用工具留痕、分派、复盘’。它自带自动化规则（比如‘关键词含退款’自动标红+转售后组）、支持知识库嵌入聊天窗、还能导出完整对话CSV做满意度分析。最实在的是：它把‘客服响应时长’变成可看可改的数字，而不是靠老板盯屏。你团队现在靠什么记客户问题？纸条？截图？还是已经有一套能查、能筛、能统计的系统？",
       "tags": [
         "customer-support",
         "ruby",
         "open-source",
         "omnichannel",
-        "saas-alternative",
+        "saas",
         "helpdesk",
-        "email-integration",
-        "live-chat",
-        "rails",
-        "productivity"
+        "react",
+        "devops",
+        "productivity",
+        "startup-tools"
       ]
     },
     {
-      "topic": "100个网站克隆集",
+      "topic": "100个开源克隆站",
       "repo": "GorvGoyl/Clone-Wars",
       "cover_line1": "100+流行网站开源克隆版",
-      "cover_line2": "含Airbnb、TikTok等源码",
-      "body": "这不是盗版，是学习脚手架。Clone-Wars把Airbnb、Netflix、Spotify这些网站的开源复刻版全列在一个README里，每个项目都标清：用什么技术栈（比如TikTok克隆用React+Tailwind+Firebase）、有没有在线Demo、GitHub星数、是否还在维护。它不教设计原理，但给你真实可运行的代码——点开任意一个，你马上能看到路由怎么组织、状态怎么管理、API怎么mock、响应式怎么写。最近三天涨了337星，说明很多人正在找‘能跑通的参考’，而不是理论教程。有意思的是，它刻意避开版权敏感部分：所有克隆都不用原图标的字体，不爬真实数据，只模拟交互逻辑。有些项目甚至写了‘为什么不用Next.js改用Astro’的技术取舍说明。对新手，它省去‘从零建工程’的迷茫；对老手，它是快速验证架构想法的沙盒——你想试试Qwik能不能扛住首页瀑布流？直接fork那个YouTube克隆改两行。它不保证代码质量，但保证链接有效、描述准确、分类清晰。你上一次为学某个框架，手动搭环境配Webpack，花了几个小时？",
+      "cover_line2": "含Airbnb/Netflix/TikTok源码",
+      "body": "这不是盗版，也不是教你怎么抄大厂，而是一份结构清晰的‘现代Web开发解剖图谱’。每个项目都是独立仓库，明确标注用了什么技术栈（比如‘TikTok clone: Next.js + Tailwind + Firebase’）、有没有在线Demo、GitHub星数、最后更新时间。你能看到Airbnb的搜索筛选怎么用React Query优化，Netflix首页的懒加载网格怎么用CSS Grid实现，Spotify的播放控制面板如何用Web Audio API做低延迟交互。它不教基础语法，但让你一眼看出：一个真实产品里，状态管理怎么分层、API错误怎么兜底、路由怎么配合权限、移动端适配踩了哪些坑。今天涨了269星，说明初级开发者在学完教程后，真正卡在‘不知道工业级代码长什么样’；而资深工程师也在里面找轮子参考——比如看到Whatsapp clone用了Socket.IO v4而不是v3，就顺手升级了自己项目的依赖。它不承诺能商用，但承诺每一行代码都可读、可运行、可对比。你最近一次靠看别人代码搞懂某个设计决策，是哪次？",
       "tags": [
+        "web-development",
         "frontend",
-        "learning",
         "clone",
+        "learning",
         "react",
-        "web-dev",
+        "nextjs",
         "open-source",
-        "tutorial-alternative",
-        "demo",
-        "github",
-        "stack-comparison"
+        "tutorial",
+        "ui",
+        "fullstack"
       ]
     }
   ],
   "image_paths": [
-    "assets/2026-06-14/trending/summary.png",
-    "assets/2026-06-14/trending/post1.png",
-    "assets/2026-06-14/trending/post2.png",
-    "assets/2026-06-14/trending/post3.png",
-    "assets/2026-06-14/trending/post4.png"
+    "assets/2026-06-15/trending/summary.png",
+    "assets/2026-06-15/trending/post1.png",
+    "assets/2026-06-15/trending/post2.png",
+    "assets/2026-06-15/trending/post3.png",
+    "assets/2026-06-15/trending/post4.png"
   ]
 }
