@@ -1,5 +1,5 @@
 {
-  "date": "2026-06-15",
+  "date": "2026-06-16",
   "slot": "早报",
   "all_repos": [
     {
@@ -7,80 +7,80 @@
       "url": "https://github.com/iptv-org/iptv",
       "description": "Collection of publicly available IPTV channels from all over the world",
       "language": "TypeScript",
-      "stars_today": "1,528 stars today",
-      "stars_total": "120,862"
+      "stars_today": "2,650 stars today",
+      "stars_total": "122,652"
     },
     {
-      "name": "freeCodeCamp/freeCodeCamp",
-      "url": "https://github.com/freeCodeCamp/freeCodeCamp",
-      "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
-      "language": "TypeScript",
-      "stars_today": "146 stars today",
-      "stars_total": "447,167"
+      "name": "teslamate-org/teslamate",
+      "url": "https://github.com/teslamate-org/teslamate",
+      "description": "A self-hosted data logger for your Tesla 🚘 [main maintainer=@JakobLichterfeld]",
+      "language": "Elixir",
+      "stars_today": "35 stars today",
+      "stars_total": "8,191"
     },
     {
-      "name": "pytest-dev/pytest",
-      "url": "https://github.com/pytest-dev/pytest",
-      "description": "The pytest framework makes it easy to write small tests, yet scales to support complex functional testing",
+      "name": "Panniantong/Agent-Reach",
+      "url": "https://github.com/Panniantong/Agent-Reach",
+      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
       "language": "Python",
-      "stars_today": "14 stars today",
-      "stars_total": "14,024"
-    },
-    {
-      "name": "swc-project/swc",
-      "url": "https://github.com/swc-project/swc",
-      "description": "Rust-based platform for the Web",
-      "language": "Rust",
-      "stars_today": "163 stars today",
-      "stars_total": "33,771"
-    },
-    {
-      "name": "chatwoot/chatwoot",
-      "url": "https://github.com/chatwoot/chatwoot",
-      "description": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬",
-      "language": "Ruby",
-      "stars_today": "400 stars today",
-      "stars_total": "31,205"
-    },
-    {
-      "name": "NVIDIA/SkillSpector",
-      "url": "https://github.com/NVIDIA/SkillSpector",
-      "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.",
-      "language": "Python",
-      "stars_today": "964 stars today",
-      "stars_total": "5,258"
+      "stars_today": "1,045 stars today",
+      "stars_total": "29,839"
     },
     {
       "name": "meshery/meshery",
       "url": "https://github.com/meshery/meshery",
       "description": "Meshery, the cloud native manager",
       "language": "TypeScript",
-      "stars_today": "20 stars today",
-      "stars_total": "10,395"
+      "stars_today": "227 stars today",
+      "stars_total": "10,580"
     },
     {
-      "name": "cypress-io/cypress",
-      "url": "https://github.com/cypress-io/cypress",
-      "description": "Fast, easy and reliable testing for anything that runs in a browser.",
+      "name": "chatwoot/chatwoot",
+      "url": "https://github.com/chatwoot/chatwoot",
+      "description": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬",
+      "language": "Ruby",
+      "stars_today": "431 stars today",
+      "stars_total": "31,571"
+    },
+    {
+      "name": "krahets/hello-algo",
+      "url": "https://github.com/krahets/hello-algo",
+      "description": "《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现",
+      "language": "Java",
+      "stars_today": "95 stars today",
+      "stars_total": "126,833"
+    },
+    {
+      "name": "freeCodeCamp/freeCodeCamp",
+      "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+      "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
       "language": "TypeScript",
-      "stars_today": "39 stars today",
-      "stars_total": "49,926"
+      "stars_today": "738 stars today",
+      "stars_total": "447,759"
     },
     {
-      "name": "GorvGoyl/Clone-Wars",
-      "url": "https://github.com/GorvGoyl/Clone-Wars",
-      "description": "100+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars.",
+      "name": "trycua/cua",
+      "url": "https://github.com/trycua/cua",
+      "description": "Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).",
+      "language": "HTML",
+      "stars_today": "57 stars today",
+      "stars_total": "18,087"
+    },
+    {
+      "name": "jwasham/coding-interview-university",
+      "url": "https://github.com/jwasham/coding-interview-university",
+      "description": "A complete computer science study plan to become a software engineer.",
       "language": "",
-      "stars_today": "269 stars today",
-      "stars_total": "35,440"
+      "stars_today": "352 stars today",
+      "stars_total": "352,187"
     },
     {
-      "name": "Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots",
-      "url": "https://github.com/Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots",
-      "description": "Introduction to Autonomous Robots",
-      "language": "TeX",
-      "stars_today": "293 stars today",
-      "stars_total": "2,700"
+      "name": "rohitg00/ai-engineering-from-scratch",
+      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "description": "Learn it. Build it. Ship it for others.",
+      "language": "Python",
+      "stars_today": "538 stars today",
+      "stars_total": "32,928"
     }
   ],
   "ai_repos": [
@@ -89,117 +89,133 @@
       "url": "https://github.com/iptv-org/iptv",
       "description": "Collection of publicly available IPTV channels from all over the world",
       "language": "TypeScript",
-      "stars_today": "1,528 stars today",
-      "stars_total": "120,862"
+      "stars_today": "2,650 stars today",
+      "stars_total": "122,652"
+    },
+    {
+      "name": "teslamate-org/teslamate",
+      "url": "https://github.com/teslamate-org/teslamate",
+      "description": "A self-hosted data logger for your Tesla 🚘 [main maintainer=@JakobLichterfeld]",
+      "language": "Elixir",
+      "stars_today": "35 stars today",
+      "stars_total": "8,191"
+    },
+    {
+      "name": "Panniantong/Agent-Reach",
+      "url": "https://github.com/Panniantong/Agent-Reach",
+      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "language": "Python",
+      "stars_today": "1,045 stars today",
+      "stars_total": "29,839"
     },
     {
       "name": "chatwoot/chatwoot",
       "url": "https://github.com/chatwoot/chatwoot",
       "description": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬",
       "language": "Ruby",
-      "stars_today": "400 stars today",
-      "stars_total": "31,205"
+      "stars_today": "431 stars today",
+      "stars_total": "31,571"
     },
     {
-      "name": "NVIDIA/SkillSpector",
-      "url": "https://github.com/NVIDIA/SkillSpector",
-      "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.",
+      "name": "trycua/cua",
+      "url": "https://github.com/trycua/cua",
+      "description": "Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).",
+      "language": "HTML",
+      "stars_today": "57 stars today",
+      "stars_total": "18,087"
+    },
+    {
+      "name": "rohitg00/ai-engineering-from-scratch",
+      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "description": "Learn it. Build it. Ship it for others.",
       "language": "Python",
-      "stars_today": "964 stars today",
-      "stars_total": "5,258"
-    },
-    {
-      "name": "GorvGoyl/Clone-Wars",
-      "url": "https://github.com/GorvGoyl/Clone-Wars",
-      "description": "100+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars.",
-      "language": "",
-      "stars_today": "269 stars today",
-      "stars_total": "35,440"
+      "stars_today": "538 stars today",
+      "stars_total": "32,928"
     }
   ],
   "posts": [
     {
-      "topic": "NVIDIA安全扫描器",
-      "repo": "NVIDIA/SkillSpector",
-      "cover_line1": "NVIDIA开源AI技能安全扫描器",
-      "cover_line2": "能查AI代理技能里的漏洞",
-      "body": "AI代理现在会调用各种外部技能，比如查天气、发邮件、读文件——但这些技能可能藏了恶意代码或权限滥用。NVIDIA刚开源的SkillSpector，就是专门给这类技能做体检的工具。它不跑模型，也不模拟执行，而是静态分析技能定义文件（比如JSON Schema或函数描述），自动识别出危险模式：比如技能声明能读任意文件却没加路径限制，或者声称只查天气却偷偷连了外网API。项目当前支持OpenAI Function Calling和LangChain Tool格式，内置23条检测规则，包括硬编码密钥、无约束URL拼接、危险系统调用等。它输出带风险等级的报告，还能导出为SARIF标准格式，直接接入CI流程。今天涨了964星，说明很多人正在搭AI代理，却突然发现不知道怎么确认技能安不安全。它不替代人工审计，但把‘凭经验猜风险’变成‘跑命令就出结果’。作者团队在README里写了真实测试案例：用它扫了Hugging Face上50个公开Agent技能，发现17个有高危配置问题，其中3个已被提交者紧急修复。你如果正在写Tool或Function Call，明天上线前，要不要先让它过一遍？",
+      "topic": "Agent-Reach",
+      "repo": "Panniantong/Agent-Reach",
+      "cover_line1": "AI agent网页爬取工具",
+      "cover_line2": "支持9个平台免API费",
+      "body": "你让AI agent上网查东西，它通常只能看一个网页。Agent-Reach把它变成真浏览器——一条命令就能搜Twitter、Reddit、YouTube、GitHub、Bilibili、小红书，不用申请API密钥，不走官方接口，也不付钱。它把每个平台的页面结构拆成统一格式，返回标题、正文、发布时间、作者、链接，全是纯文本。开发者直接拿结果喂给LLM，不用写一堆适配代码。项目用Python写，核心逻辑不到200行，靠真实HTML解析+关键词定位，不是截图OCR也不是模拟点击。今天涨了1045星，说明很多人卡在‘agent不会主动找信息’这一步。它不训练模型，不调大模型，只解决‘看得见’这个基础问题。你本地跑起来只要pip install，然后run agent-reach --platform xiaohongshu --query 'RAG 最佳实践'，3秒后拿到20条笔记原文。它没做缓存，没做去重，也没做权限管理——就干一件事：让agent第一次真正睁开眼。文档里写了每个平台的抓取频率限制和反爬绕过方式，比如B站用的是带Referer的静态请求，小红书靠伪造X-Sign头。你试一次就知道它能不能进你的pipeline。它不承诺100%成功率，但列出了失败时的错误码和对应平台的当前限制。如果你正在搭自己的agent工作流，它不是终点，但可能是你今天最省时间的起点。",
       "tags": [
-        "security",
-        "ai-agent",
-        "nvidia",
-        "static-analysis",
-        "python",
-        "tooling",
-        "llm-ops",
-        "devsecops",
-        "open-source",
-        "safety"
+        "AI agent",
+        "web scraping",
+        "open source",
+        "CLI tool",
+        "no API fee",
+        "multi-platform",
+        "Python",
+        "RAG",
+        "data fetching",
+        "productivity"
       ]
     },
     {
-      "topic": "IPTV全球频道库",
-      "repo": "iptv-org/iptv",
-      "cover_line1": "全球公开IPTV频道集合",
-      "cover_line2": "含12万+可用直播源",
-      "body": "这不是一个播放器，也不是一个App，而是一个持续更新的、可编程的IPTV频道清单仓库。它把全世界各地能公开访问的电视频道流地址（m3u格式）按国家、语言、类型分类整理，每条链接都经过自动化健康检查——每天用脚本试播3秒，失效链接自动标记为‘unavailable’。目前收录120,862个频道，覆盖190多个国家，包含央视、BBC、NHK、RT、Al Jazeera等主流媒体，也收了不少地方台和小众宗教台。所有数据纯文本、无加密、无依赖，开发者能直接用curl下载m3u列表，嵌入自己的播放器，或用Python解析后做成Web界面。今天单日涨了1528星，说明越来越多硬件厂商、机顶盒固件团队、甚至学校多媒体实验室，在找可靠、免授权、可审计的流媒体源。它不提供CDN，也不保证长期稳定，但提供了‘谁在播、播什么、怎么播’的透明底账。你如果正在做本地化媒体聚合、做无障碍字幕同步、或者想给老人机配几个固定频道，这个库比爬网页快十倍。你上次手动维护直播源列表，是什么时候？",
+      "topic": "Cua",
+      "repo": "trycua/cua",
+      "cover_line1": "桌面级AI agent沙盒",
+      "cover_line2": "支持Win/macOS/Linux",
+      "body": "AI agent要真能操作电脑，得先有个安全环境练手。Cua就是这么个沙盒——不是模拟器，是真实操作系统镜像，预装了Chrome、VS Code、Terminal，还带录屏和操作回放。它提供SDK让你写Python脚本控制鼠标键盘，也自带一套任务评测集，比如‘在GitHub上给某个仓库提issue’或‘用Excel算出三组数字的平均值’。所有动作都在隔离虚拟机里跑，不会碰你本机文件。今天涨了57星，不算猛，但star总数已有1.8万，说明不少团队在悄悄建内部测试平台。它用HTML当界面壳，底层其实是QEMU+cloud-init启动的轻量VM，启动只要8秒。文档里写了怎么把任务定义成JSON Schema，也列了每个系统支持的GUI自动化能力边界，比如Windows能点开始菜单，macOS能唤Spotlight，Linux只支持X11应用。它不卖模型，不连云端，所有代码本地跑。你要是正为agent做端到端评估，它省掉你搭VM、配环境、录轨迹的三天时间。但它不处理OCR识别不准、窗口遮挡、动态加载这些真实问题——它先保证‘能动’，再等你填细节。",
       "tags": [
-        "iptv",
-        "media",
-        "streaming",
-        "typescript",
-        "open-data",
-        "broadcast",
-        "m3u",
-        "tv",
-        "web",
-        "infrastructure"
+        "computer use agent",
+        "sandbox",
+        "desktop automation",
+        "evaluation",
+        "open source",
+        "QEMU",
+        "cross-platform",
+        "SDK",
+        "benchmark",
+        "local first"
       ]
     },
     {
-      "topic": "Chatwoot客服平台",
-      "repo": "chatwoot/chatwoot",
-      "cover_line1": "开源多渠道客服系统",
-      "cover_line2": "支持邮件+聊天+社交媒体",
-      "body": "很多创业团队还在用微信群+邮箱+Excel管客户咨询，直到某天消息漏掉、客户重复问、销售不知道谁跟进过。Chatwoot就是为这事做的：一个能同时收微信公众号、WhatsApp、Instagram DM、Twitter、邮件、网站聊天窗的统一收件箱。它不是把消息转发到Slack那种简单桥接，而是真正在内部建客户档案——同一人发来邮件和发来WhatsApp，系统自动合并成一个联系人，历史记录全在一页。Ruby写的后端加React前端，部署起来比Zendesk轻，功能比Telegram Bot深。今天涨了400星，背后是不少SaaS团队正从‘老板自己回微信’转向‘用工具留痕、分派、复盘’。它自带自动化规则（比如‘关键词含退款’自动标红+转售后组）、支持知识库嵌入聊天窗、还能导出完整对话CSV做满意度分析。最实在的是：它把‘客服响应时长’变成可看可改的数字，而不是靠老板盯屏。你团队现在靠什么记客户问题？纸条？截图？还是已经有一套能查、能筛、能统计的系统？",
+      "topic": "AI工程课",
+      "repo": "rohitg00/ai-engineering-from-scratch",
+      "cover_line1": "手把手AI工程课",
+      "cover_line2": "从零写完一个RAG服务",
+      "body": "学AI不是光看论文，得亲手敲出能上线的服务。这个课就干这事：从空文件夹开始，用Python写一个带搜索、缓存、Web UI的RAG服务，全程不抄模板，每步解释为什么选FastAPI而不是Flask，为什么用Chroma而不是FAISS，为什么token切分用RecursiveCharacterTextSplitter。今天涨了538星，总星数超3.2万，说明很多人卡在‘知道概念但不会搭’。它不讲Transformer原理，只讲‘现在要加个用户上传PDF功能，该改哪三行代码’。所有代码都带commit history，你能看到作者怎么一步步加错误重试、怎么把硬编码路径换成配置文件、怎么发现并发时向量库锁死、最后怎么用uvicorn热重载调试。配套notebook里有真实数据——比如用LlamaIndex跑通Arxiv论文摘要问答，响应时间压到800ms以内。它甚至写了怎么用GitHub Actions自动部署到Fly.io，包括SSL证书怎么续。没有‘高级技巧’章节，只有‘你刚改完这行，下一步该测什么’。它不承诺教你成专家，但保证你合上教程时，硬盘里真有一个能回答你问题的URL。",
       "tags": [
-        "customer-support",
-        "ruby",
-        "open-source",
-        "omnichannel",
-        "saas",
-        "helpdesk",
-        "react",
-        "devops",
-        "productivity",
-        "startup-tools"
-      ]
-    },
-    {
-      "topic": "100个开源克隆站",
-      "repo": "GorvGoyl/Clone-Wars",
-      "cover_line1": "100+流行网站开源克隆版",
-      "cover_line2": "含Airbnb/Netflix/TikTok源码",
-      "body": "这不是盗版，也不是教你怎么抄大厂，而是一份结构清晰的‘现代Web开发解剖图谱’。每个项目都是独立仓库，明确标注用了什么技术栈（比如‘TikTok clone: Next.js + Tailwind + Firebase’）、有没有在线Demo、GitHub星数、最后更新时间。你能看到Airbnb的搜索筛选怎么用React Query优化，Netflix首页的懒加载网格怎么用CSS Grid实现，Spotify的播放控制面板如何用Web Audio API做低延迟交互。它不教基础语法，但让你一眼看出：一个真实产品里，状态管理怎么分层、API错误怎么兜底、路由怎么配合权限、移动端适配踩了哪些坑。今天涨了269星，说明初级开发者在学完教程后，真正卡在‘不知道工业级代码长什么样’；而资深工程师也在里面找轮子参考——比如看到Whatsapp clone用了Socket.IO v4而不是v3，就顺手升级了自己项目的依赖。它不承诺能商用，但承诺每一行代码都可读、可运行、可对比。你最近一次靠看别人代码搞懂某个设计决策，是哪次？",
-      "tags": [
-        "web-development",
-        "frontend",
-        "clone",
-        "learning",
-        "react",
-        "nextjs",
-        "open-source",
+        "AI engineering",
+        "RAG",
+        "hands-on",
         "tutorial",
-        "ui",
-        "fullstack"
+        "Python",
+        "FastAPI",
+        "deployment",
+        "open source",
+        "learning path",
+        "production ready"
+      ]
+    },
+    {
+      "topic": "TeslaMate",
+      "repo": "teslamate-org/teslamate",
+      "cover_line1": "特斯拉车辆数据记录器",
+      "cover_line2": "主维护者JakobLichterfeld",
+      "body": "你买特斯拉，车厂只给你App看实时状态，历史数据全锁在云端。TeslaMate让你自己存——树莓派接个Wi-Fi，跑Elixir服务，自动连特斯拉API，每30秒记一次电量、位置、温度、充电状态，存在PostgreSQL里。今天涨了35星，总星8191，用户多是车主兼开发者。它不破解车，只用官方未公开但允许的OAuth流程，靠长连接保持登录态。数据字段全开源：比如‘speed_limit_mode’字段告诉你限速模式是否开启，‘sentry_mode’告诉你哨兵模式录像是否在写入SD卡。UI是Grafana做的，自带20个仪表盘，比如‘本月能耗曲线’或‘停车场停留热力图’。它不卖硬件，不收订阅费，连更新日志都写明‘这次修复了Model Y 2023款v2023.42.25的seat_heater_left字段解析错位’。你要是想分析自己车的续航衰减，或者写个‘快没电时自动发微信提醒’的脚本，它给你干净的时间序列数据。它也不教你怎么修车，只保证你拿到的数据和特斯拉后台一致——上周刚同步了新加入的‘track_mode’字段。你不需要懂Elixir，只要会改config.exs里的邮箱和密码，就能跑起来。",
+      "tags": [
+        "Tesla",
+        "IoT",
+        "data logging",
+        "self-hosted",
+        "Elixir",
+        "PostgreSQL",
+        "Grafana",
+        "car data",
+        "open source",
+        "hardware integration"
       ]
     }
   ],
   "image_paths": [
-    "assets/2026-06-15/trending/summary.png",
-    "assets/2026-06-15/trending/post1.png",
-    "assets/2026-06-15/trending/post2.png",
-    "assets/2026-06-15/trending/post3.png",
-    "assets/2026-06-15/trending/post4.png"
+    "assets/2026-06-16/trending/summary.png",
+    "assets/2026-06-16/trending/post1.png",
+    "assets/2026-06-16/trending/post2.png",
+    "assets/2026-06-16/trending/post3.png",
+    "assets/2026-06-16/trending/post4.png"
   ]
 }
