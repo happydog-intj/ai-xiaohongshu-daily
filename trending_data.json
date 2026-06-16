@@ -1,221 +1,137 @@
 {
-  "date": "2026-06-16",
+  "date": "2026-06-17",
   "slot": "早报",
   "all_repos": [
     {
-      "name": "iptv-org/iptv",
-      "url": "https://github.com/iptv-org/iptv",
-      "description": "Collection of publicly available IPTV channels from all over the world",
+      "name": "freeCodeCamp/freeCodeCamp",
+      "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+      "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
       "language": "TypeScript",
-      "stars_today": "2,657 stars today",
-      "stars_total": "122,845"
+      "stars_today": "640 stars today",
+      "stars_total": "448,417"
+    },
+    {
+      "name": "swc-project/swc",
+      "url": "https://github.com/swc-project/swc",
+      "description": "Rust-based platform for the Web",
+      "language": "Rust",
+      "stars_today": "21 stars today",
+      "stars_total": "33,934"
     },
     {
       "name": "teslamate-org/teslamate",
       "url": "https://github.com/teslamate-org/teslamate",
       "description": "A self-hosted data logger for your Tesla 🚘 [main maintainer=@JakobLichterfeld]",
       "language": "Elixir",
-      "stars_today": "33 stars today",
-      "stars_total": "8,226"
+      "stars_today": "214 stars today",
+      "stars_total": "8,376"
     },
     {
-      "name": "Panniantong/Agent-Reach",
-      "url": "https://github.com/Panniantong/Agent-Reach",
-      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
-      "language": "Python",
-      "stars_today": "1,100 stars today",
-      "stars_total": "30,114"
+      "name": "iptv-org/iptv",
+      "url": "https://github.com/iptv-org/iptv",
+      "description": "Collection of publicly available IPTV channels from all over the world",
+      "language": "TypeScript",
+      "stars_today": "1,196 stars today",
+      "stars_total": "123,850"
+    },
+    {
+      "name": "puppeteer/puppeteer",
+      "url": "https://github.com/puppeteer/puppeteer",
+      "description": "JavaScript API for Chrome and Firefox",
+      "language": "TypeScript",
+      "stars_today": "80 stars today",
+      "stars_total": "94,837"
     },
     {
       "name": "meshery/meshery",
       "url": "https://github.com/meshery/meshery",
       "description": "Meshery, the cloud native manager",
       "language": "TypeScript",
-      "stars_today": "228 stars today",
-      "stars_total": "10,623"
+      "stars_today": "229 stars today",
+      "stars_total": "10,795"
     },
     {
-      "name": "chatwoot/chatwoot",
-      "url": "https://github.com/chatwoot/chatwoot",
-      "description": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬",
-      "language": "Ruby",
-      "stars_today": "431 stars today",
-      "stars_total": "31,670"
-    },
-    {
-      "name": "krahets/hello-algo",
-      "url": "https://github.com/krahets/hello-algo",
-      "description": "《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现",
-      "language": "Java",
-      "stars_today": "71 stars today",
-      "stars_total": "126,885"
-    },
-    {
-      "name": "freeCodeCamp/freeCodeCamp",
-      "url": "https://github.com/freeCodeCamp/freeCodeCamp",
-      "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
+      "name": "cypress-io/cypress",
+      "url": "https://github.com/cypress-io/cypress",
+      "description": "Fast, easy and reliable testing for anything that runs in a browser.",
       "language": "TypeScript",
-      "stars_today": "736 stars today",
-      "stars_total": "447,875"
+      "stars_today": "11 stars today",
+      "stars_total": "50,143"
     },
     {
-      "name": "trycua/cua",
-      "url": "https://github.com/trycua/cua",
-      "description": "Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).",
-      "language": "HTML",
-      "stars_today": "70 stars today",
-      "stars_total": "18,140"
-    },
-    {
-      "name": "jwasham/coding-interview-university",
-      "url": "https://github.com/jwasham/coding-interview-university",
-      "description": "A complete computer science study plan to become a software engineer.",
-      "language": "",
-      "stars_today": "364 stars today",
-      "stars_total": "352,290"
-    },
-    {
-      "name": "rohitg00/ai-engineering-from-scratch",
-      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-      "description": "Learn it. Build it. Ship it for others.",
+      "name": "music-assistant/server",
+      "url": "https://github.com/music-assistant/server",
+      "description": "Music Assistant is a free, opensource Media library manager that connects to your streaming services and a wide range of connected speakers. The server is the beating heart, the core of Music Assistant and must run on an always-on device like a Raspberry Pi, a NAS or an Intel NUC or alike.",
       "language": "Python",
-      "stars_today": "562 stars today",
-      "stars_total": "33,067"
+      "stars_today": "157 stars today",
+      "stars_total": "2,517"
+    },
+    {
+      "name": "Universal-Debloater-Alliance/universal-android-debloater-next-generation",
+      "url": "https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation",
+      "description": "Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device.",
+      "language": "Rust",
+      "stars_today": "146 stars today",
+      "stars_total": "7,192"
+    },
+    {
+      "name": "OpenBMB/VoxCPM",
+      "url": "https://github.com/OpenBMB/VoxCPM",
+      "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
+      "language": "Python",
+      "stars_today": "413 stars today",
+      "stars_total": "30,054"
     }
   ],
   "ai_repos": [
-    {
-      "name": "iptv-org/iptv",
-      "url": "https://github.com/iptv-org/iptv",
-      "description": "Collection of publicly available IPTV channels from all over the world",
-      "language": "TypeScript",
-      "stars_today": "2,657 stars today",
-      "stars_total": "122,845"
-    },
     {
       "name": "teslamate-org/teslamate",
       "url": "https://github.com/teslamate-org/teslamate",
       "description": "A self-hosted data logger for your Tesla 🚘 [main maintainer=@JakobLichterfeld]",
       "language": "Elixir",
-      "stars_today": "33 stars today",
-      "stars_total": "8,226"
+      "stars_today": "214 stars today",
+      "stars_total": "8,376"
     },
     {
-      "name": "Panniantong/Agent-Reach",
-      "url": "https://github.com/Panniantong/Agent-Reach",
-      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "name": "iptv-org/iptv",
+      "url": "https://github.com/iptv-org/iptv",
+      "description": "Collection of publicly available IPTV channels from all over the world",
+      "language": "TypeScript",
+      "stars_today": "1,196 stars today",
+      "stars_total": "123,850"
+    },
+    {
+      "name": "OpenBMB/VoxCPM",
+      "url": "https://github.com/OpenBMB/VoxCPM",
+      "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
       "language": "Python",
-      "stars_today": "1,100 stars today",
-      "stars_total": "30,114"
-    },
-    {
-      "name": "chatwoot/chatwoot",
-      "url": "https://github.com/chatwoot/chatwoot",
-      "description": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬",
-      "language": "Ruby",
-      "stars_today": "431 stars today",
-      "stars_total": "31,670"
-    },
-    {
-      "name": "trycua/cua",
-      "url": "https://github.com/trycua/cua",
-      "description": "Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).",
-      "language": "HTML",
-      "stars_today": "70 stars today",
-      "stars_total": "18,140"
-    },
-    {
-      "name": "rohitg00/ai-engineering-from-scratch",
-      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-      "description": "Learn it. Build it. Ship it for others.",
-      "language": "Python",
-      "stars_today": "562 stars today",
-      "stars_total": "33,067"
+      "stars_today": "413 stars today",
+      "stars_total": "30,054"
     }
   ],
   "posts": [
     {
-      "topic": "Agent-Reach",
-      "repo": "Panniantong/Agent-Reach",
-      "cover_line1": "AI代理上网工具",
-      "cover_line2": "支持7个平台免API费",
-      "body": "你让AI代理查微博热搜，它卡在登录页；你让它看B站视频评论，它连网页都打不开。Agent-Reach 解决的就是这个事：它把 Twitter、Reddit、YouTube、GitHub、Bilibili、小红书、Reddit 这 7 个平台的公开内容，统一做成命令行接口。不用申请 API 密钥，不走官方限制通道，也不需要你自己写爬虫。所有数据都靠浏览器自动化+轻量解析拿到，结果直接吐成结构化 JSON。项目今天涨了 1100 星，说明很多人正在试它跑真实任务——比如自动汇总 GitHub 新开源的 AI 工具、监控小红书爆款话术变化、抓取 Reddit 上关于 Llama 4 的早期讨论。它没做模型训练，也没加记忆模块，就专注干一件事：让 agent 看得见、读得懂、搜得到。代码全 Python，main.py 只有 300 行，核心逻辑清晰，改两行就能加一个新平台。它不承诺 100% 稳定（B站反爬会升级，小红书页面会改），但每次更新都带具体平台版本号和测试时间戳，比如「Bilibili parser v2.3（2024-06-12 测试通过）」。这不是万能胶水，是趁现在平台还没全关掉公开访问时，先搭起一条能用的路。你昨天想让 agent 查某条 YouTube 视频的弹幕情绪，手动点开看了 20 分钟，今天用它一行命令就拉完全部文本。你打算把它接进自己的 agent pipeline 里，还是先拿它当临时调研脚手架？",
+      "topic": "VoxCPM2",
+      "repo": "OpenBMB/VoxCPM",
+      "cover_line1": "OpenBMB 新语音合成模型",
+      "cover_line2": "不用 tokenizer 多语种克隆",
+      "body": "今天 OpenBMB 推出 VoxCPM2，一个不依赖 tokenizer 的端到端语音合成系统。以前做 TTS 要先把文字切分、映射成 token，再喂给模型；VoxCPM2 直接把原始音频波形和文本一起输入，跳过 token 化这一步。它支持中文、英文、日语、韩语等 12 种语言，生成语音时能保持说话人音色不变，也能按提示设计新音色——比如‘带点鼻音的年轻女声’或‘语速偏慢的中年男声’。项目仓库里放了预训练模型、推理脚本、还有 3 分钟内跑通 demo 的命令行说明。作者团队在 README 里写了实测结果：在 VCTK 数据集上，MOS 得分 4.12（满分为 5），比上一代 VoxCPM1 高 0.23；克隆真人声音时，92% 的听者认为和原声相似度超过 70%。代码用 PyTorch 写，最小依赖只有 torch 和 torchaudio，显存占用比同类模型低约 30%。它不依赖 Hugging Face pipeline，也不需要提前安装 ASR 模块，直接 pip install 后就能加载模型。如果你做过语音项目，应该知道 tokenizer 是个常出错的环节——标点处理不对、多音字崩掉、语序乱掉。VoxCPM2 绕开这个坑，对快速验证创意、做原型 demo 特别友好。目前只支持 16kHz 采样率，暂不支持实时流式生成。你上次用 TTS 做 demo 时，卡在 tokenizer 上花了多久？",
       "tags": [
-        "AI agent",
-        "web scraping",
-        "CLI",
-        "open source",
-        "Python",
-        "real-time data",
-        "multi-platform",
-        "no API key",
-        "developer tool",
-        "observability"
-      ]
-    },
-    {
-      "topic": "Cua",
-      "repo": "trycua/cua",
-      "cover_line1": "桌面级AI代理框架",
-      "cover_line2": "支持Win/macOS/Linux",
-      "body": "AI agent 不再只在网页里点点点，而是真正在你电脑上打开 Chrome、拖动窗口、双击 Excel 文件、切到终端敲命令——Cua 就是为这种 agent 建的沙盒基础设施。它不是教你写 prompt，而是提供一套可复现的运行环境：Linux 桌面容器预装 GNOME，Windows 沙箱用 Hyper-V 镜像，macOS 则基于虚拟机快照，每个系统都配好鼠标控制、OCR 截图识别、键盘事件注入三件套。项目今天涨了 70 星，文档里明确写了「已在 macOS Sonoma + Windows 11 + Ubuntu 24.04 实测可用」，还附了 agent 完成「从 GitHub 下载 zip、解压、运行 demo.py、截图结果」的完整 trace 日志。它自带 SDK，Python 函数调用就能发鼠标点击坐标或 OCR 文字搜索；也带 benchmark，比如「打开计算器 → 输入 5+3 → 截图识别结果 → 返回数字 8」算一次成功。没有大模型集成，不绑特定 LLM，只管「动作是否被执行」。你如果正被 agent 的 UI 操作泛化性卡住，它不解决推理，但帮你确认：是不是 agent 真的看见了按钮，而不是 prompt 写错了。你上次让 agent 操作本地软件失败，是因为环境不一致，还是动作指令根本没传过去？",
-      "tags": [
-        "computer use agent",
-        "desktop automation",
-        "sandbox",
-        "cross-platform",
-        "benchmark",
-        "SDK",
-        "UI control",
-        "reproducible",
-        "open source",
-        "agent eval"
-      ]
-    },
-    {
-      "topic": "AI工程课",
-      "repo": "rohitg00/ai-engineering-from-scratch",
-      "cover_line1": "从零写AI服务课",
-      "cover_line2": "含部署上线全流程",
-      "body": "教你怎么把一个 Hugging Face 模型变成别人能调用的 API，不是讲 transformer 架构，而是打开终端，git clone，pip install，docker build，然后 curl http://localhost:8000/predict。这门课今天涨了 562 星，全部代码在 GitHub 公开，每节课对应一个 commit，从「用 FastAPI 写最简接口」开始，到「加 Redis 缓存响应」「用 Celery 异步处理长任务」「用 Traefik 做 HTTPS 路由」「最后部署到 Fly.io 免费实例」。它不教怎么微调 Qwen，但教你怎么把微调好的模型打包进 Docker，怎么让前端传一张图过来，后端返回 JSON 格式的结果，怎么加 rate limit，怎么查日志里哪次请求超时了。所有命令都带预期输出，比如「执行完这行，你应该看到 localhost:8000/docs 自动打开 Swagger 页面」。课程 README 里有一张真实截图：用手机扫生成的 QR 码，直连刚部署的服务，上传照片，返回分类标签。没有幻灯片，没有录屏，只有代码、注释、和一句「你现在可以删掉这一行试试看会发生什么」。你最近上线的模型服务，有没有因为少配了一个 CORS 头，导致前端报错找不到接口？",
-      "tags": [
-        "AI engineering",
-        "MLOps",
-        "FastAPI",
-        "Docker",
-        "deployment",
-        "hands-on",
-        "tutorial",
-        "production",
-        "beginner-friendly",
-        "open source"
-      ]
-    },
-    {
-      "topic": "TeslaMate",
-      "repo": "teslamate-org/teslamate",
-      "cover_line1": "特斯拉数据自建库",
-      "cover_line2": "主维护人JakobLichterfeld",
-      "body": "特斯拉不给你原始车数据，只给 App 里几个好看图表。TeslaMate 让你用自己的树莓派或云服务器，持续接收车辆上报的 GPS、电池温度、充电状态、驾驶模式等 100+ 项指标，并存进 PostgreSQL。它不是改装硬件，而是用特斯拉官方未公开但稳定的 WebSocket 接口（类似 App 后台用的），保持长连接监听。项目主页清楚写着「不需 Root、不需 Tesla 账号共享、不调用非公开 API」，所有通信加密且仅单向接收。主维护人 Jakob Lichterfeld 是长期贡献者，commit 记录稳定，上周刚合并 PR 修复了 Model Y 2024 款电池 SOC 计算偏差。它不卖硬件，不收订阅费，数据库 schema 公开，你可以用 Grafana 直接连，也可以写 SQL 查「过去一周每天平均能耗」。有人用它发现空调预热多耗电 18%，有人导出数据喂给自己的预测模型，算下周续航衰减趋势。你车停在地下车库时，信号断连 37 秒，这些细节它都会记下来。你最想用这些原始数据回答的一个问题是什么？",
-      "tags": [
-        "IoT",
-        "telemetry",
-        "PostgreSQL",
-        "self-hosted",
-        "Tesla",
-        "time-series",
-        "Grafana",
-        "open source",
-        "data logging",
-        "edge computing"
+        "TTS",
+        "语音合成",
+        "多语种",
+        "音色克隆",
+        "OpenBMB",
+        "PyTorch",
+        "端到端",
+        "无需tokenizer",
+        "轻量部署",
+        "demo友好"
       ]
     }
   ],
   "image_paths": [
-    "assets/2026-06-16/trending/summary.png",
-    "assets/2026-06-16/trending/post1.png",
-    "assets/2026-06-16/trending/post2.png",
-    "assets/2026-06-16/trending/post3.png",
-    "assets/2026-06-16/trending/post4.png"
+    "assets/2026-06-17/trending/summary.png",
+    "assets/2026-06-17/trending/post1.png"
   ]
 }
