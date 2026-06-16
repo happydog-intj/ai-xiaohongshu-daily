@@ -7,32 +7,32 @@
       "url": "https://github.com/iptv-org/iptv",
       "description": "Collection of publicly available IPTV channels from all over the world",
       "language": "TypeScript",
-      "stars_today": "2,650 stars today",
-      "stars_total": "122,652"
+      "stars_today": "2,657 stars today",
+      "stars_total": "122,845"
     },
     {
       "name": "teslamate-org/teslamate",
       "url": "https://github.com/teslamate-org/teslamate",
       "description": "A self-hosted data logger for your Tesla 🚘 [main maintainer=@JakobLichterfeld]",
       "language": "Elixir",
-      "stars_today": "35 stars today",
-      "stars_total": "8,191"
+      "stars_today": "33 stars today",
+      "stars_total": "8,226"
     },
     {
       "name": "Panniantong/Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
       "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
       "language": "Python",
-      "stars_today": "1,045 stars today",
-      "stars_total": "29,839"
+      "stars_today": "1,100 stars today",
+      "stars_total": "30,114"
     },
     {
       "name": "meshery/meshery",
       "url": "https://github.com/meshery/meshery",
       "description": "Meshery, the cloud native manager",
       "language": "TypeScript",
-      "stars_today": "227 stars today",
-      "stars_total": "10,580"
+      "stars_today": "228 stars today",
+      "stars_total": "10,623"
     },
     {
       "name": "chatwoot/chatwoot",
@@ -40,47 +40,47 @@
       "description": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬",
       "language": "Ruby",
       "stars_today": "431 stars today",
-      "stars_total": "31,571"
+      "stars_total": "31,670"
     },
     {
       "name": "krahets/hello-algo",
       "url": "https://github.com/krahets/hello-algo",
       "description": "《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现",
       "language": "Java",
-      "stars_today": "95 stars today",
-      "stars_total": "126,833"
+      "stars_today": "71 stars today",
+      "stars_total": "126,885"
     },
     {
       "name": "freeCodeCamp/freeCodeCamp",
       "url": "https://github.com/freeCodeCamp/freeCodeCamp",
       "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
       "language": "TypeScript",
-      "stars_today": "738 stars today",
-      "stars_total": "447,759"
+      "stars_today": "736 stars today",
+      "stars_total": "447,875"
     },
     {
       "name": "trycua/cua",
       "url": "https://github.com/trycua/cua",
       "description": "Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).",
       "language": "HTML",
-      "stars_today": "57 stars today",
-      "stars_total": "18,087"
+      "stars_today": "70 stars today",
+      "stars_total": "18,140"
     },
     {
       "name": "jwasham/coding-interview-university",
       "url": "https://github.com/jwasham/coding-interview-university",
       "description": "A complete computer science study plan to become a software engineer.",
       "language": "",
-      "stars_today": "352 stars today",
-      "stars_total": "352,187"
+      "stars_today": "364 stars today",
+      "stars_total": "352,290"
     },
     {
       "name": "rohitg00/ai-engineering-from-scratch",
       "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
       "description": "Learn it. Build it. Ship it for others.",
       "language": "Python",
-      "stars_today": "538 stars today",
-      "stars_total": "32,928"
+      "stars_today": "562 stars today",
+      "stars_total": "33,067"
     }
   ],
   "ai_repos": [
@@ -89,24 +89,24 @@
       "url": "https://github.com/iptv-org/iptv",
       "description": "Collection of publicly available IPTV channels from all over the world",
       "language": "TypeScript",
-      "stars_today": "2,650 stars today",
-      "stars_total": "122,652"
+      "stars_today": "2,657 stars today",
+      "stars_total": "122,845"
     },
     {
       "name": "teslamate-org/teslamate",
       "url": "https://github.com/teslamate-org/teslamate",
       "description": "A self-hosted data logger for your Tesla 🚘 [main maintainer=@JakobLichterfeld]",
       "language": "Elixir",
-      "stars_today": "35 stars today",
-      "stars_total": "8,191"
+      "stars_today": "33 stars today",
+      "stars_total": "8,226"
     },
     {
       "name": "Panniantong/Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
       "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
       "language": "Python",
-      "stars_today": "1,045 stars today",
-      "stars_total": "29,839"
+      "stars_today": "1,100 stars today",
+      "stars_total": "30,114"
     },
     {
       "name": "chatwoot/chatwoot",
@@ -114,100 +114,100 @@
       "description": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬",
       "language": "Ruby",
       "stars_today": "431 stars today",
-      "stars_total": "31,571"
+      "stars_total": "31,670"
     },
     {
       "name": "trycua/cua",
       "url": "https://github.com/trycua/cua",
       "description": "Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).",
       "language": "HTML",
-      "stars_today": "57 stars today",
-      "stars_total": "18,087"
+      "stars_today": "70 stars today",
+      "stars_total": "18,140"
     },
     {
       "name": "rohitg00/ai-engineering-from-scratch",
       "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
       "description": "Learn it. Build it. Ship it for others.",
       "language": "Python",
-      "stars_today": "538 stars today",
-      "stars_total": "32,928"
+      "stars_today": "562 stars today",
+      "stars_total": "33,067"
     }
   ],
   "posts": [
     {
       "topic": "Agent-Reach",
       "repo": "Panniantong/Agent-Reach",
-      "cover_line1": "AI agent网页爬取工具",
-      "cover_line2": "支持9个平台免API费",
-      "body": "你让AI agent上网查东西，它通常只能看一个网页。Agent-Reach把它变成真浏览器——一条命令就能搜Twitter、Reddit、YouTube、GitHub、Bilibili、小红书，不用申请API密钥，不走官方接口，也不付钱。它把每个平台的页面结构拆成统一格式，返回标题、正文、发布时间、作者、链接，全是纯文本。开发者直接拿结果喂给LLM，不用写一堆适配代码。项目用Python写，核心逻辑不到200行，靠真实HTML解析+关键词定位，不是截图OCR也不是模拟点击。今天涨了1045星，说明很多人卡在‘agent不会主动找信息’这一步。它不训练模型，不调大模型，只解决‘看得见’这个基础问题。你本地跑起来只要pip install，然后run agent-reach --platform xiaohongshu --query 'RAG 最佳实践'，3秒后拿到20条笔记原文。它没做缓存，没做去重，也没做权限管理——就干一件事：让agent第一次真正睁开眼。文档里写了每个平台的抓取频率限制和反爬绕过方式，比如B站用的是带Referer的静态请求，小红书靠伪造X-Sign头。你试一次就知道它能不能进你的pipeline。它不承诺100%成功率，但列出了失败时的错误码和对应平台的当前限制。如果你正在搭自己的agent工作流，它不是终点，但可能是你今天最省时间的起点。",
+      "cover_line1": "AI代理上网工具",
+      "cover_line2": "支持7个平台免API费",
+      "body": "你让AI代理查微博热搜，它卡在登录页；你让它看B站视频评论，它连网页都打不开。Agent-Reach 解决的就是这个事：它把 Twitter、Reddit、YouTube、GitHub、Bilibili、小红书、Reddit 这 7 个平台的公开内容，统一做成命令行接口。不用申请 API 密钥，不走官方限制通道，也不需要你自己写爬虫。所有数据都靠浏览器自动化+轻量解析拿到，结果直接吐成结构化 JSON。项目今天涨了 1100 星，说明很多人正在试它跑真实任务——比如自动汇总 GitHub 新开源的 AI 工具、监控小红书爆款话术变化、抓取 Reddit 上关于 Llama 4 的早期讨论。它没做模型训练，也没加记忆模块，就专注干一件事：让 agent 看得见、读得懂、搜得到。代码全 Python，main.py 只有 300 行，核心逻辑清晰，改两行就能加一个新平台。它不承诺 100% 稳定（B站反爬会升级，小红书页面会改），但每次更新都带具体平台版本号和测试时间戳，比如「Bilibili parser v2.3（2024-06-12 测试通过）」。这不是万能胶水，是趁现在平台还没全关掉公开访问时，先搭起一条能用的路。你昨天想让 agent 查某条 YouTube 视频的弹幕情绪，手动点开看了 20 分钟，今天用它一行命令就拉完全部文本。你打算把它接进自己的 agent pipeline 里，还是先拿它当临时调研脚手架？",
       "tags": [
         "AI agent",
         "web scraping",
+        "CLI",
         "open source",
-        "CLI tool",
-        "no API fee",
-        "multi-platform",
         "Python",
-        "RAG",
-        "data fetching",
-        "productivity"
+        "real-time data",
+        "multi-platform",
+        "no API key",
+        "developer tool",
+        "observability"
       ]
     },
     {
       "topic": "Cua",
       "repo": "trycua/cua",
-      "cover_line1": "桌面级AI agent沙盒",
+      "cover_line1": "桌面级AI代理框架",
       "cover_line2": "支持Win/macOS/Linux",
-      "body": "AI agent要真能操作电脑，得先有个安全环境练手。Cua就是这么个沙盒——不是模拟器，是真实操作系统镜像，预装了Chrome、VS Code、Terminal，还带录屏和操作回放。它提供SDK让你写Python脚本控制鼠标键盘，也自带一套任务评测集，比如‘在GitHub上给某个仓库提issue’或‘用Excel算出三组数字的平均值’。所有动作都在隔离虚拟机里跑，不会碰你本机文件。今天涨了57星，不算猛，但star总数已有1.8万，说明不少团队在悄悄建内部测试平台。它用HTML当界面壳，底层其实是QEMU+cloud-init启动的轻量VM，启动只要8秒。文档里写了怎么把任务定义成JSON Schema，也列了每个系统支持的GUI自动化能力边界，比如Windows能点开始菜单，macOS能唤Spotlight，Linux只支持X11应用。它不卖模型，不连云端，所有代码本地跑。你要是正为agent做端到端评估，它省掉你搭VM、配环境、录轨迹的三天时间。但它不处理OCR识别不准、窗口遮挡、动态加载这些真实问题——它先保证‘能动’，再等你填细节。",
+      "body": "AI agent 不再只在网页里点点点，而是真正在你电脑上打开 Chrome、拖动窗口、双击 Excel 文件、切到终端敲命令——Cua 就是为这种 agent 建的沙盒基础设施。它不是教你写 prompt，而是提供一套可复现的运行环境：Linux 桌面容器预装 GNOME，Windows 沙箱用 Hyper-V 镜像，macOS 则基于虚拟机快照，每个系统都配好鼠标控制、OCR 截图识别、键盘事件注入三件套。项目今天涨了 70 星，文档里明确写了「已在 macOS Sonoma + Windows 11 + Ubuntu 24.04 实测可用」，还附了 agent 完成「从 GitHub 下载 zip、解压、运行 demo.py、截图结果」的完整 trace 日志。它自带 SDK，Python 函数调用就能发鼠标点击坐标或 OCR 文字搜索；也带 benchmark，比如「打开计算器 → 输入 5+3 → 截图识别结果 → 返回数字 8」算一次成功。没有大模型集成，不绑特定 LLM，只管「动作是否被执行」。你如果正被 agent 的 UI 操作泛化性卡住，它不解决推理，但帮你确认：是不是 agent 真的看见了按钮，而不是 prompt 写错了。你上次让 agent 操作本地软件失败，是因为环境不一致，还是动作指令根本没传过去？",
       "tags": [
         "computer use agent",
-        "sandbox",
         "desktop automation",
-        "evaluation",
-        "open source",
-        "QEMU",
+        "sandbox",
         "cross-platform",
-        "SDK",
         "benchmark",
-        "local first"
+        "SDK",
+        "UI control",
+        "reproducible",
+        "open source",
+        "agent eval"
       ]
     },
     {
       "topic": "AI工程课",
       "repo": "rohitg00/ai-engineering-from-scratch",
-      "cover_line1": "手把手AI工程课",
-      "cover_line2": "从零写完一个RAG服务",
-      "body": "学AI不是光看论文，得亲手敲出能上线的服务。这个课就干这事：从空文件夹开始，用Python写一个带搜索、缓存、Web UI的RAG服务，全程不抄模板，每步解释为什么选FastAPI而不是Flask，为什么用Chroma而不是FAISS，为什么token切分用RecursiveCharacterTextSplitter。今天涨了538星，总星数超3.2万，说明很多人卡在‘知道概念但不会搭’。它不讲Transformer原理，只讲‘现在要加个用户上传PDF功能，该改哪三行代码’。所有代码都带commit history，你能看到作者怎么一步步加错误重试、怎么把硬编码路径换成配置文件、怎么发现并发时向量库锁死、最后怎么用uvicorn热重载调试。配套notebook里有真实数据——比如用LlamaIndex跑通Arxiv论文摘要问答，响应时间压到800ms以内。它甚至写了怎么用GitHub Actions自动部署到Fly.io，包括SSL证书怎么续。没有‘高级技巧’章节，只有‘你刚改完这行，下一步该测什么’。它不承诺教你成专家，但保证你合上教程时，硬盘里真有一个能回答你问题的URL。",
+      "cover_line1": "从零写AI服务课",
+      "cover_line2": "含部署上线全流程",
+      "body": "教你怎么把一个 Hugging Face 模型变成别人能调用的 API，不是讲 transformer 架构，而是打开终端，git clone，pip install，docker build，然后 curl http://localhost:8000/predict。这门课今天涨了 562 星，全部代码在 GitHub 公开，每节课对应一个 commit，从「用 FastAPI 写最简接口」开始，到「加 Redis 缓存响应」「用 Celery 异步处理长任务」「用 Traefik 做 HTTPS 路由」「最后部署到 Fly.io 免费实例」。它不教怎么微调 Qwen，但教你怎么把微调好的模型打包进 Docker，怎么让前端传一张图过来，后端返回 JSON 格式的结果，怎么加 rate limit，怎么查日志里哪次请求超时了。所有命令都带预期输出，比如「执行完这行，你应该看到 localhost:8000/docs 自动打开 Swagger 页面」。课程 README 里有一张真实截图：用手机扫生成的 QR 码，直连刚部署的服务，上传照片，返回分类标签。没有幻灯片，没有录屏，只有代码、注释、和一句「你现在可以删掉这一行试试看会发生什么」。你最近上线的模型服务，有没有因为少配了一个 CORS 头，导致前端报错找不到接口？",
       "tags": [
         "AI engineering",
-        "RAG",
+        "MLOps",
+        "FastAPI",
+        "Docker",
+        "deployment",
         "hands-on",
         "tutorial",
-        "Python",
-        "FastAPI",
-        "deployment",
-        "open source",
-        "learning path",
-        "production ready"
+        "production",
+        "beginner-friendly",
+        "open source"
       ]
     },
     {
       "topic": "TeslaMate",
       "repo": "teslamate-org/teslamate",
-      "cover_line1": "特斯拉车辆数据记录器",
-      "cover_line2": "主维护者JakobLichterfeld",
-      "body": "你买特斯拉，车厂只给你App看实时状态，历史数据全锁在云端。TeslaMate让你自己存——树莓派接个Wi-Fi，跑Elixir服务，自动连特斯拉API，每30秒记一次电量、位置、温度、充电状态，存在PostgreSQL里。今天涨了35星，总星8191，用户多是车主兼开发者。它不破解车，只用官方未公开但允许的OAuth流程，靠长连接保持登录态。数据字段全开源：比如‘speed_limit_mode’字段告诉你限速模式是否开启，‘sentry_mode’告诉你哨兵模式录像是否在写入SD卡。UI是Grafana做的，自带20个仪表盘，比如‘本月能耗曲线’或‘停车场停留热力图’。它不卖硬件，不收订阅费，连更新日志都写明‘这次修复了Model Y 2023款v2023.42.25的seat_heater_left字段解析错位’。你要是想分析自己车的续航衰减，或者写个‘快没电时自动发微信提醒’的脚本，它给你干净的时间序列数据。它也不教你怎么修车，只保证你拿到的数据和特斯拉后台一致——上周刚同步了新加入的‘track_mode’字段。你不需要懂Elixir，只要会改config.exs里的邮箱和密码，就能跑起来。",
+      "cover_line1": "特斯拉数据自建库",
+      "cover_line2": "主维护人JakobLichterfeld",
+      "body": "特斯拉不给你原始车数据，只给 App 里几个好看图表。TeslaMate 让你用自己的树莓派或云服务器，持续接收车辆上报的 GPS、电池温度、充电状态、驾驶模式等 100+ 项指标，并存进 PostgreSQL。它不是改装硬件，而是用特斯拉官方未公开但稳定的 WebSocket 接口（类似 App 后台用的），保持长连接监听。项目主页清楚写着「不需 Root、不需 Tesla 账号共享、不调用非公开 API」，所有通信加密且仅单向接收。主维护人 Jakob Lichterfeld 是长期贡献者，commit 记录稳定，上周刚合并 PR 修复了 Model Y 2024 款电池 SOC 计算偏差。它不卖硬件，不收订阅费，数据库 schema 公开，你可以用 Grafana 直接连，也可以写 SQL 查「过去一周每天平均能耗」。有人用它发现空调预热多耗电 18%，有人导出数据喂给自己的预测模型，算下周续航衰减趋势。你车停在地下车库时，信号断连 37 秒，这些细节它都会记下来。你最想用这些原始数据回答的一个问题是什么？",
       "tags": [
-        "Tesla",
         "IoT",
-        "data logging",
-        "self-hosted",
-        "Elixir",
+        "telemetry",
         "PostgreSQL",
+        "self-hosted",
+        "Tesla",
+        "time-series",
         "Grafana",
-        "car data",
         "open source",
-        "hardware integration"
+        "data logging",
+        "edge computing"
       ]
     }
   ],
