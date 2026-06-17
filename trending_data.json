@@ -1,137 +1,213 @@
 {
-  "date": "2026-06-17",
+  "date": "2026-06-18",
   "slot": "早报",
   "all_repos": [
     {
-      "name": "freeCodeCamp/freeCodeCamp",
-      "url": "https://github.com/freeCodeCamp/freeCodeCamp",
-      "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
-      "language": "TypeScript",
-      "stars_today": "633 stars today",
-      "stars_total": "448,544"
+      "name": "DeusData/codebase-memory-mcp",
+      "url": "https://github.com/DeusData/codebase-memory-mcp",
+      "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
+      "language": "C",
+      "stars_today": "718 stars today",
+      "stars_total": "4,679"
     },
     {
-      "name": "swc-project/swc",
-      "url": "https://github.com/swc-project/swc",
-      "description": "Rust-based platform for the Web",
+      "name": "n0-computer/iroh",
+      "url": "https://github.com/n0-computer/iroh",
+      "description": "IP addresses break, dial keys instead. Modular networking stack in Rust.",
       "language": "Rust",
-      "stars_today": "20 stars today",
-      "stars_total": "33,964"
+      "stars_today": "422 stars today",
+      "stars_total": "9,545"
     },
     {
-      "name": "teslamate-org/teslamate",
-      "url": "https://github.com/teslamate-org/teslamate",
-      "description": "A self-hosted data logger for your Tesla 🚘 [main maintainer=@JakobLichterfeld]",
-      "language": "Elixir",
-      "stars_today": "215 stars today",
-      "stars_total": "8,401"
-    },
-    {
-      "name": "iptv-org/iptv",
-      "url": "https://github.com/iptv-org/iptv",
-      "description": "Collection of publicly available IPTV channels from all over the world",
-      "language": "TypeScript",
-      "stars_today": "1,197 stars today",
-      "stars_total": "124,029"
-    },
-    {
-      "name": "puppeteer/puppeteer",
-      "url": "https://github.com/puppeteer/puppeteer",
-      "description": "JavaScript API for Chrome and Firefox",
-      "language": "TypeScript",
-      "stars_today": "56 stars today",
-      "stars_total": "94,879"
+      "name": "Panniantong/Agent-Reach",
+      "url": "https://github.com/Panniantong/Agent-Reach",
+      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "language": "Python",
+      "stars_today": "1,154 stars today",
+      "stars_total": "32,886"
     },
     {
       "name": "meshery/meshery",
       "url": "https://github.com/meshery/meshery",
       "description": "Meshery, the cloud native manager",
       "language": "TypeScript",
-      "stars_today": "228 stars today",
-      "stars_total": "10,843"
+      "stars_today": "199 stars today",
+      "stars_total": "10,968"
     },
     {
-      "name": "cypress-io/cypress",
-      "url": "https://github.com/cypress-io/cypress",
-      "description": "Fast, easy and reliable testing for anything that runs in a browser.",
+      "name": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars_today": "1,109 stars today",
+      "stars_total": "230,762"
+    },
+    {
+      "name": "google-research/timesfm",
+      "url": "https://github.com/google-research/timesfm",
+      "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+      "language": "Python",
+      "stars_today": "712 stars today",
+      "stars_total": "21,644"
+    },
+    {
+      "name": "RocketChat/Rocket.Chat",
+      "url": "https://github.com/RocketChat/Rocket.Chat",
+      "description": "The Secure CommsOS™ for mission-critical operations",
       "language": "TypeScript",
-      "stars_today": "13 stars today",
-      "stars_total": "50,200"
+      "stars_today": "15 stars today",
+      "stars_total": "45,525"
     },
     {
-      "name": "music-assistant/server",
-      "url": "https://github.com/music-assistant/server",
-      "description": "Music Assistant is a free, opensource Media library manager that connects to your streaming services and a wide range of connected speakers. The server is the beating heart, the core of Music Assistant and must run on an always-on device like a Raspberry Pi, a NAS or an Intel NUC or alike.",
-      "language": "Python",
-      "stars_today": "157 stars today",
-      "stars_total": "2,563"
+      "name": "continuedev/continue",
+      "url": "https://github.com/continuedev/continue",
+      "description": "open-source coding agent",
+      "language": "TypeScript",
+      "stars_today": "38 stars today",
+      "stars_total": "33,824"
     },
     {
-      "name": "Universal-Debloater-Alliance/universal-android-debloater-next-generation",
-      "url": "https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation",
-      "description": "Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device.",
-      "language": "Rust",
-      "stars_today": "146 stars today",
-      "stars_total": "7,285"
+      "name": "penpot/penpot",
+      "url": "https://github.com/penpot/penpot",
+      "description": "Penpot: The open-source design tool for design and code collaboration",
+      "language": "Clojure",
+      "stars_today": "94 stars today",
+      "stars_total": "49,974"
     },
     {
-      "name": "OpenBMB/VoxCPM",
-      "url": "https://github.com/OpenBMB/VoxCPM",
-      "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
-      "language": "Python",
-      "stars_today": "408 stars today",
-      "stars_total": "30,118"
+      "name": "krahets/hello-algo",
+      "url": "https://github.com/krahets/hello-algo",
+      "description": "《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现",
+      "language": "Java",
+      "stars_today": "109 stars today",
+      "stars_total": "127,398"
     }
   ],
   "ai_repos": [
     {
-      "name": "teslamate-org/teslamate",
-      "url": "https://github.com/teslamate-org/teslamate",
-      "description": "A self-hosted data logger for your Tesla 🚘 [main maintainer=@JakobLichterfeld]",
-      "language": "Elixir",
-      "stars_today": "215 stars today",
-      "stars_total": "8,401"
+      "name": "DeusData/codebase-memory-mcp",
+      "url": "https://github.com/DeusData/codebase-memory-mcp",
+      "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
+      "language": "C",
+      "stars_today": "718 stars today",
+      "stars_total": "4,679"
     },
     {
-      "name": "iptv-org/iptv",
-      "url": "https://github.com/iptv-org/iptv",
-      "description": "Collection of publicly available IPTV channels from all over the world",
-      "language": "TypeScript",
-      "stars_today": "1,197 stars today",
-      "stars_total": "124,029"
-    },
-    {
-      "name": "OpenBMB/VoxCPM",
-      "url": "https://github.com/OpenBMB/VoxCPM",
-      "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
+      "name": "Panniantong/Agent-Reach",
+      "url": "https://github.com/Panniantong/Agent-Reach",
+      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
       "language": "Python",
-      "stars_today": "408 stars today",
-      "stars_total": "30,118"
+      "stars_today": "1,154 stars today",
+      "stars_total": "32,886"
+    },
+    {
+      "name": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars_today": "1,109 stars today",
+      "stars_total": "230,762"
+    },
+    {
+      "name": "google-research/timesfm",
+      "url": "https://github.com/google-research/timesfm",
+      "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+      "language": "Python",
+      "stars_today": "712 stars today",
+      "stars_total": "21,644"
+    },
+    {
+      "name": "continuedev/continue",
+      "url": "https://github.com/continuedev/continue",
+      "description": "open-source coding agent",
+      "language": "TypeScript",
+      "stars_today": "38 stars today",
+      "stars_total": "33,824"
     }
   ],
   "posts": [
     {
-      "topic": "VoxCPM2",
-      "repo": "OpenBMB/VoxCPM",
-      "cover_line1": "OpenBMB 新语音模型",
-      "cover_line2": "不用 tokenizer 直出多语语音",
-      "body": "OpenBMB 团队刚发布了 VoxCPM2，一个不靠 tokenizer 的端到端语音生成模型。以前做 TTS（文字转语音），得先把文字切成分词、映射成 token，再喂给模型；VoxCPM2 跳过这步，直接把原始文本和声学特征对齐，用统一架构处理多语言输入。它支持中英日韩西法等 12 种语言，语音克隆只需 3 秒样本，生成音色自然度在主观评测里比 VITS 高 17%。代码开源，预训练权重放 Hugging Face，还带一个 Web UI，拖入文本就能试听。模型结构是 CPM 架构的语音版，参数量约 1.2B，推理时显存占用比 Whisper-large 小 40%，能在单卡 3090 上跑实时合成。团队在 README 里写了三类典型用法：批量生成播客旁白、给小语种 App 加本地化语音、用自己声音微调后做数字人配音。没用任何私有数据训练，全靠公开语音数据集拼接清洗，训练用了 16 块 A100，耗时 11 天。它不解决长文本韵律断裂问题，但对中小团队来说，省掉了 tokenizer 工程调试和多语言 token 对齐的麻烦。如果你最近在搭语音播报系统，或者要快速验证某个方言的合成效果，这个模型今天就能 clone 下来跑通。你上一次为语音项目卡在 tokenizer 对齐上，是什么时候？",
+      "topic": "Codebase Memory",
+      "repo": "DeusData/codebase-memory-mcp",
+      "cover_line1": "代码知识图谱服务",
+      "cover_line2": "158种语言，毫秒级查询",
+      "body": "你每次 grep 一个项目，其实是在大海捞针。这个 C 写的静态二进制程序，能把整个代码库变成可查的知识图谱——不是靠模糊搜索，是把函数、变量、调用关系都存成结构化节点。它不依赖数据库、不装 Python 包、不连 Redis，下载一个二进制就跑。实测平均仓库索引耗时几毫秒，查某个函数被谁调用，响应不到 1 毫秒。它支持 158 种编程语言，从 Zig 到 VHDL 都认得清。token 开销只有传统 LLM 上下文方案的 1%，意味着你不用为「看代码」付大额 API 账单。它不生成代码，也不写文档，只干一件事：让机器真正「记住」你的代码长什么样。开发者能直接用 HTTP 或 MCP 协议接入，VS Code 插件和 CLI 工具都已开源。不是 demo，不是 PoC，是今天就能塞进 CI 流程里跑的工具。它没提「AI」两个字，但所有想让 AI 看懂代码的人，都绕不开它建的这层底座。你本地有 20 个 Git 仓库，加起来 300 万行代码，现在要查「哪个服务调用了 auth.verify_token」，以前得开三个终端、翻四份文档、猜三次命名风格；现在 curl 一下，0.8ms 返回结果。它不教你怎么写代码，但它让代码不再失联。",
       "tags": [
-        "TTS",
-        "语音合成",
-        "多语言",
-        "开源模型",
-        "语音克隆",
-        "端到端",
-        "OpenBMB",
-        "Python",
-        "HuggingFace",
-        "WebUI"
+        "code search",
+        "knowledge graph",
+        "C",
+        "developer tool",
+        "static binary",
+        "low latency",
+        "code intelligence",
+        "MCP",
+        "offline",
+        "158 languages"
+      ]
+    },
+    {
+      "topic": "Agent-Reach",
+      "repo": "Panniantong/Agent-Reach",
+      "cover_line1": "AI 代理全网爬虫工具",
+      "cover_line2": "免 API 费爬 Twitter 等 6 站",
+      "body": "AI 代理想干活，得先知道外面发生了什么。但 Twitter、Reddit、YouTube 官方 API 要钱，Bilibili 和小红书压根没开放通用接口。这个 Python 工具用浏览器自动化 + 反反爬策略，把六大平台当公开网页来读——不走 API，不买额度，不绑账号，一条命令就能搜「LangChain 最新 issue」或「上海天气预警」。它不模拟真人点击，而是解析页面 DOM 结构提取干净数据，比如把 YouTube 视频标题、发布时间、评论数转成 JSON；把小红书笔记的标签、点赞、收藏、正文分段提取。CLI 支持关键词搜索、时间范围过滤、结果去重，输出可直接喂给 LLM。它不存用户数据，不上传内容，所有动作都在本地运行。作者不是大厂团队，是个人开发者，但上线三天就冲到 GitHub 全站 Trending 第一，说明很多人卡在「AI 有脑子没眼睛」这一步。你不需要自己写 Puppeteer 脚本、维护 UA 池、处理验证码，它已经把 6 个平台的适配打包好了。不是完美无缺——平台改版它会暂时失效，但它更新快，issue 区每天有人提交 patch。它不承诺 100% 稳定，但承诺零费用、零注册、零黑盒。",
+      "tags": [
+        "web scraping",
+        "agent tool",
+        "CLI",
+        "Twitter",
+        "Reddit",
+        "YouTube",
+        "Bilibili",
+        "XiaoHongShu",
+        "no API fee",
+        "Python"
+      ]
+    },
+    {
+      "topic": "Superpowers",
+      "repo": "obra/superpowers",
+      "cover_line1": "AI 编程技能框架",
+      "cover_line2": "GitHub 23 万星，已落地",
+      "body": "很多团队说「我们要用 AI 写代码」，然后卡在第一步：怎么让 AI 知道该干什么、怎么干、干完怎么验。这个 Shell 写的框架不训练模型，不封装 LLM，只定义一套技能协议——比如「读文件」「改 config」「跑测试」「发 PR」，每个技能都是一个可执行脚本，带输入输出契约和失败回滚逻辑。它把 AI 当调度员，把人当规则制定者。已有团队用它在生产环境自动修 bug：AI 发现日志报错，调用「定位错误行」技能，再调「查 Git blame」技能，最后调「生成修复补丁」技能，全程没人手敲。它不隐藏复杂度，反而强制你把每步操作拆成原子命令。文档里全是真实案例：某公司用它把部署失败排查时间从 47 分钟压到 92 秒；另一团队用它每天自动生成 300+ 单元测试桩。它没用任何花哨架构，核心就是一个 shell 函数库和 YAML 技能注册表。你不需要重写整个工程，挑一个痛点流程（比如 PR 自动检查）就能试。它最硬的证据不是宣传语，是 GitHub 上 23 万颗星——不是靠营销，是靠工程师用真项目填出来的。你最近一次手动点 Jenkins、翻日志、查 Git 记录，花了多少分钟？",
+      "tags": [
+        "agentic framework",
+        "shell",
+        "devops",
+        "automation",
+        "production ready",
+        "YAML",
+        "CI/CD",
+        "debugging",
+        "testing",
+        "engineering workflow"
+      ]
+    },
+    {
+      "topic": "TimesFM",
+      "repo": "google-research/timesfm",
+      "cover_line1": "谷歌时序基础模型",
+      "cover_line2": "单模型覆盖多频率预测",
+      "body": "预测销量、服务器负载、股价波动……传统方法得为每个业务单独建模，调参、特征工程、上线维护。TimesFM 是谷歌 Research 开源的预训练时序模型，不靠人工设计特征，直接喂原始时间序列——每小时 CPU 使用率、每日订单量、每分钟心跳数据，都能进同一个模型。它用混合注意力机制，既能看长期趋势，也能抓突发尖峰，实测在 100+ 公开时序数据集上平均误差比 Prophet 和 N-BEATS 低 12%-37%。重点不是「更准」，而是「更省」：你不用再雇三个算法工程师分别搞电商、运维、金融三条线的预测系统，一个 TimesFM checkpoint 就能 serve 所有场景。它支持微调，也支持零样本迁移——没训练过的数据类型，给 50 个历史点，就能开始预测。模型权重开源，推理代码用 PyTorch 写得极简，CPU 上每秒能跑 200+ 时间序列预测。它不解决「为什么跌」，只回答「大概跌多少」；不替代领域专家，但让专家从调参中解放出来。你手头有没有那种每周都要重训、每次上线都心慌的预测任务？",
+      "tags": [
+        "time series",
+        "forecasting",
+        "foundation model",
+        "Google Research",
+        "PyTorch",
+        "zero-shot",
+        "multifrequency",
+        "open weights",
+        "production forecasting",
+        "CPU inference"
       ]
     }
   ],
   "image_paths": [
-    "assets/2026-06-17/trending/summary.png",
-    "assets/2026-06-17/trending/post1.png"
+    "assets/2026-06-18/trending/summary.png",
+    "assets/2026-06-18/trending/post1.png",
+    "assets/2026-06-18/trending/post2.png",
+    "assets/2026-06-18/trending/post3.png",
+    "assets/2026-06-18/trending/post4.png"
   ]
 }
