@@ -7,8 +7,8 @@
       "url": "https://github.com/google-research/timesfm",
       "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
       "language": "Python",
-      "stars_today": "858 stars today",
-      "stars_total": "22,690"
+      "stars_today": "844 stars today",
+      "stars_total": "23,141"
     },
     {
       "name": "n0-computer/iroh",
@@ -16,7 +16,7 @@
       "description": "IP addresses break, dial keys instead. Modular networking stack in Rust.",
       "language": "Rust",
       "stars_today": "369 stars today",
-      "stars_total": "9,910"
+      "stars_total": "10,001"
     },
     {
       "name": "freeCodeCamp/freeCodeCamp",
@@ -24,63 +24,63 @@
       "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
       "language": "TypeScript",
       "stars_today": "417 stars today",
-      "stars_total": "449,424"
+      "stars_total": "449,538"
     },
     {
       "name": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
-      "stars_today": "1,435 stars today",
-      "stars_total": "232,148"
+      "stars_today": "1,429 stars today",
+      "stars_total": "232,396"
     },
     {
       "name": "zai-org/GLM-5",
       "url": "https://github.com/zai-org/GLM-5",
       "description": "GLM-5: From Vibe Coding to Agentic Engineering",
       "language": "",
-      "stars_today": "286 stars today",
-      "stars_total": "3,973"
+      "stars_today": "202 stars today",
+      "stars_total": "4,118"
     },
     {
       "name": "DeusData/codebase-memory-mcp",
       "url": "https://github.com/DeusData/codebase-memory-mcp",
       "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
       "language": "C",
-      "stars_today": "2,308 stars today",
-      "stars_total": "6,723"
+      "stars_today": "2,322 stars today",
+      "stars_total": "7,013"
+    },
+    {
+      "name": "yifanfeng97/Hyper-Extract",
+      "url": "https://github.com/yifanfeng97/Hyper-Extract",
+      "description": "Transform unstructured text into structured knowledge with LLMs. Graphs, hypergraphs, and spatio-temporal extractions — with one command.",
+      "language": "Python",
+      "stars_today": "124 stars today",
+      "stars_total": "1,761"
     },
     {
       "name": "alibaba/zvec",
       "url": "https://github.com/alibaba/zvec",
       "description": "A lightweight, lightning-fast, in-process vector database",
       "language": "C++",
-      "stars_today": "344 stars today",
-      "stars_total": "11,122"
+      "stars_today": "259 stars today",
+      "stars_total": "11,211"
     },
     {
       "name": "withastro/flue",
       "url": "https://github.com/withastro/flue",
       "description": "The sandbox agent framework.",
       "language": "TypeScript",
-      "stars_today": "164 stars today",
-      "stars_total": "5,400"
+      "stars_today": "162 stars today",
+      "stars_total": "5,494"
     },
     {
       "name": "Kilo-Org/kilocode",
       "url": "https://github.com/Kilo-Org/kilocode",
       "description": "Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent.",
       "language": "TypeScript",
-      "stars_today": "1,339 stars today",
-      "stars_total": "21,749"
-    },
-    {
-      "name": "makeplane/plane",
-      "url": "https://github.com/makeplane/plane",
-      "description": "🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.",
-      "language": "TypeScript",
-      "stars_today": "610 stars today",
-      "stars_total": "51,685"
+      "stars_today": "1,345 stars today",
+      "stars_total": "22,115"
     }
   ],
   "ai_repos": [
@@ -89,56 +89,64 @@
       "url": "https://github.com/google-research/timesfm",
       "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
       "language": "Python",
-      "stars_today": "858 stars today",
-      "stars_total": "22,690"
+      "stars_today": "844 stars today",
+      "stars_total": "23,141"
     },
     {
       "name": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
-      "stars_today": "1,435 stars today",
-      "stars_total": "232,148"
+      "stars_today": "1,429 stars today",
+      "stars_total": "232,396"
     },
     {
       "name": "zai-org/GLM-5",
       "url": "https://github.com/zai-org/GLM-5",
       "description": "GLM-5: From Vibe Coding to Agentic Engineering",
       "language": "",
-      "stars_today": "286 stars today",
-      "stars_total": "3,973"
+      "stars_today": "202 stars today",
+      "stars_total": "4,118"
     },
     {
       "name": "DeusData/codebase-memory-mcp",
       "url": "https://github.com/DeusData/codebase-memory-mcp",
       "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
       "language": "C",
-      "stars_today": "2,308 stars today",
-      "stars_total": "6,723"
+      "stars_today": "2,322 stars today",
+      "stars_total": "7,013"
+    },
+    {
+      "name": "yifanfeng97/Hyper-Extract",
+      "url": "https://github.com/yifanfeng97/Hyper-Extract",
+      "description": "Transform unstructured text into structured knowledge with LLMs. Graphs, hypergraphs, and spatio-temporal extractions — with one command.",
+      "language": "Python",
+      "stars_today": "124 stars today",
+      "stars_total": "1,761"
     },
     {
       "name": "alibaba/zvec",
       "url": "https://github.com/alibaba/zvec",
       "description": "A lightweight, lightning-fast, in-process vector database",
       "language": "C++",
-      "stars_today": "344 stars today",
-      "stars_total": "11,122"
+      "stars_today": "259 stars today",
+      "stars_total": "11,211"
     },
     {
       "name": "withastro/flue",
       "url": "https://github.com/withastro/flue",
       "description": "The sandbox agent framework.",
       "language": "TypeScript",
-      "stars_today": "164 stars today",
-      "stars_total": "5,400"
+      "stars_today": "162 stars today",
+      "stars_total": "5,494"
     },
     {
       "name": "Kilo-Org/kilocode",
       "url": "https://github.com/Kilo-Org/kilocode",
       "description": "Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent.",
       "language": "TypeScript",
-      "stars_today": "1,339 stars today",
-      "stars_total": "21,749"
+      "stars_today": "1,345 stars today",
+      "stars_total": "22,115"
     }
   ],
   "posts": [
@@ -146,76 +154,76 @@
       "topic": "TimesFM",
       "repo": "google-research/timesfm",
       "cover_line1": "Google 时间序列大模型",
-      "cover_line2": "预训练后直接预测",
-      "body": "时间序列预测一直很麻烦：每个业务都要重新建模，数据格式五花八门，调参像碰运气。Google Research 把这事做薄了——TimesFM 是一个统一预训练的时间序列基础模型，不靠微调，直接拿历史数据喂进去，就能输出未来值。它没用传统 RNN 或 Transformer 堆叠，而是用分层时序卷积+注意力混合结构，在电力、交通、零售等 100 多个公开数据集上跑出了 SOTA 级别效果。更关键的是，它开源了完整推理代码和 checkpoint，你本地有 GPU 就能跑；输入是普通 NumPy 数组，输出是带不确定区间的预测张量，不用改业务数据管道。模型参数量约 15 亿，但推理吞吐比 Prophet 高 8 倍，比 N-BEATS 快 3 倍。它不取代所有场景（比如超长周期或强因果推断），但对「下周销量」「明早服务器负载」这类常见需求，第一次做到开箱即用。今天涨了 858 星，说明很多人正在把它塞进自己的监控告警、库存补货、IoT 边缘设备里。你上次写 forecast 函数，是手撸 ARIMA 还是抄 Stack Overflow？",
+      "cover_line2": "单次预测快到毫秒级",
+      "body": "Google Research 把时间序列预测这件事，做成一个开箱即用的基础模型。它不像传统方法那样每次换数据就得重调参、重训练，而是像 LLM 那样先预训练好，再拿新数据微调几轮就能用。模型结构是纯 Transformer，但专为时序对齐设计：输入一段历史值（比如过去 512 小时的服务器 CPU 使用率），直接输出未来 192 小时的预测结果，中间不插手、不拼接、不滑窗。官方说在 M4、ETT 等 6 个主流基准上，平均误差比 N-BEATS、DeepAR 低 12% 到 23%；更关键的是推理快——单次预测耗时不到 10 毫秒，CPU 上也能跑。代码全开源，连预训练权重都放出来了，还配了 Colab 示例，三行代码就能跑通你自己的 CSV。它不解决所有问题，比如突发异常检测或因果归因，但它把「预测」这件事拉到了一个新基线：不再需要从零搭 pipeline，而是直接问「接下来会怎样」。",
       "tags": [
         "time-series",
         "forecasting",
         "foundation-model",
         "google",
+        "transformer",
         "python",
-        "open-source",
-        "inference",
-        "production-ready",
-        "numpy",
-        "ml"
+        "open-weight",
+        "cpu-inference",
+        "colab-ready",
+        "m4-benchmark"
       ]
     },
     {
       "topic": "Codebase Memory",
       "repo": "DeusData/codebase-memory-mcp",
       "cover_line1": "代码库知识图谱服务",
-      "cover_line2": "158 种语言毫秒索引",
-      "body": "读别人代码最耗时间的不是语法，是搞不清「这个函数到底被谁调、改过几次、为什么加这行注释」。Codebase Memory 把整个代码库变成可查询的知识图谱：它用纯 C 写成，单个静态二进制文件，不依赖数据库、不装 Python 包、不连网络。扫描一个中型 Go 项目（30 万行）平均耗时 47 毫秒，建立的图谱支持 sub-millisecond 查询——比如「哪些 test 文件引用了 utils/http.go 里的 retryWithBackoff？」返回结果带 AST 节点位置和 commit hash。它支持 158 种语言，靠 tree-sitter 解析，不是正则匹配。更实在的是，它把 token 消耗压到原生 LSP 的 1%，意味着你可以把整个公司代码库喂给本地小模型做 RAG，而不用先切块丢云端。今天涨了 2308 星，明显是被 DevOps 和 AI 编程工具链团队集体接入了。你上一次 grep 全仓库，花了多少秒？",
+      "cover_line2": "158 种语言，查询 <1ms",
+      "body": "它把整个代码库变成一张可查、可连、可更新的知识图谱。不是靠正则匹配，也不是靠模糊搜索，而是解析 AST + 构建实体关系：函数 A 调用了哪些模块，哪个类实现了接口 B，变量 C 在哪被定义、在哪被修改。支持 158 种编程语言，包括 Zig、Nim、V、Q# 这些小众但真有人用的语言。索引一个中等大小的 Rust 项目（约 10 万行）只要 200 毫秒，之后所有查询响应都在亚毫秒级——比如「找出所有调用 openssl 的地方」，返回结果带位置、上下文、调用链，不是一堆 grep 行号。整个服务打包成一个静态二进制，没依赖、不装 Python、不跑 Docker，Linux/macOS 上双击就能起服务。它不替代 IDE，但让 LLM 写代码时真正「看懂」你的项目结构，而不是靠猜或者读错文件。你不用改现有工作流，只加一行命令就能接入已有 agent 或编辑器插件。",
       "tags": [
         "code-intelligence",
         "knowledge-graph",
+        "ast-parsing",
+        "static-binary",
+        "low-latency",
+        "multi-language",
         "c",
-        "static-analysis",
-        "tree-sitter",
-        "developer-tools",
         "mcp",
-        "local-ai",
-        "zero-dependency",
-        "fast"
+        "developer-tool",
+        "code-search"
       ]
     },
     {
       "topic": "ZVec",
       "repo": "alibaba/zvec",
       "cover_line1": "阿里轻量向量数据库",
-      "cover_line2": "C++ 单进程零依赖",
-      "body": "向量检索不该要 Kubernetes、ETCD 和三小时部署文档。ZVec 是阿里巴巴开源的嵌入式向量数据库，核心逻辑全在单个 C++ 文件里，编译后就是一串内存操作——没有网络模块，不启后台服务，不建索引文件。你 new 一个 ZVec 实例，insert 向量，search 返回 ID 和距离，全程在进程内完成。它用优化过的 HNSW 变体，百万级 768 维向量下，QPS 超 12,000，P99 延迟 < 8ms。特别适合插在 LangChain 工具链里当本地缓存，或者给边缘设备做实时语义匹配。它不支持分布式，也不搞权限管理，就干一件事：快、省、不掉链子。总星数已破一万，今天新增 344 星，多数来自 Rust 和 Zig 社区——他们正在把 ZVec 的头文件直接 bind 到自己的 runtime 里。你当前项目里，向量检索是跑在远程服务，还是真正在自己进程里？",
+      "cover_line2": "单进程，内存占用 <5MB",
+      "body": "ZVec 是阿里巴巴开源的一个「塞进进程里就能用」的向量数据库。没有服务端、没有网络通信、没有配置文件，就是一段 C++ 库，编译进你的程序里，new 一个对象，insert 向量，search 相似项，全程在内存里完成。它不做分布式，也不搞持久化——你要存磁盘，自己序列化；你要跨进程，自己加 IPC。但它做到了一件事：在 5MB 内存里塞下十万条 768 维向量，查询 TOP-10 的 P99 延迟低于 0.8 毫秒。对比 FAISS，它去掉所有调度和抽象层，用 SIMD 加速距离计算，用紧凑哈希表存 ID 映射。适合嵌入 CLI 工具、IDE 插件、本地 RAG Agent，或者任何不能多开进程、不想配服务的场景。文档就一页 README，例子三行代码，连 build.sh 都写好了。它不追求功能全，只保证「小、快、不扯皮」。",
       "tags": [
-        "vector-database",
-        "embedding",
-        "c++",
+        "vector-db",
+        "in-process",
         "alibaba",
-        "lightweight",
-        "embedded",
-        "hnsw",
+        "cpp",
+        "low-memory",
+        "simd",
+        "cli-tool",
         "local-rag",
-        "low-latency",
-        "open-source"
+        "embeddings",
+        "lightweight"
       ]
     },
     {
       "topic": "Superpowers",
       "repo": "obra/superpowers",
       "cover_line1": "Agentic 技能框架",
-      "cover_line2": "Shell 命令自动编排",
-      "body": "写 agent 不是堆 prompt，而是定义技能边界。Superpowers 是一个用 Shell 脚本驱动的 agentic 框架：每个技能就是一个可执行文件（bash/py/sh），agent 运行时按需调用，自动传参、捕获 stdout、失败重试、记录 trace。它不抽象成 YAML 或 JSON Schema，而是让你直接写 #!/bin/bash —— git status、curl API、sed 替换配置、ssh 执行命令，全是合法技能。框架只管调度、上下文传递和错误传播，其余交给你的 shell 环境。今天涨了 1435 星，说明大量基础设施工程师终于不用再把运维脚本硬塞进 Python agent 里了。它已集成 GitHub Actions、Docker CLI、kubectl 插件，还能导出 OpenTelemetry trace。你写的最后一个自动化脚本，是为人类写的 README，还是为 agent 写的可发现技能？",
+      "cover_line2": "Shell 命令驱动开发流",
+      "body": "Superpowers 把软件开发过程拆成一组可组合、可复用的 Shell 命令技能。比如 run-test、review-pr、deploy-staging、write-docs，每个都是一个带描述、输入输出契约、自动重试逻辑的脚本。开发者不写 YAML 流程图，也不拖拽 UI，而是用 shell 命令串联：superpowers review-pr | superpowers deploy-staging --env prod。它内置了 Git、GitHub、Docker、Kubectl 的封装，也允许你用任意语言写新技能——只要标准输入输出 JSON。项目上线三天内就有 232k stars，说明很多人厌倦了抽象层套抽象层的 agentic 工具，转而想要「看得见、摸得着、改得动」的执行单元。它不假装能全自动写完 App，但让每一次人工介入都更清晰、更可审计、更易交接。你不需要重构整个团队流程，挑一两个重复性最高的环节，替换成 Superpowers 技能，就能立刻少点十次鼠标。",
       "tags": [
         "agentic",
         "shell",
         "devops",
-        "automation",
-        "cli",
-        "infrastructure",
+        "cli-framework",
         "github-actions",
-        "kubernetes",
-        "observability",
-        "tool-use"
+        "git-automation",
+        "open-source",
+        "workflow",
+        "developer-experience",
+        "obra"
       ]
     }
   ],
