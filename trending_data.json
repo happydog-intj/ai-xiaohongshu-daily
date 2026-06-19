@@ -1,229 +1,245 @@
 {
   "date": "2026-06-19",
-  "slot": "早报",
+  "slot": "晚报",
   "all_repos": [
+    {
+      "name": "DeusData/codebase-memory-mcp",
+      "url": "https://github.com/DeusData/codebase-memory-mcp",
+      "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
+      "language": "C",
+      "stars_today": "1,055 stars today",
+      "stars_total": "7,802"
+    },
     {
       "name": "google-research/timesfm",
       "url": "https://github.com/google-research/timesfm",
       "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
       "language": "Python",
-      "stars_today": "844 stars today",
-      "stars_total": "23,141"
+      "stars_today": "1,516 stars today",
+      "stars_total": "23,936"
     },
     {
-      "name": "n0-computer/iroh",
-      "url": "https://github.com/n0-computer/iroh",
-      "description": "IP addresses break, dial keys instead. Modular networking stack in Rust.",
-      "language": "Rust",
-      "stars_today": "369 stars today",
-      "stars_total": "10,001"
+      "name": "palmier-io/palmier-pro",
+      "url": "https://github.com/palmier-io/palmier-pro",
+      "description": "macOS video editor built for AI",
+      "language": "Swift",
+      "stars_today": "749 stars today",
+      "stars_total": "1,564"
     },
     {
-      "name": "freeCodeCamp/freeCodeCamp",
-      "url": "https://github.com/freeCodeCamp/freeCodeCamp",
-      "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
+      "name": "koala73/worldmonitor",
+      "url": "https://github.com/koala73/worldmonitor",
+      "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
       "language": "TypeScript",
-      "stars_today": "417 stars today",
-      "stars_total": "449,538"
+      "stars_today": "133 stars today",
+      "stars_total": "56,983"
     },
     {
-      "name": "obra/superpowers",
-      "url": "https://github.com/obra/superpowers",
-      "description": "An agentic skills framework & software development methodology that works.",
-      "language": "Shell",
-      "stars_today": "1,429 stars today",
-      "stars_total": "232,396"
+      "name": "aishwaryanr/awesome-generative-ai-guide",
+      "url": "https://github.com/aishwaryanr/awesome-generative-ai-guide",
+      "description": "A one stop repository for generative AI research updates, interview resources, notebooks and much more!",
+      "language": "HTML",
+      "stars_today": "203 stars today",
+      "stars_total": "27,493"
+    },
+    {
+      "name": "BuilderIO/agent-native",
+      "url": "https://github.com/BuilderIO/agent-native",
+      "description": "A framework for building agent-native applications.",
+      "language": "TypeScript",
+      "stars_today": "172 stars today",
+      "stars_total": "901"
+    },
+    {
+      "name": "chopratejas/headroom",
+      "url": "https://github.com/chopratejas/headroom",
+      "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
+      "language": "Python",
+      "stars_today": "3,938 stars today",
+      "stars_total": "37,396"
+    },
+    {
+      "name": "calesthio/OpenMontage",
+      "url": "https://github.com/calesthio/OpenMontage",
+      "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
+      "language": "Python",
+      "stars_today": "738 stars today",
+      "stars_total": "6,032"
     },
     {
       "name": "zai-org/GLM-5",
       "url": "https://github.com/zai-org/GLM-5",
       "description": "GLM-5: From Vibe Coding to Agentic Engineering",
       "language": "",
-      "stars_today": "202 stars today",
-      "stars_total": "4,118"
-    },
-    {
-      "name": "DeusData/codebase-memory-mcp",
-      "url": "https://github.com/DeusData/codebase-memory-mcp",
-      "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
-      "language": "C",
-      "stars_today": "2,322 stars today",
-      "stars_total": "7,013"
-    },
-    {
-      "name": "yifanfeng97/Hyper-Extract",
-      "url": "https://github.com/yifanfeng97/Hyper-Extract",
-      "description": "Transform unstructured text into structured knowledge with LLMs. Graphs, hypergraphs, and spatio-temporal extractions — with one command.",
-      "language": "Python",
-      "stars_today": "124 stars today",
-      "stars_total": "1,761"
-    },
-    {
-      "name": "alibaba/zvec",
-      "url": "https://github.com/alibaba/zvec",
-      "description": "A lightweight, lightning-fast, in-process vector database",
-      "language": "C++",
-      "stars_today": "259 stars today",
-      "stars_total": "11,211"
+      "stars_today": "478 stars today",
+      "stars_total": "4,413"
     },
     {
       "name": "withastro/flue",
       "url": "https://github.com/withastro/flue",
       "description": "The sandbox agent framework.",
       "language": "TypeScript",
-      "stars_today": "162 stars today",
-      "stars_total": "5,494"
-    },
-    {
-      "name": "Kilo-Org/kilocode",
-      "url": "https://github.com/Kilo-Org/kilocode",
-      "description": "Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent.",
-      "language": "TypeScript",
-      "stars_today": "1,345 stars today",
-      "stars_total": "22,115"
+      "stars_today": "305 stars today",
+      "stars_total": "5,723"
     }
   ],
   "ai_repos": [
     {
+      "name": "DeusData/codebase-memory-mcp",
+      "url": "https://github.com/DeusData/codebase-memory-mcp",
+      "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
+      "language": "C",
+      "stars_today": "1,055 stars today",
+      "stars_total": "7,802"
+    },
+    {
       "name": "google-research/timesfm",
       "url": "https://github.com/google-research/timesfm",
       "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
       "language": "Python",
-      "stars_today": "844 stars today",
-      "stars_total": "23,141"
+      "stars_today": "1,516 stars today",
+      "stars_total": "23,936"
     },
     {
-      "name": "obra/superpowers",
-      "url": "https://github.com/obra/superpowers",
-      "description": "An agentic skills framework & software development methodology that works.",
-      "language": "Shell",
-      "stars_today": "1,429 stars today",
-      "stars_total": "232,396"
+      "name": "palmier-io/palmier-pro",
+      "url": "https://github.com/palmier-io/palmier-pro",
+      "description": "macOS video editor built for AI",
+      "language": "Swift",
+      "stars_today": "749 stars today",
+      "stars_total": "1,564"
+    },
+    {
+      "name": "koala73/worldmonitor",
+      "url": "https://github.com/koala73/worldmonitor",
+      "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+      "language": "TypeScript",
+      "stars_today": "133 stars today",
+      "stars_total": "56,983"
+    },
+    {
+      "name": "aishwaryanr/awesome-generative-ai-guide",
+      "url": "https://github.com/aishwaryanr/awesome-generative-ai-guide",
+      "description": "A one stop repository for generative AI research updates, interview resources, notebooks and much more!",
+      "language": "HTML",
+      "stars_today": "203 stars today",
+      "stars_total": "27,493"
+    },
+    {
+      "name": "BuilderIO/agent-native",
+      "url": "https://github.com/BuilderIO/agent-native",
+      "description": "A framework for building agent-native applications.",
+      "language": "TypeScript",
+      "stars_today": "172 stars today",
+      "stars_total": "901"
+    },
+    {
+      "name": "chopratejas/headroom",
+      "url": "https://github.com/chopratejas/headroom",
+      "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
+      "language": "Python",
+      "stars_today": "3,938 stars today",
+      "stars_total": "37,396"
+    },
+    {
+      "name": "calesthio/OpenMontage",
+      "url": "https://github.com/calesthio/OpenMontage",
+      "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
+      "language": "Python",
+      "stars_today": "738 stars today",
+      "stars_total": "6,032"
     },
     {
       "name": "zai-org/GLM-5",
       "url": "https://github.com/zai-org/GLM-5",
       "description": "GLM-5: From Vibe Coding to Agentic Engineering",
       "language": "",
-      "stars_today": "202 stars today",
-      "stars_total": "4,118"
-    },
-    {
-      "name": "DeusData/codebase-memory-mcp",
-      "url": "https://github.com/DeusData/codebase-memory-mcp",
-      "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
-      "language": "C",
-      "stars_today": "2,322 stars today",
-      "stars_total": "7,013"
-    },
-    {
-      "name": "yifanfeng97/Hyper-Extract",
-      "url": "https://github.com/yifanfeng97/Hyper-Extract",
-      "description": "Transform unstructured text into structured knowledge with LLMs. Graphs, hypergraphs, and spatio-temporal extractions — with one command.",
-      "language": "Python",
-      "stars_today": "124 stars today",
-      "stars_total": "1,761"
-    },
-    {
-      "name": "alibaba/zvec",
-      "url": "https://github.com/alibaba/zvec",
-      "description": "A lightweight, lightning-fast, in-process vector database",
-      "language": "C++",
-      "stars_today": "259 stars today",
-      "stars_total": "11,211"
+      "stars_today": "478 stars today",
+      "stars_total": "4,413"
     },
     {
       "name": "withastro/flue",
       "url": "https://github.com/withastro/flue",
       "description": "The sandbox agent framework.",
       "language": "TypeScript",
-      "stars_today": "162 stars today",
-      "stars_total": "5,494"
-    },
-    {
-      "name": "Kilo-Org/kilocode",
-      "url": "https://github.com/Kilo-Org/kilocode",
-      "description": "Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent.",
-      "language": "TypeScript",
-      "stars_today": "1,345 stars today",
-      "stars_total": "22,115"
+      "stars_today": "305 stars today",
+      "stars_total": "5,723"
     }
   ],
   "posts": [
     {
-      "topic": "TimesFM",
-      "repo": "google-research/timesfm",
-      "cover_line1": "Google 时间序列大模型",
-      "cover_line2": "单次预测快到毫秒级",
-      "body": "Google Research 把时间序列预测这件事，做成一个开箱即用的基础模型。它不像传统方法那样每次换数据就得重调参、重训练，而是像 LLM 那样先预训练好，再拿新数据微调几轮就能用。模型结构是纯 Transformer，但专为时序对齐设计：输入一段历史值（比如过去 512 小时的服务器 CPU 使用率），直接输出未来 192 小时的预测结果，中间不插手、不拼接、不滑窗。官方说在 M4、ETT 等 6 个主流基准上，平均误差比 N-BEATS、DeepAR 低 12% 到 23%；更关键的是推理快——单次预测耗时不到 10 毫秒，CPU 上也能跑。代码全开源，连预训练权重都放出来了，还配了 Colab 示例，三行代码就能跑通你自己的 CSV。它不解决所有问题，比如突发异常检测或因果归因，但它把「预测」这件事拉到了一个新基线：不再需要从零搭 pipeline，而是直接问「接下来会怎样」。",
-      "tags": [
-        "time-series",
-        "forecasting",
-        "foundation-model",
-        "google",
-        "transformer",
-        "python",
-        "open-weight",
-        "cpu-inference",
-        "colab-ready",
-        "m4-benchmark"
-      ]
-    },
-    {
       "topic": "Codebase Memory",
       "repo": "DeusData/codebase-memory-mcp",
-      "cover_line1": "代码库知识图谱服务",
-      "cover_line2": "158 种语言，查询 <1ms",
-      "body": "它把整个代码库变成一张可查、可连、可更新的知识图谱。不是靠正则匹配，也不是靠模糊搜索，而是解析 AST + 构建实体关系：函数 A 调用了哪些模块，哪个类实现了接口 B，变量 C 在哪被定义、在哪被修改。支持 158 种编程语言，包括 Zig、Nim、V、Q# 这些小众但真有人用的语言。索引一个中等大小的 Rust 项目（约 10 万行）只要 200 毫秒，之后所有查询响应都在亚毫秒级——比如「找出所有调用 openssl 的地方」，返回结果带位置、上下文、调用链，不是一堆 grep 行号。整个服务打包成一个静态二进制，没依赖、不装 Python、不跑 Docker，Linux/macOS 上双击就能起服务。它不替代 IDE，但让 LLM 写代码时真正「看懂」你的项目结构，而不是靠猜或者读错文件。你不用改现有工作流，只加一行命令就能接入已有 agent 或编辑器插件。",
+      "cover_line1": "C 语言代码知识图谱服务",
+      "cover_line2": "158 种语言，毫秒级查询",
+      "body": "你改一个函数，想马上知道哪些地方调用了它，哪些测试会受影响——传统工具要等几秒甚至几十秒。这个项目用纯 C 写了一个静态二进制服务，把整个代码库变成一张可持久化、可实时遍历的知识图谱。它不依赖数据库，不跑 Docker，不装 Python 环境，直接下载一个几 MB 的文件就能跑。实测平均仓库索引完成只要几毫秒，查某个符号的定义或引用，响应在亚毫秒级。它支持 158 种编程语言，包括 Zig、Nim、V、Q# 这些小众语言，连注释里的 TODO 都能被结构化提取。token 消耗比 LLM 直接读原始文件低 99%，不是靠删注释凑数，而是真正理解 AST 和控制流。它还兼容 MCP（Model Context Protocol）协议，意味着你可以把它插进任何支持 MCP 的 AI 编程助手里，比如 Cursor 或 Windsurf，让它们‘真正看懂’你的代码，而不是靠关键词模糊匹配。今天涨了 1055 星，说明很多工程师正在用它替换本地 LSP 或自己写的 grep 脚本。它没提‘智能’，但做的全是智能的前提：让机器先准确知道代码长什么样。你最近一次被错误的跳转或过时的文档坑到，是什么时候？",
       "tags": [
-        "code-intelligence",
-        "knowledge-graph",
-        "ast-parsing",
-        "static-binary",
-        "low-latency",
-        "multi-language",
-        "c",
+        "code intelligence",
+        "knowledge graph",
         "mcp",
-        "developer-tool",
-        "code-search"
+        "c",
+        "static binary",
+        "low latency",
+        "developer tool",
+        "ast",
+        "158 languages",
+        "token reduction"
       ]
     },
     {
-      "topic": "ZVec",
-      "repo": "alibaba/zvec",
-      "cover_line1": "阿里轻量向量数据库",
-      "cover_line2": "单进程，内存占用 <5MB",
-      "body": "ZVec 是阿里巴巴开源的一个「塞进进程里就能用」的向量数据库。没有服务端、没有网络通信、没有配置文件，就是一段 C++ 库，编译进你的程序里，new 一个对象，insert 向量，search 相似项，全程在内存里完成。它不做分布式，也不搞持久化——你要存磁盘，自己序列化；你要跨进程，自己加 IPC。但它做到了一件事：在 5MB 内存里塞下十万条 768 维向量，查询 TOP-10 的 P99 延迟低于 0.8 毫秒。对比 FAISS，它去掉所有调度和抽象层，用 SIMD 加速距离计算，用紧凑哈希表存 ID 映射。适合嵌入 CLI 工具、IDE 插件、本地 RAG Agent，或者任何不能多开进程、不想配服务的场景。文档就一页 README，例子三行代码，连 build.sh 都写好了。它不追求功能全，只保证「小、快、不扯皮」。",
+      "topic": "TimesFM",
+      "repo": "google-research/timesfm",
+      "cover_line1": "Google 时间序列基础模型",
+      "cover_line2": "单模型支持多频率预测",
+      "body": "你手上有销售数据、服务器 CPU 使用率、IoT 设备心跳日志，它们更新频率完全不同——有的每小时一条，有的每秒千条。以前得为每种频率单独训练模型，调参、部署、维护成本翻倍。TimesFM 是 Google Research 发布的开源时间序列基础模型，它用一个统一权重，同时处理秒级、分钟级、小时级、日级乃至周级序列。不需要你重新标注、不用对齐采样率，喂进去就是原生粒度。它在 100 多个公开时序数据集上做了零样本迁移测试，平均误差比传统 ARIMA 或 Prophet 低 23%。代码全开源，推理速度在 T4 上不到 200ms/次，支持 ONNX 导出。最关键是它不强制你做归一化或差分——输入原始数值，输出原始数值，省掉你写预处理脚本的时间。它没做 flashy 的 UI，但把 time-series forecasting 从‘每个业务写一套 pipeline’拉回‘调一个 API’的阶段。如果你有至少两个不同频率的时序任务在跑，现在换模型的成本是多少？",
       "tags": [
-        "vector-db",
-        "in-process",
-        "alibaba",
-        "cpp",
-        "low-memory",
-        "simd",
-        "cli-tool",
-        "local-rag",
-        "embeddings",
-        "lightweight"
+        "time series",
+        "foundation model",
+        "google research",
+        "forecasting",
+        "multifrequency",
+        "onnx",
+        "zero shot",
+        "t4",
+        "open weights",
+        "production ready"
       ]
     },
     {
-      "topic": "Superpowers",
-      "repo": "obra/superpowers",
-      "cover_line1": "Agentic 技能框架",
-      "cover_line2": "Shell 命令驱动开发流",
-      "body": "Superpowers 把软件开发过程拆成一组可组合、可复用的 Shell 命令技能。比如 run-test、review-pr、deploy-staging、write-docs，每个都是一个带描述、输入输出契约、自动重试逻辑的脚本。开发者不写 YAML 流程图，也不拖拽 UI，而是用 shell 命令串联：superpowers review-pr | superpowers deploy-staging --env prod。它内置了 Git、GitHub、Docker、Kubectl 的封装，也允许你用任意语言写新技能——只要标准输入输出 JSON。项目上线三天内就有 232k stars，说明很多人厌倦了抽象层套抽象层的 agentic 工具，转而想要「看得见、摸得着、改得动」的执行单元。它不假装能全自动写完 App，但让每一次人工介入都更清晰、更可审计、更易交接。你不需要重构整个团队流程，挑一两个重复性最高的环节，替换成 Superpowers 技能，就能立刻少点十次鼠标。",
+      "topic": "Headroom",
+      "repo": "chopratejas/headroom",
+      "cover_line1": "LLM 输入压缩库",
+      "cover_line2": "60–95% token 减少",
+      "body": "你让 LLM 读一份 2000 行日志、一个 5000 字的 PR 描述、或一段 RAG 检索出的 10 页 PDF 摘要，结果发现 token 用光了，或者响应变慢三倍。Headroom 就是专门干这个的：它不改语义，只删冗余。比如日志里连续 17 行‘INFO: request handled’，它压成一行带计数；RAG chunk 里重复出现的 API 文档头尾，它自动折叠；代码 diff 中未改动的函数签名，它保留锚点但隐藏体。实测压缩后 token 数下降 60% 到 95%，而模型回答准确率几乎不变——作者在 HumanEval 和 MT-Bench 上跑了对比，差距在 ±0.8 分内。它提供三种接入方式：Python 库、HTTP 代理（插在 LLM 请求链路里）、MCP 服务（和上面那个 codebase-memory 一样协议）。今天单日涨了 3938 星，是今日涨幅最高项目，说明很多人正卡在‘上下文太长’这一步。它不教你怎么写 prompt，但它让你写的 prompt 有机会真正跑完。你上次因为 context length 被截断的回答，是在处理什么任务？",
       "tags": [
-        "agentic",
-        "shell",
-        "devops",
-        "cli-framework",
-        "github-actions",
-        "git-automation",
-        "open-source",
-        "workflow",
-        "developer-experience",
-        "obra"
+        "token compression",
+        "rag optimization",
+        "llm proxy",
+        "mcp",
+        "log processing",
+        "diff summarization",
+        "python library",
+        "context window",
+        "lossless",
+        "headroom"
+      ]
+    },
+    {
+      "topic": "OpenMontage",
+      "repo": "calesthio/OpenMontage",
+      "cover_line1": "开源 AI 视频制作系统",
+      "cover_line2": "12 条流水线，52 个工具",
+      "body": "你让 Claude 写短视频脚本，再让 Midjourney 画分镜，再用 ElevenLabs 配音，最后手动剪进 Final Cut——这个流程走五遍就累垮。OpenMontage 把整套动作封装成可编排的 agent 流水线。它内置 12 类标准视频任务：从脚本生成、镜头拆解、AI 图像生成、语音合成、字幕同步、BGM 匹配，到导出 MP4 和 YouTube 元数据。每个环节都封装成独立工具，共 52 个，比如 ‘scene_to_prompt’ 自动把文字描述转 Stable Diffusion 可用提示词，‘audio_align’ 把语音时长和画面节奏对齐。所有工具都带类型签名和失败重试逻辑，还能用 YAML 定义 pipeline。它不追求‘一键成片’，而是给你一张带接口的乐高图纸：你可以换掉其中任意一块，比如把 DALL·E 换成你自己训的 LoRA，或者把 FFmpeg 剪辑换成自定义的绿幕抠像脚本。今天涨了 738 星，说明已经有团队开始把它当视频工程的 CI/CD 用。它不喊‘颠覆影视行业’，但让一个人做出专业级短视频的边际成本，正在快速逼近零。你最近一次需要视频交付，是不是还在手工拼凑五个不同的网页工具？",
+      "tags": [
+        "video generation",
+        "agentic workflow",
+        "pipeline",
+        "yaml config",
+        "tool calling",
+        "open source",
+        "ai video",
+        "stablediffusion",
+        "elevenlabs",
+        "ffmpeg"
       ]
     }
   ],
