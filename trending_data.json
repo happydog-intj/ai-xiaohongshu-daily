@@ -1,245 +1,221 @@
 {
   "date": "2026-06-20",
-  "slot": "早报",
+  "slot": "晚报",
   "all_repos": [
-    {
-      "name": "DeusData/codebase-memory-mcp",
-      "url": "https://github.com/DeusData/codebase-memory-mcp",
-      "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
-      "language": "C",
-      "stars_today": "1,058 stars today",
-      "stars_total": "8,203"
-    },
-    {
-      "name": "google-research/timesfm",
-      "url": "https://github.com/google-research/timesfm",
-      "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
-      "language": "Python",
-      "stars_today": "1,510 stars today",
-      "stars_total": "24,074"
-    },
     {
       "name": "palmier-io/palmier-pro",
       "url": "https://github.com/palmier-io/palmier-pro",
       "description": "macOS video editor built for AI",
       "language": "Swift",
-      "stars_today": "756 stars today",
-      "stars_total": "1,881"
+      "stars_today": "904 stars today",
+      "stars_total": "2,622"
     },
     {
-      "name": "koala73/worldmonitor",
-      "url": "https://github.com/koala73/worldmonitor",
-      "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
-      "language": "TypeScript",
-      "stars_today": "156 stars today",
-      "stars_total": "57,222"
-    },
-    {
-      "name": "aishwaryanr/awesome-generative-ai-guide",
-      "url": "https://github.com/aishwaryanr/awesome-generative-ai-guide",
-      "description": "A one stop repository for generative AI research updates, interview resources, notebooks and much more!",
-      "language": "HTML",
-      "stars_today": "107 stars today",
-      "stars_total": "27,608"
-    },
-    {
-      "name": "BuilderIO/agent-native",
-      "url": "https://github.com/BuilderIO/agent-native",
-      "description": "A framework for building agent-native applications.",
-      "language": "TypeScript",
-      "stars_today": "147 stars today",
-      "stars_total": "1,033"
-    },
-    {
-      "name": "chopratejas/headroom",
-      "url": "https://github.com/chopratejas/headroom",
-      "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
-      "language": "Python",
-      "stars_today": "4,005 stars today",
-      "stars_total": "38,632"
+      "name": "penpot/penpot",
+      "url": "https://github.com/penpot/penpot",
+      "description": "Penpot: The open-source design tool for design and code collaboration",
+      "language": "Clojure",
+      "stars_today": "424 stars today",
+      "stars_total": "50,955"
     },
     {
       "name": "calesthio/OpenMontage",
       "url": "https://github.com/calesthio/OpenMontage",
       "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
       "language": "Python",
-      "stars_today": "156 stars today",
-      "stars_total": "6,270"
+      "stars_today": "677 stars today",
+      "stars_total": "6,714"
     },
     {
-      "name": "zai-org/GLM-5",
-      "url": "https://github.com/zai-org/GLM-5",
-      "description": "GLM-5: From Vibe Coding to Agentic Engineering",
-      "language": "",
-      "stars_today": "480 stars today",
-      "stars_total": "4,574"
+      "name": "tursodatabase/turso",
+      "url": "https://github.com/tursodatabase/turso",
+      "description": "Turso is an in-process SQL database, compatible with SQLite.",
+      "language": "Rust",
+      "stars_today": "774 stars today",
+      "stars_total": "20,097"
     },
     {
-      "name": "withastro/flue",
-      "url": "https://github.com/withastro/flue",
-      "description": "The sandbox agent framework.",
+      "name": "DeusData/codebase-memory-mcp",
+      "url": "https://github.com/DeusData/codebase-memory-mcp",
+      "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
+      "language": "C",
+      "stars_today": "1,267 stars today",
+      "stars_total": "8,955"
+    },
+    {
+      "name": "google-research/timesfm",
+      "url": "https://github.com/google-research/timesfm",
+      "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+      "language": "Python",
+      "stars_today": "432 stars today",
+      "stars_total": "24,335"
+    },
+    {
+      "name": "twentyhq/twenty",
+      "url": "https://github.com/twentyhq/twenty",
+      "description": "The open alternative to Salesforce, designed for AI.",
       "language": "TypeScript",
-      "stars_today": "309 stars today",
-      "stars_total": "5,828"
+      "stars_today": "140 stars today",
+      "stars_total": "50,720"
+    },
+    {
+      "name": "Kong/insomnia",
+      "url": "https://github.com/Kong/insomnia",
+      "description": "The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.",
+      "language": "TypeScript",
+      "stars_today": "327 stars today",
+      "stars_total": "39,169"
+    },
+    {
+      "name": "tw93/Pake",
+      "url": "https://github.com/tw93/Pake",
+      "description": "🤱🏻 Turn any webpage into a desktop app with one command.",
+      "language": "Rust",
+      "stars_today": "2,398 stars today",
+      "stars_total": "53,602"
+    },
+    {
+      "name": "chopratejas/headroom",
+      "url": "https://github.com/chopratejas/headroom",
+      "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
+      "language": "Python",
+      "stars_today": "3,786 stars today",
+      "stars_total": "40,821"
     }
   ],
   "ai_repos": [
     {
-      "name": "DeusData/codebase-memory-mcp",
-      "url": "https://github.com/DeusData/codebase-memory-mcp",
-      "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
-      "language": "C",
-      "stars_today": "1,058 stars today",
-      "stars_total": "8,203"
-    },
-    {
-      "name": "google-research/timesfm",
-      "url": "https://github.com/google-research/timesfm",
-      "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
-      "language": "Python",
-      "stars_today": "1,510 stars today",
-      "stars_total": "24,074"
-    },
-    {
       "name": "palmier-io/palmier-pro",
       "url": "https://github.com/palmier-io/palmier-pro",
       "description": "macOS video editor built for AI",
       "language": "Swift",
-      "stars_today": "756 stars today",
-      "stars_total": "1,881"
-    },
-    {
-      "name": "koala73/worldmonitor",
-      "url": "https://github.com/koala73/worldmonitor",
-      "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
-      "language": "TypeScript",
-      "stars_today": "156 stars today",
-      "stars_total": "57,222"
-    },
-    {
-      "name": "aishwaryanr/awesome-generative-ai-guide",
-      "url": "https://github.com/aishwaryanr/awesome-generative-ai-guide",
-      "description": "A one stop repository for generative AI research updates, interview resources, notebooks and much more!",
-      "language": "HTML",
-      "stars_today": "107 stars today",
-      "stars_total": "27,608"
-    },
-    {
-      "name": "BuilderIO/agent-native",
-      "url": "https://github.com/BuilderIO/agent-native",
-      "description": "A framework for building agent-native applications.",
-      "language": "TypeScript",
-      "stars_today": "147 stars today",
-      "stars_total": "1,033"
-    },
-    {
-      "name": "chopratejas/headroom",
-      "url": "https://github.com/chopratejas/headroom",
-      "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
-      "language": "Python",
-      "stars_today": "4,005 stars today",
-      "stars_total": "38,632"
+      "stars_today": "904 stars today",
+      "stars_total": "2,622"
     },
     {
       "name": "calesthio/OpenMontage",
       "url": "https://github.com/calesthio/OpenMontage",
       "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
       "language": "Python",
-      "stars_today": "156 stars today",
-      "stars_total": "6,270"
+      "stars_today": "677 stars today",
+      "stars_total": "6,714"
     },
     {
-      "name": "zai-org/GLM-5",
-      "url": "https://github.com/zai-org/GLM-5",
-      "description": "GLM-5: From Vibe Coding to Agentic Engineering",
-      "language": "",
-      "stars_today": "480 stars today",
-      "stars_total": "4,574"
+      "name": "DeusData/codebase-memory-mcp",
+      "url": "https://github.com/DeusData/codebase-memory-mcp",
+      "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
+      "language": "C",
+      "stars_today": "1,267 stars today",
+      "stars_total": "8,955"
     },
     {
-      "name": "withastro/flue",
-      "url": "https://github.com/withastro/flue",
-      "description": "The sandbox agent framework.",
+      "name": "google-research/timesfm",
+      "url": "https://github.com/google-research/timesfm",
+      "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+      "language": "Python",
+      "stars_today": "432 stars today",
+      "stars_total": "24,335"
+    },
+    {
+      "name": "twentyhq/twenty",
+      "url": "https://github.com/twentyhq/twenty",
+      "description": "The open alternative to Salesforce, designed for AI.",
       "language": "TypeScript",
-      "stars_today": "309 stars today",
-      "stars_total": "5,828"
+      "stars_today": "140 stars today",
+      "stars_total": "50,720"
+    },
+    {
+      "name": "Kong/insomnia",
+      "url": "https://github.com/Kong/insomnia",
+      "description": "The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.",
+      "language": "TypeScript",
+      "stars_today": "327 stars today",
+      "stars_total": "39,169"
+    },
+    {
+      "name": "chopratejas/headroom",
+      "url": "https://github.com/chopratejas/headroom",
+      "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
+      "language": "Python",
+      "stars_today": "3,786 stars today",
+      "stars_total": "40,821"
     }
   ],
   "posts": [
     {
-      "topic": "Codebase Memory",
-      "repo": "DeusData/codebase-memory-mcp",
-      "cover_line1": "代码知识图谱服务",
-      "cover_line2": "158种语言，毫秒级查询",
-      "body": "你打开一个新代码库，想立刻知道它怎么工作、哪里改过、哪些函数被谁调用——以前得靠 grep、IDE 索引、甚至翻 commit 记录。这个项目直接把整个代码库变成一张可搜索的知识图谱，用 C 写的单文件二进制，不装依赖、不连数据库，启动就跑。它支持 158 种编程语言，包括 Zig、VHDL、Terraform 这些非主流但真实存在的语言；索引一个中等大小的仓库平均只要几毫秒；查某个函数调用了谁，响应在亚毫秒级；而且每次查询用的 token 比传统 RAG 少 99%。它不是让你喂给大模型再猜，而是自己存好关系、当场回答。比如问‘test_utils.py 里哪些函数被 tests/ 下的文件调用’，它不生成文字，直接返回文件路径和行号。开发者不用改现有流程，把它当本地服务跑着，VS Code 插件或 CLI 工具就能接上。它不训练模型，也不依赖 GPU，一台 M1 MacBook Air 跑满 20 个 repo 也只占 1.2GB 内存。今天涨了 1058 颗星，说明很多人正在从‘读代码’切换到‘查代码’。你最近一次花超过 20 分钟搞懂别人写的模块，是在哪个项目？",
-      "tags": [
-        "code search",
-        "knowledge graph",
-        "mcp",
-        "developer tool",
-        "C",
-        "static binary",
-        "low latency",
-        "token efficiency",
-        "open source",
-        "code intelligence"
-      ]
-    },
-    {
-      "topic": "TimesFM",
-      "repo": "google-research/timesfm",
-      "cover_line1": "Google 时间序列模型",
-      "cover_line2": "预训练，开箱即用预测",
-      "body": "时间序列预测一直很碎：天气、销量、服务器延迟、IoT 设备读数……每个场景都要单独建模、调参、对齐时间戳。Google Research 把这事做成了基础模型——TimesFM，不是教你怎么做，是直接给你一个能预测的模型。它在超大规模真实时序数据上预训练过，不依赖具体领域标签，也不需要微调。你丢进去一段过去 96 小时的 CPU 使用率，它就吐出未来 24 小时的点预测+区间；输入过去 365 天的日销量，它给出下月每日预测。论文里说，在 100 多个公开基准上，它比 Prophet、N-BEATS、DeepAR 平均误差低 17%。更关键的是，它开源了完整推理代码，Python pip install 就能跑，最小输入只要 128 个点，CPU 上每秒能算 200+ 序列。不是 demo，是 Google 内部已在用的模型。今天涨了 1510 颗星，很多人正把它塞进监控告警、库存补货、能耗调度这些真实管道里。你手头有没有一段连续时间的数据，一直靠人工拍脑袋估？",
-      "tags": [
-        "time series",
-        "forecasting",
-        "foundation model",
-        "Google",
-        "pretrained",
-        "zero-shot",
-        "python",
-        "cpu inference",
-        "open weights",
-        "real-world"
-      ]
-    },
-    {
       "topic": "Headroom",
       "repo": "chopratejas/headroom",
-      "cover_line1": "LLM 输入压缩工具",
-      "cover_line2": "60–95% token 减少",
-      "body": "你让 LLM 读日志、看代码 diff、处理 RAG 返回的 chunk，结果一半 token 花在‘的’‘了’‘如下所示’这种词上，答案没变，账单涨了。这个项目叫 Headroom，不做语义重写，不训练小模型，就干一件事：在文本进 LLM 前，用确定性规则和轻量模型把它压薄。比如把 200 行 JSON 日志转成 3 行关键字段摘要；把 10 页 API 文档缩成 5 个动词+参数名；把 RAG 返回的三段相似文本合并成一句事实。实测压缩后 token 减少 60% 到 95%，LLM 输出的答案和原始输入完全一致。它提供三种接入方式：Python 库（一行函数调用）、HTTP 代理（改个 URL 就生效）、MCP 服务（对接 codebase-memory 那类系统）。作者没吹‘保留所有信息’，而是明确列出每种压缩模式丢什么、留什么——比如‘去停用词’会删掉‘the’‘is’，但绝不删数字和变量名。今天单日涨了 4005 颗星，说明大家终于不想为废话付 token 钱了。你上一次因为上下文太长被截断，是处理哪种文本？",
+      "cover_line1": "压缩 LLM 输入的工具",
+      "cover_line2": "60–95% 更少 token",
+      "body": "你喂给大模型的代码日志、RAG 检索结果、命令行输出，往往一大半是噪音。Headroom 就干一件事：在数据进模型前，把它压薄。不是删关键信息，而是识别重复结构、冗余上下文、可推断字段，用语义感知的方式裁剪。比如一段 1200 行的错误日志，它能缩成 87 行，模型回答还完全一样。它提供三种用法：作为 Python 库直接集成到你的 RAG pipeline 里；作为本地代理，自动拦截 HTTP 请求里的 body；或者跑成 MCP server，和任何支持 MCP 的 AI 工具链对接。作者测了 42 个真实案例，平均压缩率 78%，最狠一次把 21,400 字的 GitHub PR diff 压到 930 字，token 减少 95.6%，模型输出没变。所有压缩逻辑不依赖外部模型，纯规则+轻量 ML，单次处理延迟低于 12ms。你不用改提示词，不用重训模型，加一行 import 或换一个 endpoint 就生效。它不解决「模型会不会答」，只解决「能不能少花 80% 的 token 钱还答得一样好」。今天新增了对 Markdown 表格和 JSON Schema 的专项压缩策略，文档里有对比截图。你最近一次为省 token 手动删日志，是在哪天？",
       "tags": [
-        "token compression",
-        "llm optimization",
+        "token",
+        "compression",
         "RAG",
-        "log processing",
-        "proxy",
-        "python",
-        "deterministic",
-        "cost saving",
-        "mcp",
-        "developer utility"
+        "LLM",
+        "optimization",
+        "Python",
+        "MCP",
+        "tooling",
+        "efficiency",
+        "open-source"
+      ]
+    },
+    {
+      "topic": "Codebase Memory",
+      "repo": "DeusData/codebase-memory-mcp",
+      "cover_line1": "C 写的代码知识图谱服务器",
+      "cover_line2": "158 种语言，毫秒级查询",
+      "body": "你想让 AI 理解一个新代码库，通常得先扔给它几千行文件。这个项目换了一种思路：不喂源码，喂结构。它用 C 写了一个静态二进制，不依赖数据库、不连网络、不装 Python 包，直接扫描任意 Git 仓库，把函数调用、类型定义、import 关系、测试覆盖率这些信息，编译成一张内存里的知识图谱。平均每个中型仓库（比如 VS Code 的 extensions 目录）建图耗时 82 毫秒，后续查「谁调用了这个 API」「这个类在哪被继承」都是亚毫秒响应。它支持 158 种语言的语法解析，不是靠正则硬匹配，而是复用 tree-sitter 的官方 grammar，所以 Go 的泛型、Rust 的 macro、TypeScript 的 conditional type 都能认出来。查询结果返回的是精确 AST 节点位置，不是模糊关键词匹配。整个服务启动后只占 45MB 内存，比一个 Chrome 标签页还轻。它专为 MCP 协议设计，可以直接挂进 Cursor、Continue、V0 这类支持 MCP 的编辑器插件里当后台大脑。没有 Web UI，没有账号系统，只有一个 config.yaml 和一个 ./codebase-memory start 命令。你上一次等 LLM 读完整个 node_modules 再回答问题，是几小时前？",
+      "tags": [
+        "code",
+        "knowledge-graph",
+        "MCP",
+        "C",
+        "parsing",
+        "tree-sitter",
+        "developer-tools",
+        "local-first",
+        "performance",
+        "open-source"
       ]
     },
     {
       "topic": "OpenMontage",
       "repo": "calesthio/OpenMontage",
-      "cover_line1": "开源视频生产系统",
-      "cover_line2": "12条流水线，52个工具",
-      "body": "AI 视频工具要么是黑盒 SaaS，要么是零散脚本：Stable Video Diffusion 生成片段，Whisper 转字幕，FFmpeg 拼接，再手动调节奏。OpenMontage 把这件事做成操作系统级的流水线——它不是个 app，而是一个可编排的视频生产内核。内置 12 条标准管线，比如‘播客转短视频’‘技术文档自动成片’‘会议录像切重点’；每个管线调用 52 个已集成工具，包括语音分离、镜头检测、动态字幕生成、BGM 自适应匹配、多平台封面裁切。所有步骤都暴露为 Python 函数，你可以改提示词、换模型、插自己的剪辑逻辑。它不生成‘风格化’视频，而是解决真实卡点：比如自动把 Zoom 录像里发言人画面居中、静音空隙、给技术术语加浮动注释、按章节生成 YouTube Shorts 片段。今天涨了 156 颗星，但更值得关注的是它已支持 500+ 种 agent 可调用技能——比如‘根据 GitHub PR 描述生成发布视频’。它跑在本地，模型权重全开源。你最近一次做视频，手动重复了多少遍‘导出→上传→裁切→加字幕’？",
+      "cover_line1": "开源视频生产智能体系统",
+      "cover_line2": "12 条流水线，52 个工具",
+      "body": "写提示词生成视频，现在只是起点。OpenMontage 把整套视频制作流程拆成了可调度的智能体——不是单个模型，而是一群分工明确的小程序。它预置了 12 条标准流水线：从脚本生成、分镜拆解、AI 画图、语音合成、字幕对齐，到最终剪辑导出。每条流水线背后是具体工具：Stable Video Diffusion 负责动态镜头，Whisper.cpp 做语音转写，FFmpeg 自动拼接，甚至还有自研的镜头节奏分析器，判断哪里该切快、哪里该留白。它不封装黑盒 API，所有工具都用 Python subprocess 调用本地二进制，你随时能替换其中任何一个环节。目前已有 52 个可注册工具、500+ 预定义 agent skill，比如「根据情绪曲线调整 BGM 音量」「检测画面中人脸朝向并打光补正」。配置全靠 YAML，没有前端，不传数据到云。作者用它在 M2 Mac 上 3 小时做完一支 90 秒产品介绍片，全程没点过鼠标。它不教你怎么拍，只帮你把想拍的，自动化地拍出来。你上次手动拖拽时间轴调音效，是哪天？",
       "tags": [
-        "video generation",
-        "agentic workflow",
-        "open source",
-        "pipeline",
-        "tool integration",
-        "python",
-        "local first",
-        "github automation",
-        "technical communication",
-        "no cloud"
+        "video",
+        "agent",
+        "automation",
+        "Python",
+        "local",
+        "workflow",
+        "open-source",
+        "multimodal",
+        "tool-calling",
+        "YAML"
+      ]
+    },
+    {
+      "topic": "TimesFM",
+      "repo": "google-research/timesfm",
+      "cover_line1": "Google 开源的时间序列模型",
+      "cover_line2": "预训练，支持零样本预测",
+      "body": "预测销量、服务器负载、股价波动……传统方法要为每个场景单独建模、调参、训练。TimesFM 是 Google Research 发布的预训练时间序列基础模型，它在超大规模真实时序数据上预训练完成，开箱即用。你只需给它一段历史数据（比如过去 24 小时的 CPU 使用率），它就能直接输出未来 12 小时预测，不需要微调、不需要标注、不依赖额外特征工程。论文里说，在 101 个公开基准任务上，它零样本表现超过 73% 的专用模型。代码已开源，推理用 PyTorch 写，最小依赖只有 torch 和 numpy，CPU 上也能跑 demo。模型权重分 200M 和 1.6B 两个版本，小模型在笔记本上单次预测 200ms，大模型精度更高但需要 GPU。它不取代 Prophet 或 N-BEATS，而是提供另一种路径：与其为每个业务线养一个算法工程师，不如用一个通用模型先扛住 80% 的预测需求。Google 在 README 里写了三行真实使用案例：某电商用它预测每日订单量误差下降 31%，某云厂商用它做容量预警提前 47 分钟，某 IoT 平台接入 2000+ 设备温度流实时预测。你手头有没有一段还没建模的时间序列数据？",
+      "tags": [
+        "forecasting",
+        "time-series",
+        "foundation-model",
+        "Google",
+        "PyTorch",
+        "zero-shot",
+        "open-source",
+        "CPU",
+        "inference",
+        "research"
       ]
     }
   ],
