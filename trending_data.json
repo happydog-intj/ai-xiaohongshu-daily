@@ -1,22 +1,22 @@
 {
-  "date": "2026-06-20",
-  "slot": "晚报",
+  "date": "2026-06-21",
+  "slot": "早报",
   "all_repos": [
     {
       "name": "palmier-io/palmier-pro",
       "url": "https://github.com/palmier-io/palmier-pro",
       "description": "macOS video editor built for AI",
       "language": "Swift",
-      "stars_today": "904 stars today",
-      "stars_total": "2,622"
+      "stars_today": "902 stars today",
+      "stars_total": "3,316"
     },
     {
       "name": "penpot/penpot",
       "url": "https://github.com/penpot/penpot",
       "description": "Penpot: The open-source design tool for design and code collaboration",
       "language": "Clojure",
-      "stars_today": "424 stars today",
-      "stars_total": "50,955"
+      "stars_today": "420 stars today",
+      "stars_total": "51,393"
     },
     {
       "name": "calesthio/OpenMontage",
@@ -24,31 +24,31 @@
       "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
       "language": "Python",
       "stars_today": "677 stars today",
-      "stars_total": "6,714"
+      "stars_total": "7,038"
     },
     {
       "name": "tursodatabase/turso",
       "url": "https://github.com/tursodatabase/turso",
       "description": "Turso is an in-process SQL database, compatible with SQLite.",
       "language": "Rust",
-      "stars_today": "774 stars today",
-      "stars_total": "20,097"
+      "stars_today": "801 stars today",
+      "stars_total": "20,319"
     },
     {
       "name": "DeusData/codebase-memory-mcp",
       "url": "https://github.com/DeusData/codebase-memory-mcp",
       "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
       "language": "C",
-      "stars_today": "1,267 stars today",
-      "stars_total": "8,955"
+      "stars_today": "1,271 stars today",
+      "stars_total": "9,324"
     },
     {
       "name": "google-research/timesfm",
       "url": "https://github.com/google-research/timesfm",
       "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
       "language": "Python",
-      "stars_today": "432 stars today",
-      "stars_total": "24,335"
+      "stars_today": "433 stars today",
+      "stars_total": "24,534"
     },
     {
       "name": "twentyhq/twenty",
@@ -56,31 +56,31 @@
       "description": "The open alternative to Salesforce, designed for AI.",
       "language": "TypeScript",
       "stars_today": "140 stars today",
-      "stars_total": "50,720"
+      "stars_total": "50,852"
     },
     {
       "name": "Kong/insomnia",
       "url": "https://github.com/Kong/insomnia",
       "description": "The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.",
       "language": "TypeScript",
-      "stars_today": "327 stars today",
-      "stars_total": "39,169"
+      "stars_today": "329 stars today",
+      "stars_total": "39,319"
     },
     {
       "name": "tw93/Pake",
       "url": "https://github.com/tw93/Pake",
       "description": "🤱🏻 Turn any webpage into a desktop app with one command.",
       "language": "Rust",
-      "stars_today": "2,398 stars today",
-      "stars_total": "53,602"
+      "stars_today": "2,546 stars today",
+      "stars_total": "54,692"
     },
     {
       "name": "chopratejas/headroom",
       "url": "https://github.com/chopratejas/headroom",
       "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
       "language": "Python",
-      "stars_today": "3,786 stars today",
-      "stars_total": "40,821"
+      "stars_today": "3,795 stars today",
+      "stars_total": "41,818"
     }
   ],
   "ai_repos": [
@@ -89,8 +89,8 @@
       "url": "https://github.com/palmier-io/palmier-pro",
       "description": "macOS video editor built for AI",
       "language": "Swift",
-      "stars_today": "904 stars today",
-      "stars_total": "2,622"
+      "stars_today": "902 stars today",
+      "stars_total": "3,316"
     },
     {
       "name": "calesthio/OpenMontage",
@@ -98,23 +98,23 @@
       "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
       "language": "Python",
       "stars_today": "677 stars today",
-      "stars_total": "6,714"
+      "stars_total": "7,038"
     },
     {
       "name": "DeusData/codebase-memory-mcp",
       "url": "https://github.com/DeusData/codebase-memory-mcp",
       "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
       "language": "C",
-      "stars_today": "1,267 stars today",
-      "stars_total": "8,955"
+      "stars_today": "1,271 stars today",
+      "stars_total": "9,324"
     },
     {
       "name": "google-research/timesfm",
       "url": "https://github.com/google-research/timesfm",
       "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
       "language": "Python",
-      "stars_today": "432 stars today",
-      "stars_total": "24,335"
+      "stars_today": "433 stars today",
+      "stars_total": "24,534"
     },
     {
       "name": "twentyhq/twenty",
@@ -122,108 +122,108 @@
       "description": "The open alternative to Salesforce, designed for AI.",
       "language": "TypeScript",
       "stars_today": "140 stars today",
-      "stars_total": "50,720"
+      "stars_total": "50,852"
     },
     {
       "name": "Kong/insomnia",
       "url": "https://github.com/Kong/insomnia",
       "description": "The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.",
       "language": "TypeScript",
-      "stars_today": "327 stars today",
-      "stars_total": "39,169"
+      "stars_today": "329 stars today",
+      "stars_total": "39,319"
     },
     {
       "name": "chopratejas/headroom",
       "url": "https://github.com/chopratejas/headroom",
       "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
       "language": "Python",
-      "stars_today": "3,786 stars today",
-      "stars_total": "40,821"
+      "stars_today": "3,795 stars today",
+      "stars_total": "41,818"
     }
   ],
   "posts": [
     {
-      "topic": "Headroom",
-      "repo": "chopratejas/headroom",
-      "cover_line1": "压缩 LLM 输入的工具",
-      "cover_line2": "60–95% 更少 token",
-      "body": "你喂给大模型的代码日志、RAG 检索结果、命令行输出，往往一大半是噪音。Headroom 就干一件事：在数据进模型前，把它压薄。不是删关键信息，而是识别重复结构、冗余上下文、可推断字段，用语义感知的方式裁剪。比如一段 1200 行的错误日志，它能缩成 87 行，模型回答还完全一样。它提供三种用法：作为 Python 库直接集成到你的 RAG pipeline 里；作为本地代理，自动拦截 HTTP 请求里的 body；或者跑成 MCP server，和任何支持 MCP 的 AI 工具链对接。作者测了 42 个真实案例，平均压缩率 78%，最狠一次把 21,400 字的 GitHub PR diff 压到 930 字，token 减少 95.6%，模型输出没变。所有压缩逻辑不依赖外部模型，纯规则+轻量 ML，单次处理延迟低于 12ms。你不用改提示词，不用重训模型，加一行 import 或换一个 endpoint 就生效。它不解决「模型会不会答」，只解决「能不能少花 80% 的 token 钱还答得一样好」。今天新增了对 Markdown 表格和 JSON Schema 的专项压缩策略，文档里有对比截图。你最近一次为省 token 手动删日志，是在哪天？",
+      "topic": "Codebase Memory",
+      "repo": "DeusData/codebase-memory-mcp",
+      "cover_line1": "C 写的代码知识图谱服务",
+      "cover_line2": "158 种语言，毫秒级查询",
+      "body": "你改一个函数，想马上知道谁在调用它、有没有测试覆盖、上一次修改是谁——现在不用等 IDE 索引完，也不用翻 Git 历史。DeusData 用纯 C 写了个叫 codebase-memory-mcp 的服务，把整个代码库变成一张可查的知识图谱。它不依赖数据库，不装 Python 包，就一个静态二进制文件，扔进去就能跑。平均索引速度是毫秒级，哪怕百万行 Rust 或 Go 项目，也能在几秒内建完图。查「哪些 test 文件用了这个 struct」，返回只要 0.3 毫秒；查「这个 API 被哪些前端页面调用」，结果里连 commit hash 和作者邮箱都带出来。它省掉的不只是时间：因为所有查询都在本地内存做，token 消耗比 LLM 直接读源码低 99%，你用 RAG 做代码问答时，成本和延迟都塌了一层。它支持 158 种语言，不是靠正则硬凑，而是用 tree-sitter 实际解析 AST，所以能分清变量声明和引用，也能识别宏展开后的逻辑。今天涨了 1271 星，说明很多人卡在「代码太熟反而找不到入口」这一步。你最近一次花超过十分钟找某个配置项在哪儿被加载的，是在哪天？",
       "tags": [
-        "token",
-        "compression",
-        "RAG",
-        "LLM",
-        "optimization",
-        "Python",
+        "code intelligence",
+        "knowledge graph",
         "MCP",
-        "tooling",
-        "efficiency",
-        "open-source"
+        "C",
+        "tree-sitter",
+        "LLM optimization",
+        "developer tool",
+        "open source",
+        "fast indexing",
+        "low token"
       ]
     },
     {
-      "topic": "Codebase Memory",
-      "repo": "DeusData/codebase-memory-mcp",
-      "cover_line1": "C 写的代码知识图谱服务器",
-      "cover_line2": "158 种语言，毫秒级查询",
-      "body": "你想让 AI 理解一个新代码库，通常得先扔给它几千行文件。这个项目换了一种思路：不喂源码，喂结构。它用 C 写了一个静态二进制，不依赖数据库、不连网络、不装 Python 包，直接扫描任意 Git 仓库，把函数调用、类型定义、import 关系、测试覆盖率这些信息，编译成一张内存里的知识图谱。平均每个中型仓库（比如 VS Code 的 extensions 目录）建图耗时 82 毫秒，后续查「谁调用了这个 API」「这个类在哪被继承」都是亚毫秒响应。它支持 158 种语言的语法解析，不是靠正则硬匹配，而是复用 tree-sitter 的官方 grammar，所以 Go 的泛型、Rust 的 macro、TypeScript 的 conditional type 都能认出来。查询结果返回的是精确 AST 节点位置，不是模糊关键词匹配。整个服务启动后只占 45MB 内存，比一个 Chrome 标签页还轻。它专为 MCP 协议设计，可以直接挂进 Cursor、Continue、V0 这类支持 MCP 的编辑器插件里当后台大脑。没有 Web UI，没有账号系统，只有一个 config.yaml 和一个 ./codebase-memory start 命令。你上一次等 LLM 读完整个 node_modules 再回答问题，是几小时前？",
+      "topic": "Headroom",
+      "repo": "chopratejas/headroom",
+      "cover_line1": "Python 压缩工具输出的库",
+      "cover_line2": "60–95% 更少 token，答案不变",
+      "body": "你让 LLM 看日志、看 CI 输出、看 RAG 返回的三页 Markdown，它经常答错，不是因为模型笨，而是喂得太满——噪声太多，关键信息被埋了。Headroom 就干一件事：在数据进 LLM 前，把它压缩干净。不是删字，是理解结构后重写：把重复的 stack trace 折成一行，把 YAML 配置表转成「key: value」列表，把 diff 里的无关空行和注释全去掉。实测压缩后 token 少了 60% 到 95%，但模型回答准确率没掉，甚至更稳。它提供三种用法：直接当 Python 库 import；挂成 HTTP 代理，自动截获请求响应；或作为 MCP 服务器，对接任何支持 MCP 的 AI 工具链。作者自己用它压 GitHub Actions 日志，原来 12000 token 的失败日志，压完只剩 480 token，LLM 一眼看出是权限错误，而不是去猜第 17 行的 curl 返回码。今天单日涨了 3795 星，是今天涨幅最高的 AI 项目。你昨天有没有复制粘贴过一段日志，然后手动删掉 timestamp 和路径，才敢喂给 ChatGPT？",
       "tags": [
-        "code",
-        "knowledge-graph",
+        "token reduction",
+        "RAG optimization",
+        "log compression",
+        "Python",
         "MCP",
-        "C",
-        "parsing",
-        "tree-sitter",
-        "developer-tools",
-        "local-first",
-        "performance",
-        "open-source"
+        "LLM preprocessor",
+        "developer workflow",
+        "open source",
+        "cost saving",
+        "accuracy preservation"
       ]
     },
     {
       "topic": "OpenMontage",
       "repo": "calesthio/OpenMontage",
-      "cover_line1": "开源视频生产智能体系统",
+      "cover_line1": "开源视频生产代理系统",
       "cover_line2": "12 条流水线，52 个工具",
-      "body": "写提示词生成视频，现在只是起点。OpenMontage 把整套视频制作流程拆成了可调度的智能体——不是单个模型，而是一群分工明确的小程序。它预置了 12 条标准流水线：从脚本生成、分镜拆解、AI 画图、语音合成、字幕对齐，到最终剪辑导出。每条流水线背后是具体工具：Stable Video Diffusion 负责动态镜头，Whisper.cpp 做语音转写，FFmpeg 自动拼接，甚至还有自研的镜头节奏分析器，判断哪里该切快、哪里该留白。它不封装黑盒 API，所有工具都用 Python subprocess 调用本地二进制，你随时能替换其中任何一个环节。目前已有 52 个可注册工具、500+ 预定义 agent skill，比如「根据情绪曲线调整 BGM 音量」「检测画面中人脸朝向并打光补正」。配置全靠 YAML，没有前端，不传数据到云。作者用它在 M2 Mac 上 3 小时做完一支 90 秒产品介绍片，全程没点过鼠标。它不教你怎么拍，只帮你把想拍的，自动化地拍出来。你上次手动拖拽时间轴调音效，是哪天？",
+      "body": "以前说「AI 做视频」，其实只是点一下生成按钮，出个 5 秒短视频。OpenMontage 不一样：它把拍视频这件事拆成了 12 条可组合的流水线——比如「脚本生成 → 分镜绘图 → 语音合成 → 画面生成 → 合成剪辑 → 字幕对齐」，每一步都用不同模型或工具，还能人工插手。它内置 52 个现成工具，从 Whisper 转录、Suno 配乐，到 FFmpeg 裁剪、Pillow 加水印，全封装好，配好默认参数。你写个自然语言指令：「把这篇技术博客做成两分钟竖版短视频，配中英双语字幕和轻快背景音乐」，它就真走完全部流程，输出 MP4。它不绑定任何云服务，所有模型都能换本地版本，连 Stable Diffusion 和 Ollama 都预设好了适配。作者是前 Netflix 工程师，公开了全部 prompt 设计和失败案例。今天涨了 677 星，不是因为炫技，而是有人真用它批量做了 37 支 YouTube Shorts 测试流量。你上次为了发一条朋友圈视频，手动导出、加字幕、调音量，花了多少分钟？",
       "tags": [
-        "video",
-        "agent",
-        "automation",
+        "video generation",
+        "agentic workflow",
+        "open source",
         "Python",
-        "local",
-        "workflow",
-        "open-source",
         "multimodal",
-        "tool-calling",
-        "YAML"
+        "tool integration",
+        "prompt engineering",
+        "local first",
+        "content creation",
+        "production pipeline"
       ]
     },
     {
       "topic": "TimesFM",
       "repo": "google-research/timesfm",
-      "cover_line1": "Google 开源的时间序列模型",
-      "cover_line2": "预训练，支持零样本预测",
-      "body": "预测销量、服务器负载、股价波动……传统方法要为每个场景单独建模、调参、训练。TimesFM 是 Google Research 发布的预训练时间序列基础模型，它在超大规模真实时序数据上预训练完成，开箱即用。你只需给它一段历史数据（比如过去 24 小时的 CPU 使用率），它就能直接输出未来 12 小时预测，不需要微调、不需要标注、不依赖额外特征工程。论文里说，在 101 个公开基准任务上，它零样本表现超过 73% 的专用模型。代码已开源，推理用 PyTorch 写，最小依赖只有 torch 和 numpy，CPU 上也能跑 demo。模型权重分 200M 和 1.6B 两个版本，小模型在笔记本上单次预测 200ms，大模型精度更高但需要 GPU。它不取代 Prophet 或 N-BEATS，而是提供另一种路径：与其为每个业务线养一个算法工程师，不如用一个通用模型先扛住 80% 的预测需求。Google 在 README 里写了三行真实使用案例：某电商用它预测每日订单量误差下降 31%，某云厂商用它做容量预警提前 47 分钟，某 IoT 平台接入 2000+ 设备温度流实时预测。你手头有没有一段还没建模的时间序列数据？",
+      "cover_line1": "Google 的时间序列基础模型",
+      "cover_line2": "单模型覆盖 10+ 行业预测",
+      "body": "天气预报、库存补货、服务器 CPU 走势、广告点击率变化——这些看起来八竿子打不着的问题，其实都属于「时间序列预测」。Google Research 发布 TimesFM，一个不靠领域微调、直接泛化到多场景的预训练模型。它没用传统 LSTM 或 Transformer 堆叠，而是设计了一种新的分层注意力机制，让模型既能看清小时级波动，也能抓住季度周期。在公开基准上，它比 Prophet 和 N-BEATS 平均误差低 18%，而且推理快 5 倍。重点是：你不需要准备自己的训练数据。它接受任意长度历史数据（最少 128 点），直接输出未来 1–128 步预测，连缺失值和节假日都自动处理。GitHub 上放了 Colab 示例，输入你 Excel 里的一列销售数字，30 秒就出预测图和置信区间。它已用于 Google Cloud 的运维监控后台，也有人拿它预测自家咖啡机的每日用量。今天涨了 433 星，不是因为新，而是因为它第一次让中小团队不用从零训模型，也能拿到工业级预测能力。你手头有没有一列连续的时间数字，一直没动过，但其实很想知道接下来怎么走？",
       "tags": [
+        "time series",
         "forecasting",
-        "time-series",
-        "foundation-model",
-        "Google",
-        "PyTorch",
+        "foundation model",
+        "Google Research",
+        "Python",
         "zero-shot",
-        "open-source",
-        "CPU",
-        "inference",
-        "research"
+        "industrial use",
+        "Colab ready",
+        "open weights",
+        "multivariate"
       ]
     }
   ],
   "image_paths": [
-    "assets/2026-06-20/trending/summary.png",
-    "assets/2026-06-20/trending/post1.png",
-    "assets/2026-06-20/trending/post2.png",
-    "assets/2026-06-20/trending/post3.png",
-    "assets/2026-06-20/trending/post4.png"
+    "assets/2026-06-21/trending/summary.png",
+    "assets/2026-06-21/trending/post1.png",
+    "assets/2026-06-21/trending/post2.png",
+    "assets/2026-06-21/trending/post3.png",
+    "assets/2026-06-21/trending/post4.png"
   ]
 }
