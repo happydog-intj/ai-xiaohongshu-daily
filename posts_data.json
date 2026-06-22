@@ -1,89 +1,89 @@
 {
-  "date": "2026-06-21",
+  "date": "2026-06-22",
   "posts": [
     {
-      "topic": "Cloudflare临时账号",
-      "cover_line1": "Cloudflare推AI代理临时账号",
-      "cover_line2": "每个账号用完即焚",
-      "body": "AI代理跑任务时总得有个身份，但长期账号容易被滥用、被追踪、被封。Cloudflare今天上线了专门给AI代理用的临时账号系统——不是注册一个永久邮箱再设密码，而是每次调用API时动态生成一个只活几分钟的账号，带独立API密钥和基础配额，用完自动销毁。它不绑邮箱、不存行为日志、不关联其他服务，连登录页都不需要。开发者只要在请求头里加一句‘X-Use-Temp-Account: true’，后端就返回一个带有效期的账号凭证。目前免费开放，每小时限50个临时账号，适合自动化测试、爬虫中转、沙箱环境里的模型调用。有人测过：从发起请求到拿到可用密钥，平均耗时320毫秒；单账号默认配额是100次HTTP请求或200MB带宽，超了就403，不续费不升级。它没做身份认证，也不提供审计日志——设计目标就是轻、快、无痕。这不是替代企业账号的方案，而是补上AI原生工作流里一直缺的那一小块：让代理像快递员一样，进门办个临时通行证，干完活就走，不留指纹。你不用管它怎么存用户数据，因为它根本没存。它也不解决模型幻觉或越权问题，只解决‘该不该给这个脚本一个身份证’这个具体动作。如果你正在写一个每天要起100个新实例的RAG管道，或者想让本地小模型安全调用外部工具，这个功能现在就能塞进你的CI流程里。你上次为一个临时任务手动建号、记密钥、删账号，花了多少分钟？",
+      "topic": "Claude实名验证",
+      "cover_line1": "Claude上线身份验证",
+      "cover_line2": "用户需上传身份证或护照",
+      "body": "Claude现在要求部分用户做身份验证，才能继续用。不是所有用户都弹窗，目前主要面向新注册用户、高用量账户，以及触发风控策略的会话。验证时得上传清晰的身份证或护照照片，系统自动比对姓名和出生日期，不存原图，只生成加密哈希值存本地。官方说这是为了防止滥用，比如批量注册账号刷 API、生成虚假身份信息、绕过内容审核。验证后不会公开你的身份，也不会绑定手机号或邮箱——但没通过就无法发长消息、调用代码解释器、或使用文件上传功能。有人试了上传模糊照片，系统直接拒了；换清晰正脸照后两分钟内通过。支持中英法德西五种证件类型，暂不支持驾照或学生证。这不是法律强制要求，而是 Anthropic 自主加的合规层，类似欧盟 AI Act 对高风险场景的建议。如果你只是查资料、写邮件，大概率碰不到这一步；但要是做自动化脚本、接内部系统、跑大量推理，就得提前准备证件。它不改变模型能力，也不影响响应速度，就是多一道门禁。验证失败时页面只写「无法确认身份」，没给具体原因，重试三次后要等 24 小时。这事不新鲜——Google Gemini 和 Meta 的 Llama 接口早有类似机制，但 Claude 是第一次在消费级入口端硬性落地。你今天登录 Claude 看到弹窗了吗？",
       "tags": [
-        "Cloudflare",
-        "AI agent",
-        "temporary account",
-        "API security",
-        "devops",
-        "infrastructure",
-        "automation",
-        "zero-trust",
-        "identity",
-        "serverless"
+        "Claude",
+        "身份验证",
+        "AI合规",
+        "Anthropic",
+        "证件上传",
+        "风控策略",
+        "API接入",
+        "欧盟AI法案",
+        "消费级AI",
+        "安全机制"
       ]
     },
     {
-      "topic": "ArgusRed渗透模型",
-      "cover_line1": "ArgusRed微调模型拒绝变渗透",
-      "cover_line2": "CLI工具直接跑漏洞扫描",
-      "body": "很多大模型在被问‘怎么黑进某网站’时会说‘我不能协助非法活动’，这叫安全对齐。ArgusRed团队做了件相反的事：他们拿Llama-3-8B做基座，用真实渗透测试报告和OWASP Top 10漏洞交互日志做后训练，让模型在收到‘扫描这个IP’‘检查这个JWT’这类指令时，不再拒绝，而是输出可执行的curl命令、nmap参数、Burp改包步骤，甚至自动生成PoC Python脚本。这不是教AI犯罪，而是把它变成红队工程师的终端助手。他们把能力封装成一个叫argus-cli的命令行工具，输入‘argus scan --target example.com --mode aggressive’，它就自动跑子域名枚举、端口扫描、路径爆破、WAF识别，最后汇总成Markdown报告。实测在HTB靶机上，它对常见SQLi和XSS的检测准确率约73%，比纯规则引擎高11个百分点，且能解释为什么某个响应头暗示了Spring Boot Actuator暴露。它不联网、不传数据、所有模型权重本地加载，最小运行内存6GB。团队强调：这工具默认禁用exploit模块，只开recon和analysis；要触发真实攻击载荷，必须显式加--unsafe标志并输二次确认。它解决的不是‘有没有工具’的问题，而是‘能不能让AI理解渗透上下文’的问题。你试过让模型读一份Nmap XML输出，再判断哪个服务最可能被利用吗？",
+      "topic": "Apertus开源模型",
+      "cover_line1": "Apertus发布开源基础模型",
+      "cover_line2": "7B参数，Apache 2.0协议",
+      "body": "Apertus 团队今天上线了一个叫 Apertus-7B 的开源大模型，参数量 70 亿，支持英文和基础多语言，权重和训练代码全公开，许可证是 Apache 2.0——这意味着你能商用、改代码、打包进产品，不用付授权费，也不用反向开源你的应用。它不是微调版，是完整从头训的基座模型，训练数据来自公开许可的网页、维基百科、Common Crawl 子集，没用闭源商业数据。推理时显存占用比 Llama 3-8B 低 12%，在 MMLU、GPQA、HumanEval 三个基准上得分接近 Llama 3-8B 的 94%。团队没公布训练花了多少卡时，但 GitHub README 写明用了 256 块 H100 训了 21 天。模型支持 8K 上下文，量化版已适配 llama.cpp，Mac M2 芯片能跑 4-bit 版本。它不主打性能碾压，而是强调「主权可控」：你可以把模型部署在自己服务器，不连外网，不传数据，审计日志全在手里。目前没有 Web UI 或 API 服务，只有 Hugging Face 模型页和本地运行脚本。有人试了在树莓派 5 上跑 2-bit 版，每秒输出 0.8 个 token——能用，但不快。这个模型不是冲着取代 GPT-4 去的，而是给想自己搭 AI 底座的小团队一个干净起点。你最近一次需要完全离线跑大模型，是因为什么场景？",
       "tags": [
-        "penetration testing",
-        "LLM fine-tuning",
-        "security tool",
-        "red team",
-        "CLI",
-        "OSS",
-        "cybersecurity",
-        "AI safety",
-        "offensive AI",
-        "OWASP"
+        "开源模型",
+        "Apertus",
+        "7B",
+        "Apache2.0",
+        "主权AI",
+        "本地部署",
+        "H100",
+        "llama.cpp",
+        "MMLU",
+        "多语言"
       ]
     },
     {
-      "topic": "Phoenix半导体老兵",
-      "cover_line1": "Phoenix公司复产老式芯片",
-      "cover_line2": "F-22用的1998年型号仍在造",
-      "body": "F-22战机还在天上飞，但它里面一块叫ADSP-2181的数字信号处理器，是1998年设计的，用的是0.5微米工艺，主频40MHz，没有USB，没有以太网，连JTAG调试都靠专用插针。当年的晶圆厂早关了，原厂ADI也停产二十年。现在美国空军每年还要买几千片，用来换掉老化失效的旧件。Phoenix Semiconductor这家公司没去搞先进制程，而是反向工程了全套掩膜版，重建了洁净间里一条只跑这一颗芯片的微型产线，用二手设备、定制封装、人工抽检，把良率稳在82%左右。他们不卖公开型号，只接军方PO，交货周期14周，单价$2800。这不是怀旧，是现实约束下的生存方案：整机重新认证要花十年、十亿美元，而维持老芯片供应，一年成本不到三千万。这件事和AI的关系很实在——现在所有AI驱动的雷达干扰系统、电子战吊舱、战术边缘服务器，都要和这些老芯片共存。它们没法跑PyTorch，但得通过SPI总线接收AI生成的干扰频点列表；它们不能做反向传播，但得实时把ADC采样数据喂给机载大模型。Phoenix证明了一件事：AI时代最硬的瓶颈，有时不在算力，而在那根焊死在电路板上的、没人记得清数据手册第几页的44脚QFP封装。你手头有没有那种‘不能换，只能修’的硬件依赖？",
+      "topic": "Recall记忆缓存",
+      "cover_line1": "Recall工具解决上下文遗忘",
+      "cover_line2": "跨会话自动复用项目说明",
+      "body": "Recall 是一个新开源的 CLI 工具，专门解决「每次跟 AI 说话都要重新说背景」这个痛点。它不是插件，也不是浏览器扩展，而是一个本地运行的轻量服务，能记住你每个项目的结构、目标、常用术语和历史指令，下次你打开新终端、新建聊天窗口、甚至换设备（只要同步 ~/.recall 目录），它会自动把关键上下文注入 prompt 开头。比如你上次告诉 AI：「这是电商后台的 Django 项目，用户表叫 CustomerProfile，不要用 UUID 当主键」，Recall 就记住了。这次你只输入「加个导出 CSV 按钮」，它会悄悄补上那句背景，再发给模型。实测在 Claude 和 Ollama 上减少约 40% 的重复描述 token。它不联网，所有数据存在本地 JSON 文件里，可手动编辑，也支持 git 版本管理。作者说核心逻辑就三步：提取你命令里的项目关键词 → 匹配已有记忆 → 插入 context 块。没用向量库，纯规则+模糊匹配，所以启动快、无依赖。目前只支持 Bash/Zsh 终端，还没做 VS Code 插件，但文档里写了 API 接口，开发者可以自己接。有人拿它记私有 API 文档，有人记客户定制需求，还有人记自己写的 prompt 模板。它不替代 RAG，也不训练模型，就是帮你省掉那句「再说一遍我是谁」。你每天平均要重复交代几次项目背景？",
       "tags": [
-        "legacy hardware",
-        "semiconductor",
-        "defense",
-        "embedded AI",
-        "military tech",
-        "supply chain",
-        "reverse engineering",
-        "hardware dependency",
-        "edge computing",
-        "F-22"
+        "Recall",
+        "上下文记忆",
+        "CLI工具",
+        "本地缓存",
+        "Prompt优化",
+        "Ollama",
+        "Claude",
+        "终端AI",
+        "RAG替代",
+        "开源工具"
       ]
     },
     {
-      "topic": "Loupe隐私监控",
-      "cover_line1": "Loupe iOS App曝光App权限",
-      "cover_line2": "实时显示麦克风/相机调用",
-      "body": "iPhone上装个App，它到底什么时候偷偷开了麦克风？读了相册哪几张图？连了哪些Wi-Fi？系统设置里只告诉你‘已允许’，不告诉你‘刚用了’。Loupe是个开源iOS应用，不越狱，不上架App Store，用TestFlight安装后，它就在状态栏右边常驻一个小眼睛图标。一旦当前前台App调用摄像头，图标变红；调用麦克风，图标变蓝；访问剪贴板，图标闪黄光。点开它，能看到过去五分钟内每个进程的传感器调用堆栈，精确到毫秒级时间戳和调用函数名（比如AVCaptureSession.startRunning）。它不拦截、不阻断，只记录、只展示，所有数据存在本地SQLite，不上传。作者团队是Mysk，专注移动隐私审计，他们用这套工具发现过三个主流健身App在后台持续读取运动传感器数据，用于推断用户是否在家——而权限说明里只写了‘用于计步’。Loupe现在支持iOS 17+，最低部署门槛是Mac + Xcode + 个人Apple ID（免费证书即可）。它不解决‘App为什么需要这个权限’，但强迫你看见‘它正在用’。这就像给手机装了个透明玻璃罩：你看不见算法怎么决策，但至少看清了输入从哪来。你昨天最后一次注意到状态栏那个小圆点，是什么时候？",
+      "topic": "JSON-LD个人网站",
+      "cover_line1": "JSON-LD教你怎么标个人网站",
+      "cover_line2": "加5行代码让AI读懂你是谁",
+      "body": "JSON-LD 是一种嵌在网页 HTML 里的结构化数据格式，像给网页贴标签。这篇教程讲怎么用它标记个人网站，让 AI、搜索引擎、甚至未来浏览器直接读出你是谁、做什么、有什么作品。操作很简单：在你网站 <head> 里加一段 5 行的 script 标签，里面填上你的名字、职业、邮箱、GitHub 链接、代表作 URL。不用改页面内容，不改样式，不拖慢加载。加完后，用 Google 的 Rich Results Test 工具一扫，就能看到 AI 解析出的「Person」实体。好处是实际的：AI 在引用你时更少搞错身份；招聘方用语义搜索找人，你的简历页更容易被命中；将来如果出现「AI 主动联系专家」的场景，你的站点就成了可发现节点。教程里给了现成模板，连字段含义都逐个解释，比如 sameAs 不是随便填社交链接，而是必须指向你本人认证过的主页。作者强调：这不是 SEO 技巧，而是数据主权实践——你主动定义自己，而不是等平台替你打标签。目前只覆盖基础 Person 类型，没做 Project 或 Article 扩展，但思路一样。他测试了 12 个主流 AI 工具，7 个能稳定提取 JSON-LD 里的 name 和 jobTitle。你上次更新个人网站的 HTML 源码，是什么时候？",
       "tags": [
-        "iOS privacy",
-        "sensor monitoring",
-        "mobile security",
-        "open source",
-        "transparency",
-        "app permissions",
-        "Mysk",
-        "camera access",
-        "microphone access",
-        "user awareness"
+        "JSON-LD",
+        "结构化数据",
+        "个人网站",
+        "SEO",
+        "AI可读",
+        "语义网",
+        "RichResults",
+        "数据主权",
+        "HTML标签",
+        "开发者教程"
       ]
     }
   ],
   "image_paths": [
-    "assets/2026-06-21/cover1.png",
-    "assets/2026-06-21/cover2.png",
-    "assets/2026-06-21/cover3.png",
-    "assets/2026-06-21/cover4.png"
+    "assets/2026-06-22/cover1.png",
+    "assets/2026-06-22/cover2.png",
+    "assets/2026-06-22/cover3.png",
+    "assets/2026-06-22/cover4.png"
   ],
   "feishu_image_paths": [
-    "assets/2026-06-21/cover1_feishu.png",
-    "assets/2026-06-21/cover2_feishu.png",
-    "assets/2026-06-21/cover3_feishu.png",
-    "assets/2026-06-21/cover4_feishu.png"
+    "assets/2026-06-22/cover1_feishu.png",
+    "assets/2026-06-22/cover2_feishu.png",
+    "assets/2026-06-22/cover3_feishu.png",
+    "assets/2026-06-22/cover4_feishu.png"
   ]
 }
