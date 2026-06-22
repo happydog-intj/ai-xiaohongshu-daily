@@ -1,237 +1,229 @@
 {
-  "date": "2026-06-22",
+  "date": "2026-06-23",
   "slot": "早报",
   "all_repos": [
-    {
-      "name": "palmier-io/palmier-pro",
-      "url": "https://github.com/palmier-io/palmier-pro",
-      "description": "macOS video editor built for AI",
-      "language": "Swift",
-      "stars_today": "1,834 stars today",
-      "stars_total": "5,054"
-    },
     {
       "name": "calesthio/OpenMontage",
       "url": "https://github.com/calesthio/OpenMontage",
       "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
       "language": "Python",
-      "stars_today": "987 stars today",
-      "stars_total": "8,648"
+      "stars_today": "2,935 stars today",
+      "stars_total": "11,274"
     },
     {
-      "name": "chopratejas/headroom",
-      "url": "https://github.com/chopratejas/headroom",
-      "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
+      "name": "palmier-io/palmier-pro",
+      "url": "https://github.com/palmier-io/palmier-pro",
+      "description": "macOS video editor built for AI",
+      "language": "Swift",
+      "stars_today": "2,462 stars today",
+      "stars_total": "6,973"
+    },
+    {
+      "name": "jamiepine/voicebox",
+      "url": "https://github.com/jamiepine/voicebox",
+      "description": "The open-source AI voice studio. Clone, dictate, create.",
+      "language": "TypeScript",
+      "stars_today": "508 stars today",
+      "stars_total": "32,011"
+    },
+    {
+      "name": "mukul975/Anthropic-Cybersecurity-Skills",
+      "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+      "description": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0",
       "language": "Python",
-      "stars_today": "2,624 stars today",
-      "stars_total": "44,281"
-    },
-    {
-      "name": "tursodatabase/turso",
-      "url": "https://github.com/tursodatabase/turso",
-      "description": "Turso is an in-process SQL database, compatible with SQLite.",
-      "language": "Rust",
-      "stars_today": "548 stars today",
-      "stars_total": "20,788"
+      "stars_today": "957 stars today",
+      "stars_total": "18,416"
     },
     {
       "name": "penpot/penpot",
       "url": "https://github.com/penpot/penpot",
       "description": "Penpot: The open-source design tool for design and code collaboration",
       "language": "Clojure",
-      "stars_today": "1,135 stars today",
-      "stars_total": "52,205"
+      "stars_today": "730 stars today",
+      "stars_total": "52,725"
     },
     {
-      "name": "ZhuLinsen/daily_stock_analysis",
-      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
-      "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
-      "language": "Python",
-      "stars_today": "568 stars today",
-      "stars_total": "44,395"
-    },
-    {
-      "name": "koala73/worldmonitor",
-      "url": "https://github.com/koala73/worldmonitor",
-      "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+      "name": "Stirling-Tools/Stirling-PDF",
+      "url": "https://github.com/Stirling-Tools/Stirling-PDF",
+      "description": "#1 PDF Application on GitHub that lets you edit PDFs on any device anywhere",
       "language": "TypeScript",
-      "stars_today": "163 stars today",
-      "stars_total": "58,051"
+      "stars_today": "691 stars today",
+      "stars_total": "82,665"
+    },
+    {
+      "name": "garrytan/gstack",
+      "url": "https://github.com/garrytan/gstack",
+      "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+      "language": "TypeScript",
+      "stars_today": "649 stars today",
+      "stars_total": "112,909"
+    },
+    {
+      "name": "heygen-com/hyperframes",
+      "url": "https://github.com/heygen-com/hyperframes",
+      "description": "Write HTML. Render video. Built for agents.",
+      "language": "TypeScript",
+      "stars_today": "369 stars today",
+      "stars_total": "29,817"
+    },
+    {
+      "name": "tursodatabase/turso",
+      "url": "https://github.com/tursodatabase/turso",
+      "description": "Turso is an in-process SQL database, compatible with SQLite.",
+      "language": "Rust",
+      "stars_today": "538 stars today",
+      "stars_total": "21,225"
     },
     {
       "name": "bytedance/deer-flow",
       "url": "https://github.com/bytedance/deer-flow",
       "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
       "language": "Python",
-      "stars_today": "442 stars today",
-      "stars_total": "72,552"
-    },
-    {
-      "name": "DeusData/codebase-memory-mcp",
-      "url": "https://github.com/DeusData/codebase-memory-mcp",
-      "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
-      "language": "C",
-      "stars_today": "1,032 stars today",
-      "stars_total": "10,229"
-    },
-    {
-      "name": "mukul975/Anthropic-Cybersecurity-Skills",
-      "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
-      "description": "754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND & NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 26 security domains · Apache 2.0",
-      "language": "Python",
-      "stars_today": "361 stars today",
-      "stars_total": "17,666"
+      "stars_today": "736 stars today",
+      "stars_total": "73,092"
     }
   ],
   "ai_repos": [
-    {
-      "name": "palmier-io/palmier-pro",
-      "url": "https://github.com/palmier-io/palmier-pro",
-      "description": "macOS video editor built for AI",
-      "language": "Swift",
-      "stars_today": "1,834 stars today",
-      "stars_total": "5,054"
-    },
     {
       "name": "calesthio/OpenMontage",
       "url": "https://github.com/calesthio/OpenMontage",
       "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
       "language": "Python",
-      "stars_today": "987 stars today",
-      "stars_total": "8,648"
+      "stars_today": "2,935 stars today",
+      "stars_total": "11,274"
     },
     {
-      "name": "chopratejas/headroom",
-      "url": "https://github.com/chopratejas/headroom",
-      "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
-      "language": "Python",
-      "stars_today": "2,624 stars today",
-      "stars_total": "44,281"
+      "name": "palmier-io/palmier-pro",
+      "url": "https://github.com/palmier-io/palmier-pro",
+      "description": "macOS video editor built for AI",
+      "language": "Swift",
+      "stars_today": "2,462 stars today",
+      "stars_total": "6,973"
     },
     {
-      "name": "ZhuLinsen/daily_stock_analysis",
-      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
-      "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
-      "language": "Python",
-      "stars_today": "568 stars today",
-      "stars_total": "44,395"
-    },
-    {
-      "name": "koala73/worldmonitor",
-      "url": "https://github.com/koala73/worldmonitor",
-      "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+      "name": "jamiepine/voicebox",
+      "url": "https://github.com/jamiepine/voicebox",
+      "description": "The open-source AI voice studio. Clone, dictate, create.",
       "language": "TypeScript",
-      "stars_today": "163 stars today",
-      "stars_total": "58,051"
+      "stars_today": "508 stars today",
+      "stars_total": "32,011"
+    },
+    {
+      "name": "mukul975/Anthropic-Cybersecurity-Skills",
+      "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+      "description": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0",
+      "language": "Python",
+      "stars_today": "957 stars today",
+      "stars_total": "18,416"
+    },
+    {
+      "name": "garrytan/gstack",
+      "url": "https://github.com/garrytan/gstack",
+      "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+      "language": "TypeScript",
+      "stars_today": "649 stars today",
+      "stars_total": "112,909"
+    },
+    {
+      "name": "heygen-com/hyperframes",
+      "url": "https://github.com/heygen-com/hyperframes",
+      "description": "Write HTML. Render video. Built for agents.",
+      "language": "TypeScript",
+      "stars_today": "369 stars today",
+      "stars_total": "29,817"
     },
     {
       "name": "bytedance/deer-flow",
       "url": "https://github.com/bytedance/deer-flow",
       "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
       "language": "Python",
-      "stars_today": "442 stars today",
-      "stars_total": "72,552"
-    },
-    {
-      "name": "DeusData/codebase-memory-mcp",
-      "url": "https://github.com/DeusData/codebase-memory-mcp",
-      "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
-      "language": "C",
-      "stars_today": "1,032 stars today",
-      "stars_total": "10,229"
-    },
-    {
-      "name": "mukul975/Anthropic-Cybersecurity-Skills",
-      "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
-      "description": "754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND & NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 26 security domains · Apache 2.0",
-      "language": "Python",
-      "stars_today": "361 stars today",
-      "stars_total": "17,666"
+      "stars_today": "736 stars today",
+      "stars_total": "73,092"
     }
   ],
   "posts": [
     {
-      "topic": "Headroom",
-      "repo": "chopratejas/headroom",
-      "cover_line1": "LLM 输入压缩库",
-      "cover_line2": "60–95% 少用 token",
-      "body": "你每次让大模型看日志、查代码、读 RAG 片段，都在喂它大量重复、冗余、低信息密度的文本。Headroom 就是干这个活的：它在数据进 LLM 前先压一遍——不是删内容，而是保留原意，只留关键句、结构化字段、可执行线索。比如一段 2000 行的错误日志，它能缩成 120 行带上下文的摘要；一个 80KB 的代码 chunk，压到 3KB 还能答对所有问题。作者测了 17 个真实场景，平均省掉 78% 的 token，响应速度加快 2.3 倍，答案准确率没掉。它提供三种接入方式：直接当 Python 库调用、走本地代理拦截请求、或作为 MCP 标准服务器嵌入现有工具链。不用改模型，不碰 prompt，插进去就能用。Swift 和 TypeScript 项目也能接，只要输出是文本就行。它不开源模型，只开源压缩逻辑，所以你压什么、怎么压、压完发给谁，全由你控制。目前支持 JSON、Markdown、纯文本、日志格式，正在加 YAML 和 SQL 注释识别。这不是「更聪明」的模型，而是让现有模型跑得更轻、更稳、更便宜。你上次为 token 超限砍掉一半功能，是因为没早点遇到它。",
+      "topic": "OpenMontage",
+      "repo": "calesthio/OpenMontage",
+      "cover_line1": "开源视频生产系统",
+      "cover_line2": "12条流水线52个工具",
+      "body": "你不用再手动剪片、调色、加字幕、配音——OpenMontage 把整套视频制作流程拆成可调度的模块，让 AI 代理自动跑完。它不是单个模型，而是一套能协同工作的系统：写脚本用 LLM，生成画面调 Stable Diffusion，配音接 Whisper 和 Coqui，合成靠 FFmpeg，连导出格式都预设好。项目里真有 12 条完整 pipeline，比如「文案→分镜→AI绘图→语音合成→合成视频」这条链路已经能端到端跑通。52 个工具不是列表，是实打实能 import 调用的 Python 函数，比如 resize_video、sync_audio_to_script、add_subtitles_with_timing。500+ agent skills 指的是每个工具支持的细粒度动作，像「把第3秒的字幕放大120%并加阴影」这种指令也能执行。所有代码开源，MIT 许可，本地跑得动，不需要 API key。今天涨了 2935 星，说明很多人试过发现真能省掉 70% 的重复操作。它不承诺「一键成片」，但把原来要切 8 个窗口、开 5 个终端、手动传 12 次文件的事，压进一个 config.yaml 就启动。你现在手头有个短视频需求，是先打开剪映，还是改两行 YAML 让 AI 跑？",
       "tags": [
-        "token",
-        "compression",
-        "llm",
-        "rag",
-        "python",
-        "mcp",
-        "optimization",
-        "logging",
+        "video",
         "agent",
+        "pipeline",
+        "open-source",
+        "python",
+        "automation",
+        "llm",
+        "multimodal",
+        "workflow",
         "tooling"
       ]
     },
     {
-      "topic": "Deer Flow",
-      "repo": "bytedance/deer-flow",
-      "cover_line1": "字节开源长程智能体",
-      "cover_line2": "分钟到小时级任务",
-      "body": "大多数 AI 智能体只能做「单次点击」式操作：写个函数、改个配置、跑个测试。Deer Flow 不同，它设计目标就是处理需要持续思考、反复试错、跨工具协作的任务——比如「调研 WebAssembly 在嵌入式设备上的部署瓶颈，写一份对比报告，并生成可运行 demo」。它用沙箱隔离执行环境，用记忆模块存中间结论，用子智能体分派专项任务（一个查论文，一个跑 benchmark，一个写文档），再靠消息网关协调进度。官方示例里，它花 23 分钟完成了一个含 4 次代码生成、2 次编译失败重试、3 次文献交叉验证的完整技术调研。不是模拟，是真跑。代码全开源，依赖明确，启动命令一行就能起来。它不绑定特定模型，但内置适配 Claude 3.5、Qwen2.5 和 Llama3-70B。重点是：它把「长时间运行」这件事标准化了——有心跳、有中断恢复、有状态快照、有失败回滚。你不需要自己拼调度器、存 checkpoint、写 retry 逻辑。你只需要定义任务目标和可用工具，剩下的交给 Deer Flow。它不是要替代你写代码，而是替你扛住那些必须连着盯两小时的活。",
+      "topic": "Palmier Pro",
+      "repo": "palmier-io/palmier-pro",
+      "cover_line1": "macOS AI 视频编辑器",
+      "cover_line2": "原生适配 Mac 硬件",
+      "body": "它不是给 Premiere 加个 AI 插件，而是从 macOS 底层重写的视频编辑器，直接调用 Apple 的 Core ML、VideoToolbox 和 Metal。导入一段素材后，你输入「把采访里说‘我觉得’的地方自动打码，保留声音」，它就真能定位音频波形+人脸检测+时间戳对齐，三步做完。UI 是 macOS 原生风格，快捷键和 Finder 一致，拖进 MOV 文件自动解码成帧序列，不卡顿。它把 AI 功能当编辑动作来设计：不是「生成一个效果」，而是「把这个片段的色调往青色偏移 15%，饱和度降 20%，只作用于人物皮肤区域」——指令能被解析成像素级操作。目前支持 M1/M2/M3 芯片，GPU 加速实测比 Rosetta 2 快 3.2 倍。6973 星里有大量 indie creator 提交 issue，比如「希望支持 Final Cut XML 导入导出」，作者上周刚 merge 了 PR。它没堆大模型参数，胜在把 AI 当螺丝刀用：拧得准，不晃，不滑丝。",
       "tags": [
-        "agent",
-        "long-horizon",
-        "bytedance",
-        "sandbox",
-        "memory",
-        "orchestration",
-        "python",
-        "mcp",
-        "tool-use",
-        "research"
+        "macos",
+        "video-editor",
+        "ai-native",
+        "metal",
+        "coreml",
+        "local",
+        "creator-tool",
+        "apple",
+        "ux",
+        "editing"
       ]
     },
     {
-      "topic": "Codebase Memory",
-      "repo": "DeusData/codebase-memory-mcp",
-      "cover_line1": "代码知识图谱服务器",
-      "cover_line2": "158 种语言毫秒索引",
-      "body": "你想让 AI 理解一个新代码库，现在通常得喂整个 repo 或手动挑文件。Codebase Memory 把这事变成数据库操作：它扫描任意代码目录，自动提取函数、类、调用关系、注释语义，建成一张持久化知识图谱。不是简单 grep，也不是模糊 embedding，而是解析 AST + 静态分析 + 跨文件引用追踪。一个 20 万行的 Go 项目，它 87 毫秒建完图；查「哪些地方调用了 PaymentService.Cancel()」，返回结果带上下文代码片段和调用链深度，耗时 0.3 毫秒。支持 158 种语言，包括 Zig、Nim、VHDL、Terraform HCL 这些小众但工程中真实存在的语法。它打包成单个静态二进制文件，不依赖 Python、Node 或数据库，Linux/macOS/Windows 都能直接跑。输出是标准 MCP 协议，可无缝对接 Cursor、Continue.dev、Aider 等主流 AI 编程工具。它不生成代码，只回答「这个代码里有什么、在哪里、怎么连」。你不用再为「AI 不懂我项目结构」头疼，因为现在它比你还熟。你昨天花三小时解释模块依赖，今天可以换成一句「查下 auth middleware 怎么影响 session 刷新」。",
+      "topic": "VoiceBox",
+      "repo": "jamiepine/voicebox",
+      "cover_line1": "开源 AI 语音工作室",
+      "cover_line2": "支持克隆+实时配音",
+      "body": "你录 30 秒自己说话，VoiceBox 就能生成你声音的轻量版模型，不用 GPU，MacBook Air 上跑得动。它不只做 TTS，而是把语音当成可编辑对象：选中一句配音，拖动波形拉长语速，框选某段降低背景噪音，右键「替换为英文」自动重录并保持口型同步。所有功能都在一个 TypeScript 前端里完成，后端用 Rust 写的 inference server，启动只要 127MB 内存。32011 星里有 1800+ fork，多数人在改 voice-presets.json —— 有人加了「播客旁白」模式（带呼吸停顿和轻微混响），有人做了「客服应答」模板（语速快、句尾上扬）。它不开 API，不联网，默认所有数据留在本地。你导出的不是 MP3，而是带时间戳标注的 .vbx 文件，下次打开还能继续编辑那句「嗯…其实我有点犹豫」里的犹豫长度。现在最常被提的需求是「支持粤语」，作者回复说「已有声学模型，缺 200 小时干净录音」。你愿意捐 10 分钟自己的粤语朗读吗？",
       "tags": [
-        "codebase",
-        "knowledge-graph",
-        "mcp",
-        "c",
-        "indexing",
-        "ast",
-        "static-analysis",
-        "tooling",
-        "developer",
-        "search"
+        "voice",
+        "tts",
+        "clone",
+        "local",
+        "typescript",
+        "rust",
+        "audio",
+        "podcast",
+        "editing",
+        "opensource"
       ]
     },
     {
-      "topic": "Cyber Skills",
+      "topic": "Cybersecurity Skills",
       "repo": "mukul975/Anthropic-Cybersecurity-Skills",
-      "cover_line1": "754 条结构化安全技能",
-      "cover_line2": "覆盖 MITRE ATT&CK 等 5 框架",
-      "body": "安全工程师写 prompt 让 AI 查漏洞、写检测规则、分析 IOC，常常卡在「不知道该让它干什么」。这个项目把安全动作拆成了 754 个可调用技能——比如「提取 Suricata 规则中的 IP 黑名单」、「将 ATT&CK TTP 映射到 NIST CSF 控制项」、「生成符合 D3FEND 的防御绕过缓解建议」。每条技能都带输入输出定义、自然语言说明、对应框架编号（MITRE ATT&CK ID、NIST CSF 子域、D3FEND 类型等），并按 26 个安全领域归类：从云配置审计到 OT 协议逆向，从红队技战术到合规报告生成。它不训练模型，只提供技能描述标准（agentskills.io），所以 Claude Code、GitHub Copilot、Cursor、Gemini CLI 都能直接加载使用。你不用再手写「请分析这段日志是否含横向移动迹象」，而是调用 skill_id: 'log-anomaly-ttps-detection'，传入原始日志，拿到结构化输出。Apache 2.0 开源，已有人把它集成进 SOAR 平台做自动化响应。它解决的不是「AI 能不能做安全」，而是「你怎么让 AI 精准做你想要的安全动作」。",
+      "cover_line1": "AI 网络安全技能库",
+      "cover_line2": "817 项技能映射 6 大框架",
+      "body": "它把 MITRE ATT&CK 里「T1059.001 - PowerShell」这种抽象条目，变成 AI 代理能直接调用的函数：run_powershell_script(path: str, timeout: int = 30)。整个库含 817 个 Python 函数，每个对应一个真实安全动作，比如「提取内存中的凭证」「模拟钓鱼邮件发送」「检查 Windows 日志里的异常登录」。所有函数都按 agentskills.io 标准写，带输入类型、输出结构、失败重试逻辑。更关键的是，每项技能都标清楚它属于哪个框架：NIST CSF 的「Detect」域，MITRE ATLAS 的「Adversary Emulation」类，甚至 D3FEND 里的防御技术编号。开发者不用再查文档猜怎么写 prompt，直接 import skill_detect_lateral_movement，传进日志路径，返回结构化 JSON。18416 星里有大量企业安全团队在用，比如某银行把这套技能接入内部 Claude Code，让工程师输入「查最近三天所有外联 IP 是否匹配已知 C2 域名」，AI 自动跑完 12 个检测步骤。Apache 2.0 许可，连 MITRE 官方 GitHub 都 star 了。如果你正在写一个安全 agent，你会优先复用它的 detect_phishing_email 函数，还是自己从头写正则？",
       "tags": [
         "cybersecurity",
+        "agent",
         "skills",
         "mitre",
         "nistsf",
-        "d3fend",
-        "prompt-engineering",
-        "agent",
+        "python",
         "claude",
-        "copilot",
-        "soar"
+        "prompt-engineering",
+        "enterprise",
+        "framework"
       ]
     }
   ],
   "image_paths": [
-    "assets/2026-06-22/trending/summary.png",
-    "assets/2026-06-22/trending/post1.png",
-    "assets/2026-06-22/trending/post2.png",
-    "assets/2026-06-22/trending/post3.png",
-    "assets/2026-06-22/trending/post4.png"
+    "assets/2026-06-23/trending/summary.png",
+    "assets/2026-06-23/trending/post1.png",
+    "assets/2026-06-23/trending/post2.png",
+    "assets/2026-06-23/trending/post3.png",
+    "assets/2026-06-23/trending/post4.png"
   ]
 }
