@@ -1,6 +1,6 @@
 {
-  "date": "2026-06-23",
-  "slot": "晚报",
+  "date": "2026-06-24",
+  "slot": "早报",
   "all_repos": [
     {
       "name": "calesthio/OpenMontage",
@@ -8,7 +8,7 @@
       "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
       "language": "Python",
       "stars_today": "3,590 stars today",
-      "stars_total": "14,684"
+      "stars_total": "15,550"
     },
     {
       "name": "ZhuLinsen/daily_stock_analysis",
@@ -16,7 +16,7 @@
       "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
       "language": "Python",
       "stars_today": "1,121 stars today",
-      "stars_total": "46,767"
+      "stars_total": "47,000"
     },
     {
       "name": "mukul975/Anthropic-Cybersecurity-Skills",
@@ -24,7 +24,7 @@
       "description": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0",
       "language": "Python",
       "stars_today": "1,040 stars today",
-      "stars_total": "19,372"
+      "stars_total": "19,650"
     },
     {
       "name": "garrytan/gstack",
@@ -32,7 +32,7 @@
       "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
       "language": "TypeScript",
       "stars_today": "1,012 stars today",
-      "stars_total": "113,827"
+      "stars_total": "114,037"
     },
     {
       "name": "bytedance/deer-flow",
@@ -40,7 +40,7 @@
       "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
       "language": "Python",
       "stars_today": "741 stars today",
-      "stars_total": "73,762"
+      "stars_total": "73,882"
     },
     {
       "name": "koala73/worldmonitor",
@@ -48,7 +48,7 @@
       "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
       "language": "TypeScript",
       "stars_today": "279 stars today",
-      "stars_total": "58,878"
+      "stars_total": "59,066"
     },
     {
       "name": "palmier-io/palmier-pro",
@@ -56,7 +56,7 @@
       "description": "macOS video editor built for AI",
       "language": "Swift",
       "stars_today": "1,631 stars today",
-      "stars_total": "8,258"
+      "stars_total": "8,397"
     },
     {
       "name": "anthropics/claude-plugins-official",
@@ -64,7 +64,7 @@
       "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
       "language": "Python",
       "stars_today": "66 stars today",
-      "stars_total": "30,736"
+      "stars_total": "30,827"
     },
     {
       "name": "shanraisshan/claude-code-best-practice",
@@ -72,7 +72,7 @@
       "description": "from vibe coding to agentic engineering - practice makes claude perfect",
       "language": "HTML",
       "stars_today": "329 stars today",
-      "stars_total": "59,185"
+      "stars_total": "59,413"
     },
     {
       "name": "revfactory/harness",
@@ -80,7 +80,7 @@
       "description": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.",
       "language": "HTML",
       "stars_today": "123 stars today",
-      "stars_total": "7,351"
+      "stars_total": "7,433"
     }
   ],
   "ai_repos": [
@@ -90,7 +90,7 @@
       "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
       "language": "Python",
       "stars_today": "3,590 stars today",
-      "stars_total": "14,684"
+      "stars_total": "15,550"
     },
     {
       "name": "ZhuLinsen/daily_stock_analysis",
@@ -98,7 +98,7 @@
       "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
       "language": "Python",
       "stars_today": "1,121 stars today",
-      "stars_total": "46,767"
+      "stars_total": "47,000"
     },
     {
       "name": "mukul975/Anthropic-Cybersecurity-Skills",
@@ -106,7 +106,7 @@
       "description": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0",
       "language": "Python",
       "stars_today": "1,040 stars today",
-      "stars_total": "19,372"
+      "stars_total": "19,650"
     },
     {
       "name": "garrytan/gstack",
@@ -114,7 +114,7 @@
       "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
       "language": "TypeScript",
       "stars_today": "1,012 stars today",
-      "stars_total": "113,827"
+      "stars_total": "114,037"
     },
     {
       "name": "bytedance/deer-flow",
@@ -122,7 +122,7 @@
       "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
       "language": "Python",
       "stars_today": "741 stars today",
-      "stars_total": "73,762"
+      "stars_total": "73,882"
     },
     {
       "name": "koala73/worldmonitor",
@@ -130,7 +130,7 @@
       "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
       "language": "TypeScript",
       "stars_today": "279 stars today",
-      "stars_total": "58,878"
+      "stars_total": "59,066"
     },
     {
       "name": "palmier-io/palmier-pro",
@@ -138,7 +138,7 @@
       "description": "macOS video editor built for AI",
       "language": "Swift",
       "stars_today": "1,631 stars today",
-      "stars_total": "8,258"
+      "stars_total": "8,397"
     },
     {
       "name": "anthropics/claude-plugins-official",
@@ -146,7 +146,7 @@
       "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
       "language": "Python",
       "stars_today": "66 stars today",
-      "stars_total": "30,736"
+      "stars_total": "30,827"
     },
     {
       "name": "shanraisshan/claude-code-best-practice",
@@ -154,7 +154,7 @@
       "description": "from vibe coding to agentic engineering - practice makes claude perfect",
       "language": "HTML",
       "stars_today": "329 stars today",
-      "stars_total": "59,185"
+      "stars_total": "59,413"
     },
     {
       "name": "revfactory/harness",
@@ -162,7 +162,7 @@
       "description": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.",
       "language": "HTML",
       "stars_today": "123 stars today",
-      "stars_total": "7,351"
+      "stars_total": "7,433"
     }
   ],
   "posts": [
@@ -171,83 +171,83 @@
       "repo": "calesthio/OpenMontage",
       "cover_line1": "开源视频生产系统",
       "cover_line2": "12条流水线52个工具",
-      "body": "它把 AI 编程助手变成能拍视频的团队。不是生成单帧图，而是跑完整流程：写脚本、找素材、剪辑、加字幕、配音乐、导出成片。项目里有 12 条可插拔流水线，比如「新闻短视频生成」或「产品演示视频组装」；每个流水线调用 52 个现成工具，像用 FFmpeg 剪辑、用 Whisper 转录、用 Stable Video Diffusion 生成镜头；还内置 500 多个 agent 技能，比如「根据财报数据自动生成财经解说词」或「把小红书文案转成口播稿并匹配BGM」。所有代码开源，Python 写的，本地就能跑，不用连云端 API。作者叫 Caleb Thio，没挂公司，纯个人项目，但文档写得像工业级产品——有 pipeline 状态图、tool 调用链路、错误重试策略。今天涨了 3590 星，说明很多人真在试、真在用。它不替代专业剪辑师，但让一个会写 prompt 的人，今天下午就能交出一条 60 秒带字幕和背景音乐的 TikTok 视频。你上次手动导出视频花了多久？",
+      "body": "它不是又一个AI视频生成器，而是把整个视频制作流程拆成可调度、可组合的模块。比如写脚本、找素材、剪辑、加字幕、配音、渲染，每一步都封装成独立工具，再用智能体（agent）按需调用。项目公开了全部500+技能定义，连怎么自动选BGM、怎么根据口型同步配音都写了清楚。Python写的，本地跑得起来，不需要GPU也能试前几步。作者叫Calesthio，不是大厂团队，但文档里列了12条完整pipeline，从短视频广告到教学片都有对应路径。今天涨了3590星，说明很多人真在搭环境、跑demo、改配置。它不承诺‘一键成片’，但把原来要拼三四个API、写一堆胶水代码的事，变成调几个函数、配几个YAML。如果你做过自动化内容生成，就知道这种结构化能力多省事——不用再自己维护ffmpeg命令列表，也不用硬凑LangChain和MoviePy的兼容性问题。它没说能替代专业剪辑师，但它让一个懂Python的人，两天内搭出能每天自动生成10条抖音口播视频的流水线。现在最活跃的PR是给TikTok字幕格式加支持，不是修bug，是扩场景。你上次手动导出、重命名、上传的那条视频，是不是也该换个活法了？",
       "tags": [
         "video",
         "agent",
         "open-source",
         "python",
-        "pipeline",
-        "tooling",
-        "multimodal",
         "automation",
-        "content-creation",
-        "local-run"
+        "tooling",
+        "workflow",
+        "multimodal",
+        "cli",
+        "yml"
       ]
     },
     {
-      "topic": "每日股票分析",
+      "topic": "股票分析系统",
       "repo": "ZhuLinsen/daily_stock_analysis",
-      "cover_line1": "LLM 股票分析系统",
-      "cover_line2": "零成本定时运行",
-      "body": "它每天自动抓 A 股、港股、美股行情，合并雪球、财新、Reuters 的实时新闻，用 LLM 看懂这些信息，再输出带图表的决策看板——比如「宁德时代电池订单超预期，但铜价上涨挤压毛利」。整个流程不调付费 API，行情走免费 Yahoo Finance 和 Tushare，新闻用 RSS 和爬虫，LLM 用本地 Ollama 或免费的 Qwen2.5。关键是一键部署后，设好 cron，就每天早上 8 点自动跑，邮件推给你。作者林森写了详细中文文档，连怎么改「关注行业列表」、怎么加自己的技术指标都标好了。总星数 4.6 万，比很多大厂内部工具还高。它不做预测，只帮你把杂乱信息理清楚：哪些消息真影响利润，哪些只是媒体炒作。你愿意让 AI 每天早上替你扫一遍持仓股的异动吗？",
+      "cover_line1": "LLM股票分析系统",
+      "cover_line2": "支持零成本定时运行",
+      "body": "它把股票分析这件事拆成了四块：抓行情数据、扒新闻、算指标、推结论。行情来自Yahoo Finance和Alpha Vantage免费层，新闻从Google News和Seeking Alpha实时爬，所有数据进本地SQLite，不传云。LLM用的是本地Ollama跑的Phi-3或Qwen2，不是调API，所以每天跑十次也不花钱。决策看板是个Flask网页，显示PE、RSI、资金流热力图，还能点开某只股看LLM写的三句话点评。自动推送走微信/Telegram机器人，配置文件里写好‘沪深300跌超2%就发’这种规则。作者叫朱林森，README里直接贴了cron定时任务示例：每天早9点自动跑，结果存PDF发邮箱。47000星不是靠概念火的，是有人真把它装进公司内网，替分析师盯盘。它不预测明天涨停，但能告诉你：过去72小时，这只股的新闻情绪分从61降到43，主力资金连续3天净流出，技术面跌破布林带下轨。你手头有没有一张Excel表，每天早上复制粘贴行情然后人工标红绿箭头？",
       "tags": [
         "finance",
         "llm",
-        "automation",
         "python",
+        "automation",
         "stock",
         "news",
         "dashboard",
+        "local",
         "cron",
-        "free-api",
-        "china-tech"
+        "sqlite"
       ]
     },
     {
-      "topic": "Anthropic 安全技能",
+      "topic": "网络安全技能库",
       "repo": "mukul975/Anthropic-Cybersecurity-Skills",
-      "cover_line1": "817 条安全技能库",
-      "cover_line2": "覆盖 MITRE ATT&CK 等 6 大框架",
-      "body": "它把网络安全知识翻译成 AI agent 能直接调用的函数。比如「检测 PowerShell 绕过 AMSI」这个动作，不再是 PDF 里的描述，而是一个 Python 函数，输入是日志片段，输出是风险等级和修复建议。全部 817 条技能按 29 个领域分组，从漏洞扫描到钓鱼邮件识别，每条都标注对应 MITRE ATT&CK 技术 ID、NIST CSF 控制项、D3FEND 防御原语。作者 Mukul 是独立安全研究员，没靠公司背书，但技能格式严格遵循 agentskills.io 标准，Claude Code、GitHub Copilot、Cursor、Gemini CLI 全能直接加载。Apache 2.0 开源，你能复制粘贴进自己 agent 的 skill 目录，立刻多出一整套蓝军能力。今天涨了 1040 星，说明大量 devsecops 团队正在把它塞进 CI/CD 流水线做自动渗透测试。你现在的 AI 工具链里，有没有一条能真正执行「模拟横向移动」的技能？",
+      "cover_line1": "817个网络安全技能",
+      "cover_line2": "映射到MITRE ATT&CK等6框架",
+      "body": "这不是一份PDF文档，而是一套可被AI代理直接调用的技能描述JSON文件。每个技能有名称、输入输出格式、执行逻辑、验证方式，比如‘识别恶意PowerShell脚本’这个技能，明确写了怎么调virustotal API、怎么看混淆特征、返回字段必须含malware_family和confidence_score。全部817个技能，都对齐了MITRE ATT&CK、NIST CSF 2.0这些行业标准编号，比如ATT&CK T1059.001就对应‘PowerShell命令执行’技能。作者Mukul把技能按29个安全域分类，从漏洞扫描到钓鱼邮件分析都有，Apache 2.0协议，随便集成进Claude Code、Cursor或者自研Agent。19650星说明不是玩具——已经有安全团队拿它当内部知识底座，让新员工问‘怎么查横向移动痕迹’，Agent直接调技能链跑一遍。它不代替SOC工程师，但把人脑里的检查清单，变成了机器能读、能组合、能审计的代码单元。你团队最近一次红蓝对抗复盘，有没有发现某些动作总要重复解释三次？",
       "tags": [
         "cybersecurity",
         "agent",
-        "skill",
+        "json",
         "mitre",
         "nistsf",
         "claude",
-        "copilot",
-        "python",
-        "offensive-ai",
-        "devsecops"
+        "cursor",
+        "skills",
+        "api",
+        "security"
       ]
     },
     {
-      "topic": "Garry Tan 的 Claude 设置",
+      "topic": "Garry Tan工作流",
       "repo": "garrytan/gstack",
-      "cover_line1": "Garry Tan 的 Claude 工具集",
-      "cover_line2": "23 个预设角色工具",
-      "body": "它打包了 Garry Tan 实际工作中用的 23 个 Claude Code 工具，每个工具绑一个明确角色：CEO 工具管目标对齐，Designer 工具生成 Figma 描述，Eng Manager 工具拆任务卡片，QA 工具写测试用例。不是泛泛的「写代码」提示词，而是具体到「用 Jest 测试 React 组件，覆盖 props 变化和 loading 状态」这种颗粒度。TypeScript 写的，可直接集成进 VS Code 或 Cursor。Garry Tan 是 YC 合伙人，他公开说这套配置让他写原型快 3 倍。项目没文档堆砌，只有 config.ts 和几个 .md 示例，但每个工具都有真实使用痕迹——比如 Release Manager 工具里硬编码了他常用的服务端部署命令。今天涨了 1012 星，多数 star 来自工程师而非投资人。它不教你怎么用 AI，它直接给你一套跑通的生产线。你最想让 AI 扮演哪个角色来帮你省时间？",
+      "cover_line1": "Garry Tan的Claude设置",
+      "cover_line2": "23个角色化工具链",
+      "body": "Garry Tan是YC前合伙人，他公开了自己的Claude Code开发工作流配置。不是截图，不是教程，而是23个真实可用的TypeScript工具：CEO工具管需求优先级，Designer工具转Figma链接为组件树，QA工具跑Playwright测试并截图对比，Release Manager工具自动打tag、写changelog、推Docker镜像。每个工具都有CLI入口、错误重试逻辑、日志埋点。它不教你‘怎么用AI编程’，而是展示一个资深工程师怎么让AI当他的虚拟团队——CEO、设计师、测试员全在线。114037星说明很多人不是围观，是在fork后删掉一半工具，换成自己公司的Jira和Sentry地址。它没用任何黑科技，依赖全是npm常见包，但把‘让AI写代码’这件事，拉回了工程现实：需要权限管理、需要失败回滚、需要和现有CI/CD打通。如果你的团队还在用ChatGPT复制粘贴代码，那Garry的config.ts可能比任何Prompt都值得先读三遍。你上一次因为没写commit message被CI拒绝，是什么时候？",
       "tags": [
-        "claude",
-        "tooling",
         "typescript",
-        "productivity",
-        "vscode",
-        "cursor",
+        "claude",
+        "devops",
+        "workflow",
+        "cli",
         "engineering",
-        "role-based",
-        "yc",
-        "practical-ai"
+        "toolchain",
+        "github",
+        "ci",
+        "productivity"
       ]
     }
   ],
   "image_paths": [
-    "assets/2026-06-23/trending/summary.png",
-    "assets/2026-06-23/trending/post1.png",
-    "assets/2026-06-23/trending/post2.png",
-    "assets/2026-06-23/trending/post3.png",
-    "assets/2026-06-23/trending/post4.png"
+    "assets/2026-06-24/trending/summary.png",
+    "assets/2026-06-24/trending/post1.png",
+    "assets/2026-06-24/trending/post2.png",
+    "assets/2026-06-24/trending/post3.png",
+    "assets/2026-06-24/trending/post4.png"
   ]
 }
