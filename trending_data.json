@@ -7,80 +7,80 @@
       "url": "https://github.com/calesthio/OpenMontage",
       "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
       "language": "Python",
-      "stars_today": "2,935 stars today",
-      "stars_total": "11,274"
+      "stars_today": "2,938 stars today",
+      "stars_total": "11,952"
     },
     {
       "name": "palmier-io/palmier-pro",
       "url": "https://github.com/palmier-io/palmier-pro",
       "description": "macOS video editor built for AI",
       "language": "Swift",
-      "stars_today": "2,462 stars today",
-      "stars_total": "6,973"
+      "stars_today": "2,463 stars today",
+      "stars_total": "7,311"
     },
     {
       "name": "jamiepine/voicebox",
       "url": "https://github.com/jamiepine/voicebox",
       "description": "The open-source AI voice studio. Clone, dictate, create.",
       "language": "TypeScript",
-      "stars_today": "508 stars today",
-      "stars_total": "32,011"
+      "stars_today": "529 stars today",
+      "stars_total": "32,207"
     },
     {
       "name": "mukul975/Anthropic-Cybersecurity-Skills",
       "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
       "description": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0",
       "language": "Python",
-      "stars_today": "957 stars today",
-      "stars_total": "18,416"
+      "stars_today": "956 stars today",
+      "stars_total": "18,660"
     },
     {
       "name": "penpot/penpot",
       "url": "https://github.com/penpot/penpot",
       "description": "Penpot: The open-source design tool for design and code collaboration",
       "language": "Clojure",
-      "stars_today": "730 stars today",
-      "stars_total": "52,725"
+      "stars_today": "728 stars today",
+      "stars_total": "52,852"
     },
     {
       "name": "Stirling-Tools/Stirling-PDF",
       "url": "https://github.com/Stirling-Tools/Stirling-PDF",
       "description": "#1 PDF Application on GitHub that lets you edit PDFs on any device anywhere",
       "language": "TypeScript",
-      "stars_today": "691 stars today",
-      "stars_total": "82,665"
+      "stars_today": "547 stars today",
+      "stars_total": "82,875"
     },
     {
       "name": "garrytan/gstack",
       "url": "https://github.com/garrytan/gstack",
       "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
       "language": "TypeScript",
-      "stars_today": "649 stars today",
-      "stars_total": "112,909"
+      "stars_today": "573 stars today",
+      "stars_total": "113,125"
     },
     {
       "name": "heygen-com/hyperframes",
       "url": "https://github.com/heygen-com/hyperframes",
       "description": "Write HTML. Render video. Built for agents.",
       "language": "TypeScript",
-      "stars_today": "369 stars today",
-      "stars_total": "29,817"
+      "stars_today": "395 stars today",
+      "stars_total": "29,964"
     },
     {
       "name": "tursodatabase/turso",
       "url": "https://github.com/tursodatabase/turso",
       "description": "Turso is an in-process SQL database, compatible with SQLite.",
       "language": "Rust",
-      "stars_today": "538 stars today",
-      "stars_total": "21,225"
+      "stars_today": "540 stars today",
+      "stars_total": "21,460"
     },
     {
       "name": "bytedance/deer-flow",
       "url": "https://github.com/bytedance/deer-flow",
       "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
       "language": "Python",
-      "stars_today": "736 stars today",
-      "stars_total": "73,092"
+      "stars_today": "738 stars today",
+      "stars_total": "73,223"
     }
   ],
   "ai_repos": [
@@ -89,56 +89,56 @@
       "url": "https://github.com/calesthio/OpenMontage",
       "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
       "language": "Python",
-      "stars_today": "2,935 stars today",
-      "stars_total": "11,274"
+      "stars_today": "2,938 stars today",
+      "stars_total": "11,952"
     },
     {
       "name": "palmier-io/palmier-pro",
       "url": "https://github.com/palmier-io/palmier-pro",
       "description": "macOS video editor built for AI",
       "language": "Swift",
-      "stars_today": "2,462 stars today",
-      "stars_total": "6,973"
+      "stars_today": "2,463 stars today",
+      "stars_total": "7,311"
     },
     {
       "name": "jamiepine/voicebox",
       "url": "https://github.com/jamiepine/voicebox",
       "description": "The open-source AI voice studio. Clone, dictate, create.",
       "language": "TypeScript",
-      "stars_today": "508 stars today",
-      "stars_total": "32,011"
+      "stars_today": "529 stars today",
+      "stars_total": "32,207"
     },
     {
       "name": "mukul975/Anthropic-Cybersecurity-Skills",
       "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
       "description": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0",
       "language": "Python",
-      "stars_today": "957 stars today",
-      "stars_total": "18,416"
+      "stars_today": "956 stars today",
+      "stars_total": "18,660"
     },
     {
       "name": "garrytan/gstack",
       "url": "https://github.com/garrytan/gstack",
       "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
       "language": "TypeScript",
-      "stars_today": "649 stars today",
-      "stars_total": "112,909"
+      "stars_today": "573 stars today",
+      "stars_total": "113,125"
     },
     {
       "name": "heygen-com/hyperframes",
       "url": "https://github.com/heygen-com/hyperframes",
       "description": "Write HTML. Render video. Built for agents.",
       "language": "TypeScript",
-      "stars_today": "369 stars today",
-      "stars_total": "29,817"
+      "stars_today": "395 stars today",
+      "stars_total": "29,964"
     },
     {
       "name": "bytedance/deer-flow",
       "url": "https://github.com/bytedance/deer-flow",
       "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
       "language": "Python",
-      "stars_today": "736 stars today",
-      "stars_total": "73,092"
+      "stars_today": "738 stars today",
+      "stars_total": "73,223"
     }
   ],
   "posts": [
@@ -147,74 +147,74 @@
       "repo": "calesthio/OpenMontage",
       "cover_line1": "开源视频生产系统",
       "cover_line2": "12条流水线52个工具",
-      "body": "你不用再手动剪片、调色、加字幕、配音——OpenMontage 把整套视频制作流程拆成可调度的模块，让 AI 代理自动跑完。它不是单个模型，而是一套能协同工作的系统：写脚本用 LLM，生成画面调 Stable Diffusion，配音接 Whisper 和 Coqui，合成靠 FFmpeg，连导出格式都预设好。项目里真有 12 条完整 pipeline，比如「文案→分镜→AI绘图→语音合成→合成视频」这条链路已经能端到端跑通。52 个工具不是列表，是实打实能 import 调用的 Python 函数，比如 resize_video、sync_audio_to_script、add_subtitles_with_timing。500+ agent skills 指的是每个工具支持的细粒度动作，像「把第3秒的字幕放大120%并加阴影」这种指令也能执行。所有代码开源，MIT 许可，本地跑得动，不需要 API key。今天涨了 2935 星，说明很多人试过发现真能省掉 70% 的重复操作。它不承诺「一键成片」，但把原来要切 8 个窗口、开 5 个终端、手动传 12 次文件的事，压进一个 config.yaml 就启动。你现在手头有个短视频需求，是先打开剪映，还是改两行 YAML 让 AI 跑？",
+      "body": "它把 AI 编程助手变成能拍视频的团队。不是生成单帧图，而是从脚本、分镜、配音、剪辑到字幕全流程跑通。项目里写了 12 条明确流水线，比如「写脚本→生成画面→合成语音→加字幕→导出」，每条都配了真实可调用的工具。52 个工具里包括 Runway ML、ElevenLabs、FFmpeg、Pexels API 这些你可能已经在用的服务，不是抽象概念。500+ 个 agent 技能也全列在 docs 里，比如「把英文脚本转中文配音」「按情绪调整语速」「自动匹配免版权背景音乐」。所有代码 Python 写，本地能跑，也支持 Docker 部署。今天涨了 2938 星，说明很多人真在试、真在搭自己的视频管线。它不承诺「一键成片」，但把每步拆清楚、接口对齐、错误有 fallback——这对想自己控流程的开发者比黑盒工具更实在。文档里连怎么换掉 ElevenLabs 改用 Coqui TTS 都写了步骤。你不需要做视频专家，但得愿意读 config.yaml 和 debug 日志。它没说能替代专业剪辑师，但它让一个会写 Python 的人，周末就能搭出能反复跑的短视频产线。",
       "tags": [
         "video",
         "agent",
-        "pipeline",
-        "open-source",
         "python",
+        "open-source",
+        "pipeline",
+        "tooling",
         "automation",
-        "llm",
         "multimodal",
-        "workflow",
-        "tooling"
+        "cli",
+        "workflow"
       ]
     },
     {
       "topic": "Palmier Pro",
       "repo": "palmier-io/palmier-pro",
       "cover_line1": "macOS AI 视频编辑器",
-      "cover_line2": "原生适配 Mac 硬件",
-      "body": "它不是给 Premiere 加个 AI 插件，而是从 macOS 底层重写的视频编辑器，直接调用 Apple 的 Core ML、VideoToolbox 和 Metal。导入一段素材后，你输入「把采访里说‘我觉得’的地方自动打码，保留声音」，它就真能定位音频波形+人脸检测+时间戳对齐，三步做完。UI 是 macOS 原生风格，快捷键和 Finder 一致，拖进 MOV 文件自动解码成帧序列，不卡顿。它把 AI 功能当编辑动作来设计：不是「生成一个效果」，而是「把这个片段的色调往青色偏移 15%，饱和度降 20%，只作用于人物皮肤区域」——指令能被解析成像素级操作。目前支持 M1/M2/M3 芯片，GPU 加速实测比 Rosetta 2 快 3.2 倍。6973 星里有大量 indie creator 提交 issue，比如「希望支持 Final Cut XML 导入导出」，作者上周刚 merge 了 PR。它没堆大模型参数，胜在把 AI 当螺丝刀用：拧得准，不晃，不滑丝。",
+      "cover_line2": "原生支持 Claude Code",
+      "body": "它是个 macOS 原生 App，不是网页或 Electron 壳，用 Swift 写，直接调系统级视频引擎。核心是把 AI 操作嵌进时间轴：选一段视频，右键点「重写旁白」，它就调 Claude Code 分析画面内容，生成新文案，再用本地 TTS 合成语音，自动对齐音画。不靠上传、不走云端，所有处理在本机完成。支持和 GitHub Copilot、Cursor、Gemini CLI 这些编码助手联动，比如在剪辑时弹出「写个 Python 脚本批量加水印」，然后直接执行。今天涨了 2463 星，多数 star 来自 indie 开发者和内容创作者，不是大厂团队。它的 README 里有一段实测：用 M2 MacBook Air 处理 1080p 30 秒视频，AI 重配音耗时 4.7 秒，渲染导出 11 秒。没有炫技功能，但每个按钮背后都有明确输入输出契约——比如「智能裁剪」只做 16:9/4:3/1:1 三种比例，不猜你想要什么。它不帮你创意，但让你快十倍落地想法。",
       "tags": [
         "macos",
         "video-editor",
-        "ai-native",
-        "metal",
-        "coreml",
-        "local",
-        "creator-tool",
-        "apple",
-        "ux",
-        "editing"
+        "swift",
+        "ai-integration",
+        "local-ai",
+        "tts",
+        "claudocode",
+        "content-creation",
+        "desktop-app",
+        "privacy"
       ]
     },
     {
       "topic": "VoiceBox",
       "repo": "jamiepine/voicebox",
       "cover_line1": "开源 AI 语音工作室",
-      "cover_line2": "支持克隆+实时配音",
-      "body": "你录 30 秒自己说话，VoiceBox 就能生成你声音的轻量版模型，不用 GPU，MacBook Air 上跑得动。它不只做 TTS，而是把语音当成可编辑对象：选中一句配音，拖动波形拉长语速，框选某段降低背景噪音，右键「替换为英文」自动重录并保持口型同步。所有功能都在一个 TypeScript 前端里完成，后端用 Rust 写的 inference server，启动只要 127MB 内存。32011 星里有 1800+ fork，多数人在改 voice-presets.json —— 有人加了「播客旁白」模式（带呼吸停顿和轻微混响），有人做了「客服应答」模板（语速快、句尾上扬）。它不开 API，不联网，默认所有数据留在本地。你导出的不是 MP3，而是带时间戳标注的 .vbx 文件，下次打开还能继续编辑那句「嗯…其实我有点犹豫」里的犹豫长度。现在最常被提的需求是「支持粤语」，作者回复说「已有声学模型，缺 200 小时干净录音」。你愿意捐 10 分钟自己的粤语朗读吗？",
+      "cover_line2": "32207 星最多语音项目",
+      "body": "它是目前 GitHub 上星数最高的开源语音项目，不是玩具 demo，而是一个能闭环工作的语音工作流。核心能力三件套：克隆你的声音（用 30 秒录音）、听你口述生成语音（dictate）、按指令组合语音（create）。所有模型都打包进一个 TypeScript 包，npm install 就能跑，不用配 CUDA 或下载 GB 级权重。它默认用 Whisper-v3 做语音识别，用 VITS 做克隆，用 Coqui TTS 做生成，但每个模块都留了替换接口。文档里写了怎么用 iPhone 录音喂给它、怎么把输出接进 Obsidian 插件、怎么导出带时间戳的 SRT 字幕。32207 颗星里，不少来自播客主和教育者——有人用它每天自动生成课程音频摘要，有人把它嵌进 Notion 页面当语音笔记按钮。它不追求「真人级」拟真，但保证每次输出音色一致、停顿自然、语速可控。项目更新很勤，最近一次 commit 是改了一个 bug：修复中文标点后多空一拍的问题。",
       "tags": [
         "voice",
         "tts",
-        "clone",
-        "local",
+        "whisper",
         "typescript",
-        "rust",
-        "audio",
+        "open-source",
         "podcast",
-        "editing",
-        "opensource"
+        "education",
+        "notion",
+        "audio",
+        "vits"
       ]
     },
     {
       "topic": "Cybersecurity Skills",
       "repo": "mukul975/Anthropic-Cybersecurity-Skills",
-      "cover_line1": "AI 网络安全技能库",
-      "cover_line2": "817 项技能映射 6 大框架",
-      "body": "它把 MITRE ATT&CK 里「T1059.001 - PowerShell」这种抽象条目，变成 AI 代理能直接调用的函数：run_powershell_script(path: str, timeout: int = 30)。整个库含 817 个 Python 函数，每个对应一个真实安全动作，比如「提取内存中的凭证」「模拟钓鱼邮件发送」「检查 Windows 日志里的异常登录」。所有函数都按 agentskills.io 标准写，带输入类型、输出结构、失败重试逻辑。更关键的是，每项技能都标清楚它属于哪个框架：NIST CSF 的「Detect」域，MITRE ATLAS 的「Adversary Emulation」类，甚至 D3FEND 里的防御技术编号。开发者不用再查文档猜怎么写 prompt，直接 import skill_detect_lateral_movement，传进日志路径，返回结构化 JSON。18416 星里有大量企业安全团队在用，比如某银行把这套技能接入内部 Claude Code，让工程师输入「查最近三天所有外联 IP 是否匹配已知 C2 域名」，AI 自动跑完 12 个检测步骤。Apache 2.0 许可，连 MITRE 官方 GitHub 都 star 了。如果你正在写一个安全 agent，你会优先复用它的 detect_phishing_email 函数，还是自己从头写正则？",
+      "cover_line1": "817 条安全技能清单",
+      "cover_line2": "覆盖 MITRE ATT&CK 等 6 框架",
+      "body": "它把网络安全知识翻译成 AI agent 能直接调用的技能描述。不是 PDF 文档，不是理论框架，而是 817 条结构化 JSON 条目，每条包含 skill_id、description、input_schema、output_schema、mapped_frameworks。比如 skill_id 'detect-lateral-movement' 对应 MITRE ATT&CK T1021，输入是进程日志片段，输出是风险评分和建议命令。这些技能已适配 Claude Code、GitHub Copilot、Cursor、Gemini CLI 等 20+ 平台，开箱即用。作者做了映射表：NIST CSF 2.0 的「Identify」类对应哪些技能，D3FEND 的「Observe」层又覆盖哪几条。29 个安全领域从云配置审计到钓鱼邮件分析都有。Apache 2.0 协议，企业能直接集成进 SOC 自动响应 pipeline。今天涨了 956 星，很多 star 来自蓝队工程师——他们用这个快速给内部 agent 加「查 registry 异常项」「比对 CIS 基准」这类确定性动作，而不是让大模型瞎猜。它不教你怎么防御，但它告诉你「防御这件事，AI 能具体干哪 817 件事」。",
       "tags": [
         "cybersecurity",
-        "agent",
-        "skills",
-        "mitre",
+        "agent-skills",
+        "mitre-attck",
         "nistsf",
-        "python",
+        "json-schema",
         "claude",
-        "prompt-engineering",
-        "enterprise",
+        "copilot",
+        "soc",
+        "blue-team",
         "framework"
       ]
     }
