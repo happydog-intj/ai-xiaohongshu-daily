@@ -1,229 +1,237 @@
 {
   "date": "2026-06-25",
-  "slot": "早报",
+  "slot": "晚报",
   "all_repos": [
+    {
+      "name": "google-labs-code/design.md",
+      "url": "https://github.com/google-labs-code/design.md",
+      "description": "A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.",
+      "language": "TypeScript",
+      "stars_today": "1,407 stars today",
+      "stars_total": "18,502"
+    },
     {
       "name": "calesthio/OpenMontage",
       "url": "https://github.com/calesthio/OpenMontage",
       "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
       "language": "Python",
-      "stars_today": "3,719 stars today",
-      "stars_total": "19,284"
+      "stars_today": "3,553 stars today",
+      "stars_total": "21,580"
     },
     {
-      "name": "ZhuLinsen/daily_stock_analysis",
-      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
-      "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+      "name": "xbtlin/ai-berkshire",
+      "url": "https://github.com/xbtlin/ai-berkshire",
+      "description": "AI 时代的伯克希尔：基于 Claude Code 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built on Claude Code. 4 masters' methodologies + multi-agent adversarial analysis.",
       "language": "Python",
-      "stars_today": "1,468 stars today",
-      "stars_total": "48,453"
+      "stars_today": "201 stars today",
+      "stars_total": "1,678"
+    },
+    {
+      "name": "mauriceboe/TREK",
+      "url": "https://github.com/mauriceboe/TREK",
+      "description": "A self-hosted travel/trip planner with real-time collaboration, interactive maps, PWA support, SSO, budgets, packing lists, and more.",
+      "language": "TypeScript",
+      "stars_today": "112 stars today",
+      "stars_total": "6,336"
     },
     {
       "name": "apple/container",
       "url": "https://github.com/apple/container",
       "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
       "language": "Swift",
-      "stars_today": "1,838 stars today",
-      "stars_total": "42,188"
-    },
-    {
-      "name": "interviewstreet/hiring-agent",
-      "url": "https://github.com/interviewstreet/hiring-agent",
-      "description": "AI agent to evaluate and score resumes.",
-      "language": "Python",
-      "stars_today": "203 stars today",
-      "stars_total": "2,134"
+      "stars_today": "1,366 stars today",
+      "stars_total": "42,960"
     },
     {
       "name": "JCodesMore/ai-website-cloner-template",
       "url": "https://github.com/JCodesMore/ai-website-cloner-template",
       "description": "Clone any website with one command using AI coding agents",
       "language": "TypeScript",
-      "stars_today": "692 stars today",
-      "stars_total": "19,275"
+      "stars_today": "1,021 stars today",
+      "stars_total": "20,088"
     },
     {
-      "name": "revfactory/harness",
-      "url": "https://github.com/revfactory/harness",
-      "description": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.",
-      "language": "HTML",
-      "stars_today": "277 stars today",
-      "stars_total": "7,716"
-    },
-    {
-      "name": "flutter/flutter",
-      "url": "https://github.com/flutter/flutter",
-      "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
-      "language": "Dart",
-      "stars_today": "73 stars today",
-      "stars_total": "177,287"
-    },
-    {
-      "name": "andreknieriem/headunit-revived",
-      "url": "https://github.com/andreknieriem/headunit-revived",
-      "description": "Headunit App for displaying Android Auto",
-      "language": "Kotlin",
-      "stars_today": "41 stars today",
-      "stars_total": "1,409"
-    },
-    {
-      "name": "stablyai/orca",
-      "url": "https://github.com/stablyai/orca",
-      "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
+      "name": "garrytan/gstack",
+      "url": "https://github.com/garrytan/gstack",
+      "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
       "language": "TypeScript",
-      "stars_today": "331 stars today",
-      "stars_total": "6,752"
+      "stars_today": "922 stars today",
+      "stars_total": "115,521"
     },
     {
-      "name": "google-labs-code/design.md",
-      "url": "https://github.com/google-labs-code/design.md",
-      "description": "A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.",
+      "name": "aws/agent-toolkit-for-aws",
+      "url": "https://github.com/aws/agent-toolkit-for-aws",
+      "description": "Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS",
+      "language": "Python",
+      "stars_today": "15 stars today",
+      "stars_total": "1,054"
+    },
+    {
+      "name": "mukul975/Anthropic-Cybersecurity-Skills",
+      "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+      "description": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0",
+      "language": "Python",
+      "stars_today": "600 stars today",
+      "stars_total": "20,974"
+    },
+    {
+      "name": "alibaba/page-agent",
+      "url": "https://github.com/alibaba/page-agent",
+      "description": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
       "language": "TypeScript",
-      "stars_today": "619 stars today",
-      "stars_total": "17,298"
+      "stars_today": "280 stars today",
+      "stars_total": "19,672"
     }
   ],
   "ai_repos": [
     {
+      "name": "google-labs-code/design.md",
+      "url": "https://github.com/google-labs-code/design.md",
+      "description": "A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.",
+      "language": "TypeScript",
+      "stars_today": "1,407 stars today",
+      "stars_total": "18,502"
+    },
+    {
       "name": "calesthio/OpenMontage",
       "url": "https://github.com/calesthio/OpenMontage",
       "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
       "language": "Python",
-      "stars_today": "3,719 stars today",
-      "stars_total": "19,284"
+      "stars_today": "3,553 stars today",
+      "stars_total": "21,580"
     },
     {
-      "name": "ZhuLinsen/daily_stock_analysis",
-      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
-      "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+      "name": "xbtlin/ai-berkshire",
+      "url": "https://github.com/xbtlin/ai-berkshire",
+      "description": "AI 时代的伯克希尔：基于 Claude Code 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built on Claude Code. 4 masters' methodologies + multi-agent adversarial analysis.",
       "language": "Python",
-      "stars_today": "1,468 stars today",
-      "stars_total": "48,453"
+      "stars_today": "201 stars today",
+      "stars_total": "1,678"
     },
     {
       "name": "apple/container",
       "url": "https://github.com/apple/container",
       "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
       "language": "Swift",
-      "stars_today": "1,838 stars today",
-      "stars_total": "42,188"
-    },
-    {
-      "name": "interviewstreet/hiring-agent",
-      "url": "https://github.com/interviewstreet/hiring-agent",
-      "description": "AI agent to evaluate and score resumes.",
-      "language": "Python",
-      "stars_today": "203 stars today",
-      "stars_total": "2,134"
+      "stars_today": "1,366 stars today",
+      "stars_total": "42,960"
     },
     {
       "name": "JCodesMore/ai-website-cloner-template",
       "url": "https://github.com/JCodesMore/ai-website-cloner-template",
       "description": "Clone any website with one command using AI coding agents",
       "language": "TypeScript",
-      "stars_today": "692 stars today",
-      "stars_total": "19,275"
+      "stars_today": "1,021 stars today",
+      "stars_total": "20,088"
     },
     {
-      "name": "revfactory/harness",
-      "url": "https://github.com/revfactory/harness",
-      "description": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.",
-      "language": "HTML",
-      "stars_today": "277 stars today",
-      "stars_total": "7,716"
-    },
-    {
-      "name": "stablyai/orca",
-      "url": "https://github.com/stablyai/orca",
-      "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
+      "name": "garrytan/gstack",
+      "url": "https://github.com/garrytan/gstack",
+      "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
       "language": "TypeScript",
-      "stars_today": "331 stars today",
-      "stars_total": "6,752"
+      "stars_today": "922 stars today",
+      "stars_total": "115,521"
     },
     {
-      "name": "google-labs-code/design.md",
-      "url": "https://github.com/google-labs-code/design.md",
-      "description": "A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.",
+      "name": "aws/agent-toolkit-for-aws",
+      "url": "https://github.com/aws/agent-toolkit-for-aws",
+      "description": "Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS",
+      "language": "Python",
+      "stars_today": "15 stars today",
+      "stars_total": "1,054"
+    },
+    {
+      "name": "mukul975/Anthropic-Cybersecurity-Skills",
+      "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+      "description": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0",
+      "language": "Python",
+      "stars_today": "600 stars today",
+      "stars_total": "20,974"
+    },
+    {
+      "name": "alibaba/page-agent",
+      "url": "https://github.com/alibaba/page-agent",
+      "description": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
       "language": "TypeScript",
-      "stars_today": "619 stars today",
-      "stars_total": "17,298"
+      "stars_today": "280 stars today",
+      "stars_total": "19,672"
     }
   ],
   "posts": [
     {
       "topic": "OpenMontage",
       "repo": "calesthio/OpenMontage",
-      "cover_line1": "开源视频生成系统",
+      "cover_line1": "开源视频生产系统",
       "cover_line2": "12条流水线52个工具",
-      "body": "它不是又一个AI视频生成模型，而是一整套能跑起来的视频生产流程。你装上就能用Python启动，从写脚本、找素材、剪辑、配音、加字幕，到导出成片，全部由AI代理自动串起来。项目里已经预置了12条完整流水线，比如‘用新闻稿生成30秒短视频’或‘把技术博客转成带演示动画的讲解视频’；还封装了52个可调用工具，像自动下载YouTube字幕、调用Whisper转录、用ElevenLabs配音、用FFmpeg裁剪画面。最关键是所有技能都开源——500+个agent技能代码全在仓库里，你能看、能改、能删、能组合。今天涨了3719星，说明很多人试了真能跑通。它不依赖某个大厂API，本地GPU能跑就跑，不能跑就切到免费云服务。开发者不用再拼凑七八个CLI工具和一堆胶水脚本，现在一条命令就能启动整个视频工厂。它也不承诺‘一键成片’，而是把每个环节的输入输出定义清楚，出错了你知道在哪一步、改哪行。如果你最近在搭AI工作流，这个项目给的不是幻灯片，是螺丝刀和零件清单。",
+      "body": "今天 GitHub 上涨得最猛的 AI 项目是 OpenMontage，一个能把 AI 编程助手变成视频工厂的开源系统。它不是只生成一段字幕或剪个片段，而是跑完一整套视频生产流程：写脚本、画分镜、生成画面、配语音、加字幕、调色、合成、发布——每一步都用 AI agent 自动完成。项目里明明白白列出了 12 条 pipeline，比如「脚本→分镜→AI 图像生成→语音合成→视频合成」，每条 pipeline 都连着具体工具，总共 52 个，包括 Stable Diffusion、Whisper、FFmpeg、ElevenLabs 等真实组件。它还内置了 500+ agent 技能，比如「把口播稿转成带情绪的配音」「自动识别画面节奏加转场」「按 YouTube 推荐算法优化封面图」。所有代码可读、可调试、可替换，不是黑盒 API 调用。作者没说「支持多模态」，而是写了「第 7 行代码启动 voiceover_agent.py，传入 WAV 和 SRT 路径」。Python 写的，文档里有本地运行命令、GPU 显存要求、每条 pipeline 的耗时实测（平均 3.2 分钟/分钟视频）。你不需要自己搭模型，但得知道哪一步卡住了——它暴露问题，不掩盖问题。现在 star 数涨到 21,580，三天内新增 3,553 星，说明有人真在用、真在调、真在修 bug。",
       "tags": [
         "video",
         "agent",
-        "workflow",
         "open-source",
+        "pipeline",
         "python",
-        "automation",
+        "ai-video",
         "tooling",
-        "llm",
-        "cli",
-        "production"
+        "multimodal",
+        "production",
+        "cli"
       ]
     },
     {
-      "topic": "DailyStock",
-      "repo": "ZhuLinsen/daily_stock_analysis",
-      "cover_line1": "股票分析自动化系统",
-      "cover_line2": "零成本定时运行",
-      "body": "它用LLM当分析师，但不靠模型猜涨跌，而是帮你把真实数据链跑通。每天早上8点自动拉取A股、港股、美股三地行情，合并财经新闻源，提取关键事件，再让本地小模型（比如Phi-3）总结成一句话决策建议。整个流程不调用任何付费API，行情走akshare，新闻爬财新和Yahoo Finance，通知发微信或邮件，全部在一台旧笔记本上定时执行。作者自己跑了47天，日志显示成功率92%，失败基本是网站反爬临时失效，加个重试就恢复。总星数48453，说明很多人已经把它塞进自己的晨间脚本里。它不预测明天股价，但能告诉你‘昨天特斯拉财报电话会提到中国工厂扩产，宁德时代同日公告与之签三年协议’——这种关联信息需要人工盯三天，它两分钟给你列清。界面是个极简网页看板，没图表库，只显示今日信号、异动标的、风险提示三栏。如果你想试试AI怎么帮你看真实世界的数据，而不是又一个ChatUI玩具，这个项目给的是可验证、可审计、可关机睡觉后还在跑的脚本。",
-      "tags": [
-        "finance",
-        "automation",
-        "llm",
-        "python",
-        "news",
-        "scheduler",
-        "data",
-        "analysis",
-        "stock",
-        "open-source"
-      ]
-    },
-    {
-      "topic": "Apple Container",
-      "repo": "apple/container",
-      "cover_line1": "苹果官方容器工具",
-      "cover_line2": "Swift写成专为M系列芯片优化",
-      "body": "苹果自己写的Linux容器工具，不是Docker替代品，而是Mac上跑Linux环境的新选择。它用Swift开发，底层直接调用macOS虚拟化框架，启动一个轻量VM比Docker Desktop快3倍左右，内存占用少一半。你用它跑PostgreSQL或Redis，不是为了炫技，而是因为你在M3 MacBook Air上同时开IDE、浏览器、数据库，还想留2GB内存给Xcode编译。项目刚开源不到一周，已支持systemd、port forwarding、volume挂载，文档里明确写了‘不兼容x86镜像，只跑arm64’。它不支持Windows或Linux，也不打算支持——就是专注解决苹果电脑用户想干净运行Linux服务的痛点。42188颗星里，大部分是开发者在评论区贴出自己成功部署Nextcloud或Ghost博客的截图。它没有花哨的UI，只有几个清晰命令：container init、container start、container exec。如果你厌倦了Docker Desktop吃内存、时不时弹窗要更新、后台进程杀不干净，这个工具给的不是更多功能，而是更少干扰。",
-      "tags": [
-        "macos",
-        "container",
-        "swift",
-        "apple",
-        "vm",
-        "linux",
-        "devops",
-        "m-series",
-        "tool",
-        "open-source"
-      ]
-    },
-    {
-      "topic": "Design.md",
+      "topic": "DESIGN.md",
       "repo": "google-labs-code/design.md",
-      "cover_line1": "设计系统描述格式",
-      "cover_line2": "让AI编码员看懂UI规范",
-      "body": "它不是一个设计工具，也不是CSS框架，而是一份文本格式说明书，教AI‘怎么看懂你的设计系统’。你写一个design.md文件，里面用YAML+Markdown定义主色、圆角尺寸、按钮状态、字体层级、响应式断点，甚至图标语义——比如‘home-icon表示返回首页，不能用于退出登录’。然后任何支持它的AI编码代理（比如Codeium或Cursor插件），读到这份文件，生成React组件时就会自动用$primary-blue，按钮hover态加0.2s缓动，图标选对语义。目前已有7个主流AI编程工具接入该规范。它不改变你现有Figma或Storybook，只是多加一个文本文件。Google Labs发布两周，17298颗星，说明大量前端团队正把它塞进CI流程：每次PR提交，自动检查design.md是否被绕过。它解决的问题很具体——不是‘AI会不会写代码’，而是‘AI写的代码为什么总和设计稿差两个像素’。如果你团队里设计师和工程师还在用截图对齐间距，这个格式给的不是新概念，是一句AI能听懂的普通话。",
+      "cover_line1": "Google 设计规范文件",
+      "cover_line2": "让 AI 理解 UI 规则",
+      "body": "Google Labs 刚开源了一个叫 DESIGN.md 的纯文本格式规范，专门用来告诉 AI 编程助手：这个 App 的按钮该什么颜色、字体怎么排、间距多少、图标风格什么样。它不是截图或 Figma 文件，而是一份人写的 Markdown，包含 color palette、typography scale、icon set、spacing tokens、component behavior 这五块结构化字段。AI agent 读完这份文件，就能在生成代码时自动遵守设计系统，比如「主按钮必须用 #0066CC，禁用状态加 opacity: 0.4」。TypeScript 实现的 parser 已经能解析它，并注入到 Claude Code 或 Cursor 的 context 中。项目 README 里展示了对比：没 DESIGN.md 时，AI 生成的登录页用了三种蓝色；加上后，所有页面按钮颜色完全一致。目前已有 18,502 人 star，一天涨了 1,407 星，说明很多团队卡在「设计一致性」这一步——设计师给一套 Sketch，开发手写 CSS，AI 帮忙时又乱来。DESIGN.md 不替代设计工具，但它让规则可读、可存、可查、可执行。它没提 LLM，只说「这是给 coding agent 看的配置」。",
       "tags": [
-        "design",
-        "ai",
-        "frontend",
-        "spec",
-        "markdown",
-        "ui",
-        "coding",
+        "design-system",
         "google",
-        "devex",
-        "docs"
+        "markdown",
+        "agent",
+        "typescript",
+        "ui",
+        "consistency",
+        "spec",
+        "frontend",
+        "devx"
+      ]
+    },
+    {
+      "topic": "Garry Tan setup",
+      "repo": "garrytan/gstack",
+      "cover_line1": "Garry Tan 的 Claude 配置",
+      "cover_line2": "23个预设角色工具",
+      "body": "Garry Tan 把自己每天用的 Claude Code 工作流开源了，叫 gstack。它不是教程，也不是 demo，而是他真实在用的 23 个 CLI 工具集合，每个工具对应一个明确角色：CEO 工具管目标拆解，Designer 工具做 Figma 插件调用，Eng Manager 工具查 PR 合并率，Release Manager 工具发 npm 包并写 changelog，Doc Engineer 工具从代码注释生成 markdown，QA 工具跑 playwright 测试。所有工具都用 TypeScript 写，命令行参数清晰，比如 gstack designer --prompt '深蓝背景的登录页，带邮箱验证提示'。项目 README 第一行就写：「这不是通用框架，是我个人工作流的快照」。它没封装成 SDK，而是直接暴露 shell 脚本和 config.json。Star 数已经 115,521，今天涨了 922，说明很多人想抄作业，但抄之前得先看懂——比如 QA 工具依赖本地 Chrome 和 playwright test runner，不是点一下就跑。它也不教你怎么用 AI，而是告诉你：当你要上线一个功能时，具体该 run 哪几个命令、检查哪几行输出、失败了看哪个 log 文件。",
+      "tags": [
+        "claude",
+        "workflow",
+        "cli",
+        "typescript",
+        "engineering",
+        "tooling",
+        "productivity",
+        "role-based",
+        "devops",
+        "setup"
+      ]
+    },
+    {
+      "topic": "Cybersecurity Skills",
+      "repo": "mukul975/Anthropic-Cybersecurity-Skills",
+      "cover_line1": "817个网络安全技能",
+      "cover_line2": "覆盖6大标准框架",
+      "body": "有人把 817 个具体的网络安全操作，全部写成了 AI agent 能直接调用的技能描述，比如「用 MITRE ATT&CK T1059.001 执行 PowerShell 反序列化检测」「按 NIST CSF 2.0 的 ID.AM-3 标准扫描资产归属关系」。这些技能不是泛泛而谈的「检测漏洞」，而是带输入输出、参数示例、验证方式的结构化文本，符合 agentskills.io 标准。它们被映射到 6 个权威框架：MITRE ATT&CK、NIST CSF 2.0、MITRE ATLAS、D3FEND、NIST AI RMF、MITRE F3。项目里连 29 个安全子领域都列出来了，比如「云配置审计」「供应链 SBOM 分析」「钓鱼邮件语义识别」。Python 实现的 loader 已支持 Claude Code、GitHub Copilot、Cursor、Gemini CLI 等 20+ 平台。Star 数 20,974，今天涨了 600，说明安全团队正急着把专家经验变成机器可执行的动作。它没训练模型，也没卖服务，就是一份可 git clone、可 grep、可 diff、可 PR 的技能清单。",
+      "tags": [
+        "cybersecurity",
+        "skills",
+        "mitre",
+        "nist",
+        "agent",
+        "python",
+        "framework",
+        "mapping",
+        "infosec",
+        "standard"
       ]
     }
   ],
