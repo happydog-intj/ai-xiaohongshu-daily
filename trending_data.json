@@ -1,86 +1,86 @@
 {
-  "date": "2026-06-25",
-  "slot": "晚报",
+  "date": "2026-06-26",
+  "slot": "早报",
   "all_repos": [
     {
       "name": "google-labs-code/design.md",
       "url": "https://github.com/google-labs-code/design.md",
       "description": "A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.",
       "language": "TypeScript",
-      "stars_today": "1,407 stars today",
-      "stars_total": "18,502"
+      "stars_today": "1,475 stars today",
+      "stars_total": "19,138"
     },
     {
       "name": "calesthio/OpenMontage",
       "url": "https://github.com/calesthio/OpenMontage",
       "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
       "language": "Python",
-      "stars_today": "3,553 stars today",
-      "stars_total": "21,580"
+      "stars_today": "3,434 stars today",
+      "stars_total": "22,021"
     },
     {
       "name": "xbtlin/ai-berkshire",
       "url": "https://github.com/xbtlin/ai-berkshire",
       "description": "AI 时代的伯克希尔：基于 Claude Code 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built on Claude Code. 4 masters' methodologies + multi-agent adversarial analysis.",
       "language": "Python",
-      "stars_today": "201 stars today",
-      "stars_total": "1,678"
+      "stars_today": "309 stars today",
+      "stars_total": "1,831"
     },
     {
       "name": "mauriceboe/TREK",
       "url": "https://github.com/mauriceboe/TREK",
       "description": "A self-hosted travel/trip planner with real-time collaboration, interactive maps, PWA support, SSO, budgets, packing lists, and more.",
       "language": "TypeScript",
-      "stars_today": "112 stars today",
-      "stars_total": "6,336"
+      "stars_today": "241 stars today",
+      "stars_total": "6,623"
     },
     {
       "name": "apple/container",
       "url": "https://github.com/apple/container",
       "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
       "language": "Swift",
-      "stars_today": "1,366 stars today",
-      "stars_total": "42,960"
+      "stars_today": "1,351 stars today",
+      "stars_total": "43,192"
     },
     {
       "name": "JCodesMore/ai-website-cloner-template",
       "url": "https://github.com/JCodesMore/ai-website-cloner-template",
       "description": "Clone any website with one command using AI coding agents",
       "language": "TypeScript",
-      "stars_today": "1,021 stars today",
-      "stars_total": "20,088"
+      "stars_today": "1,024 stars today",
+      "stars_total": "20,398"
+    },
+    {
+      "name": "every-app/open-seo",
+      "url": "https://github.com/every-app/open-seo",
+      "description": "Open source alternative to Semrush and Ahrefs",
+      "language": "TypeScript",
+      "stars_today": "57 stars today",
+      "stars_total": "2,502"
     },
     {
       "name": "garrytan/gstack",
       "url": "https://github.com/garrytan/gstack",
       "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
       "language": "TypeScript",
-      "stars_today": "922 stars today",
-      "stars_total": "115,521"
+      "stars_today": "767 stars today",
+      "stars_total": "115,776"
     },
     {
       "name": "aws/agent-toolkit-for-aws",
       "url": "https://github.com/aws/agent-toolkit-for-aws",
       "description": "Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS",
       "language": "Python",
-      "stars_today": "15 stars today",
-      "stars_total": "1,054"
+      "stars_today": "47 stars today",
+      "stars_total": "1,126"
     },
     {
       "name": "mukul975/Anthropic-Cybersecurity-Skills",
       "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
       "description": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0",
       "language": "Python",
-      "stars_today": "600 stars today",
-      "stars_total": "20,974"
-    },
-    {
-      "name": "alibaba/page-agent",
-      "url": "https://github.com/alibaba/page-agent",
-      "description": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
-      "language": "TypeScript",
-      "stars_today": "280 stars today",
-      "stars_total": "19,672"
+      "stars_today": "571 stars today",
+      "stars_total": "21,210"
     }
   ],
   "ai_repos": [
@@ -89,72 +89,64 @@
       "url": "https://github.com/google-labs-code/design.md",
       "description": "A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.",
       "language": "TypeScript",
-      "stars_today": "1,407 stars today",
-      "stars_total": "18,502"
+      "stars_today": "1,475 stars today",
+      "stars_total": "19,138"
     },
     {
       "name": "calesthio/OpenMontage",
       "url": "https://github.com/calesthio/OpenMontage",
       "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
       "language": "Python",
-      "stars_today": "3,553 stars today",
-      "stars_total": "21,580"
+      "stars_today": "3,434 stars today",
+      "stars_total": "22,021"
     },
     {
       "name": "xbtlin/ai-berkshire",
       "url": "https://github.com/xbtlin/ai-berkshire",
       "description": "AI 时代的伯克希尔：基于 Claude Code 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built on Claude Code. 4 masters' methodologies + multi-agent adversarial analysis.",
       "language": "Python",
-      "stars_today": "201 stars today",
-      "stars_total": "1,678"
+      "stars_today": "309 stars today",
+      "stars_total": "1,831"
     },
     {
       "name": "apple/container",
       "url": "https://github.com/apple/container",
       "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
       "language": "Swift",
-      "stars_today": "1,366 stars today",
-      "stars_total": "42,960"
+      "stars_today": "1,351 stars today",
+      "stars_total": "43,192"
     },
     {
       "name": "JCodesMore/ai-website-cloner-template",
       "url": "https://github.com/JCodesMore/ai-website-cloner-template",
       "description": "Clone any website with one command using AI coding agents",
       "language": "TypeScript",
-      "stars_today": "1,021 stars today",
-      "stars_total": "20,088"
+      "stars_today": "1,024 stars today",
+      "stars_total": "20,398"
     },
     {
       "name": "garrytan/gstack",
       "url": "https://github.com/garrytan/gstack",
       "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
       "language": "TypeScript",
-      "stars_today": "922 stars today",
-      "stars_total": "115,521"
+      "stars_today": "767 stars today",
+      "stars_total": "115,776"
     },
     {
       "name": "aws/agent-toolkit-for-aws",
       "url": "https://github.com/aws/agent-toolkit-for-aws",
       "description": "Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS",
       "language": "Python",
-      "stars_today": "15 stars today",
-      "stars_total": "1,054"
+      "stars_today": "47 stars today",
+      "stars_total": "1,126"
     },
     {
       "name": "mukul975/Anthropic-Cybersecurity-Skills",
       "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
       "description": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0",
       "language": "Python",
-      "stars_today": "600 stars today",
-      "stars_total": "20,974"
-    },
-    {
-      "name": "alibaba/page-agent",
-      "url": "https://github.com/alibaba/page-agent",
-      "description": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
-      "language": "TypeScript",
-      "stars_today": "280 stars today",
-      "stars_total": "19,672"
+      "stars_today": "571 stars today",
+      "stars_total": "21,210"
     }
   ],
   "posts": [
@@ -163,83 +155,83 @@
       "repo": "calesthio/OpenMontage",
       "cover_line1": "开源视频生产系统",
       "cover_line2": "12条流水线52个工具",
-      "body": "今天 GitHub 上涨得最猛的 AI 项目是 OpenMontage，一个能把 AI 编程助手变成视频工厂的开源系统。它不是只生成一段字幕或剪个片段，而是跑完一整套视频生产流程：写脚本、画分镜、生成画面、配语音、加字幕、调色、合成、发布——每一步都用 AI agent 自动完成。项目里明明白白列出了 12 条 pipeline，比如「脚本→分镜→AI 图像生成→语音合成→视频合成」，每条 pipeline 都连着具体工具，总共 52 个，包括 Stable Diffusion、Whisper、FFmpeg、ElevenLabs 等真实组件。它还内置了 500+ agent 技能，比如「把口播稿转成带情绪的配音」「自动识别画面节奏加转场」「按 YouTube 推荐算法优化封面图」。所有代码可读、可调试、可替换，不是黑盒 API 调用。作者没说「支持多模态」，而是写了「第 7 行代码启动 voiceover_agent.py，传入 WAV 和 SRT 路径」。Python 写的，文档里有本地运行命令、GPU 显存要求、每条 pipeline 的耗时实测（平均 3.2 分钟/分钟视频）。你不需要自己搭模型，但得知道哪一步卡住了——它暴露问题，不掩盖问题。现在 star 数涨到 21,580，三天内新增 3,553 星，说明有人真在用、真在调、真在修 bug。",
+      "body": "今天 GitHub 上涨得最猛的 AI 项目是 OpenMontage，一个能把 AI 编程助手变成视频工厂的开源系统。它不是只生成一段视频，而是完整复刻了专业视频制作流程：从脚本生成、分镜设计、素材检索、配音合成，到剪辑、调色、字幕嵌入、多平台发布——全部用 AI 代理自动串起来。目前内置 12 条可组合的流水线，比如「播客转短视频」或「财报 PDF → 解说视频」，每个环节调用不同工具，共集成 52 个现成模块，比如用 Whisper 提语音，用 Stable Video Diffusion 做动态插图，用 FFmpeg 做最终封装。开发者不用重写底层，只要改 YAML 配置就能切换工作流。它跑在本地或服务器上，不依赖闭源 API，所有提示词和工具链都开源可审计。今天单日涨了 3434 星，说明很多人真在用它做实际内容产出，不是概念演示。项目 README 里有 7 个真实运行截图，包括自动生成带中英双语字幕的科技解读视频，帧率稳定，字幕时间轴对得准。它没宣称“替代剪辑师”，而是明确说目标是帮工程师、产品经理、教育者快速验证想法——比如市场同事下午提需求，晚上就能拿到测试视频。你最近有没有试过让 AI 帮你生成一段带解说的业务演示视频？",
       "tags": [
         "video",
         "agent",
         "open-source",
-        "pipeline",
         "python",
-        "ai-video",
-        "tooling",
+        "workflow",
+        "automation",
+        "content-creation",
+        "ai-tool",
         "multimodal",
-        "production",
-        "cli"
+        "production"
       ]
     },
     {
       "topic": "DESIGN.md",
       "repo": "google-labs-code/design.md",
       "cover_line1": "Google 设计规范文件",
-      "cover_line2": "让 AI 理解 UI 规则",
-      "body": "Google Labs 刚开源了一个叫 DESIGN.md 的纯文本格式规范，专门用来告诉 AI 编程助手：这个 App 的按钮该什么颜色、字体怎么排、间距多少、图标风格什么样。它不是截图或 Figma 文件，而是一份人写的 Markdown，包含 color palette、typography scale、icon set、spacing tokens、component behavior 这五块结构化字段。AI agent 读完这份文件，就能在生成代码时自动遵守设计系统，比如「主按钮必须用 #0066CC，禁用状态加 opacity: 0.4」。TypeScript 实现的 parser 已经能解析它，并注入到 Claude Code 或 Cursor 的 context 中。项目 README 里展示了对比：没 DESIGN.md 时，AI 生成的登录页用了三种蓝色；加上后，所有页面按钮颜色完全一致。目前已有 18,502 人 star，一天涨了 1,407 星，说明很多团队卡在「设计一致性」这一步——设计师给一套 Sketch，开发手写 CSS，AI 帮忙时又乱来。DESIGN.md 不替代设计工具，但它让规则可读、可存、可查、可执行。它没提 LLM，只说「这是给 coding agent 看的配置」。",
+      "cover_line2": "让 AI 理解品牌视觉",
+      "body": "Google Labs 推出一个叫 DESIGN.md 的纯文本格式规范，专门用来告诉 AI 编程代理：“这个产品的颜色、字体、图标、间距、动效规则是什么”。它不是设计师画的 Figma 文件，也不是开发写的 CSS 变量，而是一个结构化的 Markdown 文件，里面用 key-value 和嵌套列表定义主色板、按钮圆角、文字层级、响应式断点等。AI 代理读完这个文件，就能在写前端代码、生成 UI 组件、甚至修改现有页面时保持视觉一致。目前已有 19138 人 Star，说明很多团队卡在“设计意图传达给 AI”这一步。它不绑定任何框架，TypeScript 工具链里已支持解析，也有人把它接入 Cursor 和 GitHub Copilot。有意思的是，它强制要求每个设计决策附带一句话理由，比如「主按钮圆角设为 8px：因产品面向中老年用户，增大点击热区」。这倒逼团队把隐性共识显性化。它没做渲染器，也没做设计系统生成器，就专注解决一件事：让 AI 能像资深设计师一样记住并复用设计语言。你团队现在怎么把设计规范同步给 AI？是靠人工写 prompt，还是已有某种结构化文档？",
       "tags": [
         "design-system",
         "google",
         "markdown",
-        "agent",
-        "typescript",
-        "ui",
-        "consistency",
-        "spec",
+        "ai-agent",
         "frontend",
-        "devx"
+        "ui",
+        "spec",
+        "typescript",
+        "branding",
+        "docs"
       ]
     },
     {
-      "topic": "Garry Tan setup",
+      "topic": "Garry Tan 模板",
       "repo": "garrytan/gstack",
       "cover_line1": "Garry Tan 的 Claude 配置",
-      "cover_line2": "23个预设角色工具",
-      "body": "Garry Tan 把自己每天用的 Claude Code 工作流开源了，叫 gstack。它不是教程，也不是 demo，而是他真实在用的 23 个 CLI 工具集合，每个工具对应一个明确角色：CEO 工具管目标拆解，Designer 工具做 Figma 插件调用，Eng Manager 工具查 PR 合并率，Release Manager 工具发 npm 包并写 changelog，Doc Engineer 工具从代码注释生成 markdown，QA 工具跑 playwright 测试。所有工具都用 TypeScript 写，命令行参数清晰，比如 gstack designer --prompt '深蓝背景的登录页，带邮箱验证提示'。项目 README 第一行就写：「这不是通用框架，是我个人工作流的快照」。它没封装成 SDK，而是直接暴露 shell 脚本和 config.json。Star 数已经 115,521，今天涨了 922，说明很多人想抄作业，但抄之前得先看懂——比如 QA 工具依赖本地 Chrome 和 playwright test runner，不是点一下就跑。它也不教你怎么用 AI，而是告诉你：当你要上线一个功能时，具体该 run 哪几个命令、检查哪几行输出、失败了看哪个 log 文件。",
+      "cover_line2": "23 个预设角色工具",
+      "body": "Garry Tan 把自己每天用 Claude Code 写代码的工作流完整开源了，取名叫 gstack。它不是一个新模型，也不是一个 IDE 插件，而是一套 23 个高度定制的工具配置文件，每个工具对应一个明确角色：CEO 工具负责拆解需求优先级，Designer 工具输出 Figma 代码片段，Eng Manager 工具自动评估技术债，Release Manager 工具生成 changelog 并打 Git tag，Doc Engineer 工具把代码注释转成中文文档，QA 工具跑单元测试并报告覆盖率缺口。所有工具都用 TypeScript 实现，可直接在 Claude Code 或类似 Agent 平台里加载。它不追求通用，反而刻意“固执”：比如默认禁用联网搜索，强制所有代码生成必须带测试用例，所有 PR 描述必须引用需求文档编号。115776 人 Star 不是因为它多炫技，而是因为开发者发现——原来真的有人把“写好代码”这件事，拆成了 23 个可执行、可替换、可审计的小动作。它不教你怎么用 AI，而是展示一个人类工程师怎么把经验打包成机器能持续复用的规则。你日常写代码时，最想让 AI 自动替你做的三件事是什么？",
       "tags": [
         "claude",
-        "workflow",
-        "cli",
-        "typescript",
-        "engineering",
         "tooling",
+        "engineering",
+        "typescript",
+        "ai-workflow",
         "productivity",
-        "role-based",
+        "agent",
         "devops",
-        "setup"
+        "best-practice",
+        "startup"
       ]
     },
     {
-      "topic": "Cybersecurity Skills",
-      "repo": "mukul975/Anthropic-Cybersecurity-Skills",
-      "cover_line1": "817个网络安全技能",
-      "cover_line2": "覆盖6大标准框架",
-      "body": "有人把 817 个具体的网络安全操作，全部写成了 AI agent 能直接调用的技能描述，比如「用 MITRE ATT&CK T1059.001 执行 PowerShell 反序列化检测」「按 NIST CSF 2.0 的 ID.AM-3 标准扫描资产归属关系」。这些技能不是泛泛而谈的「检测漏洞」，而是带输入输出、参数示例、验证方式的结构化文本，符合 agentskills.io 标准。它们被映射到 6 个权威框架：MITRE ATT&CK、NIST CSF 2.0、MITRE ATLAS、D3FEND、NIST AI RMF、MITRE F3。项目里连 29 个安全子领域都列出来了，比如「云配置审计」「供应链 SBOM 分析」「钓鱼邮件语义识别」。Python 实现的 loader 已支持 Claude Code、GitHub Copilot、Cursor、Gemini CLI 等 20+ 平台。Star 数 20,974，今天涨了 600，说明安全团队正急着把专家经验变成机器可执行的动作。它没训练模型，也没卖服务，就是一份可 git clone、可 grep、可 diff、可 PR 的技能清单。",
+      "topic": "AI 网站克隆器",
+      "repo": "JCodesMore/ai-website-cloner-template",
+      "cover_line1": "AI 网站一键克隆模板",
+      "cover_line2": "输入网址生成完整代码",
+      "body": "这个叫 ai-website-cloner-template 的项目，让你输一个网址，它就自动爬取、分析、重建整个网站的前端代码。不是截图，不是静态快照，而是生成可运行的 HTML/CSS/JS，保留导航逻辑、表单交互、响应式布局，甚至带基础 SEO 标签。它用 AI 编程代理完成三步：先用 LLM 解析网页 DOM 结构和设计意图，再调用代码生成模型写组件，最后用 Playwright 自动验证渲染效果。今天涨了 1024 星，很多人拿它做原型验证、竞品分析或学习参考。比如输入一个 SaaS 登录页，它会输出带 Tailwind 类名的 React 组件，含表单校验和 loading 状态；输入一个博客主页，它能还原文章卡片网格、分页逻辑和暗色模式切换。所有代码都在本地跑，不传数据到云端。它不承诺 100% 还原，但明确标注哪些部分需要人工补全（比如第三方登录 SDK）。它的价值不在“全自动”，而在把过去要花半天手动抄的活，压缩到两分钟启动 + 十分钟微调。你上次手写一个完整网站前端，花了多久？",
       "tags": [
-        "cybersecurity",
-        "skills",
-        "mitre",
-        "nist",
-        "agent",
-        "python",
-        "framework",
-        "mapping",
-        "infosec",
-        "standard"
+        "web-dev",
+        "cloning",
+        "ai-coding",
+        "typescript",
+        "react",
+        "tailwind",
+        "frontend",
+        "prototype",
+        "learning",
+        "tool"
       ]
     }
   ],
   "image_paths": [
-    "assets/2026-06-25/trending/summary.png",
-    "assets/2026-06-25/trending/post1.png",
-    "assets/2026-06-25/trending/post2.png",
-    "assets/2026-06-25/trending/post3.png",
-    "assets/2026-06-25/trending/post4.png"
+    "assets/2026-06-26/trending/summary.png",
+    "assets/2026-06-26/trending/post1.png",
+    "assets/2026-06-26/trending/post2.png",
+    "assets/2026-06-26/trending/post3.png",
+    "assets/2026-06-26/trending/post4.png"
   ]
 }
