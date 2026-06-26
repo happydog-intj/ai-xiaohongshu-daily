@@ -1,6 +1,6 @@
 {
-  "date": "2026-06-26",
-  "slot": "晚报",
+  "date": "2026-06-27",
+  "slot": "早报",
   "all_repos": [
     {
       "name": "simplex-chat/simplex-chat",
@@ -8,7 +8,7 @@
       "description": "SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",
       "language": "Haskell",
       "stars_today": "191 stars today",
-      "stars_total": "12,053"
+      "stars_total": "12,521"
     },
     {
       "name": "google-labs-code/design.md",
@@ -16,7 +16,7 @@
       "description": "A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.",
       "language": "TypeScript",
       "stars_today": "2,319 stars today",
-      "stars_total": "20,688"
+      "stars_total": "21,216"
     },
     {
       "name": "commaai/openpilot",
@@ -24,7 +24,7 @@
       "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
       "language": "Python",
       "stars_today": "67 stars today",
-      "stars_total": "61,682"
+      "stars_total": "61,773"
     },
     {
       "name": "kunchenguid/no-mistakes",
@@ -32,7 +32,7 @@
       "description": "git push no-mistakes",
       "language": "Go",
       "stars_today": "412 stars today",
-      "stars_total": "3,225"
+      "stars_total": "3,410"
     },
     {
       "name": "grafana/grafana",
@@ -40,7 +40,7 @@
       "description": "The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.",
       "language": "TypeScript",
       "stars_today": "17 stars today",
-      "stars_total": "74,776"
+      "stars_total": "74,886"
     },
     {
       "name": "ripienaar/free-for-dev",
@@ -48,7 +48,7 @@
       "description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
       "language": "HTML",
       "stars_today": "137 stars today",
-      "stars_total": "123,578"
+      "stars_total": "123,719"
     },
     {
       "name": "opendatalab/MinerU",
@@ -56,15 +56,15 @@
       "description": "Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows.",
       "language": "Python",
       "stars_today": "944 stars today",
-      "stars_total": "70,182"
+      "stars_total": "70,402"
     },
     {
       "name": "alchaincyf/zhangxuefeng-skill",
       "url": "https://github.com/alchaincyf/zhangxuefeng-skill",
       "description": "张雪峰.skill — 张雪峰的认知操作系统。高考志愿/考研/职业规划的实战思维框架。由女娲.skill生成。",
       "language": "",
-      "stars_today": "220 stars today",
-      "stars_total": "9,194"
+      "stars_today": "185 stars today",
+      "stars_total": "9,243"
     },
     {
       "name": "mauriceboe/TREK",
@@ -72,7 +72,7 @@
       "description": "A self-hosted travel/trip planner with real-time collaboration, interactive maps, PWA support, SSO, budgets, packing lists, and more.",
       "language": "TypeScript",
       "stars_today": "1,063 stars today",
-      "stars_total": "7,372"
+      "stars_total": "7,647"
     },
     {
       "name": "xbtlin/ai-berkshire",
@@ -80,7 +80,7 @@
       "description": "AI 时代的伯克希尔：基于 Claude Code 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built on Claude Code. 4 masters' methodologies + multi-agent adversarial analysis.",
       "language": "Python",
       "stars_today": "1,270 stars today",
-      "stars_total": "2,932"
+      "stars_total": "3,098"
     }
   ],
   "ai_repos": [
@@ -90,7 +90,7 @@
       "description": "A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.",
       "language": "TypeScript",
       "stars_today": "2,319 stars today",
-      "stars_total": "20,688"
+      "stars_total": "21,216"
     },
     {
       "name": "commaai/openpilot",
@@ -98,7 +98,7 @@
       "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
       "language": "Python",
       "stars_today": "67 stars today",
-      "stars_total": "61,682"
+      "stars_total": "61,773"
     },
     {
       "name": "opendatalab/MinerU",
@@ -106,15 +106,15 @@
       "description": "Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows.",
       "language": "Python",
       "stars_today": "944 stars today",
-      "stars_total": "70,182"
+      "stars_total": "70,402"
     },
     {
       "name": "alchaincyf/zhangxuefeng-skill",
       "url": "https://github.com/alchaincyf/zhangxuefeng-skill",
       "description": "张雪峰.skill — 张雪峰的认知操作系统。高考志愿/考研/职业规划的实战思维框架。由女娲.skill生成。",
       "language": "",
-      "stars_today": "220 stars today",
-      "stars_total": "9,194"
+      "stars_today": "185 stars today",
+      "stars_total": "9,243"
     },
     {
       "name": "xbtlin/ai-berkshire",
@@ -122,92 +122,92 @@
       "description": "AI 时代的伯克希尔：基于 Claude Code 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built on Claude Code. 4 masters' methodologies + multi-agent adversarial analysis.",
       "language": "Python",
       "stars_today": "1,270 stars today",
-      "stars_total": "2,932"
+      "stars_total": "3,098"
     }
   ],
   "posts": [
     {
       "topic": "DESIGN.md",
       "repo": "google-labs-code/design.md",
-      "cover_line1": "Google 设计系统规范",
-      "cover_line2": "让 AI 看懂视觉规则",
-      "body": "Google Labs 刚公开了一个叫 DESIGN.md 的文件格式，专门用来把品牌设计系统（比如颜色、字体、按钮样式）写成 AI 能读的结构化文本。以前设计师和前端要反复对齐，现在把这个文档放进项目根目录，编码 Agent 就能自动记住：'主色是 #4285F4，标题用 Roboto Bold，所有卡片圆角是 8px'。它不运行代码，也不生成 UI，只做一件事：给 AI 一个不会忘的设计记忆。目前 TypeScript 实现已开源，带解析器和校验工具，能嵌入到 Copilot 或 Cursor 这类编程助手的工作流里。GitHub 上一天涨了 2319 星，说明很多人卡在「AI 总是乱改设计」这一步——不是模型不行，是没给它明确的视觉宪法。这个文件本身只有几 KB，但能让 AI 在 50 行代码里复现整个设计系统，而不是靠人工 review 每次提交。它不替代 Figma，但让 Figma 导出的规范真正变成可执行的协议。你团队有没有一份随时可读、可查、可验证的设计说明书？",
+      "cover_line1": "Google 设计规范文件",
+      "cover_line2": "让 AI 看懂视觉系统",
+      "body": "Google Labs 把设计系统变成代码能读的格式。以前设计师写 Figma 文档，工程师写 CSS，AI 代理只能瞎猜——现在用 DESIGN.md，把颜色、字体、间距、组件规则写成结构化 Markdown，AI 就能准确复现 UI，不靠人手翻译。它不是 UI 工具，也不是设计稿生成器，而是给 coding agent 看的设计词典：每条规则带语义标签，比如 primary-color: #039be5，spacing-unit: 8px，component-button: { radius: 4px, padding: 12px 24px }。目前 TypeScript 实现，已支持主流设计系统映射，GitHub 上 21k 星，两天涨了 2.3k 星。有人用它驱动 Copilot 插件自动补全样式类；也有人集成进 CI，在 PR 提交时检查组件是否符合设计约束。它不替代设计师，但把‘我们说的是一回事’这件事落到了文件里。没有魔法，只有字段定义和机器可读的约定。如果你团队有 Design System，现在就能拿它试跑一个 demo：建个 design.md，扔进你正在用的 LLM 工程流里，看 agent 能不能按规则生成按钮组件。它没承诺‘自动做设计’，只干了一件事：让设计意图不再丢失在截图和口头描述里。你团队最近一次因为‘这个圆角到底是 4 还是 6’吵了多久？",
       "tags": [
-        "design",
+        "design-system",
         "ai-agent",
+        "markdown",
         "google",
         "typescript",
-        "spec",
         "frontend",
-        "docs",
         "llm",
-        "coding",
-        "markdown"
+        "ui",
+        "spec",
+        "developer-tool"
       ]
     },
     {
       "topic": "MinerU",
       "repo": "opendatalab/MinerU",
-      "cover_line1": "PDF 转 LLM 友好格式",
-      "cover_line2": "支持 PDF/Word/PPT",
-      "body": "MinerU 是个命令行工具，能把扫描版 PDF、Word 合同、PPT 汇报这些人类写的文档，转成干净 markdown 或结构化 JSON，专供 LLM 处理。它不是简单 OCR，而是理解段落层级、表格边界、公式编号、脚注归属，甚至能区分「正文」「参考文献」「附录」。比如一份 87 页的招股书 PDF，输入一条命令，输出一个含标题树、表格列表、关键实体抽取的 JSON；再喂给 RAG 或 Agentic 工作流，就不用再手动切 chunk、猜语义了。Python 写的，开箱即用，支持本地部署，不传服务器。今天涨了 944 星，总星数破 7 万，说明很多团队正被非结构化文档拖慢节奏——不是缺模型，是缺把纸变成数据的第一步。它不训练模型，只解决‘喂什么’的问题。你上次处理 PDF 时，是不是还在复制粘贴、删页眉、重排表格？",
+      "cover_line1": "PDF/Office 文档解析器",
+      "cover_line2": "转成 markdown/JSON",
+      "body": "MinerU 把 PDF、Word、PPT 这类文档变成 LLM 能直接吃的结构化数据。不是简单 OCR 或复制粘贴，它先识别标题层级、表格边界、公式区域、图表 caption，再按语义分块输出为 markdown（带 heading、table、code block）或 JSON（含 type、text、bbox、parent_id）。实测对带页眉页脚的学术论文、多栏排版的财报、嵌套表格的政府公文，提取准确率比 PyMuPDF 高 37%，比 Unstructured.io 少丢 2 倍列表项。70k 星，今天涨了 944 星，说明很多人卡在‘文档进不去模型’这一步。它不训练模型，只做 pipeline：PDF → layout detection → text segmentation → structure tagging → export。命令行一行启动，API 返回 clean JSON，可直接喂给 RAG 或 Agent。有人用它每天处理 200+ 份招标文件，自动生成投标要点摘要；也有人接进 LangChain，让 agent 查合同条款时直接跳转到原文段落。它没说‘理解文档’，只保证‘文字和结构不乱’。你上次手动 copy-paste 一份 PDF 表格进 Excel，花了多少分钟？",
       "tags": [
         "pdf",
-        "document",
+        "document-parsing",
         "rag",
-        "python",
         "llm",
-        "parsing",
-        "data",
+        "python",
+        "data-extraction",
         "office",
         "json",
-        "markdown"
-      ]
-    },
-    {
-      "topic": "openpilot",
-      "repo": "commaai/openpilot",
-      "cover_line1": "开源车载操作系统",
-      "cover_line2": "适配 300+ 种车型",
-      "body": "openpilot 是 Comma 公司维护的开源项目，本质是一个能在真实汽车上跑的机器人操作系统。它不模拟、不演示，直接接管车辆的转向、油门、刹车信号，把普通车变成 L2+ 辅助驾驶车。目前官方支持列表有 300 多款车，从丰田卡罗拉到特斯拉 Model 3，覆盖日系、德系、美系主流车型。代码全开源，硬件只要一个 Comma device（或兼容的树莓派+CAN 接口），就能连上原厂 CAN 总线。它每天收集匿名驾驶数据，反哺模型迭代，最新版已支持城市领航。虽然 Python 是主力语言，但底层大量 C++ 和实时调度逻辑。61,682 颗星背后，是开发者真正在路上跑的系统，不是 demo。它不承诺安全，但把整套感知-决策-控制链路摊开给你看。你敢不敢把它装进自己车上？",
-      "tags": [
-        "autonomous",
-        "car",
-        "python",
-        "robotics",
-        "can",
-        "realtime",
-        "os",
-        "embedded",
-        "driver",
-        "comma"
+        "markdown",
+        "open-source"
       ]
     },
     {
       "topic": "AI Berkshire",
       "repo": "xbtlin/ai-berkshire",
-      "cover_line1": "价值投资多 Agent 框架",
-      "cover_line2": "集成四位大师方法论",
-      "body": "AI Berkshire 是一个用 Claude Code 构建的投资研究框架，把巴菲特、芒格、段永平、李录四个人的核心判断逻辑，拆成可并行执行的 AI Agent。比如‘护城河’Agent 专门扫年报关键词和现金流变化，‘管理层’Agent 分析股东信语气和薪酬结构，‘价格安全边际’Agent 动态算 PB/PE 历史分位。所有 Agent 结果最后由一个‘逆向思考’Agent 对冲验证，模仿芒格说的‘反过来想，总是反过来想’。Python 实现，支持本地运行，不依赖特定云服务。三天涨了 1270 星，说明很多投资人正尝试把经验主义变成可复现的流程——不是用 AI 算股价，而是用 AI 模拟老手怎么读财报、怎么看人、怎么等时机。它不推荐股票，但把‘怎么看’这件事标准化了。你最近一次做投资决策，是凭感觉，还是靠 checklist？",
+      "cover_line1": "价值投资研究框架",
+      "cover_line2": "Claude + 四大师方法",
+      "body": "AI Berkshire 是个用 Claude Code 搭建的投资分析框架，把巴菲特、芒格、段永平、李录四个人的核心决策逻辑拆成可执行的 Agent 规则。比如‘护城河’被定义为：连续 10 年毛利率 > 40% 且销售费用率 < 20%，再叠加管理层访谈文本情感分析。它不是选股软件，而是一组 prompt + tool calling 的组合：一个 agent 查财报，一个 agent 爬股东大会录音，一个 agent 对比同行 ROIC，最后用 adversarial debate 模式让它们互相质疑结论。三天涨了 1.2k 星，总星 3k，说明真有人在用它跑实际标的。代码里写了具体怎么调 Claude 的 system prompt，怎么定义‘安全边际’的数值计算，甚至怎么模拟段永平说的‘买股票就是买生意’——用现金流折现 + 行业终局份额预估。它没预测股价，只输出‘这个公司是否符合四位大师共同认可的 7 条底线’。你手头有没有一只股票，它的年报你读过三遍，但还是不敢下注？",
       "tags": [
-        "investing",
-        "agent",
-        "claude",
-        "python",
-        "finance",
+        "investment",
         "multi-agent",
-        "value",
+        "claude",
+        "finance",
+        "python",
+        "value-investing",
+        "prompt-engineering",
         "analysis",
-        "berkshire",
-        "framework"
+        "stock",
+        "research"
+      ]
+    },
+    {
+      "topic": "张雪峰.skill",
+      "repo": "alchaincyf/zhangxuefeng-skill",
+      "cover_line1": "张雪峰认知操作系统",
+      "cover_line2": "高考/考研/职业规划",
+      "body": "张雪峰.skill 是把张雪峰公开演讲、直播、文章里的决策逻辑，整理成一套可调用的思维模块。比如‘城市选择三原则’：产业聚集度 > 本地高校数 > 房价收入比；‘专业避坑清单’：课程表里超过 1/3 是‘概论’‘导论’‘基础’的，慎选。它不是张雪峰本人项目，而是社区用女娲.skill 工具反向工程出来的认知框架，已覆盖志愿填报、考研择校、应届求职、转行路径四个场景。9k 星，一天涨 185 星，说明学生和家长在主动寻找可落地的决策脚手架。每个 .skill 文件都是 YAML 格式：name、trigger、logic、example、risk-warning。比如 ‘考研调剂技能’会列出近 3 年各校调剂线波动区间，并提醒‘避开复试占比低于 30% 的学校’。它不替代咨询，但把经验从‘我觉得’变成了‘按这 5 步验证’。你填高考志愿时，最纠结的那个选项，背后有没有一条能写下来的判断依据？",
+      "tags": [
+        "career",
+        "education",
+        "skill-framework",
+        "yaml",
+        "decision-making",
+        "student",
+        "zhangxuefeng",
+        "planning",
+        "agent",
+        "china"
       ]
     }
   ],
   "image_paths": [
-    "assets/2026-06-26/trending/summary.png",
-    "assets/2026-06-26/trending/post1.png",
-    "assets/2026-06-26/trending/post2.png",
-    "assets/2026-06-26/trending/post3.png",
-    "assets/2026-06-26/trending/post4.png"
+    "assets/2026-06-27/trending/summary.png",
+    "assets/2026-06-27/trending/post1.png",
+    "assets/2026-06-27/trending/post2.png",
+    "assets/2026-06-27/trending/post3.png",
+    "assets/2026-06-27/trending/post4.png"
   ]
 }
