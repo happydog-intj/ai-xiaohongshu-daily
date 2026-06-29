@@ -8,15 +8,15 @@
       "description": "SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",
       "language": "Haskell",
       "stars_today": "1,611 stars today",
-      "stars_total": "16,243"
+      "stars_total": "16,541"
     },
     {
       "name": "msitarzewski/agency-agents",
       "url": "https://github.com/msitarzewski/agency-agents",
       "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
       "language": "Shell",
-      "stars_today": "1,221 stars today",
-      "stars_total": "118,594"
+      "stars_today": "1,369 stars today",
+      "stars_total": "118,839"
     },
     {
       "name": "cupy/cupy",
@@ -24,7 +24,7 @@
       "description": "NumPy & SciPy for GPU",
       "language": "Python",
       "stars_today": "352 stars today",
-      "stars_total": "11,751"
+      "stars_total": "11,812"
     },
     {
       "name": "altic-dev/FluidVoice",
@@ -32,7 +32,7 @@
       "description": "FluidVoice - Fastest macOS Offline Dictation app - Voice to Text fully Local. One ⭐ takes us a long way :))",
       "language": "Swift",
       "stars_today": "836 stars today",
-      "stars_total": "4,219"
+      "stars_total": "4,366"
     },
     {
       "name": "soxoj/maigret",
@@ -40,7 +40,7 @@
       "description": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
       "language": "Python",
       "stars_today": "191 stars today",
-      "stars_total": "34,215"
+      "stars_total": "34,352"
     },
     {
       "name": "commaai/openpilot",
@@ -48,7 +48,7 @@
       "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
       "language": "Python",
       "stars_today": "465 stars today",
-      "stars_total": "62,697"
+      "stars_total": "62,759"
     },
     {
       "name": "ripienaar/free-for-dev",
@@ -56,7 +56,7 @@
       "description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
       "language": "HTML",
       "stars_today": "1,971 stars today",
-      "stars_total": "126,541"
+      "stars_total": "126,698"
     },
     {
       "name": "logto-io/logto",
@@ -64,7 +64,7 @@
       "description": "🧑‍🚀 Authentication and authorization infrastructure for SaaS and AI apps, built on OIDC and OAuth 2.1 with multi-tenancy, SSO, and RBAC.",
       "language": "TypeScript",
       "stars_today": "77 stars today",
-      "stars_total": "12,468"
+      "stars_total": "12,641"
     },
     {
       "name": "xbtlin/ai-berkshire",
@@ -72,7 +72,7 @@
       "description": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.",
       "language": "Python",
       "stars_today": "1,397 stars today",
-      "stars_total": "6,478"
+      "stars_total": "6,588"
     },
     {
       "name": "browser-use/video-use",
@@ -80,7 +80,7 @@
       "description": "Edit videos with coding agents",
       "language": "Python",
       "stars_today": "976 stars today",
-      "stars_total": "11,731"
+      "stars_total": "11,921"
     }
   ],
   "ai_repos": [
@@ -89,8 +89,8 @@
       "url": "https://github.com/msitarzewski/agency-agents",
       "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
       "language": "Shell",
-      "stars_today": "1,221 stars today",
-      "stars_total": "118,594"
+      "stars_today": "1,369 stars today",
+      "stars_total": "118,839"
     },
     {
       "name": "soxoj/maigret",
@@ -98,7 +98,7 @@
       "description": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
       "language": "Python",
       "stars_today": "191 stars today",
-      "stars_total": "34,215"
+      "stars_total": "34,352"
     },
     {
       "name": "commaai/openpilot",
@@ -106,7 +106,7 @@
       "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
       "language": "Python",
       "stars_today": "465 stars today",
-      "stars_total": "62,697"
+      "stars_total": "62,759"
     },
     {
       "name": "logto-io/logto",
@@ -114,7 +114,7 @@
       "description": "🧑‍🚀 Authentication and authorization infrastructure for SaaS and AI apps, built on OIDC and OAuth 2.1 with multi-tenancy, SSO, and RBAC.",
       "language": "TypeScript",
       "stars_today": "77 stars today",
-      "stars_total": "12,468"
+      "stars_total": "12,641"
     },
     {
       "name": "xbtlin/ai-berkshire",
@@ -122,7 +122,7 @@
       "description": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.",
       "language": "Python",
       "stars_today": "1,397 stars today",
-      "stars_total": "6,478"
+      "stars_total": "6,588"
     },
     {
       "name": "browser-use/video-use",
@@ -130,7 +130,7 @@
       "description": "Edit videos with coding agents",
       "language": "Python",
       "stars_today": "976 stars today",
-      "stars_total": "11,731"
+      "stars_total": "11,921"
     }
   ],
   "posts": [
