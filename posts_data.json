@@ -1,89 +1,89 @@
 {
-  "date": "2026-06-28",
+  "date": "2026-06-29",
   "posts": [
     {
-      "topic": "DSpark加速推理",
-      "cover_line1": "DeepSeek发布DSpark",
-      "cover_line2": "LLM推理快3.2倍",
-      "body": "DeepSeek今天公开了DSpark，一种用推测解码（speculative decoding）大幅加快大模型响应速度的新方法。它不靠换硬件，也不靠砍模型大小，而是让小模型先猜大模型下一步会输出什么，猜对就跳过计算，猜错再回退重算。论文里实测，在Llama-3-8B上，DSpark把端到端推理速度提到3.2倍，延迟从每token 42ms降到13ms。更关键的是，它只增加不到5%的显存开销，而且兼容所有主流开源模型——你不用改模型结构，只要换掉解码器就能用。HackerNews上714分，是今天最高热度，说明工程师真在试、真在跑。它不是实验室玩具：代码已开源，PDF附带完整实现细节和benchmark脚本，连怎么调temperature、怎么选草稿模型都写了。如果你在搭私有AI服务、跑本地Agent、或者卡在API响应慢上，DSpark现在就能插进你的vLLM或Ollama流程里试试。它没说要取代FlashAttention，而是补上另一个瓶颈——解码慢。以前我们优化注意力，现在轮到解码环节了。这方法也暴露一个现实：大模型推理的‘最后一公里’，原来还能省下三分之二时间。",
+      "topic": "GLM 5.2 beats Claude",
+      "cover_line1": "GLM 5.2 be",
+      "cover_line2": "今日 AI 热点速报",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**GLM 5.2 beats Claude in our benchmarks**\n\n📌 来源：HackerNews\n🔗 https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
-        "推理优化",
-        "DeepSeek",
-        "speculative decoding",
-        "LLM",
-        "开源",
-        "vLLM",
-        "Ollama",
-        "低延迟",
-        "本地部署",
-        "AI工程"
+        "AI",
+        "人工智能",
+        "大模型",
+        "科技",
+        "每日热点",
+        "机器学习",
+        "深度学习",
+        "AI工具",
+        "技术",
+        "炼丹"
       ]
     },
     {
-      "topic": "AI设计射频芯片",
-      "cover_line1": "AI学会设计射频芯片",
-      "cover_line2": "IEEE实测通过流片",
-      "body": "IEEE Spectrum报道了一套AI系统，能自动设计射频集成电路（RFIC），比如Wi-Fi和5G基站里那些调制解调用的高频芯片。过去这类设计靠资深工程师手调参数、反复仿真，一个人花三个月才出一版。现在AI把整个流程串起来：给定频段、功率、噪声要求，它直接输出可制造的版图。最关键是，他们把AI生成的设计送去台积电28nm工艺流片，回来测试结果完全达标——增益、带宽、功耗全在规格书范围内。这不是仿真截图，是真芯片、真信号、真示波器波形。背后用的是强化学习+物理约束嵌入，不是纯黑箱，每个器件尺寸、匹配网络结构都有电路原理支撑。它不替代工程师，但把重复试错环节全包了：以前调一百次匹配网络，现在AI跑一轮就收敛。对硬件创业公司尤其有用——射频人才稀缺，而AI能先跑通原型，再让人审、再让人优化。报道没提公司名，但作者团队来自MIT和Qualcomm联合实验室，代码部分已开源。",
+      "topic": "Knowledge Distillati",
+      "cover_line1": "Knowledge ",
+      "cover_line2": "今日 AI 热点速报",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Knowledge Distillation of Black-Box Large Language Models**\n\n📌 来源：HackerNews\n🔗 https://arxiv.org/abs/2401.07013\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
-        "射频芯片",
-        "AI for hardware",
-        "RFIC",
-        "流片",
-        "强化学习",
-        "电路设计",
-        "硬件AI",
-        "5G",
-        "Wi-Fi",
-        "芯片制造"
+        "AI",
+        "人工智能",
+        "大模型",
+        "科技",
+        "每日热点",
+        "机器学习",
+        "深度学习",
+        "AI工具",
+        "技术",
+        "炼丹"
       ]
     },
     {
-      "topic": "亚洲启动Mythos类模型",
-      "cover_line1": "亚洲初创推Mythos类模型",
-      "cover_line2": "绕开Anthropic出口限制",
-      "body": "TechCrunch报道，三家亚洲AI初创（总部在新加坡、首尔、台北）本周同步发布了类似Mythos的模型架构：它们不走Claude那种强对齐路线，而是专注多步推理与工具调用链的稳定性，比如自动拆解‘查美股财报→对比同业→画趋势图→生成简报’这种长任务。动机很实在：Anthropic对华出口许可持续被卡，已有客户等不起。这些模型全部基于Llama-3微调，但重写了推理调度层，支持动态工具选择和失败回滚，实测在GAIA基准上任务完成率比标准Llama-3高27%。它们没叫自己是‘推理模型’，而是叫‘Task-First Models’——第一目标不是聊天多自然，而是任务不中断。所有模型权重和调度器代码都已开源，许可证允许商用。有意思的是，它们故意避开‘智能体’这个词，文档里写的是‘可审计的任务执行器’，因为客户法务担心Agent概念在金融、医疗场景有合规风险。这不是对抗，是务实绕行：当路被堵，就铺新路。",
+      "topic": "I used Claude Code t",
+      "cover_line1": "I used Cla",
+      "cover_line2": "今日 AI 热点速报",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**I used Claude Code to get a second opinion on my MRI**\n\n📌 来源：HackerNews\n🔗 https://antoine.fi/mri-analysis-using-claude-code-opus\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
-        "Mythos",
-        "亚洲AI",
-        "Anthropic",
-        "出口限制",
-        "任务型模型",
-        "Llama-3",
-        "开源模型",
-        "GAIA",
-        "AI合规",
-        "工具调用"
+        "AI",
+        "人工智能",
+        "大模型",
+        "科技",
+        "每日热点",
+        "机器学习",
+        "深度学习",
+        "AI工具",
+        "技术",
+        "炼丹"
       ]
     },
     {
-      "topic": "Adrafinil保活Mac",
-      "cover_line1": "Adrafinil让Mac待机",
-      "cover_line2": "只在Agent运行时醒着",
-      "body": "一个叫Adrafinil的小工具刚在GitHub上线，解决了一个真实又琐碎的问题：Mac合盖后默认休眠，但你又想让它在后台跑AI Agent——比如定时爬数据、自动归档邮件、监听Slack关键词。传统方案要么禁用休眠（电池一夜跑光），要么用caffeinate硬扛（系统变烫、风扇狂转）。Adrafinil不一样：它检测当前是否有Python或Node进程在调用OpenAI API、调用本地Ollama、或读写特定目录，只要检测到，就临时阻止系统休眠；一旦Agent空闲超90秒，立刻放行休眠。代码只有280行，不装后台服务，不改系统权限，靠macOS原生power assertion API实现。HackerNews上71分不算高，但评论区全是‘已部署’‘省了两块外接UPS’。它没碰AI模型本身，只管‘什么时候该醒’。这种小工具的价值不在技术多深，而在它精准踩中边缘需求：AI落地不是只靠大模型，还要一堆螺丝钉级的衔接逻辑。你不需要懂它怎么工作，只要知道——合盖后Agent还在跑，早上打开Mac，任务已经做完。",
+      "topic": "Professor denounces ",
+      "cover_line1": "Professor ",
+      "cover_line2": "今日 AI 热点速报",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Professor denounces mass AI fraud on an exam at Brown**\n\n📌 来源：HackerNews\n🔗 https://english.elpais.com/education/2026-06-28/ai-fraud-at-brown-university-academic-integrity-is-at-risk.html\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
-        "Mac",
-        "AI Agent",
-        "系统工具",
-        "电源管理",
-        "Ollama",
-        "OpenAI",
-        "自动化",
-        "边缘需求",
-        "开源工具",
-        "本地AI"
+        "AI",
+        "人工智能",
+        "大模型",
+        "科技",
+        "每日热点",
+        "机器学习",
+        "深度学习",
+        "AI工具",
+        "技术",
+        "炼丹"
       ]
     }
   ],
   "image_paths": [
-    "assets/2026-06-28/cover1.png",
-    "assets/2026-06-28/cover2.png",
-    "assets/2026-06-28/cover3.png",
-    "assets/2026-06-28/cover4.png"
+    "assets/2026-06-29/cover1.png",
+    "assets/2026-06-29/cover2.png",
+    "assets/2026-06-29/cover3.png",
+    "assets/2026-06-29/cover4.png"
   ],
   "feishu_image_paths": [
-    "assets/2026-06-28/cover1_feishu.png",
-    "assets/2026-06-28/cover2_feishu.png",
-    "assets/2026-06-28/cover3_feishu.png",
-    "assets/2026-06-28/cover4_feishu.png"
+    "assets/2026-06-29/cover1_feishu.png",
+    "assets/2026-06-29/cover2_feishu.png",
+    "assets/2026-06-29/cover3_feishu.png",
+    "assets/2026-06-29/cover4_feishu.png"
   ]
 }
