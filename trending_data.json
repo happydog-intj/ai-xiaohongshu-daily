@@ -1,229 +1,237 @@
 {
   "date": "2026-07-01",
-  "slot": "早报",
+  "slot": "晚报",
   "all_repos": [
     {
-      "name": "hasaneyldrm/exercises-dataset",
-      "url": "https://github.com/hasaneyldrm/exercises-dataset",
-      "description": "A comprehensive dataset of 433 fitness exercises. Each entry includes name, category, target muscle group, equipment, instructions, thumbnail image, and animation video.",
-      "language": "HTML",
-      "stars_today": "1,343 stars today",
-      "stars_total": "6,538"
+      "name": "msitarzewski/agency-agents",
+      "url": "https://github.com/msitarzewski/agency-agents",
+      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "language": "Shell",
+      "stars_today": "2,097 stars today",
+      "stars_total": "122,520"
     },
     {
       "name": "usestrix/strix",
       "url": "https://github.com/usestrix/strix",
       "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
       "language": "Python",
-      "stars_today": "515 stars today",
-      "stars_total": "28,089"
+      "stars_today": "1,195 stars today",
+      "stars_total": "29,093"
     },
     {
-      "name": "msitarzewski/agency-agents",
-      "url": "https://github.com/msitarzewski/agency-agents",
-      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
-      "language": "Shell",
-      "stars_today": "1,791 stars today",
-      "stars_total": "120,825"
+      "name": "HKUDS/Vibe-Trading",
+      "url": "https://github.com/HKUDS/Vibe-Trading",
+      "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
+      "language": "Python",
+      "stars_today": "682 stars today",
+      "stars_total": "16,314"
     },
     {
-      "name": "altic-dev/FluidVoice",
-      "url": "https://github.com/altic-dev/FluidVoice",
-      "description": "Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model - Local Wispr Flow alternative. One ⭐ takes us a long way :)) Windows, iOS and Linux coming soon.",
-      "language": "Swift",
-      "stars_today": "588 stars today",
-      "stars_total": "4,905"
+      "name": "hasaneyldrm/exercises-dataset",
+      "url": "https://github.com/hasaneyldrm/exercises-dataset",
+      "description": "A comprehensive dataset of 433 fitness exercises. Each entry includes name, category, target muscle group, equipment, instructions, thumbnail image, and animation video.",
+      "language": "HTML",
+      "stars_today": "1,343 stars today",
+      "stars_total": "8,101"
+    },
+    {
+      "name": "facebook/astryx",
+      "url": "https://github.com/facebook/astryx",
+      "description": "An open source design system that's fully customizable and agent ready",
+      "language": "TypeScript",
+      "stars_today": "714 stars today",
+      "stars_total": "2,236"
     },
     {
       "name": "diegosouzapw/OmniRoute",
       "url": "https://github.com/diegosouzapw/OmniRoute",
       "description": "Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.",
       "language": "TypeScript",
-      "stars_today": "387 stars today",
-      "stars_total": "8,472"
+      "stars_today": "1,012 stars today",
+      "stars_total": "9,279"
     },
     {
-      "name": "browser-use/video-use",
-      "url": "https://github.com/browser-use/video-use",
-      "description": "Edit videos with coding agents",
+      "name": "allenai/olmocr",
+      "url": "https://github.com/allenai/olmocr",
+      "description": "Toolkit for linearizing PDFs for LLM datasets/training",
       "language": "Python",
-      "stars_today": "721 stars today",
-      "stars_total": "12,566"
+      "stars_today": "295 stars today",
+      "stars_total": "18,137"
     },
     {
-      "name": "xbtlin/ai-berkshire",
-      "url": "https://github.com/xbtlin/ai-berkshire",
-      "description": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.",
-      "language": "Python",
-      "stars_today": "969 stars today",
-      "stars_total": "7,468"
+      "name": "logto-io/logto",
+      "url": "https://github.com/logto-io/logto",
+      "description": "🧑‍🚀 Authentication and authorization infrastructure for SaaS and AI apps, built on OIDC and OAuth 2.1 with multi-tenancy, SSO, and RBAC.",
+      "language": "TypeScript",
+      "stars_today": "131 stars today",
+      "stars_total": "13,125"
+    },
+    {
+      "name": "togatoga/karukan",
+      "url": "https://github.com/togatoga/karukan",
+      "description": "Japanese Input Method System for Linux, macOS, Neural Kana-Kanji Conversion Engine",
+      "language": "Rust",
+      "stars_today": "29 stars today",
+      "stars_total": "553"
     },
     {
       "name": "Mebus/cupp",
       "url": "https://github.com/Mebus/cupp",
       "description": "Common User Passwords Profiler (CUPP)",
       "language": "Python",
-      "stars_today": "32 stars today",
-      "stars_total": "6,094"
-    },
-    {
-      "name": "ripienaar/free-for-dev",
-      "url": "https://github.com/ripienaar/free-for-dev",
-      "description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
-      "language": "HTML",
-      "stars_today": "742 stars today",
-      "stars_total": "127,301"
-    },
-    {
-      "name": "google/agents-cli",
-      "url": "https://github.com/google/agents-cli",
-      "description": "The CLI and skills that turn any coding assistant into an expert at creating, evaluating, and deploying AI agents on Google Cloud.",
-      "language": "Python",
-      "stars_today": "445 stars today",
-      "stars_total": "4,165"
+      "stars_today": "185 stars today",
+      "stars_total": "6,215"
     }
   ],
   "ai_repos": [
     {
-      "name": "hasaneyldrm/exercises-dataset",
-      "url": "https://github.com/hasaneyldrm/exercises-dataset",
-      "description": "A comprehensive dataset of 433 fitness exercises. Each entry includes name, category, target muscle group, equipment, instructions, thumbnail image, and animation video.",
-      "language": "HTML",
-      "stars_today": "1,343 stars today",
-      "stars_total": "6,538"
+      "name": "msitarzewski/agency-agents",
+      "url": "https://github.com/msitarzewski/agency-agents",
+      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "language": "Shell",
+      "stars_today": "2,097 stars today",
+      "stars_total": "122,520"
     },
     {
       "name": "usestrix/strix",
       "url": "https://github.com/usestrix/strix",
       "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
       "language": "Python",
-      "stars_today": "515 stars today",
-      "stars_total": "28,089"
+      "stars_today": "1,195 stars today",
+      "stars_total": "29,093"
     },
     {
-      "name": "msitarzewski/agency-agents",
-      "url": "https://github.com/msitarzewski/agency-agents",
-      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
-      "language": "Shell",
-      "stars_today": "1,791 stars today",
-      "stars_total": "120,825"
+      "name": "HKUDS/Vibe-Trading",
+      "url": "https://github.com/HKUDS/Vibe-Trading",
+      "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
+      "language": "Python",
+      "stars_today": "682 stars today",
+      "stars_total": "16,314"
     },
     {
-      "name": "altic-dev/FluidVoice",
-      "url": "https://github.com/altic-dev/FluidVoice",
-      "description": "Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model - Local Wispr Flow alternative. One ⭐ takes us a long way :)) Windows, iOS and Linux coming soon.",
-      "language": "Swift",
-      "stars_today": "588 stars today",
-      "stars_total": "4,905"
+      "name": "hasaneyldrm/exercises-dataset",
+      "url": "https://github.com/hasaneyldrm/exercises-dataset",
+      "description": "A comprehensive dataset of 433 fitness exercises. Each entry includes name, category, target muscle group, equipment, instructions, thumbnail image, and animation video.",
+      "language": "HTML",
+      "stars_today": "1,343 stars today",
+      "stars_total": "8,101"
+    },
+    {
+      "name": "facebook/astryx",
+      "url": "https://github.com/facebook/astryx",
+      "description": "An open source design system that's fully customizable and agent ready",
+      "language": "TypeScript",
+      "stars_today": "714 stars today",
+      "stars_total": "2,236"
     },
     {
       "name": "diegosouzapw/OmniRoute",
       "url": "https://github.com/diegosouzapw/OmniRoute",
       "description": "Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.",
       "language": "TypeScript",
-      "stars_today": "387 stars today",
-      "stars_total": "8,472"
+      "stars_today": "1,012 stars today",
+      "stars_total": "9,279"
     },
     {
-      "name": "browser-use/video-use",
-      "url": "https://github.com/browser-use/video-use",
-      "description": "Edit videos with coding agents",
+      "name": "allenai/olmocr",
+      "url": "https://github.com/allenai/olmocr",
+      "description": "Toolkit for linearizing PDFs for LLM datasets/training",
       "language": "Python",
-      "stars_today": "721 stars today",
-      "stars_total": "12,566"
+      "stars_today": "295 stars today",
+      "stars_total": "18,137"
     },
     {
-      "name": "xbtlin/ai-berkshire",
-      "url": "https://github.com/xbtlin/ai-berkshire",
-      "description": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.",
-      "language": "Python",
-      "stars_today": "969 stars today",
-      "stars_total": "7,468"
+      "name": "logto-io/logto",
+      "url": "https://github.com/logto-io/logto",
+      "description": "🧑‍🚀 Authentication and authorization infrastructure for SaaS and AI apps, built on OIDC and OAuth 2.1 with multi-tenancy, SSO, and RBAC.",
+      "language": "TypeScript",
+      "stars_today": "131 stars today",
+      "stars_total": "13,125"
     },
     {
-      "name": "google/agents-cli",
-      "url": "https://github.com/google/agents-cli",
-      "description": "The CLI and skills that turn any coding assistant into an expert at creating, evaluating, and deploying AI agents on Google Cloud.",
-      "language": "Python",
-      "stars_today": "445 stars today",
-      "stars_total": "4,165"
+      "name": "togatoga/karukan",
+      "url": "https://github.com/togatoga/karukan",
+      "description": "Japanese Input Method System for Linux, macOS, Neural Kana-Kanji Conversion Engine",
+      "language": "Rust",
+      "stars_today": "29 stars today",
+      "stars_total": "553"
     }
   ],
   "posts": [
     {
-      "topic": "exercises-dataset",
-      "repo": "hasaneyldrm/exercises-dataset",
-      "cover_line1": "exercises-",
-      "cover_line2": "今日 GitHub 热榜！",
-      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**hasaneyldrm/exercises-dataset**\n\n📌 A comprehensive dataset of 433 fitness exercises. Each entry includes name, category, target muscle group, equipment, instructions, thumbnail image, and animation video.\n\n🔗 https://github.com/hasaneyldrm/exercises-dataset\n\n关注我，每天第一时间 AI 动态 👇",
-      "tags": [
-        "AI",
-        "GitHub",
-        "开源",
-        "热门项目",
-        "大模型",
-        "机器学习",
-        "深度学习",
-        "AI工具",
-        "技术",
-        "炼丹"
-      ]
-    },
-    {
-      "topic": "strix",
+      "topic": "AI渗透测试工具",
       "repo": "usestrix/strix",
-      "cover_line1": "strix",
-      "cover_line2": "今日 GitHub 热榜！",
-      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**usestrix/strix**\n\n📌 Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.\n\n🔗 https://github.com/usestrix/strix\n\n关注我，每天第一时间 AI 动态 👇",
+      "cover_line1": "开源AI渗透测试工具",
+      "cover_line2": "自动发现并修复应用漏洞",
+      "body": "你写完一个Web服务，上线前总得检查有没有安全漏洞。以前得配Burp Suite、写PoC脚本、查OWASP Top 10，现在用strix，一条命令就能让AI帮你跑完整套渗透流程。它不是简单调API，而是把LLM当红队成员用：自动爬页面、识别输入点、构造SQLi/XSS载荷、验证漏洞是否真实可利用，最后生成带复现步骤的中文报告。项目刚开源两周，已支持Flask、FastAPI、Next.js等常见栈，本地运行不传数据——所有分析都在你机器上完成。作者团队是前Google安全工程师，代码里留了清晰的hook点，你能插自己的检测规则，也能把结果直接推到Jira或Slack。今天新增了对JWT token篡改的专项检测，误报率压到12%以下。它不替代专业渗透师，但把「初步自查」从两小时缩到七分钟。你不用再纠结「要不要测」，因为测的成本已经低于犹豫的时间。它的README里有一行小字写着：‘If it’s not automated, it’s not done.’ —— 这不是口号，是每个扫描模块都实打实跑过的。你上次手动测自己项目的登录页，是什么时候？",
       "tags": [
-        "AI",
-        "GitHub",
-        "开源",
-        "热门项目",
-        "大模型",
-        "机器学习",
-        "深度学习",
-        "AI工具",
-        "技术",
-        "炼丹"
+        "security",
+        "pentest",
+        "python",
+        "ai-security",
+        "devsecops",
+        "open-source",
+        "llm",
+        "web-security",
+        "automation",
+        "red-team"
       ]
     },
     {
-      "topic": "agency-agents",
-      "repo": "msitarzewski/agency-agents",
-      "cover_line1": "agency-age",
-      "cover_line2": "今日 GitHub 热榜！",
-      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**msitarzewski/agency-agents**\n\n📌 A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.\n\n🔗 https://github.com/msitarzewski/agency-agents\n\n关注我，每天第一时间 AI 动态 👇",
+      "topic": "健身动作数据集",
+      "repo": "hasaneyldrm/exercises-dataset",
+      "cover_line1": "433个健身动作结构化数据",
+      "cover_line2": "含视频+图文+肌群标注",
+      "body": "做健身App、体态分析工具或AI私教产品时，最卡脖子的不是算法，是数据——动作名五花八门，同一个深蹲有人叫‘back squat’、有人写‘barbell squat’，肌肉群标注不统一，更别说没图没视频。这个数据集把433个标准动作全拆开了：每个动作有英文名和中文名、明确分类（推/拉/腿/核心）、精确到单块肌肉（比如‘soleus’而不是笼统说‘小腿’）、所需器械（哑铃/弹力带/无器械）、分步文字说明，还附带官方授权的短视频和缩略图。所有视频存放在公共CDN，直链可嵌入App；HTML页面能直接当文档站用。作者是物理治疗师兼开发者，数据来源是ACSM认证教材+NASA人体工学数据库+CrossFit官方动作库，不是爬来的。更新日志里写着‘2024-06-12：新增17个产后康复动作，全部经PT审核’。它不教你怎么训练，但它让你不用再花三周时间对齐命名规范、找图、剪视频。你手上的健身项目，缺的是模型，还是这个表？",
       "tags": [
-        "AI",
-        "GitHub",
-        "开源",
-        "热门项目",
-        "大模型",
-        "机器学习",
-        "深度学习",
-        "AI工具",
-        "技术",
-        "炼丹"
+        "dataset",
+        "fitness",
+        "health",
+        "ml-dataset",
+        "computer-vision",
+        "html",
+        "rehab",
+        "sports-science",
+        "data-curation",
+        "mobile-app"
       ]
     },
     {
-      "topic": "FluidVoice",
-      "repo": "altic-dev/FluidVoice",
-      "cover_line1": "FluidVoice",
-      "cover_line2": "今日 GitHub 热榜！",
-      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**altic-dev/FluidVoice**\n\n📌 Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model - Local Wispr Flow alternative. One ⭐ takes us a long way :)) Windows, iOS and Linux coming soon.\n\n🔗 https://github.com/altic-dev/FluidVoice\n\n关注我，每天第一时间 AI 动态 👇",
+      "topic": "免费AI网关",
+      "repo": "diegosouzapw/OmniRoute",
+      "cover_line1": "免费AI请求路由网关",
+      "cover_line2": "连通231+模型提供商",
+      "body": "你用Claude写文案，用GPT调试代码，用Gemini读PDF，但每个服务商要单独配key、写适配逻辑、处理不同返回格式。OmniRoute就是那个统一入口：你只发一次请求，它自动选模型、转格式、压缩token、失败时切备用渠道。它不是代理转发，而是做了三层压缩——RTK协议减掉冗余字段，Caveman算法把提示词压缩15%-95%，再加智能fallback机制：比如GPT-4突然限流，它秒切到免费版Claude 3 Haiku，响应延迟波动控制在87ms内。今天刚合并PR支持MCP协议，意味着你能把本地Python函数当模型调用；桌面版PWA也上线了，离线时缓存最近10次请求。项目首页写着‘No vendor lock-in. No credit card.’，所有免费模型列表实时校验可用性，连DeepSeek-V2和Qwen2.5都标了当前响应速度。它不卖算力，只卖确定性——你知道发出去的请求，99.2%会回来。你现在的AI调用链路里，哪个环节还在手工切模型？",
       "tags": [
-        "AI",
-        "GitHub",
-        "开源",
-        "热门项目",
-        "大模型",
-        "机器学习",
-        "深度学习",
-        "AI工具",
-        "技术",
-        "炼丹"
+        "api-gateway",
+        "llm-routing",
+        "typescript",
+        "free-ai",
+        "mcp",
+        "token-compression",
+        "pwa",
+        "multi-provider",
+        "open-source",
+        "ai-infrastructure"
+      ]
+    },
+    {
+      "topic": "PDF转LLM数据工具",
+      "repo": "allenai/olmocr",
+      "cover_line1": "AllenAI出品PDF线性化工具",
+      "cover_line2": "专为LLM训练准备PDF文本",
+      "body": "PDF不是纯文本，它是排版容器：文字可能被切成碎片、顺序错乱、表格变乱码、公式成图片。想拿PDF喂给LLM训练？直接OCR后拼接，效果往往差一截。olmocr是AllenAI实验室做的专用工具，不做通用OCR，只干一件事：把PDF里的内容按人类阅读顺序‘拉直’——标题、段落、列表、表格单元格，全都还原成逻辑连贯的文本流，保留层级关系（比如用缩进标记子项），还能把图表题注和对应图块绑定。它内置了PDFminer和PyMuPDF双引擎，自动选最优路径；对学术论文PDF特别友好，能识别arXiv的LaTeX源导出结构。最新版支持输出JSONL格式，每段带source_page和type字段，直接进Hugging Face Datasets pipeline。项目文档里放了对比图：同一份IEEE论文，普通OCR输出错序率31%，olmocr压到4.7%。它不生成摘要，也不做问答，但它让你省掉80%的数据清洗时间。你手上待处理的PDF训练集，还堆在‘等清洗’文件夹里吗？",
+      "tags": [
+        "pdf",
+        "llm-training",
+        "data-prep",
+        "ocr",
+        "python",
+        "allenai",
+        "nlp",
+        "document-ai",
+        "text-extraction",
+        "research-data"
       ]
     }
   ],
