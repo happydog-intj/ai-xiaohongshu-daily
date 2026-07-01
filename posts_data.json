@@ -1,11 +1,11 @@
 {
-  "date": "2026-06-30",
+  "date": "2026-07-01",
   "posts": [
     {
-      "topic": ".self: A new top-lev",
-      "cover_line1": ".self: A n",
+      "topic": "Claude Sonnet 5",
+      "cover_line1": "Claude Son",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**.self: A new top-level domain designed to support self-hosting**\n\n📌 来源：HackerNews\n🔗 https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Claude Sonnet 5**\n\n📌 来源：HackerNews\n🔗 https://www.anthropic.com/news/claude-sonnet-5\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -20,10 +20,10 @@
       ]
     },
     {
-      "topic": "Ornith-1.0: self-imp",
-      "cover_line1": "Ornith-1.0",
+      "topic": "Claude Code is stega",
+      "cover_line1": "Claude Cod",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Ornith-1.0: self-improving open-source models for agentic coding**\n\n📌 来源：HackerNews\n🔗 https://github.com/deepreinforce-ai/Ornith-1\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Claude Code is steganographically marking requests**\n\n📌 来源：HackerNews\n🔗 https://thereallo.dev/blog/claude-code-prompt-steganography\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -38,10 +38,10 @@
       ]
     },
     {
-      "topic": "Apple Neural Engine:",
-      "cover_line1": "Apple Neur",
+      "topic": "From brain waves to ",
+      "cover_line1": "From brain",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Apple Neural Engine: Architecture, Programming, and Performance**\n\n📌 来源：HackerNews\n🔗 https://arxiv.org/abs/2606.22283\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**From brain waves to words: a new path to communication without surgery**\n\n📌 来源：HackerNews\n🔗 https://ai.meta.com/blog/brain2qwerty-brain-ai-human-communication/?_fb_noscript=1\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -56,10 +56,10 @@
       ]
     },
     {
-      "topic": "Working With AI: A c",
-      "cover_line1": "Working Wi",
+      "topic": "Claude Science",
+      "cover_line1": "Claude Sci",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Working With AI: A concrete example**\n\n📌 来源：HackerNews\n🔗 https://htmx.org/essays/working-with-ai/\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Claude Science**\n\n📌 来源：HackerNews\n🔗 https://claude.com/product/claude-science\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -75,15 +75,15 @@
     }
   ],
   "image_paths": [
-    "assets/2026-06-30/cover1.png",
-    "assets/2026-06-30/cover2.png",
-    "assets/2026-06-30/cover3.png",
-    "assets/2026-06-30/cover4.png"
+    "assets/2026-07-01/cover1.png",
+    "assets/2026-07-01/cover2.png",
+    "assets/2026-07-01/cover3.png",
+    "assets/2026-07-01/cover4.png"
   ],
   "feishu_image_paths": [
-    "assets/2026-06-30/cover1_feishu.png",
-    "assets/2026-06-30/cover2_feishu.png",
-    "assets/2026-06-30/cover3_feishu.png",
-    "assets/2026-06-30/cover4_feishu.png"
+    "assets/2026-07-01/cover1_feishu.png",
+    "assets/2026-07-01/cover2_feishu.png",
+    "assets/2026-07-01/cover3_feishu.png",
+    "assets/2026-07-01/cover4_feishu.png"
   ]
 }
