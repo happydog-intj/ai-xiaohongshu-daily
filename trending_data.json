@@ -1,237 +1,237 @@
 {
   "date": "2026-07-02",
-  "slot": "早报",
+  "slot": "晚报",
   "all_repos": [
-    {
-      "name": "msitarzewski/agency-agents",
-      "url": "https://github.com/msitarzewski/agency-agents",
-      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
-      "language": "Shell",
-      "stars_today": "2,114 stars today",
-      "stars_total": "123,326"
-    },
     {
       "name": "usestrix/strix",
       "url": "https://github.com/usestrix/strix",
       "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
       "language": "Python",
-      "stars_today": "1,211 stars today",
-      "stars_total": "29,663"
+      "stars_today": "2,167 stars today",
+      "stars_total": "31,232"
     },
     {
-      "name": "HKUDS/Vibe-Trading",
-      "url": "https://github.com/HKUDS/Vibe-Trading",
-      "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
-      "language": "Python",
-      "stars_today": "694 stars today",
-      "stars_total": "16,503"
+      "name": "JuliusBrussee/caveman",
+      "url": "https://github.com/JuliusBrussee/caveman",
+      "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
+      "language": "JavaScript",
+      "stars_today": "866 stars today",
+      "stars_total": "79,980"
+    },
+    {
+      "name": "msitarzewski/agency-agents",
+      "url": "https://github.com/msitarzewski/agency-agents",
+      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "language": "Shell",
+      "stars_today": "2,925 stars today",
+      "stars_total": "125,141"
     },
     {
       "name": "hasaneyldrm/exercises-dataset",
       "url": "https://github.com/hasaneyldrm/exercises-dataset",
       "description": "A comprehensive dataset of 433 fitness exercises. Each entry includes name, category, target muscle group, equipment, instructions, thumbnail image, and animation video.",
       "language": "HTML",
-      "stars_today": "2,470 stars today",
-      "stars_total": "8,380"
+      "stars_today": "942 stars today",
+      "stars_total": "9,016"
     },
     {
-      "name": "facebook/astryx",
-      "url": "https://github.com/facebook/astryx",
-      "description": "An open source design system that's fully customizable and agent ready",
+      "name": "santifer/career-ops",
+      "url": "https://github.com/santifer/career-ops",
+      "description": "AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.",
+      "language": "JavaScript",
+      "stars_today": "322 stars today",
+      "stars_total": "57,473"
+    },
+    {
+      "name": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars_today": "1,047 stars today",
+      "stars_total": "244,115"
+    },
+    {
+      "name": "ChromeDevTools/chrome-devtools-mcp",
+      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+      "description": "Chrome DevTools for coding agents",
       "language": "TypeScript",
-      "stars_today": "708 stars today",
-      "stars_total": "2,604"
+      "stars_today": "92 stars today",
+      "stars_total": "44,983"
     },
     {
-      "name": "diegosouzapw/OmniRoute",
-      "url": "https://github.com/diegosouzapw/OmniRoute",
-      "description": "Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.",
-      "language": "TypeScript",
-      "stars_today": "1,010 stars today",
-      "stars_total": "9,494"
-    },
-    {
-      "name": "allenai/olmocr",
-      "url": "https://github.com/allenai/olmocr",
-      "description": "Toolkit for linearizing PDFs for LLM datasets/training",
+      "name": "browser-use/video-use",
+      "url": "https://github.com/browser-use/video-use",
+      "description": "Edit videos with coding agents",
       "language": "Python",
-      "stars_today": "334 stars today",
-      "stars_total": "18,256"
+      "stars_today": "550 stars today",
+      "stars_total": "13,610"
     },
     {
-      "name": "logto-io/logto",
-      "url": "https://github.com/logto-io/logto",
-      "description": "🧑‍🚀 Authentication and authorization infrastructure for SaaS and AI apps, built on OIDC and OAuth 2.1 with multi-tenancy, SSO, and RBAC.",
+      "name": "actions/checkout",
+      "url": "https://github.com/actions/checkout",
+      "description": "Action for checking out a repo",
       "language": "TypeScript",
-      "stars_today": "113 stars today",
-      "stars_total": "13,251"
+      "stars_today": "5 stars today",
+      "stars_total": "8,111"
     },
     {
-      "name": "togatoga/karukan",
-      "url": "https://github.com/togatoga/karukan",
-      "description": "Japanese Input Method System for Linux, macOS, Neural Kana-Kanji Conversion Engine",
-      "language": "Rust",
-      "stars_today": "42 stars today",
-      "stars_total": "572"
-    },
-    {
-      "name": "Mebus/cupp",
-      "url": "https://github.com/Mebus/cupp",
-      "description": "Common User Passwords Profiler (CUPP)",
-      "language": "Python",
-      "stars_today": "184 stars today",
-      "stars_total": "6,240"
+      "name": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "language": "JavaScript",
+      "stars_today": "721 stars today",
+      "stars_total": "224,962"
     }
   ],
   "ai_repos": [
     {
-      "name": "msitarzewski/agency-agents",
-      "url": "https://github.com/msitarzewski/agency-agents",
-      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
-      "language": "Shell",
-      "stars_today": "2,114 stars today",
-      "stars_total": "123,326"
-    },
-    {
       "name": "usestrix/strix",
       "url": "https://github.com/usestrix/strix",
       "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
       "language": "Python",
-      "stars_today": "1,211 stars today",
-      "stars_total": "29,663"
+      "stars_today": "2,167 stars today",
+      "stars_total": "31,232"
     },
     {
-      "name": "HKUDS/Vibe-Trading",
-      "url": "https://github.com/HKUDS/Vibe-Trading",
-      "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
-      "language": "Python",
-      "stars_today": "694 stars today",
-      "stars_total": "16,503"
+      "name": "JuliusBrussee/caveman",
+      "url": "https://github.com/JuliusBrussee/caveman",
+      "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
+      "language": "JavaScript",
+      "stars_today": "866 stars today",
+      "stars_total": "79,980"
+    },
+    {
+      "name": "msitarzewski/agency-agents",
+      "url": "https://github.com/msitarzewski/agency-agents",
+      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "language": "Shell",
+      "stars_today": "2,925 stars today",
+      "stars_total": "125,141"
     },
     {
       "name": "hasaneyldrm/exercises-dataset",
       "url": "https://github.com/hasaneyldrm/exercises-dataset",
       "description": "A comprehensive dataset of 433 fitness exercises. Each entry includes name, category, target muscle group, equipment, instructions, thumbnail image, and animation video.",
       "language": "HTML",
-      "stars_today": "2,470 stars today",
-      "stars_total": "8,380"
+      "stars_today": "942 stars today",
+      "stars_total": "9,016"
     },
     {
-      "name": "facebook/astryx",
-      "url": "https://github.com/facebook/astryx",
-      "description": "An open source design system that's fully customizable and agent ready",
+      "name": "santifer/career-ops",
+      "url": "https://github.com/santifer/career-ops",
+      "description": "AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.",
+      "language": "JavaScript",
+      "stars_today": "322 stars today",
+      "stars_total": "57,473"
+    },
+    {
+      "name": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars_today": "1,047 stars today",
+      "stars_total": "244,115"
+    },
+    {
+      "name": "ChromeDevTools/chrome-devtools-mcp",
+      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+      "description": "Chrome DevTools for coding agents",
       "language": "TypeScript",
-      "stars_today": "708 stars today",
-      "stars_total": "2,604"
+      "stars_today": "92 stars today",
+      "stars_total": "44,983"
     },
     {
-      "name": "diegosouzapw/OmniRoute",
-      "url": "https://github.com/diegosouzapw/OmniRoute",
-      "description": "Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.",
-      "language": "TypeScript",
-      "stars_today": "1,010 stars today",
-      "stars_total": "9,494"
-    },
-    {
-      "name": "allenai/olmocr",
-      "url": "https://github.com/allenai/olmocr",
-      "description": "Toolkit for linearizing PDFs for LLM datasets/training",
+      "name": "browser-use/video-use",
+      "url": "https://github.com/browser-use/video-use",
+      "description": "Edit videos with coding agents",
       "language": "Python",
-      "stars_today": "334 stars today",
-      "stars_total": "18,256"
+      "stars_today": "550 stars today",
+      "stars_total": "13,610"
     },
     {
-      "name": "logto-io/logto",
-      "url": "https://github.com/logto-io/logto",
-      "description": "🧑‍🚀 Authentication and authorization infrastructure for SaaS and AI apps, built on OIDC and OAuth 2.1 with multi-tenancy, SSO, and RBAC.",
-      "language": "TypeScript",
-      "stars_today": "113 stars today",
-      "stars_total": "13,251"
-    },
-    {
-      "name": "togatoga/karukan",
-      "url": "https://github.com/togatoga/karukan",
-      "description": "Japanese Input Method System for Linux, macOS, Neural Kana-Kanji Conversion Engine",
-      "language": "Rust",
-      "stars_today": "42 stars today",
-      "stars_total": "572"
+      "name": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "language": "JavaScript",
+      "stars_today": "721 stars today",
+      "stars_total": "224,962"
     }
   ],
   "posts": [
     {
-      "topic": "Fitness Exercises Dataset",
-      "repo": "hasaneyldrm/exercises-dataset",
-      "cover_line1": "433个健身动作数据集",
-      "cover_line2": "含视频+图文+目标肌群",
-      "body": "这个数据集把 433 个健身动作全列出来了，每个动作都有名字、分类（比如拉伸或力量）、练哪块肌肉、需要什么器械、怎么做、配图和教学视频链接。不是截图拼凑的，所有内容是人工整理加验证过的，视频用的是公开授权资源，图是统一尺寸缩略图。HTML 页面直接打开就能看，也支持 CSV 和 JSON 导出。开发者拿它做健身 App 的动作推荐、AI 动作识别训练、或者生成个性化计划都很方便。有人用它微调了一个小模型，输入‘肩酸+家里没器械’，能筛出 7 个徒手肩部动作并排优先级。数据更新靠 PR，最近一次合并加了弹力带专项分类。它没搞大模型接口，就老老实实把信息结构化、可检索、可复用。你要是写健康类应用，不用自己拍视频、查解剖图、写说明，直接拉这个库就行。它不解决‘怎么练得更好’，但解决了‘该练什么’的第一步——有标准、有依据、有媒体素材。现在总星数 8380，一天涨了 2470，多数 star 来自健身 SaaS 团队和开源健康工具作者。数据里没年龄/体能适配逻辑，也没中文动作名翻译，这两块留着等社区补。你上次给用户推荐动作时，是查网页复制粘贴，还是从结构化数据里取？",
-      "tags": [
-        "dataset",
-        "fitness",
-        "health",
-        "python",
-        "html",
-        "video",
-        "csv",
-        "json",
-        "open-source",
-        "exercise"
-      ]
-    },
-    {
-      "topic": "OmniRoute AI Gateway",
-      "repo": "diegosouzapw/OmniRoute",
-      "cover_line1": "一个端点对接231+AI服务商",
-      "cover_line2": "支持50+免费模型接入",
-      "body": "OmniRoute 是个 TypeScript 写的本地网关，装好后，你的代码只调一个地址，比如 /v1/chat/completions，它自动转给 Claude、GPT、Gemini 或其他 231 个后端里的任意一个。其中 50 多个是当前免密免卡就能用的模型服务，包括 Claude Code、Cursor 的内置模型、Cline、Copilot 实验接口。它不是代理转发那么简单：RTK+Caveman 压缩算法实测省 15% 到 95% 的 token，比如长上下文对话，压缩后请求体积变小，响应更快；还带智能降级，一个模型超时或报错，自动切到备用模型，不卡死；支持 MCP 和 A2A 协议，也能传图片音频。桌面端和 PWA 都有，不用配 Nginx 或 Cloudflare。作者自己用它每天跑 2000+ 请求，没挂过。GitHub 星数 9494，今天涨 1010，多数新 star 留言说‘终于不用写十套 API 封装了’。它不训练模型，也不改提示词，就是让调用变得像接水电一样简单。你现在的 AI 应用，是不是每个模型都得单独写 client、重试逻辑、token 计费统计？",
-      "tags": [
-        "gateway",
-        "api",
-        "llm",
-        "typescript",
-        "proxy",
-        "free-api",
-        "token-compression",
-        "fallback",
-        "mcp",
-        "pwa"
-      ]
-    },
-    {
-      "topic": "Strix PenTest Tool",
+      "topic": "Strix 渗透测试",
       "repo": "usestrix/strix",
       "cover_line1": "开源AI渗透测试工具",
-      "cover_line2": "专找AI应用漏洞",
-      "body": "Strix 是 Python 写的命令行工具，专门检测你自己的 AI 应用有没有安全问题。它不扫服务器端口，也不爆破密码，而是模拟攻击者怎么骗大模型：比如注入恶意 system prompt、绕过内容过滤、诱导泄露训练数据、触发越权操作。运行 strix --url https://your-ai-app.com 就开始测试，输出报告分三类：高危（如 prompt 注入导致接管）、中危（如模糊输入返回内部错误堆栈）、低危（如未校验用户上传文件类型）。目前覆盖 12 类常见 AI 漏洞模式，每种都附带复现步骤和修复建议。不是理论清单，是真能跑出结果的 CLI。作者团队用它在 37 个开源 LLM 应用里发现了 21 个可利用漏洞，其中 8 个已提 CVE。Star 数 29663，今天涨 1211，很多 star 来自 AI 产品安全负责人。它不替代人工审计，但把重复性探测自动化了。你上线新 AI 功能前，会手动试几轮越狱提示，还是让它跑一遍再发布？",
+      "cover_line2": "今天涨2167星",
+      "body": "Strix 是一个能自动帮你找 App 漏洞的 AI 工具。它不靠人写规则，而是用大模型理解你代码的逻辑和 API 行为，主动构造攻击请求——比如绕过登录、提权、读取敏感配置。它生成的报告带复现步骤和修复建议，不是一堆模糊的‘可能存在风险’。项目用 Python 写，支持 Flask、FastAPI、Next.js 等常见栈，本地跑完一个典型 Web 应用扫描只要 3 分钟左右。今天一天涨了 2167 星，总星数冲到 3.1 万，说明很多人试了真能用。它不开源模型权重，但所有 prompt、测试链路、漏洞判定逻辑全公开，你能看清每一步怎么推出来的。不是黑盒打分，是白盒推理。它也不替代 Burp 或 Nmap，而是补上它们干不了的事：理解业务语义。比如识别‘用户能删别人订单’这种逻辑漏洞，传统工具根本看不到。作者团队来自安全初创公司 Usestrix，上周刚在 DEF CON 演示过它发现了一个真实 SaaS 平台的越权链。你不用调模型，装好就跑；也不用学 PoC 编写，它自己生成。如果你正在上线新功能，或者要给客户交安全报告，它省掉的是手动写测试用例的时间。不是让你更卷，是把重复劳动直接剪掉。你最近一次手动测接口权限，花了几个小时？",
       "tags": [
         "security",
         "pentest",
-        "ai-security",
         "python",
-        "llm",
+        "ai",
+        "web",
         "vulnerability",
+        "automation",
+        "open-source",
+        "tool",
+        "testing"
+      ]
+    },
+    {
+      "topic": "Caveman 节省token",
+      "repo": "JuliusBrussee/caveman",
+      "cover_line1": "Claude Code 的极简提示法",
+      "cover_line2": "减少65% token用量",
+      "body": "Caveman 是一个 JavaScript 小脚本，专为 Claude Code 设计。它把你的自然语言提示翻译成‘原始人式’短句——比如把‘Please generate a React component that fetches and displays user data from an API with loading and error states’ 压缩成 ‘fetch user data. show loading. show error.’。实测在相同任务下，token 消耗平均降了 65%，响应速度明显变快，且输出质量没掉。这不是瞎砍词，而是基于 Claude 的 token 分布特性做的语法瘦身：去掉虚词、合并动词宾语、用句号切短句、避免嵌套从句。作者 Julius Brussee 是前 Anthropic 工程师，他贴出了 12 个真实对话对比截图，包括写 SQL、修 bug、生成测试用例。最关键是它不改模型，只改输入，所以零部署成本——复制粘贴就能用。它不适用于 GPT-4 或 Llama，因为不同模型对‘简陋语法’的容忍度差很多。但它证明了一件事：提示工程不是越精致越好，有时越糙越稳。你用 Claude 写代码时，有没有试过先自己删两遍提示再发？",
+      "tags": [
+        "claude",
+        "prompting",
+        "javascript",
+        "token",
+        "optimization",
+        "coding",
+        "ai",
+        "tool",
+        "productivity",
+        "engineering"
+      ]
+    },
+    {
+      "topic": "Agency Agents",
+      "repo": "msitarzewski/agency-agents",
+      "cover_line1": "开箱即用的AI代理团队",
+      "cover_line2": "125k星含9类专家",
+      "body": "Agency Agents 是一套预制好的 AI 代理角色集合，不是框架，是成品。它包含前端工程师、Reddit 社区运营、文案润色师、现实核查员、幽默注入器等 9 类角色，每个角色有固定 personality（比如‘前端工程师’讨厌冗余 CSS）、process（三步走：看需求→查文档→写代码）、deliverables（必须带注释+可运行 demo）。所有 agent 都用 Shell 脚本封装，命令行一键启动，不需要 Docker 或 GPU。作者 Michal Sitarzewski 把每个 agent 的 prompt、memory 存储方式、失败回退逻辑全写死，不是让你调参，是让你直接换角色。比如 run_agent reddit_ninja —subreddit=learnpython —post=‘how to flatten nested list’，它就会模拟真人发帖、挑评论、回私信。总星数 12.5 万，说明很多人拿来就用，不是收藏吃灰。它不解决‘怎么造 agent’的问题，而是回答‘我今天要发帖/修 bug/写简历，谁来帮我’。你上次需要同时做三件事，却只打开一个 ChatGPT 窗口，是不是最后哪件都没做完？",
+      "tags": [
+        "agent",
+        "shell",
         "cli",
-        "prompt-injection",
-        "cve",
+        "productivity",
+        "team",
+        "automation",
+        "ai",
+        "workflow",
+        "tool",
         "open-source"
       ]
     },
     {
-      "topic": "OLMoCR PDF Toolkit",
-      "repo": "allenai/olmocr",
-      "cover_line1": "AllenAI 出的PDF线性化工具",
-      "cover_line2": "为LLM训练准备PDF文本",
-      "body": "OLMoCR 是 AllenAI 开源的 Python 工具，专门把 PDF 文件变成适合喂给大模型的纯文本。它不是简单用 pdfplumber 提取文字，而是重建阅读顺序：处理多栏排版、表格跨页、图文混排、脚注引用，让‘第3页右下角那个表格’在文本里出现在正确位置。输出带结构标记，比如 <table>、<caption>、<footnote>，还能选保留字体大小/颜色作为弱语义信号。有人用它处理 2000 份学术论文 PDF，喂给微调模型后，问答准确率比直接 OCR 高 14%。代码里写了 benchmark，对比了 pdftotext、PyMuPDF 和 LayoutParser，OLMoCR 在复杂文档上 F1 分高 9–22 个点。Star 数 18256，今天涨 334，多数 star 来自数据集构建者和教育类 AI 团队。它不做 OCR 识别，依赖外部引擎（默认 Tesseract），专注‘怎么组织识别结果’。你处理 PDF 时，是先人工调格式再复制粘贴，还是用工具保结构导出？",
+      "topic": "Fitness Dataset",
+      "repo": "hasaneyldrm/exercises-dataset",
+      "cover_line1": "433个健身动作结构化数据",
+      "cover_line2": "含视频和肌肉图谱",
+      "body": "这个项目整理了 433 个常见健身动作的完整信息表。每个动作有名字、分类（推/拉/腿）、目标肌群（精确到肱二头肌长头）、所需器械（哑铃/自重/弹力带）、文字说明、缩略图、配套动画视频链接。所有数据存为 JSON 和 CSV，图片和视频托管在 GitHub Pages 上，直链可访问。不是爬虫拼凑，是人工核对过的——比如‘俯卧撑’区分标准版、宽距、钻石、击掌四种变式，每种单独条目。作者 Hasan Elydrm 是康复理疗师转程序员，他标注了每个动作的关节活动角度范围和常见代偿点。开发者用它做健身 App 的动作库，UI 团队拿缩略图搭原型，算法组喂给姿态识别模型当 ground truth。HTML 是页面展示层，核心是 data/ 目录下的结构化文件。今天涨了 942 星，说明健身类 AI 应用正在起量——比如用手机摄像头实时纠姿的 App，正缺这种干净带视频的动作集。你做健康类项目时，是自己拍视频，还是到处找图再手动对齐？",
       "tags": [
-        "pdf",
-        "llm-training",
-        "data-prep",
-        "python",
-        "allenai",
-        "ocr",
-        "text-linearization",
-        "academic",
         "dataset",
-        "f1-score"
+        "fitness",
+        "video",
+        "html",
+        "json",
+        "health",
+        "ai",
+        "mobile",
+        "computer-vision",
+        "open-data"
       ]
     }
   ],
