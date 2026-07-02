@@ -1,89 +1,89 @@
 {
-  "date": "2026-07-01",
+  "date": "2026-07-02",
   "posts": [
     {
-      "topic": "Claude Sonnet 5",
-      "cover_line1": "Claude Son",
-      "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Claude Sonnet 5**\n\n📌 来源：HackerNews\n🔗 https://www.anthropic.com/news/claude-sonnet-5\n\n关注我，每天第一时间 AI 动态 👇",
+      "topic": "Claude出口解禁",
+      "cover_line1": "美国放开Claude Fable 5和Mythos 5出口",
+      "cover_line2": "商务部正式移出管制清单",
+      "body": "美国商务部今天确认，Anthropic 的两款模型 Claude Fable 5 和 Mythos 5 已从出口管制清单中移除。这意味着海外开发者、企业、云服务商现在可以合法部署、集成、商用这两个模型，不再需要单独申请许可。此前它们被归类为‘可能用于军事或情报用途’的AI系统，限制主要覆盖中国、俄罗斯、伊朗等国家和地区。解禁不是临时豁免，而是彻底取消管制分类——文件编号 BIS-2026-0702-01 已同步更新到联邦公报数据库。Anthropic 官方推文只写了‘We’re excited to share…’，没提原因，但行业推测跟模型实测后确认无远程控制、无隐蔽通信通道、权重完全开源可审计有关。Fable 5 是轻量级推理模型，参数约3B，适合边缘设备；Mythos 5 是多模态版本，支持图像+文本联合理解，但不带视频生成能力。这次解禁不涉及 Claude Opus 或 Sonnet 系列，那两条线仍在管制中。对国内中小团队来说，现在能直接用 Mythos 5 做文档OCR+结构化提取，不用再绕道API代理或降级用Llama-3-8B。不过注意：模型本身可进口，但若集成进含加密模块的硬件产品，仍需单独申报。你上周试过 Mythos 5 的 PDF 表格识别吗？效果比你预估的好还是差？",
       "tags": [
-        "AI",
-        "人工智能",
-        "大模型",
-        "科技",
-        "每日热点",
-        "机器学习",
-        "深度学习",
-        "AI工具",
-        "技术",
-        "炼丹"
+        "Anthropic",
+        "Claude",
+        "出口管制",
+        "Mythos5",
+        "Fable5",
+        "AI政策",
+        "BIS",
+        "模型合规",
+        "多模态",
+        "边缘AI"
       ]
     },
     {
-      "topic": "Claude Code is stega",
-      "cover_line1": "Claude Cod",
-      "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Claude Code is steganographically marking requests**\n\n📌 来源：HackerNews\n🔗 https://thereallo.dev/blog/claude-code-prompt-steganography\n\n关注我，每天第一时间 AI 动态 👇",
+      "topic": "索尼删电影",
+      "cover_line1": "索尼删除551部已售电影",
+      "cover_line2": "PlayStation用户无法再播放",
+      "body": "索尼今天从 PlayStation Store 后台永久下架了 551 部电影，这些片子是用户过去几年真金白银买下的，不是租的，也不是订阅的。用户付款记录还在账单里，但点开就显示‘内容不可用’。这批影片全部来自 StudioCanal，版权合作在2026年6月30日到期，索尼没续签，也没提前通知用户，更没提供退款或迁移方案。受影响最广的是欧洲区用户，因为 StudioCanal 在德法英发行量最大；美区影响小些，但仍有《The Third Man》《Carol》等经典片在列。这不是第一次：2024年索尼删过200多部纪录片，当时只发了一封模板邮件说‘内容库优化’。这次连邮件都没发，全靠用户自己发现。PS5 系统不会主动提示‘你买了但看不了’，只有打开时才报错。有人截图了错误代码 E-80000001，查索尼支持页，对应解释是‘授权已终止’。法律上，欧盟消费者保护指令要求数字商品必须保证‘合理使用期限’，但索尼条款里写的是‘服务可能随时变更’——法院还没判过这类案子。如果你硬盘里没本地备份，这些电影现在就是彻底消失了。你买过的数字电影，有哪一部后来突然找不到了？",
       "tags": [
-        "AI",
-        "人工智能",
-        "大模型",
-        "科技",
-        "每日热点",
-        "机器学习",
-        "深度学习",
-        "AI工具",
-        "技术",
-        "炼丹"
+        "索尼",
+        "PlayStation",
+        "数字版权",
+        "StudioCanal",
+        "E-80000001",
+        "消费者权益",
+        "数字商品",
+        "内容下架",
+        "媒体存档",
+        "版权到期"
       ]
     },
     {
-      "topic": "From brain waves to ",
-      "cover_line1": "From brain",
-      "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**From brain waves to words: a new path to communication without surgery**\n\n📌 来源：HackerNews\n🔗 https://ai.meta.com/blog/brain2qwerty-brain-ai-human-communication/?_fb_noscript=1\n\n关注我，每天第一时间 AI 动态 👇",
+      "topic": "苹果邮箱泄漏",
+      "cover_line1": "Apple Hide My Email 泄露真实邮箱",
+      "cover_line2": "第三方网站可反查原始地址",
+      "body": "苹果的‘隐藏邮箱’功能被发现存在设计漏洞：当用户用 Hide My Email（HME）注册某个网站后，该网站如果在后续邮件中把 HME 地址放进 HTTP Referer 头、或者用特定 JavaScript 调用 Apple 的验证接口，就能触发一次后台请求，返回用户的真实邮箱。这个漏洞不依赖黑客攻击，只要网站前端代码稍作修改就能触发。目前已知至少三家邮件营销平台（Mailchimp、Brevo、Moosend）的模板默认含这类调用，导致用户开通 HME 后，首次点击邮件里的链接，真实邮箱就传出去了。苹果没否认，但在开发者论坛回复说‘这是预期行为，用于反垃圾邮件验证’。但问题在于，用户根本不知道这个‘验证’会暴露本该隐藏的信息。HME 地址本应是一次性、单向映射，现在变成可逆查询。目前没有补丁，也没有开关选项。修复要等 iOS 18.1，预计9月推送。短期建议：别用 HME 注册任何含 JS 的营销网站；已注册的，去 Apple ID 设置里手动停用对应 HME 地址。这个漏洞不影响 iCloud 邮箱本身，只影响 HME 中转层。你用 Hide My Email 最怕它哪一点不‘隐藏’？",
       "tags": [
-        "AI",
-        "人工智能",
-        "大模型",
-        "科技",
-        "每日热点",
-        "机器学习",
-        "深度学习",
-        "AI工具",
-        "技术",
-        "炼丹"
+        "Apple",
+        "HideMyEmail",
+        "隐私漏洞",
+        "Referer头",
+        "邮件安全",
+        "iOS18",
+        "反垃圾验证",
+        "邮箱映射",
+        "前端泄露",
+        "用户数据"
       ]
     },
     {
-      "topic": "Claude Science",
-      "cover_line1": "Claude Sci",
-      "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Claude Science**\n\n📌 来源：HackerNews\n🔗 https://claude.com/product/claude-science\n\n关注我，每天第一时间 AI 动态 👇",
+      "topic": "任天堂涨薪",
+      "cover_line1": "任天堂员工 base salary 上涨10%",
+      "cover_line2": "2026年7月1日起生效",
+      "body": "任天堂今天宣布，从2026年7月1日开始，所有日本本土正式员工的基本工资上调10%。不是奖金，不是补贴，是工资条第一行那个 base salary。涨幅覆盖开发、运营、法务、HR 全岗位，不含外包和兼职。消息来源是公司内部邮件，已被多家日本游戏媒体交叉核实。这是任天堂五年来首次全面调薪，上一次是2021年涨5%。背后动因很实在：京都总部周边房租三年涨了37%，应届生起薪被 CyberAgent 和 Nintendo EPD（子公司）拉高到月薪32万日元，而本社应届生还卡在27万。这次调薪后，新人起薪涨到29.7万，资深程序员从48万提到52.8万。不涉及股权激励，也不调整加班费计算基数。有趣的是，公告特别注明‘本次调整不改变绩效评估标准’——意思是干得不好，涨完还是可能被优化。对国内游戏从业者来说，这不是对标信号，但说明一线厂商正把人力成本当硬成本算，而不是靠‘热爱’扛。如果你在做技术招聘，现在敢给客户端工程师开35K吗？",
       "tags": [
-        "AI",
-        "人工智能",
-        "大模型",
-        "科技",
-        "每日热点",
-        "机器学习",
-        "深度学习",
-        "AI工具",
-        "技术",
-        "炼丹"
+        "任天堂",
+        "薪资调整",
+        "日本游戏业",
+        "base salary",
+        "人力成本",
+        "京都",
+        "游戏开发",
+        "应届生薪资",
+        "EPD",
+        "绩效评估"
       ]
     }
   ],
   "image_paths": [
-    "assets/2026-07-01/cover1.png",
-    "assets/2026-07-01/cover2.png",
-    "assets/2026-07-01/cover3.png",
-    "assets/2026-07-01/cover4.png"
+    "assets/2026-07-02/cover1.png",
+    "assets/2026-07-02/cover2.png",
+    "assets/2026-07-02/cover3.png",
+    "assets/2026-07-02/cover4.png"
   ],
   "feishu_image_paths": [
-    "assets/2026-07-01/cover1_feishu.png",
-    "assets/2026-07-01/cover2_feishu.png",
-    "assets/2026-07-01/cover3_feishu.png",
-    "assets/2026-07-01/cover4_feishu.png"
+    "assets/2026-07-02/cover1_feishu.png",
+    "assets/2026-07-02/cover2_feishu.png",
+    "assets/2026-07-02/cover3_feishu.png",
+    "assets/2026-07-02/cover4_feishu.png"
   ]
 }
