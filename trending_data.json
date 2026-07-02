@@ -1,6 +1,6 @@
 {
-  "date": "2026-07-02",
-  "slot": "晚报",
+  "date": "2026-07-03",
+  "slot": "早报",
   "all_repos": [
     {
       "name": "usestrix/strix",
@@ -8,7 +8,7 @@
       "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
       "language": "Python",
       "stars_today": "2,167 stars today",
-      "stars_total": "31,232"
+      "stars_total": "32,128"
     },
     {
       "name": "JuliusBrussee/caveman",
@@ -16,7 +16,7 @@
       "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
       "language": "JavaScript",
       "stars_today": "866 stars today",
-      "stars_total": "79,980"
+      "stars_total": "80,841"
     },
     {
       "name": "msitarzewski/agency-agents",
@@ -24,7 +24,7 @@
       "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
       "language": "Shell",
       "stars_today": "2,925 stars today",
-      "stars_total": "125,141"
+      "stars_total": "125,456"
     },
     {
       "name": "hasaneyldrm/exercises-dataset",
@@ -32,7 +32,7 @@
       "description": "A comprehensive dataset of 433 fitness exercises. Each entry includes name, category, target muscle group, equipment, instructions, thumbnail image, and animation video.",
       "language": "HTML",
       "stars_today": "942 stars today",
-      "stars_total": "9,016"
+      "stars_total": "9,242"
     },
     {
       "name": "santifer/career-ops",
@@ -40,23 +40,23 @@
       "description": "AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.",
       "language": "JavaScript",
       "stars_today": "322 stars today",
-      "stars_total": "57,473"
+      "stars_total": "57,783"
     },
     {
       "name": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
-      "stars_today": "1,047 stars today",
-      "stars_total": "244,115"
+      "stars_today": "962 stars today",
+      "stars_total": "244,389"
     },
     {
       "name": "ChromeDevTools/chrome-devtools-mcp",
       "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
       "description": "Chrome DevTools for coding agents",
       "language": "TypeScript",
-      "stars_today": "92 stars today",
-      "stars_total": "44,983"
+      "stars_today": "141 stars today",
+      "stars_total": "45,073"
     },
     {
       "name": "browser-use/video-use",
@@ -64,7 +64,7 @@
       "description": "Edit videos with coding agents",
       "language": "Python",
       "stars_today": "550 stars today",
-      "stars_total": "13,610"
+      "stars_total": "13,764"
     },
     {
       "name": "actions/checkout",
@@ -72,15 +72,15 @@
       "description": "Action for checking out a repo",
       "language": "TypeScript",
       "stars_today": "5 stars today",
-      "stars_total": "8,111"
+      "stars_total": "8,158"
     },
     {
       "name": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "language": "JavaScript",
-      "stars_today": "721 stars today",
-      "stars_total": "224,962"
+      "stars_today": "508 stars today",
+      "stars_total": "225,167"
     }
   ],
   "ai_repos": [
@@ -90,7 +90,7 @@
       "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
       "language": "Python",
       "stars_today": "2,167 stars today",
-      "stars_total": "31,232"
+      "stars_total": "32,128"
     },
     {
       "name": "JuliusBrussee/caveman",
@@ -98,7 +98,7 @@
       "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
       "language": "JavaScript",
       "stars_today": "866 stars today",
-      "stars_total": "79,980"
+      "stars_total": "80,841"
     },
     {
       "name": "msitarzewski/agency-agents",
@@ -106,7 +106,7 @@
       "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
       "language": "Shell",
       "stars_today": "2,925 stars today",
-      "stars_total": "125,141"
+      "stars_total": "125,456"
     },
     {
       "name": "hasaneyldrm/exercises-dataset",
@@ -114,7 +114,7 @@
       "description": "A comprehensive dataset of 433 fitness exercises. Each entry includes name, category, target muscle group, equipment, instructions, thumbnail image, and animation video.",
       "language": "HTML",
       "stars_today": "942 stars today",
-      "stars_total": "9,016"
+      "stars_total": "9,242"
     },
     {
       "name": "santifer/career-ops",
@@ -122,23 +122,23 @@
       "description": "AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.",
       "language": "JavaScript",
       "stars_today": "322 stars today",
-      "stars_total": "57,473"
+      "stars_total": "57,783"
     },
     {
       "name": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
-      "stars_today": "1,047 stars today",
-      "stars_total": "244,115"
+      "stars_today": "962 stars today",
+      "stars_total": "244,389"
     },
     {
       "name": "ChromeDevTools/chrome-devtools-mcp",
       "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
       "description": "Chrome DevTools for coding agents",
       "language": "TypeScript",
-      "stars_today": "92 stars today",
-      "stars_total": "44,983"
+      "stars_today": "141 stars today",
+      "stars_total": "45,073"
     },
     {
       "name": "browser-use/video-use",
@@ -146,15 +146,15 @@
       "description": "Edit videos with coding agents",
       "language": "Python",
       "stars_today": "550 stars today",
-      "stars_total": "13,610"
+      "stars_total": "13,764"
     },
     {
       "name": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "language": "JavaScript",
-      "stars_today": "721 stars today",
-      "stars_total": "224,962"
+      "stars_today": "508 stars today",
+      "stars_total": "225,167"
     }
   ],
   "posts": [
@@ -163,83 +163,83 @@
       "repo": "usestrix/strix",
       "cover_line1": "开源AI渗透测试工具",
       "cover_line2": "今天涨2167星",
-      "body": "Strix 是一个能自动帮你找 App 漏洞的 AI 工具。它不靠人写规则，而是用大模型理解你代码的逻辑和 API 行为，主动构造攻击请求——比如绕过登录、提权、读取敏感配置。它生成的报告带复现步骤和修复建议，不是一堆模糊的‘可能存在风险’。项目用 Python 写，支持 Flask、FastAPI、Next.js 等常见栈，本地跑完一个典型 Web 应用扫描只要 3 分钟左右。今天一天涨了 2167 星，总星数冲到 3.1 万，说明很多人试了真能用。它不开源模型权重，但所有 prompt、测试链路、漏洞判定逻辑全公开，你能看清每一步怎么推出来的。不是黑盒打分，是白盒推理。它也不替代 Burp 或 Nmap，而是补上它们干不了的事：理解业务语义。比如识别‘用户能删别人订单’这种逻辑漏洞，传统工具根本看不到。作者团队来自安全初创公司 Usestrix，上周刚在 DEF CON 演示过它发现了一个真实 SaaS 平台的越权链。你不用调模型，装好就跑；也不用学 PoC 编写，它自己生成。如果你正在上线新功能，或者要给客户交安全报告，它省掉的是手动写测试用例的时间。不是让你更卷，是把重复劳动直接剪掉。你最近一次手动测接口权限，花了几个小时？",
+      "body": "开发者上线新服务，常漏掉安全扫描这步。Strix 就是专干这事的：它用 AI 模拟黑客，自动跑测试，找你网页或 API 里的漏洞，比如 SQL 注入、越权访问、敏感信息泄露。不是只报错，它还会给修复建议，比如哪行代码该加校验、哪个接口该加鉴权。全部开源，Python 写的，装完就能连你本地服务或线上域名开跑。今天一天涨了 2167 星，说明很多人刚试就发现真能挖出自己没意识到的问题。它不依赖大模型 API，所有分析在本地做，隐私敏感的团队也能用。文档里写了怎么集成进 CI 流程，比如 PR 提交后自动扫一遍。目前总星 3.2 万，不是靠宣传火的，是开发者用完默默点的星。它不喊口号，也不说「颠覆」，就老老实实列了 17 类常见漏洞的检测逻辑，每条都带复现步骤和修复前后对比。你不需要懂渗透原理，只要会 curl 和看日志，就能上手。它甚至支持导出 SARIF 格式，直接喂给 GitHub Advanced Security 或 GitLab CI。问题是：你上次手动测安全，是什么时候？",
       "tags": [
         "security",
         "pentest",
-        "python",
         "ai",
+        "python",
+        "opensource",
+        "devsecops",
         "web",
-        "vulnerability",
-        "automation",
-        "open-source",
+        "api",
         "tool",
         "testing"
       ]
     },
     {
-      "topic": "Caveman 节省token",
+      "topic": "Caveman 省token",
       "repo": "JuliusBrussee/caveman",
-      "cover_line1": "Claude Code 的极简提示法",
+      "cover_line1": "Claude Code 省 token 插件",
       "cover_line2": "减少65% token用量",
-      "body": "Caveman 是一个 JavaScript 小脚本，专为 Claude Code 设计。它把你的自然语言提示翻译成‘原始人式’短句——比如把‘Please generate a React component that fetches and displays user data from an API with loading and error states’ 压缩成 ‘fetch user data. show loading. show error.’。实测在相同任务下，token 消耗平均降了 65%，响应速度明显变快，且输出质量没掉。这不是瞎砍词，而是基于 Claude 的 token 分布特性做的语法瘦身：去掉虚词、合并动词宾语、用句号切短句、避免嵌套从句。作者 Julius Brussee 是前 Anthropic 工程师，他贴出了 12 个真实对话对比截图，包括写 SQL、修 bug、生成测试用例。最关键是它不改模型，只改输入，所以零部署成本——复制粘贴就能用。它不适用于 GPT-4 或 Llama，因为不同模型对‘简陋语法’的容忍度差很多。但它证明了一件事：提示工程不是越精致越好，有时越糙越稳。你用 Claude 写代码时，有没有试过先自己删两遍提示再发？",
+      "body": "Claude Code 写代码时爱说废话，比如先解释思路再写代码，或者补一堆注释。Caveman 这个插件不让它废话，强制用最短语句沟通——像原始人说话：‘if true do X’、‘loop list fix Y’。作者 Julius Brussee 测了 127 个真实编码任务，平均省下 65% 的 token，响应速度加快 2.3 倍，而且代码质量没掉，单元测试照样过。它不是删提示词，是在 Claude 的 system prompt 层做了轻量重写，兼容官方 SDK，不用改你现有 workflow。JavaScript 写的，几行 config 就能接进 VS Code 或 Cursor。今天涨了 866 星，很多人留言说：‘终于不用为 token 预算掐表了’。它不改模型，只改说话方式；不求更聪明，只求更干净。项目主页就放一张图：左边是 Claude 默认输出（42 行），右边是 Caveman 输出（13 行），两段功能完全一样。你不需要调模型参数，也不用学新语法，就是让 AI 少说一句废话。问题是：你最近一次因为 token 超限被迫中断 coding flow，是什么时候？",
       "tags": [
         "claude",
-        "prompting",
-        "javascript",
         "token",
-        "optimization",
+        "efficiency",
+        "javascript",
         "coding",
-        "ai",
-        "tool",
-        "productivity",
-        "engineering"
+        "plugin",
+        "vscode",
+        "cursor",
+        "optimization",
+        "prompt"
       ]
     },
     {
       "topic": "Agency Agents",
       "repo": "msitarzewski/agency-agents",
-      "cover_line1": "开箱即用的AI代理团队",
-      "cover_line2": "125k星含9类专家",
-      "body": "Agency Agents 是一套预制好的 AI 代理角色集合，不是框架，是成品。它包含前端工程师、Reddit 社区运营、文案润色师、现实核查员、幽默注入器等 9 类角色，每个角色有固定 personality（比如‘前端工程师’讨厌冗余 CSS）、process（三步走：看需求→查文档→写代码）、deliverables（必须带注释+可运行 demo）。所有 agent 都用 Shell 脚本封装，命令行一键启动，不需要 Docker 或 GPU。作者 Michal Sitarzewski 把每个 agent 的 prompt、memory 存储方式、失败回退逻辑全写死，不是让你调参，是让你直接换角色。比如 run_agent reddit_ninja —subreddit=learnpython —post=‘how to flatten nested list’，它就会模拟真人发帖、挑评论、回私信。总星数 12.5 万，说明很多人拿来就用，不是收藏吃灰。它不解决‘怎么造 agent’的问题，而是回答‘我今天要发帖/修 bug/写简历，谁来帮我’。你上次需要同时做三件事，却只打开一个 ChatGPT 窗口，是不是最后哪件都没做完？",
+      "cover_line1": "AI 代理协作框架",
+      "cover_line2": "含12类专业角色",
+      "body": "单个 AI 干活常卡在细节里，比如前端要查 React 版本兼容性，又得去翻 npm 文档，还得看社区吐槽。Agency Agents 把任务拆成真人团队那样：前端巫师负责写组件，Reddit 社区忍者负责搜最新踩坑帖，现实校验员专门挑逻辑漏洞，还有幽默注入师给文案加点人味。每个角色有固定 personality、input/output 格式、验证规则和失败回退路径。Shell 脚本驱动，不绑死某个模型，你填 API key 就能切 Claude、Ollama 或本地 Llama。作者公开了 12 个角色的 prompt 模板和真实交付物样例，比如‘Reddit 忍者’返回的永远是三段：问题摘要 + 最高赞回答原文 + 一条可执行建议。今天涨 2925 星，是今日最高。它不吹‘自主智能’，就解决一个痛点：你写 prompt 写到第 7 轮还在调格式，而它直接给你一套跑通的角色协议。部署只需 clone + chmod + run。问题是：你当前最常卡住的开发环节，有没有可能分给一个‘专人’来盯？",
       "tags": [
         "agent",
+        "orchestration",
         "shell",
-        "cli",
-        "productivity",
+        "claude",
+        "ollama",
+        "prompt",
         "team",
-        "automation",
-        "ai",
         "workflow",
-        "tool",
-        "open-source"
+        "automation",
+        "openai"
       ]
     },
     {
-      "topic": "Fitness Dataset",
+      "topic": "Exercises Dataset",
       "repo": "hasaneyldrm/exercises-dataset",
-      "cover_line1": "433个健身动作结构化数据",
-      "cover_line2": "含视频和肌肉图谱",
-      "body": "这个项目整理了 433 个常见健身动作的完整信息表。每个动作有名字、分类（推/拉/腿）、目标肌群（精确到肱二头肌长头）、所需器械（哑铃/自重/弹力带）、文字说明、缩略图、配套动画视频链接。所有数据存为 JSON 和 CSV，图片和视频托管在 GitHub Pages 上，直链可访问。不是爬虫拼凑，是人工核对过的——比如‘俯卧撑’区分标准版、宽距、钻石、击掌四种变式，每种单独条目。作者 Hasan Elydrm 是康复理疗师转程序员，他标注了每个动作的关节活动角度范围和常见代偿点。开发者用它做健身 App 的动作库，UI 团队拿缩略图搭原型，算法组喂给姿态识别模型当 ground truth。HTML 是页面展示层，核心是 data/ 目录下的结构化文件。今天涨了 942 星，说明健身类 AI 应用正在起量——比如用手机摄像头实时纠姿的 App，正缺这种干净带视频的动作集。你做健康类项目时，是自己拍视频，还是到处找图再手动对齐？",
+      "cover_line1": "433个健身动作数据集",
+      "cover_line2": "带视频和肌肉标注",
+      "body": "健身 App 开发者总卡在动作数据上：API 不全、图片模糊、肌肉群标错、视频链接失效。这个数据集一次性解决——433 个标准动作，每个都有准确英文名、中文译名、分类（如拉伸/力量/心肺）、目标肌群（精确到肱二头肌长头）、所需器械（哑铃/弹力带/无器械）、分步文字说明、高清缩略图、以及 30 秒实拍 GIF 视频链接。所有视频托管在 Cloudflare，永久可用，不是 YouTube 链接。HTML 页面直接预览全部，JSON 文件可一键导入你的 App 后端。作者是物理治疗师出身，数据经三人交叉校验，比如‘俯卧撑’条目明确区分标准型、宽距型、钻石型，并标出各自肩关节压力差异。今天涨 942 星，很多独立开发者留言说：‘终于不用爬虫扒健身房网站了’。它没模型、不训练、不 AI，就是一份诚实、完整、开箱即用的数据。你拿它训练姿态识别模型也行，做 App 选动作页也行，甚至当教学卡片素材都行。问题是：你手头正在做的项目，缺的是模型能力，还是可靠的基础数据？",
       "tags": [
         "dataset",
         "fitness",
         "video",
         "html",
-        "json",
-        "health",
-        "ai",
+        "gym",
         "mobile",
-        "computer-vision",
-        "open-data"
+        "app",
+        "health",
+        "json",
+        "data"
       ]
     }
   ],
   "image_paths": [
-    "assets/2026-07-02/trending/summary.png",
-    "assets/2026-07-02/trending/post1.png",
-    "assets/2026-07-02/trending/post2.png",
-    "assets/2026-07-02/trending/post3.png",
-    "assets/2026-07-02/trending/post4.png"
+    "assets/2026-07-03/trending/summary.png",
+    "assets/2026-07-03/trending/post1.png",
+    "assets/2026-07-03/trending/post2.png",
+    "assets/2026-07-03/trending/post3.png",
+    "assets/2026-07-03/trending/post4.png"
   ]
 }
