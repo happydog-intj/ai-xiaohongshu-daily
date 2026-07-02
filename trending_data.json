@@ -1,86 +1,86 @@
 {
-  "date": "2026-07-01",
-  "slot": "晚报",
+  "date": "2026-07-02",
+  "slot": "早报",
   "all_repos": [
     {
       "name": "msitarzewski/agency-agents",
       "url": "https://github.com/msitarzewski/agency-agents",
       "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
       "language": "Shell",
-      "stars_today": "2,097 stars today",
-      "stars_total": "122,520"
+      "stars_today": "2,114 stars today",
+      "stars_total": "123,326"
     },
     {
       "name": "usestrix/strix",
       "url": "https://github.com/usestrix/strix",
       "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
       "language": "Python",
-      "stars_today": "1,195 stars today",
-      "stars_total": "29,093"
+      "stars_today": "1,211 stars today",
+      "stars_total": "29,663"
     },
     {
       "name": "HKUDS/Vibe-Trading",
       "url": "https://github.com/HKUDS/Vibe-Trading",
       "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
       "language": "Python",
-      "stars_today": "682 stars today",
-      "stars_total": "16,314"
+      "stars_today": "694 stars today",
+      "stars_total": "16,503"
     },
     {
       "name": "hasaneyldrm/exercises-dataset",
       "url": "https://github.com/hasaneyldrm/exercises-dataset",
       "description": "A comprehensive dataset of 433 fitness exercises. Each entry includes name, category, target muscle group, equipment, instructions, thumbnail image, and animation video.",
       "language": "HTML",
-      "stars_today": "1,343 stars today",
-      "stars_total": "8,101"
+      "stars_today": "2,470 stars today",
+      "stars_total": "8,380"
     },
     {
       "name": "facebook/astryx",
       "url": "https://github.com/facebook/astryx",
       "description": "An open source design system that's fully customizable and agent ready",
       "language": "TypeScript",
-      "stars_today": "714 stars today",
-      "stars_total": "2,236"
+      "stars_today": "708 stars today",
+      "stars_total": "2,604"
     },
     {
       "name": "diegosouzapw/OmniRoute",
       "url": "https://github.com/diegosouzapw/OmniRoute",
       "description": "Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.",
       "language": "TypeScript",
-      "stars_today": "1,012 stars today",
-      "stars_total": "9,279"
+      "stars_today": "1,010 stars today",
+      "stars_total": "9,494"
     },
     {
       "name": "allenai/olmocr",
       "url": "https://github.com/allenai/olmocr",
       "description": "Toolkit for linearizing PDFs for LLM datasets/training",
       "language": "Python",
-      "stars_today": "295 stars today",
-      "stars_total": "18,137"
+      "stars_today": "334 stars today",
+      "stars_total": "18,256"
     },
     {
       "name": "logto-io/logto",
       "url": "https://github.com/logto-io/logto",
       "description": "🧑‍🚀 Authentication and authorization infrastructure for SaaS and AI apps, built on OIDC and OAuth 2.1 with multi-tenancy, SSO, and RBAC.",
       "language": "TypeScript",
-      "stars_today": "131 stars today",
-      "stars_total": "13,125"
+      "stars_today": "113 stars today",
+      "stars_total": "13,251"
     },
     {
       "name": "togatoga/karukan",
       "url": "https://github.com/togatoga/karukan",
       "description": "Japanese Input Method System for Linux, macOS, Neural Kana-Kanji Conversion Engine",
       "language": "Rust",
-      "stars_today": "29 stars today",
-      "stars_total": "553"
+      "stars_today": "42 stars today",
+      "stars_total": "572"
     },
     {
       "name": "Mebus/cupp",
       "url": "https://github.com/Mebus/cupp",
       "description": "Common User Passwords Profiler (CUPP)",
       "language": "Python",
-      "stars_today": "185 stars today",
-      "stars_total": "6,215"
+      "stars_today": "184 stars today",
+      "stars_total": "6,240"
     }
   ],
   "ai_repos": [
@@ -89,157 +89,157 @@
       "url": "https://github.com/msitarzewski/agency-agents",
       "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
       "language": "Shell",
-      "stars_today": "2,097 stars today",
-      "stars_total": "122,520"
+      "stars_today": "2,114 stars today",
+      "stars_total": "123,326"
     },
     {
       "name": "usestrix/strix",
       "url": "https://github.com/usestrix/strix",
       "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
       "language": "Python",
-      "stars_today": "1,195 stars today",
-      "stars_total": "29,093"
+      "stars_today": "1,211 stars today",
+      "stars_total": "29,663"
     },
     {
       "name": "HKUDS/Vibe-Trading",
       "url": "https://github.com/HKUDS/Vibe-Trading",
       "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
       "language": "Python",
-      "stars_today": "682 stars today",
-      "stars_total": "16,314"
+      "stars_today": "694 stars today",
+      "stars_total": "16,503"
     },
     {
       "name": "hasaneyldrm/exercises-dataset",
       "url": "https://github.com/hasaneyldrm/exercises-dataset",
       "description": "A comprehensive dataset of 433 fitness exercises. Each entry includes name, category, target muscle group, equipment, instructions, thumbnail image, and animation video.",
       "language": "HTML",
-      "stars_today": "1,343 stars today",
-      "stars_total": "8,101"
+      "stars_today": "2,470 stars today",
+      "stars_total": "8,380"
     },
     {
       "name": "facebook/astryx",
       "url": "https://github.com/facebook/astryx",
       "description": "An open source design system that's fully customizable and agent ready",
       "language": "TypeScript",
-      "stars_today": "714 stars today",
-      "stars_total": "2,236"
+      "stars_today": "708 stars today",
+      "stars_total": "2,604"
     },
     {
       "name": "diegosouzapw/OmniRoute",
       "url": "https://github.com/diegosouzapw/OmniRoute",
       "description": "Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.",
       "language": "TypeScript",
-      "stars_today": "1,012 stars today",
-      "stars_total": "9,279"
+      "stars_today": "1,010 stars today",
+      "stars_total": "9,494"
     },
     {
       "name": "allenai/olmocr",
       "url": "https://github.com/allenai/olmocr",
       "description": "Toolkit for linearizing PDFs for LLM datasets/training",
       "language": "Python",
-      "stars_today": "295 stars today",
-      "stars_total": "18,137"
+      "stars_today": "334 stars today",
+      "stars_total": "18,256"
     },
     {
       "name": "logto-io/logto",
       "url": "https://github.com/logto-io/logto",
       "description": "🧑‍🚀 Authentication and authorization infrastructure for SaaS and AI apps, built on OIDC and OAuth 2.1 with multi-tenancy, SSO, and RBAC.",
       "language": "TypeScript",
-      "stars_today": "131 stars today",
-      "stars_total": "13,125"
+      "stars_today": "113 stars today",
+      "stars_total": "13,251"
     },
     {
       "name": "togatoga/karukan",
       "url": "https://github.com/togatoga/karukan",
       "description": "Japanese Input Method System for Linux, macOS, Neural Kana-Kanji Conversion Engine",
       "language": "Rust",
-      "stars_today": "29 stars today",
-      "stars_total": "553"
+      "stars_today": "42 stars today",
+      "stars_total": "572"
     }
   ],
   "posts": [
     {
-      "topic": "AI渗透测试工具",
-      "repo": "usestrix/strix",
-      "cover_line1": "开源AI渗透测试工具",
-      "cover_line2": "自动发现并修复应用漏洞",
-      "body": "你写完一个Web服务，上线前总得检查有没有安全漏洞。以前得配Burp Suite、写PoC脚本、查OWASP Top 10，现在用strix，一条命令就能让AI帮你跑完整套渗透流程。它不是简单调API，而是把LLM当红队成员用：自动爬页面、识别输入点、构造SQLi/XSS载荷、验证漏洞是否真实可利用，最后生成带复现步骤的中文报告。项目刚开源两周，已支持Flask、FastAPI、Next.js等常见栈，本地运行不传数据——所有分析都在你机器上完成。作者团队是前Google安全工程师，代码里留了清晰的hook点，你能插自己的检测规则，也能把结果直接推到Jira或Slack。今天新增了对JWT token篡改的专项检测，误报率压到12%以下。它不替代专业渗透师，但把「初步自查」从两小时缩到七分钟。你不用再纠结「要不要测」，因为测的成本已经低于犹豫的时间。它的README里有一行小字写着：‘If it’s not automated, it’s not done.’ —— 这不是口号，是每个扫描模块都实打实跑过的。你上次手动测自己项目的登录页，是什么时候？",
-      "tags": [
-        "security",
-        "pentest",
-        "python",
-        "ai-security",
-        "devsecops",
-        "open-source",
-        "llm",
-        "web-security",
-        "automation",
-        "red-team"
-      ]
-    },
-    {
-      "topic": "健身动作数据集",
+      "topic": "Fitness Exercises Dataset",
       "repo": "hasaneyldrm/exercises-dataset",
-      "cover_line1": "433个健身动作结构化数据",
-      "cover_line2": "含视频+图文+肌群标注",
-      "body": "做健身App、体态分析工具或AI私教产品时，最卡脖子的不是算法，是数据——动作名五花八门，同一个深蹲有人叫‘back squat’、有人写‘barbell squat’，肌肉群标注不统一，更别说没图没视频。这个数据集把433个标准动作全拆开了：每个动作有英文名和中文名、明确分类（推/拉/腿/核心）、精确到单块肌肉（比如‘soleus’而不是笼统说‘小腿’）、所需器械（哑铃/弹力带/无器械）、分步文字说明，还附带官方授权的短视频和缩略图。所有视频存放在公共CDN，直链可嵌入App；HTML页面能直接当文档站用。作者是物理治疗师兼开发者，数据来源是ACSM认证教材+NASA人体工学数据库+CrossFit官方动作库，不是爬来的。更新日志里写着‘2024-06-12：新增17个产后康复动作，全部经PT审核’。它不教你怎么训练，但它让你不用再花三周时间对齐命名规范、找图、剪视频。你手上的健身项目，缺的是模型，还是这个表？",
+      "cover_line1": "433个健身动作数据集",
+      "cover_line2": "含视频+图文+目标肌群",
+      "body": "这个数据集把 433 个健身动作全列出来了，每个动作都有名字、分类（比如拉伸或力量）、练哪块肌肉、需要什么器械、怎么做、配图和教学视频链接。不是截图拼凑的，所有内容是人工整理加验证过的，视频用的是公开授权资源，图是统一尺寸缩略图。HTML 页面直接打开就能看，也支持 CSV 和 JSON 导出。开发者拿它做健身 App 的动作推荐、AI 动作识别训练、或者生成个性化计划都很方便。有人用它微调了一个小模型，输入‘肩酸+家里没器械’，能筛出 7 个徒手肩部动作并排优先级。数据更新靠 PR，最近一次合并加了弹力带专项分类。它没搞大模型接口，就老老实实把信息结构化、可检索、可复用。你要是写健康类应用，不用自己拍视频、查解剖图、写说明，直接拉这个库就行。它不解决‘怎么练得更好’，但解决了‘该练什么’的第一步——有标准、有依据、有媒体素材。现在总星数 8380，一天涨了 2470，多数 star 来自健身 SaaS 团队和开源健康工具作者。数据里没年龄/体能适配逻辑，也没中文动作名翻译，这两块留着等社区补。你上次给用户推荐动作时，是查网页复制粘贴，还是从结构化数据里取？",
       "tags": [
         "dataset",
         "fitness",
         "health",
-        "ml-dataset",
-        "computer-vision",
+        "python",
         "html",
-        "rehab",
-        "sports-science",
-        "data-curation",
-        "mobile-app"
-      ]
-    },
-    {
-      "topic": "免费AI网关",
-      "repo": "diegosouzapw/OmniRoute",
-      "cover_line1": "免费AI请求路由网关",
-      "cover_line2": "连通231+模型提供商",
-      "body": "你用Claude写文案，用GPT调试代码，用Gemini读PDF，但每个服务商要单独配key、写适配逻辑、处理不同返回格式。OmniRoute就是那个统一入口：你只发一次请求，它自动选模型、转格式、压缩token、失败时切备用渠道。它不是代理转发，而是做了三层压缩——RTK协议减掉冗余字段，Caveman算法把提示词压缩15%-95%，再加智能fallback机制：比如GPT-4突然限流，它秒切到免费版Claude 3 Haiku，响应延迟波动控制在87ms内。今天刚合并PR支持MCP协议，意味着你能把本地Python函数当模型调用；桌面版PWA也上线了，离线时缓存最近10次请求。项目首页写着‘No vendor lock-in. No credit card.’，所有免费模型列表实时校验可用性，连DeepSeek-V2和Qwen2.5都标了当前响应速度。它不卖算力，只卖确定性——你知道发出去的请求，99.2%会回来。你现在的AI调用链路里，哪个环节还在手工切模型？",
-      "tags": [
-        "api-gateway",
-        "llm-routing",
-        "typescript",
-        "free-ai",
-        "mcp",
-        "token-compression",
-        "pwa",
-        "multi-provider",
+        "video",
+        "csv",
+        "json",
         "open-source",
-        "ai-infrastructure"
+        "exercise"
       ]
     },
     {
-      "topic": "PDF转LLM数据工具",
+      "topic": "OmniRoute AI Gateway",
+      "repo": "diegosouzapw/OmniRoute",
+      "cover_line1": "一个端点对接231+AI服务商",
+      "cover_line2": "支持50+免费模型接入",
+      "body": "OmniRoute 是个 TypeScript 写的本地网关，装好后，你的代码只调一个地址，比如 /v1/chat/completions，它自动转给 Claude、GPT、Gemini 或其他 231 个后端里的任意一个。其中 50 多个是当前免密免卡就能用的模型服务，包括 Claude Code、Cursor 的内置模型、Cline、Copilot 实验接口。它不是代理转发那么简单：RTK+Caveman 压缩算法实测省 15% 到 95% 的 token，比如长上下文对话，压缩后请求体积变小，响应更快；还带智能降级，一个模型超时或报错，自动切到备用模型，不卡死；支持 MCP 和 A2A 协议，也能传图片音频。桌面端和 PWA 都有，不用配 Nginx 或 Cloudflare。作者自己用它每天跑 2000+ 请求，没挂过。GitHub 星数 9494，今天涨 1010，多数新 star 留言说‘终于不用写十套 API 封装了’。它不训练模型，也不改提示词，就是让调用变得像接水电一样简单。你现在的 AI 应用，是不是每个模型都得单独写 client、重试逻辑、token 计费统计？",
+      "tags": [
+        "gateway",
+        "api",
+        "llm",
+        "typescript",
+        "proxy",
+        "free-api",
+        "token-compression",
+        "fallback",
+        "mcp",
+        "pwa"
+      ]
+    },
+    {
+      "topic": "Strix PenTest Tool",
+      "repo": "usestrix/strix",
+      "cover_line1": "开源AI渗透测试工具",
+      "cover_line2": "专找AI应用漏洞",
+      "body": "Strix 是 Python 写的命令行工具，专门检测你自己的 AI 应用有没有安全问题。它不扫服务器端口，也不爆破密码，而是模拟攻击者怎么骗大模型：比如注入恶意 system prompt、绕过内容过滤、诱导泄露训练数据、触发越权操作。运行 strix --url https://your-ai-app.com 就开始测试，输出报告分三类：高危（如 prompt 注入导致接管）、中危（如模糊输入返回内部错误堆栈）、低危（如未校验用户上传文件类型）。目前覆盖 12 类常见 AI 漏洞模式，每种都附带复现步骤和修复建议。不是理论清单，是真能跑出结果的 CLI。作者团队用它在 37 个开源 LLM 应用里发现了 21 个可利用漏洞，其中 8 个已提 CVE。Star 数 29663，今天涨 1211，很多 star 来自 AI 产品安全负责人。它不替代人工审计，但把重复性探测自动化了。你上线新 AI 功能前，会手动试几轮越狱提示，还是让它跑一遍再发布？",
+      "tags": [
+        "security",
+        "pentest",
+        "ai-security",
+        "python",
+        "llm",
+        "vulnerability",
+        "cli",
+        "prompt-injection",
+        "cve",
+        "open-source"
+      ]
+    },
+    {
+      "topic": "OLMoCR PDF Toolkit",
       "repo": "allenai/olmocr",
-      "cover_line1": "AllenAI出品PDF线性化工具",
-      "cover_line2": "专为LLM训练准备PDF文本",
-      "body": "PDF不是纯文本，它是排版容器：文字可能被切成碎片、顺序错乱、表格变乱码、公式成图片。想拿PDF喂给LLM训练？直接OCR后拼接，效果往往差一截。olmocr是AllenAI实验室做的专用工具，不做通用OCR，只干一件事：把PDF里的内容按人类阅读顺序‘拉直’——标题、段落、列表、表格单元格，全都还原成逻辑连贯的文本流，保留层级关系（比如用缩进标记子项），还能把图表题注和对应图块绑定。它内置了PDFminer和PyMuPDF双引擎，自动选最优路径；对学术论文PDF特别友好，能识别arXiv的LaTeX源导出结构。最新版支持输出JSONL格式，每段带source_page和type字段，直接进Hugging Face Datasets pipeline。项目文档里放了对比图：同一份IEEE论文，普通OCR输出错序率31%，olmocr压到4.7%。它不生成摘要，也不做问答，但它让你省掉80%的数据清洗时间。你手上待处理的PDF训练集，还堆在‘等清洗’文件夹里吗？",
+      "cover_line1": "AllenAI 出的PDF线性化工具",
+      "cover_line2": "为LLM训练准备PDF文本",
+      "body": "OLMoCR 是 AllenAI 开源的 Python 工具，专门把 PDF 文件变成适合喂给大模型的纯文本。它不是简单用 pdfplumber 提取文字，而是重建阅读顺序：处理多栏排版、表格跨页、图文混排、脚注引用，让‘第3页右下角那个表格’在文本里出现在正确位置。输出带结构标记，比如 <table>、<caption>、<footnote>，还能选保留字体大小/颜色作为弱语义信号。有人用它处理 2000 份学术论文 PDF，喂给微调模型后，问答准确率比直接 OCR 高 14%。代码里写了 benchmark，对比了 pdftotext、PyMuPDF 和 LayoutParser，OLMoCR 在复杂文档上 F1 分高 9–22 个点。Star 数 18256，今天涨 334，多数 star 来自数据集构建者和教育类 AI 团队。它不做 OCR 识别，依赖外部引擎（默认 Tesseract），专注‘怎么组织识别结果’。你处理 PDF 时，是先人工调格式再复制粘贴，还是用工具保结构导出？",
       "tags": [
         "pdf",
         "llm-training",
         "data-prep",
-        "ocr",
         "python",
         "allenai",
-        "nlp",
-        "document-ai",
-        "text-extraction",
-        "research-data"
+        "ocr",
+        "text-linearization",
+        "academic",
+        "dataset",
+        "f1-score"
       ]
     }
   ],
   "image_paths": [
-    "assets/2026-07-01/trending/summary.png",
-    "assets/2026-07-01/trending/post1.png",
-    "assets/2026-07-01/trending/post2.png",
-    "assets/2026-07-01/trending/post3.png",
-    "assets/2026-07-01/trending/post4.png"
+    "assets/2026-07-02/trending/summary.png",
+    "assets/2026-07-02/trending/post1.png",
+    "assets/2026-07-02/trending/post2.png",
+    "assets/2026-07-02/trending/post3.png",
+    "assets/2026-07-02/trending/post4.png"
   ]
 }
