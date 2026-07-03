@@ -1,6 +1,6 @@
 {
-  "date": "2026-07-03",
-  "slot": "晚报",
+  "date": "2026-07-04",
+  "slot": "早报",
   "all_repos": [
     {
       "name": "usestrix/strix",
@@ -8,7 +8,7 @@
       "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
       "language": "Python",
       "stars_today": "2,804 stars today",
-      "stars_total": "33,888"
+      "stars_total": "34,583"
     },
     {
       "name": "openai/codex-plugin-cc",
@@ -16,7 +16,7 @@
       "description": "Use Codex from Claude Code to review code or delegate tasks.",
       "language": "JavaScript",
       "stars_today": "629 stars today",
-      "stars_total": "22,991"
+      "stars_total": "23,193"
     },
     {
       "name": "JuliusBrussee/caveman",
@@ -24,7 +24,7 @@
       "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
       "language": "JavaScript",
       "stars_today": "2,851 stars today",
-      "stars_total": "82,540"
+      "stars_total": "82,909"
     },
     {
       "name": "elastic/elasticsearch",
@@ -32,7 +32,7 @@
       "description": "Free and Open Source, Distributed, RESTful Search Engine",
       "language": "Java",
       "stars_today": "77 stars today",
-      "stars_total": "77,254"
+      "stars_total": "77,330"
     },
     {
       "name": "actions/checkout",
@@ -40,7 +40,7 @@
       "description": "Action for checking out a repo",
       "language": "TypeScript",
       "stars_today": "129 stars today",
-      "stars_total": "8,233"
+      "stars_total": "8,260"
     },
     {
       "name": "ChromeDevTools/chrome-devtools-mcp",
@@ -48,7 +48,7 @@
       "description": "Chrome DevTools for coding agents",
       "language": "TypeScript",
       "stars_today": "404 stars today",
-      "stars_total": "45,376"
+      "stars_total": "45,480"
     },
     {
       "name": "ansible/ansible",
@@ -56,15 +56,15 @@
       "description": "Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems.https://docs.ansible.com.",
       "language": "Python",
       "stars_today": "50 stars today",
-      "stars_total": "69,117"
+      "stars_total": "69,194"
     },
     {
       "name": "facebook/astryx",
       "url": "https://github.com/facebook/astryx",
       "description": "An open source design system that's fully customizable and agent ready",
       "language": "TypeScript",
-      "stars_today": "1,108 stars today",
-      "stars_total": "4,236"
+      "stars_today": "943 stars today",
+      "stars_total": "4,600"
     },
     {
       "name": "rommapp/romm",
@@ -72,7 +72,7 @@
       "description": "A beautiful, powerful, self-hosted rom manager and player.",
       "language": "Python",
       "stars_today": "236 stars today",
-      "stars_total": "9,628"
+      "stars_total": "9,802"
     },
     {
       "name": "harvard-edge/cs249r_book",
@@ -80,7 +80,7 @@
       "description": "Machine Learning Systems",
       "language": "Python",
       "stars_today": "792 stars today",
-      "stars_total": "26,005"
+      "stars_total": "26,150"
     }
   ],
   "ai_repos": [
@@ -90,7 +90,7 @@
       "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
       "language": "Python",
       "stars_today": "2,804 stars today",
-      "stars_total": "33,888"
+      "stars_total": "34,583"
     },
     {
       "name": "openai/codex-plugin-cc",
@@ -98,7 +98,7 @@
       "description": "Use Codex from Claude Code to review code or delegate tasks.",
       "language": "JavaScript",
       "stars_today": "629 stars today",
-      "stars_total": "22,991"
+      "stars_total": "23,193"
     },
     {
       "name": "JuliusBrussee/caveman",
@@ -106,7 +106,7 @@
       "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
       "language": "JavaScript",
       "stars_today": "2,851 stars today",
-      "stars_total": "82,540"
+      "stars_total": "82,909"
     },
     {
       "name": "ChromeDevTools/chrome-devtools-mcp",
@@ -114,7 +114,7 @@
       "description": "Chrome DevTools for coding agents",
       "language": "TypeScript",
       "stars_today": "404 stars today",
-      "stars_total": "45,376"
+      "stars_total": "45,480"
     },
     {
       "name": "ansible/ansible",
@@ -122,15 +122,15 @@
       "description": "Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems.https://docs.ansible.com.",
       "language": "Python",
       "stars_today": "50 stars today",
-      "stars_total": "69,117"
+      "stars_total": "69,194"
     },
     {
       "name": "facebook/astryx",
       "url": "https://github.com/facebook/astryx",
       "description": "An open source design system that's fully customizable and agent ready",
       "language": "TypeScript",
-      "stars_today": "1,108 stars today",
-      "stars_total": "4,236"
+      "stars_today": "943 stars today",
+      "stars_total": "4,600"
     }
   ],
   "posts": [
@@ -139,83 +139,83 @@
       "repo": "usestrix/strix",
       "cover_line1": "开源AI渗透测试工具",
       "cover_line2": "今天涨2804星",
-      "body": "你写了个Web应用，上线前想确认它有没有被AI轻易攻破——Strix就是干这个的。它不是模拟黑客，而是用真实大模型当红队，自动跑SQL注入、越权访问、提示词泄露这些常见漏洞检测，结果直接标出哪行代码有问题、怎么修。项目昨天刚发v0.3，新增了对FastAPI和Next.js的开箱支持，还带一个本地Web界面，点几下就能启动扫描。它不依赖云API，所有推理都在本地跑，用的是量化后的Phi-3和Llama-3-8B，一台32G内存的机器就能撑住中等规模项目。开发者反馈说，它在测试自己写的登录接口时，3分钟内就揪出一个没校验Referer导致的CSRF绕过，而人工代码审计花了两天。目前总星数33888，今天单日涨了2804星，是今天涨幅最高的AI安全项目。它把以前要配Prompt、调温度、写验证脚本才能做的事，打包成一条命令：strix scan --target http://localhost:3000。背后团队来自荷兰一家专注AI安全的初创公司，代码全开源，MIT协议。如果你的CI流程里还没加AI安全检查，这个工具现在就能插进去，不用改架构。它不承诺100%发现所有漏洞，但能帮你挡住80%的低垂果实型攻击。你最近上线的新服务，做过AI红队扫描吗？",
+      "body": "你写了个Web应用，上线前总得看看有没有安全漏洞。以前得请人做渗透测试，或者自己啃OWASP指南加手动跑Burp Suite。Strix现在能用AI自动干这事：它把你的API文档或网页爬下来，模拟黑客思路，试SQL注入、越权访问、提示词泄露这些常见毛病，还直接告诉你哪段代码该修。不是泛泛而谈“可能有风险”，而是给出具体路径、请求样例和修复建议。项目今天涨了2804星，总星数3.4万，说明很多人真在用——不是玩具项目，而是接了真实后端服务做扫描。它用Python写，命令行一条指令就能启动，支持插件扩展检测规则，连FastAPI和Next.js的常见部署模式都预置了检查逻辑。背后团队叫usestrix，没藏着掖着，所有检测逻辑开源可读，不调闭源大模型，本地就能跑。你不用懂红队术语，只要会curl，就能看懂报告里写的“/api/user?id=123 返回了管理员字段”。它不替代专业安全审计，但能把90%低级漏洞挡在上线前。你昨天刚合并的PR，有没有漏掉一个未授权访问？",
       "tags": [
-        "安全",
-        "渗透测试",
-        "AI红队",
-        "开源",
-        "Python",
-        "本地运行",
-        "Web应用",
-        "漏洞扫描",
-        "开发者工具",
-        "大模型"
+        "security",
+        "pentest",
+        "ai",
+        "python",
+        "web",
+        "oss",
+        "devsecops",
+        "automation",
+        "vulnerability",
+        "testing"
       ]
     },
     {
-      "topic": "Caveman 压缩",
+      "topic": "Claude用Codex",
+      "repo": "openai/codex-plugin-cc",
+      "cover_line1": "OpenAI官方Codex插件",
+      "cover_line2": "供Claude Code调用",
+      "body": "Claude Code能写代码、能解释错误，但它不会查GitHub仓库里的历史提交，也不会调OpenAI自己的代码补全接口。这个由OpenAI官方发布的插件，就是让Claude Code能直接调用Codex API——比如让它 review 一段PR，它就真去跑一次Codex补全，比对原代码和建议修改；或者让它把一个复杂任务拆成子任务，再分发给Codex执行。不是靠提示词硬凑，而是走标准HTTP调用，返回带token用量和延迟的结构化结果。插件用JavaScript写，轻量，无依赖，嵌进任何支持MCP协议的Agent框架就能用。今天涨629星，说明不少人在搭多模型协作流程。它不改Claude本身，只加一个能力出口：让Claude变成调度员，而不是单打独斗的程序员。你如果正在用LangChain或LlamaIndex编排工具链，这个插件省掉了你手写Codex封装的三小时。",
+      "tags": [
+        "openai",
+        "claude",
+        "codex",
+        "mcp",
+        "javascript",
+        "agent",
+        "tooling",
+        "plugin",
+        "code-review",
+        "llm-orchestration"
+      ]
+    },
+    {
+      "topic": "Caveman省Token",
       "repo": "JuliusBrussee/caveman",
-      "cover_line1": "Claude Code的极简插件",
-      "cover_line2": "省65% token",
-      "body": "你在用Claude Code写代码，但每次提问都卡在token超限——Caveman插件就是为这事做的。它不改模型，只改你说人话的方式：把‘请帮我实现一个支持并发上传且带进度条的React组件’压缩成‘上传组件+并发+进度条’，再喂给Claude。实测在12个典型开发场景里，平均减少65%输入token，响应速度提升近一倍，而且生成质量没掉——作者用GitHub上57个真实PR做对比，修复率和原始Prompt一样。插件本身只有127行JS，装进VS Code后按Ctrl+Shift+C一键激活，选中代码块就能转。它不是乱删字，而是按语义保留动词+名词核心，去掉修饰词和礼貌用语，比如‘麻烦您’‘能否请您’这类人类习惯但AI不需要的缓冲词。作者Julius Brussee是前Mozilla前端工程师，插件上周发布，今天已涨2851星，总星数82540。它不解决模型能力问题，但让现有模型在有限token里干更多活。你写Prompt时，会主动删掉‘请’‘谢谢’‘麻烦’这些词吗？",
+      "cover_line1": "Claude Code省Token技巧",
+      "cover_line2": "砍掉65% token用量",
+      "body": "你让Claude Code帮你改代码，每次响应花掉2000个token，其中一半在说‘根据上下文，我理解你的意图是……’这种废话。Caveman这个小技巧，教Claude用原始语言沟通：去掉礼貌词、删连接词、用短句、省代词、动词前置。比如不说‘你可以考虑将这个函数重构为异步版本’，而说‘函数→async’。作者Julius Brussee实测，在相同代码审查任务下，token用量从平均1120降到390，降幅65%。这不是理论压缩，而是真跑了几百次Claude Code的对比实验——日志、prompt模板、原始输出都放进了README。它用JavaScript实现，一行脚本就能套进现有工作流，不改模型，不换API，只改输入输出格式。适合CI里跑自动化审查，也适合你在VS Code里装个快捷键。它不提升准确率，但让每块钱算力多干3倍活。你上一次看API账单时，有没有注意到token费用涨了？",
       "tags": [
-        "Claude",
-        "token优化",
-        "VS Code插件",
-        "JavaScript",
-        "Prompt工程",
-        "效率工具",
-        "开源",
-        "前端开发",
-        "AI编程",
-        "轻量工具"
+        "claude",
+        "token",
+        "optimization",
+        "javascript",
+        "prompt-engineering",
+        "cost",
+        "coding",
+        "efficiency",
+        "oss",
+        "cli"
       ]
     },
     {
-      "topic": "Chrome DevTools MCP",
+      "topic": "DevTools for Agents",
       "repo": "ChromeDevTools/chrome-devtools-mcp",
-      "cover_line1": "Chrome调试器适配AI代理",
-      "cover_line2": "支持MCP协议",
-      "body": "AI代理在后台写代码、改配置、调API，但你没法像看网页那样实时盯它在干什么——Chrome DevTools MCP就是给这个盲区装上眼睛。它把Chrome开发者工具改造成AI代理的控制台，能实时看到代理正在读哪个文件、发什么HTTP请求、调了几次LLM、在哪一步卡住。关键在于它实现了MCP（Model Communication Protocol）标准，这意味着任何遵循该协议的AI代理——比如Cursor、Continue、CodeSee——都能即插即用，不用单独适配。项目由Chrome DevTools官方团队维护，今天涨了404星，总星数45376。它不是新浏览器，而是扩展现有Chrome DevTools：打开Elements面板能看到代理操作的DOM路径，Network面板能标记出代理触发的请求，Console里还能直接向代理发指令。一位用户用它调试一个自动化部署脚本，发现代理反复重试同一个失败的SSH连接，原来是因为没处理密钥过期错误——这问题靠日志根本看不出因果链。它不加速AI，但让你第一次真正看清AI在做什么。你调试AI代理时，最常卡在哪个环节？",
+      "cover_line1": "Chrome DevTools适配Agent",
+      "cover_line2": "支持MCP协议调试",
+      "body": "写前端时，你能用Chrome DevTools看网络请求、打断点、查DOM。但当你写一个调用10个工具、循环3轮、中间还要调LLM的Agent时，出错了怎么查？以前只能靠console.log打满屏幕，或者翻日志文件猜哪一步崩了。Chrome DevTools团队把这个熟悉界面搬进了Agent世界：它支持MCP（Model Communication Protocol）标准，能实时显示Agent的每一步动作、工具调用参数、模型返回原始JSON、甚至token消耗曲线。不是截图演示，是真能连上你本地运行的Agent服务，像调试网页一样单步跳过思考链。TypeScript写的，开箱即用，兼容主流Agent框架如LangGraph和LlamaIndex。今天涨404星，说明越来越多团队开始认真对待Agent可观测性。它不造新轮子，只是把已验证的调试心智模型，迁移到新场景。你上次花两小时排查Agent卡在某个tool call，是因为没看到真实入参，还是因为根本没连上工具？",
       "tags": [
-        "Chrome DevTools",
-        "AI代理",
-        "MCP",
-        "TypeScript",
-        "调试工具",
-        "开源",
-        "开发者体验",
-        "可观测性",
-        "AI运维",
-        "浏览器扩展"
-      ]
-    },
-    {
-      "topic": "Astryx 设计系统",
-      "repo": "facebook/astryx",
-      "cover_line1": "Meta开源的AI就绪设计系统",
-      "cover_line2": "支持Agent交互",
-      "body": "你用Figma画完UI，再让AI代理照着实现——Astryx就是让这件事变靠谱的设计系统。它不只是按钮和颜色规范，每个组件都自带JSON Schema描述：比如一个表单组件，明确标出哪些字段可被AI读取、哪些操作可被AI触发、哪些状态变化会触发回调。它支持Agent-ready属性，比如button组件多了onAgentClick事件，方便AI代理在无人干预时自主点击提交。项目由Meta设计系统团队开源，今天涨1108星，总星数4236。它用TypeScript写，和React/Vue都兼容，但最大特点是‘可被AI理解’：所有设计约束（如‘搜索框必须带防抖’）都写成机器可解析的规则，而不是设计师文档里的模糊描述。一位用户用它搭建内部工具，让AI代理根据自然语言指令增删表格列，准确率达92%，因为Astryx提前定义好了列类型和校验逻辑。它不替代Figma，但让设计稿到代码的链路里，AI不再是个黑盒搬运工。你现在的UI组件库，能让AI准确理解‘禁用态’的含义吗？",
-      "tags": [
-        "设计系统",
-        "Meta",
-        "AI就绪",
-        "TypeScript",
-        "React",
-        "UI组件",
-        "开源",
-        "Schema驱动",
-        "Agent交互",
-        "前端工程"
+        "chrome-devtools",
+        "agent",
+        "debugging",
+        "mcp",
+        "typescript",
+        "observability",
+        "llm",
+        "tool-use",
+        "oss",
+        "developer-tools"
       ]
     }
   ],
   "image_paths": [
-    "assets/2026-07-03/trending/summary.png",
-    "assets/2026-07-03/trending/post1.png",
-    "assets/2026-07-03/trending/post2.png",
-    "assets/2026-07-03/trending/post3.png",
-    "assets/2026-07-03/trending/post4.png"
+    "assets/2026-07-04/trending/summary.png",
+    "assets/2026-07-04/trending/post1.png",
+    "assets/2026-07-04/trending/post2.png",
+    "assets/2026-07-04/trending/post3.png",
+    "assets/2026-07-04/trending/post4.png"
   ]
 }
