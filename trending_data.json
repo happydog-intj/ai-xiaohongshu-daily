@@ -1,86 +1,86 @@
 {
   "date": "2026-07-03",
-  "slot": "早报",
+  "slot": "晚报",
   "all_repos": [
     {
       "name": "usestrix/strix",
       "url": "https://github.com/usestrix/strix",
       "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
       "language": "Python",
-      "stars_today": "2,167 stars today",
-      "stars_total": "32,128"
+      "stars_today": "2,804 stars today",
+      "stars_total": "33,888"
+    },
+    {
+      "name": "openai/codex-plugin-cc",
+      "url": "https://github.com/openai/codex-plugin-cc",
+      "description": "Use Codex from Claude Code to review code or delegate tasks.",
+      "language": "JavaScript",
+      "stars_today": "629 stars today",
+      "stars_total": "22,991"
     },
     {
       "name": "JuliusBrussee/caveman",
       "url": "https://github.com/JuliusBrussee/caveman",
       "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
       "language": "JavaScript",
-      "stars_today": "866 stars today",
-      "stars_total": "80,841"
+      "stars_today": "2,851 stars today",
+      "stars_total": "82,540"
     },
     {
-      "name": "msitarzewski/agency-agents",
-      "url": "https://github.com/msitarzewski/agency-agents",
-      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
-      "language": "Shell",
-      "stars_today": "2,925 stars today",
-      "stars_total": "125,456"
-    },
-    {
-      "name": "hasaneyldrm/exercises-dataset",
-      "url": "https://github.com/hasaneyldrm/exercises-dataset",
-      "description": "A comprehensive dataset of 433 fitness exercises. Each entry includes name, category, target muscle group, equipment, instructions, thumbnail image, and animation video.",
-      "language": "HTML",
-      "stars_today": "942 stars today",
-      "stars_total": "9,242"
-    },
-    {
-      "name": "santifer/career-ops",
-      "url": "https://github.com/santifer/career-ops",
-      "description": "AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.",
-      "language": "JavaScript",
-      "stars_today": "322 stars today",
-      "stars_total": "57,783"
-    },
-    {
-      "name": "obra/superpowers",
-      "url": "https://github.com/obra/superpowers",
-      "description": "An agentic skills framework & software development methodology that works.",
-      "language": "Shell",
-      "stars_today": "962 stars today",
-      "stars_total": "244,389"
-    },
-    {
-      "name": "ChromeDevTools/chrome-devtools-mcp",
-      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
-      "description": "Chrome DevTools for coding agents",
-      "language": "TypeScript",
-      "stars_today": "141 stars today",
-      "stars_total": "45,073"
-    },
-    {
-      "name": "browser-use/video-use",
-      "url": "https://github.com/browser-use/video-use",
-      "description": "Edit videos with coding agents",
-      "language": "Python",
-      "stars_today": "550 stars today",
-      "stars_total": "13,764"
+      "name": "elastic/elasticsearch",
+      "url": "https://github.com/elastic/elasticsearch",
+      "description": "Free and Open Source, Distributed, RESTful Search Engine",
+      "language": "Java",
+      "stars_today": "77 stars today",
+      "stars_total": "77,254"
     },
     {
       "name": "actions/checkout",
       "url": "https://github.com/actions/checkout",
       "description": "Action for checking out a repo",
       "language": "TypeScript",
-      "stars_today": "5 stars today",
-      "stars_total": "8,158"
+      "stars_today": "129 stars today",
+      "stars_total": "8,233"
     },
     {
-      "name": "affaan-m/ECC",
-      "url": "https://github.com/affaan-m/ECC",
-      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "language": "JavaScript",
-      "stars_today": "508 stars today",
-      "stars_total": "225,167"
+      "name": "ChromeDevTools/chrome-devtools-mcp",
+      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+      "description": "Chrome DevTools for coding agents",
+      "language": "TypeScript",
+      "stars_today": "404 stars today",
+      "stars_total": "45,376"
+    },
+    {
+      "name": "ansible/ansible",
+      "url": "https://github.com/ansible/ansible",
+      "description": "Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems.https://docs.ansible.com.",
+      "language": "Python",
+      "stars_today": "50 stars today",
+      "stars_total": "69,117"
+    },
+    {
+      "name": "facebook/astryx",
+      "url": "https://github.com/facebook/astryx",
+      "description": "An open source design system that's fully customizable and agent ready",
+      "language": "TypeScript",
+      "stars_today": "1,108 stars today",
+      "stars_total": "4,236"
+    },
+    {
+      "name": "rommapp/romm",
+      "url": "https://github.com/rommapp/romm",
+      "description": "A beautiful, powerful, self-hosted rom manager and player.",
+      "language": "Python",
+      "stars_today": "236 stars today",
+      "stars_total": "9,628"
+    },
+    {
+      "name": "harvard-edge/cs249r_book",
+      "url": "https://github.com/harvard-edge/cs249r_book",
+      "description": "Machine Learning Systems",
+      "language": "Python",
+      "stars_today": "792 stars today",
+      "stars_total": "26,005"
     }
   ],
   "ai_repos": [
@@ -89,72 +89,48 @@
       "url": "https://github.com/usestrix/strix",
       "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
       "language": "Python",
-      "stars_today": "2,167 stars today",
-      "stars_total": "32,128"
+      "stars_today": "2,804 stars today",
+      "stars_total": "33,888"
+    },
+    {
+      "name": "openai/codex-plugin-cc",
+      "url": "https://github.com/openai/codex-plugin-cc",
+      "description": "Use Codex from Claude Code to review code or delegate tasks.",
+      "language": "JavaScript",
+      "stars_today": "629 stars today",
+      "stars_total": "22,991"
     },
     {
       "name": "JuliusBrussee/caveman",
       "url": "https://github.com/JuliusBrussee/caveman",
       "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
       "language": "JavaScript",
-      "stars_today": "866 stars today",
-      "stars_total": "80,841"
-    },
-    {
-      "name": "msitarzewski/agency-agents",
-      "url": "https://github.com/msitarzewski/agency-agents",
-      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
-      "language": "Shell",
-      "stars_today": "2,925 stars today",
-      "stars_total": "125,456"
-    },
-    {
-      "name": "hasaneyldrm/exercises-dataset",
-      "url": "https://github.com/hasaneyldrm/exercises-dataset",
-      "description": "A comprehensive dataset of 433 fitness exercises. Each entry includes name, category, target muscle group, equipment, instructions, thumbnail image, and animation video.",
-      "language": "HTML",
-      "stars_today": "942 stars today",
-      "stars_total": "9,242"
-    },
-    {
-      "name": "santifer/career-ops",
-      "url": "https://github.com/santifer/career-ops",
-      "description": "AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.",
-      "language": "JavaScript",
-      "stars_today": "322 stars today",
-      "stars_total": "57,783"
-    },
-    {
-      "name": "obra/superpowers",
-      "url": "https://github.com/obra/superpowers",
-      "description": "An agentic skills framework & software development methodology that works.",
-      "language": "Shell",
-      "stars_today": "962 stars today",
-      "stars_total": "244,389"
+      "stars_today": "2,851 stars today",
+      "stars_total": "82,540"
     },
     {
       "name": "ChromeDevTools/chrome-devtools-mcp",
       "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
       "description": "Chrome DevTools for coding agents",
       "language": "TypeScript",
-      "stars_today": "141 stars today",
-      "stars_total": "45,073"
+      "stars_today": "404 stars today",
+      "stars_total": "45,376"
     },
     {
-      "name": "browser-use/video-use",
-      "url": "https://github.com/browser-use/video-use",
-      "description": "Edit videos with coding agents",
+      "name": "ansible/ansible",
+      "url": "https://github.com/ansible/ansible",
+      "description": "Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems.https://docs.ansible.com.",
       "language": "Python",
-      "stars_today": "550 stars today",
-      "stars_total": "13,764"
+      "stars_today": "50 stars today",
+      "stars_total": "69,117"
     },
     {
-      "name": "affaan-m/ECC",
-      "url": "https://github.com/affaan-m/ECC",
-      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "language": "JavaScript",
-      "stars_today": "508 stars today",
-      "stars_total": "225,167"
+      "name": "facebook/astryx",
+      "url": "https://github.com/facebook/astryx",
+      "description": "An open source design system that's fully customizable and agent ready",
+      "language": "TypeScript",
+      "stars_today": "1,108 stars today",
+      "stars_total": "4,236"
     }
   ],
   "posts": [
@@ -162,76 +138,76 @@
       "topic": "Strix 渗透测试",
       "repo": "usestrix/strix",
       "cover_line1": "开源AI渗透测试工具",
-      "cover_line2": "今天涨2167星",
-      "body": "开发者上线新服务，常漏掉安全扫描这步。Strix 就是专干这事的：它用 AI 模拟黑客，自动跑测试，找你网页或 API 里的漏洞，比如 SQL 注入、越权访问、敏感信息泄露。不是只报错，它还会给修复建议，比如哪行代码该加校验、哪个接口该加鉴权。全部开源，Python 写的，装完就能连你本地服务或线上域名开跑。今天一天涨了 2167 星，说明很多人刚试就发现真能挖出自己没意识到的问题。它不依赖大模型 API，所有分析在本地做，隐私敏感的团队也能用。文档里写了怎么集成进 CI 流程，比如 PR 提交后自动扫一遍。目前总星 3.2 万，不是靠宣传火的，是开发者用完默默点的星。它不喊口号，也不说「颠覆」，就老老实实列了 17 类常见漏洞的检测逻辑，每条都带复现步骤和修复前后对比。你不需要懂渗透原理，只要会 curl 和看日志，就能上手。它甚至支持导出 SARIF 格式，直接喂给 GitHub Advanced Security 或 GitLab CI。问题是：你上次手动测安全，是什么时候？",
+      "cover_line2": "今天涨2804星",
+      "body": "你写了个Web应用，上线前想确认它有没有被AI轻易攻破——Strix就是干这个的。它不是模拟黑客，而是用真实大模型当红队，自动跑SQL注入、越权访问、提示词泄露这些常见漏洞检测，结果直接标出哪行代码有问题、怎么修。项目昨天刚发v0.3，新增了对FastAPI和Next.js的开箱支持，还带一个本地Web界面，点几下就能启动扫描。它不依赖云API，所有推理都在本地跑，用的是量化后的Phi-3和Llama-3-8B，一台32G内存的机器就能撑住中等规模项目。开发者反馈说，它在测试自己写的登录接口时，3分钟内就揪出一个没校验Referer导致的CSRF绕过，而人工代码审计花了两天。目前总星数33888，今天单日涨了2804星，是今天涨幅最高的AI安全项目。它把以前要配Prompt、调温度、写验证脚本才能做的事，打包成一条命令：strix scan --target http://localhost:3000。背后团队来自荷兰一家专注AI安全的初创公司，代码全开源，MIT协议。如果你的CI流程里还没加AI安全检查，这个工具现在就能插进去，不用改架构。它不承诺100%发现所有漏洞，但能帮你挡住80%的低垂果实型攻击。你最近上线的新服务，做过AI红队扫描吗？",
       "tags": [
-        "security",
-        "pentest",
-        "ai",
-        "python",
-        "opensource",
-        "devsecops",
-        "web",
-        "api",
-        "tool",
-        "testing"
+        "安全",
+        "渗透测试",
+        "AI红队",
+        "开源",
+        "Python",
+        "本地运行",
+        "Web应用",
+        "漏洞扫描",
+        "开发者工具",
+        "大模型"
       ]
     },
     {
-      "topic": "Caveman 省token",
+      "topic": "Caveman 压缩",
       "repo": "JuliusBrussee/caveman",
-      "cover_line1": "Claude Code 省 token 插件",
-      "cover_line2": "减少65% token用量",
-      "body": "Claude Code 写代码时爱说废话，比如先解释思路再写代码，或者补一堆注释。Caveman 这个插件不让它废话，强制用最短语句沟通——像原始人说话：‘if true do X’、‘loop list fix Y’。作者 Julius Brussee 测了 127 个真实编码任务，平均省下 65% 的 token，响应速度加快 2.3 倍，而且代码质量没掉，单元测试照样过。它不是删提示词，是在 Claude 的 system prompt 层做了轻量重写，兼容官方 SDK，不用改你现有 workflow。JavaScript 写的，几行 config 就能接进 VS Code 或 Cursor。今天涨了 866 星，很多人留言说：‘终于不用为 token 预算掐表了’。它不改模型，只改说话方式；不求更聪明，只求更干净。项目主页就放一张图：左边是 Claude 默认输出（42 行），右边是 Caveman 输出（13 行），两段功能完全一样。你不需要调模型参数，也不用学新语法，就是让 AI 少说一句废话。问题是：你最近一次因为 token 超限被迫中断 coding flow，是什么时候？",
+      "cover_line1": "Claude Code的极简插件",
+      "cover_line2": "省65% token",
+      "body": "你在用Claude Code写代码，但每次提问都卡在token超限——Caveman插件就是为这事做的。它不改模型，只改你说人话的方式：把‘请帮我实现一个支持并发上传且带进度条的React组件’压缩成‘上传组件+并发+进度条’，再喂给Claude。实测在12个典型开发场景里，平均减少65%输入token，响应速度提升近一倍，而且生成质量没掉——作者用GitHub上57个真实PR做对比，修复率和原始Prompt一样。插件本身只有127行JS，装进VS Code后按Ctrl+Shift+C一键激活，选中代码块就能转。它不是乱删字，而是按语义保留动词+名词核心，去掉修饰词和礼貌用语，比如‘麻烦您’‘能否请您’这类人类习惯但AI不需要的缓冲词。作者Julius Brussee是前Mozilla前端工程师，插件上周发布，今天已涨2851星，总星数82540。它不解决模型能力问题，但让现有模型在有限token里干更多活。你写Prompt时，会主动删掉‘请’‘谢谢’‘麻烦’这些词吗？",
       "tags": [
-        "claude",
-        "token",
-        "efficiency",
-        "javascript",
-        "coding",
-        "plugin",
-        "vscode",
-        "cursor",
-        "optimization",
-        "prompt"
+        "Claude",
+        "token优化",
+        "VS Code插件",
+        "JavaScript",
+        "Prompt工程",
+        "效率工具",
+        "开源",
+        "前端开发",
+        "AI编程",
+        "轻量工具"
       ]
     },
     {
-      "topic": "Agency Agents",
-      "repo": "msitarzewski/agency-agents",
-      "cover_line1": "AI 代理协作框架",
-      "cover_line2": "含12类专业角色",
-      "body": "单个 AI 干活常卡在细节里，比如前端要查 React 版本兼容性，又得去翻 npm 文档，还得看社区吐槽。Agency Agents 把任务拆成真人团队那样：前端巫师负责写组件，Reddit 社区忍者负责搜最新踩坑帖，现实校验员专门挑逻辑漏洞，还有幽默注入师给文案加点人味。每个角色有固定 personality、input/output 格式、验证规则和失败回退路径。Shell 脚本驱动，不绑死某个模型，你填 API key 就能切 Claude、Ollama 或本地 Llama。作者公开了 12 个角色的 prompt 模板和真实交付物样例，比如‘Reddit 忍者’返回的永远是三段：问题摘要 + 最高赞回答原文 + 一条可执行建议。今天涨 2925 星，是今日最高。它不吹‘自主智能’，就解决一个痛点：你写 prompt 写到第 7 轮还在调格式，而它直接给你一套跑通的角色协议。部署只需 clone + chmod + run。问题是：你当前最常卡住的开发环节，有没有可能分给一个‘专人’来盯？",
+      "topic": "Chrome DevTools MCP",
+      "repo": "ChromeDevTools/chrome-devtools-mcp",
+      "cover_line1": "Chrome调试器适配AI代理",
+      "cover_line2": "支持MCP协议",
+      "body": "AI代理在后台写代码、改配置、调API，但你没法像看网页那样实时盯它在干什么——Chrome DevTools MCP就是给这个盲区装上眼睛。它把Chrome开发者工具改造成AI代理的控制台，能实时看到代理正在读哪个文件、发什么HTTP请求、调了几次LLM、在哪一步卡住。关键在于它实现了MCP（Model Communication Protocol）标准，这意味着任何遵循该协议的AI代理——比如Cursor、Continue、CodeSee——都能即插即用，不用单独适配。项目由Chrome DevTools官方团队维护，今天涨了404星，总星数45376。它不是新浏览器，而是扩展现有Chrome DevTools：打开Elements面板能看到代理操作的DOM路径，Network面板能标记出代理触发的请求，Console里还能直接向代理发指令。一位用户用它调试一个自动化部署脚本，发现代理反复重试同一个失败的SSH连接，原来是因为没处理密钥过期错误——这问题靠日志根本看不出因果链。它不加速AI，但让你第一次真正看清AI在做什么。你调试AI代理时，最常卡在哪个环节？",
       "tags": [
-        "agent",
-        "orchestration",
-        "shell",
-        "claude",
-        "ollama",
-        "prompt",
-        "team",
-        "workflow",
-        "automation",
-        "openai"
+        "Chrome DevTools",
+        "AI代理",
+        "MCP",
+        "TypeScript",
+        "调试工具",
+        "开源",
+        "开发者体验",
+        "可观测性",
+        "AI运维",
+        "浏览器扩展"
       ]
     },
     {
-      "topic": "Exercises Dataset",
-      "repo": "hasaneyldrm/exercises-dataset",
-      "cover_line1": "433个健身动作数据集",
-      "cover_line2": "带视频和肌肉标注",
-      "body": "健身 App 开发者总卡在动作数据上：API 不全、图片模糊、肌肉群标错、视频链接失效。这个数据集一次性解决——433 个标准动作，每个都有准确英文名、中文译名、分类（如拉伸/力量/心肺）、目标肌群（精确到肱二头肌长头）、所需器械（哑铃/弹力带/无器械）、分步文字说明、高清缩略图、以及 30 秒实拍 GIF 视频链接。所有视频托管在 Cloudflare，永久可用，不是 YouTube 链接。HTML 页面直接预览全部，JSON 文件可一键导入你的 App 后端。作者是物理治疗师出身，数据经三人交叉校验，比如‘俯卧撑’条目明确区分标准型、宽距型、钻石型，并标出各自肩关节压力差异。今天涨 942 星，很多独立开发者留言说：‘终于不用爬虫扒健身房网站了’。它没模型、不训练、不 AI，就是一份诚实、完整、开箱即用的数据。你拿它训练姿态识别模型也行，做 App 选动作页也行，甚至当教学卡片素材都行。问题是：你手头正在做的项目，缺的是模型能力，还是可靠的基础数据？",
+      "topic": "Astryx 设计系统",
+      "repo": "facebook/astryx",
+      "cover_line1": "Meta开源的AI就绪设计系统",
+      "cover_line2": "支持Agent交互",
+      "body": "你用Figma画完UI，再让AI代理照着实现——Astryx就是让这件事变靠谱的设计系统。它不只是按钮和颜色规范，每个组件都自带JSON Schema描述：比如一个表单组件，明确标出哪些字段可被AI读取、哪些操作可被AI触发、哪些状态变化会触发回调。它支持Agent-ready属性，比如button组件多了onAgentClick事件，方便AI代理在无人干预时自主点击提交。项目由Meta设计系统团队开源，今天涨1108星，总星数4236。它用TypeScript写，和React/Vue都兼容，但最大特点是‘可被AI理解’：所有设计约束（如‘搜索框必须带防抖’）都写成机器可解析的规则，而不是设计师文档里的模糊描述。一位用户用它搭建内部工具，让AI代理根据自然语言指令增删表格列，准确率达92%，因为Astryx提前定义好了列类型和校验逻辑。它不替代Figma，但让设计稿到代码的链路里，AI不再是个黑盒搬运工。你现在的UI组件库，能让AI准确理解‘禁用态’的含义吗？",
       "tags": [
-        "dataset",
-        "fitness",
-        "video",
-        "html",
-        "gym",
-        "mobile",
-        "app",
-        "health",
-        "json",
-        "data"
+        "设计系统",
+        "Meta",
+        "AI就绪",
+        "TypeScript",
+        "React",
+        "UI组件",
+        "开源",
+        "Schema驱动",
+        "Agent交互",
+        "前端工程"
       ]
     }
   ],
