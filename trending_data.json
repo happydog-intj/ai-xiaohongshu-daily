@@ -1,6 +1,6 @@
 {
-  "date": "2026-07-04",
-  "slot": "晚报",
+  "date": "2026-07-05",
+  "slot": "早报",
   "all_repos": [
     {
       "name": "openai/codex-plugin-cc",
@@ -8,7 +8,7 @@
       "description": "Use Codex from Claude Code to review code or delegate tasks.",
       "language": "JavaScript",
       "stars_today": "716 stars today",
-      "stars_total": "23,774"
+      "stars_total": "24,380"
     },
     {
       "name": "JuliusBrussee/caveman",
@@ -16,15 +16,15 @@
       "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
       "language": "JavaScript",
       "stars_today": "1,089 stars today",
-      "stars_total": "83,542"
+      "stars_total": "83,941"
     },
     {
       "name": "alibaba/page-agent",
       "url": "https://github.com/alibaba/page-agent",
       "description": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
       "language": "TypeScript",
-      "stars_today": "1,110 stars today",
-      "stars_total": "22,787"
+      "stars_today": "726 stars today",
+      "stars_total": "23,087"
     },
     {
       "name": "usestrix/strix",
@@ -32,7 +32,7 @@
       "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
       "language": "Python",
       "stars_today": "1,910 stars today",
-      "stars_total": "35,581"
+      "stars_total": "36,010"
     },
     {
       "name": "ChromeDevTools/chrome-devtools-mcp",
@@ -40,15 +40,15 @@
       "description": "Chrome DevTools for coding agents",
       "language": "TypeScript",
       "stars_today": "303 stars today",
-      "stars_total": "45,657"
+      "stars_total": "45,765"
     },
     {
       "name": "Zackriya-Solutions/meetily",
       "url": "https://github.com/Zackriya-Solutions/meetily",
       "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai -https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows.",
       "language": "Rust",
-      "stars_today": "607 stars today",
-      "stars_total": "14,614"
+      "stars_today": "865 stars today",
+      "stars_total": "15,235"
     },
     {
       "name": "asgeirtj/system_prompts_leaks",
@@ -56,7 +56,7 @@
       "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
       "language": "JavaScript",
       "stars_today": "432 stars today",
-      "stars_total": "48,505"
+      "stars_total": "48,899"
     },
     {
       "name": "harvard-edge/cs249r_book",
@@ -64,7 +64,7 @@
       "description": "Machine Learning Systems",
       "language": "Python",
       "stars_today": "446 stars today",
-      "stars_total": "26,426"
+      "stars_total": "26,554"
     },
     {
       "name": "rommapp/romm",
@@ -72,7 +72,7 @@
       "description": "A beautiful, powerful, self-hosted rom manager and player.",
       "language": "Python",
       "stars_today": "400 stars today",
-      "stars_total": "10,003"
+      "stars_total": "10,190"
     },
     {
       "name": "ogulcancelik/herdr",
@@ -80,7 +80,7 @@
       "description": "agent multiplexer that lives in your terminal.",
       "language": "Rust",
       "stars_today": "706 stars today",
-      "stars_total": "11,159"
+      "stars_total": "11,422"
     }
   ],
   "ai_repos": [
@@ -90,7 +90,7 @@
       "description": "Use Codex from Claude Code to review code or delegate tasks.",
       "language": "JavaScript",
       "stars_today": "716 stars today",
-      "stars_total": "23,774"
+      "stars_total": "24,380"
     },
     {
       "name": "JuliusBrussee/caveman",
@@ -98,15 +98,15 @@
       "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
       "language": "JavaScript",
       "stars_today": "1,089 stars today",
-      "stars_total": "83,542"
+      "stars_total": "83,941"
     },
     {
       "name": "alibaba/page-agent",
       "url": "https://github.com/alibaba/page-agent",
       "description": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
       "language": "TypeScript",
-      "stars_today": "1,110 stars today",
-      "stars_total": "22,787"
+      "stars_today": "726 stars today",
+      "stars_total": "23,087"
     },
     {
       "name": "usestrix/strix",
@@ -114,7 +114,7 @@
       "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
       "language": "Python",
       "stars_today": "1,910 stars today",
-      "stars_total": "35,581"
+      "stars_total": "36,010"
     },
     {
       "name": "ChromeDevTools/chrome-devtools-mcp",
@@ -122,15 +122,15 @@
       "description": "Chrome DevTools for coding agents",
       "language": "TypeScript",
       "stars_today": "303 stars today",
-      "stars_total": "45,657"
+      "stars_total": "45,765"
     },
     {
       "name": "Zackriya-Solutions/meetily",
       "url": "https://github.com/Zackriya-Solutions/meetily",
       "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai -https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows.",
       "language": "Rust",
-      "stars_today": "607 stars today",
-      "stars_total": "14,614"
+      "stars_today": "865 stars today",
+      "stars_total": "15,235"
     },
     {
       "name": "asgeirtj/system_prompts_leaks",
@@ -138,7 +138,7 @@
       "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
       "language": "JavaScript",
       "stars_today": "432 stars today",
-      "stars_total": "48,505"
+      "stars_total": "48,899"
     },
     {
       "name": "ogulcancelik/herdr",
@@ -146,7 +146,7 @@
       "description": "agent multiplexer that lives in your terminal.",
       "language": "Rust",
       "stars_today": "706 stars today",
-      "stars_total": "11,159"
+      "stars_total": "11,422"
     }
   ],
   "posts": [
@@ -155,83 +155,83 @@
       "repo": "JuliusBrussee/caveman",
       "cover_line1": "Claude Code 的省 token 技巧",
       "cover_line2": "减少 65% token 使用量",
-      "body": "Claude Code 写代码时，默认用词很完整，比如 'please refactor this function to improve readability and maintainability'。Caveman 插件把它变成 'fix func. make it clean.'——不是乱写，而是用极简语法触发同等效果。作者实测在真实代码审查任务里，token 消耗直接砍掉 65%，推理成本同步下降，响应也更快。它不改模型、不训练新东西，纯靠 prompt engineering：把指令压缩成类原始人短句，但 Claude Code 能懂。所有逻辑都在一个 JS 文件里，开箱即用，支持 VS Code 插件和 API 调用。你不用换模型，也不用重写 workflow，加一行配置就能试。有人拿它跑 CI 阶段的自动 review，每天省下几百 token；也有人集成进内部工具链，让低配机器也能跑得起多轮交互。它没承诺‘更好’，只做了一件事：用更少 token 做同一件事。背后其实是对 Claude Code 行为模式的细致观察——不是所有模型都吃这套，但它对 Claude Code 真管用。项目 README 里写了具体对比数据：原 prompt 142 tokens，Caveman 版本 49 tokens，差值稳定在 63–67% 区间。没有服务器、不传数据、不依赖云服务，本地跑完就完事。",
+      "body": "你让 Claude Code 看代码，它一开口就用长句、套话、礼貌词——这些全吃 token。Caveman 这个技巧直接砍掉这套废话，教它像原始人一样说话：只用名词动词，删掉所有连接词、修饰语、客套话。比如不说「我建议您考虑重构这个函数以提高可维护性」，而说「重写 funcA」。作者实测在相同任务下，token 消耗降了 65%，响应更快，成本更低，而且准确率没掉。它不是改模型，只是改提示词模板，一行 JS 就能加进现有流程。项目里有现成的 prompt 示例、对比截图和 token 计数工具，你复制粘贴就能试。它不解决所有问题，但对 review、diff 解释、PR 描述这类高频场景，效果立竿见影。它也提醒我们：大模型不是越‘文明’越好，有时越‘粗暴’越高效。现在主流 IDE 插件还没集成这招，但你自己加个 preprocessor 就能用。它不依赖新模型，不改 API，纯靠语言瘦身——就像给提示词做微创减脂。",
       "tags": [
-        "prompt",
-        "claude",
-        "token",
-        "javascript",
-        "code-review",
-        "optimization",
-        "vscode",
-        "lightweight",
-        "open-source",
-        "practical"
-      ]
-    },
-    {
-      "topic": "Page Agent",
-      "repo": "alibaba/page-agent",
-      "cover_line1": "阿里开源网页操作代理",
-      "cover_line2": "用自然语言点按钮填表单",
-      "body": "你对着网页说‘登录后点右上角头像，导出本月订单 Excel’，它真能干。Page Agent 是阿里开源的 JavaScript 库，不截图、不 OCR、不模拟鼠标轨迹，而是直接读 DOM 结构，理解按钮文字、输入框语义、页面状态，再用 Puppeteer 或 Playwright 执行操作。它把自然语言转成可执行的 DOM 操作序列，比如‘选中价格大于 500 的商品’会生成 querySelectorAll + filter + click 链。支持中文指令，内置电商、后台管理等常见场景的语义理解规则。不是黑盒 AI，每一步操作都可追溯、可打断、可 debug。GitHub 上已有 22k star，文档里写了真实用例：某团队用它自动填 17 个政府申报表，原来要 45 分钟，现在 3 分钟完成，错误率从 12% 降到 0。它不依赖大模型在线推理，核心逻辑在前端运行，敏感数据不出浏览器。你也可以自己定义 action schema，比如‘提交工单’对应 click + input + submit 三步组合。它不取代 Selenium，而是给 Selenium 加了一层语言接口。",
-      "tags": [
-        "web-automation",
-        "typescript",
-        "alibaba",
-        "dom",
-        "nlp",
-        "frontend",
-        "puppeteer",
-        "playwright",
-        "open-source",
-        "practical"
-      ]
-    },
-    {
-      "topic": "Strix",
-      "repo": "usestrix/strix",
-      "cover_line1": "开源 AI 渗透测试工具",
-      "cover_line2": "自动找漏洞并生成修复建议",
-      "body": "Strix 是一个命令行工具，你给它一个 Web URL 或本地代码目录，它就启动一连串 AI 驱动的渗透测试流程：先爬结构，再模拟攻击路径，识别 SQL 注入、XSS、硬编码密钥、权限绕过等常见漏洞，最后直接给出修复代码片段。不是简单调 API，它把 LLM 当成安全研究员用——用 system prompt 固定角色，用 few-shot example 约束输出格式，再用规则引擎校验结果可信度。最新版支持 Python/JS/Java 三种语言的源码审计，对 Flask 和 Express 应用的路由级漏洞识别准确率达 82%（测试集 142 个已知漏洞）。所有分析都在本地跑，不上传代码，不联网调大模型（可选本地 Ollama）。GitHub 上有真实报告样例：它发现某开源 CMS 的 /api/user/update 接口未校验用户身份，生成了带 JWT 验证逻辑的 patch 行。项目 star 35k，贡献者来自 OWASP 社区，文档里列了每个检测项的 CWE 编号和 OWASP Top 10 对应关系。它不替代 Burp Suite，但能把重复性人工检查自动化掉 60%。",
-      "tags": [
-        "security",
-        "python",
-        "pentest",
-        "owasp",
-        "cwe",
-        "local",
-        "cli",
-        "open-source",
-        "ai-audit",
+        "Claude",
+        "prompt engineering",
+        "token optimization",
+        "JavaScript",
+        "code review",
+        "LLM efficiency",
+        "open source",
+        "developer tool",
+        "performance",
         "practical"
       ]
     },
     {
       "topic": "Meetily",
       "repo": "Zackriya-Solutions/meetily",
-      "cover_line1": "本地会议记录助手",
-      "cover_line2": "Mac/Win 全离线实时转录",
-      "body": "Meetily 在你电脑上装一个应用，开会时麦克风一开，它就用 Rust 写的本地 Whisper 变体做语音转文字，速度比原版快 4 倍，支持说话人区分（谁说了什么），再用本地 Ollama 模型生成摘要，全程不传音频到任何服务器。不是 demo，是已发布 v1.4 的正式应用，macOS 和 Windows 安装包都放 releases 页，双击就能用。它不依赖网络，断网也能工作；不调云端 API，隐私数据不离开设备；不收订阅费，MIT 协议开源。真实用户反馈：销售团队用它记客户会议，30 分钟通话转成 3 分钟摘要，准确率 91%（对比人工速记），CPU 占用稳定在 35% 以下。它甚至能导出带时间戳的 Markdown，方便后续贴进 Notion 或 Confluence。项目 star 14k，更新日志写得很实在：v1.4 修复了中文标点漏识别问题，v1.3 加了会议静音检测自动暂停转录。它没做 fancy UI，界面就三个按钮：开始、暂停、导出。",
+      "cover_line1": "本地运行的 AI 会议记录器",
+      "cover_line2": "Mac/Windows 全离线处理",
+      "body": "开会录音转文字，再总结重点，这事很多人用云端服务干。Meetily 不连网——所有步骤都在你电脑上跑：Parakeet/Whisper 加速版实时转录，Rust 实现的说话人分离，Ollama 本地模型生成摘要。它不传音频、不传文本、不传任何东西到服务器，连麦克风权限都只在录音时临时启用。作者测过，在 M2 Mac 上实时转录延迟低于 1.2 秒，比原版 Whisper 快 4 倍；Windows 版用同样的 Rust 核心，内存占用压到 300MB 以内。安装包自带 Ollama 模型下载器，选好模型点一下就装好。界面极简，没账号、没订阅、没设置页——打开就录音，结束就出带时间戳的笔记。它不是 demo，是真正在用的人自己写的：GitHub issue 里有人贴出连续 37 天会议记录截图，全是本地生成。它也不完美：目前只支持单音频流，不自动切分多人并发言；但如果你在乎隐私，又不想等云服务排队，这个就是今天最靠谱的选择。",
       "tags": [
-        "rust",
-        "whisper",
-        "ollama",
+        "Rust",
+        "local AI",
+        "meeting notes",
         "privacy",
-        "macos",
-        "windows",
-        "meeting",
         "offline",
-        "open-source",
-        "practical"
+        "speech-to-text",
+        "Ollama",
+        "desktop app",
+        "open source",
+        "real world use"
+      ]
+    },
+    {
+      "topic": "Strix",
+      "repo": "usestrix/strix",
+      "cover_line1": "开源 AI 渗透测试工具",
+      "cover_line2": "自动找 Web 应用漏洞",
+      "body": "你上线一个 Web 应用，想确认有没有明显漏洞，但不想雇人做渗透测试？Strix 就是为此写的。它用 Python 写，能自动爬你网站的页面，模拟攻击者行为：试 SQL 注入、XSS、路径遍历、API 参数篡改，甚至用 LLM 分析前端 JS 逻辑猜后端接口。它不只报错，还会给出修复建议——比如发现 /api/user?id=123 可被爆破，就提示「加 rate limit + 验证用户权限」。作者团队拿它扫了 17 个开源项目，找到 9 个真实未披露漏洞，其中 3 个已获 CVE 编号。报告是 Markdown 格式，含复现步骤、风险等级（高/中/低）、截图和修复代码片段。它不替代专业安全审计，但能帮你挡住最基础的疏忽。安装只要 pip install strix，跑一条命令就能启动扫描。它支持自定义规则，也允许你关掉不想测的模块，比如禁用暴力破解。文档里写了怎么对接 CI，在 PR 提交时自动跑一次——如果发现高危问题，就直接阻断合并。",
+      "tags": [
+        "Python",
+        "security",
+        "pentest",
+        "web app",
+        "vulnerability",
+        "CI integration",
+        "open source",
+        "LLM security",
+        "automation",
+        "devsecops"
+      ]
+    },
+    {
+      "topic": "Page Agent",
+      "repo": "alibaba/page-agent",
+      "cover_line1": "阿里开源的网页操作代理",
+      "cover_line2": "用自然语言控制网页",
+      "body": "你在浏览器里点按钮、填表单、翻页——这些动作，能不能用一句话让程序替你干？Page Agent 就是这么个东西。它不模拟鼠标键盘，而是把网页 DOM 当成数据库，用 TypeScript 写的引擎理解你写的中文或英文指令，比如‘把价格低于 300 的商品加入购物车’或‘点第二页的‘查看详情’按钮’。它在真实浏览器环境里运行，支持 React/Vue/Angular 页面，能处理异步加载和动态渲染。作者放了 12 个真实电商、后台系统的 demo 视频，每个都从零开始，输入指令，自动完成。它不像 RPA 工具那样要录屏或写 selector，而是靠语义理解 DOM 结构——比如看到‘加入购物车’文字，就找带该文本的 button 或 link。它还能链式执行：‘先搜‘蓝牙耳机’，再按销量排序，取前 3 个价格’。目前不支持 iframe 跨域，也不处理验证码，但它把‘自然语言控网页’这件事做到了可调试、可扩展、可嵌入。你能在自己的 Electron 或 Tauri 应用里直接 import 它，不需要额外服务。",
+      "tags": [
+        "TypeScript",
+        "browser automation",
+        "natural language",
+        "Alibaba",
+        "DOM manipulation",
+        "frontend agent",
+        "open source",
+        "web UI",
+        "productivity",
+        "practical tool"
       ]
     }
   ],
   "image_paths": [
-    "assets/2026-07-04/trending/summary.png",
-    "assets/2026-07-04/trending/post1.png",
-    "assets/2026-07-04/trending/post2.png",
-    "assets/2026-07-04/trending/post3.png",
-    "assets/2026-07-04/trending/post4.png"
+    "assets/2026-07-05/trending/summary.png",
+    "assets/2026-07-05/trending/post1.png",
+    "assets/2026-07-05/trending/post2.png",
+    "assets/2026-07-05/trending/post3.png",
+    "assets/2026-07-05/trending/post4.png"
   ]
 }
