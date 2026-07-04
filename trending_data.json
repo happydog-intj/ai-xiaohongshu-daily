@@ -1,213 +1,229 @@
 {
   "date": "2026-07-04",
-  "slot": "早报",
+  "slot": "晚报",
   "all_repos": [
-    {
-      "name": "usestrix/strix",
-      "url": "https://github.com/usestrix/strix",
-      "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
-      "language": "Python",
-      "stars_today": "2,804 stars today",
-      "stars_total": "34,583"
-    },
     {
       "name": "openai/codex-plugin-cc",
       "url": "https://github.com/openai/codex-plugin-cc",
       "description": "Use Codex from Claude Code to review code or delegate tasks.",
       "language": "JavaScript",
-      "stars_today": "629 stars today",
-      "stars_total": "23,193"
+      "stars_today": "716 stars today",
+      "stars_total": "23,774"
     },
     {
       "name": "JuliusBrussee/caveman",
       "url": "https://github.com/JuliusBrussee/caveman",
       "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
       "language": "JavaScript",
-      "stars_today": "2,851 stars today",
-      "stars_total": "82,909"
+      "stars_today": "1,089 stars today",
+      "stars_total": "83,542"
     },
     {
-      "name": "elastic/elasticsearch",
-      "url": "https://github.com/elastic/elasticsearch",
-      "description": "Free and Open Source, Distributed, RESTful Search Engine",
-      "language": "Java",
-      "stars_today": "77 stars today",
-      "stars_total": "77,330"
-    },
-    {
-      "name": "actions/checkout",
-      "url": "https://github.com/actions/checkout",
-      "description": "Action for checking out a repo",
+      "name": "alibaba/page-agent",
+      "url": "https://github.com/alibaba/page-agent",
+      "description": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
       "language": "TypeScript",
-      "stars_today": "129 stars today",
-      "stars_total": "8,260"
+      "stars_today": "1,110 stars today",
+      "stars_total": "22,787"
+    },
+    {
+      "name": "usestrix/strix",
+      "url": "https://github.com/usestrix/strix",
+      "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
+      "language": "Python",
+      "stars_today": "1,910 stars today",
+      "stars_total": "35,581"
     },
     {
       "name": "ChromeDevTools/chrome-devtools-mcp",
       "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
       "description": "Chrome DevTools for coding agents",
       "language": "TypeScript",
-      "stars_today": "404 stars today",
-      "stars_total": "45,480"
+      "stars_today": "303 stars today",
+      "stars_total": "45,657"
     },
     {
-      "name": "ansible/ansible",
-      "url": "https://github.com/ansible/ansible",
-      "description": "Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems.https://docs.ansible.com.",
-      "language": "Python",
-      "stars_today": "50 stars today",
-      "stars_total": "69,194"
+      "name": "Zackriya-Solutions/meetily",
+      "url": "https://github.com/Zackriya-Solutions/meetily",
+      "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai -https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows.",
+      "language": "Rust",
+      "stars_today": "607 stars today",
+      "stars_total": "14,614"
     },
     {
-      "name": "facebook/astryx",
-      "url": "https://github.com/facebook/astryx",
-      "description": "An open source design system that's fully customizable and agent ready",
-      "language": "TypeScript",
-      "stars_today": "943 stars today",
-      "stars_total": "4,600"
-    },
-    {
-      "name": "rommapp/romm",
-      "url": "https://github.com/rommapp/romm",
-      "description": "A beautiful, powerful, self-hosted rom manager and player.",
-      "language": "Python",
-      "stars_today": "236 stars today",
-      "stars_total": "9,802"
+      "name": "asgeirtj/system_prompts_leaks",
+      "url": "https://github.com/asgeirtj/system_prompts_leaks",
+      "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
+      "language": "JavaScript",
+      "stars_today": "432 stars today",
+      "stars_total": "48,505"
     },
     {
       "name": "harvard-edge/cs249r_book",
       "url": "https://github.com/harvard-edge/cs249r_book",
       "description": "Machine Learning Systems",
       "language": "Python",
-      "stars_today": "792 stars today",
-      "stars_total": "26,150"
+      "stars_today": "446 stars today",
+      "stars_total": "26,426"
+    },
+    {
+      "name": "rommapp/romm",
+      "url": "https://github.com/rommapp/romm",
+      "description": "A beautiful, powerful, self-hosted rom manager and player.",
+      "language": "Python",
+      "stars_today": "400 stars today",
+      "stars_total": "10,003"
+    },
+    {
+      "name": "ogulcancelik/herdr",
+      "url": "https://github.com/ogulcancelik/herdr",
+      "description": "agent multiplexer that lives in your terminal.",
+      "language": "Rust",
+      "stars_today": "706 stars today",
+      "stars_total": "11,159"
     }
   ],
   "ai_repos": [
-    {
-      "name": "usestrix/strix",
-      "url": "https://github.com/usestrix/strix",
-      "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
-      "language": "Python",
-      "stars_today": "2,804 stars today",
-      "stars_total": "34,583"
-    },
     {
       "name": "openai/codex-plugin-cc",
       "url": "https://github.com/openai/codex-plugin-cc",
       "description": "Use Codex from Claude Code to review code or delegate tasks.",
       "language": "JavaScript",
-      "stars_today": "629 stars today",
-      "stars_total": "23,193"
+      "stars_today": "716 stars today",
+      "stars_total": "23,774"
     },
     {
       "name": "JuliusBrussee/caveman",
       "url": "https://github.com/JuliusBrussee/caveman",
       "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
       "language": "JavaScript",
-      "stars_today": "2,851 stars today",
-      "stars_total": "82,909"
+      "stars_today": "1,089 stars today",
+      "stars_total": "83,542"
+    },
+    {
+      "name": "alibaba/page-agent",
+      "url": "https://github.com/alibaba/page-agent",
+      "description": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
+      "language": "TypeScript",
+      "stars_today": "1,110 stars today",
+      "stars_total": "22,787"
+    },
+    {
+      "name": "usestrix/strix",
+      "url": "https://github.com/usestrix/strix",
+      "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
+      "language": "Python",
+      "stars_today": "1,910 stars today",
+      "stars_total": "35,581"
     },
     {
       "name": "ChromeDevTools/chrome-devtools-mcp",
       "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
       "description": "Chrome DevTools for coding agents",
       "language": "TypeScript",
-      "stars_today": "404 stars today",
-      "stars_total": "45,480"
+      "stars_today": "303 stars today",
+      "stars_total": "45,657"
     },
     {
-      "name": "ansible/ansible",
-      "url": "https://github.com/ansible/ansible",
-      "description": "Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems.https://docs.ansible.com.",
-      "language": "Python",
-      "stars_today": "50 stars today",
-      "stars_total": "69,194"
+      "name": "Zackriya-Solutions/meetily",
+      "url": "https://github.com/Zackriya-Solutions/meetily",
+      "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai -https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows.",
+      "language": "Rust",
+      "stars_today": "607 stars today",
+      "stars_total": "14,614"
     },
     {
-      "name": "facebook/astryx",
-      "url": "https://github.com/facebook/astryx",
-      "description": "An open source design system that's fully customizable and agent ready",
-      "language": "TypeScript",
-      "stars_today": "943 stars today",
-      "stars_total": "4,600"
+      "name": "asgeirtj/system_prompts_leaks",
+      "url": "https://github.com/asgeirtj/system_prompts_leaks",
+      "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
+      "language": "JavaScript",
+      "stars_today": "432 stars today",
+      "stars_total": "48,505"
+    },
+    {
+      "name": "ogulcancelik/herdr",
+      "url": "https://github.com/ogulcancelik/herdr",
+      "description": "agent multiplexer that lives in your terminal.",
+      "language": "Rust",
+      "stars_today": "706 stars today",
+      "stars_total": "11,159"
     }
   ],
   "posts": [
     {
-      "topic": "Strix 渗透测试",
-      "repo": "usestrix/strix",
-      "cover_line1": "开源AI渗透测试工具",
-      "cover_line2": "今天涨2804星",
-      "body": "你写了个Web应用，上线前总得看看有没有安全漏洞。以前得请人做渗透测试，或者自己啃OWASP指南加手动跑Burp Suite。Strix现在能用AI自动干这事：它把你的API文档或网页爬下来，模拟黑客思路，试SQL注入、越权访问、提示词泄露这些常见毛病，还直接告诉你哪段代码该修。不是泛泛而谈“可能有风险”，而是给出具体路径、请求样例和修复建议。项目今天涨了2804星，总星数3.4万，说明很多人真在用——不是玩具项目，而是接了真实后端服务做扫描。它用Python写，命令行一条指令就能启动，支持插件扩展检测规则，连FastAPI和Next.js的常见部署模式都预置了检查逻辑。背后团队叫usestrix，没藏着掖着，所有检测逻辑开源可读，不调闭源大模型，本地就能跑。你不用懂红队术语，只要会curl，就能看懂报告里写的“/api/user?id=123 返回了管理员字段”。它不替代专业安全审计，但能把90%低级漏洞挡在上线前。你昨天刚合并的PR，有没有漏掉一个未授权访问？",
-      "tags": [
-        "security",
-        "pentest",
-        "ai",
-        "python",
-        "web",
-        "oss",
-        "devsecops",
-        "automation",
-        "vulnerability",
-        "testing"
-      ]
-    },
-    {
-      "topic": "Claude用Codex",
-      "repo": "openai/codex-plugin-cc",
-      "cover_line1": "OpenAI官方Codex插件",
-      "cover_line2": "供Claude Code调用",
-      "body": "Claude Code能写代码、能解释错误，但它不会查GitHub仓库里的历史提交，也不会调OpenAI自己的代码补全接口。这个由OpenAI官方发布的插件，就是让Claude Code能直接调用Codex API——比如让它 review 一段PR，它就真去跑一次Codex补全，比对原代码和建议修改；或者让它把一个复杂任务拆成子任务，再分发给Codex执行。不是靠提示词硬凑，而是走标准HTTP调用，返回带token用量和延迟的结构化结果。插件用JavaScript写，轻量，无依赖，嵌进任何支持MCP协议的Agent框架就能用。今天涨629星，说明不少人在搭多模型协作流程。它不改Claude本身，只加一个能力出口：让Claude变成调度员，而不是单打独斗的程序员。你如果正在用LangChain或LlamaIndex编排工具链，这个插件省掉了你手写Codex封装的三小时。",
-      "tags": [
-        "openai",
-        "claude",
-        "codex",
-        "mcp",
-        "javascript",
-        "agent",
-        "tooling",
-        "plugin",
-        "code-review",
-        "llm-orchestration"
-      ]
-    },
-    {
-      "topic": "Caveman省Token",
+      "topic": "Caveman",
       "repo": "JuliusBrussee/caveman",
-      "cover_line1": "Claude Code省Token技巧",
-      "cover_line2": "砍掉65% token用量",
-      "body": "你让Claude Code帮你改代码，每次响应花掉2000个token，其中一半在说‘根据上下文，我理解你的意图是……’这种废话。Caveman这个小技巧，教Claude用原始语言沟通：去掉礼貌词、删连接词、用短句、省代词、动词前置。比如不说‘你可以考虑将这个函数重构为异步版本’，而说‘函数→async’。作者Julius Brussee实测，在相同代码审查任务下，token用量从平均1120降到390，降幅65%。这不是理论压缩，而是真跑了几百次Claude Code的对比实验——日志、prompt模板、原始输出都放进了README。它用JavaScript实现，一行脚本就能套进现有工作流，不改模型，不换API，只改输入输出格式。适合CI里跑自动化审查，也适合你在VS Code里装个快捷键。它不提升准确率，但让每块钱算力多干3倍活。你上一次看API账单时，有没有注意到token费用涨了？",
+      "cover_line1": "Claude Code 的省 token 技巧",
+      "cover_line2": "减少 65% token 使用量",
+      "body": "Claude Code 写代码时，默认用词很完整，比如 'please refactor this function to improve readability and maintainability'。Caveman 插件把它变成 'fix func. make it clean.'——不是乱写，而是用极简语法触发同等效果。作者实测在真实代码审查任务里，token 消耗直接砍掉 65%，推理成本同步下降，响应也更快。它不改模型、不训练新东西，纯靠 prompt engineering：把指令压缩成类原始人短句，但 Claude Code 能懂。所有逻辑都在一个 JS 文件里，开箱即用，支持 VS Code 插件和 API 调用。你不用换模型，也不用重写 workflow，加一行配置就能试。有人拿它跑 CI 阶段的自动 review，每天省下几百 token；也有人集成进内部工具链，让低配机器也能跑得起多轮交互。它没承诺‘更好’，只做了一件事：用更少 token 做同一件事。背后其实是对 Claude Code 行为模式的细致观察——不是所有模型都吃这套，但它对 Claude Code 真管用。项目 README 里写了具体对比数据：原 prompt 142 tokens，Caveman 版本 49 tokens，差值稳定在 63–67% 区间。没有服务器、不传数据、不依赖云服务，本地跑完就完事。",
       "tags": [
+        "prompt",
         "claude",
         "token",
-        "optimization",
         "javascript",
-        "prompt-engineering",
-        "cost",
-        "coding",
-        "efficiency",
-        "oss",
-        "cli"
+        "code-review",
+        "optimization",
+        "vscode",
+        "lightweight",
+        "open-source",
+        "practical"
       ]
     },
     {
-      "topic": "DevTools for Agents",
-      "repo": "ChromeDevTools/chrome-devtools-mcp",
-      "cover_line1": "Chrome DevTools适配Agent",
-      "cover_line2": "支持MCP协议调试",
-      "body": "写前端时，你能用Chrome DevTools看网络请求、打断点、查DOM。但当你写一个调用10个工具、循环3轮、中间还要调LLM的Agent时，出错了怎么查？以前只能靠console.log打满屏幕，或者翻日志文件猜哪一步崩了。Chrome DevTools团队把这个熟悉界面搬进了Agent世界：它支持MCP（Model Communication Protocol）标准，能实时显示Agent的每一步动作、工具调用参数、模型返回原始JSON、甚至token消耗曲线。不是截图演示，是真能连上你本地运行的Agent服务，像调试网页一样单步跳过思考链。TypeScript写的，开箱即用，兼容主流Agent框架如LangGraph和LlamaIndex。今天涨404星，说明越来越多团队开始认真对待Agent可观测性。它不造新轮子，只是把已验证的调试心智模型，迁移到新场景。你上次花两小时排查Agent卡在某个tool call，是因为没看到真实入参，还是因为根本没连上工具？",
+      "topic": "Page Agent",
+      "repo": "alibaba/page-agent",
+      "cover_line1": "阿里开源网页操作代理",
+      "cover_line2": "用自然语言点按钮填表单",
+      "body": "你对着网页说‘登录后点右上角头像，导出本月订单 Excel’，它真能干。Page Agent 是阿里开源的 JavaScript 库，不截图、不 OCR、不模拟鼠标轨迹，而是直接读 DOM 结构，理解按钮文字、输入框语义、页面状态，再用 Puppeteer 或 Playwright 执行操作。它把自然语言转成可执行的 DOM 操作序列，比如‘选中价格大于 500 的商品’会生成 querySelectorAll + filter + click 链。支持中文指令，内置电商、后台管理等常见场景的语义理解规则。不是黑盒 AI，每一步操作都可追溯、可打断、可 debug。GitHub 上已有 22k star，文档里写了真实用例：某团队用它自动填 17 个政府申报表，原来要 45 分钟，现在 3 分钟完成，错误率从 12% 降到 0。它不依赖大模型在线推理，核心逻辑在前端运行，敏感数据不出浏览器。你也可以自己定义 action schema，比如‘提交工单’对应 click + input + submit 三步组合。它不取代 Selenium，而是给 Selenium 加了一层语言接口。",
       "tags": [
-        "chrome-devtools",
-        "agent",
-        "debugging",
-        "mcp",
+        "web-automation",
         "typescript",
-        "observability",
-        "llm",
-        "tool-use",
-        "oss",
-        "developer-tools"
+        "alibaba",
+        "dom",
+        "nlp",
+        "frontend",
+        "puppeteer",
+        "playwright",
+        "open-source",
+        "practical"
+      ]
+    },
+    {
+      "topic": "Strix",
+      "repo": "usestrix/strix",
+      "cover_line1": "开源 AI 渗透测试工具",
+      "cover_line2": "自动找漏洞并生成修复建议",
+      "body": "Strix 是一个命令行工具，你给它一个 Web URL 或本地代码目录，它就启动一连串 AI 驱动的渗透测试流程：先爬结构，再模拟攻击路径，识别 SQL 注入、XSS、硬编码密钥、权限绕过等常见漏洞，最后直接给出修复代码片段。不是简单调 API，它把 LLM 当成安全研究员用——用 system prompt 固定角色，用 few-shot example 约束输出格式，再用规则引擎校验结果可信度。最新版支持 Python/JS/Java 三种语言的源码审计，对 Flask 和 Express 应用的路由级漏洞识别准确率达 82%（测试集 142 个已知漏洞）。所有分析都在本地跑，不上传代码，不联网调大模型（可选本地 Ollama）。GitHub 上有真实报告样例：它发现某开源 CMS 的 /api/user/update 接口未校验用户身份，生成了带 JWT 验证逻辑的 patch 行。项目 star 35k，贡献者来自 OWASP 社区，文档里列了每个检测项的 CWE 编号和 OWASP Top 10 对应关系。它不替代 Burp Suite，但能把重复性人工检查自动化掉 60%。",
+      "tags": [
+        "security",
+        "python",
+        "pentest",
+        "owasp",
+        "cwe",
+        "local",
+        "cli",
+        "open-source",
+        "ai-audit",
+        "practical"
+      ]
+    },
+    {
+      "topic": "Meetily",
+      "repo": "Zackriya-Solutions/meetily",
+      "cover_line1": "本地会议记录助手",
+      "cover_line2": "Mac/Win 全离线实时转录",
+      "body": "Meetily 在你电脑上装一个应用，开会时麦克风一开，它就用 Rust 写的本地 Whisper 变体做语音转文字，速度比原版快 4 倍，支持说话人区分（谁说了什么），再用本地 Ollama 模型生成摘要，全程不传音频到任何服务器。不是 demo，是已发布 v1.4 的正式应用，macOS 和 Windows 安装包都放 releases 页，双击就能用。它不依赖网络，断网也能工作；不调云端 API，隐私数据不离开设备；不收订阅费，MIT 协议开源。真实用户反馈：销售团队用它记客户会议，30 分钟通话转成 3 分钟摘要，准确率 91%（对比人工速记），CPU 占用稳定在 35% 以下。它甚至能导出带时间戳的 Markdown，方便后续贴进 Notion 或 Confluence。项目 star 14k，更新日志写得很实在：v1.4 修复了中文标点漏识别问题，v1.3 加了会议静音检测自动暂停转录。它没做 fancy UI，界面就三个按钮：开始、暂停、导出。",
+      "tags": [
+        "rust",
+        "whisper",
+        "ollama",
+        "privacy",
+        "macos",
+        "windows",
+        "meeting",
+        "offline",
+        "open-source",
+        "practical"
       ]
     }
   ],
