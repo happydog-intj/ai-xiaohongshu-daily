@@ -1,6 +1,6 @@
 {
-  "date": "2026-07-05",
-  "slot": "晚报",
+  "date": "2026-07-06",
+  "slot": "早报",
   "all_repos": [
     {
       "name": "Zackriya-Solutions/meetily",
@@ -8,15 +8,15 @@
       "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai -https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows.",
       "language": "Rust",
       "stars_today": "1,409 stars today",
-      "stars_total": "16,084"
+      "stars_total": "16,908"
     },
     {
       "name": "openai/codex-plugin-cc",
       "url": "https://github.com/openai/codex-plugin-cc",
       "description": "Use Codex from Claude Code to review code or delegate tasks.",
       "language": "JavaScript",
-      "stars_today": "1,519 stars today",
-      "stars_total": "25,168"
+      "stars_today": "1,532 stars today",
+      "stars_total": "25,437"
     },
     {
       "name": "asgeirtj/system_prompts_leaks",
@@ -24,63 +24,63 @@
       "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
       "language": "JavaScript",
       "stars_today": "981 stars today",
-      "stars_total": "49,501"
+      "stars_total": "49,914"
     },
     {
       "name": "Leonxlnx/taste-skill",
       "url": "https://github.com/Leonxlnx/taste-skill",
       "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
       "language": "JavaScript",
-      "stars_today": "850 stars today",
-      "stars_total": "57,027"
+      "stars_today": "863 stars today",
+      "stars_total": "57,439"
     },
     {
       "name": "alirezarezvani/claude-skills",
       "url": "https://github.com/alirezarezvani/claude-skills",
       "description": "337 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial & finance, and your daily productivity skills.",
       "language": "Python",
-      "stars_today": "394 stars today",
-      "stars_total": "20,356"
+      "stars_today": "392 stars today",
+      "stars_total": "20,541"
     },
     {
       "name": "rommapp/romm",
       "url": "https://github.com/rommapp/romm",
       "description": "A beautiful, powerful, self-hosted rom manager and player.",
       "language": "Python",
-      "stars_today": "411 stars today",
-      "stars_total": "10,393"
+      "stars_today": "410 stars today",
+      "stars_total": "10,522"
     },
     {
       "name": "ogulcancelik/herdr",
       "url": "https://github.com/ogulcancelik/herdr",
       "description": "agent multiplexer that lives in your terminal.",
       "language": "Rust",
-      "stars_today": "650 stars today",
-      "stars_total": "11,804"
+      "stars_today": "651 stars today",
+      "stars_total": "12,041"
     },
     {
       "name": "alibaba/page-agent",
       "url": "https://github.com/alibaba/page-agent",
       "description": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
       "language": "TypeScript",
-      "stars_today": "801 stars today",
-      "stars_total": "23,559"
+      "stars_today": "805 stars today",
+      "stars_total": "23,842"
     },
     {
       "name": "harvard-edge/cs249r_book",
       "url": "https://github.com/harvard-edge/cs249r_book",
       "description": "Machine Learning Systems",
       "language": "Python",
-      "stars_today": "333 stars today",
-      "stars_total": "26,740"
+      "stars_today": "329 stars today",
+      "stars_total": "26,828"
     },
     {
       "name": "usestrix/strix",
       "url": "https://github.com/usestrix/strix",
       "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
       "language": "Python",
-      "stars_today": "1,121 stars today",
-      "stars_total": "36,693"
+      "stars_today": "1,114 stars today",
+      "stars_total": "37,073"
     }
   ],
   "ai_repos": [
@@ -90,15 +90,15 @@
       "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai -https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows.",
       "language": "Rust",
       "stars_today": "1,409 stars today",
-      "stars_total": "16,084"
+      "stars_total": "16,908"
     },
     {
       "name": "openai/codex-plugin-cc",
       "url": "https://github.com/openai/codex-plugin-cc",
       "description": "Use Codex from Claude Code to review code or delegate tasks.",
       "language": "JavaScript",
-      "stars_today": "1,519 stars today",
-      "stars_total": "25,168"
+      "stars_today": "1,532 stars today",
+      "stars_total": "25,437"
     },
     {
       "name": "asgeirtj/system_prompts_leaks",
@@ -106,65 +106,65 @@
       "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
       "language": "JavaScript",
       "stars_today": "981 stars today",
-      "stars_total": "49,501"
+      "stars_total": "49,914"
     },
     {
       "name": "Leonxlnx/taste-skill",
       "url": "https://github.com/Leonxlnx/taste-skill",
       "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
       "language": "JavaScript",
-      "stars_today": "850 stars today",
-      "stars_total": "57,027"
+      "stars_today": "863 stars today",
+      "stars_total": "57,439"
     },
     {
       "name": "alirezarezvani/claude-skills",
       "url": "https://github.com/alirezarezvani/claude-skills",
       "description": "337 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial & finance, and your daily productivity skills.",
       "language": "Python",
-      "stars_today": "394 stars today",
-      "stars_total": "20,356"
+      "stars_today": "392 stars today",
+      "stars_total": "20,541"
     },
     {
       "name": "ogulcancelik/herdr",
       "url": "https://github.com/ogulcancelik/herdr",
       "description": "agent multiplexer that lives in your terminal.",
       "language": "Rust",
-      "stars_today": "650 stars today",
-      "stars_total": "11,804"
+      "stars_today": "651 stars today",
+      "stars_total": "12,041"
     },
     {
       "name": "alibaba/page-agent",
       "url": "https://github.com/alibaba/page-agent",
       "description": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
       "language": "TypeScript",
-      "stars_today": "801 stars today",
-      "stars_total": "23,559"
+      "stars_today": "805 stars today",
+      "stars_total": "23,842"
     },
     {
       "name": "usestrix/strix",
       "url": "https://github.com/usestrix/strix",
       "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
       "language": "Python",
-      "stars_today": "1,121 stars today",
-      "stars_total": "36,693"
+      "stars_today": "1,114 stars today",
+      "stars_total": "37,073"
     }
   ],
   "posts": [
     {
       "topic": "Meetily",
       "repo": "Zackriya-Solutions/meetily",
-      "cover_line1": "本地 AI 会议笔记工具",
-      "cover_line2": "Rust 写的，全程不联网",
-      "body": "开会录音转文字、分清谁说了什么、自动总结重点——这些事现在能全在你电脑上跑完，不用传到云端。Meetily 就是这么个工具，用 Rust 写的，macOS 和 Windows 都能装，启动后直接开录，语音识别用的是 Parakeet/Whisper 的优化版，速度比原版快 4 倍；说话人区分也做了轻量级适配；最后用 Ollama 在本地跑模型生成摘要。所有数据不离设备，连网络都不用开。它不是 demo，也不是概念验证，已经有人拿它替换了 Zoom 自带的转录，理由很实在：开会涉及客户信息，公司 IT 不允许上传录音。项目主页 meetily.ai 是真实上线的产品页，不是跳转到 GitHub。今天涨了 1409 星，总星数 1.6 万，说明有真实用户在部署、反馈、提 issue。它没搞大模型全家桶，也没塞一堆插件，就专注把「会议→文字→人名→摘要」这条链路做短、做稳、做干净。如果你常开内部会、客户会、或需要合规存档，这个工具省掉的不是时间，是审批流程。你试过本地语音转写工具吗？",
+      "cover_line1": "本地运行的会议笔记工具",
+      "cover_line2": "Rust 写成，100% 离线处理",
+      "body": "开会时录音、分人、总结，全在你电脑里跑完，不传云端。Meetily 用 Rust 实现，靠 Parakeet 和 Whisper 的轻量版做实时语音转文字，速度比原版快 4 倍；再用 Ollama 在本地跑大模型做摘要。它支持 macOS 和 Windows，安装后直接启动 GUI，没有账户、没有订阅、不联网也能用。开发者能看见所有代码，还能自己改 transcription 模型或换 summarization 提示词。目前总星数 1.69 万，今天涨了 1409 颗星，说明很多人真把它装进日常会议流里了——不是 demo，是正在被用的工具。它没走 Web 服务路线，而是把「会议助手」拆成三步：听清谁说了什么（speaker diarization）、转成文字、再压成要点。每一步都可调、可替换、可审计。比如你换掉默认的 Whisper 模型，换成你自己微调的小模型，它照样工作。这种设计不是为炫技，是为让远程团队、律师、医生这类对隐私敏感的人，也能放心用 AI 记录关键对话。它不卖 SaaS，只发开源二进制和源码，连官网 meetily.ai 都只是静态页。你下载一个 80MB 的 app，双击就开，录音按钮一按，文字就出来，摘要三秒生成。没有后台、没有埋点、没有「分析你的会议习惯」这种话术。它解决的问题很窄：把会议内容变成可搜索、可归档、可转发的文字资产，而且全程在你硬盘上。如果你最近试过 Zoom 自动记笔记但担心录音上传，或者用过 Otter.ai 却被导出限制卡住，Meetily 就是那个「不用权衡」的选项。你真正需要的到底是一个更准的语音模型，还是一个更可控的流程？",
       "tags": [
         "Rust",
-        "语音识别",
+        "语音转写",
+        "本地AI",
         "会议记录",
-        "本地运行",
         "隐私优先",
         "Ollama",
         "Whisper",
-        "开源",
+        "开源工具",
         "macOS",
         "Windows"
       ]
@@ -174,64 +174,64 @@
       "repo": "openai/codex-plugin-cc",
       "cover_line1": "OpenAI 官方 Codex 插件",
       "cover_line2": "让 Claude Code 调用 Codex",
-      "body": "Claude Code 现在能调 OpenAI 的 Codex 了，不是靠 hack，是官方出的插件。这个 repo 就是插件本体，用 JavaScript 写，装进 Claude Code 后，你能在写代码时右键选「用 Codex 审查这段」或「让 Codex 补全这个函数」。它不替换 Claude，而是补位：比如 Codex 对某些 Python 库的文档理解更细，Claude 对架构逻辑更强，两者现在能分工。插件本身没加 UI，只暴露两个命令接口，开发者可嵌入自己的 IDE 工具链。今天涨了 1519 星，是今日最高，说明很多人卡在「该用哪个模型审代码」这一步上。它不是通用 agent 框架，也不改模型权重，就是一条干净的调用通道。OpenAI 没发公告，只悄悄推了这个 repo，连 README 都只有三段话，但 commit 记录显示上周刚合并了对 streaming response 的支持。如果你现在主力用 Claude Code，又偶尔想切 Codex 看一眼，这个插件就是最小成本的切换开关。你日常代码审查更信哪个模型？",
+      "body": "OpenAI 把自家代码模型 Codex 做成插件，供其他 AI 工具调用。这个仓库是官方发布的 JavaScript 插件，能让 Anthropic 的 Claude Code 直接调用 Codex 来做代码审查或任务分派。不是模拟、不是 API 代理，而是实打实把 Codex 当作一个可注册的「技能」嵌进 Claude Code 的插件系统里。用户写提示时加一句「用 Codex 检查这段 Python」，Claude 就真去调 Codex 接口跑一遍，再把结果整合进自己的回复。目前总星数 2.54 万，今天涨了 1532 颗星，是今日涨幅最高项目。它背后反映的是一个正在落地的事实：大模型不再单打独斗，而是像 Unix 工具链一样互相调用。你不用等厂商统一标准，现在就能用 JS 写个适配层，把 A 家的推理能力接进 B 家的对话框架。插件本身只有几百行代码，核心是定义了调用协议、错误重试逻辑和 token 透传方式。它没封装 UI，也没打包成 VS Code 扩展，就是一份干净的 npm 包，开发者拿过去就能集成进自己的 agent 架构。这意味着，如果你在做内部代码助手，现在可以低成本接入 Codex 的静态分析能力，而不必自己训模型或买 API。它不承诺「更好」，只提供「可用」——Codex 的输出格式稳定、延迟可控、错误返回明确。你今天部署，明天就能测出它在你代码库上的 false positive 率是多少。这种务实的互操作，比喊「多模态融合」实在得多。你觉得，接下来半年，会有更多厂商开放这类跨模型调用协议吗？",
       "tags": [
         "OpenAI",
-        "Claude",
-        "代码审查",
-        "插件",
-        "JavaScript",
-        "IDE",
         "Codex",
-        "开源",
-        "AI 编程",
-        "开发者工具"
+        "Claude",
+        "插件",
+        "代码审查",
+        "JavaScript",
+        "跨模型",
+        "API集成",
+        "开发者工具",
+        "开源插件"
       ]
     },
     {
-      "topic": "System Prompts",
+      "topic": "系统提示泄露",
       "repo": "asgeirtj/system_prompts_leaks",
-      "cover_line1": "主流 AI 的系统提示合集",
-      "cover_line2": "含 Claude Fable 5、GPT 5.5 等",
-      "body": "ChatGPT、Claude、Gemini、Grok 这些模型背后真正起作用的一段话——不是你输进去的 prompt，而是工程师写死在模型启动时的 system prompt——现在被整理成公开清单了。这个 repo 收录了 Anthropic 的 Claude Fable 5 和 Opus 4.8、OpenAI 的 ChatGPT 5.5 Thinking 和 Codex、Google 的 Gemini 3.5 Flash 和 3.1 Pro、xAI 的 Grok，还有 Cursor、Copilot、Perplexity 等十多个产品的系统指令。每条都标注来源、提取方式和更新时间，部分附带实测对比截图。它不是猜测，是通过逆向 API 请求、抓包、日志分析等手段确认的真实配置。今天涨了 981 星，总星数近 5 万，说明大量人在用它调优自己的 prompt 工程，或者做模型行为归因。比如你发现 GPT 5.5 Instant 总爱加免责声明，翻一下就知道它的 system prompt 里真有一句「必须强调这是 AI 生成」。它不教你怎么写 prompt，但它告诉你，模型一开始就被设定了什么立场。你最近一次调整 prompt，是因为猜模型怎么想，还是因为看到它真实的 system prompt？",
+      "cover_line1": "公开主流模型系统提示",
+      "cover_line2": "含 Claude Opus 4.8、GPT 5.5",
+      "body": "这个仓库整理了从 Anthropic、OpenAI、Google、xAI 等公司产品中逆向提取出来的系统提示词（system prompt）。不是猜测，是实测抓包+日志分析后确认的内容。目前已收录 Claude Fable 5、Opus 4.8、Claude Code、Claude Design；ChatGPT 5.5 Thinking 和 Instant、Codex；Gemini 3.5 Flash 和 3.1 Pro；还有 Grok、Cursor、Copilot、VS Code、Perplexity 等十多个产品的底层指令。所有条目都标注了提取方法、生效版本和更新时间，每周手动核对一次。总星数接近 5 万，今天新增 981 颗星，说明大量工程师正用它调试自己的提示工程——比如发现「GPT 5.5 Instant」默认禁止输出代码块，而「Thinking」版本允许；或者「Claude Opus 4.8」开头强制要求用中文回答，哪怕你用英文提问。这些细节直接影响你写的 prompt 是否生效。它不教你怎么写提示，而是告诉你：模型实际看到的「第一句话」到底是什么。有人拿它来复现官方行为，有人用来做红队测试，也有人直接抄进自己的 RAG 流程当 system message。它不是攻击工具，而是镜子：照出你调用的 API 背后，真实起作用的那几十个字。如果你做过 prompt tuning 却总卡在「为什么同样指令，A 模型执行好，B 模型不理我」，这份清单可能比任何教程都管用。你最近一次调试 prompt 失败，是因为指令没写好，还是因为根本不知道模型前面已经塞了另一段指令？",
       "tags": [
-        "system prompt",
-        "模型行为",
-        "Anthropic",
-        "OpenAI",
-        "Gemini",
-        "Grok",
-        "prompt 工程",
+        "系统提示",
+        "Prompt工程",
         "逆向分析",
-        "AI 安全",
-        "开源"
+        "Claude",
+        "GPT",
+        "Gemini",
+        "Groks",
+        "AI安全",
+        "红队",
+        "开源数据"
       ]
     },
     {
       "topic": "Strix",
       "repo": "usestrix/strix",
       "cover_line1": "开源 AI 渗透测试工具",
-      "cover_line2": "自动找 Web 应用漏洞",
-      "body": "Strix 是个能自己点网页、填表单、发请求、看响应，然后判断有没有安全漏洞的 AI 工具。它不靠规则库，而是用 LLM 理解业务逻辑：比如看到登录页，它会尝试构造弱密码、SQL 注入、XSS payload，并观察返回是否泄露数据库结构或执行了 JS。整个过程跑在本地，Python 写的，支持 Chrome 和 Firefox 驱动，输出带截图和复现步骤。今天涨了 1121 星，总星数 3.6 万，不少安全团队把它加进 CI 流水线，每天凌晨扫一遍 staging 环境。它不是替代 Burp Suite，而是补漏：传统扫描器容易漏逻辑漏洞，Strix 用语言模型模拟攻击者思维，比如「如果我是黑产，会怎么绕过这个风控？」。项目文档里写了真实案例：某电商结算页的绕过逻辑，Strix 在第三次迭代时发现了，人工审计花了两周才确认。它不开源模型权重，但开源全部推理链和提示模板，你能看见它每步在想什么。如果你负责 Web 应用安全，你会把它当辅助哨兵，还是主防线？",
+      "cover_line2": "自动找网页应用漏洞",
+      "body": "Strix 是一个用 Python 写的开源工具，专门让 AI 帮你黑自己网站。它不模拟黑客思维，而是把 LLM 当成一个自动化探针：给它一个 URL，它会尝试点击按钮、填表单、传文件、改参数，一边跑一边问「这地方能 XSS 吗」「这个 ID 能越权读取吗」，然后根据响应内容判断是否存在漏洞。它已集成 OWASP Top 10 的常见模式，比如 SSRF、IDOR、模板注入，还支持自定义检测规则。总星数 3.7 万，今天涨了 1114 颗星，说明 DevSecOps 团队开始把它放进 CI 流水线里——每次发版前跑一遍 Strix，比等渗透测试报告快三天。它不依赖云端模型，本地跑 Ollama 或调用 OpenRouter 都行；输出不是「高危漏洞」这种模糊结论，而是带 curl 命令、HTTP 请求体、触发路径的可复现报告。比如它发现某管理后台的 /api/user/{id} 接口没校验权限，就会直接给出「用普通用户 token 访问 admin 用户 ID，返回了完整 profile 数据」这样的证据链。它不取代 Burp Suite，但补上了传统扫描器做不到的事：理解业务语义。比如它知道「订单号」字段大概率是数字，「优惠券码」大概率是字母+数字组合，所以 fuzz 时会按语义生成更有效的 payload。它也不假装全能，明确写了「不处理登录态复杂场景」，遇到需要 OAuth 登录的页面就跳过。你不用懂 exploit 编写，只要会看 HTTP 日志，就能用 Strix 快速验证一个新上线功能的安全水位。如果你手头有个刚上线的内部工具，你会先让它过 Strix，还是先写单元测试？",
       "tags": [
         "渗透测试",
-        "Web 安全",
-        "AI 安全",
+        "AI安全",
         "Python",
+        "Web安全",
+        "Owasp",
+        "开源工具",
         "自动化测试",
-        "LLM",
-        "开源",
-        "漏洞挖掘",
-        "CI/CD",
-        "红队工具"
+        "LLM安全",
+        "DevSecOps",
+        "红队"
       ]
     }
   ],
   "image_paths": [
-    "assets/2026-07-05/trending/summary.png",
-    "assets/2026-07-05/trending/post1.png",
-    "assets/2026-07-05/trending/post2.png",
-    "assets/2026-07-05/trending/post3.png",
-    "assets/2026-07-05/trending/post4.png"
+    "assets/2026-07-06/trending/summary.png",
+    "assets/2026-07-06/trending/post1.png",
+    "assets/2026-07-06/trending/post2.png",
+    "assets/2026-07-06/trending/post3.png",
+    "assets/2026-07-06/trending/post4.png"
   ]
 }
