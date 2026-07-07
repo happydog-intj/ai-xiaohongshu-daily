@@ -1,237 +1,229 @@
 {
   "date": "2026-07-07",
-  "slot": "早报",
+  "slot": "晚报",
   "all_repos": [
     {
-      "name": "asgeirtj/system_prompts_leaks",
-      "url": "https://github.com/asgeirtj/system_prompts_leaks",
-      "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
-      "language": "JavaScript",
-      "stars_today": "1,378 stars today",
-      "stars_total": "51,476"
-    },
-    {
-      "name": "addyosmani/agent-skills",
-      "url": "https://github.com/addyosmani/agent-skills",
-      "description": "Production-grade engineering skills for AI coding agents.",
-      "language": "Shell",
-      "stars_today": "1,112 stars today",
-      "stars_total": "70,767"
+      "name": "MadsLorentzen/ai-job-search",
+      "url": "https://github.com/MadsLorentzen/ai-job-search",
+      "description": "AI-powered job application framework built on Claude Code. Fork it, fill in your profile, and let Claude evaluate jobs, tailor CVs, write cover letters, and prepare you for interviews.",
+      "language": "TypeScript",
+      "stars_today": "2,402 stars today",
+      "stars_total": "9,351"
     },
     {
       "name": "Zackriya-Solutions/meetily",
       "url": "https://github.com/Zackriya-Solutions/meetily",
       "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai -https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows.",
       "language": "Rust",
-      "stars_today": "2,494 stars today",
-      "stars_total": "19,321"
+      "stars_today": "1,781 stars today",
+      "stars_total": "20,296"
+    },
+    {
+      "name": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "language": "JavaScript",
+      "stars_today": "1,311 stars today",
+      "stars_total": "71,777"
     },
     {
       "name": "ruvnet/RuView",
       "url": "https://github.com/ruvnet/RuView",
       "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
       "language": "Rust",
-      "stars_today": "470 stars today",
-      "stars_total": "77,493"
+      "stars_today": "1,122 stars today",
+      "stars_total": "78,230"
     },
-    {
-      "name": "Leonxlnx/taste-skill",
-      "url": "https://github.com/Leonxlnx/taste-skill",
-      "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
-      "language": "JavaScript",
-      "stars_today": "1,458 stars today",
-      "stars_total": "58,892"
-    },
-    {
-      "name": "alirezarezvani/claude-skills",
-      "url": "https://github.com/alirezarezvani/claude-skills",
-      "description": "345 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial & finance, and your daily productivity skills.",
-      "language": "Python",
-      "stars_today": "610 stars today",
-      "stars_total": "21,134"
-    },
-    {
-      "name": "openai/codex-plugin-cc",
-      "url": "https://github.com/openai/codex-plugin-cc",
-      "description": "Use Codex from Claude Code to review code or delegate tasks.",
-      "language": "JavaScript",
-      "stars_today": "906 stars today",
-      "stars_total": "26,263"
-    },
-    {
-      "name": "mvanhorn/last30days-skill",
-      "url": "https://github.com/mvanhorn/last30days-skill",
-      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
-      "language": "Python",
-      "stars_today": "458 stars today",
-      "stars_total": "49,721"
-    },
-    {
-      "name": "ogulcancelik/herdr",
-      "url": "https://github.com/ogulcancelik/herdr",
-      "description": "agent multiplexer that lives in your terminal.",
-      "language": "Rust",
-      "stars_today": "779 stars today",
-      "stars_total": "12,849"
-    },
-    {
-      "name": "bradautomates/claude-video",
-      "url": "https://github.com/bradautomates/claude-video",
-      "description": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
-      "language": "Python",
-      "stars_today": "427 stars today",
-      "stars_total": "4,204"
-    }
-  ],
-  "ai_repos": [
     {
       "name": "asgeirtj/system_prompts_leaks",
       "url": "https://github.com/asgeirtj/system_prompts_leaks",
       "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
       "language": "JavaScript",
-      "stars_today": "1,378 stars today",
-      "stars_total": "51,476"
+      "stars_today": "1,704 stars today",
+      "stars_total": "52,588"
     },
     {
-      "name": "addyosmani/agent-skills",
-      "url": "https://github.com/addyosmani/agent-skills",
-      "description": "Production-grade engineering skills for AI coding agents.",
-      "language": "Shell",
-      "stars_today": "1,112 stars today",
-      "stars_total": "70,767"
+      "name": "TencentCloud/CubeSandbox",
+      "url": "https://github.com/TencentCloud/CubeSandbox",
+      "description": "Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.",
+      "language": "Rust",
+      "stars_today": "665 stars today",
+      "stars_total": "8,279"
+    },
+    {
+      "name": "AhmadIbrahiim/Website-downloader",
+      "url": "https://github.com/AhmadIbrahiim/Website-downloader",
+      "description": "💡 Download the complete source code of any website (including all assets). [ Javascripts, Stylesheets, Images ] using Node.js",
+      "language": "HTML",
+      "stars_today": "173 stars today",
+      "stars_total": "3,756"
+    },
+    {
+      "name": "steipete/CodexBar",
+      "url": "https://github.com/steipete/CodexBar",
+      "description": "Show usage stats for OpenAI Codex and Claude Code, without having to login.",
+      "language": "Swift",
+      "stars_today": "377 stars today",
+      "stars_total": "16,961"
+    },
+    {
+      "name": "dotnet/skills",
+      "url": "https://github.com/dotnet/skills",
+      "description": "Repository for skills to assist AI coding agents with .NET and C#",
+      "language": "C#",
+      "stars_today": "200 stars today",
+      "stars_total": "4,242"
+    },
+    {
+      "name": "iOfficeAI/OfficeCLI",
+      "url": "https://github.com/iOfficeAI/OfficeCLI",
+      "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
+      "language": "C#",
+      "stars_today": "802 stars today",
+      "stars_total": "9,532"
+    }
+  ],
+  "ai_repos": [
+    {
+      "name": "MadsLorentzen/ai-job-search",
+      "url": "https://github.com/MadsLorentzen/ai-job-search",
+      "description": "AI-powered job application framework built on Claude Code. Fork it, fill in your profile, and let Claude evaluate jobs, tailor CVs, write cover letters, and prepare you for interviews.",
+      "language": "TypeScript",
+      "stars_today": "2,402 stars today",
+      "stars_total": "9,351"
     },
     {
       "name": "Zackriya-Solutions/meetily",
       "url": "https://github.com/Zackriya-Solutions/meetily",
       "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai -https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows.",
       "language": "Rust",
-      "stars_today": "2,494 stars today",
-      "stars_total": "19,321"
+      "stars_today": "1,781 stars today",
+      "stars_total": "20,296"
     },
     {
-      "name": "Leonxlnx/taste-skill",
-      "url": "https://github.com/Leonxlnx/taste-skill",
-      "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
+      "name": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
       "language": "JavaScript",
-      "stars_today": "1,458 stars today",
-      "stars_total": "58,892"
+      "stars_today": "1,311 stars today",
+      "stars_total": "71,777"
     },
     {
-      "name": "alirezarezvani/claude-skills",
-      "url": "https://github.com/alirezarezvani/claude-skills",
-      "description": "345 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial & finance, and your daily productivity skills.",
-      "language": "Python",
-      "stars_today": "610 stars today",
-      "stars_total": "21,134"
-    },
-    {
-      "name": "openai/codex-plugin-cc",
-      "url": "https://github.com/openai/codex-plugin-cc",
-      "description": "Use Codex from Claude Code to review code or delegate tasks.",
+      "name": "asgeirtj/system_prompts_leaks",
+      "url": "https://github.com/asgeirtj/system_prompts_leaks",
+      "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
       "language": "JavaScript",
-      "stars_today": "906 stars today",
-      "stars_total": "26,263"
+      "stars_today": "1,704 stars today",
+      "stars_total": "52,588"
     },
     {
-      "name": "mvanhorn/last30days-skill",
-      "url": "https://github.com/mvanhorn/last30days-skill",
-      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
-      "language": "Python",
-      "stars_today": "458 stars today",
-      "stars_total": "49,721"
-    },
-    {
-      "name": "ogulcancelik/herdr",
-      "url": "https://github.com/ogulcancelik/herdr",
-      "description": "agent multiplexer that lives in your terminal.",
+      "name": "TencentCloud/CubeSandbox",
+      "url": "https://github.com/TencentCloud/CubeSandbox",
+      "description": "Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.",
       "language": "Rust",
-      "stars_today": "779 stars today",
-      "stars_total": "12,849"
+      "stars_today": "665 stars today",
+      "stars_total": "8,279"
     },
     {
-      "name": "bradautomates/claude-video",
-      "url": "https://github.com/bradautomates/claude-video",
-      "description": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
-      "language": "Python",
-      "stars_today": "427 stars today",
-      "stars_total": "4,204"
+      "name": "steipete/CodexBar",
+      "url": "https://github.com/steipete/CodexBar",
+      "description": "Show usage stats for OpenAI Codex and Claude Code, without having to login.",
+      "language": "Swift",
+      "stars_today": "377 stars today",
+      "stars_total": "16,961"
+    },
+    {
+      "name": "dotnet/skills",
+      "url": "https://github.com/dotnet/skills",
+      "description": "Repository for skills to assist AI coding agents with .NET and C#",
+      "language": "C#",
+      "stars_today": "200 stars today",
+      "stars_total": "4,242"
+    },
+    {
+      "name": "iOfficeAI/OfficeCLI",
+      "url": "https://github.com/iOfficeAI/OfficeCLI",
+      "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
+      "language": "C#",
+      "stars_today": "802 stars today",
+      "stars_total": "9,532"
     }
   ],
   "posts": [
     {
-      "topic": "Meetily",
+      "topic": "AI求职框架",
+      "repo": "MadsLorentzen/ai-job-search",
+      "cover_line1": "Claude驱动的求职自动化框架",
+      "cover_line2": "填 profile 就自动投简历",
+      "body": "今天最实在的项目是 MadsLorentzen 做的 ai-job-search。它不是概念演示，而是一个能立刻上手的求职流水线：你填好自己的简历、经验、目标岗位，它就用 Claude Code 自动筛职位、改 CV、写 cover letter、甚至模拟面试问答。所有逻辑跑在本地或你指定的 Claude API 上，不上传敏感信息。代码用 TypeScript 写，结构清晰，README 里有完整 step-by-step 操作示例，连环境变量怎么配都写了。过去 24 小时涨了 2402 星，说明很多人试过、跑通了、真用了。它没做招聘平台对接，也没打包成 App，但正因如此，开发者能直接看懂每一步——比如 CV 适配是怎么用 prompt 拆解 JD 关键词，cover letter 怎么基于公司官网内容动态生成。这不是替代人的工具，而是把人从重复劳动里捞出来，腾出时间做真正需要判断的事。比如面试前，它生成的问题列表会带出处：“根据你写的‘熟悉 React 状态管理’，问你 useReducer 和 Zustand 的选择依据”。这种颗粒度，靠通用大模型自己发挥很难稳定达到。如果你最近在找工作，或者帮朋友改简历，它比手动调十个 prompt 更快、更稳、更可复现。你上次手动改三份 CV 花了多久？",
+      "tags": [
+        "求职",
+        "Claude",
+        "TypeScript",
+        "自动化",
+        "简历",
+        "cover letter",
+        "面试准备",
+        "开源",
+        "prompt 工程",
+        "开发者工具"
+      ]
+    },
+    {
+      "topic": "本地会议助手",
       "repo": "Zackriya-Solutions/meetily",
-      "cover_line1": "本地AI会议笔记工具",
-      "cover_line2": "4倍速Whisper+Ollama本地总结",
-      "body": "开会录音转文字慢、传云端不放心、总结像流水账？Meetily 把整套流程搬进你电脑里。它用 Rust 写，启动就跑 Parakeet 和 Whisper 的优化版，实时转写比原版快 4 倍；自动分出谁说了什么（speaker diarization）；最后用本地 Ollama 模型生成要点摘要。全程不联网，Mac 和 Windows 都能装，装完就能用，不用配环境、不用开账号。它不是 demo，是已经上线的开源产品（meetily.ai），GitHub 上 19k 星，今天涨了 2.5k 星。背后没大厂背书，是 Zackriya 团队自己打磨的——他们把「隐私」当默认项，不是功能开关。比如录音文件存在你硬盘，转写模型在你机器上跑，连日志都不发出去。对比市面上那些标榜「私有」但默认上传的工具，它真把控制权还给你。如果你上周刚用过 Zoom 自动纪要，发现它漏掉关键决策、把技术术语听错、还要等三天才出稿——Meetily 就是那个你试一次就想卸载 Zoom 插件的替代品。它不吹「智能」，只做三件事：听得快、分得清、写得准，全在你本地。现在它支持会议中实时滚动摘要，还能导出 Markdown 和 PDF。你试过本地跑 Whisper + Ollama 吗？",
+      "cover_line1": "Rust 写的本地会议记录工具",
+      "cover_line2": "4 倍速实时转录+本地总结",
+      "body": "Meetily 是一个真正在本地跑完全部流程的会议助手。不用上传音频，不连云端，所有语音识别、说话人区分、会议摘要，都在你电脑上完成。它用 Parakeet/Whisper 的优化版，实测转录速度是原版 4 倍，特别适合长会或多人插话场景；摘要部分用 Ollama 跑本地小模型，支持 macOS 和 Windows，打包成单二进制文件，双击就能用。它不卖 SaaS，也不推订阅，官网 meetily.ai 只放下载链接和文档。过去一天涨了 1781 星，总星数破两万，说明大量用户验证过：在 Zoom 或 Teams 会议中开个窗口录音，结束后 30 秒内就能拿到带发言者标记的文本和 bullet-point 总结。它没做智能待办提取，也没集成日历，但正因为克制，才做到了 100% 离线、零隐私风险、启动不到 2 秒。如果你常开跨时区会议、处理客户敏感对话，或只是讨厌每次开会后手动整理纪要，这个工具省下的不是几分钟，而是确定性——你知道结果永远在你硬盘里，不会某天突然登录不了。你最近一次会议纪要，是当场记的，还是会后补的？",
       "tags": [
-        "meeting",
-        "transcription",
-        "rust",
-        "ollama",
-        "whisper",
-        "privacy",
-        "local",
-        "ai",
-        "summarization",
-        "desktop"
+        "会议记录",
+        "Rust",
+        "本地 AI",
+        "语音转文字",
+        "Ollama",
+        "隐私优先",
+        "macOS",
+        "Windows",
+        "开源",
+        "实时转录"
       ]
     },
     {
-      "topic": "System Prompts Leaks",
-      "repo": "asgeirtj/system_prompts_leaks",
-      "cover_line1": "公开提取的AI系统提示",
-      "cover_line2": "含Claude 5/Opus 4.8、GPT 5.5、Gemini 3.5等",
-      "body": "AI 模型怎么被调教出来的？秘密藏在 system prompt 里——就是开发者喂给模型的第一句话。这个项目不是猜，是实打实从 Claude Fable 5、Opus 4.8、Claude Code、Claude Design，还有 OpenAI 的 ChatGPT 5.5 Thinking、GPT 5.5 Instant、Codex，Google 的 Gemini 3.5 Flash 和 3.1 Pro，甚至 xAI 的 Grok、Cursor、Copilot 等十多个主流 AI 工具里，把它们实际用的 system prompt 提取出来，整理成可读文本。每天更新，目前总星数超 5 万。它不破解、不绕过 API，而是利用公开行为和响应模式反推原始指令。比如 Claude Design 的 prompt 里明确写着「你是一个 UI 设计师，不要写代码，只输出 Figma 描述」；GPT 5.5 Instant 的开头是「你必须在 1 秒内响应，优先选短答案」。这些不是推测，是已验证的文本快照。对开发者来说，这不是八卦素材，是调试自己 agent 的参照系——当你发现自家 bot 总答非所问，对比一下 Opus 4.8 的 prompt 结构，可能立刻看出缺了约束条件。它也提醒我们：再强的模型，底子仍是人写的几行字。你最近一次重写自己 agent 的 system prompt 是什么时候？",
-      "tags": [
-        "system-prompt",
-        "claude",
-        "gpt",
-        "gemini",
-        "prompt-engineering",
-        "ai-models",
-        "leak",
-        "debug",
-        "agent",
-        "openai"
-      ]
-    },
-    {
-      "topic": "Agent Skills",
+      "topic": "AI 编程技能库",
       "repo": "addyosmani/agent-skills",
-      "cover_line1": "生产级AI编码技能库",
-      "cover_line2": "Google 工程师 Addy Osmani 主导",
-      "body": "AI 编码助手经常卡在「知道要做什么，但不会动手」——比如让它「修复 CI 失败」，它开始讲原理，不改 YAML；让它「加个 auth 中间件」，它列出三种方案，不写一行代码。Addy Osmani（Chrome DevTools 负责人、Google 工程师）牵头写了这套 agent-skills，目标很直白：让 AI 真正干工程活。它不是通用 prompt 集合，是带完整 Shell 脚本、CI 配置片段、Dockerfile 模板、真实错误日志处理逻辑的技能包。比如「fix-broken-test」技能会自动 grep 失败日志、定位 flaky test、生成 patch 并 run test --watch 验证；「deploy-to-staging」直接调用 kubectl apply -f，还附带 rollback 脚本。所有技能都经过 GitHub Actions 实际跑过，不是理论设计。70k 星不是靠标题党，是每天有工程师 copy-paste 进自己 repo 里用。它也不绑架你用某框架——Shell 写成，任何 agent 只要能执行命令就能接。最实在的是文档：每个技能页都标着「tested on Node 20 + Ubuntu 22.04」、「last verified 2 days ago」。它不承诺「取代程序员」，只解决一个具体问题：把 AI 从会议纪要员，变成能提 PR 的临时同事。你上次让 AI 帮你改 bug，它有没有真提交了可 merge 的代码？",
+      "cover_line1": "Google 工程师写的 AI 编程技能集",
+      "cover_line2": "71k 星，生产级可用",
+      "body": "Addy Osmani 是 Google Chrome 团队的资深工程师，他开源的 agent-skills 不是玩具 demo，而是真实落地到内部工具链里的编程能力模块。里面全是 JavaScript 写的、可即插即用的技能函数：读取 GitHub PR diff 并提建议、解析 Stack Overflow 错误堆栈定位 root cause、按规范生成 TypeScript 类型定义、自动修复 ESLint 报错并附解释。每个技能都带单元测试、错误边界和 fallback 逻辑，不是简单封装 API。它被设计成供 AI coding agent 调用，但人类开发者也能直接 import 使用。目前总星数 71777，远超同类项目，说明大量团队已把它集成进自己的 agent pipeline。它不依赖特定 LLM，所有 prompt 都显式声明意图、约束格式、标注失败路径，方便调试。比如 'git-diff-analyzer' 技能会先校验 diff 是否为空，再检查是否含 package.json 修改，最后才决定要不要触发依赖分析。这种工程思维，让 AI 不再是黑盒输出，而是可追踪、可审计、可 rollback 的协作方。你用 AI 写代码时，最常遇到哪类问题卡住？",
       "tags": [
-        "coding",
-        "shell",
-        "engineering",
-        "ci",
-        "devops",
-        "agent",
-        "github-actions",
-        "debug",
-        "pr",
-        "google"
+        "AI 编程",
+        "JavaScript",
+        "工程实践",
+        "Google",
+        "coding agent",
+        "开源",
+        "生产级",
+        "prompt 设计",
+        "测试覆盖",
+        "开发者工具"
       ]
     },
     {
-      "topic": "Last30Days Skill",
-      "repo": "mvanhorn/last30days-skill",
-      "cover_line1": "AI代理实时热点追踪",
-      "cover_line2": "覆盖Reddit/X/YouTube/HN/Polymarket",
-      "body": "想快速搞懂某个新技术为什么突然火了？查文档太慢，看新闻又太散。这个技能让 AI 代理自动去 Reddit、X（Twitter）、YouTube、Hacker News、Polymarket 和普通网页抓最近 30 天的内容，然后按时间线+观点立场+数据支撑三维度整理成一篇带出处的摘要。不是简单聚合链接，而是真正「阅读」后合成——比如查「Rust WASM」，它会指出 HN 上开发者抱怨编译体积、X 上有个团队晒了 3 倍性能提升、Polymarket 上有人押注明年 WASM 成为默认部署格式，并标注每条来源链接和发布时间。作者 mvanhorn 把它做成一个可插拔 skill，适配 Claude Code、Cursor、Ollama 等 8 个主流 coding agent。它不依赖 LLM 记忆，所有原始数据都存本地 JSON，随时可 audit。今天涨了 458 星，总星数近 5 万，说明很多人正用它替代 Google Trends + 手动翻帖。它也没假装全能——明确写清楚「不处理 PDF 或 paywalled 页面」，遇到就跳过，不瞎编。对做技术选型、写周报、准备投资人问答的人来说，这不是玩具，是省下每天两小时信息筛查的刚需工具。你最近一次需要快速判断一个技术趋势，是靠刷 feed 还是靠查这个？",
+      "topic": "系统提示泄露库",
+      "repo": "asgeirtj/system_prompts_leaks",
+      "cover_line1": "公开各大模型系统提示合集",
+      "cover_line2": "含 Claude Code、GPT 5.5、Gemini 3.5",
+      "body": "这个项目名字很直白：system_prompts_leaks。它定期抓取、整理、验证主流模型的系统提示（system prompt）——就是模型背后那个看不见的‘操作手册’。目前已收录 Anthropic 的 Claude Fable 5 和 Claude Code、OpenAI 的 ChatGPT 5.5 Thinking 和 Codex、Google 的 Gemini 3.5 Flash 和 3.1 Pro、xAI 的 Grok 和 Copilot 等共 15+ 个版本。每条提示都标注来源、采集时间、验证方式（比如通过越狱测试反推），并用 diff 标出不同版本间的改动。它不是黑客工具，而是开发者理解模型行为边界的尺子。比如你发现 Claude Code 对‘不要写 SQL 注入’响应不稳定，查这里就知道它的 system prompt 里其实没这条约束，而 GPT 5.5 Instant 有。过去 24 小时涨了 1704 星，说明越来越多工程师开始把 prompt 当成可调试的配置项，而不是玄学参数。它不教你怎么写 prompt，但它让你知道：你调的不是空气，是真实存在的几百行文本。你最近一次调 prompt，是靠猜，还是靠看？",
       "tags": [
-        "research",
-        "trends",
-        "reddit",
-        "hn",
-        "youtube",
-        "polymarket",
-        "agent",
-        "summary",
-        "real-time",
-        "data"
+        "system prompt",
+        "模型逆向",
+        "Claude",
+        "GPT",
+        "Gemini",
+        "prompt 分析",
+        "开源",
+        "AI 安全",
+        "工程调试",
+        "模型行为"
       ]
     }
   ],
