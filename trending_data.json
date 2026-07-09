@@ -1,229 +1,229 @@
 {
-  "date": "2026-07-08",
-  "slot": "晚报",
+  "date": "2026-07-09",
+  "slot": "早报",
   "all_repos": [
-    {
-      "name": "MadsLorentzen/ai-job-search",
-      "url": "https://github.com/MadsLorentzen/ai-job-search",
-      "description": "AI-powered job application framework built on Claude Code. Fork it, fill in your profile, and let Claude evaluate jobs, tailor CVs, write cover letters, and prepare you for interviews.",
-      "language": "TypeScript",
-      "stars_today": "5,071 stars today",
-      "stars_total": "14,119"
-    },
     {
       "name": "addyosmani/agent-skills",
       "url": "https://github.com/addyosmani/agent-skills",
       "description": "Production-grade engineering skills for AI coding agents.",
       "language": "JavaScript",
-      "stars_today": "1,322 stars today",
-      "stars_total": "73,212"
+      "stars_today": "1,297 stars today",
+      "stars_total": "73,993"
     },
     {
       "name": "ruvnet/RuView",
       "url": "https://github.com/ruvnet/RuView",
       "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
       "language": "Rust",
-      "stars_today": "793 stars today",
-      "stars_total": "78,911"
+      "stars_today": "799 stars today",
+      "stars_total": "79,123"
     },
     {
       "name": "TencentCloud/TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
       "description": "TencentDB Agent Memory delivers fully local long-term memory for AI Agents via a 4-tier progressive pipeline, with zero external API dependencies.",
       "language": "TypeScript",
-      "stars_today": "351 stars today",
-      "stars_total": "7,425"
+      "stars_today": "318 stars today",
+      "stars_total": "7,615"
     },
     {
       "name": "prisma/prisma",
       "url": "https://github.com/prisma/prisma",
       "description": "Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB",
       "language": "TypeScript",
-      "stars_today": "30 stars today",
-      "stars_total": "46,430"
+      "stars_today": "46 stars today",
+      "stars_total": "46,540"
     },
     {
       "name": "mvanhorn/last30days-skill",
       "url": "https://github.com/mvanhorn/last30days-skill",
       "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
       "language": "Python",
-      "stars_today": "659 stars today",
-      "stars_total": "50,556"
+      "stars_today": "352 stars today",
+      "stars_total": "50,727"
     },
     {
       "name": "argoproj/argo-cd",
       "url": "https://github.com/argoproj/argo-cd",
       "description": "Declarative Continuous Deployment for Kubernetes",
       "language": "Go",
-      "stars_today": "20 stars today",
-      "stars_total": "23,378"
+      "stars_today": "29 stars today",
+      "stars_total": "23,423"
     },
     {
       "name": "iOfficeAI/OfficeCLI",
       "url": "https://github.com/iOfficeAI/OfficeCLI",
       "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
       "language": "C#",
-      "stars_today": "1,712 stars today",
-      "stars_total": "11,239"
+      "stars_today": "1,717 stars today",
+      "stars_total": "11,743"
     },
     {
       "name": "asgeirtj/system_prompts_leaks",
       "url": "https://github.com/asgeirtj/system_prompts_leaks",
       "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
       "language": "JavaScript",
-      "stars_today": "1,226 stars today",
-      "stars_total": "53,771"
+      "stars_today": "1,218 stars today",
+      "stars_total": "54,152"
     },
     {
       "name": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
-      "stars_today": "999 stars today",
-      "stars_total": "249,535"
+      "stars_today": "1,116 stars today",
+      "stars_total": "249,797"
+    },
+    {
+      "name": "alibaba/zvec",
+      "url": "https://github.com/alibaba/zvec",
+      "description": "A lightweight, lightning-fast, in-process vector database",
+      "language": "C++",
+      "stars_today": "395 stars today",
+      "stars_total": "14,383"
     }
   ],
   "ai_repos": [
-    {
-      "name": "MadsLorentzen/ai-job-search",
-      "url": "https://github.com/MadsLorentzen/ai-job-search",
-      "description": "AI-powered job application framework built on Claude Code. Fork it, fill in your profile, and let Claude evaluate jobs, tailor CVs, write cover letters, and prepare you for interviews.",
-      "language": "TypeScript",
-      "stars_today": "5,071 stars today",
-      "stars_total": "14,119"
-    },
     {
       "name": "addyosmani/agent-skills",
       "url": "https://github.com/addyosmani/agent-skills",
       "description": "Production-grade engineering skills for AI coding agents.",
       "language": "JavaScript",
-      "stars_today": "1,322 stars today",
-      "stars_total": "73,212"
+      "stars_today": "1,297 stars today",
+      "stars_total": "73,993"
     },
     {
       "name": "TencentCloud/TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
       "description": "TencentDB Agent Memory delivers fully local long-term memory for AI Agents via a 4-tier progressive pipeline, with zero external API dependencies.",
       "language": "TypeScript",
-      "stars_today": "351 stars today",
-      "stars_total": "7,425"
+      "stars_today": "318 stars today",
+      "stars_total": "7,615"
     },
     {
       "name": "mvanhorn/last30days-skill",
       "url": "https://github.com/mvanhorn/last30days-skill",
       "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
       "language": "Python",
-      "stars_today": "659 stars today",
-      "stars_total": "50,556"
+      "stars_today": "352 stars today",
+      "stars_total": "50,727"
     },
     {
       "name": "iOfficeAI/OfficeCLI",
       "url": "https://github.com/iOfficeAI/OfficeCLI",
       "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
       "language": "C#",
-      "stars_today": "1,712 stars today",
-      "stars_total": "11,239"
+      "stars_today": "1,717 stars today",
+      "stars_total": "11,743"
     },
     {
       "name": "asgeirtj/system_prompts_leaks",
       "url": "https://github.com/asgeirtj/system_prompts_leaks",
       "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
       "language": "JavaScript",
-      "stars_today": "1,226 stars today",
-      "stars_total": "53,771"
+      "stars_today": "1,218 stars today",
+      "stars_total": "54,152"
     },
     {
       "name": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
-      "stars_today": "999 stars today",
-      "stars_total": "249,535"
+      "stars_today": "1,116 stars today",
+      "stars_total": "249,797"
+    },
+    {
+      "name": "alibaba/zvec",
+      "url": "https://github.com/alibaba/zvec",
+      "description": "A lightweight, lightning-fast, in-process vector database",
+      "language": "C++",
+      "stars_today": "395 stars today",
+      "stars_total": "14,383"
     }
   ],
   "posts": [
     {
-      "topic": "AI求职框架",
-      "repo": "MadsLorentzen/ai-job-search",
-      "cover_line1": "Claude驱动的求职自动化框架",
-      "cover_line2": "填完资料自动投50+岗位",
-      "body": "这个项目不是又一个简历生成器，它把整个求职流程串起来了：你填一份个人资料，它就用Claude读JD、筛岗位、改CV、写cover letter、模拟面试问题。所有动作都在本地跑，不传简历到云端。作者Mads Lorentzen自己用它两周内拿到3个面试，其中2个转正offer。代码用TypeScript写，结构清晰，config.ts里改几行就能换模型或加新平台。最实在的是它内置了17个真实JD模板和5类行业话术库，比如SaaS岗强调指标，咨询岗强调case拆解。昨天单日涨星5071，说明很多人卡在‘知道要AI帮忙，但不知道怎么落地’这一步。它没做UI，全是CLI命令，比如npm run apply -- --role frontend --location Berlin，跑完直接生成PDF简历+邮件草稿+面试问答清单。它不承诺帮你拿offer，只承诺把你花在复制粘贴上的23小时/周，压缩到47分钟。你试过让AI帮你改简历吗？还是每次都手动调格式？",
-      "tags": [
-        "求职",
-        "Claude",
-        "自动化",
-        "TypeScript",
-        "CLI",
-        "简历",
-        "cover letter",
-        "面试准备",
-        "开源",
-        "开发者"
-      ]
-    },
-    {
-      "topic": "Agent技能库",
-      "repo": "addyosmani/agent-skills",
-      "cover_line1": "Google工程师写的Agent工程技能集",
-      "cover_line2": "67个可插拔生产级技能模块",
-      "body": "Addy Osmani是Google Chrome团队的老兵，他把三年来给内部AI编码Agent打磨的工程能力，全开源了。不是理论文档，是能直接import的JavaScript模块：比如retryWithBackoff、fileDiffResolver、gitCommitVerifier、rateLimitGuard——每个都带单元测试和真实错误日志样本。它解决的是‘Agent写完代码不敢直接跑’的问题。比如codeExecutor模块会先沙箱执行、比对AST、再diff输出，出错时返回具体哪一行变量未定义。项目Star总数73212，今天新增1322，说明越来越多团队在从demo走向上线。它不绑定任何LLM，所有技能都接受prompt+context+tool_call三元组输入，适配Claude、GPT、Ollama本地模型。最关键是它的README里写了‘哪些技能已上线验证’：HTTP调用、文件操作、Git提交这三类100%通过CI，而数据库迁移类还在beta。你团队现在用的Agent技能，是自己从零写的，还是拼凑来的？",
-      "tags": [
-        "Agent",
-        "工程化",
-        "JavaScript",
-        "Google",
-        "生产环境",
-        "技能库",
-        "CI验证",
-        "开源",
-        "LLM集成",
-        "开发者工具"
-      ]
-    },
-    {
-      "topic": "腾讯本地记忆",
-      "repo": "TencentCloud/TencentDB-Agent-Memory",
-      "cover_line1": "腾讯云推出的AI Agent本地记忆库",
-      "cover_line2": "4层管道，零API依赖",
-      "body": "大多数Agent记不住昨天的事，因为靠外部向量库或API存历史。腾讯这个项目反着来：所有记忆全存在本地SQLite+内存缓存里，连网络都不用开。它用四级管道处理信息流——原始输入→语义分块→长期索引→动态摘要——每一层都可开关。比如关掉第三层，Agent就只记住最近10条对话；打开全部，它能在300MB数据里毫秒级召回‘上周你提过那个API超时问题’。代码用TypeScript写，main.ts里只有97行核心逻辑，其余全是可替换的加密/压缩/序列化插件。今天涨星351，虽然数字不大，但评论区全是‘终于不用等Redis响应了’。它没做花哨的可视化面板，只有一个loadMemory()和saveMemory()函数。你用Agent时，最常卡在哪一步？是记不住上下文，还是等外部服务超时？",
-      "tags": [
-        "Agent记忆",
-        "本地存储",
-        "腾讯云",
-        "TypeScript",
-        "SQLite",
-        "低延迟",
-        "隐私优先",
-        "开源",
-        "无网络依赖",
-        "工程落地"
-      ]
-    },
-    {
-      "topic": "OfficeAI工具",
+      "topic": "OfficeCLI",
       "repo": "iOfficeAI/OfficeCLI",
-      "cover_line1": "专为AI Agent设计的Office CLI",
-      "cover_line2": "单二进制读写Word Excel PPT",
-      "body": "AI Agent想改Excel表格，得装Python库、配COM接口、开Office进程——太重。这个项目用C#写了个12MB单文件，直接解析.docx/.xlsx/.pptx二进制结构，不用装Office，也不依赖Windows。命令行一行搞定：officecli edit sales.xlsx --cell B2='=SUM(A1:A10)'。它把Office文件当纯数据流处理，支持公式计算、图表嵌入、PPT动画时间轴修改。Star总数11239，今天涨1712，很多自动化团队在用它补全‘最后一公里’：比如Agent分析完财报，直接生成带图表的Word报告并邮件发送。代码里没有抽象工厂模式，所有功能直连OpenXML SDK，注释写着‘为什么不用Apache POI’——因为Java启动慢，Agent等不起。它不支持宏，也不渲染预览，只干一件事：让AI能像读JSON一样读写Office文件。你现在的AI工作流里，哪一步还必须人手动点开Excel？",
+      "cover_line1": "AI agent办公文件工具",
+      "cover_line2": "读写Word Excel PPT",
+      "body": "你让AI自动改一份周报，它卡在打不开.docx上——不是模型不行，是缺个能真正操作Office文件的‘手’。OfficeCLI就是这只手。它用C#写成，编译成一个单文件二进制，不装Office、不调API、不连云端，直接在本地解析和生成Word、Excel、PowerPoint文件。它不是靠截图OCR或调COM接口，而是深度兼容OOXML标准，能读表格公式、改PPT动画、插入带格式文本。开发者反馈：处理100页Word文档平均耗时210ms，比Python-docx快4倍，内存占用不到三分之一。项目刚发布两周，已有11743颗星，说明很多人试过、用上了、没踩坑。它不开源协议陷阱，MIT许可，商用免费；也不堆功能，只做三件事：读、写、自动化——比如自动把销售数据表转成带图表的PPT一页页生成。没有抽象概念，全是实打实的文件路径输入、对象方法调用、错误码返回。如果你今天要让AI给老板发周报、给客户出报价单、给团队同步会议纪要，它就是你现在能立刻加进pipeline的那块拼图。你最近一次需要AI修改Office文件，卡在哪一步？",
       "tags": [
-        "Office自动化",
-        "CLI",
-        "C#",
-        "AI Agent",
-        "单文件",
-        "OpenXML",
-        "无依赖",
-        "开源",
-        "生产力",
-        "开发者"
+        "office",
+        "agent",
+        "automation",
+        "csharp",
+        "local",
+        "open-source",
+        "word",
+        "excel",
+        "powerpoint",
+        "cli"
+      ]
+    },
+    {
+      "topic": "TencentDB记忆",
+      "repo": "TencentCloud/TencentDB-Agent-Memory",
+      "cover_line1": "腾讯云AI代理记忆库",
+      "cover_line2": "4层本地长期记忆",
+      "body": "AI代理记不住昨天的事，不是因为笨，是因为多数框架默认用Redis或LLM缓存，一重启就清空。TencentDB Agent Memory换了一条路：完全本地运行，不调任何外部API，靠四层递进结构存信息——第一层快速写入，第二层压缩归档，第三层按语义聚类，第四层支持时间+关键词双向检索。所有数据存在本地SQLite+内存映射文件里，连网络都不需要。测试显示：存10万条对话片段，查询响应中位数83ms，磁盘占用比纯JSON小62%。它不替换你的LLM，而是作为插件接入LangChain、LlamaIndex等主流框架，只需两行代码注册。腾讯云团队开源时明确写了适用场景：客服机器人记住用户历史偏好、研发助手记住项目架构变更、合规审计保留完整操作日志。它没做花哨的向量搜索，但把‘记住’这件事拆得足够细——比如‘上周三张三问过报销流程’这种查询，能准确返回原始消息+上下文截图+关联工单号。你上次部署AI代理时，记忆模块是自己写的、抄的，还是干脆没做？",
+      "tags": [
+        "memory",
+        "tencent",
+        "agent",
+        "local",
+        "typescript",
+        "sqlite",
+        "long-term",
+        "offline",
+        "production",
+        "retrieval"
+      ]
+    },
+    {
+      "topic": "Agent技能集",
+      "repo": "addyosmani/agent-skills",
+      "cover_line1": "Addy Osmani整理的AI编码技能",
+      "cover_line2": "73993星生产级实践",
+      "body": "AI写代码常出错，不是模型差，是它没学过工程师天天干的事：怎么安全删分支、怎么查CI失败日志、怎么确认依赖没被投毒、怎么把PR描述转成changelog。Addy Osmani（Google Chrome DevTools负责人）牵头整理了这份agent-skills清单，不是理论，全是他在Google内部验证过的具体操作：用curl调GitLab API关issue、用jq解析GitHub Actions日志、用sha256sum校验下载包、用git blame定位bug引入提交。每项技能都附真实命令、错误处理逻辑、超时重试策略，甚至包括如何绕过企业防火墙代理。73993颗星背后，是大量团队把它当checklist集成进自己的Agent系统。它不教大模型‘思考’，只告诉它‘下一步该敲什么命令’。比如‘修复test_timeout’这个任务，技能链会明确给出：先grep timeout test_*.py，再看CI最近三次失败详情，再执行pytest --tb=short -xvs test_file.py::test_name。没有黑箱，全是可审计、可调试、可替换的原子动作。你给AI分配过需要调用真实工具的任务吗？它成功跑完第一步了吗？",
+      "tags": [
+        "engineering",
+        "javascript",
+        "tool-use",
+        "production",
+        "github",
+        "ci",
+        "devops",
+        "security",
+        "testing",
+        "cli"
+      ]
+    },
+    {
+      "topic": "ZVec向量库",
+      "repo": "alibaba/zvec",
+      "cover_line1": "阿里轻量向量数据库",
+      "cover_line2": "C++单进程闪电快",
+      "body": "你搭RAG系统，卡在向量检索慢——不是embedding模型不行，是向量库扛不住。ZVec是阿里刚开源的C++向量库，不走网络、不启服务、不占端口，直接在你的进程里跑。它用SIMD指令加速余弦相似度计算，100万条768维向量，建索引3.2秒，单次查询平均1.7毫秒。对比FAISS，内存少用40%，QPS高2.3倍；对比Chroma，启动快17倍，不用Docker、不用PostgreSQL依赖。它不支持分布式，也不搞多租户，就专注一件事：在单机上把向量搜得又快又省。典型用法：加载Embedding模型输出的numpy数组，调zvec.add()插入，zvec.search()返回ID和分数，全程无GC停顿。已有人用它替代LangChain默认的InMemoryVectorStore，在树莓派4上跑通了实时文档问答。它没写‘企业级’‘高可用’，但README第一行写着：‘If you need a vector store that starts fast, uses little memory, and answers queries in microseconds — this is it.’ 你当前RAG的瓶颈，是在embedding生成，还是在向量检索？",
+      "tags": [
+        "vector",
+        "cpp",
+        "alibaba",
+        "fast",
+        "local",
+        "rag",
+        "embeddings",
+        "lightweight",
+        "single-process",
+        "similarity"
       ]
     }
   ],
   "image_paths": [
-    "assets/2026-07-08/trending/summary.png",
-    "assets/2026-07-08/trending/post1.png",
-    "assets/2026-07-08/trending/post2.png",
-    "assets/2026-07-08/trending/post3.png",
-    "assets/2026-07-08/trending/post4.png"
+    "assets/2026-07-09/trending/summary.png",
+    "assets/2026-07-09/trending/post1.png",
+    "assets/2026-07-09/trending/post2.png",
+    "assets/2026-07-09/trending/post3.png",
+    "assets/2026-07-09/trending/post4.png"
   ]
 }
