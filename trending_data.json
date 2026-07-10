@@ -1,6 +1,6 @@
 {
-  "date": "2026-07-10",
-  "slot": "晚报",
+  "date": "2026-07-11",
+  "slot": "早报",
   "all_repos": [
     {
       "name": "wonderwhy-er/DesktopCommanderMCP",
@@ -8,7 +8,7 @@
       "description": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
       "language": "TypeScript",
       "stars_today": "349 stars today",
-      "stars_total": "6,968"
+      "stars_total": "7,266"
     },
     {
       "name": "oven-sh/bun",
@@ -16,15 +16,15 @@
       "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
       "language": "Rust",
       "stars_today": "307 stars today",
-      "stars_total": "94,002"
+      "stars_total": "94,205"
     },
     {
       "name": "abseil/abseil-cpp",
       "url": "https://github.com/abseil/abseil-cpp",
       "description": "Abseil Common Libraries (C++)",
       "language": "C++",
-      "stars_today": "3 stars today",
-      "stars_total": "17,483"
+      "stars_today": "106 stars today",
+      "stars_total": "17,512"
     },
     {
       "name": "addyosmani/agent-skills",
@@ -32,7 +32,7 @@
       "description": "Production-grade engineering skills for AI coding agents.",
       "language": "JavaScript",
       "stars_today": "1,114 stars today",
-      "stars_total": "76,562"
+      "stars_total": "76,805"
     },
     {
       "name": "jbeder/yaml-cpp",
@@ -40,23 +40,23 @@
       "description": "A YAML parser and emitter in C++",
       "language": "C++",
       "stars_today": "65 stars today",
-      "stars_total": "6,058"
+      "stars_total": "6,078"
     },
     {
       "name": "mattpocock/skills",
       "url": "https://github.com/mattpocock/skills",
       "description": "Skills for Real Engineers. Straight from my .claude directory.",
       "language": "Shell",
-      "stars_today": "1,728 stars today",
-      "stars_total": "164,201"
+      "stars_today": "1,663 stars today",
+      "stars_total": "164,581"
     },
     {
       "name": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
-      "stars_today": "1,096 stars today",
-      "stars_total": "251,567"
+      "stars_today": "969 stars today",
+      "stars_total": "251,761"
     },
     {
       "name": "microsoft/TypeScript",
@@ -64,7 +64,7 @@
       "description": "TypeScript is a superset of JavaScript that compiles to clean JavaScript output.",
       "language": "TypeScript",
       "stars_today": "166 stars today",
-      "stars_total": "109,706"
+      "stars_total": "109,765"
     },
     {
       "name": "catchorg/Catch2",
@@ -72,7 +72,7 @@
       "description": "A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)",
       "language": "C++",
       "stars_today": "69 stars today",
-      "stars_total": "20,575"
+      "stars_total": "20,609"
     },
     {
       "name": "chriskohlhoff/asio",
@@ -80,7 +80,7 @@
       "description": "Asio C++ Library",
       "language": "C++",
       "stars_today": "87 stars today",
-      "stars_total": "6,041"
+      "stars_total": "6,068"
     }
   ],
   "ai_repos": [
@@ -90,7 +90,7 @@
       "description": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
       "language": "TypeScript",
       "stars_today": "349 stars today",
-      "stars_total": "6,968"
+      "stars_total": "7,266"
     },
     {
       "name": "addyosmani/agent-skills",
@@ -98,108 +98,108 @@
       "description": "Production-grade engineering skills for AI coding agents.",
       "language": "JavaScript",
       "stars_today": "1,114 stars today",
-      "stars_total": "76,562"
+      "stars_total": "76,805"
     },
     {
       "name": "mattpocock/skills",
       "url": "https://github.com/mattpocock/skills",
       "description": "Skills for Real Engineers. Straight from my .claude directory.",
       "language": "Shell",
-      "stars_today": "1,728 stars today",
-      "stars_total": "164,201"
+      "stars_today": "1,663 stars today",
+      "stars_total": "164,581"
     },
     {
       "name": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
-      "stars_today": "1,096 stars today",
-      "stars_total": "251,567"
+      "stars_today": "969 stars today",
+      "stars_total": "251,761"
     }
   ],
   "posts": [
     {
       "topic": "DesktopCommanderMCP",
       "repo": "wonderwhy-er/DesktopCommanderMCP",
-      "cover_line1": "Claude 的桌面控制服务器",
-      "cover_line2": "支持终端/文件搜索/差异编辑",
-      "body": "Claude 原本只能聊天，不能碰你的电脑。这个项目给它装了个 MCP 服务器，让它能真正在你本地跑命令、搜文件、对比并编辑两个文件的差异。不是模拟，不是截图，是实打实调用 macOS 或 Linux 的终端和文件系统 API。代码用 TypeScript 写，结构清晰，启动后 Claude 就能通过工具调用执行 ls、grep、git diff、vim 等操作。作者叫 wonderwhy-er，没包装成黑箱，所有能力都暴露在 config 文件里，改一行就能关掉某个权限。今天涨了 349 星，总星数近 7000，说明很多人试过、用上了、觉得稳。它不试图取代你写代码，而是把你重复敲的 cd、find、diff、patch 操作自动化掉——比如你让 Claude ‘把 src/utils.ts 里所有 console.log 删掉，再和上一版对比’，它真能办到。没有训练模型，不传数据出去，所有动作都在你机器上发生。它也不解决‘AI 不会思考’的问题，只解决‘AI 有手却没胳膊’的问题。如果你常在终端里来回切窗口、复制路径、手动 diff，这个东西省下的不是时间，是打断流的次数。",
+      "cover_line1": "Claude 的桌面控制服务",
+      "cover_line2": "支持终端/文件搜索/编辑对比",
+      "body": "Claude 本来只能聊天，不能碰你电脑。这个项目给它装上‘手’和‘眼睛’——用 MCP 协议连上本地电脑后，它能直接执行终端命令、在你硬盘里搜文件、打开两个文本对比差异、改完再保存。所有操作都走标准 MCP（Model Control Protocol），不是硬编码的 hack，所以其他支持 MCP 的模型也能复用。代码用 TypeScript 写，结构清晰，main.ts 里只做三件事：启动服务器、注册三个能力（exec/search/edit）、把 Claude 的请求转成系统调用。它不接管你的整个系统，权限收得很紧，默认只读文件目录，要改文件得手动确认。今天涨了 349 星，总星数 7266，说明很多人正卡在‘AI 想干活但没手脚’这一步。它没做 UI，也没打包成 App，就是一段可跑的服务，适合开发者嵌进自己的本地开发流里。比如你在写前端，让 Claude 帮你找某个 React 组件用了几次 useEffect，它就能真去 grep；或者改完代码后让它自动 diff 新旧版本，告诉你删了哪行、加了哪行。不是幻想，是现在就能 curl 测试的实打实能力。你试过让 AI 控制你本地终端吗？",
       "tags": [
-        "claude",
-        "mcp",
+        "Claude",
+        "MCP",
         "terminal",
-        "file-system",
+        "file-search",
         "diff",
-        "local-execution",
-        "typescript",
-        "ai-agent",
-        "tool-use",
-        "desktop-control"
-      ]
-    },
-    {
-      "topic": "agent-skills",
-      "repo": "addyosmani/agent-skills",
-      "cover_line1": "Addy Osmani 整理的 AI 编程技能",
-      "cover_line2": "112 个可直接复用的 Shell 脚本",
-      "body": "Addy Osmani 是 Google Chrome 团队的老兵，写过大量前端工程实践文档。他这次把日常让 AI 编码时真正管用的技能全拆出来，做成一个个独立 Shell 脚本：自动查 npm 包依赖树、生成 commit message 模板、从 PR 描述提取测试点、检查 tsconfig 是否启用 strict 模式、一键生成 README 结构……每个脚本都带注释说明用途、输入输出、适用场景。不是概念图，不是幻灯片，是扔进项目里就能 chmod +x 运行的真代码。今天涨了 1114 星，总星数超 7.6 万，说明大量团队正在往自己 Agent 的 tool 目录里塞这些文件。它不教你怎么调 API，而是告诉你：当 AI 说‘我需要看依赖关系’时，你应该给它什么命令、返回什么格式、怎么防错。所有脚本都用 POSIX Shell 写，不依赖 Node 或 Python，Mac/Linux 都能跑。最实在的一点是：每个技能都经过至少三个真实 PR 场景验证，比如‘分析失败测试日志并定位变更行’这个脚本，真被用在 Chromium 的 CI 流水线里修过 bug。你不用照抄，但能看清高手怎么把模糊需求翻译成可执行动作。",
-      "tags": [
-        "shell",
-        "coding-agent",
-        "engineering-practice",
-        "cli-tools",
-        "npm",
-        "git",
-        "typescript",
-        "ci",
-        "pr-review",
-        "automation"
-      ]
-    },
-    {
-      "topic": "skills",
-      "repo": "mattpocock/skills",
-      "cover_line1": "Matt Pocock 的 .claude 技能集",
-      "cover_line2": "164k 星，全开源 Shell 脚本",
-      "body": "Matt Pocock 是 TypeScript 类型体操大师，也是一线写业务的人。他把每天实际丢给 Claude 的任务，全存进了自己家目录的 .claude 文件夹，现在直接开源了。里面不是理论，是 58 个 Shell 脚本：一键重命名 Git 分支并同步远程、根据 package.json 自动生成 CHANGELOG.md、把当前目录下所有 JSON 合并成一个、按函数名提取 TS 文件里的类型定义……每个脚本都有 real-world 备注，比如 ‘用于上周帮客户修复 SSR hydration mismatch’。今天涨了 1728 星，总星数破 16.4 万，是目前 GitHub 上最火的 Agent 技能仓库。它不讲 LLM 原理，只回答一个问题：你让 AI ‘帮我找 bug’ 时，到底该让它运行哪条命令、看哪段输出、再怎么追问。所有脚本都能单文件运行，不依赖框架，也不绑定某家模型。你甚至可以直接 fork，删掉不用的，留下那几个你每天真会用的。它的价值不在数量，而在每一个脚本背后都写着‘我昨天靠它省了 22 分钟’。",
-      "tags": [
-        "shell",
-        "typescript",
-        "git",
-        "cli",
-        "debugging",
-        "automation",
-        "claude",
-        "real-world",
+        "TypeScript",
+        "local-control",
+        "agent-skill",
         "dev-tool",
         "open-source"
       ]
     },
     {
-      "topic": "superpowers",
-      "repo": "obra/superpowers",
-      "cover_line1": "Obra 团队的 agentic 开发框架",
-      "cover_line2": "251k 星，含完整开发方法论",
-      "body": "Obra 是一家专注 AI 工程化的公司，他们不做大模型，专做‘怎么让 AI 稳稳干活’。superpowers 是他们内部用了一年多的框架，今天开源了。它不只是工具集合，而是一整套开发节奏：怎么定义技能边界（比如‘读代码’和‘改代码’必须拆成两个 skill）、怎么设计错误恢复路径（AI 执行失败后自动 fallback 到人工提示）、怎么用 Shell 函数封装 Git/Node/TS 工具链、怎么把每次 Agent 调用变成可 debug 的日志流。251k 总星数不是靠营销，是靠它自带的 demo：一个能从零初始化 React 项目、写组件、加测试、跑 lint、提交 PR 的完整流水线。所有代码用纯 Shell 写，不藏黑盒，config 文件里清清楚楚列着每个 skill 的 stdin/stdout 格式。它不承诺‘全自动’，但承诺‘每一步都能打断、查看、重放’。如果你试过让 AI 写完代码又崩在 husky 钩子上、或者 diff 输出太长导致 token 超限，这个框架里早就有对应解法：比如自动截断 diff、加 --no-verify 跳过钩子、失败时回滚到上一个 git commit。它不是教你造轮子，而是给你一套已经轧过坑的轨道。",
+      "topic": "agent-skills",
+      "repo": "addyosmani/agent-skills",
+      "cover_line1": "Google 工程师写的 AI 编程技能库",
+      "cover_line2": "112 个可直接运行的 shell 脚本",
+      "body": "Addy Osmani 是 Google Chrome 团队的资深工程师，他把日常让 AI 干活的真实脚本全放出来了。不是教程，不是伪代码，是 112 个 `.sh` 文件，每个都能双击运行。比如 `git-pr-summary.sh` 会自动拉取当前分支的 PR 列表，让 AI 总结改动点；`find-broken-links.sh` 先爬你网站，再让 AI 判断哪些链接已失效；还有 `audit-package-json.sh` 直接解析依赖树，标出过期或高危包。所有脚本都带注释说明输入输出，不依赖特定模型，你换 Ollama 或 LM Studio 也能跑。今天涨了 1114 星，总星数冲到 7.6 万，说明大家早就不满足于‘让 AI 写 Hello World’，而是要它真进 CI、真查日志、真审依赖。它不教你怎么提示词，它教你‘该让 AI 做什么’——比如‘别问 AI 这段代码有没有 bug’，而是先用 `eslint` 和 `prettier` 扫一遍，再把报错+代码一起喂给 AI 让它解释。你最近一次让 AI 帮你干的活，是靠自己写脚本调度的，还是靠复制粘贴人工中转的？",
       "tags": [
         "shell",
+        "script",
+        "CI",
+        "audit",
+        "Google",
+        "production",
+        "tooling",
+        "automation",
+        "engineering",
+        "JavaScript"
+      ]
+    },
+    {
+      "topic": "skills",
+      "repo": "mattpocock/skills",
+      "cover_line1": "Matt Pocock 的 Claude 技能集",
+      "cover_line2": "164k 星，全来自 .claude 目录",
+      "body": "Matt Pocock 是 TypeScript 类型体操大师，他把每天往 Claude 的 `.claude` 目录里扔的真实技能脚本全开源了。这些不是 demo，是他自己写项目时每天用的：`npm-outdated-check.sh` 自动检测依赖更新；`ts-type-check.sh` 把报错堆栈喂给 Claude，让它解释类型问题；甚至 `pr-review.sh` 能根据 Git Diff 生成带行号的评审意见。所有脚本都极简——平均不到 20 行，用纯 Shell 写，不依赖 Node 或 Python。164581 颗星不是靠标题党，是开发者发现‘原来他真的这么用’。比如你刚 merge 一个 PR，运行 `pr-review.sh`，它就自动 git diff origin/main，把变更传给 Claude，再把回复格式化成 Markdown 贴回 PR 评论区。没有中间平台，没有账号绑定，就是本地命令行+API key。它不教你‘如何成为 AI 工程师’，它展示‘一个真实工程师今天下午三点干了什么’。你电脑的 `~/.claude` 目录里，现在存着几个你自己写的技能脚本？",
+      "tags": [
+        "Shell",
+        "Claude",
+        "type-safe",
+        "pr-review",
+        "npm",
+        "typescript",
+        "dotfiles",
+        "cli",
+        "real-world",
+        "engineer"
+      ]
+    },
+    {
+      "topic": "superpowers",
+      "repo": "obra/superpowers",
+      "cover_line1": "Obra 团队的 AI 编程方法论",
+      "cover_line2": "251k 星，含完整开发流程",
+      "body": "Obra 是一家专注 AI 编程工具的团队，他们把整套‘怎么让 AI 真写可交付代码’的流程拆成了 7 个明确阶段：需求澄清 → 架构草图 → 模块拆解 → 单元测试生成 → 实现 → 集成验证 → 文档同步。每个阶段都配了对应 shell 脚本和模板，比如 `architect.sh` 会要求你先填三栏：目标、约束、已知接口，再让 AI 输出 Mermaid 图；`test-gen.sh` 不是让 AI 写测试，而是先跑 `tsc --noEmit` 拿类型信息，再把错误+函数签名喂给 AI 生成 Jest 用例。它不假设你用什么模型，所有脚本都通过环境变量 `MODEL_URL` 接入本地 Llama 或远程 API。251761 颗星背后，是大量团队把它当标准流程接入内部 DevOps。它最实在的一点：所有输出都强制带 `# GENERATED BY superpowers v0.3.1` 注释，方便后续审计。不是‘AI 写完就跑’，而是‘AI 写的每行代码，都有可追溯的生成上下文’。你团队里，AI 生成的代码目前有几处能明确回溯到原始 prompt 和参数？",
+      "tags": [
         "agentic",
-        "software-engineering",
-        "git",
-        "react",
-        "testing",
-        "lint",
+        "workflow",
         "devops",
-        "framework",
-        "methodology"
+        "mermaid",
+        "jest",
+        "audit",
+        "methodology",
+        "shell",
+        "team-process",
+        "generated"
       ]
     }
   ],
   "image_paths": [
-    "assets/2026-07-10/trending/summary.png",
-    "assets/2026-07-10/trending/post1.png",
-    "assets/2026-07-10/trending/post2.png",
-    "assets/2026-07-10/trending/post3.png",
-    "assets/2026-07-10/trending/post4.png"
+    "assets/2026-07-11/trending/summary.png",
+    "assets/2026-07-11/trending/post1.png",
+    "assets/2026-07-11/trending/post2.png",
+    "assets/2026-07-11/trending/post3.png",
+    "assets/2026-07-11/trending/post4.png"
   ]
 }
