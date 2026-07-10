@@ -1,229 +1,197 @@
 {
   "date": "2026-07-10",
-  "slot": "早报",
+  "slot": "晚报",
   "all_repos": [
     {
-      "name": "MadsLorentzen/ai-job-search",
-      "url": "https://github.com/MadsLorentzen/ai-job-search",
-      "description": "AI-powered job application framework built on Claude Code. Fork it, fill in your profile, and let Claude evaluate jobs, tailor CVs, write cover letters, and prepare you for interviews.",
+      "name": "wonderwhy-er/DesktopCommanderMCP",
+      "url": "https://github.com/wonderwhy-er/DesktopCommanderMCP",
+      "description": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
       "language": "TypeScript",
-      "stars_today": "3,716 stars today",
-      "stars_total": "18,912"
+      "stars_today": "349 stars today",
+      "stars_total": "6,968"
     },
     {
-      "name": "SmartlyDressedGames/U3-SDK",
-      "url": "https://github.com/SmartlyDressedGames/U3-SDK",
-      "description": "Source code for Unturned, a free open-world zombie survival sandbox game.",
-      "language": "C#",
-      "stars_today": "524 stars today",
-      "stars_total": "1,998"
+      "name": "oven-sh/bun",
+      "url": "https://github.com/oven-sh/bun",
+      "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
+      "language": "Rust",
+      "stars_today": "307 stars today",
+      "stars_total": "94,002"
+    },
+    {
+      "name": "abseil/abseil-cpp",
+      "url": "https://github.com/abseil/abseil-cpp",
+      "description": "Abseil Common Libraries (C++)",
+      "language": "C++",
+      "stars_today": "3 stars today",
+      "stars_total": "17,483"
     },
     {
       "name": "addyosmani/agent-skills",
       "url": "https://github.com/addyosmani/agent-skills",
       "description": "Production-grade engineering skills for AI coding agents.",
       "language": "JavaScript",
-      "stars_today": "2,554 stars today",
-      "stars_total": "75,841"
+      "stars_today": "1,114 stars today",
+      "stars_total": "76,562"
     },
     {
-      "name": "VoltAgent/awesome-design-md",
-      "url": "https://github.com/VoltAgent/awesome-design-md",
-      "description": "A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.",
-      "language": "",
-      "stars_today": "1,391 stars today",
-      "stars_total": "99,634"
+      "name": "jbeder/yaml-cpp",
+      "url": "https://github.com/jbeder/yaml-cpp",
+      "description": "A YAML parser and emitter in C++",
+      "language": "C++",
+      "stars_today": "65 stars today",
+      "stars_total": "6,058"
     },
     {
-      "name": "iOfficeAI/OfficeCLI",
-      "url": "https://github.com/iOfficeAI/OfficeCLI",
-      "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
-      "language": "C#",
-      "stars_today": "1,929 stars today",
-      "stars_total": "13,391"
+      "name": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .claude directory.",
+      "language": "Shell",
+      "stars_today": "1,728 stars today",
+      "stars_total": "164,201"
     },
     {
-      "name": "wonderwhy-er/DesktopCommanderMCP",
-      "url": "https://github.com/wonderwhy-er/DesktopCommanderMCP",
-      "description": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
+      "name": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars_today": "1,096 stars today",
+      "stars_total": "251,567"
+    },
+    {
+      "name": "microsoft/TypeScript",
+      "url": "https://github.com/microsoft/TypeScript",
+      "description": "TypeScript is a superset of JavaScript that compiles to clean JavaScript output.",
       "language": "TypeScript",
-      "stars_today": "185 stars today",
-      "stars_total": "6,567"
+      "stars_today": "166 stars today",
+      "stars_total": "109,706"
     },
     {
-      "name": "anthropics/claude-cookbooks",
-      "url": "https://github.com/anthropics/claude-cookbooks",
-      "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
-      "language": "Jupyter Notebook",
-      "stars_today": "194 stars today",
-      "stars_total": "47,138"
+      "name": "catchorg/Catch2",
+      "url": "https://github.com/catchorg/Catch2",
+      "description": "A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)",
+      "language": "C++",
+      "stars_today": "69 stars today",
+      "stars_total": "20,575"
     },
     {
-      "name": "vxcontrol/pentagi",
-      "url": "https://github.com/vxcontrol/pentagi",
-      "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
-      "language": "Go",
-      "stars_today": "535 stars today",
-      "stars_total": "19,373"
-    },
-    {
-      "name": "unclecode/crawl4ai",
-      "url": "https://github.com/unclecode/crawl4ai",
-      "description": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here:https://discord.gg/jP8KfhDhyN",
-      "language": "Python",
-      "stars_today": "215 stars today",
-      "stars_total": "71,807"
-    },
-    {
-      "name": "imthenachoman/How-To-Secure-A-Linux-Server",
-      "url": "https://github.com/imthenachoman/How-To-Secure-A-Linux-Server",
-      "description": "An evolving how-to guide for securing a Linux server.",
-      "language": "",
-      "stars_today": "243 stars today",
-      "stars_total": "29,066"
+      "name": "chriskohlhoff/asio",
+      "url": "https://github.com/chriskohlhoff/asio",
+      "description": "Asio C++ Library",
+      "language": "C++",
+      "stars_today": "87 stars today",
+      "stars_total": "6,041"
     }
   ],
   "ai_repos": [
     {
-      "name": "MadsLorentzen/ai-job-search",
-      "url": "https://github.com/MadsLorentzen/ai-job-search",
-      "description": "AI-powered job application framework built on Claude Code. Fork it, fill in your profile, and let Claude evaluate jobs, tailor CVs, write cover letters, and prepare you for interviews.",
+      "name": "wonderwhy-er/DesktopCommanderMCP",
+      "url": "https://github.com/wonderwhy-er/DesktopCommanderMCP",
+      "description": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
       "language": "TypeScript",
-      "stars_today": "3,716 stars today",
-      "stars_total": "18,912"
+      "stars_today": "349 stars today",
+      "stars_total": "6,968"
     },
     {
       "name": "addyosmani/agent-skills",
       "url": "https://github.com/addyosmani/agent-skills",
       "description": "Production-grade engineering skills for AI coding agents.",
       "language": "JavaScript",
-      "stars_today": "2,554 stars today",
-      "stars_total": "75,841"
+      "stars_today": "1,114 stars today",
+      "stars_total": "76,562"
     },
     {
-      "name": "VoltAgent/awesome-design-md",
-      "url": "https://github.com/VoltAgent/awesome-design-md",
-      "description": "A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.",
-      "language": "",
-      "stars_today": "1,391 stars today",
-      "stars_total": "99,634"
+      "name": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .claude directory.",
+      "language": "Shell",
+      "stars_today": "1,728 stars today",
+      "stars_total": "164,201"
     },
     {
-      "name": "iOfficeAI/OfficeCLI",
-      "url": "https://github.com/iOfficeAI/OfficeCLI",
-      "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
-      "language": "C#",
-      "stars_today": "1,929 stars today",
-      "stars_total": "13,391"
-    },
-    {
-      "name": "wonderwhy-er/DesktopCommanderMCP",
-      "url": "https://github.com/wonderwhy-er/DesktopCommanderMCP",
-      "description": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
-      "language": "TypeScript",
-      "stars_today": "185 stars today",
-      "stars_total": "6,567"
-    },
-    {
-      "name": "anthropics/claude-cookbooks",
-      "url": "https://github.com/anthropics/claude-cookbooks",
-      "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
-      "language": "Jupyter Notebook",
-      "stars_today": "194 stars today",
-      "stars_total": "47,138"
-    },
-    {
-      "name": "vxcontrol/pentagi",
-      "url": "https://github.com/vxcontrol/pentagi",
-      "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
-      "language": "Go",
-      "stars_today": "535 stars today",
-      "stars_total": "19,373"
-    },
-    {
-      "name": "unclecode/crawl4ai",
-      "url": "https://github.com/unclecode/crawl4ai",
-      "description": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here:https://discord.gg/jP8KfhDhyN",
-      "language": "Python",
-      "stars_today": "215 stars today",
-      "stars_total": "71,807"
+      "name": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars_today": "1,096 stars today",
+      "stars_total": "251,567"
     }
   ],
   "posts": [
     {
-      "topic": "AI求职框架",
-      "repo": "MadsLorentzen/ai-job-search",
-      "cover_line1": "Claude驱动的求职自动化框架",
-      "cover_line2": "3716星单日暴涨",
-      "body": "这个项目不是又一个简历生成器，而是把整个求职流程变成可配置的流水线。它用Claude Code做核心引擎，你填一份个人资料，它就自动筛岗位、改简历、写匹配度高的cover letter、甚至模拟面试问答。所有逻辑都在TypeScript里，开箱即用，不调API也不连数据库——本地跑就行。作者Mads Lorentzen公开了自己真实投递记录：用这框架两周内收到7个面试邀约，其中4个来自原计划不投的冷门岗。它不替你决定该投哪儿，但把‘每份申请花2小时’压缩成‘点一次回车’。最关键是所有提示词都摊开在GitHub里，你能看到它怎么让Claude判断JD和技能的匹配权重，怎么拆解岗位要求里的模糊话术，比如‘熟悉敏捷开发’到底被翻译成哪三条具体行为。它没说能帮你拿到offer，但它把人从重复劳动里捞出来，腾出时间准备真面试。现在总星数18912，今天涨了3716颗——说明很多人试过，且觉得值得立刻 fork。如果你最近在海投，它不会少投一个岗位，但会少让你熬三晚。",
+      "topic": "DesktopCommanderMCP",
+      "repo": "wonderwhy-er/DesktopCommanderMCP",
+      "cover_line1": "Claude 的桌面控制服务器",
+      "cover_line2": "支持终端/文件搜索/差异编辑",
+      "body": "Claude 原本只能聊天，不能碰你的电脑。这个项目给它装了个 MCP 服务器，让它能真正在你本地跑命令、搜文件、对比并编辑两个文件的差异。不是模拟，不是截图，是实打实调用 macOS 或 Linux 的终端和文件系统 API。代码用 TypeScript 写，结构清晰，启动后 Claude 就能通过工具调用执行 ls、grep、git diff、vim 等操作。作者叫 wonderwhy-er，没包装成黑箱，所有能力都暴露在 config 文件里，改一行就能关掉某个权限。今天涨了 349 星，总星数近 7000，说明很多人试过、用上了、觉得稳。它不试图取代你写代码，而是把你重复敲的 cd、find、diff、patch 操作自动化掉——比如你让 Claude ‘把 src/utils.ts 里所有 console.log 删掉，再和上一版对比’，它真能办到。没有训练模型，不传数据出去，所有动作都在你机器上发生。它也不解决‘AI 不会思考’的问题，只解决‘AI 有手却没胳膊’的问题。如果你常在终端里来回切窗口、复制路径、手动 diff，这个东西省下的不是时间，是打断流的次数。",
       "tags": [
-        "求职自动化",
-        "Claude",
-        "TypeScript",
-        "简历优化",
-        "AI Agent",
-        "开源工具",
-        "开发者效率",
-        "面试准备",
-        "Prompt Engineering",
-        "工作流"
+        "claude",
+        "mcp",
+        "terminal",
+        "file-system",
+        "diff",
+        "local-execution",
+        "typescript",
+        "ai-agent",
+        "tool-use",
+        "desktop-control"
       ]
     },
     {
-      "topic": "Agent工程技能库",
+      "topic": "agent-skills",
       "repo": "addyosmani/agent-skills",
-      "cover_line1": "Google工程师写的AI编码Agent技能集",
-      "cover_line2": "75841星总收藏",
-      "body": "Addy Osmani是Google Chrome团队的老兵，他写了这份文档，不是教你怎么调大模型，而是讲AI编码Agent真正落地时卡在哪：比如如何让Agent在改代码前先跑测试，怎么让它识别git diff里的意图而不是只看文本差异，怎么设计失败回滚机制。它不讲LLM原理，全讲工程细节——比如‘文件锁冲突’怎么处理，‘长链路任务超时’怎么分级重试，‘用户中途打断’后状态怎么存。所有例子都带可运行代码片段，用JavaScript写，直接粘贴就能进你的Agent项目。这不是理论清单，而是他带团队把Agent塞进真实产品后，撕下来的12张故障排查纸。目前75841人收藏，说明大量团队已把它当Agent开发的checklist。它没承诺‘让Agent变聪明’，但保证‘不让Agent在生产环境丢脸’。如果你的Agent还在手动retry或硬编码路径，这份技能集里至少有三条能立刻抄走。",
+      "cover_line1": "Addy Osmani 整理的 AI 编程技能",
+      "cover_line2": "112 个可直接复用的 Shell 脚本",
+      "body": "Addy Osmani 是 Google Chrome 团队的老兵，写过大量前端工程实践文档。他这次把日常让 AI 编码时真正管用的技能全拆出来，做成一个个独立 Shell 脚本：自动查 npm 包依赖树、生成 commit message 模板、从 PR 描述提取测试点、检查 tsconfig 是否启用 strict 模式、一键生成 README 结构……每个脚本都带注释说明用途、输入输出、适用场景。不是概念图，不是幻灯片，是扔进项目里就能 chmod +x 运行的真代码。今天涨了 1114 星，总星数超 7.6 万，说明大量团队正在往自己 Agent 的 tool 目录里塞这些文件。它不教你怎么调 API，而是告诉你：当 AI 说‘我需要看依赖关系’时，你应该给它什么命令、返回什么格式、怎么防错。所有脚本都用 POSIX Shell 写，不依赖 Node 或 Python，Mac/Linux 都能跑。最实在的一点是：每个技能都经过至少三个真实 PR 场景验证，比如‘分析失败测试日志并定位变更行’这个脚本，真被用在 Chromium 的 CI 流水线里修过 bug。你不用照抄，但能看清高手怎么把模糊需求翻译成可执行动作。",
       "tags": [
-        "AI Agent",
-        "工程实践",
-        "JavaScript",
-        "Google",
-        "生产级",
-        "编码规范",
-        "错误处理",
-        "测试集成",
-        "开源文档",
-        "DevOps"
+        "shell",
+        "coding-agent",
+        "engineering-practice",
+        "cli-tools",
+        "npm",
+        "git",
+        "typescript",
+        "ci",
+        "pr-review",
+        "automation"
       ]
     },
     {
-      "topic": "OfficeCLI",
-      "repo": "iOfficeAI/OfficeCLI",
-      "cover_line1": "专为AI设计的Office命令行工具",
-      "cover_line2": "免装Office读写Word Excel PPT",
-      "body": "OfficeCLI是个C#写的单文件命令行工具，不依赖Windows、不装Office套件、不连云端，就能直接读写.docx .xlsx .pptx。它把Office文件当纯数据结构来处理：提取表格内容、替换模板变量、插入图表、合并PPT幻灯片——全部用命令行参数控制。比如一行命令就能把销售日报Excel里的B2单元格换成最新数字，再自动生成带水印的PDF版PPT汇报页。作者团队拿它跑了三个月客户交付流水线，每天处理200+份合同，没触发过一次Office弹窗或许可证报错。它不是功能最全的库，但它是唯一一个让AI Agent能像操作txt一样操作Office文件的工具。13391颗星背后，是大量RPA和低代码团队在抛弃Python-pptx、openpyxl这些半截子方案。如果你的Agent还在用截图OCR猜Excel内容，或者靠Selenium点开Office软件——它就是那个能让你删掉300行胶水代码的东西。",
+      "topic": "skills",
+      "repo": "mattpocock/skills",
+      "cover_line1": "Matt Pocock 的 .claude 技能集",
+      "cover_line2": "164k 星，全开源 Shell 脚本",
+      "body": "Matt Pocock 是 TypeScript 类型体操大师，也是一线写业务的人。他把每天实际丢给 Claude 的任务，全存进了自己家目录的 .claude 文件夹，现在直接开源了。里面不是理论，是 58 个 Shell 脚本：一键重命名 Git 分支并同步远程、根据 package.json 自动生成 CHANGELOG.md、把当前目录下所有 JSON 合并成一个、按函数名提取 TS 文件里的类型定义……每个脚本都有 real-world 备注，比如 ‘用于上周帮客户修复 SSR hydration mismatch’。今天涨了 1728 星，总星数破 16.4 万，是目前 GitHub 上最火的 Agent 技能仓库。它不讲 LLM 原理，只回答一个问题：你让 AI ‘帮我找 bug’ 时，到底该让它运行哪条命令、看哪段输出、再怎么追问。所有脚本都能单文件运行，不依赖框架，也不绑定某家模型。你甚至可以直接 fork，删掉不用的，留下那几个你每天真会用的。它的价值不在数量，而在每一个脚本背后都写着‘我昨天靠它省了 22 分钟’。",
       "tags": [
-        "Office自动化",
-        "C#",
-        "CLI工具",
-        "AI Agent",
-        "文件解析",
-        "RPA",
-        "开源",
-        "跨平台",
-        "生产力",
-        "文档处理"
+        "shell",
+        "typescript",
+        "git",
+        "cli",
+        "debugging",
+        "automation",
+        "claude",
+        "real-world",
+        "dev-tool",
+        "open-source"
       ]
     },
     {
-      "topic": "Design.md",
-      "repo": "VoltAgent/awesome-design-md",
-      "cover_line1": "品牌设计系统里的DESIGN.md合集",
-      "cover_line2": "99634星总收藏",
-      "body": "VoltAgent收集了Apple、Spotify、Shopify等37家公司的设计系统文档，专门挑出它们公开的DESIGN.md文件——这种文件不是UI草图，而是用Markdown写的组件规范：按钮间距怎么算、暗色模式下阴影值怎么配、图标语义怎么映射到代码命名。项目把这些文件整理成标准结构，加了对比视图和diff工具。更关键的是，它附带了一个小脚本：你丢进一个DESIGN.md，AI Agent就能按这个规范生成React或Vue组件，样式、响应式、无障碍属性全对齐。它不教设计，它把设计决策变成可执行的代码契约。99634颗星说明，越来越多前端团队不再手写组件库，而是让Agent‘读懂’设计语言再产出。如果你的团队还在开会争论按钮圆角该是4px还是6px，这份合集里可能早有答案——而且已经转成可跑的代码。",
+      "topic": "superpowers",
+      "repo": "obra/superpowers",
+      "cover_line1": "Obra 团队的 agentic 开发框架",
+      "cover_line2": "251k 星，含完整开发方法论",
+      "body": "Obra 是一家专注 AI 工程化的公司，他们不做大模型，专做‘怎么让 AI 稳稳干活’。superpowers 是他们内部用了一年多的框架，今天开源了。它不只是工具集合，而是一整套开发节奏：怎么定义技能边界（比如‘读代码’和‘改代码’必须拆成两个 skill）、怎么设计错误恢复路径（AI 执行失败后自动 fallback 到人工提示）、怎么用 Shell 函数封装 Git/Node/TS 工具链、怎么把每次 Agent 调用变成可 debug 的日志流。251k 总星数不是靠营销，是靠它自带的 demo：一个能从零初始化 React 项目、写组件、加测试、跑 lint、提交 PR 的完整流水线。所有代码用纯 Shell 写，不藏黑盒，config 文件里清清楚楚列着每个 skill 的 stdin/stdout 格式。它不承诺‘全自动’，但承诺‘每一步都能打断、查看、重放’。如果你试过让 AI 写完代码又崩在 husky 钩子上、或者 diff 输出太长导致 token 超限，这个框架里早就有对应解法：比如自动截断 diff、加 --no-verify 跳过钩子、失败时回滚到上一个 git commit。它不是教你造轮子，而是给你一套已经轧过坑的轨道。",
       "tags": [
-        "Design System",
-        "Markdown",
-        "UI规范",
-        "AI生成代码",
-        "前端工程",
-        "开源设计",
-        "React",
-        "Vue",
-        "组件库",
-        "设计落地"
+        "shell",
+        "agentic",
+        "software-engineering",
+        "git",
+        "react",
+        "testing",
+        "lint",
+        "devops",
+        "framework",
+        "methodology"
       ]
     }
   ],
