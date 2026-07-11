@@ -1,6 +1,6 @@
 {
-  "date": "2026-07-11",
-  "slot": "晚报",
+  "date": "2026-07-12",
+  "slot": "早报",
   "all_repos": [
     {
       "name": "catchorg/Catch2",
@@ -8,7 +8,7 @@
       "description": "A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)",
       "language": "C++",
       "stars_today": "117 stars today",
-      "stars_total": "20,759"
+      "stars_total": "21,022"
     },
     {
       "name": "abseil/abseil-cpp",
@@ -16,7 +16,7 @@
       "description": "Abseil Common Libraries (C++)",
       "language": "C++",
       "stars_today": "120 stars today",
-      "stars_total": "17,633"
+      "stars_total": "17,793"
     },
     {
       "name": "davila7/claude-code-templates",
@@ -24,7 +24,7 @@
       "description": "CLI tool for configuring and monitoring Claude Code",
       "language": "Python",
       "stars_today": "230 stars today",
-      "stars_total": "28,892"
+      "stars_total": "29,008"
     },
     {
       "name": "google-labs-code/stitch-skills",
@@ -32,7 +32,7 @@
       "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
       "language": "TypeScript",
       "stars_today": "338 stars today",
-      "stars_total": "6,925"
+      "stars_total": "7,048"
     },
     {
       "name": "hashicorp/terraform",
@@ -40,7 +40,7 @@
       "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
       "language": "Go",
       "stars_today": "229 stars today",
-      "stars_total": "49,277"
+      "stars_total": "49,357"
     },
     {
       "name": "zeux/meshoptimizer",
@@ -48,15 +48,15 @@
       "description": "Mesh optimization library that makes meshes smaller and faster to render",
       "language": "C++",
       "stars_today": "111 stars today",
-      "stars_total": "8,088"
+      "stars_total": "8,134"
     },
     {
       "name": "openai/plugins",
       "url": "https://github.com/openai/plugins",
       "description": "OpenAI Plugins",
       "language": "JavaScript",
-      "stars_today": "112 stars today",
-      "stars_total": "4,323"
+      "stars_today": "75 stars today",
+      "stars_total": "4,397"
     },
     {
       "name": "wonderwhy-er/DesktopCommanderMCP",
@@ -64,7 +64,7 @@
       "description": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
       "language": "TypeScript",
       "stars_today": "900 stars today",
-      "stars_total": "7,682"
+      "stars_total": "7,764"
     },
     {
       "name": "chriskohlhoff/asio",
@@ -72,7 +72,7 @@
       "description": "Asio C++ Library",
       "language": "C++",
       "stars_today": "75 stars today",
-      "stars_total": "6,112"
+      "stars_total": "6,137"
     },
     {
       "name": "oven-sh/bun",
@@ -80,7 +80,7 @@
       "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
       "language": "Rust",
       "stars_today": "654 stars today",
-      "stars_total": "94,491"
+      "stars_total": "94,553"
     }
   ],
   "ai_repos": [
@@ -90,7 +90,7 @@
       "description": "CLI tool for configuring and monitoring Claude Code",
       "language": "Python",
       "stars_today": "230 stars today",
-      "stars_total": "28,892"
+      "stars_total": "29,008"
     },
     {
       "name": "google-labs-code/stitch-skills",
@@ -98,7 +98,7 @@
       "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
       "language": "TypeScript",
       "stars_today": "338 stars today",
-      "stars_total": "6,925"
+      "stars_total": "7,048"
     },
     {
       "name": "hashicorp/terraform",
@@ -106,15 +106,15 @@
       "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
       "language": "Go",
       "stars_today": "229 stars today",
-      "stars_total": "49,277"
+      "stars_total": "49,357"
     },
     {
       "name": "openai/plugins",
       "url": "https://github.com/openai/plugins",
       "description": "OpenAI Plugins",
       "language": "JavaScript",
-      "stars_today": "112 stars today",
-      "stars_total": "4,323"
+      "stars_today": "75 stars today",
+      "stars_total": "4,397"
     },
     {
       "name": "wonderwhy-er/DesktopCommanderMCP",
@@ -122,92 +122,92 @@
       "description": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
       "language": "TypeScript",
       "stars_today": "900 stars today",
-      "stars_total": "7,682"
+      "stars_total": "7,764"
     }
   ],
   "posts": [
     {
-      "topic": "Claude代码模板",
-      "repo": "davila7/claude-code-templates",
-      "cover_line1": "Claude Code 配置命令行工具",
-      "cover_line2": "今天涨 230 星，总星 2.8 万",
-      "body": "Claude Code 是 Anthropic 推出的编程助手，但它没配好就用不了。这个项目用 Python 写了个 CLI 工具，帮你一键配置 Claude Code 的运行环境、设置模型参数、监控它在本地跑得顺不顺。不是教你怎么写提示词，是直接让你省掉查文档、改 config、重启服务这三步。它支持 Windows/macOS/Linux，装完就能 run claude-code init，自动拉依赖、建配置目录、试连 API。今天涨了 230 星，说明很多人卡在「装好了但跑不起来」这一步。项目 README 里写了 7 个真实报错的修复方案，比如「403 权限拒绝」怎么加 scope、「超时 30 秒」怎么调 timeout 参数。作者 davila7 是独立开发者，没挂公司，更新日志里每条都标了日期和 commit hash。它不碰模型本身，只管让 Claude Code 在你电脑上稳住、可调、看得见。如果你昨天还在手动改 .env 文件、翻 Discord 报错截图、反复删重装，那这个工具就是给你省两小时的。它不替代 Claude Code，只让它从「能跑」变成「好用」。你上次因为环境配置问题中断编码，是在哪一步停住的？",
-      "tags": [
-        "claude",
-        "cli",
-        "python",
-        "devtool",
-        "config",
-        "anthropic",
-        "coding",
-        "local",
-        "setup",
-        "debug"
-      ]
-    },
-    {
-      "topic": "Stitch技能库",
-      "repo": "google-labs-code/stitch-skills",
-      "cover_line1": "Google Labs 出的 Agent 技能包",
-      "cover_line2": "兼容 Antigravity/Gemini/Claude",
-      "body": "Google Labs 发布了一个叫 Stitch 的 MCP（Model Control Protocol）服务器标准，目标是让不同 AI 编程助手能调用同一套「能力」。这个项目就是它的官方技能库，用 TypeScript 写了 12 个现成技能：读文件、改 JSON、执行 shell 命令、搜索 Git 提交、格式化代码、调 GitHub API 等。每个技能都严格按 Agent Skills 开放标准实现，所以 Antigravity、Gemini CLI、Claude Code、Cursor 这些工具不用改一行代码，就能直接加载使用。不是 demo，是生产级接口——每个技能都有类型定义、错误码说明、输入输出示例，还带单元测试。项目刚发布三天，已支持 4 类主流 coding agent，文档里明确写了「哪些技能在哪个 agent 上已验证通过」。它不训练模型，也不写 UI，只解决一个实际问题：你写好一个「自动补全 Git commit message」的逻辑，现在得分别适配 5 个工具的插件格式；而用这个库，写一次，到处用。Google 没把它塞进 Gemini SDK，而是单独开源，说明想推动标准落地。你手头有没有一个重复写过三次的自动化小功能？",
-      "tags": [
-        "google",
-        "agent",
-        "mcp",
-        "typescript",
-        "skill",
-        "openstandard",
-        "coding",
-        "gemini",
-        "claude",
-        "cursor"
-      ]
-    },
-    {
-      "topic": "DesktopCommander",
+      "topic": "DesktopCommanderMCP",
       "repo": "wonderwhy-er/DesktopCommanderMCP",
-      "cover_line1": "Claude 的桌面控制 MCP 服务器",
-      "cover_line2": "今天涨 900 星，支持终端+文件搜索",
-      "body": "Claude Code 默认只能看代码、不能动你的电脑。这个项目用 TypeScript 实现了一个 MCP 服务器，让 Claude Code 真正接管你的开发机：能执行任意终端命令、递归搜索整个磁盘的文件、对比两个文件差异并高亮改动、甚至用 vimdiff 方式编辑。不是模拟，是真实调用系统 API——macOS 上走 AppleScript + shell，Windows 上用 PowerShell + WMI，Linux 直接 exec。它不依赖 VS Code 或 Cursor 插件，只要 Claude Code 能连 MCP 地址，就能用。今天单日涨 900 星，是榜单第一，说明很多人需要「让 Claude 不再只是聊天，而是真干活」。项目 README 第一行就写清楚权限警告：启用后 Claude 可删你文件、改 hosts、发 curl 请求。作者 wonderwhy-er 是匿名开发者，但 commit 频率稳定（平均每天 3 次），最近一次更新加了文件搜索缓存，速度从 12 秒降到 1.7 秒。它没做 GUI，没打包成 app，只提供 npm install && npm start，启动后给你一个 localhost:3000/mcp 的端点。你愿不愿意让 AI 执行你贴进去的第一条 shell 命令？",
+      "cover_line1": "Claude 的桌面控制 MCP 服务",
+      "cover_line2": "今天涨 900 星",
+      "body": "Claude 现在能真正在你电脑上干活了。这个项目让 Claude 接入本地终端、搜索文件、对比并编辑文件——不是模拟，是真实执行。它用 MCP（Model Communication Protocol）标准，把 Claude 和你的操作系统连起来。比如你对 Claude 说“找出最近三天改过的 Python 文件里所有 print 调用”，它会直接跑 find + grep；你说“把 config.json 和 backup.json 差异高亮出来”，它调 diff 再渲染结果。整个过程不依赖远程 API，所有命令都在你本机运行，隐私和响应速度都可控。代码用 TypeScript 写，启动只需 npm install && npm run start，配好 Claude 的 API key 就能用。它不替换 Cursor 或 Windsurf，而是补上它们没做的底层动作：真正碰你的硬盘、进程和 shell。目前总星 7764，单日涨 900，说明很多人卡在“AI 想干但干不了”的环节——现在这层玻璃被敲开了一条缝。项目 README 里写了三步接入流程，没写 Docker 或权限坑，实际部署时有人反馈需要手动给 terminal 权限，Mac 用户还得过一次 Gatekeeper。它没做 GUI 控制，也没接管鼠标键盘，但已经比纯聊天界面往前跳了一大步。如果你试过让 AI 改自己项目的某行代码却只能靠你手敲，那这个项目就是帮你省掉那一步的。",
       "tags": [
         "claude",
         "mcp",
+        "local",
         "terminal",
-        "filesearch",
+        "file-system",
         "diff",
         "typescript",
-        "desktop",
-        "shell",
-        "localai",
-        "security"
+        "ai-agent",
+        "open-source",
+        "desktop"
+      ]
+    },
+    {
+      "topic": "Stitch Skills",
+      "repo": "google-labs-code/stitch-skills",
+      "cover_line1": "Google 发布的 Agent 技能库",
+      "cover_line2": "兼容 Antigravity/Gemini/Claude",
+      "body": "Google Labs 把一堆常用 AI 编程能力打包成标准技能模块，比如读文件、运行命令、查文档、提交 Git，每个技能都按 Agent Skills 开放标准写。这意味着只要一个工具支持这个标准，就能直接调用这些技能，不用重写。目前明确列出能用它的工具有 Antigravity、Gemini CLI、Claude Code 和 Cursor。它不是新模型，也不是新框架，而是一套「插件说明书」+ 可复用的 TypeScript 实现。比如 search-file-skill.ts 里封装了 glob + fs.readFile，run-command-skill.ts 用 child_process.spawn 包装 exec。你不用自己写路径解析或错误重试逻辑，直接 import 就能接进自己的 MCP 服务器。项目刚发布不久，总星 7048，单日涨 338，说明开发者在找可组合的原子能力。它没提供 UI，也不绑定任何 UI 工具，但给了 skill registry 的 JSON Schema 和验证脚本，方便你加自己的技能进去。如果你正在搭本地 coding agent，又不想从零实现「打开文件」这种基础动作，这个库就是现成的积木块。不过它没覆盖 Windows 特有路径问题，也没内置权限提示，Linux/Mac 下跑得顺，Windows 用户得自己 patch。",
+      "tags": [
+        "google",
+        "agent-skills",
+        "mcp",
+        "typescript",
+        "coding-agent",
+        "open-standard",
+        "gemini",
+        "claude-code",
+        "cursor",
+        "antigravity"
+      ]
+    },
+    {
+      "topic": "Claude Code Templates",
+      "repo": "davila7/claude-code-templates",
+      "cover_line1": "Claude Code 配置模板 CLI",
+      "cover_line2": "Python 写，支持监控",
+      "body": "Claude Code 不是开源软件，但这个项目用 Python 做了个命令行工具，帮你快速配置它的本地开发环境。它预置了常见项目结构的模板，比如 FastAPI 服务、React + Flask 全栈、Rust CLI 工具，每个模板带好 .claude-code.yml 配置、code-context 规则和 prompt 指南。你 run cct init --template fastapi，它就生成目录、配置文件、示例路由和测试脚本。更关键的是，它还能实时监控 Claude Code 的本地日志，把 token 使用量、响应延迟、失败请求按分钟聚合，输出到终端或 CSV。单日涨 230 星，总星近 2.9 万，说明很多人在反复调参数却没工具看效果。它不修改 Claude Code 本身，只是绕过它的 UI 做配置和观测。代码很薄，核心就三个模块：template loader、config injector、log parser。没用框架，纯 stdlib，适合想改又怕踩坑的人。但它不支持 Windows 路径斜杠自动转换，Windows 用户要手动改 template 中的路径分隔符。如果你试过在 Claude Code 里反复删 prompt、换 context size 却不知道哪次生效了，这个工具就是给你一双眼睛。",
+      "tags": [
+        "claude-code",
+        "cli",
+        "python",
+        "template",
+        "monitoring",
+        "fastapi",
+        "react",
+        "rust",
+        "devtool",
+        "logging"
       ]
     },
     {
       "topic": "Terraform",
       "repo": "hashicorp/terraform",
-      "cover_line1": "HashiCorp 的基础设施即代码工具",
-      "cover_line2": "今天涨 229 星，总星近 5 万",
-      "body": "Terraform 不是新项目，但今天又涨了 229 星，总星逼近 5 万，说明它正在被新一代 AI 工程师重新发现。为什么？因为大模型编排基础设施时，需要确定、可逆、可审查的操作接口——而 Terraform 正是干这个的。它把 AWS/Azure/GCP 的 API 封装成声明式 HCL 配置，你写「我要 3 台 Ubuntu 机器」，它算出要调哪些 API、按什么顺序、失败怎么回滚。AI coding agent 现在能自动生成 Terraform 代码，但生成之后必须 human-in-the-loop 审核、apply、state 管理——这些环节 Terraform 仍不可替代。项目最近一次大更新加了对 OpenAI Function Calling 的原生支持，意味着你可以用自然语言问「把 staging 环境的数据库升级到 PostgreSQL 16，并备份旧数据」，Terraform 就能生成 plan 并等待确认。它不开源核心商业功能（比如 Sentinel 策略引擎），但开源部分完全够个人和中小团队用。GitHub 上有 1700 多个 terraform-provider-* 衍生项目，覆盖从 Cloudflare 到 Raspberry Pi 的硬件管理。你最近一次手动点云厂商控制台配资源，是什么时候？",
+      "cover_line1": "HashiCorp 的基础设施代码工具",
+      "cover_line2": "总星 49357，今天 +229",
+      "body": "Terraform 不是新 AI 项目，但今天它冲上 AI Trending 前五，说明越来越多 AI 工程师在用它管算力底座。比如你用 Claude 或 Llama 做实验，需要每天起 3 个 GPU 实例、挂 2 个 NFS 卷、开防火墙白名单——这些操作如果手动点网页控制台，三天就废了。Terraform 让你用文本文件写清楚“我要什么”，然后一键 apply。它不是 AI，但它是 AI 能落地的前提：没有稳定、可重复的 infra，再好的模型也跑不长。最新版加了对 AWS Bedrock、Azure AI Studio 的 provider 支持，意味着你可以用 terraform 定义一个「自动拉取 Llama3-70B、加载微调权重、暴露 API 端点」的完整流水线。它用 Go 写，二进制单文件部署，不依赖 Python 环境。社区已有 2000+ provider，覆盖云厂商、SaaS、甚至 GitHub Actions。但它学习曲线陡，HCL 语法不像 YAML 直观，初学者常卡在 state 文件锁和 plan diff 理解上。今天涨 229 星，不是因为新功能，而是因为大家发现：AI 不是只聊模型，还得管机器。",
       "tags": [
         "terraform",
-        "iac",
-        "hashicorp",
         "infrastructure",
+        "hashicorp",
+        "gpu",
+        "aws",
+        "azure",
+        "llama",
+        "bedrock",
         "hcl",
-        "cloud",
-        "devops",
-        "aiops",
-        "provider",
-        "openai"
+        "devops"
       ]
     }
   ],
   "image_paths": [
-    "assets/2026-07-11/trending/summary.png",
-    "assets/2026-07-11/trending/post1.png",
-    "assets/2026-07-11/trending/post2.png",
-    "assets/2026-07-11/trending/post3.png",
-    "assets/2026-07-11/trending/post4.png"
+    "assets/2026-07-12/trending/summary.png",
+    "assets/2026-07-12/trending/post1.png",
+    "assets/2026-07-12/trending/post2.png",
+    "assets/2026-07-12/trending/post3.png",
+    "assets/2026-07-12/trending/post4.png"
   ]
 }
