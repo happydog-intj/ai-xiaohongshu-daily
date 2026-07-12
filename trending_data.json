@@ -1,6 +1,6 @@
 {
-  "date": "2026-07-12",
-  "slot": "晚报",
+  "date": "2026-07-13",
+  "slot": "早报",
   "all_repos": [
     {
       "name": "Dicklesworthstone/destructive_command_guard",
@@ -8,7 +8,7 @@
       "description": "The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents.",
       "language": "Rust",
       "stars_today": "444 stars today",
-      "stars_total": "2,446"
+      "stars_total": "2,835"
     },
     {
       "name": "wonderwhy-er/DesktopCommanderMCP",
@@ -16,7 +16,7 @@
       "description": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
       "language": "TypeScript",
       "stars_today": "207 stars today",
-      "stars_total": "7,887"
+      "stars_total": "7,972"
     },
     {
       "name": "HKUDS/Vibe-Trading",
@@ -24,7 +24,7 @@
       "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
       "language": "Python",
       "stars_today": "776 stars today",
-      "stars_total": "20,164"
+      "stars_total": "20,516"
     },
     {
       "name": "PrefectHQ/prefect",
@@ -32,15 +32,15 @@
       "description": "Prefect is a workflow orchestration framework for building resilient data pipelines in Python.",
       "language": "Python",
       "stars_today": "55 stars today",
-      "stars_total": "23,031"
+      "stars_total": "23,134"
     },
     {
       "name": "Shubhamsaboo/awesome-llm-apps",
       "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
       "description": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship.",
       "language": "Python",
-      "stars_today": "549 stars today",
-      "stars_total": "118,293"
+      "stars_today": "450 stars today",
+      "stars_total": "118,495"
     },
     {
       "name": "anthropics/claude-cookbooks",
@@ -48,7 +48,7 @@
       "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
       "language": "Jupyter Notebook",
       "stars_today": "464 stars today",
-      "stars_total": "48,186"
+      "stars_total": "48,377"
     },
     {
       "name": "home-assistant/core",
@@ -56,7 +56,7 @@
       "description": "🏡 Open source home automation that puts local control and privacy first.",
       "language": "Python",
       "stars_today": "404 stars today",
-      "stars_total": "88,881"
+      "stars_total": "89,040"
     },
     {
       "name": "Crosstalk-Solutions/project-nomad",
@@ -64,7 +64,7 @@
       "description": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.",
       "language": "TypeScript",
       "stars_today": "122 stars today",
-      "stars_total": "33,634"
+      "stars_total": "33,785"
     },
     {
       "name": "ColeMurray/background-agents",
@@ -72,15 +72,15 @@
       "description": "An open-source background agents coding system",
       "language": "TypeScript",
       "stars_today": "9 stars today",
-      "stars_total": "2,172"
+      "stars_total": "2,250"
     },
     {
       "name": "k1tbyte/Wand-Enhancer",
       "url": "https://github.com/k1tbyte/Wand-Enhancer",
       "description": "Advanced UX and interoperability extension for Wand (WeMod) app",
       "language": "C#",
-      "stars_today": "661 stars today",
-      "stars_total": "6,625"
+      "stars_today": "603 stars today",
+      "stars_total": "6,932"
     }
   ],
   "ai_repos": [
@@ -90,7 +90,7 @@
       "description": "The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents.",
       "language": "Rust",
       "stars_today": "444 stars today",
-      "stars_total": "2,446"
+      "stars_total": "2,835"
     },
     {
       "name": "wonderwhy-er/DesktopCommanderMCP",
@@ -98,7 +98,7 @@
       "description": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
       "language": "TypeScript",
       "stars_today": "207 stars today",
-      "stars_total": "7,887"
+      "stars_total": "7,972"
     },
     {
       "name": "HKUDS/Vibe-Trading",
@@ -106,15 +106,15 @@
       "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
       "language": "Python",
       "stars_today": "776 stars today",
-      "stars_total": "20,164"
+      "stars_total": "20,516"
     },
     {
       "name": "Shubhamsaboo/awesome-llm-apps",
       "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
       "description": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship.",
       "language": "Python",
-      "stars_today": "549 stars today",
-      "stars_total": "118,293"
+      "stars_today": "450 stars today",
+      "stars_total": "118,495"
     },
     {
       "name": "anthropics/claude-cookbooks",
@@ -122,7 +122,7 @@
       "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
       "language": "Jupyter Notebook",
       "stars_today": "464 stars today",
-      "stars_total": "48,186"
+      "stars_total": "48,377"
     },
     {
       "name": "Crosstalk-Solutions/project-nomad",
@@ -130,7 +130,7 @@
       "description": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.",
       "language": "TypeScript",
       "stars_today": "122 stars today",
-      "stars_total": "33,634"
+      "stars_total": "33,785"
     },
     {
       "name": "ColeMurray/background-agents",
@@ -138,7 +138,7 @@
       "description": "An open-source background agents coding system",
       "language": "TypeScript",
       "stars_today": "9 stars today",
-      "stars_total": "2,172"
+      "stars_total": "2,250"
     }
   ],
   "posts": [
@@ -220,10 +220,10 @@
     }
   ],
   "image_paths": [
-    "assets/2026-07-12/trending/summary.png",
-    "assets/2026-07-12/trending/post1.png",
-    "assets/2026-07-12/trending/post2.png",
-    "assets/2026-07-12/trending/post3.png",
-    "assets/2026-07-12/trending/post4.png"
+    "assets/2026-07-13/trending/summary.png",
+    "assets/2026-07-13/trending/post1.png",
+    "assets/2026-07-13/trending/post2.png",
+    "assets/2026-07-13/trending/post3.png",
+    "assets/2026-07-13/trending/post4.png"
   ]
 }
