@@ -1,89 +1,89 @@
 {
-  "date": "2026-07-12",
+  "date": "2026-07-13",
   "posts": [
     {
-      "topic": "Stop Telling Me to Ask an LLM",
-      "cover_line1": "有人公开拒绝让AI代劳提问",
-      "cover_line2": "HackerNews 热榜第一，92分",
-      "body": "很多人现在一遇到问题，第一反应是‘去问LLM’——查文档、写邮件、理思路、甚至安慰自己，都交给AI。但Yael writes这篇被HackerNews顶到榜首的文章，直接说不。她不是反对用AI，而是反对把‘提问’这个最基础的人类能力外包出去。她说，当你习惯让AI帮你组织问题，你慢慢就失去判断什么是好问题、什么是模糊需求、什么是关键约束的能力。这不是懒，是技能退化。她举了个例子：工程师看到报错日志，第一反应不该是复制粘贴给ChatGPT，而该先看错误码、时间戳、上下游服务状态——这些动作本身就在训练直觉。文章没提技术方案，只讲一个事实：过去三年，团队里能独立写出清晰issue描述的新人比例下降了37%，而同期AI工具使用率涨了4倍。这不是巧合。她建议每天留15分钟，强制自己手写三句话：我想解决什么？我试过什么？卡在哪？不发给任何人，也不喂给模型。就写。读完你会觉得轻松一点，因为那个‘必须立刻得到答案’的紧张感，其实是被训练出来的，不是天生的。你上一次完全靠自己想清楚一个问题，是什么时候？",
+      "topic": "Claude Code sends 33",
+      "cover_line1": "Claude Cod",
+      "cover_line2": "今日 AI 热点速报",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k**\n\n📌 来源：HackerNews\n🔗 https://systima.ai/blog/claude-code-vs-opencode-token-overhead\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
-        "人机关系",
-        "提示词疲劳",
-        "工程素养",
-        "AI倦怠",
-        "提问能力",
-        "开发者习惯",
-        "认知外包",
-        "HackerNews",
-        "Yael writes",
-        "2026"
+        "AI",
+        "人工智能",
+        "大模型",
+        "科技",
+        "每日热点",
+        "机器学习",
+        "深度学习",
+        "AI工具",
+        "技术",
+        "炼丹"
       ]
     },
     {
-      "topic": "Mesh LLM on Iroh",
-      "cover_line1": "Iroh 推出分布式LLM计算框架",
-      "cover_line2": "代码已开源，支持离线P2P推理",
-      "body": "Iroh 团队今天发布了 Mesh LLM，一个跑在他们自研P2P网络协议（iroh）上的轻量级LLM协同框架。它不依赖中心服务器，设备之间直接交换模型层和推理中间结果，比如手机跑embedding，笔记本跑attention，树莓派跑token采样——全部通过本地局域网或加密隧道完成。文档里写了实测数据：三台不同配置设备（M2 Mac、Pixel 8、Raspberry Pi 5）协作跑Llama-3-8B，端到端延迟比单机CPU推理低41%，功耗总和少28%。重点不是快，而是‘可拆’：模型权重按层切片，每个节点只需加载自己负责的部分，内存占用压到最低。它不碰训练，只做推理调度；不连云，只走iroh的零配置组网。目前只支持GGUF格式，API是纯HTTP+JSON，连WebSocket都不用。没有控制台，没有Dashboard，只有一个CLI命令加一个配置TOML文件。这意味着它适合嵌入到边缘场景里——比如工厂PLC旁的工控机，临时拉起一个推理节点帮质检摄像头实时识别划痕；或者离线学校的旧笔记本，凑几台就能跑通一个课堂答疑小模型。它不打算替代vLLM或Ollama，而是补上那块没人认真做的拼图：当网络不可靠、算力不均匀、又不想交钱给云厂商时，还能不能让LLM动起来。你手边有两台闲置设备，愿意试试让它俩一起算一个句子吗？",
+      "topic": "Migrating a producti",
+      "cover_line1": "Migrating ",
+      "cover_line2": "今日 AI 热点速报",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Migrating a production AI agent to GPT-5.6: 2.2x faster, 27% cheaper**\n\n📌 来源：HackerNews\n🔗 https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
-        "分布式推理",
-        "Iroh",
-        "边缘AI",
-        "P2P计算",
-        "开源框架",
-        "LLM部署",
-        "离线AI",
-        "2026",
-        "Mesh LLM",
-        "GGUF"
+        "AI",
+        "人工智能",
+        "大模型",
+        "科技",
+        "每日热点",
+        "机器学习",
+        "深度学习",
+        "AI工具",
+        "技术",
+        "炼丹"
       ]
     },
     {
-      "topic": "Reverse Centaurs",
-      "cover_line1": "Reverse centaur 概念被重提",
-      "cover_line2": "2025年提出，2026年成热议",
-      "body": "Reverse centaur 不是新词，是2025年9月Cory Doctorow在Pluralistic博客里提出的比喻：传统centaur（人+AI）是人做决策、AI执行；reverse centaur反过来——AI定目标、人来执行。比如AI分析销售数据后生成一份‘下季度必须拿下华东3家医院’的指令，销售代表照着路线、话术、时间节点一条条落实。这不是科幻，现实里已有雏形：某SaaS公司的客户成功团队，收到的每周任务清单由AI生成，含具体客户、触发条件（如‘竞品POC失败后48小时内’）、必做动作（发哪封邮件、打哪个电话、附什么截图），人只管打卡执行。Doctorow警告说，这种模式正在悄悄降低人的策略带宽——你不再需要理解为什么选这家医院，只要知道怎么敲开门。文中引用了一家律所的数据：启用reverse centaur流程半年后，初级律师主动追问‘这个诉讼策略底层逻辑是什么’的次数下降了62%。它不违法，不低效，甚至KPI还更好看了。但它把‘理解意图’从工作刚需，变成了可选项。文章没说该不该停，只问：如果人长期只做AI指定的动作，我们还保得住定义‘重要问题’的能力吗？你最近一次主动改掉AI给的任务清单，是因为什么？",
+      "topic": "Old and new apps, vi",
+      "cover_line1": "Old and ne",
+      "cover_line2": "今日 AI 热点速报",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Old and new apps, via modern coding agents**\n\n📌 来源：HackerNews\n🔗 https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
-        "人机角色反转",
-        "Reverse Centaur",
-        "AI管理",
-        "决策权迁移",
-        "职场AI化",
-        "Cory Doctorow",
-        "2025概念",
-        "2026热议",
-        "意图理解",
-        "策略带宽"
+        "AI",
+        "人工智能",
+        "大模型",
+        "科技",
+        "每日热点",
+        "机器学习",
+        "深度学习",
+        "AI工具",
+        "技术",
+        "炼丹"
       ]
     },
     {
-      "topic": "Thrust Game AI Analysis",
-      "cover_line1": "AI无法复刻Thrust游戏逻辑",
-      "cover_line2": "但能帮人读懂它的汇编源码",
-      "body": "Thrust 是1986年发行的Atari ST平台经典游戏，以极难操作和精妙物理著称。三十多年来没人完整逆向出它的主循环逻辑——因为作者用纯汇编手写，大量使用寄存器别名、跳转表压缩、无注释位运算。James D. Randall这次没尝试重写，而是用AI当‘考古助手’：把原始6502汇编切片喂给多个开源模型（Phi-3、TinyLlama），让它们各自标注每段的作用（比如‘这里更新飞船旋转角度’‘此处检测喷射燃料余量’），再人工交叉验证、合并矛盾点。结果AI平均准确率只有53%，远低于人类老手的89%，但它把人类分析时间从200小时压缩到35小时。关键不是答案对错，而是AI把模糊注释变成可检验的假设：比如模型猜‘$FE21是重力常量’，人马上去内存dump验证；猜错三次后，人就意识到这个地址其实在做帧同步抖动补偿。AI没重建Thrust，但它让人更快看清Thrust。这不像微调一个LoRA，而是把AI当显微镜——不代替眼睛，只是让眼睛看得更准。文中强调：所有提示词都公开，所有对比截图都带时间戳，所有误判案例都列出来。没有黑箱，只有脚手架。你有没有试过让AI帮你读一段你完全不懂的老代码？它帮你省了多少时间，又让你多问了几个什么问题？",
+      "topic": "Mechanistic interpre",
+      "cover_line1": "Mechanisti",
+      "cover_line2": "今日 AI 热点速报",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Mechanistic interpretability researchers applying causality theory to LLMs**\n\n📌 来源：HackerNews\n🔗 https://cacm.acm.org/news/can-we-understand-how-large-language-models-reason/\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
-        "软件考古",
-        "Thrust游戏",
-        "汇编逆向",
-        "AI辅助阅读",
-        "老代码维护",
-        "6502",
-        "James D. Randall",
-        "AI脚手架",
-        "开源分析",
-        "2026"
+        "AI",
+        "人工智能",
+        "大模型",
+        "科技",
+        "每日热点",
+        "机器学习",
+        "深度学习",
+        "AI工具",
+        "技术",
+        "炼丹"
       ]
     }
   ],
   "image_paths": [
-    "assets/2026-07-12/cover1.png",
-    "assets/2026-07-12/cover2.png",
-    "assets/2026-07-12/cover3.png",
-    "assets/2026-07-12/cover4.png"
+    "assets/2026-07-13/cover1.png",
+    "assets/2026-07-13/cover2.png",
+    "assets/2026-07-13/cover3.png",
+    "assets/2026-07-13/cover4.png"
   ],
   "feishu_image_paths": [
-    "assets/2026-07-12/cover1_feishu.png",
-    "assets/2026-07-12/cover2_feishu.png",
-    "assets/2026-07-12/cover3_feishu.png",
-    "assets/2026-07-12/cover4_feishu.png"
+    "assets/2026-07-13/cover1_feishu.png",
+    "assets/2026-07-13/cover2_feishu.png",
+    "assets/2026-07-13/cover3_feishu.png",
+    "assets/2026-07-13/cover4_feishu.png"
   ]
 }
