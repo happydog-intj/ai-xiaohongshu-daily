@@ -1,205 +1,221 @@
 {
   "date": "2026-07-12",
-  "slot": "早报",
+  "slot": "晚报",
   "all_repos": [
     {
-      "name": "catchorg/Catch2",
-      "url": "https://github.com/catchorg/Catch2",
-      "description": "A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)",
-      "language": "C++",
-      "stars_today": "117 stars today",
-      "stars_total": "21,022"
-    },
-    {
-      "name": "abseil/abseil-cpp",
-      "url": "https://github.com/abseil/abseil-cpp",
-      "description": "Abseil Common Libraries (C++)",
-      "language": "C++",
-      "stars_today": "120 stars today",
-      "stars_total": "17,793"
-    },
-    {
-      "name": "davila7/claude-code-templates",
-      "url": "https://github.com/davila7/claude-code-templates",
-      "description": "CLI tool for configuring and monitoring Claude Code",
-      "language": "Python",
-      "stars_today": "230 stars today",
-      "stars_total": "29,008"
-    },
-    {
-      "name": "google-labs-code/stitch-skills",
-      "url": "https://github.com/google-labs-code/stitch-skills",
-      "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
-      "language": "TypeScript",
-      "stars_today": "338 stars today",
-      "stars_total": "7,048"
-    },
-    {
-      "name": "hashicorp/terraform",
-      "url": "https://github.com/hashicorp/terraform",
-      "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
-      "language": "Go",
-      "stars_today": "229 stars today",
-      "stars_total": "49,357"
-    },
-    {
-      "name": "zeux/meshoptimizer",
-      "url": "https://github.com/zeux/meshoptimizer",
-      "description": "Mesh optimization library that makes meshes smaller and faster to render",
-      "language": "C++",
-      "stars_today": "111 stars today",
-      "stars_total": "8,134"
-    },
-    {
-      "name": "openai/plugins",
-      "url": "https://github.com/openai/plugins",
-      "description": "OpenAI Plugins",
-      "language": "JavaScript",
-      "stars_today": "75 stars today",
-      "stars_total": "4,397"
+      "name": "Dicklesworthstone/destructive_command_guard",
+      "url": "https://github.com/Dicklesworthstone/destructive_command_guard",
+      "description": "The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents.",
+      "language": "Rust",
+      "stars_today": "444 stars today",
+      "stars_total": "2,446"
     },
     {
       "name": "wonderwhy-er/DesktopCommanderMCP",
       "url": "https://github.com/wonderwhy-er/DesktopCommanderMCP",
       "description": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
       "language": "TypeScript",
-      "stars_today": "900 stars today",
-      "stars_total": "7,764"
+      "stars_today": "207 stars today",
+      "stars_total": "7,887"
     },
     {
-      "name": "chriskohlhoff/asio",
-      "url": "https://github.com/chriskohlhoff/asio",
-      "description": "Asio C++ Library",
-      "language": "C++",
-      "stars_today": "75 stars today",
-      "stars_total": "6,137"
+      "name": "HKUDS/Vibe-Trading",
+      "url": "https://github.com/HKUDS/Vibe-Trading",
+      "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
+      "language": "Python",
+      "stars_today": "776 stars today",
+      "stars_total": "20,164"
     },
     {
-      "name": "oven-sh/bun",
-      "url": "https://github.com/oven-sh/bun",
-      "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
-      "language": "Rust",
-      "stars_today": "654 stars today",
-      "stars_total": "94,553"
+      "name": "PrefectHQ/prefect",
+      "url": "https://github.com/PrefectHQ/prefect",
+      "description": "Prefect is a workflow orchestration framework for building resilient data pipelines in Python.",
+      "language": "Python",
+      "stars_today": "55 stars today",
+      "stars_total": "23,031"
+    },
+    {
+      "name": "Shubhamsaboo/awesome-llm-apps",
+      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "description": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship.",
+      "language": "Python",
+      "stars_today": "549 stars today",
+      "stars_total": "118,293"
+    },
+    {
+      "name": "anthropics/claude-cookbooks",
+      "url": "https://github.com/anthropics/claude-cookbooks",
+      "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
+      "language": "Jupyter Notebook",
+      "stars_today": "464 stars today",
+      "stars_total": "48,186"
+    },
+    {
+      "name": "home-assistant/core",
+      "url": "https://github.com/home-assistant/core",
+      "description": "🏡 Open source home automation that puts local control and privacy first.",
+      "language": "Python",
+      "stars_today": "404 stars today",
+      "stars_total": "88,881"
+    },
+    {
+      "name": "Crosstalk-Solutions/project-nomad",
+      "url": "https://github.com/Crosstalk-Solutions/project-nomad",
+      "description": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.",
+      "language": "TypeScript",
+      "stars_today": "122 stars today",
+      "stars_total": "33,634"
+    },
+    {
+      "name": "ColeMurray/background-agents",
+      "url": "https://github.com/ColeMurray/background-agents",
+      "description": "An open-source background agents coding system",
+      "language": "TypeScript",
+      "stars_today": "9 stars today",
+      "stars_total": "2,172"
+    },
+    {
+      "name": "k1tbyte/Wand-Enhancer",
+      "url": "https://github.com/k1tbyte/Wand-Enhancer",
+      "description": "Advanced UX and interoperability extension for Wand (WeMod) app",
+      "language": "C#",
+      "stars_today": "661 stars today",
+      "stars_total": "6,625"
     }
   ],
   "ai_repos": [
     {
-      "name": "davila7/claude-code-templates",
-      "url": "https://github.com/davila7/claude-code-templates",
-      "description": "CLI tool for configuring and monitoring Claude Code",
-      "language": "Python",
-      "stars_today": "230 stars today",
-      "stars_total": "29,008"
-    },
-    {
-      "name": "google-labs-code/stitch-skills",
-      "url": "https://github.com/google-labs-code/stitch-skills",
-      "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
-      "language": "TypeScript",
-      "stars_today": "338 stars today",
-      "stars_total": "7,048"
-    },
-    {
-      "name": "hashicorp/terraform",
-      "url": "https://github.com/hashicorp/terraform",
-      "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
-      "language": "Go",
-      "stars_today": "229 stars today",
-      "stars_total": "49,357"
-    },
-    {
-      "name": "openai/plugins",
-      "url": "https://github.com/openai/plugins",
-      "description": "OpenAI Plugins",
-      "language": "JavaScript",
-      "stars_today": "75 stars today",
-      "stars_total": "4,397"
+      "name": "Dicklesworthstone/destructive_command_guard",
+      "url": "https://github.com/Dicklesworthstone/destructive_command_guard",
+      "description": "The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents.",
+      "language": "Rust",
+      "stars_today": "444 stars today",
+      "stars_total": "2,446"
     },
     {
       "name": "wonderwhy-er/DesktopCommanderMCP",
       "url": "https://github.com/wonderwhy-er/DesktopCommanderMCP",
       "description": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
       "language": "TypeScript",
-      "stars_today": "900 stars today",
-      "stars_total": "7,764"
+      "stars_today": "207 stars today",
+      "stars_total": "7,887"
+    },
+    {
+      "name": "HKUDS/Vibe-Trading",
+      "url": "https://github.com/HKUDS/Vibe-Trading",
+      "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
+      "language": "Python",
+      "stars_today": "776 stars today",
+      "stars_total": "20,164"
+    },
+    {
+      "name": "Shubhamsaboo/awesome-llm-apps",
+      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "description": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship.",
+      "language": "Python",
+      "stars_today": "549 stars today",
+      "stars_total": "118,293"
+    },
+    {
+      "name": "anthropics/claude-cookbooks",
+      "url": "https://github.com/anthropics/claude-cookbooks",
+      "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
+      "language": "Jupyter Notebook",
+      "stars_today": "464 stars today",
+      "stars_total": "48,186"
+    },
+    {
+      "name": "Crosstalk-Solutions/project-nomad",
+      "url": "https://github.com/Crosstalk-Solutions/project-nomad",
+      "description": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.",
+      "language": "TypeScript",
+      "stars_today": "122 stars today",
+      "stars_total": "33,634"
+    },
+    {
+      "name": "ColeMurray/background-agents",
+      "url": "https://github.com/ColeMurray/background-agents",
+      "description": "An open-source background agents coding system",
+      "language": "TypeScript",
+      "stars_today": "9 stars today",
+      "stars_total": "2,172"
     }
   ],
   "posts": [
     {
+      "topic": "destructive_command_",
+      "repo": "Dicklesworthstone/destructive_command_guard",
+      "cover_line1": "destructiv",
+      "cover_line2": "今日 GitHub 热榜！",
+      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**Dicklesworthstone/destructive_command_guard**\n\n📌 The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents.\n\n🔗 https://github.com/Dicklesworthstone/destructive_command_guard\n\n关注我，每天第一时间 AI 动态 👇",
+      "tags": [
+        "AI",
+        "GitHub",
+        "开源",
+        "热门项目",
+        "大模型",
+        "机器学习",
+        "深度学习",
+        "AI工具",
+        "技术",
+        "炼丹"
+      ]
+    },
+    {
       "topic": "DesktopCommanderMCP",
       "repo": "wonderwhy-er/DesktopCommanderMCP",
-      "cover_line1": "Claude 的桌面控制 MCP 服务",
-      "cover_line2": "今天涨 900 星",
-      "body": "Claude 现在能真正在你电脑上干活了。这个项目让 Claude 接入本地终端、搜索文件、对比并编辑文件——不是模拟，是真实执行。它用 MCP（Model Communication Protocol）标准，把 Claude 和你的操作系统连起来。比如你对 Claude 说“找出最近三天改过的 Python 文件里所有 print 调用”，它会直接跑 find + grep；你说“把 config.json 和 backup.json 差异高亮出来”，它调 diff 再渲染结果。整个过程不依赖远程 API，所有命令都在你本机运行，隐私和响应速度都可控。代码用 TypeScript 写，启动只需 npm install && npm run start，配好 Claude 的 API key 就能用。它不替换 Cursor 或 Windsurf，而是补上它们没做的底层动作：真正碰你的硬盘、进程和 shell。目前总星 7764，单日涨 900，说明很多人卡在“AI 想干但干不了”的环节——现在这层玻璃被敲开了一条缝。项目 README 里写了三步接入流程，没写 Docker 或权限坑，实际部署时有人反馈需要手动给 terminal 权限，Mac 用户还得过一次 Gatekeeper。它没做 GUI 控制，也没接管鼠标键盘，但已经比纯聊天界面往前跳了一大步。如果你试过让 AI 改自己项目的某行代码却只能靠你手敲，那这个项目就是帮你省掉那一步的。",
+      "cover_line1": "DesktopCom",
+      "cover_line2": "今日 GitHub 热榜！",
+      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**wonderwhy-er/DesktopCommanderMCP**\n\n📌 This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities\n\n🔗 https://github.com/wonderwhy-er/DesktopCommanderMCP\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
-        "claude",
-        "mcp",
-        "local",
-        "terminal",
-        "file-system",
-        "diff",
-        "typescript",
-        "ai-agent",
-        "open-source",
-        "desktop"
+        "AI",
+        "GitHub",
+        "开源",
+        "热门项目",
+        "大模型",
+        "机器学习",
+        "深度学习",
+        "AI工具",
+        "技术",
+        "炼丹"
       ]
     },
     {
-      "topic": "Stitch Skills",
-      "repo": "google-labs-code/stitch-skills",
-      "cover_line1": "Google 发布的 Agent 技能库",
-      "cover_line2": "兼容 Antigravity/Gemini/Claude",
-      "body": "Google Labs 把一堆常用 AI 编程能力打包成标准技能模块，比如读文件、运行命令、查文档、提交 Git，每个技能都按 Agent Skills 开放标准写。这意味着只要一个工具支持这个标准，就能直接调用这些技能，不用重写。目前明确列出能用它的工具有 Antigravity、Gemini CLI、Claude Code 和 Cursor。它不是新模型，也不是新框架，而是一套「插件说明书」+ 可复用的 TypeScript 实现。比如 search-file-skill.ts 里封装了 glob + fs.readFile，run-command-skill.ts 用 child_process.spawn 包装 exec。你不用自己写路径解析或错误重试逻辑，直接 import 就能接进自己的 MCP 服务器。项目刚发布不久，总星 7048，单日涨 338，说明开发者在找可组合的原子能力。它没提供 UI，也不绑定任何 UI 工具，但给了 skill registry 的 JSON Schema 和验证脚本，方便你加自己的技能进去。如果你正在搭本地 coding agent，又不想从零实现「打开文件」这种基础动作，这个库就是现成的积木块。不过它没覆盖 Windows 特有路径问题，也没内置权限提示，Linux/Mac 下跑得顺，Windows 用户得自己 patch。",
+      "topic": "Vibe-Trading",
+      "repo": "HKUDS/Vibe-Trading",
+      "cover_line1": "Vibe-Tradi",
+      "cover_line2": "今日 GitHub 热榜！",
+      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**HKUDS/Vibe-Trading**\n\n📌 \"Vibe-Trading: Your Personal Trading Agent\"\n\n🔗 https://github.com/HKUDS/Vibe-Trading\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
-        "google",
-        "agent-skills",
-        "mcp",
-        "typescript",
-        "coding-agent",
-        "open-standard",
-        "gemini",
-        "claude-code",
-        "cursor",
-        "antigravity"
+        "AI",
+        "GitHub",
+        "开源",
+        "热门项目",
+        "大模型",
+        "机器学习",
+        "深度学习",
+        "AI工具",
+        "技术",
+        "炼丹"
       ]
     },
     {
-      "topic": "Claude Code Templates",
-      "repo": "davila7/claude-code-templates",
-      "cover_line1": "Claude Code 配置模板 CLI",
-      "cover_line2": "Python 写，支持监控",
-      "body": "Claude Code 不是开源软件，但这个项目用 Python 做了个命令行工具，帮你快速配置它的本地开发环境。它预置了常见项目结构的模板，比如 FastAPI 服务、React + Flask 全栈、Rust CLI 工具，每个模板带好 .claude-code.yml 配置、code-context 规则和 prompt 指南。你 run cct init --template fastapi，它就生成目录、配置文件、示例路由和测试脚本。更关键的是，它还能实时监控 Claude Code 的本地日志，把 token 使用量、响应延迟、失败请求按分钟聚合，输出到终端或 CSV。单日涨 230 星，总星近 2.9 万，说明很多人在反复调参数却没工具看效果。它不修改 Claude Code 本身，只是绕过它的 UI 做配置和观测。代码很薄，核心就三个模块：template loader、config injector、log parser。没用框架，纯 stdlib，适合想改又怕踩坑的人。但它不支持 Windows 路径斜杠自动转换，Windows 用户要手动改 template 中的路径分隔符。如果你试过在 Claude Code 里反复删 prompt、换 context size 却不知道哪次生效了，这个工具就是给你一双眼睛。",
+      "topic": "awesome-llm-apps",
+      "repo": "Shubhamsaboo/awesome-llm-apps",
+      "cover_line1": "awesome-ll",
+      "cover_line2": "今日 GitHub 热榜！",
+      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**Shubhamsaboo/awesome-llm-apps**\n\n📌 100+ AI Agent & RAG apps you can actually run — clone, customize, ship.\n\n🔗 https://github.com/Shubhamsaboo/awesome-llm-apps\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
-        "claude-code",
-        "cli",
-        "python",
-        "template",
-        "monitoring",
-        "fastapi",
-        "react",
-        "rust",
-        "devtool",
-        "logging"
-      ]
-    },
-    {
-      "topic": "Terraform",
-      "repo": "hashicorp/terraform",
-      "cover_line1": "HashiCorp 的基础设施代码工具",
-      "cover_line2": "总星 49357，今天 +229",
-      "body": "Terraform 不是新 AI 项目，但今天它冲上 AI Trending 前五，说明越来越多 AI 工程师在用它管算力底座。比如你用 Claude 或 Llama 做实验，需要每天起 3 个 GPU 实例、挂 2 个 NFS 卷、开防火墙白名单——这些操作如果手动点网页控制台，三天就废了。Terraform 让你用文本文件写清楚“我要什么”，然后一键 apply。它不是 AI，但它是 AI 能落地的前提：没有稳定、可重复的 infra，再好的模型也跑不长。最新版加了对 AWS Bedrock、Azure AI Studio 的 provider 支持，意味着你可以用 terraform 定义一个「自动拉取 Llama3-70B、加载微调权重、暴露 API 端点」的完整流水线。它用 Go 写，二进制单文件部署，不依赖 Python 环境。社区已有 2000+ provider，覆盖云厂商、SaaS、甚至 GitHub Actions。但它学习曲线陡，HCL 语法不像 YAML 直观，初学者常卡在 state 文件锁和 plan diff 理解上。今天涨 229 星，不是因为新功能，而是因为大家发现：AI 不是只聊模型，还得管机器。",
-      "tags": [
-        "terraform",
-        "infrastructure",
-        "hashicorp",
-        "gpu",
-        "aws",
-        "azure",
-        "llama",
-        "bedrock",
-        "hcl",
-        "devops"
+        "AI",
+        "GitHub",
+        "开源",
+        "热门项目",
+        "大模型",
+        "机器学习",
+        "深度学习",
+        "AI工具",
+        "技术",
+        "炼丹"
       ]
     }
   ],
