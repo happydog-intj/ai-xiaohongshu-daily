@@ -1,86 +1,86 @@
 {
   "date": "2026-07-13",
-  "slot": "早报",
+  "slot": "晚报",
   "all_repos": [
+    {
+      "name": "OpenCut-app/OpenCut",
+      "url": "https://github.com/OpenCut-app/OpenCut",
+      "description": "The open-source CapCut alternative",
+      "language": "TypeScript",
+      "stars_today": "1,077 stars today",
+      "stars_total": "65,051"
+    },
     {
       "name": "Dicklesworthstone/destructive_command_guard",
       "url": "https://github.com/Dicklesworthstone/destructive_command_guard",
       "description": "The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents.",
       "language": "Rust",
-      "stars_today": "444 stars today",
-      "stars_total": "2,835"
-    },
-    {
-      "name": "wonderwhy-er/DesktopCommanderMCP",
-      "url": "https://github.com/wonderwhy-er/DesktopCommanderMCP",
-      "description": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
-      "language": "TypeScript",
-      "stars_today": "207 stars today",
-      "stars_total": "7,972"
+      "stars_today": "1,290 stars today",
+      "stars_total": "3,721"
     },
     {
       "name": "HKUDS/Vibe-Trading",
       "url": "https://github.com/HKUDS/Vibe-Trading",
       "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
       "language": "Python",
-      "stars_today": "776 stars today",
-      "stars_total": "20,516"
+      "stars_today": "1,148 stars today",
+      "stars_total": "21,395"
     },
     {
-      "name": "PrefectHQ/prefect",
-      "url": "https://github.com/PrefectHQ/prefect",
-      "description": "Prefect is a workflow orchestration framework for building resilient data pipelines in Python.",
-      "language": "Python",
-      "stars_today": "55 stars today",
-      "stars_total": "23,134"
+      "name": "moeru-ai/airi",
+      "url": "https://github.com/moeru-ai/airi",
+      "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
+      "language": "TypeScript",
+      "stars_today": "57 stars today",
+      "stars_total": "41,736"
     },
     {
       "name": "Shubhamsaboo/awesome-llm-apps",
       "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
       "description": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship.",
       "language": "Python",
-      "stars_today": "450 stars today",
-      "stars_total": "118,495"
+      "stars_today": "1,006 stars today",
+      "stars_total": "119,334"
     },
     {
-      "name": "anthropics/claude-cookbooks",
-      "url": "https://github.com/anthropics/claude-cookbooks",
-      "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
-      "language": "Jupyter Notebook",
-      "stars_today": "464 stars today",
-      "stars_total": "48,377"
+      "name": "Nutlope/hallmark",
+      "url": "https://github.com/Nutlope/hallmark",
+      "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+      "language": "CSS",
+      "stars_today": "802 stars today",
+      "stars_total": "4,855"
     },
     {
-      "name": "home-assistant/core",
-      "url": "https://github.com/home-assistant/core",
-      "description": "🏡 Open source home automation that puts local control and privacy first.",
+      "name": "Raphire/Win11Debloat",
+      "url": "https://github.com/Raphire/Win11Debloat",
+      "description": "A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.",
+      "language": "PowerShell",
+      "stars_today": "74 stars today",
+      "stars_total": "50,624"
+    },
+    {
+      "name": "Graphify-Labs/graphify",
+      "url": "https://github.com/Graphify-Labs/graphify",
+      "description": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph.",
       "language": "Python",
-      "stars_today": "404 stars today",
-      "stars_total": "89,040"
+      "stars_today": "1,028 stars today",
+      "stars_total": "84,098"
     },
     {
-      "name": "Crosstalk-Solutions/project-nomad",
-      "url": "https://github.com/Crosstalk-Solutions/project-nomad",
-      "description": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.",
-      "language": "TypeScript",
-      "stars_today": "122 stars today",
-      "stars_total": "33,785"
+      "name": "hasaneyldrm/exercises-dataset",
+      "url": "https://github.com/hasaneyldrm/exercises-dataset",
+      "description": "1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-group & equipment data, and step-by-step instructions in 6 languages. The exercise data layer behind the LogPress app.",
+      "language": "HTML",
+      "stars_today": "435 stars today",
+      "stars_total": "12,390"
     },
     {
-      "name": "ColeMurray/background-agents",
-      "url": "https://github.com/ColeMurray/background-agents",
-      "description": "An open-source background agents coding system",
-      "language": "TypeScript",
-      "stars_today": "9 stars today",
-      "stars_total": "2,250"
-    },
-    {
-      "name": "k1tbyte/Wand-Enhancer",
-      "url": "https://github.com/k1tbyte/Wand-Enhancer",
-      "description": "Advanced UX and interoperability extension for Wand (WeMod) app",
-      "language": "C#",
-      "stars_today": "603 stars today",
-      "stars_total": "6,932"
+      "name": "github/spec-kit",
+      "url": "https://github.com/github/spec-kit",
+      "description": "💫 Toolkit to help you get started with Spec-Driven Development",
+      "language": "Python",
+      "stars_today": "508 stars today",
+      "stars_total": "120,380"
     }
   ],
   "ai_repos": [
@@ -89,56 +89,56 @@
       "url": "https://github.com/Dicklesworthstone/destructive_command_guard",
       "description": "The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents.",
       "language": "Rust",
-      "stars_today": "444 stars today",
-      "stars_total": "2,835"
-    },
-    {
-      "name": "wonderwhy-er/DesktopCommanderMCP",
-      "url": "https://github.com/wonderwhy-er/DesktopCommanderMCP",
-      "description": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
-      "language": "TypeScript",
-      "stars_today": "207 stars today",
-      "stars_total": "7,972"
+      "stars_today": "1,290 stars today",
+      "stars_total": "3,721"
     },
     {
       "name": "HKUDS/Vibe-Trading",
       "url": "https://github.com/HKUDS/Vibe-Trading",
       "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
       "language": "Python",
-      "stars_today": "776 stars today",
-      "stars_total": "20,516"
+      "stars_today": "1,148 stars today",
+      "stars_total": "21,395"
+    },
+    {
+      "name": "moeru-ai/airi",
+      "url": "https://github.com/moeru-ai/airi",
+      "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
+      "language": "TypeScript",
+      "stars_today": "57 stars today",
+      "stars_total": "41,736"
     },
     {
       "name": "Shubhamsaboo/awesome-llm-apps",
       "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
       "description": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship.",
       "language": "Python",
-      "stars_today": "450 stars today",
-      "stars_total": "118,495"
+      "stars_today": "1,006 stars today",
+      "stars_total": "119,334"
     },
     {
-      "name": "anthropics/claude-cookbooks",
-      "url": "https://github.com/anthropics/claude-cookbooks",
-      "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
-      "language": "Jupyter Notebook",
-      "stars_today": "464 stars today",
-      "stars_total": "48,377"
+      "name": "Nutlope/hallmark",
+      "url": "https://github.com/Nutlope/hallmark",
+      "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+      "language": "CSS",
+      "stars_today": "802 stars today",
+      "stars_total": "4,855"
     },
     {
-      "name": "Crosstalk-Solutions/project-nomad",
-      "url": "https://github.com/Crosstalk-Solutions/project-nomad",
-      "description": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.",
-      "language": "TypeScript",
-      "stars_today": "122 stars today",
-      "stars_total": "33,785"
+      "name": "Graphify-Labs/graphify",
+      "url": "https://github.com/Graphify-Labs/graphify",
+      "description": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph.",
+      "language": "Python",
+      "stars_today": "1,028 stars today",
+      "stars_total": "84,098"
     },
     {
-      "name": "ColeMurray/background-agents",
-      "url": "https://github.com/ColeMurray/background-agents",
-      "description": "An open-source background agents coding system",
-      "language": "TypeScript",
-      "stars_today": "9 stars today",
-      "stars_total": "2,250"
+      "name": "hasaneyldrm/exercises-dataset",
+      "url": "https://github.com/hasaneyldrm/exercises-dataset",
+      "description": "1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-group & equipment data, and step-by-step instructions in 6 languages. The exercise data layer behind the LogPress app.",
+      "language": "HTML",
+      "stars_today": "435 stars today",
+      "stars_total": "12,390"
     }
   ],
   "posts": [
@@ -162,11 +162,11 @@
       ]
     },
     {
-      "topic": "DesktopCommanderMCP",
-      "repo": "wonderwhy-er/DesktopCommanderMCP",
-      "cover_line1": "DesktopCom",
+      "topic": "Vibe-Trading",
+      "repo": "HKUDS/Vibe-Trading",
+      "cover_line1": "Vibe-Tradi",
       "cover_line2": "今日 GitHub 热榜！",
-      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**wonderwhy-er/DesktopCommanderMCP**\n\n📌 This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities\n\n🔗 https://github.com/wonderwhy-er/DesktopCommanderMCP\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**HKUDS/Vibe-Trading**\n\n📌 \"Vibe-Trading: Your Personal Trading Agent\"\n\n🔗 https://github.com/HKUDS/Vibe-Trading\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "GitHub",
@@ -181,11 +181,11 @@
       ]
     },
     {
-      "topic": "Vibe-Trading",
-      "repo": "HKUDS/Vibe-Trading",
-      "cover_line1": "Vibe-Tradi",
+      "topic": "airi",
+      "repo": "moeru-ai/airi",
+      "cover_line1": "airi",
       "cover_line2": "今日 GitHub 热榜！",
-      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**HKUDS/Vibe-Trading**\n\n📌 \"Vibe-Trading: Your Personal Trading Agent\"\n\n🔗 https://github.com/HKUDS/Vibe-Trading\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**moeru-ai/airi**\n\n📌 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.\n\n🔗 https://github.com/moeru-ai/airi\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "GitHub",
