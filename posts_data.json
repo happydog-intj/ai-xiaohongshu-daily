@@ -1,11 +1,11 @@
 {
-  "date": "2026-07-13",
+  "date": "2026-07-14",
   "posts": [
     {
-      "topic": "Claude Code sends 33",
-      "cover_line1": "Claude Cod",
+      "topic": "Claude is just Mr. M",
+      "cover_line1": "Claude is ",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k**\n\n📌 来源：HackerNews\n🔗 https://systima.ai/blog/claude-code-vs-opencode-token-overhead\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Claude is just Mr. Meeseeks**\n\n📌 来源：HackerNews\n🔗 https://github.com/thephw/claude-meseeks\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -20,10 +20,10 @@
       ]
     },
     {
-      "topic": "Migrating a producti",
-      "cover_line1": "Migrating ",
+      "topic": "Apple's new SpeechAn",
+      "cover_line1": "Apple's ne",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Migrating a production AI agent to GPT-5.6: 2.2x faster, 27% cheaper**\n\n📌 来源：HackerNews\n🔗 https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Apple's new SpeechAnalyzer API, benchmarked against Whisper and its predecessor**\n\n📌 来源：HackerNews\n🔗 https://get-inscribe.com/blog/apple-speech-api-benchmark.html\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -38,10 +38,10 @@
       ]
     },
     {
-      "topic": "Old and new apps, vi",
-      "cover_line1": "Old and ne",
+      "topic": "Telegram's t.me doma",
+      "cover_line1": "Telegram's",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Old and new apps, via modern coding agents**\n\n📌 来源：HackerNews\n🔗 https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Telegram's t.me domain has been suspended**\n\n📌 来源：HackerNews\n🔗 https://www.whois.com/whois/t.me\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -56,10 +56,10 @@
       ]
     },
     {
-      "topic": "Mechanistic interpre",
-      "cover_line1": "Mechanisti",
+      "topic": "Samsung Health app t",
+      "cover_line1": "Samsung He",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Mechanistic interpretability researchers applying causality theory to LLMs**\n\n📌 来源：HackerNews\n🔗 https://cacm.acm.org/news/can-we-understand-how-large-language-models-reason/\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Samsung Health app threatens data deletion if users opt out AI training**\n\n📌 来源：HackerNews\n🔗 https://neow.in/cWsyMTV3\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -75,15 +75,15 @@
     }
   ],
   "image_paths": [
-    "assets/2026-07-13/cover1.png",
-    "assets/2026-07-13/cover2.png",
-    "assets/2026-07-13/cover3.png",
-    "assets/2026-07-13/cover4.png"
+    "assets/2026-07-14/cover1.png",
+    "assets/2026-07-14/cover2.png",
+    "assets/2026-07-14/cover3.png",
+    "assets/2026-07-14/cover4.png"
   ],
   "feishu_image_paths": [
-    "assets/2026-07-13/cover1_feishu.png",
-    "assets/2026-07-13/cover2_feishu.png",
-    "assets/2026-07-13/cover3_feishu.png",
-    "assets/2026-07-13/cover4_feishu.png"
+    "assets/2026-07-14/cover1_feishu.png",
+    "assets/2026-07-14/cover2_feishu.png",
+    "assets/2026-07-14/cover3_feishu.png",
+    "assets/2026-07-14/cover4_feishu.png"
   ]
 }
