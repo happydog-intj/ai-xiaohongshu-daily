@@ -1,6 +1,6 @@
 {
-  "date": "2026-07-14",
-  "slot": "晚报",
+  "date": "2026-07-15",
+  "slot": "早报",
   "all_repos": [
     {
       "name": "Shubhamsaboo/awesome-llm-apps",
@@ -8,15 +8,15 @@
       "description": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship.",
       "language": "Python",
       "stars_today": "1,104 stars today",
-      "stars_total": "120,440"
+      "stars_total": "120,747"
     },
     {
       "name": "mattpocock/skills",
       "url": "https://github.com/mattpocock/skills",
       "description": "Skills for Real Engineers. Straight from my .claude directory.",
       "language": "Shell",
-      "stars_today": "1,559 stars today",
-      "stars_total": "169,632"
+      "stars_today": "1,864 stars today",
+      "stars_total": "170,175"
     },
     {
       "name": "Dicklesworthstone/destructive_command_guard",
@@ -24,7 +24,7 @@
       "description": "The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents.",
       "language": "Rust",
       "stars_today": "481 stars today",
-      "stars_total": "4,170"
+      "stars_total": "4,386"
     },
     {
       "name": "OpenCut-app/OpenCut",
@@ -32,15 +32,15 @@
       "description": "The open-source CapCut alternative",
       "language": "TypeScript",
       "stars_today": "4,349 stars today",
-      "stars_total": "68,742"
+      "stars_total": "69,131"
     },
     {
       "name": "virattt/ai-hedge-fund",
       "url": "https://github.com/virattt/ai-hedge-fund",
       "description": "An AI Hedge Fund Team",
       "language": "Python",
-      "stars_today": "330 stars today",
-      "stars_total": "61,724"
+      "stars_today": "156 stars today",
+      "stars_total": "61,855"
     },
     {
       "name": "Nutlope/hallmark",
@@ -48,7 +48,7 @@
       "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
       "language": "CSS",
       "stars_today": "1,010 stars today",
-      "stars_total": "5,839"
+      "stars_total": "6,109"
     },
     {
       "name": "HKUDS/Vibe-Trading",
@@ -56,7 +56,7 @@
       "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
       "language": "Python",
       "stars_today": "1,265 stars today",
-      "stars_total": "22,557"
+      "stars_total": "22,815"
     },
     {
       "name": "Raphire/Win11Debloat",
@@ -64,7 +64,7 @@
       "description": "A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.",
       "language": "PowerShell",
       "stars_today": "779 stars today",
-      "stars_total": "51,350"
+      "stars_total": "51,638"
     },
     {
       "name": "hasaneyldrm/exercises-dataset",
@@ -72,7 +72,7 @@
       "description": "1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-group & equipment data, and step-by-step instructions in 6 languages. The exercise data layer behind the LogPress app.",
       "language": "HTML",
       "stars_today": "864 stars today",
-      "stars_total": "13,157"
+      "stars_total": "13,475"
     },
     {
       "name": "penpot/penpot",
@@ -80,7 +80,7 @@
       "description": "Penpot: The open-source design platform for Product teams that need scalable collaboration.",
       "language": "Clojure",
       "stars_today": "264 stars today",
-      "stars_total": "55,976"
+      "stars_total": "56,144"
     }
   ],
   "ai_repos": [
@@ -90,15 +90,15 @@
       "description": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship.",
       "language": "Python",
       "stars_today": "1,104 stars today",
-      "stars_total": "120,440"
+      "stars_total": "120,747"
     },
     {
       "name": "mattpocock/skills",
       "url": "https://github.com/mattpocock/skills",
       "description": "Skills for Real Engineers. Straight from my .claude directory.",
       "language": "Shell",
-      "stars_today": "1,559 stars today",
-      "stars_total": "169,632"
+      "stars_today": "1,864 stars today",
+      "stars_total": "170,175"
     },
     {
       "name": "Dicklesworthstone/destructive_command_guard",
@@ -106,15 +106,15 @@
       "description": "The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents.",
       "language": "Rust",
       "stars_today": "481 stars today",
-      "stars_total": "4,170"
+      "stars_total": "4,386"
     },
     {
       "name": "virattt/ai-hedge-fund",
       "url": "https://github.com/virattt/ai-hedge-fund",
       "description": "An AI Hedge Fund Team",
       "language": "Python",
-      "stars_today": "330 stars today",
-      "stars_total": "61,724"
+      "stars_today": "156 stars today",
+      "stars_total": "61,855"
     },
     {
       "name": "Nutlope/hallmark",
@@ -122,7 +122,7 @@
       "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
       "language": "CSS",
       "stars_today": "1,010 stars today",
-      "stars_total": "5,839"
+      "stars_total": "6,109"
     },
     {
       "name": "HKUDS/Vibe-Trading",
@@ -130,7 +130,7 @@
       "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
       "language": "Python",
       "stars_today": "1,265 stars today",
-      "stars_total": "22,557"
+      "stars_total": "22,815"
     },
     {
       "name": "hasaneyldrm/exercises-dataset",
@@ -138,7 +138,7 @@
       "description": "1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-group & equipment data, and step-by-step instructions in 6 languages. The exercise data layer behind the LogPress app.",
       "language": "HTML",
       "stars_today": "864 stars today",
-      "stars_total": "13,157"
+      "stars_total": "13,475"
     }
   ],
   "posts": [
@@ -220,10 +220,10 @@
     }
   ],
   "image_paths": [
-    "assets/2026-07-14/trending/summary.png",
-    "assets/2026-07-14/trending/post1.png",
-    "assets/2026-07-14/trending/post2.png",
-    "assets/2026-07-14/trending/post3.png",
-    "assets/2026-07-14/trending/post4.png"
+    "assets/2026-07-15/trending/summary.png",
+    "assets/2026-07-15/trending/post1.png",
+    "assets/2026-07-15/trending/post2.png",
+    "assets/2026-07-15/trending/post3.png",
+    "assets/2026-07-15/trending/post4.png"
   ]
 }
