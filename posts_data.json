@@ -1,11 +1,11 @@
 {
-  "date": "2026-07-14",
+  "date": "2026-07-15",
   "posts": [
     {
-      "topic": "Claude is just Mr. M",
-      "cover_line1": "Claude is ",
+      "topic": "Bonsai 27B: A 27B-Cl",
+      "cover_line1": "Bonsai 27B",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Claude is just Mr. Meeseeks**\n\n📌 来源：HackerNews\n🔗 https://github.com/thephw/claude-meseeks\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Bonsai 27B: A 27B-Class model that runs on a phone**\n\n📌 来源：HackerNews\n🔗 https://prismml.com/news/bonsai-27b\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -20,10 +20,10 @@
       ]
     },
     {
-      "topic": "Apple's new SpeechAn",
-      "cover_line1": "Apple's ne",
+      "topic": "Financing the AI boo",
+      "cover_line1": "Financing ",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Apple's new SpeechAnalyzer API, benchmarked against Whisper and its predecessor**\n\n📌 来源：HackerNews\n🔗 https://get-inscribe.com/blog/apple-speech-api-benchmark.html\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Financing the AI boom: from cash flows to debt [pdf]**\n\n📌 来源：HackerNews\n🔗 https://www.bis.org/publ/bisbull120.pdf\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -38,10 +38,10 @@
       ]
     },
     {
-      "topic": "Telegram's t.me doma",
-      "cover_line1": "Telegram's",
+      "topic": "The largest availabl",
+      "cover_line1": "The larges",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Telegram's t.me domain has been suspended**\n\n📌 来源：HackerNews\n🔗 https://www.whois.com/whois/t.me\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**The largest available Minecraft world, totalling 15 TB**\n\n📌 来源：HackerNews\n🔗 https://2b2t.place/1million\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -56,10 +56,10 @@
       ]
     },
     {
-      "topic": "Samsung Health app t",
-      "cover_line1": "Samsung He",
+      "topic": "How to stop Claude f",
+      "cover_line1": "How to sto",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Samsung Health app threatens data deletion if users opt out AI training**\n\n📌 来源：HackerNews\n🔗 https://neow.in/cWsyMTV3\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**How to stop Claude from saying load-bearing**\n\n📌 来源：HackerNews\n🔗 https://jola.dev/posts/how-to-stop-claude-from-saying-load-bearing\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -75,15 +75,15 @@
     }
   ],
   "image_paths": [
-    "assets/2026-07-14/cover1.png",
-    "assets/2026-07-14/cover2.png",
-    "assets/2026-07-14/cover3.png",
-    "assets/2026-07-14/cover4.png"
+    "assets/2026-07-15/cover1.png",
+    "assets/2026-07-15/cover2.png",
+    "assets/2026-07-15/cover3.png",
+    "assets/2026-07-15/cover4.png"
   ],
   "feishu_image_paths": [
-    "assets/2026-07-14/cover1_feishu.png",
-    "assets/2026-07-14/cover2_feishu.png",
-    "assets/2026-07-14/cover3_feishu.png",
-    "assets/2026-07-14/cover4_feishu.png"
+    "assets/2026-07-15/cover1_feishu.png",
+    "assets/2026-07-15/cover2_feishu.png",
+    "assets/2026-07-15/cover3_feishu.png",
+    "assets/2026-07-15/cover4_feishu.png"
   ]
 }
