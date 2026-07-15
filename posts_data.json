@@ -1,11 +1,11 @@
 {
-  "date": "2026-07-15",
+  "date": "2026-07-16",
   "posts": [
     {
-      "topic": "Bonsai 27B: A 27B-Cl",
-      "cover_line1": "Bonsai 27B",
+      "topic": "Inkling: Our Open-We",
+      "cover_line1": "Inkling: O",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Bonsai 27B: A 27B-Class model that runs on a phone**\n\n📌 来源：HackerNews\n🔗 https://prismml.com/news/bonsai-27b\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Inkling: Our Open-Weights Model**\n\n📌 来源：HackerNews\n🔗 https://thinkingmachines.ai/news/introducing-inkling/\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -20,10 +20,10 @@
       ]
     },
     {
-      "topic": "Financing the AI boo",
-      "cover_line1": "Financing ",
+      "topic": "Governments, compani",
+      "cover_line1": "Government",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Financing the AI boom: from cash flows to debt [pdf]**\n\n📌 来源：HackerNews\n🔗 https://www.bis.org/publ/bisbull120.pdf\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Governments, companies, nonprofits should invest in free, open source AI [pdf]**\n\n📌 来源：HackerNews\n🔗 https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -38,10 +38,10 @@
       ]
     },
     {
-      "topic": "The largest availabl",
-      "cover_line1": "The larges",
+      "topic": "LLM Networking with ",
+      "cover_line1": "LLM Networ",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**The largest available Minecraft world, totalling 15 TB**\n\n📌 来源：HackerNews\n🔗 https://2b2t.place/1million\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**LLM Networking with MikroTik**\n\n📌 来源：HackerNews\n🔗 https://blog.greg.technology/2026/07/14/llm-networking-with-mikrotik.html\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -56,10 +56,10 @@
       ]
     },
     {
-      "topic": "How to stop Claude f",
-      "cover_line1": "How to sto",
+      "topic": "Brainless: Shadcn co",
+      "cover_line1": "Brainless:",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**How to stop Claude from saying load-bearing**\n\n📌 来源：HackerNews\n🔗 https://jola.dev/posts/how-to-stop-claude-from-saying-load-bearing\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Brainless: Shadcn components that look like Claude Code, Codex and Grok**\n\n📌 来源：HackerNews\n🔗 https://brainless.swerdlow.dev\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -75,15 +75,15 @@
     }
   ],
   "image_paths": [
-    "assets/2026-07-15/cover1.png",
-    "assets/2026-07-15/cover2.png",
-    "assets/2026-07-15/cover3.png",
-    "assets/2026-07-15/cover4.png"
+    "assets/2026-07-16/cover1.png",
+    "assets/2026-07-16/cover2.png",
+    "assets/2026-07-16/cover3.png",
+    "assets/2026-07-16/cover4.png"
   ],
   "feishu_image_paths": [
-    "assets/2026-07-15/cover1_feishu.png",
-    "assets/2026-07-15/cover2_feishu.png",
-    "assets/2026-07-15/cover3_feishu.png",
-    "assets/2026-07-15/cover4_feishu.png"
+    "assets/2026-07-16/cover1_feishu.png",
+    "assets/2026-07-16/cover2_feishu.png",
+    "assets/2026-07-16/cover3_feishu.png",
+    "assets/2026-07-16/cover4_feishu.png"
   ]
 }
