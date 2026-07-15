@@ -1,6 +1,6 @@
 {
-  "date": "2026-07-15",
-  "slot": "晚报",
+  "date": "2026-07-16",
+  "slot": "早报",
   "all_repos": [
     {
       "name": "OpenCut-app/OpenCut",
@@ -8,7 +8,7 @@
       "description": "The open-source CapCut alternative",
       "language": "TypeScript",
       "stars_today": "1,505 stars today",
-      "stars_total": "70,464"
+      "stars_total": "71,597"
     },
     {
       "name": "Nutlope/hallmark",
@@ -16,7 +16,7 @@
       "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
       "language": "CSS",
       "stars_today": "1,119 stars today",
-      "stars_total": "7,184"
+      "stars_total": "8,404"
     },
     {
       "name": "mattpocock/skills",
@@ -24,15 +24,15 @@
       "description": "Skills for Real Engineers. Straight from my .claude directory.",
       "language": "Shell",
       "stars_today": "2,160 stars today",
-      "stars_total": "171,706"
+      "stars_total": "172,225"
     },
     {
       "name": "moeru-ai/airi",
       "url": "https://github.com/moeru-ai/airi",
       "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
       "language": "TypeScript",
-      "stars_today": "537 stars today",
-      "stars_total": "42,365"
+      "stars_today": "144 stars today",
+      "stars_total": "42,481"
     },
     {
       "name": "Dicklesworthstone/destructive_command_guard",
@@ -40,7 +40,7 @@
       "description": "The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents.",
       "language": "Rust",
       "stars_today": "497 stars today",
-      "stars_total": "4,611"
+      "stars_total": "4,754"
     },
     {
       "name": "HKUDS/Vibe-Trading",
@@ -48,15 +48,15 @@
       "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
       "language": "Python",
       "stars_today": "924 stars today",
-      "stars_total": "23,423"
+      "stars_total": "23,668"
     },
     {
       "name": "openinterpreter/openinterpreter",
       "url": "https://github.com/openinterpreter/openinterpreter",
       "description": "A coding agent for low-cost models",
       "language": "Rust",
-      "stars_today": "607 stars today",
-      "stars_total": "65,221"
+      "stars_today": "345 stars today",
+      "stars_total": "65,459"
     },
     {
       "name": "HKUDS/DeepTutor",
@@ -64,7 +64,7 @@
       "description": "DeepTutor: Lifelong Personalized Tutoring.https://deeptutor.info/.",
       "language": "Python",
       "stars_today": "128 stars today",
-      "stars_total": "26,075"
+      "stars_total": "26,236"
     },
     {
       "name": "HenryNdubuaku/maths-cs-ai-compendium",
@@ -72,7 +72,7 @@
       "description": "Become a cracked AI/ML Research Engineer",
       "language": "TypeScript",
       "stars_today": "729 stars today",
-      "stars_total": "5,691"
+      "stars_total": "5,871"
     },
     {
       "name": "Shubhamsaboo/awesome-llm-apps",
@@ -80,7 +80,7 @@
       "description": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship.",
       "language": "Python",
       "stars_today": "1,278 stars today",
-      "stars_total": "121,613"
+      "stars_total": "121,871"
     }
   ],
   "ai_repos": [
@@ -90,7 +90,7 @@
       "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
       "language": "CSS",
       "stars_today": "1,119 stars today",
-      "stars_total": "7,184"
+      "stars_total": "8,404"
     },
     {
       "name": "mattpocock/skills",
@@ -98,15 +98,15 @@
       "description": "Skills for Real Engineers. Straight from my .claude directory.",
       "language": "Shell",
       "stars_today": "2,160 stars today",
-      "stars_total": "171,706"
+      "stars_total": "172,225"
     },
     {
       "name": "moeru-ai/airi",
       "url": "https://github.com/moeru-ai/airi",
       "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
       "language": "TypeScript",
-      "stars_today": "537 stars today",
-      "stars_total": "42,365"
+      "stars_today": "144 stars today",
+      "stars_total": "42,481"
     },
     {
       "name": "Dicklesworthstone/destructive_command_guard",
@@ -114,7 +114,7 @@
       "description": "The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents.",
       "language": "Rust",
       "stars_today": "497 stars today",
-      "stars_total": "4,611"
+      "stars_total": "4,754"
     },
     {
       "name": "HKUDS/Vibe-Trading",
@@ -122,15 +122,15 @@
       "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
       "language": "Python",
       "stars_today": "924 stars today",
-      "stars_total": "23,423"
+      "stars_total": "23,668"
     },
     {
       "name": "openinterpreter/openinterpreter",
       "url": "https://github.com/openinterpreter/openinterpreter",
       "description": "A coding agent for low-cost models",
       "language": "Rust",
-      "stars_today": "607 stars today",
-      "stars_total": "65,221"
+      "stars_today": "345 stars today",
+      "stars_total": "65,459"
     },
     {
       "name": "HenryNdubuaku/maths-cs-ai-compendium",
@@ -138,7 +138,7 @@
       "description": "Become a cracked AI/ML Research Engineer",
       "language": "TypeScript",
       "stars_today": "729 stars today",
-      "stars_total": "5,691"
+      "stars_total": "5,871"
     },
     {
       "name": "Shubhamsaboo/awesome-llm-apps",
@@ -146,7 +146,7 @@
       "description": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship.",
       "language": "Python",
       "stars_today": "1,278 stars today",
-      "stars_total": "121,613"
+      "stars_total": "121,871"
     }
   ],
   "posts": [
@@ -228,10 +228,10 @@
     }
   ],
   "image_paths": [
-    "assets/2026-07-15/trending/summary.png",
-    "assets/2026-07-15/trending/post1.png",
-    "assets/2026-07-15/trending/post2.png",
-    "assets/2026-07-15/trending/post3.png",
-    "assets/2026-07-15/trending/post4.png"
+    "assets/2026-07-16/trending/summary.png",
+    "assets/2026-07-16/trending/post1.png",
+    "assets/2026-07-16/trending/post2.png",
+    "assets/2026-07-16/trending/post3.png",
+    "assets/2026-07-16/trending/post4.png"
   ]
 }
