@@ -1,22 +1,14 @@
 {
-  "date": "2026-07-16",
-  "slot": "晚报",
+  "date": "2026-07-17",
+  "slot": "早报",
   "all_repos": [
-    {
-      "name": "1c7/chinese-independent-developer",
-      "url": "https://github.com/1c7/chinese-independent-developer",
-      "description": "👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么",
-      "language": "Python",
-      "stars_today": "688 stars today",
-      "stars_total": "56,698"
-    },
     {
       "name": "apache/ossie",
       "url": "https://github.com/apache/ossie",
       "description": "Apache Ossie, industry wide specification effort to standardize how we exchange semantic metadata across analytics, AI and BI platforms, providing a vendor neutral, single source of truth for semantic data",
       "language": "Python",
       "stars_today": "81 stars today",
-      "stars_total": "781"
+      "stars_total": "885"
     },
     {
       "name": "Nutlope/hallmark",
@@ -24,7 +16,7 @@
       "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
       "language": "CSS",
       "stars_today": "3,181 stars today",
-      "stars_total": "10,317"
+      "stars_total": "10,834"
     },
     {
       "name": "OpenCut-app/OpenCut",
@@ -32,23 +24,23 @@
       "description": "The open-source CapCut alternative",
       "language": "TypeScript",
       "stars_today": "3,290 stars today",
-      "stars_total": "73,627"
+      "stars_total": "73,969"
     },
     {
       "name": "PostHog/posthog",
       "url": "https://github.com/PostHog/posthog",
       "description": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
       "language": "Python",
-      "stars_today": "58 stars today",
-      "stars_total": "35,667"
+      "stars_today": "146 stars today",
+      "stars_total": "35,819"
     },
     {
       "name": "openinterpreter/openinterpreter",
       "url": "https://github.com/openinterpreter/openinterpreter",
-      "description": "A coding agent for low-cost models",
+      "description": "A Codex-compatible coding agent for open models like Kimi K3",
       "language": "Rust",
       "stars_today": "633 stars today",
-      "stars_total": "65,832"
+      "stars_total": "65,964"
     },
     {
       "name": "PrismML-Eng/Bonsai-demo",
@@ -56,7 +48,7 @@
       "description": "Bonsai Demo",
       "language": "Shell",
       "stars_today": "323 stars today",
-      "stars_total": "1,416"
+      "stars_total": "1,505"
     },
     {
       "name": "hasaneyldrm/exercises-dataset",
@@ -64,7 +56,7 @@
       "description": "1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-group & equipment data, and step-by-step instructions in 6 languages. The exercise data layer behind the LogPress app.",
       "language": "HTML",
       "stars_today": "697 stars today",
-      "stars_total": "14,789"
+      "stars_total": "15,013"
     },
     {
       "name": "Shubhamsaboo/awesome-llm-apps",
@@ -72,7 +64,7 @@
       "description": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship.",
       "language": "Python",
       "stars_today": "935 stars today",
-      "stars_total": "122,528"
+      "stars_total": "122,841"
     },
     {
       "name": "lobehub/lobehub",
@@ -80,7 +72,15 @@
       "description": "🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.",
       "language": "TypeScript",
       "stars_today": "51 stars today",
-      "stars_total": "79,984"
+      "stars_total": "80,137"
+    },
+    {
+      "name": "YimMenu/YimMenuV2",
+      "url": "https://github.com/YimMenu/YimMenuV2",
+      "description": "Experimental menu for GTA 5: Enhanced",
+      "language": "C++",
+      "stars_today": "122 stars today",
+      "stars_total": "1,500"
     }
   ],
   "ai_repos": [
@@ -90,7 +90,7 @@
       "description": "Apache Ossie, industry wide specification effort to standardize how we exchange semantic metadata across analytics, AI and BI platforms, providing a vendor neutral, single source of truth for semantic data",
       "language": "Python",
       "stars_today": "81 stars today",
-      "stars_total": "781"
+      "stars_total": "885"
     },
     {
       "name": "Nutlope/hallmark",
@@ -98,23 +98,23 @@
       "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
       "language": "CSS",
       "stars_today": "3,181 stars today",
-      "stars_total": "10,317"
+      "stars_total": "10,834"
     },
     {
       "name": "PostHog/posthog",
       "url": "https://github.com/PostHog/posthog",
       "description": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
       "language": "Python",
-      "stars_today": "58 stars today",
-      "stars_total": "35,667"
+      "stars_today": "146 stars today",
+      "stars_total": "35,819"
     },
     {
       "name": "openinterpreter/openinterpreter",
       "url": "https://github.com/openinterpreter/openinterpreter",
-      "description": "A coding agent for low-cost models",
+      "description": "A Codex-compatible coding agent for open models like Kimi K3",
       "language": "Rust",
       "stars_today": "633 stars today",
-      "stars_total": "65,832"
+      "stars_total": "65,964"
     },
     {
       "name": "PrismML-Eng/Bonsai-demo",
@@ -122,7 +122,7 @@
       "description": "Bonsai Demo",
       "language": "Shell",
       "stars_today": "323 stars today",
-      "stars_total": "1,416"
+      "stars_total": "1,505"
     },
     {
       "name": "hasaneyldrm/exercises-dataset",
@@ -130,7 +130,7 @@
       "description": "1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-group & equipment data, and step-by-step instructions in 6 languages. The exercise data layer behind the LogPress app.",
       "language": "HTML",
       "stars_today": "697 stars today",
-      "stars_total": "14,789"
+      "stars_total": "15,013"
     },
     {
       "name": "Shubhamsaboo/awesome-llm-apps",
@@ -138,7 +138,7 @@
       "description": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship.",
       "language": "Python",
       "stars_today": "935 stars today",
-      "stars_total": "122,528"
+      "stars_total": "122,841"
     },
     {
       "name": "lobehub/lobehub",
@@ -146,7 +146,7 @@
       "description": "🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.",
       "language": "TypeScript",
       "stars_today": "51 stars today",
-      "stars_total": "79,984"
+      "stars_total": "80,137"
     }
   ],
   "posts": [
@@ -212,7 +212,7 @@
       "repo": "openinterpreter/openinterpreter",
       "cover_line1": "openinterp",
       "cover_line2": "今日 GitHub 热榜！",
-      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**openinterpreter/openinterpreter**\n\n📌 A coding agent for low-cost models\n\n🔗 https://github.com/openinterpreter/openinterpreter\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**openinterpreter/openinterpreter**\n\n📌 A Codex-compatible coding agent for open models like Kimi K3\n\n🔗 https://github.com/openinterpreter/openinterpreter\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "GitHub",
@@ -228,10 +228,10 @@
     }
   ],
   "image_paths": [
-    "assets/2026-07-16/trending/summary.png",
-    "assets/2026-07-16/trending/post1.png",
-    "assets/2026-07-16/trending/post2.png",
-    "assets/2026-07-16/trending/post3.png",
-    "assets/2026-07-16/trending/post4.png"
+    "assets/2026-07-17/trending/summary.png",
+    "assets/2026-07-17/trending/post1.png",
+    "assets/2026-07-17/trending/post2.png",
+    "assets/2026-07-17/trending/post3.png",
+    "assets/2026-07-17/trending/post4.png"
   ]
 }
