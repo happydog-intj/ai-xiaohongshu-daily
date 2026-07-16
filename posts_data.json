@@ -1,11 +1,11 @@
 {
-  "date": "2026-07-16",
+  "date": "2026-07-17",
   "posts": [
     {
-      "topic": "Inkling: Our Open-We",
-      "cover_line1": "Inkling: O",
+      "topic": "LM Studio Bionic: th",
+      "cover_line1": "LM Studio ",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Inkling: Our Open-Weights Model**\n\n📌 来源：HackerNews\n🔗 https://thinkingmachines.ai/news/introducing-inkling/\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**LM Studio Bionic: the AI agent for open models**\n\n📌 来源：HackerNews\n🔗 https://lmstudio.ai/blog/introducing-lm-studio-bionic\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -20,10 +20,10 @@
       ]
     },
     {
-      "topic": "Governments, compani",
-      "cover_line1": "Government",
+      "topic": "NotebookLM is now Ge",
+      "cover_line1": "NotebookLM",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Governments, companies, nonprofits should invest in free, open source AI [pdf]**\n\n📌 来源：HackerNews\n🔗 https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**NotebookLM is now Gemini Notebook**\n\n📌 来源：HackerNews\n🔗 https://blog.google/innovation-and-ai/products/gemini-notebook/notebooklm-gemini-notebook/\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -38,10 +38,10 @@
       ]
     },
     {
-      "topic": "LLM Networking with ",
-      "cover_line1": "LLM Networ",
+      "topic": "Detecting LLM-Genera",
+      "cover_line1": "Detecting ",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**LLM Networking with MikroTik**\n\n📌 来源：HackerNews\n🔗 https://blog.greg.technology/2026/07/14/llm-networking-with-mikrotik.html\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Detecting LLM-Generated Texts with “Classical” Machine Learning**\n\n📌 来源：HackerNews\n🔗 https://blog.lyc8503.net/en/post/llm-classifier/\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -56,10 +56,10 @@
       ]
     },
     {
-      "topic": "Brainless: Shadcn co",
-      "cover_line1": "Brainless:",
+      "topic": "Show HN: ReasonGate-",
+      "cover_line1": "Show HN: R",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Brainless: Shadcn components that look like Claude Code, Codex and Grok**\n\n📌 来源：HackerNews\n🔗 https://brainless.swerdlow.dev\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Show HN: ReasonGate- An explainable gate that blocks LLM prompt injection**\n\n📌 来源：HackerNews\n🔗 https://github.com/cgrtml/reasongate\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -75,15 +75,15 @@
     }
   ],
   "image_paths": [
-    "assets/2026-07-16/cover1.png",
-    "assets/2026-07-16/cover2.png",
-    "assets/2026-07-16/cover3.png",
-    "assets/2026-07-16/cover4.png"
+    "assets/2026-07-17/cover1.png",
+    "assets/2026-07-17/cover2.png",
+    "assets/2026-07-17/cover3.png",
+    "assets/2026-07-17/cover4.png"
   ],
   "feishu_image_paths": [
-    "assets/2026-07-16/cover1_feishu.png",
-    "assets/2026-07-16/cover2_feishu.png",
-    "assets/2026-07-16/cover3_feishu.png",
-    "assets/2026-07-16/cover4_feishu.png"
+    "assets/2026-07-17/cover1_feishu.png",
+    "assets/2026-07-17/cover2_feishu.png",
+    "assets/2026-07-17/cover3_feishu.png",
+    "assets/2026-07-17/cover4_feishu.png"
   ]
 }
