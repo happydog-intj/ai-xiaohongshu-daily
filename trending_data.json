@@ -1,161 +1,172 @@
 {
   "date": "2026-07-17",
-  "slot": "早报",
+  "slot": "晚报",
   "all_repos": [
     {
-      "name": "apache/ossie",
-      "url": "https://github.com/apache/ossie",
-      "description": "Apache Ossie, industry wide specification effort to standardize how we exchange semantic metadata across analytics, AI and BI platforms, providing a vendor neutral, single source of truth for semantic data",
-      "language": "Python",
-      "stars_today": "81 stars today",
-      "stars_total": "885"
-    },
-    {
-      "name": "Nutlope/hallmark",
-      "url": "https://github.com/Nutlope/hallmark",
-      "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
-      "language": "CSS",
-      "stars_today": "3,181 stars today",
-      "stars_total": "10,834"
-    },
-    {
-      "name": "OpenCut-app/OpenCut",
-      "url": "https://github.com/OpenCut-app/OpenCut",
-      "description": "The open-source CapCut alternative",
-      "language": "TypeScript",
-      "stars_today": "3,290 stars today",
-      "stars_total": "73,969"
+      "name": "codecrafters-io/build-your-own-x",
+      "url": "https://github.com/codecrafters-io/build-your-own-x",
+      "description": "Master programming by recreating your favorite technologies from scratch.",
+      "language": "Markdown",
+      "stars_today": "1,070 stars today",
+      "stars_total": "526,927"
     },
     {
       "name": "PostHog/posthog",
       "url": "https://github.com/PostHog/posthog",
       "description": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
       "language": "Python",
-      "stars_today": "146 stars today",
-      "stars_total": "35,819"
+      "stars_today": "437 stars today",
+      "stars_total": "36,064"
     },
     {
-      "name": "openinterpreter/openinterpreter",
-      "url": "https://github.com/openinterpreter/openinterpreter",
-      "description": "A Codex-compatible coding agent for open models like Kimi K3",
-      "language": "Rust",
-      "stars_today": "633 stars today",
-      "stars_total": "65,964"
+      "name": "HenryNdubuaku/maths-cs-ai-compendium",
+      "url": "https://github.com/HenryNdubuaku/maths-cs-ai-compendium",
+      "description": "Become a cracked AI/ML Research Engineer",
+      "language": "TypeScript",
+      "stars_today": "511 stars today",
+      "stars_total": "6,435"
+    },
+    {
+      "name": "Nutlope/hallmark",
+      "url": "https://github.com/Nutlope/hallmark",
+      "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+      "language": "CSS",
+      "stars_today": "1,486 stars today",
+      "stars_total": "11,682"
+    },
+    {
+      "name": "github/copilot-sdk",
+      "url": "https://github.com/github/copilot-sdk",
+      "description": "Multi-platform SDK for integrating GitHub Copilot Agent into apps and services",
+      "language": "Java",
+      "stars_today": "234 stars today",
+      "stars_total": "9,752"
+    },
+    {
+      "name": "anthropics/cwc-workshops",
+      "url": "https://github.com/anthropics/cwc-workshops",
+      "description": "",
+      "language": "TypeScript",
+      "stars_today": "37 stars today",
+      "stars_total": "1,511"
     },
     {
       "name": "PrismML-Eng/Bonsai-demo",
       "url": "https://github.com/PrismML-Eng/Bonsai-demo",
       "description": "Bonsai Demo",
       "language": "Shell",
-      "stars_today": "323 stars today",
-      "stars_total": "1,505"
+      "stars_today": "279 stars today",
+      "stars_total": "1,662"
     },
     {
-      "name": "hasaneyldrm/exercises-dataset",
-      "url": "https://github.com/hasaneyldrm/exercises-dataset",
-      "description": "1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-group & equipment data, and step-by-step instructions in 6 languages. The exercise data layer behind the LogPress app.",
-      "language": "HTML",
-      "stars_today": "697 stars today",
-      "stars_total": "15,013"
-    },
-    {
-      "name": "Shubhamsaboo/awesome-llm-apps",
-      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
-      "description": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship.",
-      "language": "Python",
-      "stars_today": "935 stars today",
-      "stars_total": "122,841"
-    },
-    {
-      "name": "lobehub/lobehub",
-      "url": "https://github.com/lobehub/lobehub",
-      "description": "🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.",
-      "language": "TypeScript",
-      "stars_today": "51 stars today",
-      "stars_total": "80,137"
-    },
-    {
-      "name": "YimMenu/YimMenuV2",
-      "url": "https://github.com/YimMenu/YimMenuV2",
-      "description": "Experimental menu for GTA 5: Enhanced",
+      "name": "protocolbuffers/protobuf",
+      "url": "https://github.com/protocolbuffers/protobuf",
+      "description": "Protocol Buffers - Google's data interchange format",
       "language": "C++",
-      "stars_today": "122 stars today",
-      "stars_total": "1,500"
+      "stars_today": "11 stars today",
+      "stars_total": "71,512"
+    },
+    {
+      "name": "tirth8205/code-review-graph",
+      "url": "https://github.com/tirth8205/code-review-graph",
+      "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
+      "language": "Python",
+      "stars_today": "57 stars today",
+      "stars_total": "19,635"
+    },
+    {
+      "name": "docusealco/docuseal",
+      "url": "https://github.com/docusealco/docuseal",
+      "description": "Open source DocuSign alternative. Create, fill, and sign digital documents ✍️",
+      "language": "Ruby",
+      "stars_today": "152 stars today",
+      "stars_total": "17,728"
     }
   ],
   "ai_repos": [
     {
-      "name": "apache/ossie",
-      "url": "https://github.com/apache/ossie",
-      "description": "Apache Ossie, industry wide specification effort to standardize how we exchange semantic metadata across analytics, AI and BI platforms, providing a vendor neutral, single source of truth for semantic data",
+      "name": "PostHog/posthog",
+      "url": "https://github.com/PostHog/posthog",
+      "description": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
       "language": "Python",
-      "stars_today": "81 stars today",
-      "stars_total": "885"
+      "stars_today": "437 stars today",
+      "stars_total": "36,064"
+    },
+    {
+      "name": "HenryNdubuaku/maths-cs-ai-compendium",
+      "url": "https://github.com/HenryNdubuaku/maths-cs-ai-compendium",
+      "description": "Become a cracked AI/ML Research Engineer",
+      "language": "TypeScript",
+      "stars_today": "511 stars today",
+      "stars_total": "6,435"
     },
     {
       "name": "Nutlope/hallmark",
       "url": "https://github.com/Nutlope/hallmark",
       "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
       "language": "CSS",
-      "stars_today": "3,181 stars today",
-      "stars_total": "10,834"
+      "stars_today": "1,486 stars today",
+      "stars_total": "11,682"
     },
     {
-      "name": "PostHog/posthog",
-      "url": "https://github.com/PostHog/posthog",
-      "description": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
-      "language": "Python",
-      "stars_today": "146 stars today",
-      "stars_total": "35,819"
+      "name": "github/copilot-sdk",
+      "url": "https://github.com/github/copilot-sdk",
+      "description": "Multi-platform SDK for integrating GitHub Copilot Agent into apps and services",
+      "language": "Java",
+      "stars_today": "234 stars today",
+      "stars_total": "9,752"
     },
     {
-      "name": "openinterpreter/openinterpreter",
-      "url": "https://github.com/openinterpreter/openinterpreter",
-      "description": "A Codex-compatible coding agent for open models like Kimi K3",
-      "language": "Rust",
-      "stars_today": "633 stars today",
-      "stars_total": "65,964"
+      "name": "anthropics/cwc-workshops",
+      "url": "https://github.com/anthropics/cwc-workshops",
+      "description": "",
+      "language": "TypeScript",
+      "stars_today": "37 stars today",
+      "stars_total": "1,511"
     },
     {
       "name": "PrismML-Eng/Bonsai-demo",
       "url": "https://github.com/PrismML-Eng/Bonsai-demo",
       "description": "Bonsai Demo",
       "language": "Shell",
-      "stars_today": "323 stars today",
-      "stars_total": "1,505"
+      "stars_today": "279 stars today",
+      "stars_total": "1,662"
     },
     {
-      "name": "hasaneyldrm/exercises-dataset",
-      "url": "https://github.com/hasaneyldrm/exercises-dataset",
-      "description": "1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-group & equipment data, and step-by-step instructions in 6 languages. The exercise data layer behind the LogPress app.",
-      "language": "HTML",
-      "stars_today": "697 stars today",
-      "stars_total": "15,013"
-    },
-    {
-      "name": "Shubhamsaboo/awesome-llm-apps",
-      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
-      "description": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship.",
+      "name": "tirth8205/code-review-graph",
+      "url": "https://github.com/tirth8205/code-review-graph",
+      "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
       "language": "Python",
-      "stars_today": "935 stars today",
-      "stars_total": "122,841"
-    },
-    {
-      "name": "lobehub/lobehub",
-      "url": "https://github.com/lobehub/lobehub",
-      "description": "🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.",
-      "language": "TypeScript",
-      "stars_today": "51 stars today",
-      "stars_total": "80,137"
+      "stars_today": "57 stars today",
+      "stars_total": "19,635"
     }
   ],
   "posts": [
     {
-      "topic": "ossie",
-      "repo": "apache/ossie",
-      "cover_line1": "ossie",
+      "topic": "posthog",
+      "repo": "PostHog/posthog",
+      "cover_line1": "posthog",
       "cover_line2": "今日 GitHub 热榜！",
-      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**apache/ossie**\n\n📌 Apache Ossie, industry wide specification effort to standardize how we exchange semantic metadata across analytics, AI and BI platforms, providing a vendor neutral, single source of truth for semantic data\n\n🔗 https://github.com/apache/ossie\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**PostHog/posthog**\n\n📌 🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.\n\n🔗 https://github.com/PostHog/posthog\n\n关注我，每天第一时间 AI 动态 👇",
+      "tags": [
+        "AI",
+        "GitHub",
+        "开源",
+        "热门项目",
+        "大模型",
+        "机器学习",
+        "深度学习",
+        "AI工具",
+        "技术",
+        "炼丹"
+      ]
+    },
+    {
+      "topic": "maths-cs-ai-compendi",
+      "repo": "HenryNdubuaku/maths-cs-ai-compendium",
+      "cover_line1": "maths-cs-a",
+      "cover_line2": "今日 GitHub 热榜！",
+      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**HenryNdubuaku/maths-cs-ai-compendium**\n\n📌 Become a cracked AI/ML Research Engineer\n\n🔗 https://github.com/HenryNdubuaku/maths-cs-ai-compendium\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "GitHub",
@@ -189,30 +200,11 @@
       ]
     },
     {
-      "topic": "posthog",
-      "repo": "PostHog/posthog",
-      "cover_line1": "posthog",
+      "topic": "copilot-sdk",
+      "repo": "github/copilot-sdk",
+      "cover_line1": "copilot-sd",
       "cover_line2": "今日 GitHub 热榜！",
-      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**PostHog/posthog**\n\n📌 🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.\n\n🔗 https://github.com/PostHog/posthog\n\n关注我，每天第一时间 AI 动态 👇",
-      "tags": [
-        "AI",
-        "GitHub",
-        "开源",
-        "热门项目",
-        "大模型",
-        "机器学习",
-        "深度学习",
-        "AI工具",
-        "技术",
-        "炼丹"
-      ]
-    },
-    {
-      "topic": "openinterpreter",
-      "repo": "openinterpreter/openinterpreter",
-      "cover_line1": "openinterp",
-      "cover_line2": "今日 GitHub 热榜！",
-      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**openinterpreter/openinterpreter**\n\n📌 A Codex-compatible coding agent for open models like Kimi K3\n\n🔗 https://github.com/openinterpreter/openinterpreter\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**github/copilot-sdk**\n\n📌 Multi-platform SDK for integrating GitHub Copilot Agent into apps and services\n\n🔗 https://github.com/github/copilot-sdk\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "GitHub",
