@@ -1,6 +1,6 @@
 {
-  "date": "2026-07-17",
-  "slot": "晚报",
+  "date": "2026-07-18",
+  "slot": "早报",
   "all_repos": [
     {
       "name": "codecrafters-io/build-your-own-x",
@@ -8,7 +8,7 @@
       "description": "Master programming by recreating your favorite technologies from scratch.",
       "language": "Markdown",
       "stars_today": "1,070 stars today",
-      "stars_total": "526,927"
+      "stars_total": "527,307"
     },
     {
       "name": "PostHog/posthog",
@@ -16,15 +16,15 @@
       "description": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
       "language": "Python",
       "stars_today": "437 stars today",
-      "stars_total": "36,064"
+      "stars_total": "36,177"
     },
     {
       "name": "HenryNdubuaku/maths-cs-ai-compendium",
       "url": "https://github.com/HenryNdubuaku/maths-cs-ai-compendium",
       "description": "Become a cracked AI/ML Research Engineer",
       "language": "TypeScript",
-      "stars_today": "511 stars today",
-      "stars_total": "6,435"
+      "stars_today": "248 stars today",
+      "stars_total": "6,600"
     },
     {
       "name": "Nutlope/hallmark",
@@ -32,7 +32,7 @@
       "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
       "language": "CSS",
       "stars_today": "1,486 stars today",
-      "stars_total": "11,682"
+      "stars_total": "11,985"
     },
     {
       "name": "github/copilot-sdk",
@@ -40,7 +40,7 @@
       "description": "Multi-platform SDK for integrating GitHub Copilot Agent into apps and services",
       "language": "Java",
       "stars_today": "234 stars today",
-      "stars_total": "9,752"
+      "stars_total": "9,788"
     },
     {
       "name": "anthropics/cwc-workshops",
@@ -48,7 +48,7 @@
       "description": "",
       "language": "TypeScript",
       "stars_today": "37 stars today",
-      "stars_total": "1,511"
+      "stars_total": "1,578"
     },
     {
       "name": "PrismML-Eng/Bonsai-demo",
@@ -56,15 +56,15 @@
       "description": "Bonsai Demo",
       "language": "Shell",
       "stars_today": "279 stars today",
-      "stars_total": "1,662"
+      "stars_total": "1,705"
     },
     {
       "name": "protocolbuffers/protobuf",
       "url": "https://github.com/protocolbuffers/protobuf",
       "description": "Protocol Buffers - Google's data interchange format",
       "language": "C++",
-      "stars_today": "11 stars today",
-      "stars_total": "71,512"
+      "stars_today": "18 stars today",
+      "stars_total": "71,537"
     },
     {
       "name": "tirth8205/code-review-graph",
@@ -72,15 +72,15 @@
       "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
       "language": "Python",
       "stars_today": "57 stars today",
-      "stars_total": "19,635"
+      "stars_total": "19,731"
     },
     {
       "name": "docusealco/docuseal",
       "url": "https://github.com/docusealco/docuseal",
       "description": "Open source DocuSign alternative. Create, fill, and sign digital documents ✍️",
       "language": "Ruby",
-      "stars_today": "152 stars today",
-      "stars_total": "17,728"
+      "stars_today": "131 stars today",
+      "stars_total": "17,829"
     }
   ],
   "ai_repos": [
@@ -90,15 +90,15 @@
       "description": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
       "language": "Python",
       "stars_today": "437 stars today",
-      "stars_total": "36,064"
+      "stars_total": "36,177"
     },
     {
       "name": "HenryNdubuaku/maths-cs-ai-compendium",
       "url": "https://github.com/HenryNdubuaku/maths-cs-ai-compendium",
       "description": "Become a cracked AI/ML Research Engineer",
       "language": "TypeScript",
-      "stars_today": "511 stars today",
-      "stars_total": "6,435"
+      "stars_today": "248 stars today",
+      "stars_total": "6,600"
     },
     {
       "name": "Nutlope/hallmark",
@@ -106,7 +106,7 @@
       "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
       "language": "CSS",
       "stars_today": "1,486 stars today",
-      "stars_total": "11,682"
+      "stars_total": "11,985"
     },
     {
       "name": "github/copilot-sdk",
@@ -114,7 +114,7 @@
       "description": "Multi-platform SDK for integrating GitHub Copilot Agent into apps and services",
       "language": "Java",
       "stars_today": "234 stars today",
-      "stars_total": "9,752"
+      "stars_total": "9,788"
     },
     {
       "name": "anthropics/cwc-workshops",
@@ -122,7 +122,7 @@
       "description": "",
       "language": "TypeScript",
       "stars_today": "37 stars today",
-      "stars_total": "1,511"
+      "stars_total": "1,578"
     },
     {
       "name": "PrismML-Eng/Bonsai-demo",
@@ -130,7 +130,7 @@
       "description": "Bonsai Demo",
       "language": "Shell",
       "stars_today": "279 stars today",
-      "stars_total": "1,662"
+      "stars_total": "1,705"
     },
     {
       "name": "tirth8205/code-review-graph",
@@ -138,7 +138,7 @@
       "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
       "language": "Python",
       "stars_today": "57 stars today",
-      "stars_total": "19,635"
+      "stars_total": "19,731"
     }
   ],
   "posts": [
@@ -220,10 +220,10 @@
     }
   ],
   "image_paths": [
-    "assets/2026-07-17/trending/summary.png",
-    "assets/2026-07-17/trending/post1.png",
-    "assets/2026-07-17/trending/post2.png",
-    "assets/2026-07-17/trending/post3.png",
-    "assets/2026-07-17/trending/post4.png"
+    "assets/2026-07-18/trending/summary.png",
+    "assets/2026-07-18/trending/post1.png",
+    "assets/2026-07-18/trending/post2.png",
+    "assets/2026-07-18/trending/post3.png",
+    "assets/2026-07-18/trending/post4.png"
   ]
 }
