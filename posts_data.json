@@ -1,11 +1,11 @@
 {
-  "date": "2026-07-17",
+  "date": "2026-07-18",
   "posts": [
     {
-      "topic": "LM Studio Bionic: th",
-      "cover_line1": "LM Studio ",
+      "topic": "Kaiser nurses say AI",
+      "cover_line1": "Kaiser nur",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**LM Studio Bionic: the AI agent for open models**\n\n📌 来源：HackerNews\n🔗 https://lmstudio.ai/blog/introducing-lm-studio-bionic\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Kaiser nurses say AI, workplace surveillance are making their jobs, care worse**\n\n📌 来源：HackerNews\n🔗 https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -20,10 +20,10 @@
       ]
     },
     {
-      "topic": "NotebookLM is now Ge",
-      "cover_line1": "NotebookLM",
+      "topic": "Texas wins court ord",
+      "cover_line1": "Texas wins",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**NotebookLM is now Gemini Notebook**\n\n📌 来源：HackerNews\n🔗 https://blog.google/innovation-and-ai/products/gemini-notebook/notebooklm-gemini-notebook/\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Texas wins court order to suspend domain name for violating age-verification law**\n\n📌 来源：HackerNews\n🔗 https://www.texasattorneygeneral.gov/news/releases/attorney-general-ken-paxton-secures-landmark-legal-victory-lock-pornographic-website-domain-and\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -38,10 +38,10 @@
       ]
     },
     {
-      "topic": "Detecting LLM-Genera",
-      "cover_line1": "Detecting ",
+      "topic": "FAA lets Boeing sign",
+      "cover_line1": "FAA lets B",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Detecting LLM-Generated Texts with “Classical” Machine Learning**\n\n📌 来源：HackerNews\n🔗 https://blog.lyc8503.net/en/post/llm-classifier/\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**FAA lets Boeing sign off on 737 MAX, 787 airworthiness certificates again**\n\n📌 来源：HackerNews\n🔗 https://www.cnbc.com/2026/07/17/faa-boeing-737-max-787.html\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -56,10 +56,10 @@
       ]
     },
     {
-      "topic": "Show HN: ReasonGate-",
-      "cover_line1": "Show HN: R",
+      "topic": "Painting the sides o",
+      "cover_line1": "Painting t",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Show HN: ReasonGate- An explainable gate that blocks LLM prompt injection**\n\n📌 来源：HackerNews\n🔗 https://github.com/cgrtml/reasongate\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Painting the sides of railroad rails white to reduce derailment**\n\n📌 来源：HackerNews\n🔗 https://www.up.com/news/safety/Tracking-Rail-Heat-260608\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -75,15 +75,15 @@
     }
   ],
   "image_paths": [
-    "assets/2026-07-17/cover1.png",
-    "assets/2026-07-17/cover2.png",
-    "assets/2026-07-17/cover3.png",
-    "assets/2026-07-17/cover4.png"
+    "assets/2026-07-18/cover1.png",
+    "assets/2026-07-18/cover2.png",
+    "assets/2026-07-18/cover3.png",
+    "assets/2026-07-18/cover4.png"
   ],
   "feishu_image_paths": [
-    "assets/2026-07-17/cover1_feishu.png",
-    "assets/2026-07-17/cover2_feishu.png",
-    "assets/2026-07-17/cover3_feishu.png",
-    "assets/2026-07-17/cover4_feishu.png"
+    "assets/2026-07-18/cover1_feishu.png",
+    "assets/2026-07-18/cover2_feishu.png",
+    "assets/2026-07-18/cover3_feishu.png",
+    "assets/2026-07-18/cover4_feishu.png"
   ]
 }
