@@ -1,147 +1,166 @@
 {
   "date": "2026-07-18",
-  "slot": "早报",
+  "slot": "晚报",
   "all_repos": [
+    {
+      "name": "Robbyant/lingbot-map",
+      "url": "https://github.com/Robbyant/lingbot-map",
+      "description": "A feed-forward 3D foundation model for reconstructing scenes from streaming data",
+      "language": "Python",
+      "stars_today": "827 stars today",
+      "stars_total": "12,544"
+    },
+    {
+      "name": "apache/ossie",
+      "url": "https://github.com/apache/ossie",
+      "description": "Apache Ossie, industry wide specification effort to standardize how we exchange semantic metadata across analytics, AI and BI platforms, providing a vendor neutral, single source of truth for semantic data",
+      "language": "Python",
+      "stars_today": "48 stars today",
+      "stars_total": "1,190"
+    },
+    {
+      "name": "PostHog/posthog",
+      "url": "https://github.com/PostHog/posthog",
+      "description": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
+      "language": "Python",
+      "stars_today": "337 stars today",
+      "stars_total": "36,412"
+    },
+    {
+      "name": "ibelick/ui-skills",
+      "url": "https://github.com/ibelick/ui-skills",
+      "description": "Skills for Design Engineers",
+      "language": "TypeScript",
+      "stars_today": "529 stars today",
+      "stars_total": "4,754"
+    },
+    {
+      "name": "rohitg00/ai-engineering-from-scratch",
+      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "description": "Learn it. Build it. Ship it for others.",
+      "language": "Python",
+      "stars_today": "232 stars today",
+      "stars_total": "38,923"
+    },
+    {
+      "name": "tirth8205/code-review-graph",
+      "url": "https://github.com/tirth8205/code-review-graph",
+      "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
+      "language": "Python",
+      "stars_today": "356 stars today",
+      "stars_total": "19,992"
+    },
+    {
+      "name": "elder-plinius/G0DM0D3",
+      "url": "https://github.com/elder-plinius/G0DM0D3",
+      "description": "LIBERATED AI CHAT",
+      "language": "TypeScript",
+      "stars_today": "63 stars today",
+      "stars_total": "9,386"
+    },
+    {
+      "name": "lyogavin/airllm",
+      "url": "https://github.com/lyogavin/airllm",
+      "description": "AirLLM 70B inference with single 4GB GPU",
+      "language": "Jupyter Notebook",
+      "stars_today": "242 stars today",
+      "stars_total": "23,177"
+    },
+    {
+      "name": "KnockOutEZ/wigolo",
+      "url": "https://github.com/KnockOutEZ/wigolo",
+      "description": "The go-to web for your AI coding agent — local-first search, fetch, crawl & research over MCP. No API keys, no cloud, $0/query. Public beta.",
+      "language": "TypeScript",
+      "stars_today": "192 stars today",
+      "stars_total": "999"
+    },
     {
       "name": "codecrafters-io/build-your-own-x",
       "url": "https://github.com/codecrafters-io/build-your-own-x",
       "description": "Master programming by recreating your favorite technologies from scratch.",
       "language": "Markdown",
-      "stars_today": "1,070 stars today",
-      "stars_total": "527,307"
-    },
-    {
-      "name": "PostHog/posthog",
-      "url": "https://github.com/PostHog/posthog",
-      "description": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
-      "language": "Python",
-      "stars_today": "437 stars today",
-      "stars_total": "36,177"
-    },
-    {
-      "name": "HenryNdubuaku/maths-cs-ai-compendium",
-      "url": "https://github.com/HenryNdubuaku/maths-cs-ai-compendium",
-      "description": "Become a cracked AI/ML Research Engineer",
-      "language": "TypeScript",
-      "stars_today": "248 stars today",
-      "stars_total": "6,600"
-    },
-    {
-      "name": "Nutlope/hallmark",
-      "url": "https://github.com/Nutlope/hallmark",
-      "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
-      "language": "CSS",
-      "stars_today": "1,486 stars today",
-      "stars_total": "11,985"
-    },
-    {
-      "name": "github/copilot-sdk",
-      "url": "https://github.com/github/copilot-sdk",
-      "description": "Multi-platform SDK for integrating GitHub Copilot Agent into apps and services",
-      "language": "Java",
-      "stars_today": "234 stars today",
-      "stars_total": "9,788"
-    },
-    {
-      "name": "anthropics/cwc-workshops",
-      "url": "https://github.com/anthropics/cwc-workshops",
-      "description": "",
-      "language": "TypeScript",
-      "stars_today": "37 stars today",
-      "stars_total": "1,578"
-    },
-    {
-      "name": "PrismML-Eng/Bonsai-demo",
-      "url": "https://github.com/PrismML-Eng/Bonsai-demo",
-      "description": "Bonsai Demo",
-      "language": "Shell",
-      "stars_today": "279 stars today",
-      "stars_total": "1,705"
-    },
-    {
-      "name": "protocolbuffers/protobuf",
-      "url": "https://github.com/protocolbuffers/protobuf",
-      "description": "Protocol Buffers - Google's data interchange format",
-      "language": "C++",
-      "stars_today": "18 stars today",
-      "stars_total": "71,537"
-    },
-    {
-      "name": "tirth8205/code-review-graph",
-      "url": "https://github.com/tirth8205/code-review-graph",
-      "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
-      "language": "Python",
-      "stars_today": "57 stars today",
-      "stars_total": "19,731"
-    },
-    {
-      "name": "docusealco/docuseal",
-      "url": "https://github.com/docusealco/docuseal",
-      "description": "Open source DocuSign alternative. Create, fill, and sign digital documents ✍️",
-      "language": "Ruby",
-      "stars_today": "131 stars today",
-      "stars_total": "17,829"
+      "stars_today": "1,131 stars today",
+      "stars_total": "527,972"
     }
   ],
   "ai_repos": [
     {
+      "name": "apache/ossie",
+      "url": "https://github.com/apache/ossie",
+      "description": "Apache Ossie, industry wide specification effort to standardize how we exchange semantic metadata across analytics, AI and BI platforms, providing a vendor neutral, single source of truth for semantic data",
+      "language": "Python",
+      "stars_today": "48 stars today",
+      "stars_total": "1,190"
+    },
+    {
       "name": "PostHog/posthog",
       "url": "https://github.com/PostHog/posthog",
       "description": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
       "language": "Python",
-      "stars_today": "437 stars today",
-      "stars_total": "36,177"
+      "stars_today": "337 stars today",
+      "stars_total": "36,412"
     },
     {
-      "name": "HenryNdubuaku/maths-cs-ai-compendium",
-      "url": "https://github.com/HenryNdubuaku/maths-cs-ai-compendium",
-      "description": "Become a cracked AI/ML Research Engineer",
-      "language": "TypeScript",
-      "stars_today": "248 stars today",
-      "stars_total": "6,600"
-    },
-    {
-      "name": "Nutlope/hallmark",
-      "url": "https://github.com/Nutlope/hallmark",
-      "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
-      "language": "CSS",
-      "stars_today": "1,486 stars today",
-      "stars_total": "11,985"
-    },
-    {
-      "name": "github/copilot-sdk",
-      "url": "https://github.com/github/copilot-sdk",
-      "description": "Multi-platform SDK for integrating GitHub Copilot Agent into apps and services",
-      "language": "Java",
-      "stars_today": "234 stars today",
-      "stars_total": "9,788"
-    },
-    {
-      "name": "anthropics/cwc-workshops",
-      "url": "https://github.com/anthropics/cwc-workshops",
-      "description": "",
-      "language": "TypeScript",
-      "stars_today": "37 stars today",
-      "stars_total": "1,578"
-    },
-    {
-      "name": "PrismML-Eng/Bonsai-demo",
-      "url": "https://github.com/PrismML-Eng/Bonsai-demo",
-      "description": "Bonsai Demo",
-      "language": "Shell",
-      "stars_today": "279 stars today",
-      "stars_total": "1,705"
+      "name": "rohitg00/ai-engineering-from-scratch",
+      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "description": "Learn it. Build it. Ship it for others.",
+      "language": "Python",
+      "stars_today": "232 stars today",
+      "stars_total": "38,923"
     },
     {
       "name": "tirth8205/code-review-graph",
       "url": "https://github.com/tirth8205/code-review-graph",
       "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
       "language": "Python",
-      "stars_today": "57 stars today",
-      "stars_total": "19,731"
+      "stars_today": "356 stars today",
+      "stars_total": "19,992"
+    },
+    {
+      "name": "elder-plinius/G0DM0D3",
+      "url": "https://github.com/elder-plinius/G0DM0D3",
+      "description": "LIBERATED AI CHAT",
+      "language": "TypeScript",
+      "stars_today": "63 stars today",
+      "stars_total": "9,386"
+    },
+    {
+      "name": "lyogavin/airllm",
+      "url": "https://github.com/lyogavin/airllm",
+      "description": "AirLLM 70B inference with single 4GB GPU",
+      "language": "Jupyter Notebook",
+      "stars_today": "242 stars today",
+      "stars_total": "23,177"
+    },
+    {
+      "name": "KnockOutEZ/wigolo",
+      "url": "https://github.com/KnockOutEZ/wigolo",
+      "description": "The go-to web for your AI coding agent — local-first search, fetch, crawl & research over MCP. No API keys, no cloud, $0/query. Public beta.",
+      "language": "TypeScript",
+      "stars_today": "192 stars today",
+      "stars_total": "999"
     }
   ],
   "posts": [
+    {
+      "topic": "ossie",
+      "repo": "apache/ossie",
+      "cover_line1": "ossie",
+      "cover_line2": "今日 GitHub 热榜！",
+      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**apache/ossie**\n\n📌 Apache Ossie, industry wide specification effort to standardize how we exchange semantic metadata across analytics, AI and BI platforms, providing a vendor neutral, single source of truth for semantic data\n\n🔗 https://github.com/apache/ossie\n\n关注我，每天第一时间 AI 动态 👇",
+      "tags": [
+        "AI",
+        "GitHub",
+        "开源",
+        "热门项目",
+        "大模型",
+        "机器学习",
+        "深度学习",
+        "AI工具",
+        "技术",
+        "炼丹"
+      ]
+    },
     {
       "topic": "posthog",
       "repo": "PostHog/posthog",
@@ -162,11 +181,11 @@
       ]
     },
     {
-      "topic": "maths-cs-ai-compendi",
-      "repo": "HenryNdubuaku/maths-cs-ai-compendium",
-      "cover_line1": "maths-cs-a",
+      "topic": "ai-engineering-from-",
+      "repo": "rohitg00/ai-engineering-from-scratch",
+      "cover_line1": "ai-enginee",
       "cover_line2": "今日 GitHub 热榜！",
-      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**HenryNdubuaku/maths-cs-ai-compendium**\n\n📌 Become a cracked AI/ML Research Engineer\n\n🔗 https://github.com/HenryNdubuaku/maths-cs-ai-compendium\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**rohitg00/ai-engineering-from-scratch**\n\n📌 Learn it. Build it. Ship it for others.\n\n🔗 https://github.com/rohitg00/ai-engineering-from-scratch\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "GitHub",
@@ -181,30 +200,11 @@
       ]
     },
     {
-      "topic": "hallmark",
-      "repo": "Nutlope/hallmark",
-      "cover_line1": "hallmark",
+      "topic": "code-review-graph",
+      "repo": "tirth8205/code-review-graph",
+      "cover_line1": "code-revie",
       "cover_line2": "今日 GitHub 热榜！",
-      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**Nutlope/hallmark**\n\n📌 Anti-AI-slop design skill for Claude Code, Cursor, and Codex.\n\n🔗 https://github.com/Nutlope/hallmark\n\n关注我，每天第一时间 AI 动态 👇",
-      "tags": [
-        "AI",
-        "GitHub",
-        "开源",
-        "热门项目",
-        "大模型",
-        "机器学习",
-        "深度学习",
-        "AI工具",
-        "技术",
-        "炼丹"
-      ]
-    },
-    {
-      "topic": "copilot-sdk",
-      "repo": "github/copilot-sdk",
-      "cover_line1": "copilot-sd",
-      "cover_line2": "今日 GitHub 热榜！",
-      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**github/copilot-sdk**\n\n📌 Multi-platform SDK for integrating GitHub Copilot Agent into apps and services\n\n🔗 https://github.com/github/copilot-sdk\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**tirth8205/code-review-graph**\n\n📌 Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.\n\n🔗 https://github.com/tirth8205/code-review-graph\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "GitHub",
