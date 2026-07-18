@@ -1,11 +1,11 @@
 {
-  "date": "2026-07-18",
+  "date": "2026-07-19",
   "posts": [
     {
-      "topic": "Kaiser nurses say AI",
-      "cover_line1": "Kaiser nur",
+      "topic": "GPT-5.6 used a promp",
+      "cover_line1": "GPT-5.6 us",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Kaiser nurses say AI, workplace surveillance are making their jobs, care worse**\n\n📌 来源：HackerNews\n🔗 https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**GPT-5.6 used a prompt to close a 30-year gap in convex optimization**\n\n📌 来源：HackerNews\n🔗 https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -20,10 +20,10 @@
       ]
     },
     {
-      "topic": "Texas wins court ord",
-      "cover_line1": "Texas wins",
+      "topic": "Fable 5 vs. GPT-5.6 ",
+      "cover_line1": "Fable 5 vs",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Texas wins court order to suspend domain name for violating age-verification law**\n\n📌 来源：HackerNews\n🔗 https://www.texasattorneygeneral.gov/news/releases/attorney-general-ken-paxton-secures-landmark-legal-victory-lock-pornographic-website-domain-and\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?**\n\n📌 来源：HackerNews\n🔗 https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal/\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -38,10 +38,10 @@
       ]
     },
     {
-      "topic": "FAA lets Boeing sign",
-      "cover_line1": "FAA lets B",
+      "topic": "Mayor Mamdani Says L",
+      "cover_line1": "Mayor Mamd",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**FAA lets Boeing sign off on 737 MAX, 787 airworthiness certificates again**\n\n📌 来源：HackerNews\n🔗 https://www.cnbc.com/2026/07/17/faa-boeing-737-max-787.html\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Mayor Mamdani Says Landlords Can't Use AI Images to Advertise**\n\n📌 来源：HackerNews\n🔗 https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -56,10 +56,10 @@
       ]
     },
     {
-      "topic": "Painting the sides o",
-      "cover_line1": "Painting t",
+      "topic": "Our Approach to Bior",
+      "cover_line1": "Our Approa",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Painting the sides of railroad rails white to reduce derailment**\n\n📌 来源：HackerNews\n🔗 https://www.up.com/news/safety/Tracking-Rail-Heat-260608\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Our Approach to Bioresilience: Isomorphic Labs and Google DeepMind**\n\n📌 来源：HackerNews\n🔗 https://deepmind.google/blog/our-approach-to-bioresilience/\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -75,15 +75,15 @@
     }
   ],
   "image_paths": [
-    "assets/2026-07-18/cover1.png",
-    "assets/2026-07-18/cover2.png",
-    "assets/2026-07-18/cover3.png",
-    "assets/2026-07-18/cover4.png"
+    "assets/2026-07-19/cover1.png",
+    "assets/2026-07-19/cover2.png",
+    "assets/2026-07-19/cover3.png",
+    "assets/2026-07-19/cover4.png"
   ],
   "feishu_image_paths": [
-    "assets/2026-07-18/cover1_feishu.png",
-    "assets/2026-07-18/cover2_feishu.png",
-    "assets/2026-07-18/cover3_feishu.png",
-    "assets/2026-07-18/cover4_feishu.png"
+    "assets/2026-07-19/cover1_feishu.png",
+    "assets/2026-07-19/cover2_feishu.png",
+    "assets/2026-07-19/cover3_feishu.png",
+    "assets/2026-07-19/cover4_feishu.png"
   ]
 }
