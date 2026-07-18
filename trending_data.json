@@ -1,6 +1,6 @@
 {
-  "date": "2026-07-18",
-  "slot": "晚报",
+  "date": "2026-07-19",
+  "slot": "早报",
   "all_repos": [
     {
       "name": "Robbyant/lingbot-map",
@@ -8,7 +8,7 @@
       "description": "A feed-forward 3D foundation model for reconstructing scenes from streaming data",
       "language": "Python",
       "stars_today": "827 stars today",
-      "stars_total": "12,544"
+      "stars_total": "12,904"
     },
     {
       "name": "apache/ossie",
@@ -16,7 +16,7 @@
       "description": "Apache Ossie, industry wide specification effort to standardize how we exchange semantic metadata across analytics, AI and BI platforms, providing a vendor neutral, single source of truth for semantic data",
       "language": "Python",
       "stars_today": "48 stars today",
-      "stars_total": "1,190"
+      "stars_total": "1,266"
     },
     {
       "name": "PostHog/posthog",
@@ -24,23 +24,23 @@
       "description": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
       "language": "Python",
       "stars_today": "337 stars today",
-      "stars_total": "36,412"
+      "stars_total": "36,576"
     },
     {
       "name": "ibelick/ui-skills",
       "url": "https://github.com/ibelick/ui-skills",
       "description": "Skills for Design Engineers",
       "language": "TypeScript",
-      "stars_today": "529 stars today",
-      "stars_total": "4,754"
+      "stars_today": "242 stars today",
+      "stars_total": "4,990"
     },
     {
       "name": "rohitg00/ai-engineering-from-scratch",
       "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
       "description": "Learn it. Build it. Ship it for others.",
       "language": "Python",
-      "stars_today": "232 stars today",
-      "stars_total": "38,923"
+      "stars_today": "240 stars today",
+      "stars_total": "39,087"
     },
     {
       "name": "tirth8205/code-review-graph",
@@ -48,7 +48,7 @@
       "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
       "language": "Python",
       "stars_today": "356 stars today",
-      "stars_total": "19,992"
+      "stars_total": "20,147"
     },
     {
       "name": "elder-plinius/G0DM0D3",
@@ -56,15 +56,15 @@
       "description": "LIBERATED AI CHAT",
       "language": "TypeScript",
       "stars_today": "63 stars today",
-      "stars_total": "9,386"
+      "stars_total": "9,497"
     },
     {
       "name": "lyogavin/airllm",
       "url": "https://github.com/lyogavin/airllm",
       "description": "AirLLM 70B inference with single 4GB GPU",
       "language": "Jupyter Notebook",
-      "stars_today": "242 stars today",
-      "stars_total": "23,177"
+      "stars_today": "234 stars today",
+      "stars_total": "23,320"
     },
     {
       "name": "KnockOutEZ/wigolo",
@@ -72,7 +72,7 @@
       "description": "The go-to web for your AI coding agent — local-first search, fetch, crawl & research over MCP. No API keys, no cloud, $0/query. Public beta.",
       "language": "TypeScript",
       "stars_today": "192 stars today",
-      "stars_total": "999"
+      "stars_total": "1,216"
     },
     {
       "name": "codecrafters-io/build-your-own-x",
@@ -80,7 +80,7 @@
       "description": "Master programming by recreating your favorite technologies from scratch.",
       "language": "Markdown",
       "stars_today": "1,131 stars today",
-      "stars_total": "527,972"
+      "stars_total": "528,232"
     }
   ],
   "ai_repos": [
@@ -90,7 +90,7 @@
       "description": "Apache Ossie, industry wide specification effort to standardize how we exchange semantic metadata across analytics, AI and BI platforms, providing a vendor neutral, single source of truth for semantic data",
       "language": "Python",
       "stars_today": "48 stars today",
-      "stars_total": "1,190"
+      "stars_total": "1,266"
     },
     {
       "name": "PostHog/posthog",
@@ -98,15 +98,15 @@
       "description": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
       "language": "Python",
       "stars_today": "337 stars today",
-      "stars_total": "36,412"
+      "stars_total": "36,576"
     },
     {
       "name": "rohitg00/ai-engineering-from-scratch",
       "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
       "description": "Learn it. Build it. Ship it for others.",
       "language": "Python",
-      "stars_today": "232 stars today",
-      "stars_total": "38,923"
+      "stars_today": "240 stars today",
+      "stars_total": "39,087"
     },
     {
       "name": "tirth8205/code-review-graph",
@@ -114,7 +114,7 @@
       "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
       "language": "Python",
       "stars_today": "356 stars today",
-      "stars_total": "19,992"
+      "stars_total": "20,147"
     },
     {
       "name": "elder-plinius/G0DM0D3",
@@ -122,15 +122,15 @@
       "description": "LIBERATED AI CHAT",
       "language": "TypeScript",
       "stars_today": "63 stars today",
-      "stars_total": "9,386"
+      "stars_total": "9,497"
     },
     {
       "name": "lyogavin/airllm",
       "url": "https://github.com/lyogavin/airllm",
       "description": "AirLLM 70B inference with single 4GB GPU",
       "language": "Jupyter Notebook",
-      "stars_today": "242 stars today",
-      "stars_total": "23,177"
+      "stars_today": "234 stars today",
+      "stars_total": "23,320"
     },
     {
       "name": "KnockOutEZ/wigolo",
@@ -138,7 +138,7 @@
       "description": "The go-to web for your AI coding agent — local-first search, fetch, crawl & research over MCP. No API keys, no cloud, $0/query. Public beta.",
       "language": "TypeScript",
       "stars_today": "192 stars today",
-      "stars_total": "999"
+      "stars_total": "1,216"
     }
   ],
   "posts": [
@@ -220,10 +220,10 @@
     }
   ],
   "image_paths": [
-    "assets/2026-07-18/trending/summary.png",
-    "assets/2026-07-18/trending/post1.png",
-    "assets/2026-07-18/trending/post2.png",
-    "assets/2026-07-18/trending/post3.png",
-    "assets/2026-07-18/trending/post4.png"
+    "assets/2026-07-19/trending/summary.png",
+    "assets/2026-07-19/trending/post1.png",
+    "assets/2026-07-19/trending/post2.png",
+    "assets/2026-07-19/trending/post3.png",
+    "assets/2026-07-19/trending/post4.png"
   ]
 }
