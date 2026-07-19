@@ -1,153 +1,161 @@
 {
   "date": "2026-07-19",
-  "slot": "早报",
+  "slot": "晚报",
   "all_repos": [
     {
-      "name": "Robbyant/lingbot-map",
-      "url": "https://github.com/Robbyant/lingbot-map",
-      "description": "A feed-forward 3D foundation model for reconstructing scenes from streaming data",
+      "name": "tirth8205/code-review-graph",
+      "url": "https://github.com/tirth8205/code-review-graph",
+      "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
       "language": "Python",
-      "stars_today": "827 stars today",
-      "stars_total": "12,904"
+      "stars_today": "551 stars today",
+      "stars_total": "20,662"
     },
     {
-      "name": "apache/ossie",
-      "url": "https://github.com/apache/ossie",
-      "description": "Apache Ossie, industry wide specification effort to standardize how we exchange semantic metadata across analytics, AI and BI platforms, providing a vendor neutral, single source of truth for semantic data",
+      "name": "kvcache-ai/ktransformers",
+      "url": "https://github.com/kvcache-ai/ktransformers",
+      "description": "A Flexible Framework for Experiencing Heterogeneous LLM Inference/Fine-tune Optimizations",
       "language": "Python",
-      "stars_today": "48 stars today",
-      "stars_total": "1,266"
-    },
-    {
-      "name": "PostHog/posthog",
-      "url": "https://github.com/PostHog/posthog",
-      "description": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
-      "language": "Python",
-      "stars_today": "337 stars today",
-      "stars_total": "36,576"
-    },
-    {
-      "name": "ibelick/ui-skills",
-      "url": "https://github.com/ibelick/ui-skills",
-      "description": "Skills for Design Engineers",
-      "language": "TypeScript",
-      "stars_today": "242 stars today",
-      "stars_total": "4,990"
+      "stars_today": "328 stars today",
+      "stars_total": "18,200"
     },
     {
       "name": "rohitg00/ai-engineering-from-scratch",
       "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
       "description": "Learn it. Build it. Ship it for others.",
       "language": "Python",
-      "stars_today": "240 stars today",
-      "stars_total": "39,087"
+      "stars_today": "507 stars today",
+      "stars_total": "39,416"
     },
     {
-      "name": "tirth8205/code-review-graph",
-      "url": "https://github.com/tirth8205/code-review-graph",
-      "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
-      "language": "Python",
-      "stars_today": "356 stars today",
-      "stars_total": "20,147"
-    },
-    {
-      "name": "elder-plinius/G0DM0D3",
-      "url": "https://github.com/elder-plinius/G0DM0D3",
-      "description": "LIBERATED AI CHAT",
+      "name": "jamiepine/voicebox",
+      "url": "https://github.com/jamiepine/voicebox",
+      "description": "The open-source AI voice studio. Clone, dictate, create.",
       "language": "TypeScript",
-      "stars_today": "63 stars today",
-      "stars_total": "9,497"
-    },
-    {
-      "name": "lyogavin/airllm",
-      "url": "https://github.com/lyogavin/airllm",
-      "description": "AirLLM 70B inference with single 4GB GPU",
-      "language": "Jupyter Notebook",
-      "stars_today": "234 stars today",
-      "stars_total": "23,320"
+      "stars_today": "629 stars today",
+      "stars_total": "43,064"
     },
     {
       "name": "KnockOutEZ/wigolo",
       "url": "https://github.com/KnockOutEZ/wigolo",
       "description": "The go-to web for your AI coding agent — local-first search, fetch, crawl & research over MCP. No API keys, no cloud, $0/query. Public beta.",
       "language": "TypeScript",
-      "stars_today": "192 stars today",
-      "stars_total": "1,216"
+      "stars_today": "605 stars today",
+      "stars_total": "1,596"
     },
     {
-      "name": "codecrafters-io/build-your-own-x",
-      "url": "https://github.com/codecrafters-io/build-your-own-x",
-      "description": "Master programming by recreating your favorite technologies from scratch.",
-      "language": "Markdown",
-      "stars_today": "1,131 stars today",
-      "stars_total": "528,232"
+      "name": "andrewrabert/jellium-desktop",
+      "url": "https://github.com/andrewrabert/jellium-desktop",
+      "description": "An unofficial desktop client for Jellyfin",
+      "language": "Rust",
+      "stars_today": "55 stars today",
+      "stars_total": "1,222"
+    },
+    {
+      "name": "github/copilot-sdk",
+      "url": "https://github.com/github/copilot-sdk",
+      "description": "Multi-platform SDK for integrating GitHub Copilot Agent into apps and services",
+      "language": "Java",
+      "stars_today": "111 stars today",
+      "stars_total": "9,901"
+    },
+    {
+      "name": "PostHog/posthog",
+      "url": "https://github.com/PostHog/posthog",
+      "description": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
+      "language": "Python",
+      "stars_today": "424 stars today",
+      "stars_total": "36,800"
+    },
+    {
+      "name": "microsoft/terminal",
+      "url": "https://github.com/microsoft/terminal",
+      "description": "The new Windows Terminal and the original Windows console host, all in the same place!",
+      "language": "C++",
+      "stars_today": "13 stars today",
+      "stars_total": "104,046"
+    },
+    {
+      "name": "AstrBotDevs/AstrBot",
+      "url": "https://github.com/AstrBotDevs/AstrBot",
+      "description": "AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨",
+      "language": "Python",
+      "stars_today": "62 stars today",
+      "stars_total": "36,610"
     }
   ],
   "ai_repos": [
     {
-      "name": "apache/ossie",
-      "url": "https://github.com/apache/ossie",
-      "description": "Apache Ossie, industry wide specification effort to standardize how we exchange semantic metadata across analytics, AI and BI platforms, providing a vendor neutral, single source of truth for semantic data",
+      "name": "tirth8205/code-review-graph",
+      "url": "https://github.com/tirth8205/code-review-graph",
+      "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
       "language": "Python",
-      "stars_today": "48 stars today",
-      "stars_total": "1,266"
+      "stars_today": "551 stars today",
+      "stars_total": "20,662"
     },
     {
-      "name": "PostHog/posthog",
-      "url": "https://github.com/PostHog/posthog",
-      "description": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
+      "name": "kvcache-ai/ktransformers",
+      "url": "https://github.com/kvcache-ai/ktransformers",
+      "description": "A Flexible Framework for Experiencing Heterogeneous LLM Inference/Fine-tune Optimizations",
       "language": "Python",
-      "stars_today": "337 stars today",
-      "stars_total": "36,576"
+      "stars_today": "328 stars today",
+      "stars_total": "18,200"
     },
     {
       "name": "rohitg00/ai-engineering-from-scratch",
       "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
       "description": "Learn it. Build it. Ship it for others.",
       "language": "Python",
-      "stars_today": "240 stars today",
-      "stars_total": "39,087"
+      "stars_today": "507 stars today",
+      "stars_total": "39,416"
     },
     {
-      "name": "tirth8205/code-review-graph",
-      "url": "https://github.com/tirth8205/code-review-graph",
-      "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
-      "language": "Python",
-      "stars_today": "356 stars today",
-      "stars_total": "20,147"
-    },
-    {
-      "name": "elder-plinius/G0DM0D3",
-      "url": "https://github.com/elder-plinius/G0DM0D3",
-      "description": "LIBERATED AI CHAT",
+      "name": "jamiepine/voicebox",
+      "url": "https://github.com/jamiepine/voicebox",
+      "description": "The open-source AI voice studio. Clone, dictate, create.",
       "language": "TypeScript",
-      "stars_today": "63 stars today",
-      "stars_total": "9,497"
-    },
-    {
-      "name": "lyogavin/airllm",
-      "url": "https://github.com/lyogavin/airllm",
-      "description": "AirLLM 70B inference with single 4GB GPU",
-      "language": "Jupyter Notebook",
-      "stars_today": "234 stars today",
-      "stars_total": "23,320"
+      "stars_today": "629 stars today",
+      "stars_total": "43,064"
     },
     {
       "name": "KnockOutEZ/wigolo",
       "url": "https://github.com/KnockOutEZ/wigolo",
       "description": "The go-to web for your AI coding agent — local-first search, fetch, crawl & research over MCP. No API keys, no cloud, $0/query. Public beta.",
       "language": "TypeScript",
-      "stars_today": "192 stars today",
-      "stars_total": "1,216"
+      "stars_today": "605 stars today",
+      "stars_total": "1,596"
+    },
+    {
+      "name": "github/copilot-sdk",
+      "url": "https://github.com/github/copilot-sdk",
+      "description": "Multi-platform SDK for integrating GitHub Copilot Agent into apps and services",
+      "language": "Java",
+      "stars_today": "111 stars today",
+      "stars_total": "9,901"
+    },
+    {
+      "name": "PostHog/posthog",
+      "url": "https://github.com/PostHog/posthog",
+      "description": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
+      "language": "Python",
+      "stars_today": "424 stars today",
+      "stars_total": "36,800"
+    },
+    {
+      "name": "AstrBotDevs/AstrBot",
+      "url": "https://github.com/AstrBotDevs/AstrBot",
+      "description": "AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨",
+      "language": "Python",
+      "stars_today": "62 stars today",
+      "stars_total": "36,610"
     }
   ],
   "posts": [
     {
-      "topic": "ossie",
-      "repo": "apache/ossie",
-      "cover_line1": "ossie",
+      "topic": "code-review-graph",
+      "repo": "tirth8205/code-review-graph",
+      "cover_line1": "code-revie",
       "cover_line2": "今日 GitHub 热榜！",
-      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**apache/ossie**\n\n📌 Apache Ossie, industry wide specification effort to standardize how we exchange semantic metadata across analytics, AI and BI platforms, providing a vendor neutral, single source of truth for semantic data\n\n🔗 https://github.com/apache/ossie\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**tirth8205/code-review-graph**\n\n📌 Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.\n\n🔗 https://github.com/tirth8205/code-review-graph\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "GitHub",
@@ -162,11 +170,11 @@
       ]
     },
     {
-      "topic": "posthog",
-      "repo": "PostHog/posthog",
-      "cover_line1": "posthog",
+      "topic": "ktransformers",
+      "repo": "kvcache-ai/ktransformers",
+      "cover_line1": "ktransform",
       "cover_line2": "今日 GitHub 热榜！",
-      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**PostHog/posthog**\n\n📌 🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.\n\n🔗 https://github.com/PostHog/posthog\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**kvcache-ai/ktransformers**\n\n📌 A Flexible Framework for Experiencing Heterogeneous LLM Inference/Fine-tune Optimizations\n\n🔗 https://github.com/kvcache-ai/ktransformers\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "GitHub",
@@ -200,11 +208,11 @@
       ]
     },
     {
-      "topic": "code-review-graph",
-      "repo": "tirth8205/code-review-graph",
-      "cover_line1": "code-revie",
+      "topic": "voicebox",
+      "repo": "jamiepine/voicebox",
+      "cover_line1": "voicebox",
       "cover_line2": "今日 GitHub 热榜！",
-      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**tirth8205/code-review-graph**\n\n📌 Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.\n\n🔗 https://github.com/tirth8205/code-review-graph\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**jamiepine/voicebox**\n\n📌 The open-source AI voice studio. Clone, dictate, create.\n\n🔗 https://github.com/jamiepine/voicebox\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "GitHub",
