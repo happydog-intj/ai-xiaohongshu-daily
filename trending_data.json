@@ -1,14 +1,22 @@
 {
-  "date": "2026-07-19",
-  "slot": "晚报",
+  "date": "2026-07-20",
+  "slot": "早报",
   "all_repos": [
+    {
+      "name": "bojieli/ai-agent-book",
+      "url": "https://github.com/bojieli/ai-agent-book",
+      "description": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
+      "language": "Python",
+      "stars_today": "1,734 stars today",
+      "stars_total": "5,368"
+    },
     {
       "name": "tirth8205/code-review-graph",
       "url": "https://github.com/tirth8205/code-review-graph",
       "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
       "language": "Python",
       "stars_today": "551 stars today",
-      "stars_total": "20,662"
+      "stars_total": "21,133"
     },
     {
       "name": "kvcache-ai/ktransformers",
@@ -16,7 +24,7 @@
       "description": "A Flexible Framework for Experiencing Heterogeneous LLM Inference/Fine-tune Optimizations",
       "language": "Python",
       "stars_today": "328 stars today",
-      "stars_total": "18,200"
+      "stars_total": "18,346"
     },
     {
       "name": "rohitg00/ai-engineering-from-scratch",
@@ -24,7 +32,7 @@
       "description": "Learn it. Build it. Ship it for others.",
       "language": "Python",
       "stars_today": "507 stars today",
-      "stars_total": "39,416"
+      "stars_total": "39,631"
     },
     {
       "name": "jamiepine/voicebox",
@@ -32,7 +40,7 @@
       "description": "The open-source AI voice studio. Clone, dictate, create.",
       "language": "TypeScript",
       "stars_today": "629 stars today",
-      "stars_total": "43,064"
+      "stars_total": "43,314"
     },
     {
       "name": "KnockOutEZ/wigolo",
@@ -40,23 +48,23 @@
       "description": "The go-to web for your AI coding agent — local-first search, fetch, crawl & research over MCP. No API keys, no cloud, $0/query. Public beta.",
       "language": "TypeScript",
       "stars_today": "605 stars today",
-      "stars_total": "1,596"
+      "stars_total": "1,790"
     },
     {
       "name": "andrewrabert/jellium-desktop",
       "url": "https://github.com/andrewrabert/jellium-desktop",
       "description": "An unofficial desktop client for Jellyfin",
       "language": "Rust",
-      "stars_today": "55 stars today",
-      "stars_total": "1,222"
+      "stars_today": "54 stars today",
+      "stars_total": "1,277"
     },
     {
       "name": "github/copilot-sdk",
       "url": "https://github.com/github/copilot-sdk",
       "description": "Multi-platform SDK for integrating GitHub Copilot Agent into apps and services",
       "language": "Java",
-      "stars_today": "111 stars today",
-      "stars_total": "9,901"
+      "stars_today": "46 stars today",
+      "stars_total": "9,948"
     },
     {
       "name": "PostHog/posthog",
@@ -64,33 +72,33 @@
       "description": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
       "language": "Python",
       "stars_today": "424 stars today",
-      "stars_total": "36,800"
+      "stars_total": "36,921"
     },
     {
       "name": "microsoft/terminal",
       "url": "https://github.com/microsoft/terminal",
       "description": "The new Windows Terminal and the original Windows console host, all in the same place!",
       "language": "C++",
-      "stars_today": "13 stars today",
-      "stars_total": "104,046"
-    },
-    {
-      "name": "AstrBotDevs/AstrBot",
-      "url": "https://github.com/AstrBotDevs/AstrBot",
-      "description": "AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨",
-      "language": "Python",
-      "stars_today": "62 stars today",
-      "stars_total": "36,610"
+      "stars_today": "103 stars today",
+      "stars_total": "104,162"
     }
   ],
   "ai_repos": [
+    {
+      "name": "bojieli/ai-agent-book",
+      "url": "https://github.com/bojieli/ai-agent-book",
+      "description": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
+      "language": "Python",
+      "stars_today": "1,734 stars today",
+      "stars_total": "5,368"
+    },
     {
       "name": "tirth8205/code-review-graph",
       "url": "https://github.com/tirth8205/code-review-graph",
       "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
       "language": "Python",
       "stars_today": "551 stars today",
-      "stars_total": "20,662"
+      "stars_total": "21,133"
     },
     {
       "name": "kvcache-ai/ktransformers",
@@ -98,7 +106,7 @@
       "description": "A Flexible Framework for Experiencing Heterogeneous LLM Inference/Fine-tune Optimizations",
       "language": "Python",
       "stars_today": "328 stars today",
-      "stars_total": "18,200"
+      "stars_total": "18,346"
     },
     {
       "name": "rohitg00/ai-engineering-from-scratch",
@@ -106,7 +114,7 @@
       "description": "Learn it. Build it. Ship it for others.",
       "language": "Python",
       "stars_today": "507 stars today",
-      "stars_total": "39,416"
+      "stars_total": "39,631"
     },
     {
       "name": "jamiepine/voicebox",
@@ -114,7 +122,7 @@
       "description": "The open-source AI voice studio. Clone, dictate, create.",
       "language": "TypeScript",
       "stars_today": "629 stars today",
-      "stars_total": "43,064"
+      "stars_total": "43,314"
     },
     {
       "name": "KnockOutEZ/wigolo",
@@ -122,15 +130,15 @@
       "description": "The go-to web for your AI coding agent — local-first search, fetch, crawl & research over MCP. No API keys, no cloud, $0/query. Public beta.",
       "language": "TypeScript",
       "stars_today": "605 stars today",
-      "stars_total": "1,596"
+      "stars_total": "1,790"
     },
     {
       "name": "github/copilot-sdk",
       "url": "https://github.com/github/copilot-sdk",
       "description": "Multi-platform SDK for integrating GitHub Copilot Agent into apps and services",
       "language": "Java",
-      "stars_today": "111 stars today",
-      "stars_total": "9,901"
+      "stars_today": "46 stars today",
+      "stars_total": "9,948"
     },
     {
       "name": "PostHog/posthog",
@@ -138,18 +146,29 @@
       "description": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
       "language": "Python",
       "stars_today": "424 stars today",
-      "stars_total": "36,800"
-    },
-    {
-      "name": "AstrBotDevs/AstrBot",
-      "url": "https://github.com/AstrBotDevs/AstrBot",
-      "description": "AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨",
-      "language": "Python",
-      "stars_today": "62 stars today",
-      "stars_total": "36,610"
+      "stars_total": "36,921"
     }
   ],
   "posts": [
+    {
+      "topic": "ai-agent-book",
+      "repo": "bojieli/ai-agent-book",
+      "cover_line1": "ai-agent-b",
+      "cover_line2": "今日 GitHub 热榜！",
+      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**bojieli/ai-agent-book**\n\n📌 《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码\n\n🔗 https://github.com/bojieli/ai-agent-book\n\n关注我，每天第一时间 AI 动态 👇",
+      "tags": [
+        "AI",
+        "GitHub",
+        "开源",
+        "热门项目",
+        "大模型",
+        "机器学习",
+        "深度学习",
+        "AI工具",
+        "技术",
+        "炼丹"
+      ]
+    },
     {
       "topic": "code-review-graph",
       "repo": "tirth8205/code-review-graph",
@@ -206,32 +225,13 @@
         "技术",
         "炼丹"
       ]
-    },
-    {
-      "topic": "voicebox",
-      "repo": "jamiepine/voicebox",
-      "cover_line1": "voicebox",
-      "cover_line2": "今日 GitHub 热榜！",
-      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**jamiepine/voicebox**\n\n📌 The open-source AI voice studio. Clone, dictate, create.\n\n🔗 https://github.com/jamiepine/voicebox\n\n关注我，每天第一时间 AI 动态 👇",
-      "tags": [
-        "AI",
-        "GitHub",
-        "开源",
-        "热门项目",
-        "大模型",
-        "机器学习",
-        "深度学习",
-        "AI工具",
-        "技术",
-        "炼丹"
-      ]
     }
   ],
   "image_paths": [
-    "assets/2026-07-19/trending/summary.png",
-    "assets/2026-07-19/trending/post1.png",
-    "assets/2026-07-19/trending/post2.png",
-    "assets/2026-07-19/trending/post3.png",
-    "assets/2026-07-19/trending/post4.png"
+    "assets/2026-07-20/trending/summary.png",
+    "assets/2026-07-20/trending/post1.png",
+    "assets/2026-07-20/trending/post2.png",
+    "assets/2026-07-20/trending/post3.png",
+    "assets/2026-07-20/trending/post4.png"
   ]
 }
