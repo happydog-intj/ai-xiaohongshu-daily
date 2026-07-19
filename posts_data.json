@@ -1,11 +1,11 @@
 {
-  "date": "2026-07-19",
+  "date": "2026-07-20",
   "posts": [
     {
-      "topic": "GPT-5.6 used a promp",
-      "cover_line1": "GPT-5.6 us",
+      "topic": "AI advice made peopl",
+      "cover_line1": "AI advice ",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**GPT-5.6 used a prompt to close a 30-year gap in convex optimization**\n\n📌 来源：HackerNews\n🔗 https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**AI advice made people 3x less accurate but 2x confident, researchers found**\n\n📌 来源：HackerNews\n🔗 https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -20,10 +20,10 @@
       ]
     },
     {
-      "topic": "Fable 5 vs. GPT-5.6 ",
-      "cover_line1": "Fable 5 vs",
+      "topic": "Claude Code uses Bun",
+      "cover_line1": "Claude Cod",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?**\n\n📌 来源：HackerNews\n🔗 https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal/\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Claude Code uses Bun written in Rust now**\n\n📌 来源：HackerNews\n🔗 https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -38,10 +38,10 @@
       ]
     },
     {
-      "topic": "Mayor Mamdani Says L",
-      "cover_line1": "Mayor Mamd",
+      "topic": "Talk: The Art of Bra",
+      "cover_line1": "Talk: The ",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Mayor Mamdani Says Landlords Can't Use AI Images to Advertise**\n\n📌 来源：HackerNews\n🔗 https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Talk: The Art of Braiding Algorithms**\n\n📌 来源：HackerNews\n🔗 https://pgadey.ca/notes/talk-relatorium-2026/\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -56,10 +56,10 @@
       ]
     },
     {
-      "topic": "Our Approach to Bior",
-      "cover_line1": "Our Approa",
+      "topic": "OpenAI reduces Codex",
+      "cover_line1": "OpenAI red",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Our Approach to Bioresilience: Isomorphic Labs and Google DeepMind**\n\n📌 来源：HackerNews\n🔗 https://deepmind.google/blog/our-approach-to-bioresilience/\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**OpenAI reduces Codex Model Context Size from 372k to 272k**\n\n📌 来源：HackerNews\n🔗 https://github.com/openai/codex/pull/33972/files\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -75,15 +75,15 @@
     }
   ],
   "image_paths": [
-    "assets/2026-07-19/cover1.png",
-    "assets/2026-07-19/cover2.png",
-    "assets/2026-07-19/cover3.png",
-    "assets/2026-07-19/cover4.png"
+    "assets/2026-07-20/cover1.png",
+    "assets/2026-07-20/cover2.png",
+    "assets/2026-07-20/cover3.png",
+    "assets/2026-07-20/cover4.png"
   ],
   "feishu_image_paths": [
-    "assets/2026-07-19/cover1_feishu.png",
-    "assets/2026-07-19/cover2_feishu.png",
-    "assets/2026-07-19/cover3_feishu.png",
-    "assets/2026-07-19/cover4_feishu.png"
+    "assets/2026-07-20/cover1_feishu.png",
+    "assets/2026-07-20/cover2_feishu.png",
+    "assets/2026-07-20/cover3_feishu.png",
+    "assets/2026-07-20/cover4_feishu.png"
   ]
 }
