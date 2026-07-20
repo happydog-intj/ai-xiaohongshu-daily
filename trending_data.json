@@ -1,6 +1,6 @@
 {
-  "date": "2026-07-20",
-  "slot": "晚报",
+  "date": "2026-07-21",
+  "slot": "早报",
   "all_repos": [
     {
       "name": "tirth8205/code-review-graph",
@@ -8,7 +8,7 @@
       "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
       "language": "Python",
       "stars_today": "1,876 stars today",
-      "stars_total": "22,585"
+      "stars_total": "23,090"
     },
     {
       "name": "1jehuang/jcode",
@@ -16,15 +16,15 @@
       "description": "The most intelligent agent harness for code",
       "language": "Rust",
       "stars_today": "612 stars today",
-      "stars_total": "9,352"
+      "stars_total": "9,608"
     },
     {
       "name": "diegosouzapw/OmniRoute",
       "url": "https://github.com/diegosouzapw/OmniRoute",
       "description": "Never stop coding. Free MIT AI gateway: one endpoint, 268+ providers (50+ free), 500+ models — Claude, GPT, Gemini, Kimi K3, GLM, DeepSeek. Works with Claude Code, Codex, Cursor, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, multimodal, Desktop/PWA. Built by 500+ contributors.",
       "language": "TypeScript",
-      "stars_today": "1,343 stars today",
-      "stars_total": "21,011"
+      "stars_today": "1,300 stars today",
+      "stars_total": "21,749"
     },
     {
       "name": "rohitg00/ai-engineering-from-scratch",
@@ -32,15 +32,15 @@
       "description": "Learn it. Build it. Ship it for others.",
       "language": "Python",
       "stars_today": "846 stars today",
-      "stars_total": "40,287"
+      "stars_total": "40,497"
     },
     {
       "name": "msitarzewski/agency-agents",
       "url": "https://github.com/msitarzewski/agency-agents",
       "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
       "language": "Shell",
-      "stars_today": "949 stars today",
-      "stars_total": "134,476"
+      "stars_today": "744 stars today",
+      "stars_total": "134,686"
     },
     {
       "name": "kvcache-ai/ktransformers",
@@ -48,7 +48,7 @@
       "description": "A Flexible Framework for Experiencing Heterogeneous LLM Inference/Fine-tune Optimizations",
       "language": "Python",
       "stars_today": "448 stars today",
-      "stars_total": "18,645"
+      "stars_total": "18,726"
     },
     {
       "name": "jamiepine/voicebox",
@@ -56,31 +56,31 @@
       "description": "The open-source AI voice studio. Clone, dictate, create.",
       "language": "TypeScript",
       "stars_today": "839 stars today",
-      "stars_total": "43,928"
+      "stars_total": "44,140"
     },
     {
       "name": "topoteretes/cognee",
       "url": "https://github.com/topoteretes/cognee",
       "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted knowledge graph engine.",
       "language": "Python",
-      "stars_today": "303 stars today",
-      "stars_total": "28,632"
+      "stars_today": "249 stars today",
+      "stars_total": "28,773"
     },
     {
       "name": "Robbyant/lingbot-map",
       "url": "https://github.com/Robbyant/lingbot-map",
       "description": "A feed-forward 3D foundation model for reconstructing scenes from streaming data",
       "language": "Python",
-      "stars_today": "865 stars today",
-      "stars_total": "13,999"
+      "stars_today": "554 stars today",
+      "stars_total": "14,202"
     },
     {
       "name": "every-app/open-seo",
       "url": "https://github.com/every-app/open-seo",
       "description": "Open source alternative to Semrush and Ahrefs",
       "language": "TypeScript",
-      "stars_today": "222 stars today",
-      "stars_total": "5,528"
+      "stars_today": "983 stars today",
+      "stars_total": "5,827"
     }
   ],
   "ai_repos": [
@@ -90,7 +90,7 @@
       "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
       "language": "Python",
       "stars_today": "1,876 stars today",
-      "stars_total": "22,585"
+      "stars_total": "23,090"
     },
     {
       "name": "1jehuang/jcode",
@@ -98,15 +98,15 @@
       "description": "The most intelligent agent harness for code",
       "language": "Rust",
       "stars_today": "612 stars today",
-      "stars_total": "9,352"
+      "stars_total": "9,608"
     },
     {
       "name": "diegosouzapw/OmniRoute",
       "url": "https://github.com/diegosouzapw/OmniRoute",
       "description": "Never stop coding. Free MIT AI gateway: one endpoint, 268+ providers (50+ free), 500+ models — Claude, GPT, Gemini, Kimi K3, GLM, DeepSeek. Works with Claude Code, Codex, Cursor, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, multimodal, Desktop/PWA. Built by 500+ contributors.",
       "language": "TypeScript",
-      "stars_today": "1,343 stars today",
-      "stars_total": "21,011"
+      "stars_today": "1,300 stars today",
+      "stars_total": "21,749"
     },
     {
       "name": "rohitg00/ai-engineering-from-scratch",
@@ -114,15 +114,15 @@
       "description": "Learn it. Build it. Ship it for others.",
       "language": "Python",
       "stars_today": "846 stars today",
-      "stars_total": "40,287"
+      "stars_total": "40,497"
     },
     {
       "name": "msitarzewski/agency-agents",
       "url": "https://github.com/msitarzewski/agency-agents",
       "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
       "language": "Shell",
-      "stars_today": "949 stars today",
-      "stars_total": "134,476"
+      "stars_today": "744 stars today",
+      "stars_total": "134,686"
     },
     {
       "name": "kvcache-ai/ktransformers",
@@ -130,7 +130,7 @@
       "description": "A Flexible Framework for Experiencing Heterogeneous LLM Inference/Fine-tune Optimizations",
       "language": "Python",
       "stars_today": "448 stars today",
-      "stars_total": "18,645"
+      "stars_total": "18,726"
     },
     {
       "name": "jamiepine/voicebox",
@@ -138,15 +138,15 @@
       "description": "The open-source AI voice studio. Clone, dictate, create.",
       "language": "TypeScript",
       "stars_today": "839 stars today",
-      "stars_total": "43,928"
+      "stars_total": "44,140"
     },
     {
       "name": "topoteretes/cognee",
       "url": "https://github.com/topoteretes/cognee",
       "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted knowledge graph engine.",
       "language": "Python",
-      "stars_today": "303 stars today",
-      "stars_total": "28,632"
+      "stars_today": "249 stars today",
+      "stars_total": "28,773"
     }
   ],
   "posts": [
@@ -228,10 +228,10 @@
     }
   ],
   "image_paths": [
-    "assets/2026-07-20/trending/summary.png",
-    "assets/2026-07-20/trending/post1.png",
-    "assets/2026-07-20/trending/post2.png",
-    "assets/2026-07-20/trending/post3.png",
-    "assets/2026-07-20/trending/post4.png"
+    "assets/2026-07-21/trending/summary.png",
+    "assets/2026-07-21/trending/post1.png",
+    "assets/2026-07-21/trending/post2.png",
+    "assets/2026-07-21/trending/post3.png",
+    "assets/2026-07-21/trending/post4.png"
   ]
 }
