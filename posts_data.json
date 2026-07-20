@@ -1,11 +1,11 @@
 {
-  "date": "2026-07-20",
+  "date": "2026-07-21",
   "posts": [
     {
-      "topic": "AI advice made peopl",
-      "cover_line1": "AI advice ",
+      "topic": "China’s open-weights",
+      "cover_line1": "China’s op",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**AI advice made people 3x less accurate but 2x confident, researchers found**\n\n📌 来源：HackerNews\n🔗 https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**China’s open-weights AI strategy is winning**\n\n📌 来源：HackerNews\n🔗 https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -20,10 +20,10 @@
       ]
     },
     {
-      "topic": "Claude Code uses Bun",
-      "cover_line1": "Claude Cod",
+      "topic": "Who's Afraid of Chin",
+      "cover_line1": "Who's Afra",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Claude Code uses Bun written in Rust now**\n\n📌 来源：HackerNews\n🔗 https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Who's Afraid of Chinese Models?**\n\n📌 来源：HackerNews\n🔗 https://stratechery.com/2026/whos-afraid-of-chinese-models/\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -38,10 +38,10 @@
       ]
     },
     {
-      "topic": "Talk: The Art of Bra",
-      "cover_line1": "Talk: The ",
+      "topic": "Nativ: Run frontier ",
+      "cover_line1": "Nativ: Run",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Talk: The Art of Braiding Algorithms**\n\n📌 来源：HackerNews\n🔗 https://pgadey.ca/notes/talk-relatorium-2026/\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Nativ: Run frontier open models locally on your Mac**\n\n📌 来源：HackerNews\n🔗 https://blaizzy.github.io/nativ/\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -56,10 +56,10 @@
       ]
     },
     {
-      "topic": "OpenAI reduces Codex",
-      "cover_line1": "OpenAI red",
+      "topic": "Airport Simulator",
+      "cover_line1": "Airport Si",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**OpenAI reduces Codex Model Context Size from 372k to 272k**\n\n📌 来源：HackerNews\n🔗 https://github.com/openai/codex/pull/33972/files\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Airport Simulator**\n\n📌 来源：HackerNews\n🔗 https://airport.apunen.com/\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -75,15 +75,15 @@
     }
   ],
   "image_paths": [
-    "assets/2026-07-20/cover1.png",
-    "assets/2026-07-20/cover2.png",
-    "assets/2026-07-20/cover3.png",
-    "assets/2026-07-20/cover4.png"
+    "assets/2026-07-21/cover1.png",
+    "assets/2026-07-21/cover2.png",
+    "assets/2026-07-21/cover3.png",
+    "assets/2026-07-21/cover4.png"
   ],
   "feishu_image_paths": [
-    "assets/2026-07-20/cover1_feishu.png",
-    "assets/2026-07-20/cover2_feishu.png",
-    "assets/2026-07-20/cover3_feishu.png",
-    "assets/2026-07-20/cover4_feishu.png"
+    "assets/2026-07-21/cover1_feishu.png",
+    "assets/2026-07-21/cover2_feishu.png",
+    "assets/2026-07-21/cover3_feishu.png",
+    "assets/2026-07-21/cover4_feishu.png"
   ]
 }
