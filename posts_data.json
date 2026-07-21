@@ -1,11 +1,11 @@
 {
-  "date": "2026-07-21",
+  "date": "2026-07-22",
   "posts": [
     {
-      "topic": "China’s open-weights",
-      "cover_line1": "China’s op",
+      "topic": "OpenAI and Hugging F",
+      "cover_line1": "OpenAI and",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**China’s open-weights AI strategy is winning**\n\n📌 来源：HackerNews\n🔗 https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**OpenAI and Hugging Face address security incident during model evaluation**\n\n📌 来源：HackerNews\n🔗 https://openai.com/index/hugging-face-model-evaluation-security-incident/\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -20,10 +20,10 @@
       ]
     },
     {
-      "topic": "Who's Afraid of Chin",
-      "cover_line1": "Who's Afra",
+      "topic": "Gemini 3.6 Flash, 3.",
+      "cover_line1": "Gemini 3.6",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Who's Afraid of Chinese Models?**\n\n📌 来源：HackerNews\n🔗 https://stratechery.com/2026/whos-afraid-of-chinese-models/\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber**\n\n📌 来源：HackerNews\n🔗 https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -38,10 +38,10 @@
       ]
     },
     {
-      "topic": "Nativ: Run frontier ",
-      "cover_line1": "Nativ: Run",
+      "topic": "\"Drawing\" the Mona L",
+      "cover_line1": "\"Drawing\" ",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Nativ: Run frontier open models locally on your Mac**\n\n📌 来源：HackerNews\n🔗 https://blaizzy.github.io/nativ/\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**\"Drawing\" the Mona Lisa with GPT-5.6, Claude, Gemini, and Grok**\n\n📌 来源：HackerNews\n🔗 https://www.tryai.dev/blog/ai-drawing-arena-colored-pencils-claude-gpt-grok\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -56,10 +56,10 @@
       ]
     },
     {
-      "topic": "Airport Simulator",
-      "cover_line1": "Airport Si",
+      "topic": "Jack Dorsey launches",
+      "cover_line1": "Jack Dorse",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Airport Simulator**\n\n📌 来源：HackerNews\n🔗 https://airport.apunen.com/\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Jack Dorsey launches Buzz to combine team chat, AI agents and Git hosting**\n\n📌 来源：HackerNews\n🔗 https://runtimewire.com/article/jack-dorsey-block-buzz-team-chat-ai-agents-git\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -75,15 +75,15 @@
     }
   ],
   "image_paths": [
-    "assets/2026-07-21/cover1.png",
-    "assets/2026-07-21/cover2.png",
-    "assets/2026-07-21/cover3.png",
-    "assets/2026-07-21/cover4.png"
+    "assets/2026-07-22/cover1.png",
+    "assets/2026-07-22/cover2.png",
+    "assets/2026-07-22/cover3.png",
+    "assets/2026-07-22/cover4.png"
   ],
   "feishu_image_paths": [
-    "assets/2026-07-21/cover1_feishu.png",
-    "assets/2026-07-21/cover2_feishu.png",
-    "assets/2026-07-21/cover3_feishu.png",
-    "assets/2026-07-21/cover4_feishu.png"
+    "assets/2026-07-22/cover1_feishu.png",
+    "assets/2026-07-22/cover2_feishu.png",
+    "assets/2026-07-22/cover3_feishu.png",
+    "assets/2026-07-22/cover4_feishu.png"
   ]
 }
