@@ -1,6 +1,6 @@
 {
-  "date": "2026-07-21",
-  "slot": "晚报",
+  "date": "2026-07-22",
+  "slot": "早报",
   "all_repos": [
     {
       "name": "koala73/worldmonitor",
@@ -8,7 +8,7 @@
       "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
       "language": "TypeScript",
       "stars_today": "1,167 stars today",
-      "stars_total": "63,987"
+      "stars_total": "65,288"
     },
     {
       "name": "bojieli/ai-agent-book",
@@ -16,7 +16,7 @@
       "description": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
       "language": "Python",
       "stars_today": "4,434 stars today",
-      "stars_total": "13,750"
+      "stars_total": "14,338"
     },
     {
       "name": "tirth8205/code-review-graph",
@@ -24,7 +24,7 @@
       "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
       "language": "Python",
       "stars_today": "1,921 stars today",
-      "stars_total": "24,292"
+      "stars_total": "24,512"
     },
     {
       "name": "ayghri/i-have-adhd",
@@ -32,15 +32,15 @@
       "description": "A skill for your coding agent to stop it from burying the answer. ADHD-friendly output.",
       "language": "",
       "stars_today": "1,846 stars today",
-      "stars_total": "6,236"
+      "stars_total": "6,802"
     },
     {
       "name": "earthtojake/text-to-cad",
       "url": "https://github.com/earthtojake/text-to-cad",
       "description": "A collection of agent skills for CAD, robotics and hardware design",
       "language": "JavaScript",
-      "stars_today": "297 stars today",
-      "stars_total": "8,873"
+      "stars_today": "378 stars today",
+      "stars_total": "9,080"
     },
     {
       "name": "1jehuang/jcode",
@@ -48,7 +48,7 @@
       "description": "The most intelligent agent harness for code",
       "language": "Rust",
       "stars_today": "835 stars today",
-      "stars_total": "10,117"
+      "stars_total": "10,287"
     },
     {
       "name": "oblien/openship",
@@ -56,7 +56,7 @@
       "description": "Self-hosted deployment platform",
       "language": "TypeScript",
       "stars_today": "1,556 stars today",
-      "stars_total": "5,678"
+      "stars_total": "6,181"
     },
     {
       "name": "AstrBotDevs/AstrBot",
@@ -64,7 +64,7 @@
       "description": "AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨",
       "language": "Python",
       "stars_today": "416 stars today",
-      "stars_total": "37,351"
+      "stars_total": "37,447"
     },
     {
       "name": "every-app/open-seo",
@@ -72,15 +72,15 @@
       "description": "Open source alternative to Semrush and Ahrefs",
       "language": "TypeScript",
       "stars_today": "850 stars today",
-      "stars_total": "6,358"
+      "stars_total": "6,569"
     },
     {
       "name": "tradesdontlie/tradingview-mcp",
       "url": "https://github.com/tradesdontlie/tradingview-mcp",
       "description": "AI-assisted TradingView chart analysis — connect Claude Code to your TradingView Desktop for personal workflow automation",
       "language": "JavaScript",
-      "stars_today": "28 stars today",
-      "stars_total": "4,670"
+      "stars_today": "219 stars today",
+      "stars_total": "4,824"
     }
   ],
   "ai_repos": [
@@ -90,7 +90,7 @@
       "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
       "language": "TypeScript",
       "stars_today": "1,167 stars today",
-      "stars_total": "63,987"
+      "stars_total": "65,288"
     },
     {
       "name": "bojieli/ai-agent-book",
@@ -98,7 +98,7 @@
       "description": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
       "language": "Python",
       "stars_today": "4,434 stars today",
-      "stars_total": "13,750"
+      "stars_total": "14,338"
     },
     {
       "name": "tirth8205/code-review-graph",
@@ -106,7 +106,7 @@
       "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
       "language": "Python",
       "stars_today": "1,921 stars today",
-      "stars_total": "24,292"
+      "stars_total": "24,512"
     },
     {
       "name": "ayghri/i-have-adhd",
@@ -114,15 +114,15 @@
       "description": "A skill for your coding agent to stop it from burying the answer. ADHD-friendly output.",
       "language": "",
       "stars_today": "1,846 stars today",
-      "stars_total": "6,236"
+      "stars_total": "6,802"
     },
     {
       "name": "earthtojake/text-to-cad",
       "url": "https://github.com/earthtojake/text-to-cad",
       "description": "A collection of agent skills for CAD, robotics and hardware design",
       "language": "JavaScript",
-      "stars_today": "297 stars today",
-      "stars_total": "8,873"
+      "stars_today": "378 stars today",
+      "stars_total": "9,080"
     },
     {
       "name": "1jehuang/jcode",
@@ -130,7 +130,7 @@
       "description": "The most intelligent agent harness for code",
       "language": "Rust",
       "stars_today": "835 stars today",
-      "stars_total": "10,117"
+      "stars_total": "10,287"
     },
     {
       "name": "AstrBotDevs/AstrBot",
@@ -138,15 +138,15 @@
       "description": "AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨",
       "language": "Python",
       "stars_today": "416 stars today",
-      "stars_total": "37,351"
+      "stars_total": "37,447"
     },
     {
       "name": "tradesdontlie/tradingview-mcp",
       "url": "https://github.com/tradesdontlie/tradingview-mcp",
       "description": "AI-assisted TradingView chart analysis — connect Claude Code to your TradingView Desktop for personal workflow automation",
       "language": "JavaScript",
-      "stars_today": "28 stars today",
-      "stars_total": "4,670"
+      "stars_today": "219 stars today",
+      "stars_total": "4,824"
     }
   ],
   "posts": [
@@ -228,10 +228,10 @@
     }
   ],
   "image_paths": [
-    "assets/2026-07-21/trending/summary.png",
-    "assets/2026-07-21/trending/post1.png",
-    "assets/2026-07-21/trending/post2.png",
-    "assets/2026-07-21/trending/post3.png",
-    "assets/2026-07-21/trending/post4.png"
+    "assets/2026-07-22/trending/summary.png",
+    "assets/2026-07-22/trending/post1.png",
+    "assets/2026-07-22/trending/post2.png",
+    "assets/2026-07-22/trending/post3.png",
+    "assets/2026-07-22/trending/post4.png"
   ]
 }
