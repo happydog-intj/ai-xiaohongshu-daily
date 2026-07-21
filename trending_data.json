@@ -1,155 +1,193 @@
 {
   "date": "2026-07-21",
-  "slot": "早报",
+  "slot": "晚报",
   "all_repos": [
+    {
+      "name": "koala73/worldmonitor",
+      "url": "https://github.com/koala73/worldmonitor",
+      "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+      "language": "TypeScript",
+      "stars_today": "1,167 stars today",
+      "stars_total": "63,987"
+    },
+    {
+      "name": "bojieli/ai-agent-book",
+      "url": "https://github.com/bojieli/ai-agent-book",
+      "description": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
+      "language": "Python",
+      "stars_today": "4,434 stars today",
+      "stars_total": "13,750"
+    },
     {
       "name": "tirth8205/code-review-graph",
       "url": "https://github.com/tirth8205/code-review-graph",
       "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
       "language": "Python",
-      "stars_today": "1,876 stars today",
-      "stars_total": "23,090"
+      "stars_today": "1,921 stars today",
+      "stars_total": "24,292"
+    },
+    {
+      "name": "ayghri/i-have-adhd",
+      "url": "https://github.com/ayghri/i-have-adhd",
+      "description": "A skill for your coding agent to stop it from burying the answer. ADHD-friendly output.",
+      "language": "",
+      "stars_today": "1,846 stars today",
+      "stars_total": "6,236"
+    },
+    {
+      "name": "earthtojake/text-to-cad",
+      "url": "https://github.com/earthtojake/text-to-cad",
+      "description": "A collection of agent skills for CAD, robotics and hardware design",
+      "language": "JavaScript",
+      "stars_today": "297 stars today",
+      "stars_total": "8,873"
     },
     {
       "name": "1jehuang/jcode",
       "url": "https://github.com/1jehuang/jcode",
       "description": "The most intelligent agent harness for code",
       "language": "Rust",
-      "stars_today": "612 stars today",
-      "stars_total": "9,608"
+      "stars_today": "835 stars today",
+      "stars_total": "10,117"
     },
     {
-      "name": "diegosouzapw/OmniRoute",
-      "url": "https://github.com/diegosouzapw/OmniRoute",
-      "description": "Never stop coding. Free MIT AI gateway: one endpoint, 268+ providers (50+ free), 500+ models — Claude, GPT, Gemini, Kimi K3, GLM, DeepSeek. Works with Claude Code, Codex, Cursor, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, multimodal, Desktop/PWA. Built by 500+ contributors.",
+      "name": "oblien/openship",
+      "url": "https://github.com/oblien/openship",
+      "description": "Self-hosted deployment platform",
       "language": "TypeScript",
-      "stars_today": "1,300 stars today",
-      "stars_total": "21,749"
+      "stars_today": "1,556 stars today",
+      "stars_total": "5,678"
     },
     {
-      "name": "rohitg00/ai-engineering-from-scratch",
-      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-      "description": "Learn it. Build it. Ship it for others.",
+      "name": "AstrBotDevs/AstrBot",
+      "url": "https://github.com/AstrBotDevs/AstrBot",
+      "description": "AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨",
       "language": "Python",
-      "stars_today": "846 stars today",
-      "stars_total": "40,497"
-    },
-    {
-      "name": "msitarzewski/agency-agents",
-      "url": "https://github.com/msitarzewski/agency-agents",
-      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
-      "language": "Shell",
-      "stars_today": "744 stars today",
-      "stars_total": "134,686"
-    },
-    {
-      "name": "kvcache-ai/ktransformers",
-      "url": "https://github.com/kvcache-ai/ktransformers",
-      "description": "A Flexible Framework for Experiencing Heterogeneous LLM Inference/Fine-tune Optimizations",
-      "language": "Python",
-      "stars_today": "448 stars today",
-      "stars_total": "18,726"
-    },
-    {
-      "name": "jamiepine/voicebox",
-      "url": "https://github.com/jamiepine/voicebox",
-      "description": "The open-source AI voice studio. Clone, dictate, create.",
-      "language": "TypeScript",
-      "stars_today": "839 stars today",
-      "stars_total": "44,140"
-    },
-    {
-      "name": "topoteretes/cognee",
-      "url": "https://github.com/topoteretes/cognee",
-      "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted knowledge graph engine.",
-      "language": "Python",
-      "stars_today": "249 stars today",
-      "stars_total": "28,773"
-    },
-    {
-      "name": "Robbyant/lingbot-map",
-      "url": "https://github.com/Robbyant/lingbot-map",
-      "description": "A feed-forward 3D foundation model for reconstructing scenes from streaming data",
-      "language": "Python",
-      "stars_today": "554 stars today",
-      "stars_total": "14,202"
+      "stars_today": "416 stars today",
+      "stars_total": "37,351"
     },
     {
       "name": "every-app/open-seo",
       "url": "https://github.com/every-app/open-seo",
       "description": "Open source alternative to Semrush and Ahrefs",
       "language": "TypeScript",
-      "stars_today": "983 stars today",
-      "stars_total": "5,827"
+      "stars_today": "850 stars today",
+      "stars_total": "6,358"
+    },
+    {
+      "name": "tradesdontlie/tradingview-mcp",
+      "url": "https://github.com/tradesdontlie/tradingview-mcp",
+      "description": "AI-assisted TradingView chart analysis — connect Claude Code to your TradingView Desktop for personal workflow automation",
+      "language": "JavaScript",
+      "stars_today": "28 stars today",
+      "stars_total": "4,670"
     }
   ],
   "ai_repos": [
+    {
+      "name": "koala73/worldmonitor",
+      "url": "https://github.com/koala73/worldmonitor",
+      "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+      "language": "TypeScript",
+      "stars_today": "1,167 stars today",
+      "stars_total": "63,987"
+    },
+    {
+      "name": "bojieli/ai-agent-book",
+      "url": "https://github.com/bojieli/ai-agent-book",
+      "description": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
+      "language": "Python",
+      "stars_today": "4,434 stars today",
+      "stars_total": "13,750"
+    },
     {
       "name": "tirth8205/code-review-graph",
       "url": "https://github.com/tirth8205/code-review-graph",
       "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
       "language": "Python",
-      "stars_today": "1,876 stars today",
-      "stars_total": "23,090"
+      "stars_today": "1,921 stars today",
+      "stars_total": "24,292"
+    },
+    {
+      "name": "ayghri/i-have-adhd",
+      "url": "https://github.com/ayghri/i-have-adhd",
+      "description": "A skill for your coding agent to stop it from burying the answer. ADHD-friendly output.",
+      "language": "",
+      "stars_today": "1,846 stars today",
+      "stars_total": "6,236"
+    },
+    {
+      "name": "earthtojake/text-to-cad",
+      "url": "https://github.com/earthtojake/text-to-cad",
+      "description": "A collection of agent skills for CAD, robotics and hardware design",
+      "language": "JavaScript",
+      "stars_today": "297 stars today",
+      "stars_total": "8,873"
     },
     {
       "name": "1jehuang/jcode",
       "url": "https://github.com/1jehuang/jcode",
       "description": "The most intelligent agent harness for code",
       "language": "Rust",
-      "stars_today": "612 stars today",
-      "stars_total": "9,608"
+      "stars_today": "835 stars today",
+      "stars_total": "10,117"
     },
     {
-      "name": "diegosouzapw/OmniRoute",
-      "url": "https://github.com/diegosouzapw/OmniRoute",
-      "description": "Never stop coding. Free MIT AI gateway: one endpoint, 268+ providers (50+ free), 500+ models — Claude, GPT, Gemini, Kimi K3, GLM, DeepSeek. Works with Claude Code, Codex, Cursor, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, multimodal, Desktop/PWA. Built by 500+ contributors.",
-      "language": "TypeScript",
-      "stars_today": "1,300 stars today",
-      "stars_total": "21,749"
-    },
-    {
-      "name": "rohitg00/ai-engineering-from-scratch",
-      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-      "description": "Learn it. Build it. Ship it for others.",
+      "name": "AstrBotDevs/AstrBot",
+      "url": "https://github.com/AstrBotDevs/AstrBot",
+      "description": "AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨",
       "language": "Python",
-      "stars_today": "846 stars today",
-      "stars_total": "40,497"
+      "stars_today": "416 stars today",
+      "stars_total": "37,351"
     },
     {
-      "name": "msitarzewski/agency-agents",
-      "url": "https://github.com/msitarzewski/agency-agents",
-      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
-      "language": "Shell",
-      "stars_today": "744 stars today",
-      "stars_total": "134,686"
-    },
-    {
-      "name": "kvcache-ai/ktransformers",
-      "url": "https://github.com/kvcache-ai/ktransformers",
-      "description": "A Flexible Framework for Experiencing Heterogeneous LLM Inference/Fine-tune Optimizations",
-      "language": "Python",
-      "stars_today": "448 stars today",
-      "stars_total": "18,726"
-    },
-    {
-      "name": "jamiepine/voicebox",
-      "url": "https://github.com/jamiepine/voicebox",
-      "description": "The open-source AI voice studio. Clone, dictate, create.",
-      "language": "TypeScript",
-      "stars_today": "839 stars today",
-      "stars_total": "44,140"
-    },
-    {
-      "name": "topoteretes/cognee",
-      "url": "https://github.com/topoteretes/cognee",
-      "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted knowledge graph engine.",
-      "language": "Python",
-      "stars_today": "249 stars today",
-      "stars_total": "28,773"
+      "name": "tradesdontlie/tradingview-mcp",
+      "url": "https://github.com/tradesdontlie/tradingview-mcp",
+      "description": "AI-assisted TradingView chart analysis — connect Claude Code to your TradingView Desktop for personal workflow automation",
+      "language": "JavaScript",
+      "stars_today": "28 stars today",
+      "stars_total": "4,670"
     }
   ],
   "posts": [
+    {
+      "topic": "worldmonitor",
+      "repo": "koala73/worldmonitor",
+      "cover_line1": "worldmonit",
+      "cover_line2": "今日 GitHub 热榜！",
+      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**koala73/worldmonitor**\n\n📌 Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface\n\n🔗 https://github.com/koala73/worldmonitor\n\n关注我，每天第一时间 AI 动态 👇",
+      "tags": [
+        "AI",
+        "GitHub",
+        "开源",
+        "热门项目",
+        "大模型",
+        "机器学习",
+        "深度学习",
+        "AI工具",
+        "技术",
+        "炼丹"
+      ]
+    },
+    {
+      "topic": "ai-agent-book",
+      "repo": "bojieli/ai-agent-book",
+      "cover_line1": "ai-agent-b",
+      "cover_line2": "今日 GitHub 热榜！",
+      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**bojieli/ai-agent-book**\n\n📌 《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码\n\n🔗 https://github.com/bojieli/ai-agent-book\n\n关注我，每天第一时间 AI 动态 👇",
+      "tags": [
+        "AI",
+        "GitHub",
+        "开源",
+        "热门项目",
+        "大模型",
+        "机器学习",
+        "深度学习",
+        "AI工具",
+        "技术",
+        "炼丹"
+      ]
+    },
     {
       "topic": "code-review-graph",
       "repo": "tirth8205/code-review-graph",
@@ -170,49 +208,11 @@
       ]
     },
     {
-      "topic": "jcode",
-      "repo": "1jehuang/jcode",
-      "cover_line1": "jcode",
+      "topic": "i-have-adhd",
+      "repo": "ayghri/i-have-adhd",
+      "cover_line1": "i-have-adh",
       "cover_line2": "今日 GitHub 热榜！",
-      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**1jehuang/jcode**\n\n📌 The most intelligent agent harness for code\n\n🔗 https://github.com/1jehuang/jcode\n\n关注我，每天第一时间 AI 动态 👇",
-      "tags": [
-        "AI",
-        "GitHub",
-        "开源",
-        "热门项目",
-        "大模型",
-        "机器学习",
-        "深度学习",
-        "AI工具",
-        "技术",
-        "炼丹"
-      ]
-    },
-    {
-      "topic": "OmniRoute",
-      "repo": "diegosouzapw/OmniRoute",
-      "cover_line1": "OmniRoute",
-      "cover_line2": "今日 GitHub 热榜！",
-      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**diegosouzapw/OmniRoute**\n\n📌 Never stop coding. Free MIT AI gateway: one endpoint, 268+ providers (50+ free), 500+ models — Claude, GPT, Gemini, Kimi K3, GLM, DeepSeek. Works with Claude Code, Codex, Cursor, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, multimodal, Desktop/PWA. Built by 500+ contributors.\n\n🔗 https://github.com/diegosouzapw/OmniRoute\n\n关注我，每天第一时间 AI 动态 👇",
-      "tags": [
-        "AI",
-        "GitHub",
-        "开源",
-        "热门项目",
-        "大模型",
-        "机器学习",
-        "深度学习",
-        "AI工具",
-        "技术",
-        "炼丹"
-      ]
-    },
-    {
-      "topic": "ai-engineering-from-",
-      "repo": "rohitg00/ai-engineering-from-scratch",
-      "cover_line1": "ai-enginee",
-      "cover_line2": "今日 GitHub 热榜！",
-      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**rohitg00/ai-engineering-from-scratch**\n\n📌 Learn it. Build it. Ship it for others.\n\n🔗 https://github.com/rohitg00/ai-engineering-from-scratch\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**ayghri/i-have-adhd**\n\n📌 A skill for your coding agent to stop it from burying the answer. ADHD-friendly output.\n\n🔗 https://github.com/ayghri/i-have-adhd\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "GitHub",
