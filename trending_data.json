@@ -1,6 +1,6 @@
 {
-  "date": "2026-07-22",
-  "slot": "晚报",
+  "date": "2026-07-23",
+  "slot": "早报",
   "all_repos": [
     {
       "name": "koala73/worldmonitor",
@@ -8,15 +8,15 @@
       "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
       "language": "TypeScript",
       "stars_today": "4,131 stars today",
-      "stars_total": "67,934"
+      "stars_total": "68,882"
     },
     {
       "name": "ruvnet/RuView",
       "url": "https://github.com/ruvnet/RuView",
       "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
       "language": "Rust",
-      "stars_today": "1,114 stars today",
-      "stars_total": "83,227"
+      "stars_today": "875 stars today",
+      "stars_total": "83,758"
     },
     {
       "name": "ayghri/i-have-adhd",
@@ -24,7 +24,7 @@
       "description": "A skill for your coding agent to stop it from burying the answer. ADHD-friendly output.",
       "language": "Python",
       "stars_today": "1,682 stars today",
-      "stars_total": "7,803"
+      "stars_total": "8,244"
     },
     {
       "name": "schollz/croc",
@@ -32,15 +32,15 @@
       "description": "Easily and securely send things from one computer to another 🐊 📦",
       "language": "Go",
       "stars_today": "737 stars today",
-      "stars_total": "37,301"
+      "stars_total": "37,548"
     },
     {
       "name": "likec4/likec4",
       "url": "https://github.com/likec4/likec4",
       "description": "Visualize, collaborate, and evolve the software architecture with always actual and live diagrams from your code",
       "language": "TypeScript",
-      "stars_today": "58 stars today",
-      "stars_total": "4,132"
+      "stars_today": "172 stars today",
+      "stars_total": "4,264"
     },
     {
       "name": "chrislgarry/Apollo-11",
@@ -48,7 +48,7 @@
       "description": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
       "language": "Assembly",
       "stars_today": "766 stars today",
-      "stars_total": "70,389"
+      "stars_total": "70,583"
     },
     {
       "name": "jamiepine/voicebox",
@@ -56,7 +56,7 @@
       "description": "The open-source AI voice studio. Clone, dictate, create.",
       "language": "TypeScript",
       "stars_today": "565 stars today",
-      "stars_total": "45,493"
+      "stars_total": "45,737"
     },
     {
       "name": "diegosouzapw/OmniRoute",
@@ -64,7 +64,7 @@
       "description": "Never stop coding. Free MIT AI gateway: one endpoint, 268+ providers (50+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors",
       "language": "TypeScript",
       "stars_today": "1,648 stars today",
-      "stars_total": "24,585"
+      "stars_total": "25,211"
     },
     {
       "name": "shiyu-coder/Kronos",
@@ -72,7 +72,7 @@
       "description": "Kronos: A Foundation Model for the Language of Financial Markets",
       "language": "Python",
       "stars_today": "134 stars today",
-      "stars_total": "32,476"
+      "stars_total": "32,587"
     },
     {
       "name": "ComposioHQ/awesome-claude-skills",
@@ -80,7 +80,7 @@
       "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
       "language": "Python",
       "stars_today": "155 stars today",
-      "stars_total": "68,571"
+      "stars_total": "68,754"
     }
   ],
   "ai_repos": [
@@ -90,7 +90,7 @@
       "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
       "language": "TypeScript",
       "stars_today": "4,131 stars today",
-      "stars_total": "67,934"
+      "stars_total": "68,882"
     },
     {
       "name": "ayghri/i-have-adhd",
@@ -98,7 +98,7 @@
       "description": "A skill for your coding agent to stop it from burying the answer. ADHD-friendly output.",
       "language": "Python",
       "stars_today": "1,682 stars today",
-      "stars_total": "7,803"
+      "stars_total": "8,244"
     },
     {
       "name": "jamiepine/voicebox",
@@ -106,7 +106,7 @@
       "description": "The open-source AI voice studio. Clone, dictate, create.",
       "language": "TypeScript",
       "stars_today": "565 stars today",
-      "stars_total": "45,493"
+      "stars_total": "45,737"
     },
     {
       "name": "diegosouzapw/OmniRoute",
@@ -114,7 +114,7 @@
       "description": "Never stop coding. Free MIT AI gateway: one endpoint, 268+ providers (50+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors",
       "language": "TypeScript",
       "stars_today": "1,648 stars today",
-      "stars_total": "24,585"
+      "stars_total": "25,211"
     },
     {
       "name": "ComposioHQ/awesome-claude-skills",
@@ -122,7 +122,7 @@
       "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
       "language": "Python",
       "stars_today": "155 stars today",
-      "stars_total": "68,571"
+      "stars_total": "68,754"
     }
   ],
   "posts": [
@@ -204,10 +204,10 @@
     }
   ],
   "image_paths": [
-    "assets/2026-07-22/trending/summary.png",
-    "assets/2026-07-22/trending/post1.png",
-    "assets/2026-07-22/trending/post2.png",
-    "assets/2026-07-22/trending/post3.png",
-    "assets/2026-07-22/trending/post4.png"
+    "assets/2026-07-23/trending/summary.png",
+    "assets/2026-07-23/trending/post1.png",
+    "assets/2026-07-23/trending/post2.png",
+    "assets/2026-07-23/trending/post3.png",
+    "assets/2026-07-23/trending/post4.png"
   ]
 }
