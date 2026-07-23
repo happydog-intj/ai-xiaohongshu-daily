@@ -1,11 +1,11 @@
 {
-  "date": "2026-07-23",
+  "date": "2026-07-24",
   "posts": [
     {
-      "topic": "Quality non-fiction ",
-      "cover_line1": "Quality no",
+      "topic": "Writing by hand is g",
+      "cover_line1": "Writing by",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Quality non-fiction books are the antithesis of AI slop**\n\n📌 来源：HackerNews\n🔗 https://resobscura.substack.com/p/quality-non-fiction-books-are-the\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Writing by hand is good for your brain**\n\n📌 来源：HackerNews\n🔗 https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -20,10 +20,10 @@
       ]
     },
     {
-      "topic": "GigaToken: ~1000x fa",
-      "cover_line1": "GigaToken:",
+      "topic": "Show HN: Echo – Fabl",
+      "cover_line1": "Show HN: E",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**GigaToken: ~1000x faster Language model tokenization**\n\n📌 来源：HackerNews\n🔗 https://github.com/marcelroed/gigatoken/\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Show HN: Echo – Fable-level results at 1/3 the cost using open-weight models**\n\n📌 来源：HackerNews\n🔗 \n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -38,10 +38,10 @@
       ]
     },
     {
-      "topic": "Terrence Tao's ChatG",
-      "cover_line1": "Terrence T",
+      "topic": "Startup founders urg",
+      "cover_line1": "Startup fo",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Terrence Tao's ChatGPT Conversation about the Jacobian Conjecture Counterexample**\n\n📌 来源：HackerNews\n🔗 https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Startup founders urge U.S. government not to shut off Chinese open weight AI**\n\n📌 来源：HackerNews\n🔗 https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -56,10 +56,10 @@
       ]
     },
     {
-      "topic": "Are AI Labs Pelicanm",
-      "cover_line1": "Are AI Lab",
+      "topic": "Why Software Factori",
+      "cover_line1": "Why Softwa",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Are AI Labs Pelicanmaxxing?**\n\n📌 来源：HackerNews\n🔗 https://dylancastillo.co/posts/pelicanmaxxing.html\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Why Software Factories Fail (or: harness engineering is not enough)**\n\n📌 来源：HackerNews\n🔗 https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/wsff.md\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -75,15 +75,15 @@
     }
   ],
   "image_paths": [
-    "assets/2026-07-23/cover1.png",
-    "assets/2026-07-23/cover2.png",
-    "assets/2026-07-23/cover3.png",
-    "assets/2026-07-23/cover4.png"
+    "assets/2026-07-24/cover1.png",
+    "assets/2026-07-24/cover2.png",
+    "assets/2026-07-24/cover3.png",
+    "assets/2026-07-24/cover4.png"
   ],
   "feishu_image_paths": [
-    "assets/2026-07-23/cover1_feishu.png",
-    "assets/2026-07-23/cover2_feishu.png",
-    "assets/2026-07-23/cover3_feishu.png",
-    "assets/2026-07-23/cover4_feishu.png"
+    "assets/2026-07-24/cover1_feishu.png",
+    "assets/2026-07-24/cover2_feishu.png",
+    "assets/2026-07-24/cover3_feishu.png",
+    "assets/2026-07-24/cover4_feishu.png"
   ]
 }
