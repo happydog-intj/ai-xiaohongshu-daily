@@ -1,14 +1,14 @@
 {
-  "date": "2026-07-23",
-  "slot": "晚报",
+  "date": "2026-07-24",
+  "slot": "早报",
   "all_repos": [
     {
       "name": "block/buzz",
       "url": "https://github.com/block/buzz",
       "description": "A hive mind communication platform",
       "language": "Rust",
-      "stars_today": "3,252 stars today",
-      "stars_total": "5,728"
+      "stars_today": "2,460 stars today",
+      "stars_total": "6,820"
     },
     {
       "name": "koala73/worldmonitor",
@@ -16,7 +16,7 @@
       "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
       "language": "TypeScript",
       "stars_today": "3,196 stars today",
-      "stars_total": "70,875"
+      "stars_total": "71,525"
     },
     {
       "name": "shiyu-coder/Kronos",
@@ -24,7 +24,7 @@
       "description": "Kronos: A Foundation Model for the Language of Financial Markets",
       "language": "Python",
       "stars_today": "398 stars today",
-      "stars_total": "32,886"
+      "stars_total": "33,039"
     },
     {
       "name": "Pumpkin-MC/Pumpkin",
@@ -32,7 +32,7 @@
       "description": "Empowering everyone to host fast and efficient Minecraft servers.",
       "language": "Rust",
       "stars_today": "563 stars today",
-      "stars_total": "8,741"
+      "stars_total": "8,896"
     },
     {
       "name": "citrolabs/ego-lite",
@@ -40,7 +40,7 @@
       "description": "The best browser for both you and your AI agents work in parallel.",
       "language": "JavaScript",
       "stars_today": "219 stars today",
-      "stars_total": "1,375"
+      "stars_total": "1,607"
     },
     {
       "name": "chrislgarry/Apollo-11",
@@ -48,15 +48,15 @@
       "description": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
       "language": "Assembly",
       "stars_today": "599 stars today",
-      "stars_total": "70,920"
+      "stars_total": "71,089"
     },
     {
       "name": "diegosouzapw/OmniRoute",
       "url": "https://github.com/diegosouzapw/OmniRoute",
-      "description": "Never stop coding. Free MIT AI gateway: one endpoint, 278+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors",
+      "description": "Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors",
       "language": "TypeScript",
       "stars_today": "1,925 stars today",
-      "stars_total": "26,528"
+      "stars_total": "27,123"
     },
     {
       "name": "ComposioHQ/awesome-claude-skills",
@@ -64,15 +64,15 @@
       "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
       "language": "Python",
       "stars_today": "637 stars today",
-      "stars_total": "69,211"
+      "stars_total": "69,404"
     },
     {
       "name": "earthtojake/text-to-cad",
       "url": "https://github.com/earthtojake/text-to-cad",
       "description": "A collection of agent skills for CAD, robotics and hardware design",
       "language": "JavaScript",
-      "stars_today": "621 stars today",
-      "stars_total": "9,804"
+      "stars_today": "293 stars today",
+      "stars_total": "9,962"
     },
     {
       "name": "agegr/pi-web",
@@ -80,7 +80,7 @@
       "description": "Web UI for the pi coding agent",
       "language": "TypeScript",
       "stars_today": "315 stars today",
-      "stars_total": "2,273"
+      "stars_total": "2,348"
     }
   ],
   "ai_repos": [
@@ -90,7 +90,7 @@
       "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
       "language": "TypeScript",
       "stars_today": "3,196 stars today",
-      "stars_total": "70,875"
+      "stars_total": "71,525"
     },
     {
       "name": "citrolabs/ego-lite",
@@ -98,15 +98,15 @@
       "description": "The best browser for both you and your AI agents work in parallel.",
       "language": "JavaScript",
       "stars_today": "219 stars today",
-      "stars_total": "1,375"
+      "stars_total": "1,607"
     },
     {
       "name": "diegosouzapw/OmniRoute",
       "url": "https://github.com/diegosouzapw/OmniRoute",
-      "description": "Never stop coding. Free MIT AI gateway: one endpoint, 278+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors",
+      "description": "Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors",
       "language": "TypeScript",
       "stars_today": "1,925 stars today",
-      "stars_total": "26,528"
+      "stars_total": "27,123"
     },
     {
       "name": "ComposioHQ/awesome-claude-skills",
@@ -114,15 +114,15 @@
       "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
       "language": "Python",
       "stars_today": "637 stars today",
-      "stars_total": "69,211"
+      "stars_total": "69,404"
     },
     {
       "name": "earthtojake/text-to-cad",
       "url": "https://github.com/earthtojake/text-to-cad",
       "description": "A collection of agent skills for CAD, robotics and hardware design",
       "language": "JavaScript",
-      "stars_today": "621 stars today",
-      "stars_total": "9,804"
+      "stars_today": "293 stars today",
+      "stars_total": "9,962"
     },
     {
       "name": "agegr/pi-web",
@@ -130,7 +130,7 @@
       "description": "Web UI for the pi coding agent",
       "language": "TypeScript",
       "stars_today": "315 stars today",
-      "stars_total": "2,273"
+      "stars_total": "2,348"
     }
   ],
   "posts": [
@@ -177,7 +177,7 @@
       "repo": "diegosouzapw/OmniRoute",
       "cover_line1": "OmniRoute",
       "cover_line2": "今日 GitHub 热榜！",
-      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**diegosouzapw/OmniRoute**\n\n📌 Never stop coding. Free MIT AI gateway: one endpoint, 278+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors\n\n🔗 https://github.com/diegosouzapw/OmniRoute\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**diegosouzapw/OmniRoute**\n\n📌 Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors\n\n🔗 https://github.com/diegosouzapw/OmniRoute\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "GitHub",
@@ -212,10 +212,10 @@
     }
   ],
   "image_paths": [
-    "assets/2026-07-23/trending/summary.png",
-    "assets/2026-07-23/trending/post1.png",
-    "assets/2026-07-23/trending/post2.png",
-    "assets/2026-07-23/trending/post3.png",
-    "assets/2026-07-23/trending/post4.png"
+    "assets/2026-07-24/trending/summary.png",
+    "assets/2026-07-24/trending/post1.png",
+    "assets/2026-07-24/trending/post2.png",
+    "assets/2026-07-24/trending/post3.png",
+    "assets/2026-07-24/trending/post4.png"
   ]
 }
