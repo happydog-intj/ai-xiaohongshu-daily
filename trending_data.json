@@ -1,6 +1,6 @@
 {
-  "date": "2026-07-24",
-  "slot": "晚报",
+  "date": "2026-07-25",
+  "slot": "早报",
   "all_repos": [
     {
       "name": "block/buzz",
@@ -8,7 +8,7 @@
       "description": "A hive mind communication platform",
       "language": "Rust",
       "stars_today": "3,274 stars today",
-      "stars_total": "8,845"
+      "stars_total": "9,902"
     },
     {
       "name": "koala73/worldmonitor",
@@ -16,7 +16,7 @@
       "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
       "language": "TypeScript",
       "stars_today": "2,194 stars today",
-      "stars_total": "72,875"
+      "stars_total": "73,243"
     },
     {
       "name": "ComposioHQ/awesome-claude-skills",
@@ -24,7 +24,7 @@
       "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
       "language": "Python",
       "stars_today": "662 stars today",
-      "stars_total": "69,841"
+      "stars_total": "70,034"
     },
     {
       "name": "Pumpkin-MC/Pumpkin",
@@ -32,7 +32,7 @@
       "description": "Empowering everyone to host fast and efficient Minecraft servers.",
       "language": "Rust",
       "stars_today": "472 stars today",
-      "stars_total": "9,203"
+      "stars_total": "9,328"
     },
     {
       "name": "shiyu-coder/Kronos",
@@ -40,7 +40,7 @@
       "description": "Kronos: A Foundation Model for the Language of Financial Markets",
       "language": "Python",
       "stars_today": "506 stars today",
-      "stars_total": "33,371"
+      "stars_total": "33,478"
     },
     {
       "name": "Automattic/harper",
@@ -48,7 +48,7 @@
       "description": "Offline, privacy-first grammar checker. Fast, open-source, Rust-powered",
       "language": "Rust",
       "stars_today": "877 stars today",
-      "stars_total": "12,795"
+      "stars_total": "13,029"
     },
     {
       "name": "likec4/likec4",
@@ -56,7 +56,7 @@
       "description": "Visualize, collaborate, and evolve the software architecture with always actual and live diagrams from your code",
       "language": "TypeScript",
       "stars_today": "339 stars today",
-      "stars_total": "4,908"
+      "stars_total": "5,011"
     },
     {
       "name": "citrolabs/ego-lite",
@@ -64,7 +64,7 @@
       "description": "The fastest browser for AI agents to run web automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
       "language": "JavaScript",
       "stars_today": "884 stars today",
-      "stars_total": "2,224"
+      "stars_total": "2,544"
     },
     {
       "name": "yorukot/superfile",
@@ -72,7 +72,7 @@
       "description": "Pretty fancy and modern terminal file manager",
       "language": "Go",
       "stars_today": "312 stars today",
-      "stars_total": "19,251"
+      "stars_total": "19,559"
     },
     {
       "name": "ruvnet/RuView",
@@ -80,7 +80,7 @@
       "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
       "language": "Rust",
       "stars_today": "1,021 stars today",
-      "stars_total": "85,699"
+      "stars_total": "85,916"
     }
   ],
   "ai_repos": [
@@ -90,7 +90,7 @@
       "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
       "language": "TypeScript",
       "stars_today": "2,194 stars today",
-      "stars_total": "72,875"
+      "stars_total": "73,243"
     },
     {
       "name": "ComposioHQ/awesome-claude-skills",
@@ -98,7 +98,7 @@
       "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
       "language": "Python",
       "stars_today": "662 stars today",
-      "stars_total": "69,841"
+      "stars_total": "70,034"
     },
     {
       "name": "citrolabs/ego-lite",
@@ -106,7 +106,7 @@
       "description": "The fastest browser for AI agents to run web automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
       "language": "JavaScript",
       "stars_today": "884 stars today",
-      "stars_total": "2,224"
+      "stars_total": "2,544"
     }
   ],
   "posts": [
@@ -169,9 +169,9 @@
     }
   ],
   "image_paths": [
-    "assets/2026-07-24/trending/summary.png",
-    "assets/2026-07-24/trending/post1.png",
-    "assets/2026-07-24/trending/post2.png",
-    "assets/2026-07-24/trending/post3.png"
+    "assets/2026-07-25/trending/summary.png",
+    "assets/2026-07-25/trending/post1.png",
+    "assets/2026-07-25/trending/post2.png",
+    "assets/2026-07-25/trending/post3.png"
   ]
 }
