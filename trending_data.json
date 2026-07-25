@@ -1,121 +1,156 @@
 {
   "date": "2026-07-25",
-  "slot": "早报",
+  "slot": "晚报",
   "all_repos": [
     {
       "name": "block/buzz",
       "url": "https://github.com/block/buzz",
       "description": "A hive mind communication platform",
       "language": "Rust",
-      "stars_today": "3,274 stars today",
-      "stars_total": "9,902"
+      "stars_today": "2,506 stars today",
+      "stars_total": "11,134"
     },
     {
-      "name": "koala73/worldmonitor",
-      "url": "https://github.com/koala73/worldmonitor",
-      "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
-      "language": "TypeScript",
-      "stars_today": "2,194 stars today",
-      "stars_total": "73,243"
+      "name": "alibaba/open-code-review",
+      "url": "https://github.com/alibaba/open-code-review",
+      "description": "Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+      "language": "Go",
+      "stars_today": "1,066 stars today",
+      "stars_total": "12,669"
+    },
+    {
+      "name": "citrolabs/ego-lite",
+      "url": "https://github.com/citrolabs/ego-lite",
+      "description": "The fastest browser for AI agents to run web automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
+      "language": "JavaScript",
+      "stars_today": "986 stars today",
+      "stars_total": "3,204"
     },
     {
       "name": "ComposioHQ/awesome-claude-skills",
       "url": "https://github.com/ComposioHQ/awesome-claude-skills",
       "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
       "language": "Python",
-      "stars_today": "662 stars today",
-      "stars_total": "70,034"
+      "stars_today": "574 stars today",
+      "stars_total": "70,386"
     },
     {
-      "name": "Pumpkin-MC/Pumpkin",
-      "url": "https://github.com/Pumpkin-MC/Pumpkin",
-      "description": "Empowering everyone to host fast and efficient Minecraft servers.",
-      "language": "Rust",
-      "stars_today": "472 stars today",
-      "stars_total": "9,328"
-    },
-    {
-      "name": "shiyu-coder/Kronos",
-      "url": "https://github.com/shiyu-coder/Kronos",
-      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
-      "language": "Python",
-      "stars_today": "506 stars today",
-      "stars_total": "33,478"
+      "name": "anthropics/claude-cookbooks",
+      "url": "https://github.com/anthropics/claude-cookbooks",
+      "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
+      "language": "Jupyter Notebook",
+      "stars_today": "144 stars today",
+      "stars_total": "49,727"
     },
     {
       "name": "Automattic/harper",
       "url": "https://github.com/Automattic/harper",
       "description": "Offline, privacy-first grammar checker. Fast, open-source, Rust-powered",
       "language": "Rust",
-      "stars_today": "877 stars today",
-      "stars_total": "13,029"
+      "stars_today": "503 stars today",
+      "stars_total": "13,247"
     },
     {
-      "name": "likec4/likec4",
-      "url": "https://github.com/likec4/likec4",
-      "description": "Visualize, collaborate, and evolve the software architecture with always actual and live diagrams from your code",
-      "language": "TypeScript",
-      "stars_today": "339 stars today",
-      "stars_total": "5,011"
+      "name": "shiyu-coder/Kronos",
+      "url": "https://github.com/shiyu-coder/Kronos",
+      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+      "language": "Python",
+      "stars_today": "319 stars today",
+      "stars_total": "33,673"
+    },
+    {
+      "name": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars_today": "600 stars today",
+      "stars_total": "260,860"
+    },
+    {
+      "name": "Pumpkin-MC/Pumpkin",
+      "url": "https://github.com/Pumpkin-MC/Pumpkin",
+      "description": "Empowering everyone to host fast and efficient Minecraft servers.",
+      "language": "Rust",
+      "stars_today": "357 stars today",
+      "stars_total": "9,549"
+    },
+    {
+      "name": "permissionlesstech/bitchat",
+      "url": "https://github.com/permissionlesstech/bitchat",
+      "description": "bluetooth mesh chat, IRC vibes",
+      "language": "Swift",
+      "stars_today": "1,695 stars today",
+      "stars_total": "28,217"
+    }
+  ],
+  "ai_repos": [
+    {
+      "name": "alibaba/open-code-review",
+      "url": "https://github.com/alibaba/open-code-review",
+      "description": "Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+      "language": "Go",
+      "stars_today": "1,066 stars today",
+      "stars_total": "12,669"
     },
     {
       "name": "citrolabs/ego-lite",
       "url": "https://github.com/citrolabs/ego-lite",
       "description": "The fastest browser for AI agents to run web automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
       "language": "JavaScript",
-      "stars_today": "884 stars today",
-      "stars_total": "2,544"
-    },
-    {
-      "name": "yorukot/superfile",
-      "url": "https://github.com/yorukot/superfile",
-      "description": "Pretty fancy and modern terminal file manager",
-      "language": "Go",
-      "stars_today": "312 stars today",
-      "stars_total": "19,559"
-    },
-    {
-      "name": "ruvnet/RuView",
-      "url": "https://github.com/ruvnet/RuView",
-      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
-      "language": "Rust",
-      "stars_today": "1,021 stars today",
-      "stars_total": "85,916"
-    }
-  ],
-  "ai_repos": [
-    {
-      "name": "koala73/worldmonitor",
-      "url": "https://github.com/koala73/worldmonitor",
-      "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
-      "language": "TypeScript",
-      "stars_today": "2,194 stars today",
-      "stars_total": "73,243"
+      "stars_today": "986 stars today",
+      "stars_total": "3,204"
     },
     {
       "name": "ComposioHQ/awesome-claude-skills",
       "url": "https://github.com/ComposioHQ/awesome-claude-skills",
       "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
       "language": "Python",
-      "stars_today": "662 stars today",
-      "stars_total": "70,034"
+      "stars_today": "574 stars today",
+      "stars_total": "70,386"
     },
     {
-      "name": "citrolabs/ego-lite",
-      "url": "https://github.com/citrolabs/ego-lite",
-      "description": "The fastest browser for AI agents to run web automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
-      "language": "JavaScript",
-      "stars_today": "884 stars today",
-      "stars_total": "2,544"
+      "name": "anthropics/claude-cookbooks",
+      "url": "https://github.com/anthropics/claude-cookbooks",
+      "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
+      "language": "Jupyter Notebook",
+      "stars_today": "144 stars today",
+      "stars_total": "49,727"
+    },
+    {
+      "name": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars_today": "600 stars today",
+      "stars_total": "260,860"
     }
   ],
   "posts": [
     {
-      "topic": "worldmonitor",
-      "repo": "koala73/worldmonitor",
-      "cover_line1": "worldmonit",
+      "topic": "open-code-review",
+      "repo": "alibaba/open-code-review",
+      "cover_line1": "open-code-",
       "cover_line2": "今日 GitHub 热榜！",
-      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**koala73/worldmonitor**\n\n📌 Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface\n\n🔗 https://github.com/koala73/worldmonitor\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**alibaba/open-code-review**\n\n📌 Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.\n\n🔗 https://github.com/alibaba/open-code-review\n\n关注我，每天第一时间 AI 动态 👇",
+      "tags": [
+        "AI",
+        "GitHub",
+        "开源",
+        "热门项目",
+        "大模型",
+        "机器学习",
+        "深度学习",
+        "AI工具",
+        "技术",
+        "炼丹"
+      ]
+    },
+    {
+      "topic": "ego-lite",
+      "repo": "citrolabs/ego-lite",
+      "cover_line1": "ego-lite",
+      "cover_line2": "今日 GitHub 热榜！",
+      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**citrolabs/ego-lite**\n\n📌 The fastest browser for AI agents to run web automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.\n\n🔗 https://github.com/citrolabs/ego-lite\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "GitHub",
@@ -149,11 +184,11 @@
       ]
     },
     {
-      "topic": "ego-lite",
-      "repo": "citrolabs/ego-lite",
-      "cover_line1": "ego-lite",
+      "topic": "claude-cookbooks",
+      "repo": "anthropics/claude-cookbooks",
+      "cover_line1": "claude-coo",
       "cover_line2": "今日 GitHub 热榜！",
-      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**citrolabs/ego-lite**\n\n📌 The fastest browser for AI agents to run web automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.\n\n🔗 https://github.com/citrolabs/ego-lite\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**anthropics/claude-cookbooks**\n\n📌 A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.\n\n🔗 https://github.com/anthropics/claude-cookbooks\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "GitHub",
@@ -172,6 +207,7 @@
     "assets/2026-07-25/trending/summary.png",
     "assets/2026-07-25/trending/post1.png",
     "assets/2026-07-25/trending/post2.png",
-    "assets/2026-07-25/trending/post3.png"
+    "assets/2026-07-25/trending/post3.png",
+    "assets/2026-07-25/trending/post4.png"
   ]
 }
