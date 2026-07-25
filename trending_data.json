@@ -1,6 +1,6 @@
 {
-  "date": "2026-07-25",
-  "slot": "晚报",
+  "date": "2026-07-26",
+  "slot": "早报",
   "all_repos": [
     {
       "name": "block/buzz",
@@ -8,15 +8,15 @@
       "description": "A hive mind communication platform",
       "language": "Rust",
       "stars_today": "2,506 stars today",
-      "stars_total": "11,134"
+      "stars_total": "11,881"
     },
     {
       "name": "alibaba/open-code-review",
       "url": "https://github.com/alibaba/open-code-review",
       "description": "Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
       "language": "Go",
-      "stars_today": "1,066 stars today",
-      "stars_total": "12,669"
+      "stars_today": "439 stars today",
+      "stars_total": "12,938"
     },
     {
       "name": "citrolabs/ego-lite",
@@ -24,7 +24,7 @@
       "description": "The fastest browser for AI agents to run web automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
       "language": "JavaScript",
       "stars_today": "986 stars today",
-      "stars_total": "3,204"
+      "stars_total": "3,557"
     },
     {
       "name": "ComposioHQ/awesome-claude-skills",
@@ -32,7 +32,7 @@
       "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
       "language": "Python",
       "stars_today": "574 stars today",
-      "stars_total": "70,386"
+      "stars_total": "70,571"
     },
     {
       "name": "anthropics/claude-cookbooks",
@@ -40,7 +40,7 @@
       "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
       "language": "Jupyter Notebook",
       "stars_today": "144 stars today",
-      "stars_total": "49,727"
+      "stars_total": "49,875"
     },
     {
       "name": "Automattic/harper",
@@ -48,7 +48,7 @@
       "description": "Offline, privacy-first grammar checker. Fast, open-source, Rust-powered",
       "language": "Rust",
       "stars_today": "503 stars today",
-      "stars_total": "13,247"
+      "stars_total": "13,408"
     },
     {
       "name": "shiyu-coder/Kronos",
@@ -56,15 +56,15 @@
       "description": "Kronos: A Foundation Model for the Language of Financial Markets",
       "language": "Python",
       "stars_today": "319 stars today",
-      "stars_total": "33,673"
+      "stars_total": "33,780"
     },
     {
       "name": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
-      "stars_today": "600 stars today",
-      "stars_total": "260,860"
+      "stars_today": "507 stars today",
+      "stars_total": "261,085"
     },
     {
       "name": "Pumpkin-MC/Pumpkin",
@@ -72,7 +72,7 @@
       "description": "Empowering everyone to host fast and efficient Minecraft servers.",
       "language": "Rust",
       "stars_today": "357 stars today",
-      "stars_total": "9,549"
+      "stars_total": "9,703"
     },
     {
       "name": "permissionlesstech/bitchat",
@@ -80,7 +80,7 @@
       "description": "bluetooth mesh chat, IRC vibes",
       "language": "Swift",
       "stars_today": "1,695 stars today",
-      "stars_total": "28,217"
+      "stars_total": "28,683"
     }
   ],
   "ai_repos": [
@@ -89,8 +89,8 @@
       "url": "https://github.com/alibaba/open-code-review",
       "description": "Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
       "language": "Go",
-      "stars_today": "1,066 stars today",
-      "stars_total": "12,669"
+      "stars_today": "439 stars today",
+      "stars_total": "12,938"
     },
     {
       "name": "citrolabs/ego-lite",
@@ -98,7 +98,7 @@
       "description": "The fastest browser for AI agents to run web automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
       "language": "JavaScript",
       "stars_today": "986 stars today",
-      "stars_total": "3,204"
+      "stars_total": "3,557"
     },
     {
       "name": "ComposioHQ/awesome-claude-skills",
@@ -106,7 +106,7 @@
       "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
       "language": "Python",
       "stars_today": "574 stars today",
-      "stars_total": "70,386"
+      "stars_total": "70,571"
     },
     {
       "name": "anthropics/claude-cookbooks",
@@ -114,15 +114,15 @@
       "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
       "language": "Jupyter Notebook",
       "stars_today": "144 stars today",
-      "stars_total": "49,727"
+      "stars_total": "49,875"
     },
     {
       "name": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
-      "stars_today": "600 stars today",
-      "stars_total": "260,860"
+      "stars_today": "507 stars today",
+      "stars_total": "261,085"
     }
   ],
   "posts": [
@@ -204,10 +204,10 @@
     }
   ],
   "image_paths": [
-    "assets/2026-07-25/trending/summary.png",
-    "assets/2026-07-25/trending/post1.png",
-    "assets/2026-07-25/trending/post2.png",
-    "assets/2026-07-25/trending/post3.png",
-    "assets/2026-07-25/trending/post4.png"
+    "assets/2026-07-26/trending/summary.png",
+    "assets/2026-07-26/trending/post1.png",
+    "assets/2026-07-26/trending/post2.png",
+    "assets/2026-07-26/trending/post3.png",
+    "assets/2026-07-26/trending/post4.png"
   ]
 }
