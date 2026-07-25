@@ -1,11 +1,11 @@
 {
-  "date": "2026-07-25",
+  "date": "2026-07-26",
   "posts": [
     {
-      "topic": "Claude Opus 5",
-      "cover_line1": "Claude Opu",
+      "topic": "The new rules of con",
+      "cover_line1": "The new ru",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Claude Opus 5**\n\n📌 来源：HackerNews\n🔗 https://www.anthropic.com/news/claude-opus-5\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**The new rules of context engineering for Claude 5 generation models**\n\n📌 来源：HackerNews\n🔗 https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -20,10 +20,10 @@
       ]
     },
     {
-      "topic": "Show HN: I simulated",
-      "cover_line1": "Show HN: I",
+      "topic": "GM Backs Sodium Ion ",
+      "cover_line1": "GM Backs S",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Show HN: I simulated closing the Strait of Hormuz on real oil trade data**\n\n📌 来源：HackerNews\n🔗 https://globaloilnetwork.staffinganalytics.io/\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**GM Backs Sodium Ion Batteries for U.S. Grid Storage**\n\n📌 来源：HackerNews\n🔗 https://spectrum.ieee.org/sodium-ion-battery-peak-energy\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -38,10 +38,10 @@
       ]
     },
     {
-      "topic": "Nvidia, Microsoft, M",
-      "cover_line1": "Nvidia, Mi",
+      "topic": "What is happening to",
+      "cover_line1": "What is ha",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Nvidia, Microsoft, Meta warn against overregulating open-weight models**\n\n📌 来源：HackerNews\n🔗 https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**What is happening to jobs? Separating AI hype from reality**\n\n📌 来源：HackerNews\n🔗 https://siepr.stanford.edu/publications/policy-brief/what-really-happening-jobs-separating-ai-hype-reality\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -56,10 +56,10 @@
       ]
     },
     {
-      "topic": "AIs don't do what yo",
-      "cover_line1": "AIs don't ",
+      "topic": "Show HN: Brolly, a p",
+      "cover_line1": "Show HN: B",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**AIs don't do what you want. This is bad**\n\n📌 来源：HackerNews\n🔗 https://rewardhacking.org\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Show HN: Brolly, a plain-text weather forecast site**\n\n📌 来源：HackerNews\n🔗 https://brolly.sh/forecast/RWFP2qW8\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -75,15 +75,15 @@
     }
   ],
   "image_paths": [
-    "assets/2026-07-25/cover1.png",
-    "assets/2026-07-25/cover2.png",
-    "assets/2026-07-25/cover3.png",
-    "assets/2026-07-25/cover4.png"
+    "assets/2026-07-26/cover1.png",
+    "assets/2026-07-26/cover2.png",
+    "assets/2026-07-26/cover3.png",
+    "assets/2026-07-26/cover4.png"
   ],
   "feishu_image_paths": [
-    "assets/2026-07-25/cover1_feishu.png",
-    "assets/2026-07-25/cover2_feishu.png",
-    "assets/2026-07-25/cover3_feishu.png",
-    "assets/2026-07-25/cover4_feishu.png"
+    "assets/2026-07-26/cover1_feishu.png",
+    "assets/2026-07-26/cover2_feishu.png",
+    "assets/2026-07-26/cover3_feishu.png",
+    "assets/2026-07-26/cover4_feishu.png"
   ]
 }
