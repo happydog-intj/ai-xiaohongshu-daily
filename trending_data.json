@@ -1,150 +1,123 @@
 {
   "date": "2026-07-26",
-  "slot": "早报",
+  "slot": "晚报",
   "all_repos": [
     {
-      "name": "block/buzz",
-      "url": "https://github.com/block/buzz",
-      "description": "A hive mind communication platform",
-      "language": "Rust",
-      "stars_today": "2,506 stars today",
-      "stars_total": "11,881"
-    },
-    {
-      "name": "alibaba/open-code-review",
-      "url": "https://github.com/alibaba/open-code-review",
-      "description": "Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
-      "language": "Go",
-      "stars_today": "439 stars today",
-      "stars_total": "12,938"
+      "name": "permissionlesstech/bitchat",
+      "url": "https://github.com/permissionlesstech/bitchat",
+      "description": "bluetooth mesh chat, IRC vibes",
+      "language": "Swift",
+      "stars_today": "1,198 stars today",
+      "stars_total": "29,461"
     },
     {
       "name": "citrolabs/ego-lite",
       "url": "https://github.com/citrolabs/ego-lite",
       "description": "The fastest browser for AI agents to run web automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
       "language": "JavaScript",
-      "stars_today": "986 stars today",
-      "stars_total": "3,557"
+      "stars_today": "898 stars today",
+      "stars_total": "4,123"
     },
     {
-      "name": "ComposioHQ/awesome-claude-skills",
-      "url": "https://github.com/ComposioHQ/awesome-claude-skills",
-      "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
-      "language": "Python",
-      "stars_today": "574 stars today",
-      "stars_total": "70,571"
-    },
-    {
-      "name": "anthropics/claude-cookbooks",
-      "url": "https://github.com/anthropics/claude-cookbooks",
-      "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
-      "language": "Jupyter Notebook",
-      "stars_today": "144 stars today",
-      "stars_total": "49,875"
-    },
-    {
-      "name": "Automattic/harper",
-      "url": "https://github.com/Automattic/harper",
-      "description": "Offline, privacy-first grammar checker. Fast, open-source, Rust-powered",
+      "name": "block/buzz",
+      "url": "https://github.com/block/buzz",
+      "description": "A hive mind communication platform",
       "language": "Rust",
-      "stars_today": "503 stars today",
-      "stars_total": "13,408"
+      "stars_today": "1,705 stars today",
+      "stars_total": "12,733"
+    },
+    {
+      "name": "pingdotgg/t3code",
+      "url": "https://github.com/pingdotgg/t3code",
+      "description": "",
+      "language": "TypeScript",
+      "stars_today": "202 stars today",
+      "stars_total": "14,945"
+    },
+    {
+      "name": "CoreBunch/Instatic",
+      "url": "https://github.com/CoreBunch/Instatic",
+      "description": "The open-source alternative to Webflow, Framer and WordPress. Agentic self-hosted visual CMS outputting clean static pages. Users, roles, plugins, content, database, it's all there.",
+      "language": "TypeScript",
+      "stars_today": "892 stars today",
+      "stars_total": "5,416"
+    },
+    {
+      "name": "yorukot/superfile",
+      "url": "https://github.com/yorukot/superfile",
+      "description": "Pretty fancy and modern terminal file manager",
+      "language": "Go",
+      "stars_today": "586 stars today",
+      "stars_total": "20,008"
+    },
+    {
+      "name": "nodejs/node",
+      "url": "https://github.com/nodejs/node",
+      "description": "Node.js JavaScript runtime ✨🐢🚀✨",
+      "language": "JavaScript",
+      "stars_today": "37 stars today",
+      "stars_total": "118,406"
+    },
+    {
+      "name": "OtterMind/Chat2DB",
+      "url": "https://github.com/OtterMind/Chat2DB",
+      "description": "🔥🔥🔥 AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.",
+      "language": "Java",
+      "stars_today": "399 stars today",
+      "stars_total": "26,926"
+    },
+    {
+      "name": "pbakaus/impeccable",
+      "url": "https://github.com/pbakaus/impeccable",
+      "description": "The design language that makes your AI harness better at design.",
+      "language": "JavaScript",
+      "stars_today": "471 stars today",
+      "stars_total": "50,345"
     },
     {
       "name": "shiyu-coder/Kronos",
       "url": "https://github.com/shiyu-coder/Kronos",
       "description": "Kronos: A Foundation Model for the Language of Financial Markets",
       "language": "Python",
-      "stars_today": "319 stars today",
-      "stars_total": "33,780"
-    },
-    {
-      "name": "obra/superpowers",
-      "url": "https://github.com/obra/superpowers",
-      "description": "An agentic skills framework & software development methodology that works.",
-      "language": "Shell",
-      "stars_today": "507 stars today",
-      "stars_total": "261,085"
-    },
-    {
-      "name": "Pumpkin-MC/Pumpkin",
-      "url": "https://github.com/Pumpkin-MC/Pumpkin",
-      "description": "Empowering everyone to host fast and efficient Minecraft servers.",
-      "language": "Rust",
-      "stars_today": "357 stars today",
-      "stars_total": "9,703"
-    },
-    {
-      "name": "permissionlesstech/bitchat",
-      "url": "https://github.com/permissionlesstech/bitchat",
-      "description": "bluetooth mesh chat, IRC vibes",
-      "language": "Swift",
-      "stars_today": "1,695 stars today",
-      "stars_total": "28,683"
+      "stars_today": "322 stars today",
+      "stars_total": "34,009"
     }
   ],
   "ai_repos": [
-    {
-      "name": "alibaba/open-code-review",
-      "url": "https://github.com/alibaba/open-code-review",
-      "description": "Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
-      "language": "Go",
-      "stars_today": "439 stars today",
-      "stars_total": "12,938"
-    },
     {
       "name": "citrolabs/ego-lite",
       "url": "https://github.com/citrolabs/ego-lite",
       "description": "The fastest browser for AI agents to run web automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
       "language": "JavaScript",
-      "stars_today": "986 stars today",
-      "stars_total": "3,557"
+      "stars_today": "898 stars today",
+      "stars_total": "4,123"
     },
     {
-      "name": "ComposioHQ/awesome-claude-skills",
-      "url": "https://github.com/ComposioHQ/awesome-claude-skills",
-      "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
-      "language": "Python",
-      "stars_today": "574 stars today",
-      "stars_total": "70,571"
+      "name": "CoreBunch/Instatic",
+      "url": "https://github.com/CoreBunch/Instatic",
+      "description": "The open-source alternative to Webflow, Framer and WordPress. Agentic self-hosted visual CMS outputting clean static pages. Users, roles, plugins, content, database, it's all there.",
+      "language": "TypeScript",
+      "stars_today": "892 stars today",
+      "stars_total": "5,416"
     },
     {
-      "name": "anthropics/claude-cookbooks",
-      "url": "https://github.com/anthropics/claude-cookbooks",
-      "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
-      "language": "Jupyter Notebook",
-      "stars_today": "144 stars today",
-      "stars_total": "49,875"
+      "name": "OtterMind/Chat2DB",
+      "url": "https://github.com/OtterMind/Chat2DB",
+      "description": "🔥🔥🔥 AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.",
+      "language": "Java",
+      "stars_today": "399 stars today",
+      "stars_total": "26,926"
     },
     {
-      "name": "obra/superpowers",
-      "url": "https://github.com/obra/superpowers",
-      "description": "An agentic skills framework & software development methodology that works.",
-      "language": "Shell",
-      "stars_today": "507 stars today",
-      "stars_total": "261,085"
+      "name": "pbakaus/impeccable",
+      "url": "https://github.com/pbakaus/impeccable",
+      "description": "The design language that makes your AI harness better at design.",
+      "language": "JavaScript",
+      "stars_today": "471 stars today",
+      "stars_total": "50,345"
     }
   ],
   "posts": [
-    {
-      "topic": "open-code-review",
-      "repo": "alibaba/open-code-review",
-      "cover_line1": "open-code-",
-      "cover_line2": "今日 GitHub 热榜！",
-      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**alibaba/open-code-review**\n\n📌 Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.\n\n🔗 https://github.com/alibaba/open-code-review\n\n关注我，每天第一时间 AI 动态 👇",
-      "tags": [
-        "AI",
-        "GitHub",
-        "开源",
-        "热门项目",
-        "大模型",
-        "机器学习",
-        "深度学习",
-        "AI工具",
-        "技术",
-        "炼丹"
-      ]
-    },
     {
       "topic": "ego-lite",
       "repo": "citrolabs/ego-lite",
@@ -165,11 +138,11 @@
       ]
     },
     {
-      "topic": "awesome-claude-skill",
-      "repo": "ComposioHQ/awesome-claude-skills",
-      "cover_line1": "awesome-cl",
+      "topic": "Instatic",
+      "repo": "CoreBunch/Instatic",
+      "cover_line1": "Instatic",
       "cover_line2": "今日 GitHub 热榜！",
-      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**ComposioHQ/awesome-claude-skills**\n\n📌 A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows\n\n🔗 https://github.com/ComposioHQ/awesome-claude-skills\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**CoreBunch/Instatic**\n\n📌 The open-source alternative to Webflow, Framer and WordPress. Agentic self-hosted visual CMS outputting clean static pages. Users, roles, plugins, content, database, it's all there.\n\n🔗 https://github.com/CoreBunch/Instatic\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "GitHub",
@@ -184,11 +157,30 @@
       ]
     },
     {
-      "topic": "claude-cookbooks",
-      "repo": "anthropics/claude-cookbooks",
-      "cover_line1": "claude-coo",
+      "topic": "Chat2DB",
+      "repo": "OtterMind/Chat2DB",
+      "cover_line1": "Chat2DB",
       "cover_line2": "今日 GitHub 热榜！",
-      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**anthropics/claude-cookbooks**\n\n📌 A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.\n\n🔗 https://github.com/anthropics/claude-cookbooks\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**OtterMind/Chat2DB**\n\n📌 🔥🔥🔥 AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.\n\n🔗 https://github.com/OtterMind/Chat2DB\n\n关注我，每天第一时间 AI 动态 👇",
+      "tags": [
+        "AI",
+        "GitHub",
+        "开源",
+        "热门项目",
+        "大模型",
+        "机器学习",
+        "深度学习",
+        "AI工具",
+        "技术",
+        "炼丹"
+      ]
+    },
+    {
+      "topic": "impeccable",
+      "repo": "pbakaus/impeccable",
+      "cover_line1": "impeccable",
+      "cover_line2": "今日 GitHub 热榜！",
+      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**pbakaus/impeccable**\n\n📌 The design language that makes your AI harness better at design.\n\n🔗 https://github.com/pbakaus/impeccable\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "GitHub",
