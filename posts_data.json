@@ -1,11 +1,11 @@
 {
-  "date": "2026-07-26",
+  "date": "2026-07-27",
   "posts": [
     {
-      "topic": "The new rules of con",
-      "cover_line1": "The new ru",
+      "topic": "Show HN: Distill and",
+      "cover_line1": "Show HN: D",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**The new rules of context engineering for Claude 5 generation models**\n\n📌 来源：HackerNews\n🔗 https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Show HN: Distill and serve small models with frontier quality for half the cost**\n\n📌 来源：HackerNews\n🔗 https://github.com/experientiallabs/world-model-optimizer\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -20,10 +20,10 @@
       ]
     },
     {
-      "topic": "GM Backs Sodium Ion ",
-      "cover_line1": "GM Backs S",
+      "topic": "Cursor Bridge – Run ",
+      "cover_line1": "Cursor Bri",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**GM Backs Sodium Ion Batteries for U.S. Grid Storage**\n\n📌 来源：HackerNews\n🔗 https://spectrum.ieee.org/sodium-ion-battery-peak-energy\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Cursor Bridge – Run Unlimited Claude Code on Your Cursor Subscription**\n\n📌 来源：HackerNews\n🔗 https://github.com/hkc5/cursor-bridge\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -38,10 +38,10 @@
       ]
     },
     {
-      "topic": "What is happening to",
-      "cover_line1": "What is ha",
+      "topic": "The New AI Superpowe",
+      "cover_line1": "The New AI",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**What is happening to jobs? Separating AI hype from reality**\n\n📌 来源：HackerNews\n🔗 https://siepr.stanford.edu/publications/policy-brief/what-really-happening-jobs-separating-ai-hype-reality\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**The New AI Superpowers: Focus and Followthrough**\n\n📌 来源：HackerNews\n🔗 https://www.rickmanelius.com/p/the-new-ai-superpowers-focus-and\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -56,10 +56,10 @@
       ]
     },
     {
-      "topic": "Show HN: Brolly, a p",
-      "cover_line1": "Show HN: B",
+      "topic": "GrapheneOS protectio",
+      "cover_line1": "GrapheneOS",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Show HN: Brolly, a plain-text weather forecast site**\n\n📌 来源：HackerNews\n🔗 https://brolly.sh/forecast/RWFP2qW8\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**GrapheneOS protections against data extraction from locked devices**\n\n📌 来源：HackerNews\n🔗 https://discuss.grapheneos.org/d/40700-grapheneos-protections-against-data-extraction-from-locked-devices\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -75,15 +75,15 @@
     }
   ],
   "image_paths": [
-    "assets/2026-07-26/cover1.png",
-    "assets/2026-07-26/cover2.png",
-    "assets/2026-07-26/cover3.png",
-    "assets/2026-07-26/cover4.png"
+    "assets/2026-07-27/cover1.png",
+    "assets/2026-07-27/cover2.png",
+    "assets/2026-07-27/cover3.png",
+    "assets/2026-07-27/cover4.png"
   ],
   "feishu_image_paths": [
-    "assets/2026-07-26/cover1_feishu.png",
-    "assets/2026-07-26/cover2_feishu.png",
-    "assets/2026-07-26/cover3_feishu.png",
-    "assets/2026-07-26/cover4_feishu.png"
+    "assets/2026-07-27/cover1_feishu.png",
+    "assets/2026-07-27/cover2_feishu.png",
+    "assets/2026-07-27/cover3_feishu.png",
+    "assets/2026-07-27/cover4_feishu.png"
   ]
 }
