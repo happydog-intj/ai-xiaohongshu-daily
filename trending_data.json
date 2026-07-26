@@ -1,6 +1,6 @@
 {
-  "date": "2026-07-26",
-  "slot": "晚报",
+  "date": "2026-07-27",
+  "slot": "早报",
   "all_repos": [
     {
       "name": "permissionlesstech/bitchat",
@@ -8,7 +8,7 @@
       "description": "bluetooth mesh chat, IRC vibes",
       "language": "Swift",
       "stars_today": "1,198 stars today",
-      "stars_total": "29,461"
+      "stars_total": "30,245"
     },
     {
       "name": "citrolabs/ego-lite",
@@ -16,7 +16,7 @@
       "description": "The fastest browser for AI agents to run web automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
       "language": "JavaScript",
       "stars_today": "898 stars today",
-      "stars_total": "4,123"
+      "stars_total": "4,461"
     },
     {
       "name": "block/buzz",
@@ -24,15 +24,15 @@
       "description": "A hive mind communication platform",
       "language": "Rust",
       "stars_today": "1,705 stars today",
-      "stars_total": "12,733"
+      "stars_total": "13,225"
     },
     {
       "name": "pingdotgg/t3code",
       "url": "https://github.com/pingdotgg/t3code",
       "description": "",
       "language": "TypeScript",
-      "stars_today": "202 stars today",
-      "stars_total": "14,945"
+      "stars_today": "159 stars today",
+      "stars_total": "15,036"
     },
     {
       "name": "CoreBunch/Instatic",
@@ -40,15 +40,15 @@
       "description": "The open-source alternative to Webflow, Framer and WordPress. Agentic self-hosted visual CMS outputting clean static pages. Users, roles, plugins, content, database, it's all there.",
       "language": "TypeScript",
       "stars_today": "892 stars today",
-      "stars_total": "5,416"
+      "stars_total": "5,644"
     },
     {
       "name": "yorukot/superfile",
       "url": "https://github.com/yorukot/superfile",
       "description": "Pretty fancy and modern terminal file manager",
       "language": "Go",
-      "stars_today": "586 stars today",
-      "stars_total": "20,008"
+      "stars_today": "180 stars today",
+      "stars_total": "20,207"
     },
     {
       "name": "nodejs/node",
@@ -56,7 +56,7 @@
       "description": "Node.js JavaScript runtime ✨🐢🚀✨",
       "language": "JavaScript",
       "stars_today": "37 stars today",
-      "stars_total": "118,406"
+      "stars_total": "118,459"
     },
     {
       "name": "OtterMind/Chat2DB",
@@ -64,15 +64,15 @@
       "description": "🔥🔥🔥 AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.",
       "language": "Java",
       "stars_today": "399 stars today",
-      "stars_total": "26,926"
+      "stars_total": "27,090"
     },
     {
       "name": "pbakaus/impeccable",
       "url": "https://github.com/pbakaus/impeccable",
       "description": "The design language that makes your AI harness better at design.",
       "language": "JavaScript",
-      "stars_today": "471 stars today",
-      "stars_total": "50,345"
+      "stars_today": "466 stars today",
+      "stars_total": "50,635"
     },
     {
       "name": "shiyu-coder/Kronos",
@@ -80,7 +80,7 @@
       "description": "Kronos: A Foundation Model for the Language of Financial Markets",
       "language": "Python",
       "stars_today": "322 stars today",
-      "stars_total": "34,009"
+      "stars_total": "34,158"
     }
   ],
   "ai_repos": [
@@ -90,7 +90,7 @@
       "description": "The fastest browser for AI agents to run web automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
       "language": "JavaScript",
       "stars_today": "898 stars today",
-      "stars_total": "4,123"
+      "stars_total": "4,461"
     },
     {
       "name": "CoreBunch/Instatic",
@@ -98,7 +98,7 @@
       "description": "The open-source alternative to Webflow, Framer and WordPress. Agentic self-hosted visual CMS outputting clean static pages. Users, roles, plugins, content, database, it's all there.",
       "language": "TypeScript",
       "stars_today": "892 stars today",
-      "stars_total": "5,416"
+      "stars_total": "5,644"
     },
     {
       "name": "OtterMind/Chat2DB",
@@ -106,15 +106,15 @@
       "description": "🔥🔥🔥 AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.",
       "language": "Java",
       "stars_today": "399 stars today",
-      "stars_total": "26,926"
+      "stars_total": "27,090"
     },
     {
       "name": "pbakaus/impeccable",
       "url": "https://github.com/pbakaus/impeccable",
       "description": "The design language that makes your AI harness better at design.",
       "language": "JavaScript",
-      "stars_today": "471 stars today",
-      "stars_total": "50,345"
+      "stars_today": "466 stars today",
+      "stars_total": "50,635"
     }
   ],
   "posts": [
@@ -196,10 +196,10 @@
     }
   ],
   "image_paths": [
-    "assets/2026-07-26/trending/summary.png",
-    "assets/2026-07-26/trending/post1.png",
-    "assets/2026-07-26/trending/post2.png",
-    "assets/2026-07-26/trending/post3.png",
-    "assets/2026-07-26/trending/post4.png"
+    "assets/2026-07-27/trending/summary.png",
+    "assets/2026-07-27/trending/post1.png",
+    "assets/2026-07-27/trending/post2.png",
+    "assets/2026-07-27/trending/post3.png",
+    "assets/2026-07-27/trending/post4.png"
   ]
 }
