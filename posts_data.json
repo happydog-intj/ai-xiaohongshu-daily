@@ -1,11 +1,11 @@
 {
-  "date": "2026-07-27",
+  "date": "2026-07-28",
   "posts": [
     {
-      "topic": "Show HN: Distill and",
-      "cover_line1": "Show HN: D",
+      "topic": "Our position on open",
+      "cover_line1": "Our positi",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Show HN: Distill and serve small models with frontier quality for half the cost**\n\n📌 来源：HackerNews\n🔗 https://github.com/experientiallabs/world-model-optimizer\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Our position on open-weights models**\n\n📌 来源：HackerNews\n🔗 https://www.anthropic.com/news/position-open-weights-models\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -20,10 +20,10 @@
       ]
     },
     {
-      "topic": "Cursor Bridge – Run ",
-      "cover_line1": "Cursor Bri",
+      "topic": "Securing Services wi",
+      "cover_line1": "Securing S",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Cursor Bridge – Run Unlimited Claude Code on Your Cursor Subscription**\n\n📌 来源：HackerNews\n🔗 https://github.com/hkc5/cursor-bridge\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Securing Services with Rootless Containers**\n\n📌 来源：HackerNews\n🔗 https://blog.coderspirit.xyz/blog/2026/07/06/securing-services-with-rootless-containers/\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -38,10 +38,10 @@
       ]
     },
     {
-      "topic": "The New AI Superpowe",
-      "cover_line1": "The New AI",
+      "topic": "Self-contained highl",
+      "cover_line1": "Self-conta",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**The New AI Superpowers: Focus and Followthrough**\n\n📌 来源：HackerNews\n🔗 https://www.rickmanelius.com/p/the-new-ai-superpowers-focus-and\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Self-contained highly-portable Python distributions**\n\n📌 来源：HackerNews\n🔗 https://gregoryszorc.com/docs/python-build-standalone/main/\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -56,10 +56,10 @@
       ]
     },
     {
-      "topic": "GrapheneOS protectio",
-      "cover_line1": "GrapheneOS",
+      "topic": "Netflix employee fir",
+      "cover_line1": "Netflix em",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**GrapheneOS protections against data extraction from locked devices**\n\n📌 来源：HackerNews\n🔗 https://discuss.grapheneos.org/d/40700-grapheneos-protections-against-data-extraction-from-locked-devices\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Netflix employee fired for sharing personal details in retreat trust exercise**\n\n📌 来源：HackerNews\n🔗 https://www.inc.com/amaya-nichole/netflix-company-retreat-sparked-lawsuit-experts-say-real-damage-may-be-just-beginning/91380349\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -75,15 +75,15 @@
     }
   ],
   "image_paths": [
-    "assets/2026-07-27/cover1.png",
-    "assets/2026-07-27/cover2.png",
-    "assets/2026-07-27/cover3.png",
-    "assets/2026-07-27/cover4.png"
+    "assets/2026-07-28/cover1.png",
+    "assets/2026-07-28/cover2.png",
+    "assets/2026-07-28/cover3.png",
+    "assets/2026-07-28/cover4.png"
   ],
   "feishu_image_paths": [
-    "assets/2026-07-27/cover1_feishu.png",
-    "assets/2026-07-27/cover2_feishu.png",
-    "assets/2026-07-27/cover3_feishu.png",
-    "assets/2026-07-27/cover4_feishu.png"
+    "assets/2026-07-28/cover1_feishu.png",
+    "assets/2026-07-28/cover2_feishu.png",
+    "assets/2026-07-28/cover3_feishu.png",
+    "assets/2026-07-28/cover4_feishu.png"
   ]
 }
