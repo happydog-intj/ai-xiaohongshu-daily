@@ -1,6 +1,6 @@
 {
-  "date": "2026-07-27",
-  "slot": "晚报",
+  "date": "2026-07-28",
+  "slot": "早报",
   "all_repos": [
     {
       "name": "permissionlesstech/bitchat",
@@ -8,7 +8,7 @@
       "description": "bluetooth mesh chat, IRC vibes",
       "language": "Swift",
       "stars_today": "2,344 stars today",
-      "stars_total": "31,799"
+      "stars_total": "32,219"
     },
     {
       "name": "amnezia-vpn/amnezia-client",
@@ -16,7 +16,7 @@
       "description": "Amnezia VPN Client (Desktop+Mobile)",
       "language": "C++",
       "stars_today": "515 stars today",
-      "stars_total": "13,654"
+      "stars_total": "13,793"
     },
     {
       "name": "moeru-ai/airi",
@@ -24,7 +24,15 @@
       "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
       "language": "TypeScript",
       "stars_today": "554 stars today",
-      "stars_total": "43,827"
+      "stars_total": "44,006"
+    },
+    {
+      "name": "opengeos/GeoLibre",
+      "url": "https://github.com/opengeos/GeoLibre",
+      "description": "A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. It runs in the web browser, on the desktop, on mobile, and inside Jupyter notebooks.",
+      "language": "TypeScript",
+      "stars_today": "420 stars today",
+      "stars_total": "2,655"
     },
     {
       "name": "yorukot/superfile",
@@ -32,7 +40,7 @@
       "description": "Pretty fancy and modern terminal file manager",
       "language": "Go",
       "stars_today": "600 stars today",
-      "stars_total": "20,677"
+      "stars_total": "20,857"
     },
     {
       "name": "NanmiCoder/MediaCrawler",
@@ -40,7 +48,7 @@
       "description": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫",
       "language": "Python",
       "stars_today": "349 stars today",
-      "stars_total": "58,042"
+      "stars_total": "58,150"
     },
     {
       "name": "pbakaus/impeccable",
@@ -48,7 +56,7 @@
       "description": "The design language that makes your AI harness better at design.",
       "language": "JavaScript",
       "stars_today": "849 stars today",
-      "stars_total": "51,278"
+      "stars_total": "51,514"
     },
     {
       "name": "shiyu-coder/Kronos",
@@ -56,7 +64,7 @@
       "description": "Kronos: A Foundation Model for the Language of Financial Markets",
       "language": "Python",
       "stars_today": "442 stars today",
-      "stars_total": "34,439"
+      "stars_total": "34,557"
     },
     {
       "name": "alibaba/open-code-review",
@@ -64,7 +72,7 @@
       "description": "Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
       "language": "Go",
       "stars_today": "980 stars today",
-      "stars_total": "14,513"
+      "stars_total": "14,766"
     },
     {
       "name": "jenkinsci/jenkins",
@@ -72,15 +80,7 @@
       "description": "Jenkins automation server",
       "language": "Java",
       "stars_today": "179 stars today",
-      "stars_total": "25,828"
-    },
-    {
-      "name": "bradautomates/claude-video",
-      "url": "https://github.com/bradautomates/claude-video",
-      "description": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
-      "language": "Python",
-      "stars_today": "412 stars today",
-      "stars_total": "10,809"
+      "stars_total": "25,875"
     }
   ],
   "ai_repos": [
@@ -90,7 +90,7 @@
       "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
       "language": "TypeScript",
       "stars_today": "554 stars today",
-      "stars_total": "43,827"
+      "stars_total": "44,006"
     },
     {
       "name": "pbakaus/impeccable",
@@ -98,7 +98,7 @@
       "description": "The design language that makes your AI harness better at design.",
       "language": "JavaScript",
       "stars_today": "849 stars today",
-      "stars_total": "51,278"
+      "stars_total": "51,514"
     },
     {
       "name": "alibaba/open-code-review",
@@ -106,15 +106,7 @@
       "description": "Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
       "language": "Go",
       "stars_today": "980 stars today",
-      "stars_total": "14,513"
-    },
-    {
-      "name": "bradautomates/claude-video",
-      "url": "https://github.com/bradautomates/claude-video",
-      "description": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
-      "language": "Python",
-      "stars_today": "412 stars today",
-      "stars_total": "10,809"
+      "stars_total": "14,766"
     }
   ],
   "posts": [
@@ -174,32 +166,12 @@
         "技术",
         "炼丹"
       ]
-    },
-    {
-      "topic": "claude-video",
-      "repo": "bradautomates/claude-video",
-      "cover_line1": "claude-vid",
-      "cover_line2": "今日 GitHub 热榜！",
-      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**bradautomates/claude-video**\n\n📌 Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.\n\n🔗 https://github.com/bradautomates/claude-video\n\n关注我，每天第一时间 AI 动态 👇",
-      "tags": [
-        "AI",
-        "GitHub",
-        "开源",
-        "热门项目",
-        "大模型",
-        "机器学习",
-        "深度学习",
-        "AI工具",
-        "技术",
-        "炼丹"
-      ]
     }
   ],
   "image_paths": [
-    "assets/2026-07-27/trending/summary.png",
-    "assets/2026-07-27/trending/post1.png",
-    "assets/2026-07-27/trending/post2.png",
-    "assets/2026-07-27/trending/post3.png",
-    "assets/2026-07-27/trending/post4.png"
+    "assets/2026-07-28/trending/summary.png",
+    "assets/2026-07-28/trending/post1.png",
+    "assets/2026-07-28/trending/post2.png",
+    "assets/2026-07-28/trending/post3.png"
   ]
 }
