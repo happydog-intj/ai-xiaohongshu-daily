@@ -1,6 +1,6 @@
 {
-  "date": "2026-07-28",
-  "slot": "晚报",
+  "date": "2026-07-29",
+  "slot": "早报",
   "all_repos": [
     {
       "name": "pascalorg/editor",
@@ -8,7 +8,7 @@
       "description": "Create and share 3D architectural projects.",
       "language": "TypeScript",
       "stars_today": "415 stars today",
-      "stars_total": "18,390"
+      "stars_total": "18,671"
     },
     {
       "name": "jenkinsci/jenkins",
@@ -16,7 +16,7 @@
       "description": "Jenkins automation server",
       "language": "Java",
       "stars_today": "180 stars today",
-      "stars_total": "26,009"
+      "stars_total": "26,065"
     },
     {
       "name": "moeru-ai/airi",
@@ -24,23 +24,23 @@
       "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
       "language": "TypeScript",
       "stars_today": "796 stars today",
-      "stars_total": "44,575"
+      "stars_total": "44,736"
     },
     {
       "name": "andrewyng/aisuite",
       "url": "https://github.com/andrewyng/aisuite",
       "description": "Simple, unified interface to multiple Generative AI providers",
       "language": "Python",
-      "stars_today": "185 stars today",
-      "stars_total": "15,597"
+      "stars_today": "92 stars today",
+      "stars_total": "15,674"
     },
     {
       "name": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "language": "JavaScript",
-      "stars_today": "458 stars today",
-      "stars_total": "234,553"
+      "stars_today": "692 stars today",
+      "stars_total": "234,780"
     },
     {
       "name": "huggingface/speech-to-speech",
@@ -48,7 +48,7 @@
       "description": "Build local voice agents with open-source models",
       "language": "Python",
       "stars_today": "177 stars today",
-      "stars_total": "6,924"
+      "stars_total": "7,206"
     },
     {
       "name": "virgiliojr94/book-to-skill",
@@ -56,15 +56,15 @@
       "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
       "language": "Python",
       "stars_today": "366 stars today",
-      "stars_total": "10,918"
+      "stars_total": "11,309"
     },
     {
       "name": "opengeos/GeoLibre",
       "url": "https://github.com/opengeos/GeoLibre",
       "description": "A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. It runs in the web browser, on the desktop, on mobile, and inside Jupyter notebooks.",
       "language": "TypeScript",
-      "stars_today": "420 stars today",
-      "stars_total": "3,135"
+      "stars_today": "743 stars today",
+      "stars_total": "3,377"
     },
     {
       "name": "paperswithbacktest/awesome-systematic-trading",
@@ -72,7 +72,7 @@
       "description": "A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading.",
       "language": "Python",
       "stars_today": "402 stars today",
-      "stars_total": "9,309"
+      "stars_total": "9,559"
     },
     {
       "name": "microsoft/agent-governance-toolkit",
@@ -80,7 +80,7 @@
       "description": "AI Agent Governance Toolkit — Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering for autonomous AI agents. Covers 10/10 OWASP Agentic Top 10.",
       "language": "Python",
       "stars_today": "17 stars today",
-      "stars_total": "5,044"
+      "stars_total": "5,178"
     }
   ],
   "ai_repos": [
@@ -90,23 +90,23 @@
       "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
       "language": "TypeScript",
       "stars_today": "796 stars today",
-      "stars_total": "44,575"
+      "stars_total": "44,736"
     },
     {
       "name": "andrewyng/aisuite",
       "url": "https://github.com/andrewyng/aisuite",
       "description": "Simple, unified interface to multiple Generative AI providers",
       "language": "Python",
-      "stars_today": "185 stars today",
-      "stars_total": "15,597"
+      "stars_today": "92 stars today",
+      "stars_total": "15,674"
     },
     {
       "name": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "language": "JavaScript",
-      "stars_today": "458 stars today",
-      "stars_total": "234,553"
+      "stars_today": "692 stars today",
+      "stars_total": "234,780"
     },
     {
       "name": "huggingface/speech-to-speech",
@@ -114,7 +114,7 @@
       "description": "Build local voice agents with open-source models",
       "language": "Python",
       "stars_today": "177 stars today",
-      "stars_total": "6,924"
+      "stars_total": "7,206"
     },
     {
       "name": "virgiliojr94/book-to-skill",
@@ -122,7 +122,7 @@
       "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
       "language": "Python",
       "stars_today": "366 stars today",
-      "stars_total": "10,918"
+      "stars_total": "11,309"
     },
     {
       "name": "microsoft/agent-governance-toolkit",
@@ -130,7 +130,7 @@
       "description": "AI Agent Governance Toolkit — Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering for autonomous AI agents. Covers 10/10 OWASP Agentic Top 10.",
       "language": "Python",
       "stars_today": "17 stars today",
-      "stars_total": "5,044"
+      "stars_total": "5,178"
     }
   ],
   "posts": [
@@ -212,10 +212,10 @@
     }
   ],
   "image_paths": [
-    "assets/2026-07-28/trending/summary.png",
-    "assets/2026-07-28/trending/post1.png",
-    "assets/2026-07-28/trending/post2.png",
-    "assets/2026-07-28/trending/post3.png",
-    "assets/2026-07-28/trending/post4.png"
+    "assets/2026-07-29/trending/summary.png",
+    "assets/2026-07-29/trending/post1.png",
+    "assets/2026-07-29/trending/post2.png",
+    "assets/2026-07-29/trending/post3.png",
+    "assets/2026-07-29/trending/post4.png"
   ]
 }
