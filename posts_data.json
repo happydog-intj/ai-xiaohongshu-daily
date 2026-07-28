@@ -1,11 +1,11 @@
 {
-  "date": "2026-07-28",
+  "date": "2026-07-29",
   "posts": [
     {
-      "topic": "Our position on open",
-      "cover_line1": "Our positi",
+      "topic": "Anthropic publishes ",
+      "cover_line1": "Anthropic ",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Our position on open-weights models**\n\n📌 来源：HackerNews\n🔗 https://www.anthropic.com/news/position-open-weights-models\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Anthropic publishes a practical key-recovery attack on HAWK-256**\n\n📌 来源：HackerNews\n🔗 https://github.com/anthropics/cryptography-research-demo\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -20,10 +20,10 @@
       ]
     },
     {
-      "topic": "Securing Services wi",
-      "cover_line1": "Securing S",
+      "topic": "Discovering Cryptogr",
+      "cover_line1": "Discoverin",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Securing Services with Rootless Containers**\n\n📌 来源：HackerNews\n🔗 https://blog.coderspirit.xyz/blog/2026/07/06/securing-services-with-rootless-containers/\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Discovering Cryptographic Weaknesses with Claude**\n\n📌 来源：HackerNews\n🔗 https://www.anthropic.com/research/discovering-cryptographic-weaknesses\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -38,10 +38,10 @@
       ]
     },
     {
-      "topic": "Self-contained highl",
-      "cover_line1": "Self-conta",
+      "topic": "Una GPS smart watch ",
+      "cover_line1": "Una GPS sm",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Self-contained highly-portable Python distributions**\n\n📌 来源：HackerNews\n🔗 https://gregoryszorc.com/docs/python-build-standalone/main/\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Una GPS smart watch – Repairable, USB-C charging, developer-friendly**\n\n📌 来源：HackerNews\n🔗 https://unawatch.com/\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -56,10 +56,10 @@
       ]
     },
     {
-      "topic": "Netflix employee fir",
-      "cover_line1": "Netflix em",
+      "topic": "Now is the time to g",
+      "cover_line1": "Now is the",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Netflix employee fired for sharing personal details in retreat trust exercise**\n\n📌 来源：HackerNews\n🔗 https://www.inc.com/amaya-nichole/netflix-company-retreat-sparked-lawsuit-experts-say-real-damage-may-be-just-beginning/91380349\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Now is the time to give LLMs access to the ACM digital library**\n\n📌 来源：HackerNews\n🔗 https://cacm.acm.org/opinion/now-is-the-time-to-give-llms-access-to-the-acm-digital-library/\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -75,15 +75,15 @@
     }
   ],
   "image_paths": [
-    "assets/2026-07-28/cover1.png",
-    "assets/2026-07-28/cover2.png",
-    "assets/2026-07-28/cover3.png",
-    "assets/2026-07-28/cover4.png"
+    "assets/2026-07-29/cover1.png",
+    "assets/2026-07-29/cover2.png",
+    "assets/2026-07-29/cover3.png",
+    "assets/2026-07-29/cover4.png"
   ],
   "feishu_image_paths": [
-    "assets/2026-07-28/cover1_feishu.png",
-    "assets/2026-07-28/cover2_feishu.png",
-    "assets/2026-07-28/cover3_feishu.png",
-    "assets/2026-07-28/cover4_feishu.png"
+    "assets/2026-07-29/cover1_feishu.png",
+    "assets/2026-07-29/cover2_feishu.png",
+    "assets/2026-07-29/cover3_feishu.png",
+    "assets/2026-07-29/cover4_feishu.png"
   ]
 }
