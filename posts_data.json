@@ -1,11 +1,11 @@
 {
-  "date": "2026-07-29",
+  "date": "2026-07-30",
   "posts": [
     {
-      "topic": "Anthropic publishes ",
-      "cover_line1": "Anthropic ",
+      "topic": "AI's top startups ar",
+      "cover_line1": "AI's top s",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Anthropic publishes a practical key-recovery attack on HAWK-256**\n\n📌 来源：HackerNews\n🔗 https://github.com/anthropics/cryptography-research-demo\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**AI's top startups are barely publishing their research**\n\n📌 来源：HackerNews\n🔗 https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -20,10 +20,10 @@
       ]
     },
     {
-      "topic": "Discovering Cryptogr",
-      "cover_line1": "Discoverin",
+      "topic": "Anatomy of a Frontie",
+      "cover_line1": "Anatomy of",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Discovering Cryptographic Weaknesses with Claude**\n\n📌 来源：HackerNews\n🔗 https://www.anthropic.com/research/discovering-cryptographic-weaknesses\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Anatomy of a Frontier Lab Agent Intrusion: A Timeline of the July 2026 Incident**\n\n📌 来源：HackerNews\n🔗 https://huggingface.co/blog/agent-intrusion-technical-timeline\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -38,10 +38,10 @@
       ]
     },
     {
-      "topic": "Una GPS smart watch ",
-      "cover_line1": "Una GPS sm",
+      "topic": "The Cold Email",
+      "cover_line1": "The Cold E",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Una GPS smart watch – Repairable, USB-C charging, developer-friendly**\n\n📌 来源：HackerNews\n🔗 https://unawatch.com/\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**The Cold Email**\n\n📌 来源：HackerNews\n🔗 https://zachholman.com/posts/cold-email\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -56,10 +56,10 @@
       ]
     },
     {
-      "topic": "Now is the time to g",
-      "cover_line1": "Now is the",
+      "topic": "Handbook.md shows th",
+      "cover_line1": "Handbook.m",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Now is the time to give LLMs access to the ACM digital library**\n\n📌 来源：HackerNews\n🔗 https://cacm.acm.org/opinion/now-is-the-time-to-give-llms-access-to-the-acm-digital-library/\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Handbook.md shows that long policy documents do not reliably govern agents**\n\n📌 来源：HackerNews\n🔗 https://arxiv.org/abs/2607.25398\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -75,15 +75,15 @@
     }
   ],
   "image_paths": [
-    "assets/2026-07-29/cover1.png",
-    "assets/2026-07-29/cover2.png",
-    "assets/2026-07-29/cover3.png",
-    "assets/2026-07-29/cover4.png"
+    "assets/2026-07-30/cover1.png",
+    "assets/2026-07-30/cover2.png",
+    "assets/2026-07-30/cover3.png",
+    "assets/2026-07-30/cover4.png"
   ],
   "feishu_image_paths": [
-    "assets/2026-07-29/cover1_feishu.png",
-    "assets/2026-07-29/cover2_feishu.png",
-    "assets/2026-07-29/cover3_feishu.png",
-    "assets/2026-07-29/cover4_feishu.png"
+    "assets/2026-07-30/cover1_feishu.png",
+    "assets/2026-07-30/cover2_feishu.png",
+    "assets/2026-07-30/cover3_feishu.png",
+    "assets/2026-07-30/cover4_feishu.png"
   ]
 }
