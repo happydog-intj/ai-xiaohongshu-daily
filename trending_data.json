@@ -1,6 +1,6 @@
 {
-  "date": "2026-07-29",
-  "slot": "晚报",
+  "date": "2026-07-30",
+  "slot": "早报",
   "all_repos": [
     {
       "name": "opengeos/GeoLibre",
@@ -8,7 +8,7 @@
       "description": "A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. It runs in the web browser, on the desktop, on mobile, and inside Jupyter notebooks.",
       "language": "TypeScript",
       "stars_today": "667 stars today",
-      "stars_total": "3,805"
+      "stars_total": "4,013"
     },
     {
       "name": "moeru-ai/airi",
@@ -16,7 +16,7 @@
       "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
       "language": "TypeScript",
       "stars_today": "676 stars today",
-      "stars_total": "45,219"
+      "stars_total": "45,365"
     },
     {
       "name": "affaan-m/ECC",
@@ -24,7 +24,7 @@
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "language": "JavaScript",
       "stars_today": "860 stars today",
-      "stars_total": "235,327"
+      "stars_total": "235,541"
     },
     {
       "name": "huggingface/speech-to-speech",
@@ -32,15 +32,15 @@
       "description": "Build local voice agents with open-source models",
       "language": "Python",
       "stars_today": "837 stars today",
-      "stars_total": "7,674"
+      "stars_total": "7,842"
     },
     {
       "name": "1jehuang/jcode",
       "url": "https://github.com/1jehuang/jcode",
-      "description": "The most RAM effiecent harness",
+      "description": "The most RAM efficient harness",
       "language": "Rust",
       "stars_today": "652 stars today",
-      "stars_total": "13,190"
+      "stars_total": "13,434"
     },
     {
       "name": "grokability/snipe-it",
@@ -48,7 +48,7 @@
       "description": "A free open source IT asset/license management system",
       "language": "PHP",
       "stars_today": "197 stars today",
-      "stars_total": "14,316"
+      "stars_total": "14,430"
     },
     {
       "name": "deepfakes/faceswap",
@@ -56,7 +56,7 @@
       "description": "Deepfakes Software For All",
       "language": "Python",
       "stars_today": "135 stars today",
-      "stars_total": "56,068"
+      "stars_total": "56,239"
     },
     {
       "name": "microsoft/VibeVoice",
@@ -64,7 +64,7 @@
       "description": "Open-Source Frontier Voice AI",
       "language": "Python",
       "stars_today": "332 stars today",
-      "stars_total": "51,117"
+      "stars_total": "51,248"
     },
     {
       "name": "different-ai/openwork",
@@ -72,15 +72,15 @@
       "description": "The open-source alternative to Claude Cowork (powered by opencode)",
       "language": "TypeScript",
       "stars_today": "58 stars today",
-      "stars_total": "17,516"
+      "stars_total": "17,876"
     },
     {
       "name": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
-      "stars_today": "634 stars today",
-      "stars_total": "263,047"
+      "stars_today": "686 stars today",
+      "stars_total": "263,260"
     }
   ],
   "ai_repos": [
@@ -90,7 +90,7 @@
       "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
       "language": "TypeScript",
       "stars_today": "676 stars today",
-      "stars_total": "45,219"
+      "stars_total": "45,365"
     },
     {
       "name": "affaan-m/ECC",
@@ -98,7 +98,7 @@
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "language": "JavaScript",
       "stars_today": "860 stars today",
-      "stars_total": "235,327"
+      "stars_total": "235,541"
     },
     {
       "name": "huggingface/speech-to-speech",
@@ -106,7 +106,7 @@
       "description": "Build local voice agents with open-source models",
       "language": "Python",
       "stars_today": "837 stars today",
-      "stars_total": "7,674"
+      "stars_total": "7,842"
     },
     {
       "name": "microsoft/VibeVoice",
@@ -114,7 +114,7 @@
       "description": "Open-Source Frontier Voice AI",
       "language": "Python",
       "stars_today": "332 stars today",
-      "stars_total": "51,117"
+      "stars_total": "51,248"
     },
     {
       "name": "different-ai/openwork",
@@ -122,15 +122,15 @@
       "description": "The open-source alternative to Claude Cowork (powered by opencode)",
       "language": "TypeScript",
       "stars_today": "58 stars today",
-      "stars_total": "17,516"
+      "stars_total": "17,876"
     },
     {
       "name": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
-      "stars_today": "634 stars today",
-      "stars_total": "263,047"
+      "stars_today": "686 stars today",
+      "stars_total": "263,260"
     }
   ],
   "posts": [
@@ -212,10 +212,10 @@
     }
   ],
   "image_paths": [
-    "assets/2026-07-29/trending/summary.png",
-    "assets/2026-07-29/trending/post1.png",
-    "assets/2026-07-29/trending/post2.png",
-    "assets/2026-07-29/trending/post3.png",
-    "assets/2026-07-29/trending/post4.png"
+    "assets/2026-07-30/trending/summary.png",
+    "assets/2026-07-30/trending/post1.png",
+    "assets/2026-07-30/trending/post2.png",
+    "assets/2026-07-30/trending/post3.png",
+    "assets/2026-07-30/trending/post4.png"
   ]
 }
