@@ -1,86 +1,86 @@
 {
   "date": "2026-07-29",
-  "slot": "早报",
+  "slot": "晚报",
   "all_repos": [
     {
-      "name": "pascalorg/editor",
-      "url": "https://github.com/pascalorg/editor",
-      "description": "Create and share 3D architectural projects.",
+      "name": "opengeos/GeoLibre",
+      "url": "https://github.com/opengeos/GeoLibre",
+      "description": "A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. It runs in the web browser, on the desktop, on mobile, and inside Jupyter notebooks.",
       "language": "TypeScript",
-      "stars_today": "415 stars today",
-      "stars_total": "18,671"
-    },
-    {
-      "name": "jenkinsci/jenkins",
-      "url": "https://github.com/jenkinsci/jenkins",
-      "description": "Jenkins automation server",
-      "language": "Java",
-      "stars_today": "180 stars today",
-      "stars_total": "26,065"
+      "stars_today": "667 stars today",
+      "stars_total": "3,805"
     },
     {
       "name": "moeru-ai/airi",
       "url": "https://github.com/moeru-ai/airi",
       "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
       "language": "TypeScript",
-      "stars_today": "796 stars today",
-      "stars_total": "44,736"
-    },
-    {
-      "name": "andrewyng/aisuite",
-      "url": "https://github.com/andrewyng/aisuite",
-      "description": "Simple, unified interface to multiple Generative AI providers",
-      "language": "Python",
-      "stars_today": "92 stars today",
-      "stars_total": "15,674"
+      "stars_today": "676 stars today",
+      "stars_total": "45,219"
     },
     {
       "name": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "language": "JavaScript",
-      "stars_today": "692 stars today",
-      "stars_total": "234,780"
+      "stars_today": "860 stars today",
+      "stars_total": "235,327"
     },
     {
       "name": "huggingface/speech-to-speech",
       "url": "https://github.com/huggingface/speech-to-speech",
       "description": "Build local voice agents with open-source models",
       "language": "Python",
-      "stars_today": "177 stars today",
-      "stars_total": "7,206"
+      "stars_today": "837 stars today",
+      "stars_total": "7,674"
     },
     {
-      "name": "virgiliojr94/book-to-skill",
-      "url": "https://github.com/virgiliojr94/book-to-skill",
-      "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
+      "name": "1jehuang/jcode",
+      "url": "https://github.com/1jehuang/jcode",
+      "description": "The most RAM effiecent harness",
+      "language": "Rust",
+      "stars_today": "652 stars today",
+      "stars_total": "13,190"
+    },
+    {
+      "name": "grokability/snipe-it",
+      "url": "https://github.com/grokability/snipe-it",
+      "description": "A free open source IT asset/license management system",
+      "language": "PHP",
+      "stars_today": "197 stars today",
+      "stars_total": "14,316"
+    },
+    {
+      "name": "deepfakes/faceswap",
+      "url": "https://github.com/deepfakes/faceswap",
+      "description": "Deepfakes Software For All",
       "language": "Python",
-      "stars_today": "366 stars today",
-      "stars_total": "11,309"
+      "stars_today": "135 stars today",
+      "stars_total": "56,068"
     },
     {
-      "name": "opengeos/GeoLibre",
-      "url": "https://github.com/opengeos/GeoLibre",
-      "description": "A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. It runs in the web browser, on the desktop, on mobile, and inside Jupyter notebooks.",
+      "name": "microsoft/VibeVoice",
+      "url": "https://github.com/microsoft/VibeVoice",
+      "description": "Open-Source Frontier Voice AI",
+      "language": "Python",
+      "stars_today": "332 stars today",
+      "stars_total": "51,117"
+    },
+    {
+      "name": "different-ai/openwork",
+      "url": "https://github.com/different-ai/openwork",
+      "description": "The open-source alternative to Claude Cowork (powered by opencode)",
       "language": "TypeScript",
-      "stars_today": "743 stars today",
-      "stars_total": "3,377"
+      "stars_today": "58 stars today",
+      "stars_total": "17,516"
     },
     {
-      "name": "paperswithbacktest/awesome-systematic-trading",
-      "url": "https://github.com/paperswithbacktest/awesome-systematic-trading",
-      "description": "A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading.",
-      "language": "Python",
-      "stars_today": "402 stars today",
-      "stars_total": "9,559"
-    },
-    {
-      "name": "microsoft/agent-governance-toolkit",
-      "url": "https://github.com/microsoft/agent-governance-toolkit",
-      "description": "AI Agent Governance Toolkit — Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering for autonomous AI agents. Covers 10/10 OWASP Agentic Top 10.",
-      "language": "Python",
-      "stars_today": "17 stars today",
-      "stars_total": "5,178"
+      "name": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars_today": "634 stars today",
+      "stars_total": "263,047"
     }
   ],
   "ai_repos": [
@@ -89,48 +89,48 @@
       "url": "https://github.com/moeru-ai/airi",
       "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
       "language": "TypeScript",
-      "stars_today": "796 stars today",
-      "stars_total": "44,736"
-    },
-    {
-      "name": "andrewyng/aisuite",
-      "url": "https://github.com/andrewyng/aisuite",
-      "description": "Simple, unified interface to multiple Generative AI providers",
-      "language": "Python",
-      "stars_today": "92 stars today",
-      "stars_total": "15,674"
+      "stars_today": "676 stars today",
+      "stars_total": "45,219"
     },
     {
       "name": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "language": "JavaScript",
-      "stars_today": "692 stars today",
-      "stars_total": "234,780"
+      "stars_today": "860 stars today",
+      "stars_total": "235,327"
     },
     {
       "name": "huggingface/speech-to-speech",
       "url": "https://github.com/huggingface/speech-to-speech",
       "description": "Build local voice agents with open-source models",
       "language": "Python",
-      "stars_today": "177 stars today",
-      "stars_total": "7,206"
+      "stars_today": "837 stars today",
+      "stars_total": "7,674"
     },
     {
-      "name": "virgiliojr94/book-to-skill",
-      "url": "https://github.com/virgiliojr94/book-to-skill",
-      "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
+      "name": "microsoft/VibeVoice",
+      "url": "https://github.com/microsoft/VibeVoice",
+      "description": "Open-Source Frontier Voice AI",
       "language": "Python",
-      "stars_today": "366 stars today",
-      "stars_total": "11,309"
+      "stars_today": "332 stars today",
+      "stars_total": "51,117"
     },
     {
-      "name": "microsoft/agent-governance-toolkit",
-      "url": "https://github.com/microsoft/agent-governance-toolkit",
-      "description": "AI Agent Governance Toolkit — Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering for autonomous AI agents. Covers 10/10 OWASP Agentic Top 10.",
-      "language": "Python",
-      "stars_today": "17 stars today",
-      "stars_total": "5,178"
+      "name": "different-ai/openwork",
+      "url": "https://github.com/different-ai/openwork",
+      "description": "The open-source alternative to Claude Cowork (powered by opencode)",
+      "language": "TypeScript",
+      "stars_today": "58 stars today",
+      "stars_total": "17,516"
+    },
+    {
+      "name": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars_today": "634 stars today",
+      "stars_total": "263,047"
     }
   ],
   "posts": [
@@ -140,25 +140,6 @@
       "cover_line1": "airi",
       "cover_line2": "今日 GitHub 热榜！",
       "body": "🔥 GitHub Trending 今日爆款来了！\n\n**moeru-ai/airi**\n\n📌 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.\n\n🔗 https://github.com/moeru-ai/airi\n\n关注我，每天第一时间 AI 动态 👇",
-      "tags": [
-        "AI",
-        "GitHub",
-        "开源",
-        "热门项目",
-        "大模型",
-        "机器学习",
-        "深度学习",
-        "AI工具",
-        "技术",
-        "炼丹"
-      ]
-    },
-    {
-      "topic": "aisuite",
-      "repo": "andrewyng/aisuite",
-      "cover_line1": "aisuite",
-      "cover_line2": "今日 GitHub 热榜！",
-      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**andrewyng/aisuite**\n\n📌 Simple, unified interface to multiple Generative AI providers\n\n🔗 https://github.com/andrewyng/aisuite\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "GitHub",
@@ -197,6 +178,25 @@
       "cover_line1": "speech-to-",
       "cover_line2": "今日 GitHub 热榜！",
       "body": "🔥 GitHub Trending 今日爆款来了！\n\n**huggingface/speech-to-speech**\n\n📌 Build local voice agents with open-source models\n\n🔗 https://github.com/huggingface/speech-to-speech\n\n关注我，每天第一时间 AI 动态 👇",
+      "tags": [
+        "AI",
+        "GitHub",
+        "开源",
+        "热门项目",
+        "大模型",
+        "机器学习",
+        "深度学习",
+        "AI工具",
+        "技术",
+        "炼丹"
+      ]
+    },
+    {
+      "topic": "VibeVoice",
+      "repo": "microsoft/VibeVoice",
+      "cover_line1": "VibeVoice",
+      "cover_line2": "今日 GitHub 热榜！",
+      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**microsoft/VibeVoice**\n\n📌 Open-Source Frontier Voice AI\n\n🔗 https://github.com/microsoft/VibeVoice\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "GitHub",
