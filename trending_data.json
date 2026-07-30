@@ -1,177 +1,139 @@
 {
   "date": "2026-07-30",
-  "slot": "早报",
+  "slot": "晚报",
   "all_repos": [
-    {
-      "name": "opengeos/GeoLibre",
-      "url": "https://github.com/opengeos/GeoLibre",
-      "description": "A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. It runs in the web browser, on the desktop, on mobile, and inside Jupyter notebooks.",
-      "language": "TypeScript",
-      "stars_today": "667 stars today",
-      "stars_total": "4,013"
-    },
-    {
-      "name": "moeru-ai/airi",
-      "url": "https://github.com/moeru-ai/airi",
-      "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
-      "language": "TypeScript",
-      "stars_today": "676 stars today",
-      "stars_total": "45,365"
-    },
-    {
-      "name": "affaan-m/ECC",
-      "url": "https://github.com/affaan-m/ECC",
-      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "language": "JavaScript",
-      "stars_today": "860 stars today",
-      "stars_total": "235,541"
-    },
     {
       "name": "huggingface/speech-to-speech",
       "url": "https://github.com/huggingface/speech-to-speech",
       "description": "Build local voice agents with open-source models",
       "language": "Python",
-      "stars_today": "837 stars today",
-      "stars_total": "7,842"
+      "stars_today": "627 stars today",
+      "stars_total": "8,344"
     },
     {
-      "name": "1jehuang/jcode",
-      "url": "https://github.com/1jehuang/jcode",
-      "description": "The most RAM efficient harness",
-      "language": "Rust",
-      "stars_today": "652 stars today",
-      "stars_total": "13,434"
+      "name": "microsoft/AI-For-Beginners",
+      "url": "https://github.com/microsoft/AI-For-Beginners",
+      "description": "12 Weeks, 24 Lessons, AI for All!",
+      "language": "Jupyter Notebook",
+      "stars_today": "115 stars today",
+      "stars_total": "53,491"
     },
     {
-      "name": "grokability/snipe-it",
-      "url": "https://github.com/grokability/snipe-it",
-      "description": "A free open source IT asset/license management system",
-      "language": "PHP",
-      "stars_today": "197 stars today",
-      "stars_total": "14,430"
-    },
-    {
-      "name": "deepfakes/faceswap",
-      "url": "https://github.com/deepfakes/faceswap",
-      "description": "Deepfakes Software For All",
+      "name": "paperswithbacktest/awesome-systematic-trading",
+      "url": "https://github.com/paperswithbacktest/awesome-systematic-trading",
+      "description": "A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading.",
       "language": "Python",
-      "stars_today": "135 stars today",
-      "stars_total": "56,239"
-    },
-    {
-      "name": "microsoft/VibeVoice",
-      "url": "https://github.com/microsoft/VibeVoice",
-      "description": "Open-Source Frontier Voice AI",
-      "language": "Python",
-      "stars_today": "332 stars today",
-      "stars_total": "51,248"
+      "stars_today": "628 stars today",
+      "stars_total": "10,819"
     },
     {
       "name": "different-ai/openwork",
       "url": "https://github.com/different-ai/openwork",
       "description": "The open-source alternative to Claude Cowork (powered by opencode)",
       "language": "TypeScript",
-      "stars_today": "58 stars today",
-      "stars_total": "17,876"
+      "stars_today": "916 stars today",
+      "stars_total": "18,443"
     },
     {
-      "name": "obra/superpowers",
-      "url": "https://github.com/obra/superpowers",
-      "description": "An agentic skills framework & software development methodology that works.",
-      "language": "Shell",
-      "stars_today": "686 stars today",
-      "stars_total": "263,260"
+      "name": "WhiskeySockets/Baileys",
+      "url": "https://github.com/WhiskeySockets/Baileys",
+      "description": "Socket-based TS/JavaScript API for WhatsApp Web",
+      "language": "JavaScript",
+      "stars_today": "12 stars today",
+      "stars_total": "10,360"
+    },
+    {
+      "name": "pascalorg/editor",
+      "url": "https://github.com/pascalorg/editor",
+      "description": "Create and share 3D architectural projects.",
+      "language": "TypeScript",
+      "stars_today": "617 stars today",
+      "stars_total": "19,946"
+    },
+    {
+      "name": "mvanhorn/last30days-skill",
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "language": "Python",
+      "stars_today": "377 stars today",
+      "stars_total": "55,325"
+    },
+    {
+      "name": "dotnet/aspnetcore",
+      "url": "https://github.com/dotnet/aspnetcore",
+      "description": "ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.",
+      "language": "C#",
+      "stars_today": "5 stars today",
+      "stars_total": "38,258"
+    },
+    {
+      "name": "microsoft/PowerToys",
+      "url": "https://github.com/microsoft/PowerToys",
+      "description": "Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows",
+      "language": "C",
+      "stars_today": "68 stars today",
+      "stars_total": "136,988"
+    },
+    {
+      "name": "ansible/ansible",
+      "url": "https://github.com/ansible/ansible",
+      "description": "Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems.https://docs.ansible.com.",
+      "language": "Python",
+      "stars_today": "20 stars today",
+      "stars_total": "69,789"
     }
   ],
   "ai_repos": [
     {
-      "name": "moeru-ai/airi",
-      "url": "https://github.com/moeru-ai/airi",
-      "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
-      "language": "TypeScript",
-      "stars_today": "676 stars today",
-      "stars_total": "45,365"
-    },
-    {
-      "name": "affaan-m/ECC",
-      "url": "https://github.com/affaan-m/ECC",
-      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "language": "JavaScript",
-      "stars_today": "860 stars today",
-      "stars_total": "235,541"
-    },
-    {
       "name": "huggingface/speech-to-speech",
       "url": "https://github.com/huggingface/speech-to-speech",
       "description": "Build local voice agents with open-source models",
       "language": "Python",
-      "stars_today": "837 stars today",
-      "stars_total": "7,842"
+      "stars_today": "627 stars today",
+      "stars_total": "8,344"
     },
     {
-      "name": "microsoft/VibeVoice",
-      "url": "https://github.com/microsoft/VibeVoice",
-      "description": "Open-Source Frontier Voice AI",
-      "language": "Python",
-      "stars_today": "332 stars today",
-      "stars_total": "51,248"
+      "name": "microsoft/AI-For-Beginners",
+      "url": "https://github.com/microsoft/AI-For-Beginners",
+      "description": "12 Weeks, 24 Lessons, AI for All!",
+      "language": "Jupyter Notebook",
+      "stars_today": "115 stars today",
+      "stars_total": "53,491"
     },
     {
       "name": "different-ai/openwork",
       "url": "https://github.com/different-ai/openwork",
       "description": "The open-source alternative to Claude Cowork (powered by opencode)",
       "language": "TypeScript",
-      "stars_today": "58 stars today",
-      "stars_total": "17,876"
+      "stars_today": "916 stars today",
+      "stars_total": "18,443"
     },
     {
-      "name": "obra/superpowers",
-      "url": "https://github.com/obra/superpowers",
-      "description": "An agentic skills framework & software development methodology that works.",
-      "language": "Shell",
-      "stars_today": "686 stars today",
-      "stars_total": "263,260"
+      "name": "WhiskeySockets/Baileys",
+      "url": "https://github.com/WhiskeySockets/Baileys",
+      "description": "Socket-based TS/JavaScript API for WhatsApp Web",
+      "language": "JavaScript",
+      "stars_today": "12 stars today",
+      "stars_total": "10,360"
+    },
+    {
+      "name": "mvanhorn/last30days-skill",
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "language": "Python",
+      "stars_today": "377 stars today",
+      "stars_total": "55,325"
+    },
+    {
+      "name": "ansible/ansible",
+      "url": "https://github.com/ansible/ansible",
+      "description": "Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems.https://docs.ansible.com.",
+      "language": "Python",
+      "stars_today": "20 stars today",
+      "stars_total": "69,789"
     }
   ],
   "posts": [
-    {
-      "topic": "airi",
-      "repo": "moeru-ai/airi",
-      "cover_line1": "airi",
-      "cover_line2": "今日 GitHub 热榜！",
-      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**moeru-ai/airi**\n\n📌 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.\n\n🔗 https://github.com/moeru-ai/airi\n\n关注我，每天第一时间 AI 动态 👇",
-      "tags": [
-        "AI",
-        "GitHub",
-        "开源",
-        "热门项目",
-        "大模型",
-        "机器学习",
-        "深度学习",
-        "AI工具",
-        "技术",
-        "炼丹"
-      ]
-    },
-    {
-      "topic": "ECC",
-      "repo": "affaan-m/ECC",
-      "cover_line1": "ECC",
-      "cover_line2": "今日 GitHub 热榜！",
-      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**affaan-m/ECC**\n\n📌 The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.\n\n🔗 https://github.com/affaan-m/ECC\n\n关注我，每天第一时间 AI 动态 👇",
-      "tags": [
-        "AI",
-        "GitHub",
-        "开源",
-        "热门项目",
-        "大模型",
-        "机器学习",
-        "深度学习",
-        "AI工具",
-        "技术",
-        "炼丹"
-      ]
-    },
     {
       "topic": "speech-to-speech",
       "repo": "huggingface/speech-to-speech",
@@ -192,11 +154,49 @@
       ]
     },
     {
-      "topic": "VibeVoice",
-      "repo": "microsoft/VibeVoice",
-      "cover_line1": "VibeVoice",
+      "topic": "AI-For-Beginners",
+      "repo": "microsoft/AI-For-Beginners",
+      "cover_line1": "AI-For-Beg",
       "cover_line2": "今日 GitHub 热榜！",
-      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**microsoft/VibeVoice**\n\n📌 Open-Source Frontier Voice AI\n\n🔗 https://github.com/microsoft/VibeVoice\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**microsoft/AI-For-Beginners**\n\n📌 12 Weeks, 24 Lessons, AI for All!\n\n🔗 https://github.com/microsoft/AI-For-Beginners\n\n关注我，每天第一时间 AI 动态 👇",
+      "tags": [
+        "AI",
+        "GitHub",
+        "开源",
+        "热门项目",
+        "大模型",
+        "机器学习",
+        "深度学习",
+        "AI工具",
+        "技术",
+        "炼丹"
+      ]
+    },
+    {
+      "topic": "openwork",
+      "repo": "different-ai/openwork",
+      "cover_line1": "openwork",
+      "cover_line2": "今日 GitHub 热榜！",
+      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**different-ai/openwork**\n\n📌 The open-source alternative to Claude Cowork (powered by opencode)\n\n🔗 https://github.com/different-ai/openwork\n\n关注我，每天第一时间 AI 动态 👇",
+      "tags": [
+        "AI",
+        "GitHub",
+        "开源",
+        "热门项目",
+        "大模型",
+        "机器学习",
+        "深度学习",
+        "AI工具",
+        "技术",
+        "炼丹"
+      ]
+    },
+    {
+      "topic": "Baileys",
+      "repo": "WhiskeySockets/Baileys",
+      "cover_line1": "Baileys",
+      "cover_line2": "今日 GitHub 热榜！",
+      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**WhiskeySockets/Baileys**\n\n📌 Socket-based TS/JavaScript API for WhatsApp Web\n\n🔗 https://github.com/WhiskeySockets/Baileys\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "GitHub",
