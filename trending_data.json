@@ -1,6 +1,6 @@
 {
-  "date": "2026-07-30",
-  "slot": "晚报",
+  "date": "2026-07-31",
+  "slot": "早报",
   "all_repos": [
     {
       "name": "huggingface/speech-to-speech",
@@ -8,15 +8,15 @@
       "description": "Build local voice agents with open-source models",
       "language": "Python",
       "stars_today": "627 stars today",
-      "stars_total": "8,344"
+      "stars_total": "8,758"
     },
     {
       "name": "microsoft/AI-For-Beginners",
       "url": "https://github.com/microsoft/AI-For-Beginners",
       "description": "12 Weeks, 24 Lessons, AI for All!",
       "language": "Jupyter Notebook",
-      "stars_today": "115 stars today",
-      "stars_total": "53,491"
+      "stars_today": "657 stars today",
+      "stars_total": "53,869"
     },
     {
       "name": "paperswithbacktest/awesome-systematic-trading",
@@ -24,7 +24,7 @@
       "description": "A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading.",
       "language": "Python",
       "stars_today": "628 stars today",
-      "stars_total": "10,819"
+      "stars_total": "11,017"
     },
     {
       "name": "different-ai/openwork",
@@ -32,7 +32,7 @@
       "description": "The open-source alternative to Claude Cowork (powered by opencode)",
       "language": "TypeScript",
       "stars_today": "916 stars today",
-      "stars_total": "18,443"
+      "stars_total": "18,701"
     },
     {
       "name": "WhiskeySockets/Baileys",
@@ -40,7 +40,7 @@
       "description": "Socket-based TS/JavaScript API for WhatsApp Web",
       "language": "JavaScript",
       "stars_today": "12 stars today",
-      "stars_total": "10,360"
+      "stars_total": "10,429"
     },
     {
       "name": "pascalorg/editor",
@@ -48,7 +48,7 @@
       "description": "Create and share 3D architectural projects.",
       "language": "TypeScript",
       "stars_today": "617 stars today",
-      "stars_total": "19,946"
+      "stars_total": "20,099"
     },
     {
       "name": "mvanhorn/last30days-skill",
@@ -56,7 +56,7 @@
       "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
       "language": "Python",
       "stars_today": "377 stars today",
-      "stars_total": "55,325"
+      "stars_total": "55,527"
     },
     {
       "name": "dotnet/aspnetcore",
@@ -64,15 +64,15 @@
       "description": "ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.",
       "language": "C#",
       "stars_today": "5 stars today",
-      "stars_total": "38,258"
+      "stars_total": "38,286"
     },
     {
       "name": "microsoft/PowerToys",
       "url": "https://github.com/microsoft/PowerToys",
       "description": "Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows",
       "language": "C",
-      "stars_today": "68 stars today",
-      "stars_total": "136,988"
+      "stars_today": "224 stars today",
+      "stars_total": "137,104"
     },
     {
       "name": "ansible/ansible",
@@ -80,7 +80,7 @@
       "description": "Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems.https://docs.ansible.com.",
       "language": "Python",
       "stars_today": "20 stars today",
-      "stars_total": "69,789"
+      "stars_total": "69,873"
     }
   ],
   "ai_repos": [
@@ -90,15 +90,15 @@
       "description": "Build local voice agents with open-source models",
       "language": "Python",
       "stars_today": "627 stars today",
-      "stars_total": "8,344"
+      "stars_total": "8,758"
     },
     {
       "name": "microsoft/AI-For-Beginners",
       "url": "https://github.com/microsoft/AI-For-Beginners",
       "description": "12 Weeks, 24 Lessons, AI for All!",
       "language": "Jupyter Notebook",
-      "stars_today": "115 stars today",
-      "stars_total": "53,491"
+      "stars_today": "657 stars today",
+      "stars_total": "53,869"
     },
     {
       "name": "different-ai/openwork",
@@ -106,7 +106,7 @@
       "description": "The open-source alternative to Claude Cowork (powered by opencode)",
       "language": "TypeScript",
       "stars_today": "916 stars today",
-      "stars_total": "18,443"
+      "stars_total": "18,701"
     },
     {
       "name": "WhiskeySockets/Baileys",
@@ -114,7 +114,7 @@
       "description": "Socket-based TS/JavaScript API for WhatsApp Web",
       "language": "JavaScript",
       "stars_today": "12 stars today",
-      "stars_total": "10,360"
+      "stars_total": "10,429"
     },
     {
       "name": "mvanhorn/last30days-skill",
@@ -122,7 +122,7 @@
       "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
       "language": "Python",
       "stars_today": "377 stars today",
-      "stars_total": "55,325"
+      "stars_total": "55,527"
     },
     {
       "name": "ansible/ansible",
@@ -130,7 +130,7 @@
       "description": "Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems.https://docs.ansible.com.",
       "language": "Python",
       "stars_today": "20 stars today",
-      "stars_total": "69,789"
+      "stars_total": "69,873"
     }
   ],
   "posts": [
@@ -212,10 +212,10 @@
     }
   ],
   "image_paths": [
-    "assets/2026-07-30/trending/summary.png",
-    "assets/2026-07-30/trending/post1.png",
-    "assets/2026-07-30/trending/post2.png",
-    "assets/2026-07-30/trending/post3.png",
-    "assets/2026-07-30/trending/post4.png"
+    "assets/2026-07-31/trending/summary.png",
+    "assets/2026-07-31/trending/post1.png",
+    "assets/2026-07-31/trending/post2.png",
+    "assets/2026-07-31/trending/post3.png",
+    "assets/2026-07-31/trending/post4.png"
   ]
 }
