@@ -1,6 +1,6 @@
 {
-  "date": "2026-08-01",
-  "slot": "晚报",
+  "date": "2026-08-02",
+  "slot": "早报",
   "all_repos": [
     {
       "name": "microsoft/AI-For-Beginners",
@@ -8,7 +8,7 @@
       "description": "12 Weeks, 24 Lessons, AI for All!",
       "language": "Jupyter Notebook",
       "stars_today": "869 stars today",
-      "stars_total": "56,090"
+      "stars_total": "57,140"
     },
     {
       "name": "paperswithbacktest/awesome-systematic-trading",
@@ -16,7 +16,7 @@
       "description": "A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading.",
       "language": "Python",
       "stars_today": "529 stars today",
-      "stars_total": "12,044"
+      "stars_total": "12,229"
     },
     {
       "name": "usekaneo/kaneo",
@@ -24,7 +24,7 @@
       "description": "🎯 All you need. Nothing you don't. Open source project management that works for you, not against you.",
       "language": "TypeScript",
       "stars_today": "778 stars today",
-      "stars_total": "5,453"
+      "stars_total": "5,666"
     },
     {
       "name": "zhaoxuya520/reverse-skill",
@@ -32,7 +32,7 @@
       "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端",
       "language": "PowerShell",
       "stars_today": "1,360 stars today",
-      "stars_total": "11,486"
+      "stars_total": "11,877"
     },
     {
       "name": "microsoft/generative-ai-for-beginners",
@@ -40,7 +40,7 @@
       "description": "21 Lessons, Get Started Building with Generative AI",
       "language": "Jupyter Notebook",
       "stars_today": "104 stars today",
-      "stars_total": "113,953"
+      "stars_total": "114,188"
     },
     {
       "name": "github/copilot-sdk",
@@ -48,23 +48,23 @@
       "description": "Multi-platform SDK for integrating GitHub Copilot Agent into apps and services",
       "language": "Java",
       "stars_today": "145 stars today",
-      "stars_total": "10,215"
+      "stars_total": "10,271"
     },
     {
       "name": "github/gh-stack",
       "url": "https://github.com/github/gh-stack",
       "description": "GitHub Stacked PRs",
       "language": "Go",
-      "stars_today": "67 stars today",
-      "stars_total": "713"
+      "stars_today": "90 stars today",
+      "stars_total": "805"
     },
     {
       "name": "huggingface/speech-to-speech",
       "url": "https://github.com/huggingface/speech-to-speech",
       "description": "Build local voice agents with open-source models",
       "language": "Python",
-      "stars_today": "1,275 stars today",
-      "stars_total": "10,029"
+      "stars_today": "393 stars today",
+      "stars_total": "10,193"
     },
     {
       "name": "abus-aikorea/voice-pro",
@@ -72,7 +72,7 @@
       "description": "Gradio WebUI for creators and developers, featuring key TTS (Edge-TTS, kokoro) and zero-shot Voice Cloning (E2 & F5-TTS, CosyVoice), with Whisper audio processing, YouTube download, Demucs vocal isolation, and multilingual translation.",
       "language": "Python",
       "stars_today": "53 stars today",
-      "stars_total": "11,582"
+      "stars_total": "11,734"
     },
     {
       "name": "iv-org/invidious",
@@ -80,7 +80,7 @@
       "description": "Invidious is an alternative front-end to YouTube",
       "language": "Crystal",
       "stars_today": "361 stars today",
-      "stars_total": "21,488"
+      "stars_total": "21,604"
     }
   ],
   "ai_repos": [
@@ -90,7 +90,7 @@
       "description": "12 Weeks, 24 Lessons, AI for All!",
       "language": "Jupyter Notebook",
       "stars_today": "869 stars today",
-      "stars_total": "56,090"
+      "stars_total": "57,140"
     },
     {
       "name": "usekaneo/kaneo",
@@ -98,7 +98,7 @@
       "description": "🎯 All you need. Nothing you don't. Open source project management that works for you, not against you.",
       "language": "TypeScript",
       "stars_today": "778 stars today",
-      "stars_total": "5,453"
+      "stars_total": "5,666"
     },
     {
       "name": "zhaoxuya520/reverse-skill",
@@ -106,7 +106,7 @@
       "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端",
       "language": "PowerShell",
       "stars_today": "1,360 stars today",
-      "stars_total": "11,486"
+      "stars_total": "11,877"
     },
     {
       "name": "microsoft/generative-ai-for-beginners",
@@ -114,7 +114,7 @@
       "description": "21 Lessons, Get Started Building with Generative AI",
       "language": "Jupyter Notebook",
       "stars_today": "104 stars today",
-      "stars_total": "113,953"
+      "stars_total": "114,188"
     },
     {
       "name": "github/copilot-sdk",
@@ -122,15 +122,15 @@
       "description": "Multi-platform SDK for integrating GitHub Copilot Agent into apps and services",
       "language": "Java",
       "stars_today": "145 stars today",
-      "stars_total": "10,215"
+      "stars_total": "10,271"
     },
     {
       "name": "huggingface/speech-to-speech",
       "url": "https://github.com/huggingface/speech-to-speech",
       "description": "Build local voice agents with open-source models",
       "language": "Python",
-      "stars_today": "1,275 stars today",
-      "stars_total": "10,029"
+      "stars_today": "393 stars today",
+      "stars_total": "10,193"
     },
     {
       "name": "abus-aikorea/voice-pro",
@@ -138,7 +138,7 @@
       "description": "Gradio WebUI for creators and developers, featuring key TTS (Edge-TTS, kokoro) and zero-shot Voice Cloning (E2 & F5-TTS, CosyVoice), with Whisper audio processing, YouTube download, Demucs vocal isolation, and multilingual translation.",
       "language": "Python",
       "stars_today": "53 stars today",
-      "stars_total": "11,582"
+      "stars_total": "11,734"
     }
   ],
   "posts": [
@@ -220,10 +220,10 @@
     }
   ],
   "image_paths": [
-    "assets/2026-08-01/trending/summary.png",
-    "assets/2026-08-01/trending/post1.png",
-    "assets/2026-08-01/trending/post2.png",
-    "assets/2026-08-01/trending/post3.png",
-    "assets/2026-08-01/trending/post4.png"
+    "assets/2026-08-02/trending/summary.png",
+    "assets/2026-08-02/trending/post1.png",
+    "assets/2026-08-02/trending/post2.png",
+    "assets/2026-08-02/trending/post3.png",
+    "assets/2026-08-02/trending/post4.png"
   ]
 }
