@@ -1,11 +1,11 @@
 {
-  "date": "2026-08-01",
+  "date": "2026-08-02",
   "posts": [
     {
-      "topic": "Tailscale didn't sto",
-      "cover_line1": "Tailscale ",
+      "topic": "AI financial advice ",
+      "cover_line1": "AI financi",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Tailscale didn't stop the Hugging Face intrusion**\n\n📌 来源：HackerNews\n🔗 https://tailscale.com/blog/hugging-face-intrusion\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**AI financial advice is surprisingly good if you ask the right questions**\n\n📌 来源：HackerNews\n🔗 https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -20,10 +20,10 @@
       ]
     },
     {
-      "topic": "Twenty-five years ag",
-      "cover_line1": "Twenty-fiv",
+      "topic": "Explorative modeling",
+      "cover_line1": "Explorativ",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Twenty-five years ago it was cryptography, today it's model weights**\n\n📌 来源：HackerNews\n🔗 https://weeraman.com/because-we-can/\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Explorative modeling: Train on the best of K guesses**\n\n📌 来源：HackerNews\n🔗 https://alexiglad.github.io/blog/2026/explorative_modeling/\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -38,10 +38,10 @@
       ]
     },
     {
-      "topic": "Golang proposal: con",
-      "cover_line1": "Golang pro",
+      "topic": "Kaisel – Routes as V",
+      "cover_line1": "Kaisel – R",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Golang proposal: container/: generic collection types**\n\n📌 来源：HackerNews\n🔗 https://github.com/golang/go/issues/80590\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Kaisel – Routes as Values. Dart 3 Native Router for Flutter**\n\n📌 来源：HackerNews\n🔗 https://kaisel.dev/\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -56,10 +56,10 @@
       ]
     },
     {
-      "topic": "The First Transatlan",
-      "cover_line1": "The First ",
+      "topic": "The Burau representa",
+      "cover_line1": "The Burau ",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**The First Transatlantic Telegraph Cable Was a Bold, Beautiful Failure**\n\n📌 来源：HackerNews\n🔗 https://spectrum.ieee.org/the-first-transatlantic-telegraph-cable-was-a-bold-beautiful-failure\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**The Burau representation of the braid group is faithful for n = 4**\n\n📌 来源：HackerNews\n🔗 https://arxiv.org/abs/2607.05283\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -75,15 +75,15 @@
     }
   ],
   "image_paths": [
-    "assets/2026-08-01/cover1.png",
-    "assets/2026-08-01/cover2.png",
-    "assets/2026-08-01/cover3.png",
-    "assets/2026-08-01/cover4.png"
+    "assets/2026-08-02/cover1.png",
+    "assets/2026-08-02/cover2.png",
+    "assets/2026-08-02/cover3.png",
+    "assets/2026-08-02/cover4.png"
   ],
   "feishu_image_paths": [
-    "assets/2026-08-01/cover1_feishu.png",
-    "assets/2026-08-01/cover2_feishu.png",
-    "assets/2026-08-01/cover3_feishu.png",
-    "assets/2026-08-01/cover4_feishu.png"
+    "assets/2026-08-02/cover1_feishu.png",
+    "assets/2026-08-02/cover2_feishu.png",
+    "assets/2026-08-02/cover3_feishu.png",
+    "assets/2026-08-02/cover4_feishu.png"
   ]
 }
