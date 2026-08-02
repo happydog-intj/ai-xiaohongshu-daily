@@ -1,11 +1,11 @@
 {
-  "date": "2026-08-02",
+  "date": "2026-08-03",
   "posts": [
     {
-      "topic": "AI financial advice ",
-      "cover_line1": "AI financi",
+      "topic": "AI poster wins Ohio ",
+      "cover_line1": "AI poster ",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**AI financial advice is surprisingly good if you ask the right questions**\n\n📌 来源：HackerNews\n🔗 https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**AI poster wins Ohio State Fair contest**\n\n📌 来源：HackerNews\n🔗 https://www.ohiostatefair.com/p/get-involved/arts/poster-contest\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -20,10 +20,10 @@
       ]
     },
     {
-      "topic": "Explorative modeling",
-      "cover_line1": "Explorativ",
+      "topic": "Autoregressive Langu",
+      "cover_line1": "Autoregres",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Explorative modeling: Train on the best of K guesses**\n\n📌 来源：HackerNews\n🔗 https://alexiglad.github.io/blog/2026/explorative_modeling/\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Autoregressive Language Model on the 6502 Processor**\n\n📌 来源：HackerNews\n🔗 https://mattbeton.com/blog/bitnet-6502.html\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -38,10 +38,10 @@
       ]
     },
     {
-      "topic": "Kaisel – Routes as V",
-      "cover_line1": "Kaisel – R",
+      "topic": "Show HN: Mu – Tools ",
+      "cover_line1": "Show HN: M",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Kaisel – Routes as Values. Dart 3 Native Router for Flutter**\n\n📌 来源：HackerNews\n🔗 https://kaisel.dev/\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Show HN: Mu – Tools for Agents**\n\n📌 来源：HackerNews\n🔗 https://github.com/micro/mu\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -56,10 +56,10 @@
       ]
     },
     {
-      "topic": "The Burau representa",
-      "cover_line1": "The Burau ",
+      "topic": "'Crush this lady': h",
+      "cover_line1": "'Crush thi",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**The Burau representation of the braid group is faithful for n = 4**\n\n📌 来源：HackerNews\n🔗 https://arxiv.org/abs/2607.05283\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**'Crush this lady': how eBay harassment campaign led to $56M payout**\n\n📌 来源：HackerNews\n🔗 https://www.ft.com/content/06ec1b03-d4af-40cf-b12a-4ba5a410f6d2\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -75,15 +75,15 @@
     }
   ],
   "image_paths": [
-    "assets/2026-08-02/cover1.png",
-    "assets/2026-08-02/cover2.png",
-    "assets/2026-08-02/cover3.png",
-    "assets/2026-08-02/cover4.png"
+    "assets/2026-08-03/cover1.png",
+    "assets/2026-08-03/cover2.png",
+    "assets/2026-08-03/cover3.png",
+    "assets/2026-08-03/cover4.png"
   ],
   "feishu_image_paths": [
-    "assets/2026-08-02/cover1_feishu.png",
-    "assets/2026-08-02/cover2_feishu.png",
-    "assets/2026-08-02/cover3_feishu.png",
-    "assets/2026-08-02/cover4_feishu.png"
+    "assets/2026-08-03/cover1_feishu.png",
+    "assets/2026-08-03/cover2_feishu.png",
+    "assets/2026-08-03/cover3_feishu.png",
+    "assets/2026-08-03/cover4_feishu.png"
   ]
 }
