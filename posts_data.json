@@ -1,11 +1,11 @@
 {
-  "date": "2026-08-03",
+  "date": "2026-08-04",
   "posts": [
     {
-      "topic": "AI poster wins Ohio ",
-      "cover_line1": "AI poster ",
+      "topic": "LLMs reward expertis",
+      "cover_line1": "LLMs rewar",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**AI poster wins Ohio State Fair contest**\n\n📌 来源：HackerNews\n🔗 https://www.ohiostatefair.com/p/get-involved/arts/poster-contest\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**LLMs reward expertise**\n\n📌 来源：HackerNews\n🔗 https://www.seangoedecke.com/llms-reward-expertise/\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -20,10 +20,10 @@
       ]
     },
     {
-      "topic": "Autoregressive Langu",
-      "cover_line1": "Autoregres",
+      "topic": "Windows XP 2002 for ",
+      "cover_line1": "Windows XP",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Autoregressive Language Model on the 6502 Processor**\n\n📌 来源：HackerNews\n🔗 https://mattbeton.com/blog/bitnet-6502.html\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Windows XP 2002 for the Itanium: Unbridled rage**\n\n📌 来源：HackerNews\n🔗 https://virtuallyfun.com/2026/08/03/windows-xp-2002-for-the-itanium-unbridled-rage/\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -38,10 +38,10 @@
       ]
     },
     {
-      "topic": "Show HN: Mu – Tools ",
-      "cover_line1": "Show HN: M",
+      "topic": "Prevent cognitive de",
+      "cover_line1": "Prevent co",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Show HN: Mu – Tools for Agents**\n\n📌 来源：HackerNews\n🔗 https://github.com/micro/mu\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Prevent cognitive debt by manually retyping LLM-generated code**\n\n📌 来源：HackerNews\n🔗 https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -56,10 +56,10 @@
       ]
     },
     {
-      "topic": "'Crush this lady': h",
-      "cover_line1": "'Crush thi",
+      "topic": "Launch HN: Hoplite (",
+      "cover_line1": "Launch HN:",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**'Crush this lady': how eBay harassment campaign led to $56M payout**\n\n📌 来源：HackerNews\n🔗 https://www.ft.com/content/06ec1b03-d4af-40cf-b12a-4ba5a410f6d2\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Launch HN: Hoplite (YC S26) – Effortlessly deploy cloud coding agents**\n\n📌 来源：HackerNews\n🔗 https://hoplite.sh\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -75,15 +75,15 @@
     }
   ],
   "image_paths": [
-    "assets/2026-08-03/cover1.png",
-    "assets/2026-08-03/cover2.png",
-    "assets/2026-08-03/cover3.png",
-    "assets/2026-08-03/cover4.png"
+    "assets/2026-08-04/cover1.png",
+    "assets/2026-08-04/cover2.png",
+    "assets/2026-08-04/cover3.png",
+    "assets/2026-08-04/cover4.png"
   ],
   "feishu_image_paths": [
-    "assets/2026-08-03/cover1_feishu.png",
-    "assets/2026-08-03/cover2_feishu.png",
-    "assets/2026-08-03/cover3_feishu.png",
-    "assets/2026-08-03/cover4_feishu.png"
+    "assets/2026-08-04/cover1_feishu.png",
+    "assets/2026-08-04/cover2_feishu.png",
+    "assets/2026-08-04/cover3_feishu.png",
+    "assets/2026-08-04/cover4_feishu.png"
   ]
 }
