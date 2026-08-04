@@ -1,11 +1,11 @@
 {
-  "date": "2026-08-04",
+  "date": "2026-08-05",
   "posts": [
     {
-      "topic": "LLMs reward expertis",
-      "cover_line1": "LLMs rewar",
+      "topic": "Mistral's Shieldstra",
+      "cover_line1": "Mistral's ",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**LLMs reward expertise**\n\n📌 来源：HackerNews\n🔗 https://www.seangoedecke.com/llms-reward-expertise/\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Mistral's Shieldstral: 3B open-weights model for multimodal moderation**\n\n📌 来源：HackerNews\n🔗 https://mistral.ai/news/shieldstral/\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -20,10 +20,10 @@
       ]
     },
     {
-      "topic": "Windows XP 2002 for ",
-      "cover_line1": "Windows XP",
+      "topic": "AI fuels more than h",
+      "cover_line1": "AI fuels m",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Windows XP 2002 for the Itanium: Unbridled rage**\n\n📌 来源：HackerNews\n🔗 https://virtuallyfun.com/2026/08/03/windows-xp-2002-for-the-itanium-unbridled-rage/\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**AI fuels more than half of cybercrime in Africa as scams surge – Interpol**\n\n📌 来源：HackerNews\n🔗 https://www.africanews.com/2026/08/04/ai-fuels-more-than-half-of-cybercrime-in-africa-as-digital-scams-surge-interpol/\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -38,10 +38,10 @@
       ]
     },
     {
-      "topic": "Prevent cognitive de",
-      "cover_line1": "Prevent co",
+      "topic": "Third-party cyber ev",
+      "cover_line1": "Third-part",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Prevent cognitive debt by manually retyping LLM-generated code**\n\n📌 来源：HackerNews\n🔗 https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Third-party cyber evaluations involving OpenAI models**\n\n📌 来源：HackerNews\n🔗 https://openai.com/index/third-party-cyber-evaluations-involving-openai-models/\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -56,10 +56,10 @@
       ]
     },
     {
-      "topic": "Launch HN: Hoplite (",
-      "cover_line1": "Launch HN:",
+      "topic": "Oxide Computer raise",
+      "cover_line1": "Oxide Comp",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Launch HN: Hoplite (YC S26) – Effortlessly deploy cloud coding agents**\n\n📌 来源：HackerNews\n🔗 https://hoplite.sh\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Oxide Computer raises $445M (SEC Form D)**\n\n📌 来源：HackerNews\n🔗 https://www.sec.gov/Archives/edgar/data/1795071/000179507126000002/xslFormDX01/primary_doc.xml\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -75,15 +75,15 @@
     }
   ],
   "image_paths": [
-    "assets/2026-08-04/cover1.png",
-    "assets/2026-08-04/cover2.png",
-    "assets/2026-08-04/cover3.png",
-    "assets/2026-08-04/cover4.png"
+    "assets/2026-08-05/cover1.png",
+    "assets/2026-08-05/cover2.png",
+    "assets/2026-08-05/cover3.png",
+    "assets/2026-08-05/cover4.png"
   ],
   "feishu_image_paths": [
-    "assets/2026-08-04/cover1_feishu.png",
-    "assets/2026-08-04/cover2_feishu.png",
-    "assets/2026-08-04/cover3_feishu.png",
-    "assets/2026-08-04/cover4_feishu.png"
+    "assets/2026-08-05/cover1_feishu.png",
+    "assets/2026-08-05/cover2_feishu.png",
+    "assets/2026-08-05/cover3_feishu.png",
+    "assets/2026-08-05/cover4_feishu.png"
   ]
 }
