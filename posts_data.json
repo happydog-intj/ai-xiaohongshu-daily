@@ -1,11 +1,11 @@
 {
-  "date": "2026-08-05",
+  "date": "2026-08-06",
   "posts": [
     {
-      "topic": "Mistral's Shieldstra",
-      "cover_line1": "Mistral's ",
+      "topic": "Changes at Google De",
+      "cover_line1": "Changes at",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Mistral's Shieldstral: 3B open-weights model for multimodal moderation**\n\n📌 来源：HackerNews\n🔗 https://mistral.ai/news/shieldstral/\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs**\n\n📌 来源：HackerNews\n🔗 https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -20,10 +20,10 @@
       ]
     },
     {
-      "topic": "AI fuels more than h",
-      "cover_line1": "AI fuels m",
+      "topic": "Beating GPT-5.6 Sol ",
+      "cover_line1": "Beating GP",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**AI fuels more than half of cybercrime in Africa as scams surge – Interpol**\n\n📌 来源：HackerNews\n🔗 https://www.africanews.com/2026/08/04/ai-fuels-more-than-half-of-cybercrime-in-africa-as-digital-scams-surge-interpol/\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Beating GPT-5.6 Sol on retrieval with 100x cheaper open models**\n\n📌 来源：HackerNews\n🔗 https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -38,10 +38,10 @@
       ]
     },
     {
-      "topic": "Third-party cyber ev",
-      "cover_line1": "Third-part",
+      "topic": "Prime Agent: A self-",
+      "cover_line1": "Prime Agen",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Third-party cyber evaluations involving OpenAI models**\n\n📌 来源：HackerNews\n🔗 https://openai.com/index/third-party-cyber-evaluations-involving-openai-models/\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Prime Agent: A self-improving RLM agent**\n\n📌 来源：HackerNews\n🔗 https://www.primeintellect.ai/blog/prime-agent\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -56,10 +56,10 @@
       ]
     },
     {
-      "topic": "Oxide Computer raise",
-      "cover_line1": "Oxide Comp",
+      "topic": "Launch HN: HyperProb",
+      "cover_line1": "Launch HN:",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Oxide Computer raises $445M (SEC Form D)**\n\n📌 来源：HackerNews\n🔗 https://www.sec.gov/Archives/edgar/data/1795071/000179507126000002/xslFormDX01/primary_doc.xml\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Launch HN: HyperProbe (YC S26) – Agents that do read-only debugging in prod**\n\n📌 来源：HackerNews\n🔗 https://www.hyperprobe.co\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -75,15 +75,15 @@
     }
   ],
   "image_paths": [
-    "assets/2026-08-05/cover1.png",
-    "assets/2026-08-05/cover2.png",
-    "assets/2026-08-05/cover3.png",
-    "assets/2026-08-05/cover4.png"
+    "assets/2026-08-06/cover1.png",
+    "assets/2026-08-06/cover2.png",
+    "assets/2026-08-06/cover3.png",
+    "assets/2026-08-06/cover4.png"
   ],
   "feishu_image_paths": [
-    "assets/2026-08-05/cover1_feishu.png",
-    "assets/2026-08-05/cover2_feishu.png",
-    "assets/2026-08-05/cover3_feishu.png",
-    "assets/2026-08-05/cover4_feishu.png"
+    "assets/2026-08-06/cover1_feishu.png",
+    "assets/2026-08-06/cover2_feishu.png",
+    "assets/2026-08-06/cover3_feishu.png",
+    "assets/2026-08-06/cover4_feishu.png"
   ]
 }
