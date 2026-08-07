@@ -1,6 +1,60 @@
 {
-  "date": "2026-08-07",
+  "date": "2026-08-08",
   "posts": [
+    {
+      "topic": "What happens if an e",
+      "cover_line1": "What happe",
+      "cover_line2": "今日 AI 热点速报",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**What happens if an entire class of workers loses faith in their careers**\n\n📌 来源：HackerNews\n🔗 https://www.noemamag.com/why-is-everyone-in-tech-so-sad/\n\n关注我，每天第一时间 AI 动态 👇",
+      "tags": [
+        "AI",
+        "人工智能",
+        "大模型",
+        "科技",
+        "每日热点",
+        "机器学习",
+        "深度学习",
+        "AI工具",
+        "技术",
+        "炼丹"
+      ]
+    },
+    {
+      "topic": "Oracle bans AI-gener",
+      "cover_line1": "Oracle ban",
+      "cover_line2": "今日 AI 热点速报",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Oracle bans AI-generated code from OpenJDK**\n\n📌 来源：HackerNews\n🔗 https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code\n\n关注我，每天第一时间 AI 动态 👇",
+      "tags": [
+        "AI",
+        "人工智能",
+        "大模型",
+        "科技",
+        "每日热点",
+        "机器学习",
+        "深度学习",
+        "AI工具",
+        "技术",
+        "炼丹"
+      ]
+    },
+    {
+      "topic": "Kitesurf: Agent-firs",
+      "cover_line1": "Kitesurf: ",
+      "cover_line2": "今日 AI 热点速报",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Kitesurf: Agent-first browser that runs in V8 isolates**\n\n📌 来源：HackerNews\n🔗 https://blog.cloudflare.com/kitesurf/\n\n关注我，每天第一时间 AI 动态 👇",
+      "tags": [
+        "AI",
+        "人工智能",
+        "大模型",
+        "科技",
+        "每日热点",
+        "机器学习",
+        "深度学习",
+        "AI工具",
+        "技术",
+        "炼丹"
+      ]
+    },
     {
       "topic": "AMD acquires Taalas ",
       "cover_line1": "AMD acquir",
@@ -18,72 +72,18 @@
         "技术",
         "炼丹"
       ]
-    },
-    {
-      "topic": "Inside vLLM: Anatomy",
-      "cover_line1": "Inside vLL",
-      "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Inside vLLM: Anatomy of a High-Throughput LLM Inference System (2025)**\n\n📌 来源：HackerNews\n🔗 https://www.aleksagordic.com/blog/vllm\n\n关注我，每天第一时间 AI 动态 👇",
-      "tags": [
-        "AI",
-        "人工智能",
-        "大模型",
-        "科技",
-        "每日热点",
-        "机器学习",
-        "深度学习",
-        "AI工具",
-        "技术",
-        "炼丹"
-      ]
-    },
-    {
-      "topic": "Improving GPT‑5.6 So",
-      "cover_line1": "Improving ",
-      "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Improving GPT‑5.6 Sol in ChatGPT, expanding GPT‑5.6 Luna access for free users**\n\n📌 来源：HackerNews\n🔗 https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt/\n\n关注我，每天第一时间 AI 动态 👇",
-      "tags": [
-        "AI",
-        "人工智能",
-        "大模型",
-        "科技",
-        "每日热点",
-        "机器学习",
-        "深度学习",
-        "AI工具",
-        "技术",
-        "炼丹"
-      ]
-    },
-    {
-      "topic": "GitHub Actions and P",
-      "cover_line1": "GitHub Act",
-      "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**GitHub Actions and Pages are experiencing degraded availability**\n\n📌 来源：HackerNews\n🔗 https://www.githubstatus.com/incidents/qcvjkzcs7j74\n\n关注我，每天第一时间 AI 动态 👇",
-      "tags": [
-        "AI",
-        "人工智能",
-        "大模型",
-        "科技",
-        "每日热点",
-        "机器学习",
-        "深度学习",
-        "AI工具",
-        "技术",
-        "炼丹"
-      ]
     }
   ],
   "image_paths": [
-    "assets/2026-08-07/cover1.png",
-    "assets/2026-08-07/cover2.png",
-    "assets/2026-08-07/cover3.png",
-    "assets/2026-08-07/cover4.png"
+    "assets/2026-08-08/cover1.png",
+    "assets/2026-08-08/cover2.png",
+    "assets/2026-08-08/cover3.png",
+    "assets/2026-08-08/cover4.png"
   ],
   "feishu_image_paths": [
-    "assets/2026-08-07/cover1_feishu.png",
-    "assets/2026-08-07/cover2_feishu.png",
-    "assets/2026-08-07/cover3_feishu.png",
-    "assets/2026-08-07/cover4_feishu.png"
+    "assets/2026-08-08/cover1_feishu.png",
+    "assets/2026-08-08/cover2_feishu.png",
+    "assets/2026-08-08/cover3_feishu.png",
+    "assets/2026-08-08/cover4_feishu.png"
   ]
 }
