@@ -1,6 +1,6 @@
 {
-  "date": "2026-08-07",
-  "slot": "晚报",
+  "date": "2026-08-08",
+  "slot": "早报",
   "all_repos": [
     {
       "name": "PrimeIntellect-ai/prime-agent",
@@ -8,7 +8,7 @@
       "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
       "language": "TypeScript",
       "stars_today": "2,271 stars today",
-      "stars_total": "5,416"
+      "stars_total": "6,408"
     },
     {
       "name": "addyosmani/agent-skills",
@@ -16,7 +16,7 @@
       "description": "Production-grade engineering skills for AI coding agents.",
       "language": "JavaScript",
       "stars_today": "1,131 stars today",
-      "stars_total": "83,503"
+      "stars_total": "83,870"
     },
     {
       "name": "cloudflare/computer",
@@ -24,7 +24,7 @@
       "description": "Give your agent a computer 👾",
       "language": "TypeScript",
       "stars_today": "894 stars today",
-      "stars_total": "5,289"
+      "stars_total": "5,654"
     },
     {
       "name": "mattpocock/skills",
@@ -32,7 +32,7 @@
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "language": "Shell",
       "stars_today": "2,180 stars today",
-      "stars_total": "208,239"
+      "stars_total": "208,762"
     },
     {
       "name": "obra/superpowers",
@@ -40,7 +40,7 @@
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
       "stars_today": "794 stars today",
-      "stars_total": "268,537"
+      "stars_total": "268,724"
     },
     {
       "name": "goauthentik/authentik",
@@ -48,7 +48,7 @@
       "description": "The authentication glue you need.",
       "language": "Python",
       "stars_today": "544 stars today",
-      "stars_total": "23,384"
+      "stars_total": "23,562"
     },
     {
       "name": "semantica-agi/semantica",
@@ -56,7 +56,7 @@
       "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
       "language": "Python",
       "stars_today": "118 stars today",
-      "stars_total": "2,194"
+      "stars_total": "2,331"
     },
     {
       "name": "666ghj/MiroFish",
@@ -64,23 +64,23 @@
       "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
       "language": "Python",
       "stars_today": "126 stars today",
-      "stars_total": "70,297"
+      "stars_total": "70,486"
     },
     {
       "name": "chenyme/grok2api",
       "url": "https://github.com/chenyme/grok2api",
       "description": "Multi-account API gateway for Grok Build, Grok Web, and Grok Console",
       "language": "Go",
-      "stars_today": "43 stars today",
-      "stars_total": "7,087"
+      "stars_today": "62 stars today",
+      "stars_total": "7,137"
     },
     {
       "name": "jdx/mise",
       "url": "https://github.com/jdx/mise",
       "description": "dev tools, env vars, task runner",
       "language": "Rust",
-      "stars_today": "258 stars today",
-      "stars_total": "31,981"
+      "stars_today": "130 stars today",
+      "stars_total": "32,061"
     }
   ],
   "ai_repos": [
@@ -90,7 +90,7 @@
       "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
       "language": "TypeScript",
       "stars_today": "2,271 stars today",
-      "stars_total": "5,416"
+      "stars_total": "6,408"
     },
     {
       "name": "addyosmani/agent-skills",
@@ -98,7 +98,7 @@
       "description": "Production-grade engineering skills for AI coding agents.",
       "language": "JavaScript",
       "stars_today": "1,131 stars today",
-      "stars_total": "83,503"
+      "stars_total": "83,870"
     },
     {
       "name": "cloudflare/computer",
@@ -106,7 +106,7 @@
       "description": "Give your agent a computer 👾",
       "language": "TypeScript",
       "stars_today": "894 stars today",
-      "stars_total": "5,289"
+      "stars_total": "5,654"
     },
     {
       "name": "mattpocock/skills",
@@ -114,7 +114,7 @@
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "language": "Shell",
       "stars_today": "2,180 stars today",
-      "stars_total": "208,239"
+      "stars_total": "208,762"
     },
     {
       "name": "obra/superpowers",
@@ -122,7 +122,7 @@
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
       "stars_today": "794 stars today",
-      "stars_total": "268,537"
+      "stars_total": "268,724"
     },
     {
       "name": "semantica-agi/semantica",
@@ -130,7 +130,7 @@
       "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
       "language": "Python",
       "stars_today": "118 stars today",
-      "stars_total": "2,194"
+      "stars_total": "2,331"
     }
   ],
   "posts": [
@@ -212,10 +212,10 @@
     }
   ],
   "image_paths": [
-    "assets/2026-08-07/trending/summary.png",
-    "assets/2026-08-07/trending/post1.png",
-    "assets/2026-08-07/trending/post2.png",
-    "assets/2026-08-07/trending/post3.png",
-    "assets/2026-08-07/trending/post4.png"
+    "assets/2026-08-08/trending/summary.png",
+    "assets/2026-08-08/trending/post1.png",
+    "assets/2026-08-08/trending/post2.png",
+    "assets/2026-08-08/trending/post3.png",
+    "assets/2026-08-08/trending/post4.png"
   ]
 }
