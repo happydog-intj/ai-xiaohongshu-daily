@@ -1,86 +1,86 @@
 {
-  "date": "2026-08-06",
-  "slot": "晚报",
+  "date": "2026-08-07",
+  "slot": "早报",
   "all_repos": [
     {
       "name": "TencentCloud/TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
       "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.",
       "language": "TypeScript",
-      "stars_today": "1,053 stars today",
-      "stars_total": "15,945"
+      "stars_today": "1,057 stars today",
+      "stars_total": "16,436"
     },
     {
       "name": "addyosmani/agent-skills",
       "url": "https://github.com/addyosmani/agent-skills",
       "description": "Production-grade engineering skills for AI coding agents.",
       "language": "JavaScript",
-      "stars_today": "588 stars today",
-      "stars_total": "82,501"
+      "stars_today": "593 stars today",
+      "stars_total": "82,966"
     },
     {
       "name": "cloudflare/computer",
       "url": "https://github.com/cloudflare/computer",
       "description": "Give your agent a computer 👾",
       "language": "TypeScript",
-      "stars_today": "2,690 stars today",
-      "stars_total": "4,490"
+      "stars_today": "2,802 stars today",
+      "stars_total": "4,833"
     },
     {
       "name": "mattpocock/skills",
       "url": "https://github.com/mattpocock/skills",
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "language": "Shell",
-      "stars_today": "1,695 stars today",
-      "stars_total": "206,315"
+      "stars_today": "1,873 stars today",
+      "stars_total": "207,099"
     },
     {
       "name": "goauthentik/authentik",
       "url": "https://github.com/goauthentik/authentik",
       "description": "The authentication glue you need.",
       "language": "Python",
-      "stars_today": "123 stars today",
-      "stars_total": "22,909"
+      "stars_today": "138 stars today",
+      "stars_total": "23,135"
     },
     {
       "name": "huangruiteng/loopx",
       "url": "https://github.com/huangruiteng/loopx",
       "description": "Lightweight loop engineering state kernel for long-running AI agent teams. Agent-loop agnostic across Codex, Claude Code, and other coding agents, with durable goals, quota-aware auto-wake, executable todos, evidence logs, and verifiable handoffs.",
       "language": "Python",
-      "stars_today": "854 stars today",
-      "stars_total": "2,669"
+      "stars_today": "847 stars today",
+      "stars_total": "2,884"
     },
     {
       "name": "google/guava",
       "url": "https://github.com/google/guava",
       "description": "Google core libraries for Java",
       "language": "Java",
-      "stars_today": "9 stars today",
-      "stars_total": "51,572"
+      "stars_today": "13 stars today",
+      "stars_total": "51,642"
     },
     {
       "name": "TapXWorld/ChinaTextbook",
       "url": "https://github.com/TapXWorld/ChinaTextbook",
       "description": "所有小初高、大学PDF教材。",
       "language": "Roff",
-      "stars_today": "157 stars today",
-      "stars_total": "76,976"
+      "stars_today": "134 stars today",
+      "stars_total": "77,127"
     },
     {
       "name": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
       "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
       "language": "Python",
-      "stars_today": "28 stars today",
-      "stars_total": "185,894"
+      "stars_today": "37 stars today",
+      "stars_total": "186,020"
     },
     {
       "name": "tirth8205/code-review-graph",
       "url": "https://github.com/tirth8205/code-review-graph",
       "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
       "language": "Python",
-      "stars_today": "232 stars today",
-      "stars_total": "28,876"
+      "stars_today": "237 stars today",
+      "stars_total": "29,036"
     }
   ],
   "ai_repos": [
@@ -89,56 +89,56 @@
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
       "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.",
       "language": "TypeScript",
-      "stars_today": "1,053 stars today",
-      "stars_total": "15,945"
+      "stars_today": "1,057 stars today",
+      "stars_total": "16,436"
     },
     {
       "name": "addyosmani/agent-skills",
       "url": "https://github.com/addyosmani/agent-skills",
       "description": "Production-grade engineering skills for AI coding agents.",
       "language": "JavaScript",
-      "stars_today": "588 stars today",
-      "stars_total": "82,501"
+      "stars_today": "593 stars today",
+      "stars_total": "82,966"
     },
     {
       "name": "cloudflare/computer",
       "url": "https://github.com/cloudflare/computer",
       "description": "Give your agent a computer 👾",
       "language": "TypeScript",
-      "stars_today": "2,690 stars today",
-      "stars_total": "4,490"
+      "stars_today": "2,802 stars today",
+      "stars_total": "4,833"
     },
     {
       "name": "mattpocock/skills",
       "url": "https://github.com/mattpocock/skills",
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "language": "Shell",
-      "stars_today": "1,695 stars today",
-      "stars_total": "206,315"
+      "stars_today": "1,873 stars today",
+      "stars_total": "207,099"
     },
     {
       "name": "huangruiteng/loopx",
       "url": "https://github.com/huangruiteng/loopx",
       "description": "Lightweight loop engineering state kernel for long-running AI agent teams. Agent-loop agnostic across Codex, Claude Code, and other coding agents, with durable goals, quota-aware auto-wake, executable todos, evidence logs, and verifiable handoffs.",
       "language": "Python",
-      "stars_today": "854 stars today",
-      "stars_total": "2,669"
+      "stars_today": "847 stars today",
+      "stars_total": "2,884"
     },
     {
       "name": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
       "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
       "language": "Python",
-      "stars_today": "28 stars today",
-      "stars_total": "185,894"
+      "stars_today": "37 stars today",
+      "stars_total": "186,020"
     },
     {
       "name": "tirth8205/code-review-graph",
       "url": "https://github.com/tirth8205/code-review-graph",
       "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
       "language": "Python",
-      "stars_today": "232 stars today",
-      "stars_total": "28,876"
+      "stars_today": "237 stars today",
+      "stars_total": "29,036"
     }
   ],
   "posts": [
@@ -220,10 +220,10 @@
     }
   ],
   "image_paths": [
-    "assets/2026-08-06/trending/summary.png",
-    "assets/2026-08-06/trending/post1.png",
-    "assets/2026-08-06/trending/post2.png",
-    "assets/2026-08-06/trending/post3.png",
-    "assets/2026-08-06/trending/post4.png"
+    "assets/2026-08-07/trending/summary.png",
+    "assets/2026-08-07/trending/post1.png",
+    "assets/2026-08-07/trending/post2.png",
+    "assets/2026-08-07/trending/post3.png",
+    "assets/2026-08-07/trending/post4.png"
   ]
 }
