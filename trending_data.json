@@ -1,153 +1,145 @@
 {
   "date": "2026-08-07",
-  "slot": "早报",
+  "slot": "晚报",
   "all_repos": [
     {
-      "name": "TencentCloud/TencentDB-Agent-Memory",
-      "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.",
+      "name": "PrimeIntellect-ai/prime-agent",
+      "url": "https://github.com/PrimeIntellect-ai/prime-agent",
+      "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
       "language": "TypeScript",
-      "stars_today": "1,057 stars today",
-      "stars_total": "16,436"
+      "stars_today": "2,271 stars today",
+      "stars_total": "5,416"
     },
     {
       "name": "addyosmani/agent-skills",
       "url": "https://github.com/addyosmani/agent-skills",
       "description": "Production-grade engineering skills for AI coding agents.",
       "language": "JavaScript",
-      "stars_today": "593 stars today",
-      "stars_total": "82,966"
+      "stars_today": "1,131 stars today",
+      "stars_total": "83,503"
     },
     {
       "name": "cloudflare/computer",
       "url": "https://github.com/cloudflare/computer",
       "description": "Give your agent a computer 👾",
       "language": "TypeScript",
-      "stars_today": "2,802 stars today",
-      "stars_total": "4,833"
+      "stars_today": "894 stars today",
+      "stars_total": "5,289"
     },
     {
       "name": "mattpocock/skills",
       "url": "https://github.com/mattpocock/skills",
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "language": "Shell",
-      "stars_today": "1,873 stars today",
-      "stars_total": "207,099"
+      "stars_today": "2,180 stars today",
+      "stars_total": "208,239"
+    },
+    {
+      "name": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars_today": "794 stars today",
+      "stars_total": "268,537"
     },
     {
       "name": "goauthentik/authentik",
       "url": "https://github.com/goauthentik/authentik",
       "description": "The authentication glue you need.",
       "language": "Python",
-      "stars_today": "138 stars today",
-      "stars_total": "23,135"
+      "stars_today": "544 stars today",
+      "stars_total": "23,384"
     },
     {
-      "name": "huangruiteng/loopx",
-      "url": "https://github.com/huangruiteng/loopx",
-      "description": "Lightweight loop engineering state kernel for long-running AI agent teams. Agent-loop agnostic across Codex, Claude Code, and other coding agents, with durable goals, quota-aware auto-wake, executable todos, evidence logs, and verifiable handoffs.",
+      "name": "semantica-agi/semantica",
+      "url": "https://github.com/semantica-agi/semantica",
+      "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
       "language": "Python",
-      "stars_today": "847 stars today",
-      "stars_total": "2,884"
+      "stars_today": "118 stars today",
+      "stars_total": "2,194"
     },
     {
-      "name": "google/guava",
-      "url": "https://github.com/google/guava",
-      "description": "Google core libraries for Java",
-      "language": "Java",
-      "stars_today": "13 stars today",
-      "stars_total": "51,642"
-    },
-    {
-      "name": "TapXWorld/ChinaTextbook",
-      "url": "https://github.com/TapXWorld/ChinaTextbook",
-      "description": "所有小初高、大学PDF教材。",
-      "language": "Roff",
-      "stars_today": "134 stars today",
-      "stars_total": "77,127"
-    },
-    {
-      "name": "Significant-Gravitas/AutoGPT",
-      "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "name": "666ghj/MiroFish",
+      "url": "https://github.com/666ghj/MiroFish",
+      "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
       "language": "Python",
-      "stars_today": "37 stars today",
-      "stars_total": "186,020"
+      "stars_today": "126 stars today",
+      "stars_total": "70,297"
     },
     {
-      "name": "tirth8205/code-review-graph",
-      "url": "https://github.com/tirth8205/code-review-graph",
-      "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
-      "language": "Python",
-      "stars_today": "237 stars today",
-      "stars_total": "29,036"
+      "name": "chenyme/grok2api",
+      "url": "https://github.com/chenyme/grok2api",
+      "description": "Multi-account API gateway for Grok Build, Grok Web, and Grok Console",
+      "language": "Go",
+      "stars_today": "43 stars today",
+      "stars_total": "7,087"
+    },
+    {
+      "name": "jdx/mise",
+      "url": "https://github.com/jdx/mise",
+      "description": "dev tools, env vars, task runner",
+      "language": "Rust",
+      "stars_today": "258 stars today",
+      "stars_total": "31,981"
     }
   ],
   "ai_repos": [
     {
-      "name": "TencentCloud/TencentDB-Agent-Memory",
-      "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.",
+      "name": "PrimeIntellect-ai/prime-agent",
+      "url": "https://github.com/PrimeIntellect-ai/prime-agent",
+      "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
       "language": "TypeScript",
-      "stars_today": "1,057 stars today",
-      "stars_total": "16,436"
+      "stars_today": "2,271 stars today",
+      "stars_total": "5,416"
     },
     {
       "name": "addyosmani/agent-skills",
       "url": "https://github.com/addyosmani/agent-skills",
       "description": "Production-grade engineering skills for AI coding agents.",
       "language": "JavaScript",
-      "stars_today": "593 stars today",
-      "stars_total": "82,966"
+      "stars_today": "1,131 stars today",
+      "stars_total": "83,503"
     },
     {
       "name": "cloudflare/computer",
       "url": "https://github.com/cloudflare/computer",
       "description": "Give your agent a computer 👾",
       "language": "TypeScript",
-      "stars_today": "2,802 stars today",
-      "stars_total": "4,833"
+      "stars_today": "894 stars today",
+      "stars_total": "5,289"
     },
     {
       "name": "mattpocock/skills",
       "url": "https://github.com/mattpocock/skills",
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "language": "Shell",
-      "stars_today": "1,873 stars today",
-      "stars_total": "207,099"
+      "stars_today": "2,180 stars today",
+      "stars_total": "208,239"
     },
     {
-      "name": "huangruiteng/loopx",
-      "url": "https://github.com/huangruiteng/loopx",
-      "description": "Lightweight loop engineering state kernel for long-running AI agent teams. Agent-loop agnostic across Codex, Claude Code, and other coding agents, with durable goals, quota-aware auto-wake, executable todos, evidence logs, and verifiable handoffs.",
-      "language": "Python",
-      "stars_today": "847 stars today",
-      "stars_total": "2,884"
+      "name": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars_today": "794 stars today",
+      "stars_total": "268,537"
     },
     {
-      "name": "Significant-Gravitas/AutoGPT",
-      "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "name": "semantica-agi/semantica",
+      "url": "https://github.com/semantica-agi/semantica",
+      "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
       "language": "Python",
-      "stars_today": "37 stars today",
-      "stars_total": "186,020"
-    },
-    {
-      "name": "tirth8205/code-review-graph",
-      "url": "https://github.com/tirth8205/code-review-graph",
-      "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
-      "language": "Python",
-      "stars_today": "237 stars today",
-      "stars_total": "29,036"
+      "stars_today": "118 stars today",
+      "stars_total": "2,194"
     }
   ],
   "posts": [
     {
-      "topic": "TencentDB-Agent-Memo",
-      "repo": "TencentCloud/TencentDB-Agent-Memory",
-      "cover_line1": "TencentDB-",
+      "topic": "prime-agent",
+      "repo": "PrimeIntellect-ai/prime-agent",
+      "cover_line1": "prime-agen",
       "cover_line2": "今日 GitHub 热榜！",
-      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**TencentCloud/TencentDB-Agent-Memory**\n\n📌 TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.\n\n🔗 https://github.com/TencentCloud/TencentDB-Agent-Memory\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**PrimeIntellect-ai/prime-agent**\n\n📌 A self-improving RLM agent for coding workflows and long-running autonomous tasks.\n\n🔗 https://github.com/PrimeIntellect-ai/prime-agent\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "GitHub",
