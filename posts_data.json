@@ -1,11 +1,11 @@
 {
-  "date": "2026-08-08",
+  "date": "2026-08-09",
   "posts": [
     {
-      "topic": "What happens if an e",
-      "cover_line1": "What happe",
+      "topic": "Denmark Requires Ora",
+      "cover_line1": "Denmark Re",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**What happens if an entire class of workers loses faith in their careers**\n\n📌 来源：HackerNews\n🔗 https://www.noemamag.com/why-is-everyone-in-tech-so-sad/\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Denmark Requires Oral Defenses for Students' Written Work to Counter AI Cheating**\n\n📌 来源：HackerNews\n🔗 https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral/\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -20,10 +20,10 @@
       ]
     },
     {
-      "topic": "Oracle bans AI-gener",
-      "cover_line1": "Oracle ban",
+      "topic": "Fastmail offers EU d",
+      "cover_line1": "Fastmail o",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Oracle bans AI-generated code from OpenJDK**\n\n📌 来源：HackerNews\n🔗 https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Fastmail offers EU data region**\n\n📌 来源：HackerNews\n🔗 https://www.fastmail.com/blog/fastmail-offers-eu-data-region/\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -38,10 +38,10 @@
       ]
     },
     {
-      "topic": "Kitesurf: Agent-firs",
-      "cover_line1": "Kitesurf: ",
+      "topic": "A domain can now say",
+      "cover_line1": "A domain c",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Kitesurf: Agent-first browser that runs in V8 isolates**\n\n📌 来源：HackerNews\n🔗 https://blog.cloudflare.com/kitesurf/\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**A domain can now say it is for sale, in DNS**\n\n📌 来源：HackerNews\n🔗 https://specification.website/spec/foundations/for-sale-dns/\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -56,10 +56,10 @@
       ]
     },
     {
-      "topic": "AMD acquires Taalas ",
-      "cover_line1": "AMD acquir",
+      "topic": "DeepMind's WeatherNe",
+      "cover_line1": "DeepMind's",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**AMD acquires Taalas to boost inference performance by etching models in silicon**\n\n📌 来源：HackerNews\n🔗 https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**DeepMind's WeatherNext model achieves breakthrough forecasting cyclones**\n\n📌 来源：HackerNews\n🔗 https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -75,15 +75,15 @@
     }
   ],
   "image_paths": [
-    "assets/2026-08-08/cover1.png",
-    "assets/2026-08-08/cover2.png",
-    "assets/2026-08-08/cover3.png",
-    "assets/2026-08-08/cover4.png"
+    "assets/2026-08-09/cover1.png",
+    "assets/2026-08-09/cover2.png",
+    "assets/2026-08-09/cover3.png",
+    "assets/2026-08-09/cover4.png"
   ],
   "feishu_image_paths": [
-    "assets/2026-08-08/cover1_feishu.png",
-    "assets/2026-08-08/cover2_feishu.png",
-    "assets/2026-08-08/cover3_feishu.png",
-    "assets/2026-08-08/cover4_feishu.png"
+    "assets/2026-08-09/cover1_feishu.png",
+    "assets/2026-08-09/cover2_feishu.png",
+    "assets/2026-08-09/cover3_feishu.png",
+    "assets/2026-08-09/cover4_feishu.png"
   ]
 }
