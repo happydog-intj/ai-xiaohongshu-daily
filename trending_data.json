@@ -1,6 +1,6 @@
 {
-  "date": "2026-08-08",
-  "slot": "晚报",
+  "date": "2026-08-09",
+  "slot": "早报",
   "all_repos": [
     {
       "name": "PrimeIntellect-ai/prime-agent",
@@ -8,7 +8,7 @@
       "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
       "language": "TypeScript",
       "stars_today": "2,483 stars today",
-      "stars_total": "7,785"
+      "stars_total": "8,822"
     },
     {
       "name": "addyosmani/agent-skills",
@@ -16,7 +16,7 @@
       "description": "Production-grade engineering skills for AI coding agents.",
       "language": "JavaScript",
       "stars_today": "778 stars today",
-      "stars_total": "84,235"
+      "stars_total": "84,527"
     },
     {
       "name": "TapXWorld/ChinaTextbook",
@@ -24,7 +24,7 @@
       "description": "所有小初高、大学PDF教材。",
       "language": "Roff",
       "stars_today": "591 stars today",
-      "stars_total": "77,707"
+      "stars_total": "77,908"
     },
     {
       "name": "google/skills",
@@ -32,7 +32,7 @@
       "description": "Agent Skills for Google products and technologies",
       "language": "Python",
       "stars_today": "481 stars today",
-      "stars_total": "16,487"
+      "stars_total": "16,709"
     },
     {
       "name": "mattpocock/skills",
@@ -40,7 +40,7 @@
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "language": "Shell",
       "stars_today": "1,354 stars today",
-      "stars_total": "209,513"
+      "stars_total": "209,965"
     },
     {
       "name": "goauthentik/authentik",
@@ -48,7 +48,7 @@
       "description": "The authentication glue you need.",
       "language": "Python",
       "stars_today": "467 stars today",
-      "stars_total": "23,837"
+      "stars_total": "23,959"
     },
     {
       "name": "TauricResearch/TradingAgents",
@@ -56,7 +56,7 @@
       "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
       "language": "Python",
       "stars_today": "126 stars today",
-      "stars_total": "96,181"
+      "stars_total": "96,452"
     },
     {
       "name": "google/guava",
@@ -64,15 +64,15 @@
       "description": "Google core libraries for Java",
       "language": "Java",
       "stars_today": "93 stars today",
-      "stars_total": "51,800"
+      "stars_total": "51,844"
     },
     {
       "name": "LadybirdBrowser/ladybird",
       "url": "https://github.com/LadybirdBrowser/ladybird",
       "description": "Truly independent web browser",
       "language": "C++",
-      "stars_today": "42 stars today",
-      "stars_total": "64,870"
+      "stars_today": "79 stars today",
+      "stars_total": "64,972"
     },
     {
       "name": "denoland/celld",
@@ -80,7 +80,7 @@
       "description": "self-hosted, distributed Durable Objects",
       "language": "Rust",
       "stars_today": "432 stars today",
-      "stars_total": "2,397"
+      "stars_total": "2,546"
     }
   ],
   "ai_repos": [
@@ -90,7 +90,7 @@
       "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
       "language": "TypeScript",
       "stars_today": "2,483 stars today",
-      "stars_total": "7,785"
+      "stars_total": "8,822"
     },
     {
       "name": "addyosmani/agent-skills",
@@ -98,7 +98,7 @@
       "description": "Production-grade engineering skills for AI coding agents.",
       "language": "JavaScript",
       "stars_today": "778 stars today",
-      "stars_total": "84,235"
+      "stars_total": "84,527"
     },
     {
       "name": "google/skills",
@@ -106,7 +106,7 @@
       "description": "Agent Skills for Google products and technologies",
       "language": "Python",
       "stars_today": "481 stars today",
-      "stars_total": "16,487"
+      "stars_total": "16,709"
     },
     {
       "name": "mattpocock/skills",
@@ -114,7 +114,7 @@
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "language": "Shell",
       "stars_today": "1,354 stars today",
-      "stars_total": "209,513"
+      "stars_total": "209,965"
     },
     {
       "name": "TauricResearch/TradingAgents",
@@ -122,7 +122,7 @@
       "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
       "language": "Python",
       "stars_today": "126 stars today",
-      "stars_total": "96,181"
+      "stars_total": "96,452"
     }
   ],
   "posts": [
@@ -204,10 +204,10 @@
     }
   ],
   "image_paths": [
-    "assets/2026-08-08/trending/summary.png",
-    "assets/2026-08-08/trending/post1.png",
-    "assets/2026-08-08/trending/post2.png",
-    "assets/2026-08-08/trending/post3.png",
-    "assets/2026-08-08/trending/post4.png"
+    "assets/2026-08-09/trending/summary.png",
+    "assets/2026-08-09/trending/post1.png",
+    "assets/2026-08-09/trending/post2.png",
+    "assets/2026-08-09/trending/post3.png",
+    "assets/2026-08-09/trending/post4.png"
   ]
 }
