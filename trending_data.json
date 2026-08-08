@@ -1,86 +1,86 @@
 {
   "date": "2026-08-08",
-  "slot": "早报",
+  "slot": "晚报",
   "all_repos": [
     {
       "name": "PrimeIntellect-ai/prime-agent",
       "url": "https://github.com/PrimeIntellect-ai/prime-agent",
       "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
       "language": "TypeScript",
-      "stars_today": "2,271 stars today",
-      "stars_total": "6,408"
+      "stars_today": "2,483 stars today",
+      "stars_total": "7,785"
     },
     {
       "name": "addyosmani/agent-skills",
       "url": "https://github.com/addyosmani/agent-skills",
       "description": "Production-grade engineering skills for AI coding agents.",
       "language": "JavaScript",
-      "stars_today": "1,131 stars today",
-      "stars_total": "83,870"
+      "stars_today": "778 stars today",
+      "stars_total": "84,235"
     },
     {
-      "name": "cloudflare/computer",
-      "url": "https://github.com/cloudflare/computer",
-      "description": "Give your agent a computer 👾",
-      "language": "TypeScript",
-      "stars_today": "894 stars today",
-      "stars_total": "5,654"
+      "name": "TapXWorld/ChinaTextbook",
+      "url": "https://github.com/TapXWorld/ChinaTextbook",
+      "description": "所有小初高、大学PDF教材。",
+      "language": "Roff",
+      "stars_today": "591 stars today",
+      "stars_total": "77,707"
+    },
+    {
+      "name": "google/skills",
+      "url": "https://github.com/google/skills",
+      "description": "Agent Skills for Google products and technologies",
+      "language": "Python",
+      "stars_today": "481 stars today",
+      "stars_total": "16,487"
     },
     {
       "name": "mattpocock/skills",
       "url": "https://github.com/mattpocock/skills",
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "language": "Shell",
-      "stars_today": "2,180 stars today",
-      "stars_total": "208,762"
-    },
-    {
-      "name": "obra/superpowers",
-      "url": "https://github.com/obra/superpowers",
-      "description": "An agentic skills framework & software development methodology that works.",
-      "language": "Shell",
-      "stars_today": "794 stars today",
-      "stars_total": "268,724"
+      "stars_today": "1,354 stars today",
+      "stars_total": "209,513"
     },
     {
       "name": "goauthentik/authentik",
       "url": "https://github.com/goauthentik/authentik",
       "description": "The authentication glue you need.",
       "language": "Python",
-      "stars_today": "544 stars today",
-      "stars_total": "23,562"
+      "stars_today": "467 stars today",
+      "stars_total": "23,837"
     },
     {
-      "name": "semantica-agi/semantica",
-      "url": "https://github.com/semantica-agi/semantica",
-      "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
-      "language": "Python",
-      "stars_today": "118 stars today",
-      "stars_total": "2,331"
-    },
-    {
-      "name": "666ghj/MiroFish",
-      "url": "https://github.com/666ghj/MiroFish",
-      "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
+      "name": "TauricResearch/TradingAgents",
+      "url": "https://github.com/TauricResearch/TradingAgents",
+      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
       "language": "Python",
       "stars_today": "126 stars today",
-      "stars_total": "70,486"
+      "stars_total": "96,181"
     },
     {
-      "name": "chenyme/grok2api",
-      "url": "https://github.com/chenyme/grok2api",
-      "description": "Multi-account API gateway for Grok Build, Grok Web, and Grok Console",
-      "language": "Go",
-      "stars_today": "62 stars today",
-      "stars_total": "7,137"
+      "name": "google/guava",
+      "url": "https://github.com/google/guava",
+      "description": "Google core libraries for Java",
+      "language": "Java",
+      "stars_today": "93 stars today",
+      "stars_total": "51,800"
     },
     {
-      "name": "jdx/mise",
-      "url": "https://github.com/jdx/mise",
-      "description": "dev tools, env vars, task runner",
+      "name": "LadybirdBrowser/ladybird",
+      "url": "https://github.com/LadybirdBrowser/ladybird",
+      "description": "Truly independent web browser",
+      "language": "C++",
+      "stars_today": "42 stars today",
+      "stars_total": "64,870"
+    },
+    {
+      "name": "denoland/celld",
+      "url": "https://github.com/denoland/celld",
+      "description": "self-hosted, distributed Durable Objects",
       "language": "Rust",
-      "stars_today": "130 stars today",
-      "stars_total": "32,061"
+      "stars_today": "432 stars today",
+      "stars_total": "2,397"
     }
   ],
   "ai_repos": [
@@ -89,48 +89,40 @@
       "url": "https://github.com/PrimeIntellect-ai/prime-agent",
       "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
       "language": "TypeScript",
-      "stars_today": "2,271 stars today",
-      "stars_total": "6,408"
+      "stars_today": "2,483 stars today",
+      "stars_total": "7,785"
     },
     {
       "name": "addyosmani/agent-skills",
       "url": "https://github.com/addyosmani/agent-skills",
       "description": "Production-grade engineering skills for AI coding agents.",
       "language": "JavaScript",
-      "stars_today": "1,131 stars today",
-      "stars_total": "83,870"
+      "stars_today": "778 stars today",
+      "stars_total": "84,235"
     },
     {
-      "name": "cloudflare/computer",
-      "url": "https://github.com/cloudflare/computer",
-      "description": "Give your agent a computer 👾",
-      "language": "TypeScript",
-      "stars_today": "894 stars today",
-      "stars_total": "5,654"
+      "name": "google/skills",
+      "url": "https://github.com/google/skills",
+      "description": "Agent Skills for Google products and technologies",
+      "language": "Python",
+      "stars_today": "481 stars today",
+      "stars_total": "16,487"
     },
     {
       "name": "mattpocock/skills",
       "url": "https://github.com/mattpocock/skills",
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "language": "Shell",
-      "stars_today": "2,180 stars today",
-      "stars_total": "208,762"
+      "stars_today": "1,354 stars today",
+      "stars_total": "209,513"
     },
     {
-      "name": "obra/superpowers",
-      "url": "https://github.com/obra/superpowers",
-      "description": "An agentic skills framework & software development methodology that works.",
-      "language": "Shell",
-      "stars_today": "794 stars today",
-      "stars_total": "268,724"
-    },
-    {
-      "name": "semantica-agi/semantica",
-      "url": "https://github.com/semantica-agi/semantica",
-      "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
+      "name": "TauricResearch/TradingAgents",
+      "url": "https://github.com/TauricResearch/TradingAgents",
+      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
       "language": "Python",
-      "stars_today": "118 stars today",
-      "stars_total": "2,331"
+      "stars_today": "126 stars today",
+      "stars_total": "96,181"
     }
   ],
   "posts": [
@@ -173,11 +165,11 @@
       ]
     },
     {
-      "topic": "computer",
-      "repo": "cloudflare/computer",
-      "cover_line1": "computer",
+      "topic": "skills",
+      "repo": "google/skills",
+      "cover_line1": "skills",
       "cover_line2": "今日 GitHub 热榜！",
-      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**cloudflare/computer**\n\n📌 Give your agent a computer 👾\n\n🔗 https://github.com/cloudflare/computer\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**google/skills**\n\n📌 Agent Skills for Google products and technologies\n\n🔗 https://github.com/google/skills\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "GitHub",
