@@ -1,11 +1,11 @@
 {
-  "date": "2026-08-09",
+  "date": "2026-08-10",
   "posts": [
     {
-      "topic": "Denmark Requires Ora",
-      "cover_line1": "Denmark Re",
+      "topic": "How I use LLMs to le",
+      "cover_line1": "How I use ",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Denmark Requires Oral Defenses for Students' Written Work to Counter AI Cheating**\n\n📌 来源：HackerNews\n🔗 https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral/\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**How I use LLMs to learn complex topics**\n\n📌 来源：HackerNews\n🔗 https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -20,10 +20,10 @@
       ]
     },
     {
-      "topic": "Fastmail offers EU d",
-      "cover_line1": "Fastmail o",
+      "topic": "The tragedy of the c",
+      "cover_line1": "The traged",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Fastmail offers EU data region**\n\n📌 来源：HackerNews\n🔗 https://www.fastmail.com/blog/fastmail-offers-eu-data-region/\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**The tragedy of the commons, AI edition**\n\n📌 来源：HackerNews\n🔗 https://www.economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -38,10 +38,10 @@
       ]
     },
     {
-      "topic": "A domain can now say",
-      "cover_line1": "A domain c",
+      "topic": "Tuxedo No. 2 – Cockt",
+      "cover_line1": "Tuxedo No.",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**A domain can now say it is for sale, in DNS**\n\n📌 来源：HackerNews\n🔗 https://specification.website/spec/foundations/for-sale-dns/\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Tuxedo No. 2 – Cocktail recipes**\n\n📌 来源：HackerNews\n🔗 https://tuxedono2.com\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -56,10 +56,10 @@
       ]
     },
     {
-      "topic": "DeepMind's WeatherNe",
-      "cover_line1": "DeepMind's",
+      "topic": "The Hacker's Renaiss",
+      "cover_line1": "The Hacker",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**DeepMind's WeatherNext model achieves breakthrough forecasting cyclones**\n\n📌 来源：HackerNews\n🔗 https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**The Hacker's Renaissance**\n\n📌 来源：HackerNews\n🔗 https://phrack.org/issues/72/19#article\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -75,15 +75,15 @@
     }
   ],
   "image_paths": [
-    "assets/2026-08-09/cover1.png",
-    "assets/2026-08-09/cover2.png",
-    "assets/2026-08-09/cover3.png",
-    "assets/2026-08-09/cover4.png"
+    "assets/2026-08-10/cover1.png",
+    "assets/2026-08-10/cover2.png",
+    "assets/2026-08-10/cover3.png",
+    "assets/2026-08-10/cover4.png"
   ],
   "feishu_image_paths": [
-    "assets/2026-08-09/cover1_feishu.png",
-    "assets/2026-08-09/cover2_feishu.png",
-    "assets/2026-08-09/cover3_feishu.png",
-    "assets/2026-08-09/cover4_feishu.png"
+    "assets/2026-08-10/cover1_feishu.png",
+    "assets/2026-08-10/cover2_feishu.png",
+    "assets/2026-08-10/cover3_feishu.png",
+    "assets/2026-08-10/cover4_feishu.png"
   ]
 }
