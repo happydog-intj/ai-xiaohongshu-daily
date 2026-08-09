@@ -1,6 +1,6 @@
 {
-  "date": "2026-08-09",
-  "slot": "晚报",
+  "date": "2026-08-10",
+  "slot": "早报",
   "all_repos": [
     {
       "name": "PrimeIntellect-ai/prime-agent",
@@ -8,7 +8,7 @@
       "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
       "language": "TypeScript",
       "stars_today": "2,319 stars today",
-      "stars_total": "10,065"
+      "stars_total": "10,952"
     },
     {
       "name": "vitali87/code-graph-rag",
@@ -16,31 +16,31 @@
       "description": "The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs",
       "language": "Python",
       "stars_today": "59 stars today",
-      "stars_total": "2,719"
+      "stars_total": "2,961"
     },
     {
       "name": "msitarzewski/agency-agents",
       "url": "https://github.com/msitarzewski/agency-agents",
       "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
       "language": "Shell",
-      "stars_today": "446 stars today",
-      "stars_total": "140,155"
+      "stars_today": "932 stars today",
+      "stars_total": "140,619"
     },
     {
       "name": "pranshuparmar/witr",
       "url": "https://github.com/pranshuparmar/witr",
       "description": "Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.",
       "language": "Go",
-      "stars_today": "556 stars today",
-      "stars_total": "20,293"
+      "stars_today": "342 stars today",
+      "stars_total": "20,610"
     },
     {
       "name": "google-deepmind/weathernext",
       "url": "https://github.com/google-deepmind/weathernext",
       "description": "",
       "language": "Python",
-      "stars_today": "55 stars today",
-      "stars_total": "6,929"
+      "stars_today": "105 stars today",
+      "stars_total": "7,061"
     },
     {
       "name": "addyosmani/agent-skills",
@@ -48,7 +48,7 @@
       "description": "Production-grade engineering skills for AI coding agents.",
       "language": "JavaScript",
       "stars_today": "670 stars today",
-      "stars_total": "84,885"
+      "stars_total": "85,098"
     },
     {
       "name": "ZhuLinsen/daily_stock_analysis",
@@ -56,7 +56,7 @@
       "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
       "language": "Python",
       "stars_today": "287 stars today",
-      "stars_total": "60,943"
+      "stars_total": "61,158"
     },
     {
       "name": "goauthentik/authentik",
@@ -64,7 +64,7 @@
       "description": "The authentication glue you need.",
       "language": "Python",
       "stars_today": "312 stars today",
-      "stars_total": "24,143"
+      "stars_total": "24,249"
     },
     {
       "name": "google/skills",
@@ -72,7 +72,7 @@
       "description": "Agent Skills for Google products and technologies",
       "language": "Python",
       "stars_today": "532 stars today",
-      "stars_total": "17,019"
+      "stars_total": "17,199"
     },
     {
       "name": "Comfy-Org/ComfyUI",
@@ -80,7 +80,7 @@
       "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
       "language": "Python",
       "stars_today": "333 stars today",
-      "stars_total": "125,179"
+      "stars_total": "125,465"
     }
   ],
   "ai_repos": [
@@ -90,7 +90,7 @@
       "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
       "language": "TypeScript",
       "stars_today": "2,319 stars today",
-      "stars_total": "10,065"
+      "stars_total": "10,952"
     },
     {
       "name": "vitali87/code-graph-rag",
@@ -98,31 +98,31 @@
       "description": "The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs",
       "language": "Python",
       "stars_today": "59 stars today",
-      "stars_total": "2,719"
+      "stars_total": "2,961"
     },
     {
       "name": "msitarzewski/agency-agents",
       "url": "https://github.com/msitarzewski/agency-agents",
       "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
       "language": "Shell",
-      "stars_today": "446 stars today",
-      "stars_total": "140,155"
+      "stars_today": "932 stars today",
+      "stars_total": "140,619"
     },
     {
       "name": "pranshuparmar/witr",
       "url": "https://github.com/pranshuparmar/witr",
       "description": "Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.",
       "language": "Go",
-      "stars_today": "556 stars today",
-      "stars_total": "20,293"
+      "stars_today": "342 stars today",
+      "stars_total": "20,610"
     },
     {
       "name": "google-deepmind/weathernext",
       "url": "https://github.com/google-deepmind/weathernext",
       "description": "",
       "language": "Python",
-      "stars_today": "55 stars today",
-      "stars_total": "6,929"
+      "stars_today": "105 stars today",
+      "stars_total": "7,061"
     },
     {
       "name": "addyosmani/agent-skills",
@@ -130,7 +130,7 @@
       "description": "Production-grade engineering skills for AI coding agents.",
       "language": "JavaScript",
       "stars_today": "670 stars today",
-      "stars_total": "84,885"
+      "stars_total": "85,098"
     },
     {
       "name": "ZhuLinsen/daily_stock_analysis",
@@ -138,7 +138,7 @@
       "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
       "language": "Python",
       "stars_today": "287 stars today",
-      "stars_total": "60,943"
+      "stars_total": "61,158"
     },
     {
       "name": "google/skills",
@@ -146,7 +146,7 @@
       "description": "Agent Skills for Google products and technologies",
       "language": "Python",
       "stars_today": "532 stars today",
-      "stars_total": "17,019"
+      "stars_total": "17,199"
     },
     {
       "name": "Comfy-Org/ComfyUI",
@@ -154,7 +154,7 @@
       "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
       "language": "Python",
       "stars_today": "333 stars today",
-      "stars_total": "125,179"
+      "stars_total": "125,465"
     }
   ],
   "posts": [
@@ -236,10 +236,10 @@
     }
   ],
   "image_paths": [
-    "assets/2026-08-09/trending/summary.png",
-    "assets/2026-08-09/trending/post1.png",
-    "assets/2026-08-09/trending/post2.png",
-    "assets/2026-08-09/trending/post3.png",
-    "assets/2026-08-09/trending/post4.png"
+    "assets/2026-08-10/trending/summary.png",
+    "assets/2026-08-10/trending/post1.png",
+    "assets/2026-08-10/trending/post2.png",
+    "assets/2026-08-10/trending/post3.png",
+    "assets/2026-08-10/trending/post4.png"
   ]
 }
