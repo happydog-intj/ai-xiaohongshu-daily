@@ -1,6 +1,6 @@
 {
-  "date": "2026-08-10",
-  "slot": "晚报",
+  "date": "2026-08-11",
+  "slot": "早报",
   "all_repos": [
     {
       "name": "semantica-agi/semantica",
@@ -8,7 +8,7 @@
       "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
       "language": "Python",
       "stars_today": "967 stars today",
-      "stars_total": "3,782"
+      "stars_total": "4,055"
     },
     {
       "name": "msitarzewski/agency-agents",
@@ -16,7 +16,7 @@
       "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
       "language": "Shell",
       "stars_today": "1,352 stars today",
-      "stars_total": "141,479"
+      "stars_total": "141,771"
     },
     {
       "name": "NanmiCoder/MediaCrawler",
@@ -24,7 +24,7 @@
       "description": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫",
       "language": "Python",
       "stars_today": "215 stars today",
-      "stars_total": "60,796"
+      "stars_total": "60,972"
     },
     {
       "name": "addyosmani/agent-skills",
@@ -32,7 +32,7 @@
       "description": "Production-grade engineering skills for AI coding agents.",
       "language": "JavaScript",
       "stars_today": "659 stars today",
-      "stars_total": "85,543"
+      "stars_total": "85,719"
     },
     {
       "name": "paperclipai/paperclip",
@@ -40,7 +40,7 @@
       "description": "The open-source app everyone uses to manage agents at work",
       "language": "TypeScript",
       "stars_today": "167 stars today",
-      "stars_total": "76,234"
+      "stars_total": "76,443"
     },
     {
       "name": "PrimeIntellect-ai/prime-agent",
@@ -48,31 +48,31 @@
       "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
       "language": "TypeScript",
       "stars_today": "2,655 stars today",
-      "stars_total": "12,635"
+      "stars_total": "13,015"
     },
     {
       "name": "LadybirdBrowser/ladybird",
       "url": "https://github.com/LadybirdBrowser/ladybird",
       "description": "Truly independent web browser",
       "language": "C++",
-      "stars_today": "190 stars today",
-      "stars_total": "65,163"
+      "stars_today": "106 stars today",
+      "stars_total": "65,242"
     },
     {
       "name": "ruvnet/RuView",
       "url": "https://github.com/ruvnet/RuView",
       "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
       "language": "Rust",
-      "stars_today": "156 stars today",
-      "stars_total": "89,207"
+      "stars_today": "186 stars today",
+      "stars_total": "89,352"
     },
     {
       "name": "danielmiessler/LifeOS",
       "url": "https://github.com/danielmiessler/LifeOS",
       "description": "⛰️A General Hill-climbing AI harness that helps you move from Current State to Ideal State in both Life and Work.",
       "language": "TypeScript",
-      "stars_today": "143 stars today",
-      "stars_total": "17,702"
+      "stars_today": "357 stars today",
+      "stars_total": "17,876"
     },
     {
       "name": "firecrawl/firecrawl",
@@ -80,7 +80,7 @@
       "description": "The context API to search, scrape, and interact with the web at scale. 🔥",
       "language": "TypeScript",
       "stars_today": "815 stars today",
-      "stars_total": "164,697"
+      "stars_total": "165,029"
     }
   ],
   "ai_repos": [
@@ -90,7 +90,7 @@
       "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
       "language": "Python",
       "stars_today": "967 stars today",
-      "stars_total": "3,782"
+      "stars_total": "4,055"
     },
     {
       "name": "msitarzewski/agency-agents",
@@ -98,7 +98,7 @@
       "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
       "language": "Shell",
       "stars_today": "1,352 stars today",
-      "stars_total": "141,479"
+      "stars_total": "141,771"
     },
     {
       "name": "addyosmani/agent-skills",
@@ -106,7 +106,7 @@
       "description": "Production-grade engineering skills for AI coding agents.",
       "language": "JavaScript",
       "stars_today": "659 stars today",
-      "stars_total": "85,543"
+      "stars_total": "85,719"
     },
     {
       "name": "paperclipai/paperclip",
@@ -114,7 +114,7 @@
       "description": "The open-source app everyone uses to manage agents at work",
       "language": "TypeScript",
       "stars_today": "167 stars today",
-      "stars_total": "76,234"
+      "stars_total": "76,443"
     },
     {
       "name": "PrimeIntellect-ai/prime-agent",
@@ -122,15 +122,15 @@
       "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
       "language": "TypeScript",
       "stars_today": "2,655 stars today",
-      "stars_total": "12,635"
+      "stars_total": "13,015"
     },
     {
       "name": "danielmiessler/LifeOS",
       "url": "https://github.com/danielmiessler/LifeOS",
       "description": "⛰️A General Hill-climbing AI harness that helps you move from Current State to Ideal State in both Life and Work.",
       "language": "TypeScript",
-      "stars_today": "143 stars today",
-      "stars_total": "17,702"
+      "stars_today": "357 stars today",
+      "stars_total": "17,876"
     }
   ],
   "posts": [
@@ -212,10 +212,10 @@
     }
   ],
   "image_paths": [
-    "assets/2026-08-10/trending/summary.png",
-    "assets/2026-08-10/trending/post1.png",
-    "assets/2026-08-10/trending/post2.png",
-    "assets/2026-08-10/trending/post3.png",
-    "assets/2026-08-10/trending/post4.png"
+    "assets/2026-08-11/trending/summary.png",
+    "assets/2026-08-11/trending/post1.png",
+    "assets/2026-08-11/trending/post2.png",
+    "assets/2026-08-11/trending/post3.png",
+    "assets/2026-08-11/trending/post4.png"
   ]
 }
