@@ -1,188 +1,145 @@
 {
   "date": "2026-08-10",
-  "slot": "早报",
+  "slot": "晚报",
   "all_repos": [
     {
-      "name": "PrimeIntellect-ai/prime-agent",
-      "url": "https://github.com/PrimeIntellect-ai/prime-agent",
-      "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
-      "language": "TypeScript",
-      "stars_today": "2,319 stars today",
-      "stars_total": "10,952"
-    },
-    {
-      "name": "vitali87/code-graph-rag",
-      "url": "https://github.com/vitali87/code-graph-rag",
-      "description": "The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs",
+      "name": "semantica-agi/semantica",
+      "url": "https://github.com/semantica-agi/semantica",
+      "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
       "language": "Python",
-      "stars_today": "59 stars today",
-      "stars_total": "2,961"
+      "stars_today": "967 stars today",
+      "stars_total": "3,782"
     },
     {
       "name": "msitarzewski/agency-agents",
       "url": "https://github.com/msitarzewski/agency-agents",
       "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
       "language": "Shell",
-      "stars_today": "932 stars today",
-      "stars_total": "140,619"
+      "stars_today": "1,352 stars today",
+      "stars_total": "141,479"
     },
     {
-      "name": "pranshuparmar/witr",
-      "url": "https://github.com/pranshuparmar/witr",
-      "description": "Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.",
-      "language": "Go",
-      "stars_today": "342 stars today",
-      "stars_total": "20,610"
-    },
-    {
-      "name": "google-deepmind/weathernext",
-      "url": "https://github.com/google-deepmind/weathernext",
-      "description": "",
+      "name": "NanmiCoder/MediaCrawler",
+      "url": "https://github.com/NanmiCoder/MediaCrawler",
+      "description": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫",
       "language": "Python",
-      "stars_today": "105 stars today",
-      "stars_total": "7,061"
+      "stars_today": "215 stars today",
+      "stars_total": "60,796"
     },
     {
       "name": "addyosmani/agent-skills",
       "url": "https://github.com/addyosmani/agent-skills",
       "description": "Production-grade engineering skills for AI coding agents.",
       "language": "JavaScript",
-      "stars_today": "670 stars today",
-      "stars_total": "85,098"
+      "stars_today": "659 stars today",
+      "stars_total": "85,543"
     },
     {
-      "name": "ZhuLinsen/daily_stock_analysis",
-      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
-      "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
-      "language": "Python",
-      "stars_today": "287 stars today",
-      "stars_total": "61,158"
+      "name": "paperclipai/paperclip",
+      "url": "https://github.com/paperclipai/paperclip",
+      "description": "The open-source app everyone uses to manage agents at work",
+      "language": "TypeScript",
+      "stars_today": "167 stars today",
+      "stars_total": "76,234"
     },
     {
-      "name": "goauthentik/authentik",
-      "url": "https://github.com/goauthentik/authentik",
-      "description": "The authentication glue you need.",
-      "language": "Python",
-      "stars_today": "312 stars today",
-      "stars_total": "24,249"
+      "name": "PrimeIntellect-ai/prime-agent",
+      "url": "https://github.com/PrimeIntellect-ai/prime-agent",
+      "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
+      "language": "TypeScript",
+      "stars_today": "2,655 stars today",
+      "stars_total": "12,635"
     },
     {
-      "name": "google/skills",
-      "url": "https://github.com/google/skills",
-      "description": "Agent Skills for Google products and technologies",
-      "language": "Python",
-      "stars_today": "532 stars today",
-      "stars_total": "17,199"
+      "name": "LadybirdBrowser/ladybird",
+      "url": "https://github.com/LadybirdBrowser/ladybird",
+      "description": "Truly independent web browser",
+      "language": "C++",
+      "stars_today": "190 stars today",
+      "stars_total": "65,163"
     },
     {
-      "name": "Comfy-Org/ComfyUI",
-      "url": "https://github.com/Comfy-Org/ComfyUI",
-      "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-      "language": "Python",
-      "stars_today": "333 stars today",
-      "stars_total": "125,465"
+      "name": "ruvnet/RuView",
+      "url": "https://github.com/ruvnet/RuView",
+      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "language": "Rust",
+      "stars_today": "156 stars today",
+      "stars_total": "89,207"
+    },
+    {
+      "name": "danielmiessler/LifeOS",
+      "url": "https://github.com/danielmiessler/LifeOS",
+      "description": "⛰️A General Hill-climbing AI harness that helps you move from Current State to Ideal State in both Life and Work.",
+      "language": "TypeScript",
+      "stars_today": "143 stars today",
+      "stars_total": "17,702"
+    },
+    {
+      "name": "firecrawl/firecrawl",
+      "url": "https://github.com/firecrawl/firecrawl",
+      "description": "The context API to search, scrape, and interact with the web at scale. 🔥",
+      "language": "TypeScript",
+      "stars_today": "815 stars today",
+      "stars_total": "164,697"
     }
   ],
   "ai_repos": [
     {
-      "name": "PrimeIntellect-ai/prime-agent",
-      "url": "https://github.com/PrimeIntellect-ai/prime-agent",
-      "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
-      "language": "TypeScript",
-      "stars_today": "2,319 stars today",
-      "stars_total": "10,952"
-    },
-    {
-      "name": "vitali87/code-graph-rag",
-      "url": "https://github.com/vitali87/code-graph-rag",
-      "description": "The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs",
+      "name": "semantica-agi/semantica",
+      "url": "https://github.com/semantica-agi/semantica",
+      "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
       "language": "Python",
-      "stars_today": "59 stars today",
-      "stars_total": "2,961"
+      "stars_today": "967 stars today",
+      "stars_total": "3,782"
     },
     {
       "name": "msitarzewski/agency-agents",
       "url": "https://github.com/msitarzewski/agency-agents",
       "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
       "language": "Shell",
-      "stars_today": "932 stars today",
-      "stars_total": "140,619"
-    },
-    {
-      "name": "pranshuparmar/witr",
-      "url": "https://github.com/pranshuparmar/witr",
-      "description": "Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.",
-      "language": "Go",
-      "stars_today": "342 stars today",
-      "stars_total": "20,610"
-    },
-    {
-      "name": "google-deepmind/weathernext",
-      "url": "https://github.com/google-deepmind/weathernext",
-      "description": "",
-      "language": "Python",
-      "stars_today": "105 stars today",
-      "stars_total": "7,061"
+      "stars_today": "1,352 stars today",
+      "stars_total": "141,479"
     },
     {
       "name": "addyosmani/agent-skills",
       "url": "https://github.com/addyosmani/agent-skills",
       "description": "Production-grade engineering skills for AI coding agents.",
       "language": "JavaScript",
-      "stars_today": "670 stars today",
-      "stars_total": "85,098"
+      "stars_today": "659 stars today",
+      "stars_total": "85,543"
     },
     {
-      "name": "ZhuLinsen/daily_stock_analysis",
-      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
-      "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
-      "language": "Python",
-      "stars_today": "287 stars today",
-      "stars_total": "61,158"
+      "name": "paperclipai/paperclip",
+      "url": "https://github.com/paperclipai/paperclip",
+      "description": "The open-source app everyone uses to manage agents at work",
+      "language": "TypeScript",
+      "stars_today": "167 stars today",
+      "stars_total": "76,234"
     },
     {
-      "name": "google/skills",
-      "url": "https://github.com/google/skills",
-      "description": "Agent Skills for Google products and technologies",
-      "language": "Python",
-      "stars_today": "532 stars today",
-      "stars_total": "17,199"
+      "name": "PrimeIntellect-ai/prime-agent",
+      "url": "https://github.com/PrimeIntellect-ai/prime-agent",
+      "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
+      "language": "TypeScript",
+      "stars_today": "2,655 stars today",
+      "stars_total": "12,635"
     },
     {
-      "name": "Comfy-Org/ComfyUI",
-      "url": "https://github.com/Comfy-Org/ComfyUI",
-      "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-      "language": "Python",
-      "stars_today": "333 stars today",
-      "stars_total": "125,465"
+      "name": "danielmiessler/LifeOS",
+      "url": "https://github.com/danielmiessler/LifeOS",
+      "description": "⛰️A General Hill-climbing AI harness that helps you move from Current State to Ideal State in both Life and Work.",
+      "language": "TypeScript",
+      "stars_today": "143 stars today",
+      "stars_total": "17,702"
     }
   ],
   "posts": [
     {
-      "topic": "prime-agent",
-      "repo": "PrimeIntellect-ai/prime-agent",
-      "cover_line1": "prime-agen",
+      "topic": "semantica",
+      "repo": "semantica-agi/semantica",
+      "cover_line1": "semantica",
       "cover_line2": "今日 GitHub 热榜！",
-      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**PrimeIntellect-ai/prime-agent**\n\n📌 A self-improving RLM agent for coding workflows and long-running autonomous tasks.\n\n🔗 https://github.com/PrimeIntellect-ai/prime-agent\n\n关注我，每天第一时间 AI 动态 👇",
-      "tags": [
-        "AI",
-        "GitHub",
-        "开源",
-        "热门项目",
-        "大模型",
-        "机器学习",
-        "深度学习",
-        "AI工具",
-        "技术",
-        "炼丹"
-      ]
-    },
-    {
-      "topic": "code-graph-rag",
-      "repo": "vitali87/code-graph-rag",
-      "cover_line1": "code-graph",
-      "cover_line2": "今日 GitHub 热榜！",
-      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**vitali87/code-graph-rag**\n\n📌 The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs\n\n🔗 https://github.com/vitali87/code-graph-rag\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**semantica-agi/semantica**\n\n📌 Graph-Native Infrastructure for Context and Accountable AI Systems\n\n🔗 https://github.com/semantica-agi/semantica\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "GitHub",
@@ -216,11 +173,30 @@
       ]
     },
     {
-      "topic": "witr",
-      "repo": "pranshuparmar/witr",
-      "cover_line1": "witr",
+      "topic": "agent-skills",
+      "repo": "addyosmani/agent-skills",
+      "cover_line1": "agent-skil",
       "cover_line2": "今日 GitHub 热榜！",
-      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**pranshuparmar/witr**\n\n📌 Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.\n\n🔗 https://github.com/pranshuparmar/witr\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**addyosmani/agent-skills**\n\n📌 Production-grade engineering skills for AI coding agents.\n\n🔗 https://github.com/addyosmani/agent-skills\n\n关注我，每天第一时间 AI 动态 👇",
+      "tags": [
+        "AI",
+        "GitHub",
+        "开源",
+        "热门项目",
+        "大模型",
+        "机器学习",
+        "深度学习",
+        "AI工具",
+        "技术",
+        "炼丹"
+      ]
+    },
+    {
+      "topic": "paperclip",
+      "repo": "paperclipai/paperclip",
+      "cover_line1": "paperclip",
+      "cover_line2": "今日 GitHub 热榜！",
+      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**paperclipai/paperclip**\n\n📌 The open-source app everyone uses to manage agents at work\n\n🔗 https://github.com/paperclipai/paperclip\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "GitHub",
