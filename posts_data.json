@@ -1,11 +1,11 @@
 {
-  "date": "2026-08-10",
+  "date": "2026-08-11",
   "posts": [
     {
-      "topic": "How I use LLMs to le",
-      "cover_line1": "How I use ",
+      "topic": "Muse Glimmer: 30B-pa",
+      "cover_line1": "Muse Glimm",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**How I use LLMs to learn complex topics**\n\n📌 来源：HackerNews\n🔗 https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows**\n\n📌 来源：HackerNews\n🔗 https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -20,10 +20,10 @@
       ]
     },
     {
-      "topic": "The tragedy of the c",
-      "cover_line1": "The traged",
+      "topic": "Mark Zuckerberg atta",
+      "cover_line1": "Mark Zucke",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**The tragedy of the commons, AI edition**\n\n📌 来源：HackerNews\n🔗 https://www.economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models**\n\n📌 来源：HackerNews\n🔗 https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -38,10 +38,10 @@
       ]
     },
     {
-      "topic": "Tuxedo No. 2 – Cockt",
-      "cover_line1": "Tuxedo No.",
+      "topic": "Confessions of a Lon",
+      "cover_line1": "Confession",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Tuxedo No. 2 – Cocktail recipes**\n\n📌 来源：HackerNews\n🔗 https://tuxedono2.com\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Confessions of a Long-Distance Sailor**\n\n📌 来源：HackerNews\n🔗 https://arachnoid.com/lutusp/sailbook.html\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -56,10 +56,10 @@
       ]
     },
     {
-      "topic": "The Hacker's Renaiss",
-      "cover_line1": "The Hacker",
+      "topic": "Show HN: Needle2: 14",
+      "cover_line1": "Show HN: N",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**The Hacker's Renaissance**\n\n📌 来源：HackerNews\n🔗 https://phrack.org/issues/72/19#article\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots**\n\n📌 来源：HackerNews\n🔗 https://cactuscompute.com/needle\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -75,15 +75,15 @@
     }
   ],
   "image_paths": [
-    "assets/2026-08-10/cover1.png",
-    "assets/2026-08-10/cover2.png",
-    "assets/2026-08-10/cover3.png",
-    "assets/2026-08-10/cover4.png"
+    "assets/2026-08-11/cover1.png",
+    "assets/2026-08-11/cover2.png",
+    "assets/2026-08-11/cover3.png",
+    "assets/2026-08-11/cover4.png"
   ],
   "feishu_image_paths": [
-    "assets/2026-08-10/cover1_feishu.png",
-    "assets/2026-08-10/cover2_feishu.png",
-    "assets/2026-08-10/cover3_feishu.png",
-    "assets/2026-08-10/cover4_feishu.png"
+    "assets/2026-08-11/cover1_feishu.png",
+    "assets/2026-08-11/cover2_feishu.png",
+    "assets/2026-08-11/cover3_feishu.png",
+    "assets/2026-08-11/cover4_feishu.png"
   ]
 }
