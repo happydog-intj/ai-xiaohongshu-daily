@@ -1,6 +1,6 @@
 {
-  "date": "2026-08-11",
-  "slot": "晚报",
+  "date": "2026-08-12",
+  "slot": "早报",
   "all_repos": [
     {
       "name": "msitarzewski/agency-agents",
@@ -8,7 +8,7 @@
       "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
       "language": "Shell",
       "stars_today": "971 stars today",
-      "stars_total": "142,496"
+      "stars_total": "143,138"
     },
     {
       "name": "semantica-agi/semantica",
@@ -16,7 +16,7 @@
       "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
       "language": "Python",
       "stars_today": "884 stars today",
-      "stars_total": "4,613"
+      "stars_total": "4,839"
     },
     {
       "name": "nvm-sh/nvm",
@@ -24,7 +24,7 @@
       "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
       "language": "Shell",
       "stars_today": "18 stars today",
-      "stars_total": "94,423"
+      "stars_total": "94,480"
     },
     {
       "name": "addyosmani/agent-skills",
@@ -32,15 +32,15 @@
       "description": "Production-grade engineering skills for AI coding agents.",
       "language": "JavaScript",
       "stars_today": "571 stars today",
-      "stars_total": "86,070"
+      "stars_total": "86,204"
     },
     {
       "name": "ZhuLinsen/daily_stock_analysis",
       "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
       "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
       "language": "Python",
-      "stars_today": "731 stars today",
-      "stars_total": "61,958"
+      "stars_today": "317 stars today",
+      "stars_total": "62,099"
     },
     {
       "name": "vitali87/code-graph-rag",
@@ -48,7 +48,7 @@
       "description": "The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs",
       "language": "Python",
       "stars_today": "339 stars today",
-      "stars_total": "3,711"
+      "stars_total": "3,799"
     },
     {
       "name": "anthropics/skills",
@@ -56,15 +56,15 @@
       "description": "Public repository for Agent Skills",
       "language": "Python",
       "stars_today": "468 stars today",
-      "stars_total": "167,878"
+      "stars_total": "168,108"
     },
     {
       "name": "3b1b/manim",
       "url": "https://github.com/3b1b/manim",
       "description": "Animation engine for explanatory math videos",
       "language": "Python",
-      "stars_today": "381 stars today",
-      "stars_total": "89,998"
+      "stars_today": "246 stars today",
+      "stars_total": "90,153"
     },
     {
       "name": "HKUDS/DeepTutor",
@@ -72,7 +72,7 @@
       "description": "DeepTutor: Lifelong Personalized Tutoring.https://deeptutor.info/.",
       "language": "Python",
       "stars_today": "829 stars today",
-      "stars_total": "34,426"
+      "stars_total": "34,675"
     },
     {
       "name": "stablyai/orca",
@@ -80,7 +80,7 @@
       "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.",
       "language": "TypeScript",
       "stars_today": "881 stars today",
-      "stars_total": "42,268"
+      "stars_total": "42,725"
     }
   ],
   "ai_repos": [
@@ -90,7 +90,7 @@
       "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
       "language": "Shell",
       "stars_today": "971 stars today",
-      "stars_total": "142,496"
+      "stars_total": "143,138"
     },
     {
       "name": "semantica-agi/semantica",
@@ -98,7 +98,7 @@
       "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
       "language": "Python",
       "stars_today": "884 stars today",
-      "stars_total": "4,613"
+      "stars_total": "4,839"
     },
     {
       "name": "addyosmani/agent-skills",
@@ -106,15 +106,15 @@
       "description": "Production-grade engineering skills for AI coding agents.",
       "language": "JavaScript",
       "stars_today": "571 stars today",
-      "stars_total": "86,070"
+      "stars_total": "86,204"
     },
     {
       "name": "ZhuLinsen/daily_stock_analysis",
       "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
       "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
       "language": "Python",
-      "stars_today": "731 stars today",
-      "stars_total": "61,958"
+      "stars_today": "317 stars today",
+      "stars_total": "62,099"
     },
     {
       "name": "vitali87/code-graph-rag",
@@ -122,7 +122,7 @@
       "description": "The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs",
       "language": "Python",
       "stars_today": "339 stars today",
-      "stars_total": "3,711"
+      "stars_total": "3,799"
     },
     {
       "name": "anthropics/skills",
@@ -130,7 +130,7 @@
       "description": "Public repository for Agent Skills",
       "language": "Python",
       "stars_today": "468 stars today",
-      "stars_total": "167,878"
+      "stars_total": "168,108"
     },
     {
       "name": "stablyai/orca",
@@ -138,7 +138,7 @@
       "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.",
       "language": "TypeScript",
       "stars_today": "881 stars today",
-      "stars_total": "42,268"
+      "stars_total": "42,725"
     }
   ],
   "posts": [
@@ -220,10 +220,10 @@
     }
   ],
   "image_paths": [
-    "assets/2026-08-11/trending/summary.png",
-    "assets/2026-08-11/trending/post1.png",
-    "assets/2026-08-11/trending/post2.png",
-    "assets/2026-08-11/trending/post3.png",
-    "assets/2026-08-11/trending/post4.png"
+    "assets/2026-08-12/trending/summary.png",
+    "assets/2026-08-12/trending/post1.png",
+    "assets/2026-08-12/trending/post2.png",
+    "assets/2026-08-12/trending/post3.png",
+    "assets/2026-08-12/trending/post4.png"
   ]
 }
