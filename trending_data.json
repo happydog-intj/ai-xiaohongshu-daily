@@ -1,22 +1,22 @@
 {
-  "date": "2026-08-12",
-  "slot": "晚报",
+  "date": "2026-08-13",
+  "slot": "早报",
   "all_repos": [
     {
       "name": "cathrynlavery/diagram-design",
       "url": "https://github.com/cathrynlavery/diagram-design",
       "description": "29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.",
       "language": "HTML",
-      "stars_today": "1,616 stars today",
-      "stars_total": "8,630"
+      "stars_today": "2,951 stars today",
+      "stars_total": "10,194"
     },
     {
       "name": "macro-inc/macro",
       "url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
       "language": "Rust",
-      "stars_today": "248 stars today",
-      "stars_total": "1,286"
+      "stars_today": "325 stars today",
+      "stars_total": "1,743"
     },
     {
       "name": "semantica-agi/semantica",
@@ -24,7 +24,7 @@
       "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
       "language": "Python",
       "stars_today": "834 stars today",
-      "stars_total": "5,457"
+      "stars_total": "5,682"
     },
     {
       "name": "stablyai/orca",
@@ -32,7 +32,7 @@
       "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.",
       "language": "TypeScript",
       "stars_today": "1,215 stars today",
-      "stars_total": "43,485"
+      "stars_total": "43,819"
     },
     {
       "name": "msitarzewski/agency-agents",
@@ -40,23 +40,23 @@
       "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
       "language": "Shell",
       "stars_today": "1,969 stars today",
-      "stars_total": "144,310"
+      "stars_total": "144,537"
     },
     {
       "name": "shiyu-coder/Kronos",
       "url": "https://github.com/shiyu-coder/Kronos",
       "description": "Kronos: A Foundation Model for the Language of Financial Markets",
       "language": "Python",
-      "stars_today": "238 stars today",
-      "stars_total": "36,851"
+      "stars_today": "277 stars today",
+      "stars_total": "36,934"
     },
     {
       "name": "NanmiCoder/MediaCrawler",
       "url": "https://github.com/NanmiCoder/MediaCrawler",
       "description": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫",
       "language": "Python",
-      "stars_today": "855 stars today",
-      "stars_total": "61,871"
+      "stars_today": "236 stars today",
+      "stars_total": "61,953"
     },
     {
       "name": "hugohe3/ppt-master",
@@ -64,15 +64,15 @@
       "description": "AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support for your own .pptx templates. · by Hugo He",
       "language": "Python",
       "stars_today": "364 stars today",
-      "stars_total": "45,268"
+      "stars_total": "45,532"
     },
     {
       "name": "infiniflow/ragflow",
       "url": "https://github.com/infiniflow/ragflow",
       "description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs",
       "language": "Go",
-      "stars_today": "85 stars today",
-      "stars_total": "87,406"
+      "stars_today": "182 stars today",
+      "stars_total": "87,528"
     },
     {
       "name": "paperclipai/paperclip",
@@ -80,7 +80,7 @@
       "description": "The open-source app everyone uses to manage agents at work",
       "language": "TypeScript",
       "stars_today": "573 stars today",
-      "stars_total": "77,508"
+      "stars_total": "77,702"
     }
   ],
   "ai_repos": [
@@ -89,16 +89,16 @@
       "url": "https://github.com/cathrynlavery/diagram-design",
       "description": "29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.",
       "language": "HTML",
-      "stars_today": "1,616 stars today",
-      "stars_total": "8,630"
+      "stars_today": "2,951 stars today",
+      "stars_total": "10,194"
     },
     {
       "name": "macro-inc/macro",
       "url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
       "language": "Rust",
-      "stars_today": "248 stars today",
-      "stars_total": "1,286"
+      "stars_today": "325 stars today",
+      "stars_total": "1,743"
     },
     {
       "name": "semantica-agi/semantica",
@@ -106,7 +106,7 @@
       "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
       "language": "Python",
       "stars_today": "834 stars today",
-      "stars_total": "5,457"
+      "stars_total": "5,682"
     },
     {
       "name": "stablyai/orca",
@@ -114,7 +114,7 @@
       "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.",
       "language": "TypeScript",
       "stars_today": "1,215 stars today",
-      "stars_total": "43,485"
+      "stars_total": "43,819"
     },
     {
       "name": "msitarzewski/agency-agents",
@@ -122,7 +122,7 @@
       "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
       "language": "Shell",
       "stars_today": "1,969 stars today",
-      "stars_total": "144,310"
+      "stars_total": "144,537"
     },
     {
       "name": "hugohe3/ppt-master",
@@ -130,15 +130,15 @@
       "description": "AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support for your own .pptx templates. · by Hugo He",
       "language": "Python",
       "stars_today": "364 stars today",
-      "stars_total": "45,268"
+      "stars_total": "45,532"
     },
     {
       "name": "infiniflow/ragflow",
       "url": "https://github.com/infiniflow/ragflow",
       "description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs",
       "language": "Go",
-      "stars_today": "85 stars today",
-      "stars_total": "87,406"
+      "stars_today": "182 stars today",
+      "stars_total": "87,528"
     },
     {
       "name": "paperclipai/paperclip",
@@ -146,7 +146,7 @@
       "description": "The open-source app everyone uses to manage agents at work",
       "language": "TypeScript",
       "stars_today": "573 stars today",
-      "stars_total": "77,508"
+      "stars_total": "77,702"
     }
   ],
   "posts": [
@@ -228,10 +228,10 @@
     }
   ],
   "image_paths": [
-    "assets/2026-08-12/trending/summary.png",
-    "assets/2026-08-12/trending/post1.png",
-    "assets/2026-08-12/trending/post2.png",
-    "assets/2026-08-12/trending/post3.png",
-    "assets/2026-08-12/trending/post4.png"
+    "assets/2026-08-13/trending/summary.png",
+    "assets/2026-08-13/trending/post1.png",
+    "assets/2026-08-13/trending/post2.png",
+    "assets/2026-08-13/trending/post3.png",
+    "assets/2026-08-13/trending/post4.png"
   ]
 }
