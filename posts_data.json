@@ -1,11 +1,11 @@
 {
-  "date": "2026-08-12",
+  "date": "2026-08-13",
   "posts": [
     {
-      "topic": "WorldClaw Agentic 3D",
-      "cover_line1": "WorldClaw ",
+      "topic": "Tailscale Traces Dat",
+      "cover_line1": "Tailscale ",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**WorldClaw Agentic 3D open-world generation at scale**\n\n📌 来源：HackerNews\n🔗 https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug**\n\n📌 来源：HackerNews\n🔗 https://tailscale.com/blog/sqlite-wal-reset-bug\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -20,10 +20,10 @@
       ]
     },
     {
-      "topic": "Stealing Reasoning T",
-      "cover_line1": "Stealing R",
+      "topic": "Someone is running m",
+      "cover_line1": "Someone is",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Stealing Reasoning Traces from Proprietary LLM APIs**\n\n📌 来源：HackerNews\n🔗 https://stolen-thoughts.com/\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot**\n\n📌 来源：HackerNews\n🔗 https://knownagents.com/insights\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -38,10 +38,10 @@
       ]
     },
     {
-      "topic": "OpenAI’s head of eth",
-      "cover_line1": "OpenAI’s h",
+      "topic": "Launch HN: Discovere",
+      "cover_line1": "Launch HN:",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**OpenAI’s head of ethics leaves less than a year after joining**\n\n📌 来源：HackerNews\n🔗 https://www.ft.com/content/e49dfb75-f841-4466-a577-f7aaff8779a0\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials**\n\n📌 来源：HackerNews\n🔗 https://discoveredmaterials.com/research/\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -56,10 +56,10 @@
       ]
     },
     {
-      "topic": "Suzanne: AI tool for",
-      "cover_line1": "Suzanne: A",
+      "topic": "Show HN: A marketpla",
+      "cover_line1": "Show HN: A",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Suzanne: AI tool for designing and manufacturing physical products**\n\n📌 来源：HackerNews\n🔗 https://www.suzanne3d.com/\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Show HN: A marketplace where AI agents buy services from AI agents**\n\n📌 来源：HackerNews\n🔗 https://aaas-marketplace-1089237826218.asia-northeast1.run.app\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -75,15 +75,15 @@
     }
   ],
   "image_paths": [
-    "assets/2026-08-12/cover1.png",
-    "assets/2026-08-12/cover2.png",
-    "assets/2026-08-12/cover3.png",
-    "assets/2026-08-12/cover4.png"
+    "assets/2026-08-13/cover1.png",
+    "assets/2026-08-13/cover2.png",
+    "assets/2026-08-13/cover3.png",
+    "assets/2026-08-13/cover4.png"
   ],
   "feishu_image_paths": [
-    "assets/2026-08-12/cover1_feishu.png",
-    "assets/2026-08-12/cover2_feishu.png",
-    "assets/2026-08-12/cover3_feishu.png",
-    "assets/2026-08-12/cover4_feishu.png"
+    "assets/2026-08-13/cover1_feishu.png",
+    "assets/2026-08-13/cover2_feishu.png",
+    "assets/2026-08-13/cover3_feishu.png",
+    "assets/2026-08-13/cover4_feishu.png"
   ]
 }
