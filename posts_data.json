@@ -1,11 +1,11 @@
 {
-  "date": "2026-08-13",
+  "date": "2026-08-14",
   "posts": [
     {
-      "topic": "Tailscale Traces Dat",
-      "cover_line1": "Tailscale ",
+      "topic": "Gemini 3.7 Flash",
+      "cover_line1": "Gemini 3.7",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug**\n\n📌 来源：HackerNews\n🔗 https://tailscale.com/blog/sqlite-wal-reset-bug\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Gemini 3.7 Flash**\n\n📌 来源：HackerNews\n🔗 https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -20,10 +20,10 @@
       ]
     },
     {
-      "topic": "Someone is running m",
-      "cover_line1": "Someone is",
+      "topic": "Accelerating GPT-5.6",
+      "cover_line1": "Accelerati",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot**\n\n📌 来源：HackerNews\n🔗 https://knownagents.com/insights\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Accelerating GPT-5.6 Sol Ultrafast**\n\n📌 来源：HackerNews\n🔗 https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -38,10 +38,10 @@
       ]
     },
     {
-      "topic": "Launch HN: Discovere",
-      "cover_line1": "Launch HN:",
+      "topic": "Mistral OCR 4.1",
+      "cover_line1": "Mistral OC",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials**\n\n📌 来源：HackerNews\n🔗 https://discoveredmaterials.com/research/\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Mistral OCR 4.1**\n\n📌 来源：HackerNews\n🔗 https://docs.mistral.ai/models/ocr-4-1\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -56,10 +56,10 @@
       ]
     },
     {
-      "topic": "Show HN: A marketpla",
-      "cover_line1": "Show HN: A",
+      "topic": "How Organizations Us",
+      "cover_line1": "How Organi",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Show HN: A marketplace where AI agents buy services from AI agents**\n\n📌 来源：HackerNews\n🔗 https://aaas-marketplace-1089237826218.asia-northeast1.run.app\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**How Organizations Use AI: Evidence from ChatGPT [pdf]**\n\n📌 来源：HackerNews\n🔗 https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -75,15 +75,15 @@
     }
   ],
   "image_paths": [
-    "assets/2026-08-13/cover1.png",
-    "assets/2026-08-13/cover2.png",
-    "assets/2026-08-13/cover3.png",
-    "assets/2026-08-13/cover4.png"
+    "assets/2026-08-14/cover1.png",
+    "assets/2026-08-14/cover2.png",
+    "assets/2026-08-14/cover3.png",
+    "assets/2026-08-14/cover4.png"
   ],
   "feishu_image_paths": [
-    "assets/2026-08-13/cover1_feishu.png",
-    "assets/2026-08-13/cover2_feishu.png",
-    "assets/2026-08-13/cover3_feishu.png",
-    "assets/2026-08-13/cover4_feishu.png"
+    "assets/2026-08-14/cover1_feishu.png",
+    "assets/2026-08-14/cover2_feishu.png",
+    "assets/2026-08-14/cover3_feishu.png",
+    "assets/2026-08-14/cover4_feishu.png"
   ]
 }
