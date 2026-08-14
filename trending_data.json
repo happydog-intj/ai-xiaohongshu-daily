@@ -1,6 +1,6 @@
 {
-  "date": "2026-08-14",
-  "slot": "晚报",
+  "date": "2026-08-15",
+  "slot": "早报",
   "all_repos": [
     {
       "name": "cathrynlavery/diagram-design",
@@ -8,7 +8,7 @@
       "description": "29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.",
       "language": "HTML",
       "stars_today": "3,651 stars today",
-      "stars_total": "16,568"
+      "stars_total": "17,162"
     },
     {
       "name": "cactus-compute/needle",
@@ -16,7 +16,7 @@
       "description": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
       "language": "Python",
       "stars_today": "661 stars today",
-      "stars_total": "5,358"
+      "stars_total": "5,579"
     },
     {
       "name": "megadose/holehe",
@@ -24,7 +24,7 @@
       "description": "holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.",
       "language": "Python",
       "stars_today": "427 stars today",
-      "stars_total": "12,659"
+      "stars_total": "12,828"
     },
     {
       "name": "macro-inc/macro",
@@ -32,7 +32,7 @@
       "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
       "language": "Rust",
       "stars_today": "435 stars today",
-      "stars_total": "2,866"
+      "stars_total": "3,011"
     },
     {
       "name": "smicallef/spiderfoot",
@@ -40,7 +40,7 @@
       "description": "SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.",
       "language": "Python",
       "stars_today": "292 stars today",
-      "stars_total": "20,817"
+      "stars_total": "20,928"
     },
     {
       "name": "citrolabs/ego-lite",
@@ -48,7 +48,7 @@
       "description": "The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
       "language": "JavaScript",
       "stars_today": "153 stars today",
-      "stars_total": "10,150"
+      "stars_total": "10,338"
     },
     {
       "name": "holaboss-ai/holaOS",
@@ -56,7 +56,7 @@
       "description": "Open-source All in One AI agent workspace. Run any agent — Claude Code, Codex — across your tools (100+ integrations + MCP), apps, browser, and files, with shared memory. Built-in models or BYOK.",
       "language": "TypeScript",
       "stars_today": "769 stars today",
-      "stars_total": "6,990"
+      "stars_total": "7,260"
     },
     {
       "name": "github/spec-kit",
@@ -64,7 +64,7 @@
       "description": "💫 Toolkit to help you get started with Spec-Driven Development",
       "language": "Python",
       "stars_today": "1,147 stars today",
-      "stars_total": "128,073"
+      "stars_total": "128,483"
     },
     {
       "name": "lightningpixel/modly",
@@ -72,7 +72,7 @@
       "description": "Desktop app to generate 3D models from images or prompt using local AI — runs entirely on your GPU",
       "language": "TypeScript",
       "stars_today": "580 stars today",
-      "stars_total": "5,768"
+      "stars_total": "5,907"
     },
     {
       "name": "infiniflow/ragflow",
@@ -80,7 +80,7 @@
       "description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs",
       "language": "Go",
       "stars_today": "474 stars today",
-      "stars_total": "88,299"
+      "stars_total": "88,387"
     }
   ],
   "ai_repos": [
@@ -90,7 +90,7 @@
       "description": "29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.",
       "language": "HTML",
       "stars_today": "3,651 stars today",
-      "stars_total": "16,568"
+      "stars_total": "17,162"
     },
     {
       "name": "megadose/holehe",
@@ -98,7 +98,7 @@
       "description": "holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.",
       "language": "Python",
       "stars_today": "427 stars today",
-      "stars_total": "12,659"
+      "stars_total": "12,828"
     },
     {
       "name": "macro-inc/macro",
@@ -106,7 +106,7 @@
       "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
       "language": "Rust",
       "stars_today": "435 stars today",
-      "stars_total": "2,866"
+      "stars_total": "3,011"
     },
     {
       "name": "citrolabs/ego-lite",
@@ -114,7 +114,7 @@
       "description": "The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
       "language": "JavaScript",
       "stars_today": "153 stars today",
-      "stars_total": "10,150"
+      "stars_total": "10,338"
     },
     {
       "name": "holaboss-ai/holaOS",
@@ -122,7 +122,7 @@
       "description": "Open-source All in One AI agent workspace. Run any agent — Claude Code, Codex — across your tools (100+ integrations + MCP), apps, browser, and files, with shared memory. Built-in models or BYOK.",
       "language": "TypeScript",
       "stars_today": "769 stars today",
-      "stars_total": "6,990"
+      "stars_total": "7,260"
     },
     {
       "name": "lightningpixel/modly",
@@ -130,7 +130,7 @@
       "description": "Desktop app to generate 3D models from images or prompt using local AI — runs entirely on your GPU",
       "language": "TypeScript",
       "stars_today": "580 stars today",
-      "stars_total": "5,768"
+      "stars_total": "5,907"
     },
     {
       "name": "infiniflow/ragflow",
@@ -138,7 +138,7 @@
       "description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs",
       "language": "Go",
       "stars_today": "474 stars today",
-      "stars_total": "88,299"
+      "stars_total": "88,387"
     }
   ],
   "posts": [
@@ -220,10 +220,10 @@
     }
   ],
   "image_paths": [
-    "assets/2026-08-14/trending/summary.png",
-    "assets/2026-08-14/trending/post1.png",
-    "assets/2026-08-14/trending/post2.png",
-    "assets/2026-08-14/trending/post3.png",
-    "assets/2026-08-14/trending/post4.png"
+    "assets/2026-08-15/trending/summary.png",
+    "assets/2026-08-15/trending/post1.png",
+    "assets/2026-08-15/trending/post2.png",
+    "assets/2026-08-15/trending/post3.png",
+    "assets/2026-08-15/trending/post4.png"
   ]
 }
