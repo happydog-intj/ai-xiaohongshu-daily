@@ -1,11 +1,11 @@
 {
-  "date": "2026-08-14",
+  "date": "2026-08-15",
   "posts": [
     {
-      "topic": "Gemini 3.7 Flash",
-      "cover_line1": "Gemini 3.7",
+      "topic": "Google is making pri",
+      "cover_line1": "Google is ",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Gemini 3.7 Flash**\n\n📌 来源：HackerNews\n🔗 https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Google is making private AI practical with homomorphic encryption**\n\n📌 来源：HackerNews\n🔗 https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -20,10 +20,10 @@
       ]
     },
     {
-      "topic": "Accelerating GPT-5.6",
-      "cover_line1": "Accelerati",
+      "topic": "AI by Hand",
+      "cover_line1": "AI by Hand",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Accelerating GPT-5.6 Sol Ultrafast**\n\n📌 来源：HackerNews\n🔗 https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**AI by Hand**\n\n📌 来源：HackerNews\n🔗 https://www.byhand.ai/\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -38,10 +38,10 @@
       ]
     },
     {
-      "topic": "Mistral OCR 4.1",
-      "cover_line1": "Mistral OC",
+      "topic": "Show HN: Mole – Deep",
+      "cover_line1": "Show HN: M",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Mistral OCR 4.1**\n\n📌 来源：HackerNews\n🔗 https://docs.mistral.ai/models/ocr-4-1\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Show HN: Mole – Deep research agent for your terminal**\n\n📌 来源：HackerNews\n🔗 https://github.com/lajosdeme/mole\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -56,10 +56,10 @@
       ]
     },
     {
-      "topic": "How Organizations Us",
-      "cover_line1": "How Organi",
+      "topic": "Maximizing the value",
+      "cover_line1": "Maximizing",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**How Organizations Use AI: Evidence from ChatGPT [pdf]**\n\n📌 来源：HackerNews\n🔗 https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Maximizing the value of your Claude Code sessions**\n\n📌 来源：HackerNews\n🔗 https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -75,15 +75,15 @@
     }
   ],
   "image_paths": [
-    "assets/2026-08-14/cover1.png",
-    "assets/2026-08-14/cover2.png",
-    "assets/2026-08-14/cover3.png",
-    "assets/2026-08-14/cover4.png"
+    "assets/2026-08-15/cover1.png",
+    "assets/2026-08-15/cover2.png",
+    "assets/2026-08-15/cover3.png",
+    "assets/2026-08-15/cover4.png"
   ],
   "feishu_image_paths": [
-    "assets/2026-08-14/cover1_feishu.png",
-    "assets/2026-08-14/cover2_feishu.png",
-    "assets/2026-08-14/cover3_feishu.png",
-    "assets/2026-08-14/cover4_feishu.png"
+    "assets/2026-08-15/cover1_feishu.png",
+    "assets/2026-08-15/cover2_feishu.png",
+    "assets/2026-08-15/cover3_feishu.png",
+    "assets/2026-08-15/cover4_feishu.png"
   ]
 }
