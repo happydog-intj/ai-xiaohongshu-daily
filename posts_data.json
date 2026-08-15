@@ -1,11 +1,11 @@
 {
-  "date": "2026-08-15",
+  "date": "2026-08-16",
   "posts": [
     {
-      "topic": "Google is making pri",
-      "cover_line1": "Google is ",
+      "topic": "AI has access to a v",
+      "cover_line1": "AI has acc",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Google is making private AI practical with homomorphic encryption**\n\n📌 来源：HackerNews\n🔗 https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**AI has access to a vastly larger working memory than the human brain**\n\n📌 来源：HackerNews\n🔗 https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -20,10 +20,10 @@
       ]
     },
     {
-      "topic": "AI by Hand",
-      "cover_line1": "AI by Hand",
+      "topic": "AI in drug discovery",
+      "cover_line1": "AI in drug",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**AI by Hand**\n\n📌 来源：HackerNews\n🔗 https://www.byhand.ai/\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**AI in drug discovery – what it is, where we stand and the path forward**\n\n📌 来源：HackerNews\n🔗 https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -38,10 +38,10 @@
       ]
     },
     {
-      "topic": "Show HN: Mole – Deep",
-      "cover_line1": "Show HN: M",
+      "topic": "Show HN: Live Claude",
+      "cover_line1": "Show HN: L",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Show HN: Mole – Deep research agent for your terminal**\n\n📌 来源：HackerNews\n🔗 https://github.com/lajosdeme/mole\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Show HN: Live Claude Usage HUD for a $38 Thermalright Trofeo Vision LCD**\n\n📌 来源：HackerNews\n🔗 https://github.com/christensen143/claude-trofeo-hud\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -56,10 +56,10 @@
       ]
     },
     {
-      "topic": "Maximizing the value",
-      "cover_line1": "Maximizing",
+      "topic": "Voltair (YC W26) Is ",
+      "cover_line1": "Voltair (Y",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Maximizing the value of your Claude Code sessions**\n\n📌 来源：HackerNews\n🔗 https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Voltair (YC W26) Is Hiring a Test Flight Engineer**\n\n📌 来源：HackerNews\n🔗 https://www.ycombinator.com/companies/voltair/jobs/sSOD2Ox-flight-test-engineer\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -75,15 +75,15 @@
     }
   ],
   "image_paths": [
-    "assets/2026-08-15/cover1.png",
-    "assets/2026-08-15/cover2.png",
-    "assets/2026-08-15/cover3.png",
-    "assets/2026-08-15/cover4.png"
+    "assets/2026-08-16/cover1.png",
+    "assets/2026-08-16/cover2.png",
+    "assets/2026-08-16/cover3.png",
+    "assets/2026-08-16/cover4.png"
   ],
   "feishu_image_paths": [
-    "assets/2026-08-15/cover1_feishu.png",
-    "assets/2026-08-15/cover2_feishu.png",
-    "assets/2026-08-15/cover3_feishu.png",
-    "assets/2026-08-15/cover4_feishu.png"
+    "assets/2026-08-16/cover1_feishu.png",
+    "assets/2026-08-16/cover2_feishu.png",
+    "assets/2026-08-16/cover3_feishu.png",
+    "assets/2026-08-16/cover4_feishu.png"
   ]
 }
