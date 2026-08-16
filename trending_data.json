@@ -1,6 +1,6 @@
 {
-  "date": "2026-08-16",
-  "slot": "晚报",
+  "date": "2026-08-17",
+  "slot": "早报",
   "all_repos": [
     {
       "name": "cordiverse/cordis",
@@ -8,7 +8,7 @@
       "description": "Meta-Framework of Spatiotemporal Composability",
       "language": "TypeScript",
       "stars_today": "719 stars today",
-      "stars_total": "4,453"
+      "stars_total": "4,691"
     },
     {
       "name": "basecamp/omarchy",
@@ -16,7 +16,7 @@
       "description": "Beautiful, Modern & Opinionated Linux",
       "language": "Shell",
       "stars_today": "225 stars today",
-      "stars_total": "25,118"
+      "stars_total": "25,347"
     },
     {
       "name": "unslothai/unsloth",
@@ -24,7 +24,7 @@
       "description": "Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.",
       "language": "Python",
       "stars_today": "580 stars today",
-      "stars_total": "72,282"
+      "stars_total": "72,534"
     },
     {
       "name": "OpenCut-app/OpenCut",
@@ -32,15 +32,7 @@
       "description": "The open-source CapCut alternative",
       "language": "TypeScript",
       "stars_today": "134 stars today",
-      "stars_total": "83,553"
-    },
-    {
-      "name": "akitaonrails/ai-memory",
-      "url": "https://github.com/akitaonrails/ai-memory",
-      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
-      "language": "Rust",
-      "stars_today": "41 stars today",
-      "stars_total": "1,564"
+      "stars_total": "83,852"
     },
     {
       "name": "public-apis/public-apis",
@@ -48,7 +40,7 @@
       "description": "A collective list of free APIs",
       "language": "Python",
       "stars_today": "1,583 stars today",
-      "stars_total": "460,907"
+      "stars_total": "461,674"
     },
     {
       "name": "ToolJet/ToolJet",
@@ -56,7 +48,7 @@
       "description": "ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀",
       "language": "JavaScript",
       "stars_today": "446 stars today",
-      "stars_total": "39,768"
+      "stars_total": "39,997"
     },
     {
       "name": "cactus-compute/needle",
@@ -64,7 +56,7 @@
       "description": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
       "language": "Python",
       "stars_today": "447 stars today",
-      "stars_total": "6,308"
+      "stars_total": "6,540"
     }
   ],
   "ai_repos": [
@@ -74,15 +66,7 @@
       "description": "Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.",
       "language": "Python",
       "stars_today": "580 stars today",
-      "stars_total": "72,282"
-    },
-    {
-      "name": "akitaonrails/ai-memory",
-      "url": "https://github.com/akitaonrails/ai-memory",
-      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
-      "language": "Rust",
-      "stars_today": "41 stars today",
-      "stars_total": "1,564"
+      "stars_total": "72,534"
     },
     {
       "name": "ToolJet/ToolJet",
@@ -90,7 +74,7 @@
       "description": "ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀",
       "language": "JavaScript",
       "stars_today": "446 stars today",
-      "stars_total": "39,768"
+      "stars_total": "39,997"
     }
   ],
   "posts": [
@@ -100,25 +84,6 @@
       "cover_line1": "unsloth",
       "cover_line2": "今日 GitHub 热榜！",
       "body": "🔥 GitHub Trending 今日爆款来了！\n\n**unslothai/unsloth**\n\n📌 Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.\n\n🔗 https://github.com/unslothai/unsloth\n\n关注我，每天第一时间 AI 动态 👇",
-      "tags": [
-        "AI",
-        "GitHub",
-        "开源",
-        "热门项目",
-        "大模型",
-        "机器学习",
-        "深度学习",
-        "AI工具",
-        "技术",
-        "炼丹"
-      ]
-    },
-    {
-      "topic": "ai-memory",
-      "repo": "akitaonrails/ai-memory",
-      "cover_line1": "ai-memory",
-      "cover_line2": "今日 GitHub 热榜！",
-      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**akitaonrails/ai-memory**\n\n📌 Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors\n\n🔗 https://github.com/akitaonrails/ai-memory\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "GitHub",
@@ -153,9 +118,8 @@
     }
   ],
   "image_paths": [
-    "assets/2026-08-16/trending/summary.png",
-    "assets/2026-08-16/trending/post1.png",
-    "assets/2026-08-16/trending/post2.png",
-    "assets/2026-08-16/trending/post3.png"
+    "assets/2026-08-17/trending/summary.png",
+    "assets/2026-08-17/trending/post1.png",
+    "assets/2026-08-17/trending/post2.png"
   ]
 }
