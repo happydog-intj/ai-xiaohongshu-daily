@@ -1,150 +1,99 @@
 {
   "date": "2026-08-16",
-  "slot": "早报",
+  "slot": "晚报",
   "all_repos": [
     {
       "name": "cordiverse/cordis",
       "url": "https://github.com/cordiverse/cordis",
       "description": "Meta-Framework of Spatiotemporal Composability",
       "language": "TypeScript",
-      "stars_today": "616 stars today",
-      "stars_total": "4,040"
+      "stars_today": "719 stars today",
+      "stars_total": "4,453"
     },
     {
-      "name": "cathrynlavery/diagram-design",
-      "url": "https://github.com/cathrynlavery/diagram-design",
-      "description": "29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.",
-      "language": "HTML",
-      "stars_today": "1,619 stars today",
-      "stars_total": "18,568"
-    },
-    {
-      "name": "cursor/plugins",
-      "url": "https://github.com/cursor/plugins",
-      "description": "Cursor plugin specification and official plugins",
-      "language": "TypeScript",
-      "stars_today": "152 stars today",
-      "stars_total": "2,944"
-    },
-    {
-      "name": "cactus-compute/needle",
-      "url": "https://github.com/cactus-compute/needle",
-      "description": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
-      "language": "Python",
-      "stars_today": "551 stars today",
-      "stars_total": "6,052"
+      "name": "basecamp/omarchy",
+      "url": "https://github.com/basecamp/omarchy",
+      "description": "Beautiful, Modern & Opinionated Linux",
+      "language": "Shell",
+      "stars_today": "225 stars today",
+      "stars_total": "25,118"
     },
     {
       "name": "unslothai/unsloth",
       "url": "https://github.com/unslothai/unsloth",
       "description": "Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.",
       "language": "Python",
-      "stars_today": "435 stars today",
-      "stars_total": "72,021"
+      "stars_today": "580 stars today",
+      "stars_total": "72,282"
+    },
+    {
+      "name": "OpenCut-app/OpenCut",
+      "url": "https://github.com/OpenCut-app/OpenCut",
+      "description": "The open-source CapCut alternative",
+      "language": "TypeScript",
+      "stars_today": "134 stars today",
+      "stars_total": "83,553"
+    },
+    {
+      "name": "akitaonrails/ai-memory",
+      "url": "https://github.com/akitaonrails/ai-memory",
+      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+      "language": "Rust",
+      "stars_today": "41 stars today",
+      "stars_total": "1,564"
     },
     {
       "name": "public-apis/public-apis",
       "url": "https://github.com/public-apis/public-apis",
       "description": "A collective list of free APIs",
       "language": "Python",
-      "stars_today": "2,476 stars today",
-      "stars_total": "460,119"
+      "stars_today": "1,583 stars today",
+      "stars_total": "460,907"
     },
     {
-      "name": "MakazhanAlpamys/Soup",
-      "url": "https://github.com/MakazhanAlpamys/Soup",
-      "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
+      "name": "ToolJet/ToolJet",
+      "url": "https://github.com/ToolJet/ToolJet",
+      "description": "ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀",
+      "language": "JavaScript",
+      "stars_today": "446 stars today",
+      "stars_total": "39,768"
+    },
+    {
+      "name": "cactus-compute/needle",
+      "url": "https://github.com/cactus-compute/needle",
+      "description": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
       "language": "Python",
-      "stars_today": "303 stars today",
-      "stars_total": "1,634"
-    },
-    {
-      "name": "github/spec-kit",
-      "url": "https://github.com/github/spec-kit",
-      "description": "💫 Toolkit to help you get started with Spec-Driven Development",
-      "language": "Python",
-      "stars_today": "901 stars today",
-      "stars_total": "129,170"
-    },
-    {
-      "name": "megadose/holehe",
-      "url": "https://github.com/megadose/holehe",
-      "description": "holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.",
-      "language": "Python",
-      "stars_today": "389 stars today",
-      "stars_total": "13,104"
-    },
-    {
-      "name": "altic-dev/FluidVoice",
-      "url": "https://github.com/altic-dev/FluidVoice",
-      "description": "Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model. A local Wispr Flow alternative. DM us on X for an easter egg 😉 -https://x.com/fluidvoiceapp",
-      "language": "Swift",
-      "stars_today": "165 stars today",
-      "stars_total": "10,310"
+      "stars_today": "447 stars today",
+      "stars_total": "6,308"
     }
   ],
   "ai_repos": [
-    {
-      "name": "cathrynlavery/diagram-design",
-      "url": "https://github.com/cathrynlavery/diagram-design",
-      "description": "29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.",
-      "language": "HTML",
-      "stars_today": "1,619 stars today",
-      "stars_total": "18,568"
-    },
     {
       "name": "unslothai/unsloth",
       "url": "https://github.com/unslothai/unsloth",
       "description": "Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.",
       "language": "Python",
-      "stars_today": "435 stars today",
-      "stars_total": "72,021"
+      "stars_today": "580 stars today",
+      "stars_total": "72,282"
     },
     {
-      "name": "MakazhanAlpamys/Soup",
-      "url": "https://github.com/MakazhanAlpamys/Soup",
-      "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
-      "language": "Python",
-      "stars_today": "303 stars today",
-      "stars_total": "1,634"
+      "name": "akitaonrails/ai-memory",
+      "url": "https://github.com/akitaonrails/ai-memory",
+      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+      "language": "Rust",
+      "stars_today": "41 stars today",
+      "stars_total": "1,564"
     },
     {
-      "name": "megadose/holehe",
-      "url": "https://github.com/megadose/holehe",
-      "description": "holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.",
-      "language": "Python",
-      "stars_today": "389 stars today",
-      "stars_total": "13,104"
-    },
-    {
-      "name": "altic-dev/FluidVoice",
-      "url": "https://github.com/altic-dev/FluidVoice",
-      "description": "Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model. A local Wispr Flow alternative. DM us on X for an easter egg 😉 -https://x.com/fluidvoiceapp",
-      "language": "Swift",
-      "stars_today": "165 stars today",
-      "stars_total": "10,310"
+      "name": "ToolJet/ToolJet",
+      "url": "https://github.com/ToolJet/ToolJet",
+      "description": "ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀",
+      "language": "JavaScript",
+      "stars_today": "446 stars today",
+      "stars_total": "39,768"
     }
   ],
   "posts": [
-    {
-      "topic": "diagram-design",
-      "repo": "cathrynlavery/diagram-design",
-      "cover_line1": "diagram-de",
-      "cover_line2": "今日 GitHub 热榜！",
-      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**cathrynlavery/diagram-design**\n\n📌 29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.\n\n🔗 https://github.com/cathrynlavery/diagram-design\n\n关注我，每天第一时间 AI 动态 👇",
-      "tags": [
-        "AI",
-        "GitHub",
-        "开源",
-        "热门项目",
-        "大模型",
-        "机器学习",
-        "深度学习",
-        "AI工具",
-        "技术",
-        "炼丹"
-      ]
-    },
     {
       "topic": "unsloth",
       "repo": "unslothai/unsloth",
@@ -165,11 +114,11 @@
       ]
     },
     {
-      "topic": "Soup",
-      "repo": "MakazhanAlpamys/Soup",
-      "cover_line1": "Soup",
+      "topic": "ai-memory",
+      "repo": "akitaonrails/ai-memory",
+      "cover_line1": "ai-memory",
       "cover_line2": "今日 GitHub 热榜！",
-      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**MakazhanAlpamys/Soup**\n\n📌 Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.\n\n🔗 https://github.com/MakazhanAlpamys/Soup\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**akitaonrails/ai-memory**\n\n📌 Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors\n\n🔗 https://github.com/akitaonrails/ai-memory\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "GitHub",
@@ -184,11 +133,11 @@
       ]
     },
     {
-      "topic": "holehe",
-      "repo": "megadose/holehe",
-      "cover_line1": "holehe",
+      "topic": "ToolJet",
+      "repo": "ToolJet/ToolJet",
+      "cover_line1": "ToolJet",
       "cover_line2": "今日 GitHub 热榜！",
-      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**megadose/holehe**\n\n📌 holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.\n\n🔗 https://github.com/megadose/holehe\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**ToolJet/ToolJet**\n\n📌 ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀\n\n🔗 https://github.com/ToolJet/ToolJet\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "GitHub",
@@ -207,7 +156,6 @@
     "assets/2026-08-16/trending/summary.png",
     "assets/2026-08-16/trending/post1.png",
     "assets/2026-08-16/trending/post2.png",
-    "assets/2026-08-16/trending/post3.png",
-    "assets/2026-08-16/trending/post4.png"
+    "assets/2026-08-16/trending/post3.png"
   ]
 }
