@@ -1,11 +1,11 @@
 {
-  "date": "2026-08-16",
+  "date": "2026-08-17",
   "posts": [
     {
-      "topic": "AI has access to a v",
-      "cover_line1": "AI has acc",
+      "topic": "Claude: System Promp",
+      "cover_line1": "Claude: Sy",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**AI has access to a vastly larger working memory than the human brain**\n\n📌 来源：HackerNews\n🔗 https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Claude: System Prompts**\n\n📌 来源：HackerNews\n🔗 https://platform.claude.com/docs/en/release-notes/system-prompts\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -20,10 +20,10 @@
       ]
     },
     {
-      "topic": "AI in drug discovery",
-      "cover_line1": "AI in drug",
+      "topic": "Anthropic's 'Waterma",
+      "cover_line1": "Anthropic'",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**AI in drug discovery – what it is, where we stand and the path forward**\n\n📌 来源：HackerNews\n🔗 https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Anthropic's 'Watermark' Text Adulteration in Claude Is a Perversion of Writing**\n\n📌 来源：HackerNews\n🔗 https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -38,10 +38,10 @@
       ]
     },
     {
-      "topic": "Show HN: Live Claude",
-      "cover_line1": "Show HN: L",
+      "topic": "The Case Against For",
+      "cover_line1": "The Case A",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Show HN: Live Claude Usage HUD for a $38 Thermalright Trofeo Vision LCD**\n\n📌 来源：HackerNews\n🔗 https://github.com/christensen143/claude-trofeo-hud\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**The Case Against Formal Verification, 50 Years Later**\n\n📌 来源：HackerNews\n🔗 https://ivan-gavran.github.io/0-social-processes-paper\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -56,10 +56,10 @@
       ]
     },
     {
-      "topic": "Voltair (YC W26) Is ",
-      "cover_line1": "Voltair (Y",
+      "topic": "Models Are Getting D",
+      "cover_line1": "Models Are",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Voltair (YC W26) Is Hiring a Test Flight Engineer**\n\n📌 来源：HackerNews\n🔗 https://www.ycombinator.com/companies/voltair/jobs/sSOD2Ox-flight-test-engineer\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Models Are Getting Dumber on Purpose**\n\n📌 来源：HackerNews\n🔗 https://w4g1.dev/blog/models-are-getting-dumber-on-purpose\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -75,15 +75,15 @@
     }
   ],
   "image_paths": [
-    "assets/2026-08-16/cover1.png",
-    "assets/2026-08-16/cover2.png",
-    "assets/2026-08-16/cover3.png",
-    "assets/2026-08-16/cover4.png"
+    "assets/2026-08-17/cover1.png",
+    "assets/2026-08-17/cover2.png",
+    "assets/2026-08-17/cover3.png",
+    "assets/2026-08-17/cover4.png"
   ],
   "feishu_image_paths": [
-    "assets/2026-08-16/cover1_feishu.png",
-    "assets/2026-08-16/cover2_feishu.png",
-    "assets/2026-08-16/cover3_feishu.png",
-    "assets/2026-08-16/cover4_feishu.png"
+    "assets/2026-08-17/cover1_feishu.png",
+    "assets/2026-08-17/cover2_feishu.png",
+    "assets/2026-08-17/cover3_feishu.png",
+    "assets/2026-08-17/cover4_feishu.png"
   ]
 }
