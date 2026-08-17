@@ -1,89 +1,153 @@
 {
-  "date": "2026-08-17",
+  "date": "2026-08-18",
   "slot": "早报",
   "all_repos": [
+    {
+      "name": "harry0703/MoneyPrinterTurbo",
+      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+      "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
+      "language": "Python",
+      "stars_today": "1,275 stars today",
+      "stars_total": "105,933"
+    },
+    {
+      "name": "usestrix/strix",
+      "url": "https://github.com/usestrix/strix",
+      "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
+      "language": "Python",
+      "stars_today": "656 stars today",
+      "stars_total": "54,103"
+    },
+    {
+      "name": "nautechsystems/nautilus_trader",
+      "url": "https://github.com/nautechsystems/nautilus_trader",
+      "description": "Production-grade Rust-native trading engine with deterministic event-driven architecture",
+      "language": "Rust",
+      "stars_today": "115 stars today",
+      "stars_total": "25,889"
+    },
+    {
+      "name": "akitaonrails/ai-memory",
+      "url": "https://github.com/akitaonrails/ai-memory",
+      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+      "language": "Rust",
+      "stars_today": "207 stars today",
+      "stars_total": "2,007"
+    },
+    {
+      "name": "mukul975/Anthropic-Cybersecurity-Skills",
+      "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+      "description": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0",
+      "language": "Python",
+      "stars_today": "156 stars today",
+      "stars_total": "28,382"
+    },
+    {
+      "name": "AlexsJones/llmfit",
+      "url": "https://github.com/AlexsJones/llmfit",
+      "description": "Hundreds of models & providers. One command to find what runs on your hardware.",
+      "language": "Rust",
+      "stars_today": "239 stars today",
+      "stars_total": "32,233"
+    },
+    {
+      "name": "santifer/career-ops",
+      "url": "https://github.com/santifer/career-ops",
+      "description": "Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravity…)",
+      "language": "JavaScript",
+      "stars_today": "147 stars today",
+      "stars_total": "64,586"
+    },
+    {
+      "name": "jundot/omlx",
+      "url": "https://github.com/jundot/omlx",
+      "description": "LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar",
+      "language": "Python",
+      "stars_today": "96 stars today",
+      "stars_total": "18,972"
+    },
+    {
+      "name": "immich-app/immich",
+      "url": "https://github.com/immich-app/immich",
+      "description": "High performance self-hosted photo and video management solution.",
+      "language": "TypeScript",
+      "stars_today": "337 stars today",
+      "stars_total": "111,118"
+    },
     {
       "name": "cordiverse/cordis",
       "url": "https://github.com/cordiverse/cordis",
       "description": "Meta-Framework of Spatiotemporal Composability",
       "language": "TypeScript",
-      "stars_today": "719 stars today",
-      "stars_total": "4,691"
-    },
-    {
-      "name": "basecamp/omarchy",
-      "url": "https://github.com/basecamp/omarchy",
-      "description": "Beautiful, Modern & Opinionated Linux",
-      "language": "Shell",
-      "stars_today": "225 stars today",
-      "stars_total": "25,347"
-    },
-    {
-      "name": "unslothai/unsloth",
-      "url": "https://github.com/unslothai/unsloth",
-      "description": "Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.",
-      "language": "Python",
-      "stars_today": "580 stars today",
-      "stars_total": "72,534"
-    },
-    {
-      "name": "OpenCut-app/OpenCut",
-      "url": "https://github.com/OpenCut-app/OpenCut",
-      "description": "The open-source CapCut alternative",
-      "language": "TypeScript",
-      "stars_today": "134 stars today",
-      "stars_total": "83,852"
-    },
-    {
-      "name": "public-apis/public-apis",
-      "url": "https://github.com/public-apis/public-apis",
-      "description": "A collective list of free APIs",
-      "language": "Python",
-      "stars_today": "1,583 stars today",
-      "stars_total": "461,674"
-    },
-    {
-      "name": "ToolJet/ToolJet",
-      "url": "https://github.com/ToolJet/ToolJet",
-      "description": "ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀",
-      "language": "JavaScript",
-      "stars_today": "446 stars today",
-      "stars_total": "39,997"
-    },
-    {
-      "name": "cactus-compute/needle",
-      "url": "https://github.com/cactus-compute/needle",
-      "description": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
-      "language": "Python",
-      "stars_today": "447 stars today",
-      "stars_total": "6,540"
+      "stars_today": "959 stars today",
+      "stars_total": "5,555"
     }
   ],
   "ai_repos": [
     {
-      "name": "unslothai/unsloth",
-      "url": "https://github.com/unslothai/unsloth",
-      "description": "Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.",
+      "name": "harry0703/MoneyPrinterTurbo",
+      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+      "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
       "language": "Python",
-      "stars_today": "580 stars today",
-      "stars_total": "72,534"
+      "stars_today": "1,275 stars today",
+      "stars_total": "105,933"
     },
     {
-      "name": "ToolJet/ToolJet",
-      "url": "https://github.com/ToolJet/ToolJet",
-      "description": "ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀",
+      "name": "usestrix/strix",
+      "url": "https://github.com/usestrix/strix",
+      "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
+      "language": "Python",
+      "stars_today": "656 stars today",
+      "stars_total": "54,103"
+    },
+    {
+      "name": "akitaonrails/ai-memory",
+      "url": "https://github.com/akitaonrails/ai-memory",
+      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+      "language": "Rust",
+      "stars_today": "207 stars today",
+      "stars_total": "2,007"
+    },
+    {
+      "name": "mukul975/Anthropic-Cybersecurity-Skills",
+      "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+      "description": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0",
+      "language": "Python",
+      "stars_today": "156 stars today",
+      "stars_total": "28,382"
+    },
+    {
+      "name": "AlexsJones/llmfit",
+      "url": "https://github.com/AlexsJones/llmfit",
+      "description": "Hundreds of models & providers. One command to find what runs on your hardware.",
+      "language": "Rust",
+      "stars_today": "239 stars today",
+      "stars_total": "32,233"
+    },
+    {
+      "name": "santifer/career-ops",
+      "url": "https://github.com/santifer/career-ops",
+      "description": "Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravity…)",
       "language": "JavaScript",
-      "stars_today": "446 stars today",
-      "stars_total": "39,997"
+      "stars_today": "147 stars today",
+      "stars_total": "64,586"
+    },
+    {
+      "name": "jundot/omlx",
+      "url": "https://github.com/jundot/omlx",
+      "description": "LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar",
+      "language": "Python",
+      "stars_today": "96 stars today",
+      "stars_total": "18,972"
     }
   ],
   "posts": [
     {
-      "topic": "unsloth",
-      "repo": "unslothai/unsloth",
-      "cover_line1": "unsloth",
+      "topic": "MoneyPrinterTurbo",
+      "repo": "harry0703/MoneyPrinterTurbo",
+      "cover_line1": "MoneyPrint",
       "cover_line2": "今日 GitHub 热榜！",
-      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**unslothai/unsloth**\n\n📌 Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.\n\n🔗 https://github.com/unslothai/unsloth\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**harry0703/MoneyPrinterTurbo**\n\n📌 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.\n\n🔗 https://github.com/harry0703/MoneyPrinterTurbo\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "GitHub",
@@ -98,11 +162,49 @@
       ]
     },
     {
-      "topic": "ToolJet",
-      "repo": "ToolJet/ToolJet",
-      "cover_line1": "ToolJet",
+      "topic": "strix",
+      "repo": "usestrix/strix",
+      "cover_line1": "strix",
       "cover_line2": "今日 GitHub 热榜！",
-      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**ToolJet/ToolJet**\n\n📌 ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀\n\n🔗 https://github.com/ToolJet/ToolJet\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**usestrix/strix**\n\n📌 Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.\n\n🔗 https://github.com/usestrix/strix\n\n关注我，每天第一时间 AI 动态 👇",
+      "tags": [
+        "AI",
+        "GitHub",
+        "开源",
+        "热门项目",
+        "大模型",
+        "机器学习",
+        "深度学习",
+        "AI工具",
+        "技术",
+        "炼丹"
+      ]
+    },
+    {
+      "topic": "ai-memory",
+      "repo": "akitaonrails/ai-memory",
+      "cover_line1": "ai-memory",
+      "cover_line2": "今日 GitHub 热榜！",
+      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**akitaonrails/ai-memory**\n\n📌 Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors\n\n🔗 https://github.com/akitaonrails/ai-memory\n\n关注我，每天第一时间 AI 动态 👇",
+      "tags": [
+        "AI",
+        "GitHub",
+        "开源",
+        "热门项目",
+        "大模型",
+        "机器学习",
+        "深度学习",
+        "AI工具",
+        "技术",
+        "炼丹"
+      ]
+    },
+    {
+      "topic": "Anthropic-Cybersecur",
+      "repo": "mukul975/Anthropic-Cybersecurity-Skills",
+      "cover_line1": "Anthropic-",
+      "cover_line2": "今日 GitHub 热榜！",
+      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**mukul975/Anthropic-Cybersecurity-Skills**\n\n📌 817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0\n\n🔗 https://github.com/mukul975/Anthropic-Cybersecurity-Skills\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "GitHub",
@@ -118,8 +220,10 @@
     }
   ],
   "image_paths": [
-    "assets/2026-08-17/trending/summary.png",
-    "assets/2026-08-17/trending/post1.png",
-    "assets/2026-08-17/trending/post2.png"
+    "assets/2026-08-18/trending/summary.png",
+    "assets/2026-08-18/trending/post1.png",
+    "assets/2026-08-18/trending/post2.png",
+    "assets/2026-08-18/trending/post3.png",
+    "assets/2026-08-18/trending/post4.png"
   ]
 }
