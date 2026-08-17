@@ -1,11 +1,11 @@
 {
-  "date": "2026-08-17",
+  "date": "2026-08-18",
   "posts": [
     {
-      "topic": "Claude: System Promp",
-      "cover_line1": "Claude: Sy",
+      "topic": "Fairphone 6 and Post",
+      "cover_line1": "Fairphone ",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Claude: System Prompts**\n\n📌 来源：HackerNews\n🔗 https://platform.claude.com/docs/en/release-notes/system-prompts\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Fairphone 6 and PostmarketOS working main camera**\n\n📌 来源：HackerNews\n🔗 https://catcrafts.net/posts/fairphone-6-postmarketos-working-main-camera\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -20,10 +20,10 @@
       ]
     },
     {
-      "topic": "Anthropic's 'Waterma",
-      "cover_line1": "Anthropic'",
+      "topic": "AI-Generated GitHub ",
+      "cover_line1": "AI-Generat",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Anthropic's 'Watermark' Text Adulteration in Claude Is a Perversion of Writing**\n\n📌 来源：HackerNews\n🔗 https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira**\n\n📌 来源：HackerNews\n🔗 https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -38,10 +38,10 @@
       ]
     },
     {
-      "topic": "The Case Against For",
-      "cover_line1": "The Case A",
+      "topic": "AI;DR (AI; Didn't Re",
+      "cover_line1": "AI;DR (AI;",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**The Case Against Formal Verification, 50 Years Later**\n\n📌 来源：HackerNews\n🔗 https://ivan-gavran.github.io/0-social-processes-paper\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**AI;DR (AI; Didn't Read)**\n\n📌 来源：HackerNews\n🔗 https://www.rickmanelius.com/p/aidr-ai-didnt-read\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -56,10 +56,10 @@
       ]
     },
     {
-      "topic": "Models Are Getting D",
-      "cover_line1": "Models Are",
+      "topic": "How to disable or av",
+      "cover_line1": "How to dis",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Models Are Getting Dumber on Purpose**\n\n📌 来源：HackerNews\n🔗 https://w4g1.dev/blog/models-are-getting-dumber-on-purpose\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**How to disable or avoid intrusive AI**\n\n📌 来源：HackerNews\n🔗 https://www.librarian.net/notoai/\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -75,15 +75,15 @@
     }
   ],
   "image_paths": [
-    "assets/2026-08-17/cover1.png",
-    "assets/2026-08-17/cover2.png",
-    "assets/2026-08-17/cover3.png",
-    "assets/2026-08-17/cover4.png"
+    "assets/2026-08-18/cover1.png",
+    "assets/2026-08-18/cover2.png",
+    "assets/2026-08-18/cover3.png",
+    "assets/2026-08-18/cover4.png"
   ],
   "feishu_image_paths": [
-    "assets/2026-08-17/cover1_feishu.png",
-    "assets/2026-08-17/cover2_feishu.png",
-    "assets/2026-08-17/cover3_feishu.png",
-    "assets/2026-08-17/cover4_feishu.png"
+    "assets/2026-08-18/cover1_feishu.png",
+    "assets/2026-08-18/cover2_feishu.png",
+    "assets/2026-08-18/cover3_feishu.png",
+    "assets/2026-08-18/cover4_feishu.png"
   ]
 }
