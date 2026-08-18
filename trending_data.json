@@ -1,30 +1,22 @@
 {
   "date": "2026-08-18",
-  "slot": "早报",
+  "slot": "晚报",
   "all_repos": [
     {
       "name": "harry0703/MoneyPrinterTurbo",
       "url": "https://github.com/harry0703/MoneyPrinterTurbo",
       "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
       "language": "Python",
-      "stars_today": "1,275 stars today",
-      "stars_total": "105,933"
+      "stars_today": "2,306 stars today",
+      "stars_total": "107,673"
     },
     {
-      "name": "usestrix/strix",
-      "url": "https://github.com/usestrix/strix",
-      "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
-      "language": "Python",
-      "stars_today": "656 stars today",
-      "stars_total": "54,103"
-    },
-    {
-      "name": "nautechsystems/nautilus_trader",
-      "url": "https://github.com/nautechsystems/nautilus_trader",
-      "description": "Production-grade Rust-native trading engine with deterministic event-driven architecture",
-      "language": "Rust",
-      "stars_today": "115 stars today",
-      "stars_total": "25,889"
+      "name": "chaitanyagiri/munder-difflin",
+      "url": "https://github.com/chaitanyagiri/munder-difflin",
+      "description": "local multi-agent harness",
+      "language": "TypeScript",
+      "stars_today": "256 stars today",
+      "stars_total": "1,710"
     },
     {
       "name": "akitaonrails/ai-memory",
@@ -32,55 +24,63 @@
       "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
       "language": "Rust",
       "stars_today": "207 stars today",
-      "stars_total": "2,007"
+      "stars_total": "2,487"
+    },
+    {
+      "name": "volcengine/OpenViking",
+      "url": "https://github.com/volcengine/OpenViking",
+      "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+      "language": "Python",
+      "stars_today": "239 stars today",
+      "stars_total": "29,089"
     },
     {
       "name": "mukul975/Anthropic-Cybersecurity-Skills",
       "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
       "description": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0",
       "language": "Python",
-      "stars_today": "156 stars today",
-      "stars_total": "28,382"
+      "stars_today": "726 stars today",
+      "stars_total": "28,845"
     },
     {
-      "name": "AlexsJones/llmfit",
-      "url": "https://github.com/AlexsJones/llmfit",
-      "description": "Hundreds of models & providers. One command to find what runs on your hardware.",
-      "language": "Rust",
-      "stars_today": "239 stars today",
-      "stars_total": "32,233"
+      "name": "public-apis/public-apis",
+      "url": "https://github.com/public-apis/public-apis",
+      "description": "A collective list of free APIs",
+      "language": "Python",
+      "stars_today": "1,907 stars today",
+      "stars_total": "463,827"
     },
     {
-      "name": "santifer/career-ops",
-      "url": "https://github.com/santifer/career-ops",
-      "description": "Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravity…)",
-      "language": "JavaScript",
-      "stars_today": "147 stars today",
-      "stars_total": "64,586"
+      "name": "basecamp/omarchy",
+      "url": "https://github.com/basecamp/omarchy",
+      "description": "Beautiful, Modern & Opinionated Linux",
+      "language": "Shell",
+      "stars_today": "710 stars today",
+      "stars_total": "26,206"
+    },
+    {
+      "name": "agalwood/Motrix",
+      "url": "https://github.com/agalwood/Motrix",
+      "description": "A full-featured download manager.",
+      "language": "TypeScript",
+      "stars_today": "607 stars today",
+      "stars_total": "53,447"
+    },
+    {
+      "name": "NawfalMotii79/PLFM_RADAR",
+      "url": "https://github.com/NawfalMotii79/PLFM_RADAR",
+      "description": "Open-source, low-cost 10.5 GHz PLFM phased array RADAR system",
+      "language": "PLSQL",
+      "stars_today": "204 stars today",
+      "stars_total": "24,176"
     },
     {
       "name": "jundot/omlx",
       "url": "https://github.com/jundot/omlx",
       "description": "LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar",
       "language": "Python",
-      "stars_today": "96 stars today",
-      "stars_total": "18,972"
-    },
-    {
-      "name": "immich-app/immich",
-      "url": "https://github.com/immich-app/immich",
-      "description": "High performance self-hosted photo and video management solution.",
-      "language": "TypeScript",
-      "stars_today": "337 stars today",
-      "stars_total": "111,118"
-    },
-    {
-      "name": "cordiverse/cordis",
-      "url": "https://github.com/cordiverse/cordis",
-      "description": "Meta-Framework of Spatiotemporal Composability",
-      "language": "TypeScript",
-      "stars_today": "959 stars today",
-      "stars_total": "5,555"
+      "stars_today": "366 stars today",
+      "stars_total": "19,216"
     }
   ],
   "ai_repos": [
@@ -89,16 +89,16 @@
       "url": "https://github.com/harry0703/MoneyPrinterTurbo",
       "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
       "language": "Python",
-      "stars_today": "1,275 stars today",
-      "stars_total": "105,933"
+      "stars_today": "2,306 stars today",
+      "stars_total": "107,673"
     },
     {
-      "name": "usestrix/strix",
-      "url": "https://github.com/usestrix/strix",
-      "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
-      "language": "Python",
-      "stars_today": "656 stars today",
-      "stars_total": "54,103"
+      "name": "chaitanyagiri/munder-difflin",
+      "url": "https://github.com/chaitanyagiri/munder-difflin",
+      "description": "local multi-agent harness",
+      "language": "TypeScript",
+      "stars_today": "256 stars today",
+      "stars_total": "1,710"
     },
     {
       "name": "akitaonrails/ai-memory",
@@ -106,39 +106,31 @@
       "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
       "language": "Rust",
       "stars_today": "207 stars today",
-      "stars_total": "2,007"
+      "stars_total": "2,487"
+    },
+    {
+      "name": "volcengine/OpenViking",
+      "url": "https://github.com/volcengine/OpenViking",
+      "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+      "language": "Python",
+      "stars_today": "239 stars today",
+      "stars_total": "29,089"
     },
     {
       "name": "mukul975/Anthropic-Cybersecurity-Skills",
       "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
       "description": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0",
       "language": "Python",
-      "stars_today": "156 stars today",
-      "stars_total": "28,382"
-    },
-    {
-      "name": "AlexsJones/llmfit",
-      "url": "https://github.com/AlexsJones/llmfit",
-      "description": "Hundreds of models & providers. One command to find what runs on your hardware.",
-      "language": "Rust",
-      "stars_today": "239 stars today",
-      "stars_total": "32,233"
-    },
-    {
-      "name": "santifer/career-ops",
-      "url": "https://github.com/santifer/career-ops",
-      "description": "Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravity…)",
-      "language": "JavaScript",
-      "stars_today": "147 stars today",
-      "stars_total": "64,586"
+      "stars_today": "726 stars today",
+      "stars_total": "28,845"
     },
     {
       "name": "jundot/omlx",
       "url": "https://github.com/jundot/omlx",
       "description": "LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar",
       "language": "Python",
-      "stars_today": "96 stars today",
-      "stars_total": "18,972"
+      "stars_today": "366 stars today",
+      "stars_total": "19,216"
     }
   ],
   "posts": [
@@ -162,11 +154,11 @@
       ]
     },
     {
-      "topic": "strix",
-      "repo": "usestrix/strix",
-      "cover_line1": "strix",
+      "topic": "munder-difflin",
+      "repo": "chaitanyagiri/munder-difflin",
+      "cover_line1": "munder-dif",
       "cover_line2": "今日 GitHub 热榜！",
-      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**usestrix/strix**\n\n📌 Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.\n\n🔗 https://github.com/usestrix/strix\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**chaitanyagiri/munder-difflin**\n\n📌 local multi-agent harness\n\n🔗 https://github.com/chaitanyagiri/munder-difflin\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "GitHub",
@@ -200,11 +192,11 @@
       ]
     },
     {
-      "topic": "Anthropic-Cybersecur",
-      "repo": "mukul975/Anthropic-Cybersecurity-Skills",
-      "cover_line1": "Anthropic-",
+      "topic": "OpenViking",
+      "repo": "volcengine/OpenViking",
+      "cover_line1": "OpenViking",
       "cover_line2": "今日 GitHub 热榜！",
-      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**mukul975/Anthropic-Cybersecurity-Skills**\n\n📌 817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0\n\n🔗 https://github.com/mukul975/Anthropic-Cybersecurity-Skills\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**volcengine/OpenViking**\n\n📌 Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.\n\n🔗 https://github.com/volcengine/OpenViking\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "GitHub",
