@@ -1,6 +1,6 @@
 {
-  "date": "2026-08-18",
-  "slot": "晚报",
+  "date": "2026-08-19",
+  "slot": "早报",
   "all_repos": [
     {
       "name": "harry0703/MoneyPrinterTurbo",
@@ -8,7 +8,7 @@
       "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
       "language": "Python",
       "stars_today": "2,306 stars today",
-      "stars_total": "107,673"
+      "stars_total": "108,465"
     },
     {
       "name": "chaitanyagiri/munder-difflin",
@@ -16,23 +16,23 @@
       "description": "local multi-agent harness",
       "language": "TypeScript",
       "stars_today": "256 stars today",
-      "stars_total": "1,710"
+      "stars_total": "1,993"
     },
     {
       "name": "akitaonrails/ai-memory",
       "url": "https://github.com/akitaonrails/ai-memory",
       "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
       "language": "Rust",
-      "stars_today": "207 stars today",
-      "stars_total": "2,487"
+      "stars_today": "730 stars today",
+      "stars_total": "2,687"
     },
     {
       "name": "volcengine/OpenViking",
       "url": "https://github.com/volcengine/OpenViking",
       "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
       "language": "Python",
-      "stars_today": "239 stars today",
-      "stars_total": "29,089"
+      "stars_today": "298 stars today",
+      "stars_total": "29,332"
     },
     {
       "name": "mukul975/Anthropic-Cybersecurity-Skills",
@@ -40,23 +40,23 @@
       "description": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0",
       "language": "Python",
       "stars_today": "726 stars today",
-      "stars_total": "28,845"
+      "stars_total": "29,151"
     },
     {
       "name": "public-apis/public-apis",
       "url": "https://github.com/public-apis/public-apis",
       "description": "A collective list of free APIs",
       "language": "Python",
-      "stars_today": "1,907 stars today",
-      "stars_total": "463,827"
+      "stars_today": "1,139 stars today",
+      "stars_total": "464,481"
     },
     {
       "name": "basecamp/omarchy",
       "url": "https://github.com/basecamp/omarchy",
       "description": "Beautiful, Modern & Opinionated Linux",
       "language": "Shell",
-      "stars_today": "710 stars today",
-      "stars_total": "26,206"
+      "stars_today": "411 stars today",
+      "stars_total": "26,398"
     },
     {
       "name": "agalwood/Motrix",
@@ -64,7 +64,7 @@
       "description": "A full-featured download manager.",
       "language": "TypeScript",
       "stars_today": "607 stars today",
-      "stars_total": "53,447"
+      "stars_total": "53,635"
     },
     {
       "name": "NawfalMotii79/PLFM_RADAR",
@@ -72,7 +72,7 @@
       "description": "Open-source, low-cost 10.5 GHz PLFM phased array RADAR system",
       "language": "PLSQL",
       "stars_today": "204 stars today",
-      "stars_total": "24,176"
+      "stars_total": "24,280"
     },
     {
       "name": "jundot/omlx",
@@ -80,7 +80,7 @@
       "description": "LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar",
       "language": "Python",
       "stars_today": "366 stars today",
-      "stars_total": "19,216"
+      "stars_total": "19,376"
     }
   ],
   "ai_repos": [
@@ -90,7 +90,7 @@
       "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
       "language": "Python",
       "stars_today": "2,306 stars today",
-      "stars_total": "107,673"
+      "stars_total": "108,465"
     },
     {
       "name": "chaitanyagiri/munder-difflin",
@@ -98,23 +98,23 @@
       "description": "local multi-agent harness",
       "language": "TypeScript",
       "stars_today": "256 stars today",
-      "stars_total": "1,710"
+      "stars_total": "1,993"
     },
     {
       "name": "akitaonrails/ai-memory",
       "url": "https://github.com/akitaonrails/ai-memory",
       "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
       "language": "Rust",
-      "stars_today": "207 stars today",
-      "stars_total": "2,487"
+      "stars_today": "730 stars today",
+      "stars_total": "2,687"
     },
     {
       "name": "volcengine/OpenViking",
       "url": "https://github.com/volcengine/OpenViking",
       "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
       "language": "Python",
-      "stars_today": "239 stars today",
-      "stars_total": "29,089"
+      "stars_today": "298 stars today",
+      "stars_total": "29,332"
     },
     {
       "name": "mukul975/Anthropic-Cybersecurity-Skills",
@@ -122,7 +122,7 @@
       "description": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0",
       "language": "Python",
       "stars_today": "726 stars today",
-      "stars_total": "28,845"
+      "stars_total": "29,151"
     },
     {
       "name": "jundot/omlx",
@@ -130,7 +130,7 @@
       "description": "LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar",
       "language": "Python",
       "stars_today": "366 stars today",
-      "stars_total": "19,216"
+      "stars_total": "19,376"
     }
   ],
   "posts": [
@@ -212,10 +212,10 @@
     }
   ],
   "image_paths": [
-    "assets/2026-08-18/trending/summary.png",
-    "assets/2026-08-18/trending/post1.png",
-    "assets/2026-08-18/trending/post2.png",
-    "assets/2026-08-18/trending/post3.png",
-    "assets/2026-08-18/trending/post4.png"
+    "assets/2026-08-19/trending/summary.png",
+    "assets/2026-08-19/trending/post1.png",
+    "assets/2026-08-19/trending/post2.png",
+    "assets/2026-08-19/trending/post3.png",
+    "assets/2026-08-19/trending/post4.png"
   ]
 }
