@@ -1,11 +1,11 @@
 {
-  "date": "2026-08-18",
+  "date": "2026-08-19",
   "posts": [
     {
-      "topic": "Fairphone 6 and Post",
-      "cover_line1": "Fairphone ",
+      "topic": "Who owns the code? A",
+      "cover_line1": "Who owns t",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Fairphone 6 and PostmarketOS working main camera**\n\n📌 来源：HackerNews\n🔗 https://catcrafts.net/posts/fairphone-6-postmarketos-working-main-camera\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Who owns the code? AI code == no author == no copyright**\n\n📌 来源：HackerNews\n🔗 https://whoownsthecode.com/\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -20,10 +20,10 @@
       ]
     },
     {
-      "topic": "AI-Generated GitHub ",
-      "cover_line1": "AI-Generat",
+      "topic": "fx :Tiny, open, nati",
+      "cover_line1": "fx :Tiny, ",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira**\n\n📌 来源：HackerNews\n🔗 https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**fx :Tiny, open, native coding agent.**\n\n📌 来源：HackerNews\n🔗 https://fx.sh\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -38,10 +38,10 @@
       ]
     },
     {
-      "topic": "AI;DR (AI; Didn't Re",
-      "cover_line1": "AI;DR (AI;",
+      "topic": "Claude Code Teaching",
+      "cover_line1": "Claude Cod",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**AI;DR (AI; Didn't Read)**\n\n📌 来源：HackerNews\n🔗 https://www.rickmanelius.com/p/aidr-ai-didnt-read\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Claude Code Teaching macOS to Natively Print to the HP Laser 1008a**\n\n📌 来源：HackerNews\n🔗 https://cdn.kuber.studio/chat/hp-laser-1008a-driver\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -56,10 +56,10 @@
       ]
     },
     {
-      "topic": "How to disable or av",
-      "cover_line1": "How to dis",
+      "topic": "Using the railway ne",
+      "cover_line1": "Using the ",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**How to disable or avoid intrusive AI**\n\n📌 来源：HackerNews\n🔗 https://www.librarian.net/notoai/\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Using the railway network as a flatbed scanner**\n\n📌 来源：HackerNews\n🔗 https://philo.gay/linecam/\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -75,15 +75,15 @@
     }
   ],
   "image_paths": [
-    "assets/2026-08-18/cover1.png",
-    "assets/2026-08-18/cover2.png",
-    "assets/2026-08-18/cover3.png",
-    "assets/2026-08-18/cover4.png"
+    "assets/2026-08-19/cover1.png",
+    "assets/2026-08-19/cover2.png",
+    "assets/2026-08-19/cover3.png",
+    "assets/2026-08-19/cover4.png"
   ],
   "feishu_image_paths": [
-    "assets/2026-08-18/cover1_feishu.png",
-    "assets/2026-08-18/cover2_feishu.png",
-    "assets/2026-08-18/cover3_feishu.png",
-    "assets/2026-08-18/cover4_feishu.png"
+    "assets/2026-08-19/cover1_feishu.png",
+    "assets/2026-08-19/cover2_feishu.png",
+    "assets/2026-08-19/cover3_feishu.png",
+    "assets/2026-08-19/cover4_feishu.png"
   ]
 }
