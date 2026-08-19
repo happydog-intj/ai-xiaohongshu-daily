@@ -1,86 +1,86 @@
 {
   "date": "2026-08-19",
-  "slot": "早报",
+  "slot": "晚报",
   "all_repos": [
     {
       "name": "harry0703/MoneyPrinterTurbo",
       "url": "https://github.com/harry0703/MoneyPrinterTurbo",
       "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
       "language": "Python",
-      "stars_today": "2,306 stars today",
-      "stars_total": "108,465"
+      "stars_today": "2,221 stars today",
+      "stars_total": "109,758"
     },
     {
       "name": "chaitanyagiri/munder-difflin",
       "url": "https://github.com/chaitanyagiri/munder-difflin",
       "description": "local multi-agent harness",
       "language": "TypeScript",
-      "stars_today": "256 stars today",
-      "stars_total": "1,993"
+      "stars_today": "797 stars today",
+      "stars_total": "2,476"
     },
     {
       "name": "akitaonrails/ai-memory",
       "url": "https://github.com/akitaonrails/ai-memory",
       "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
       "language": "Rust",
-      "stars_today": "730 stars today",
-      "stars_total": "2,687"
+      "stars_today": "609 stars today",
+      "stars_total": "3,078"
     },
     {
       "name": "volcengine/OpenViking",
       "url": "https://github.com/volcengine/OpenViking",
       "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
       "language": "Python",
-      "stars_today": "298 stars today",
-      "stars_total": "29,332"
+      "stars_today": "803 stars today",
+      "stars_total": "29,855"
     },
     {
       "name": "mukul975/Anthropic-Cybersecurity-Skills",
       "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
       "description": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0",
       "language": "Python",
-      "stars_today": "726 stars today",
-      "stars_total": "29,151"
+      "stars_today": "767 stars today",
+      "stars_total": "29,571"
     },
     {
       "name": "public-apis/public-apis",
       "url": "https://github.com/public-apis/public-apis",
       "description": "A collective list of free APIs",
       "language": "Python",
-      "stars_today": "1,139 stars today",
-      "stars_total": "464,481"
+      "stars_today": "1,717 stars today",
+      "stars_total": "465,471"
     },
     {
       "name": "basecamp/omarchy",
       "url": "https://github.com/basecamp/omarchy",
       "description": "Beautiful, Modern & Opinionated Linux",
       "language": "Shell",
-      "stars_today": "411 stars today",
-      "stars_total": "26,398"
+      "stars_today": "473 stars today",
+      "stars_total": "26,677"
     },
     {
       "name": "agalwood/Motrix",
       "url": "https://github.com/agalwood/Motrix",
       "description": "A full-featured download manager.",
       "language": "TypeScript",
-      "stars_today": "607 stars today",
-      "stars_total": "53,635"
+      "stars_today": "561 stars today",
+      "stars_total": "53,984"
     },
     {
       "name": "NawfalMotii79/PLFM_RADAR",
       "url": "https://github.com/NawfalMotii79/PLFM_RADAR",
       "description": "Open-source, low-cost 10.5 GHz PLFM phased array RADAR system",
       "language": "PLSQL",
-      "stars_today": "204 stars today",
-      "stars_total": "24,280"
+      "stars_today": "350 stars today",
+      "stars_total": "24,521"
     },
     {
       "name": "jundot/omlx",
       "url": "https://github.com/jundot/omlx",
       "description": "LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar",
       "language": "Python",
-      "stars_today": "366 stars today",
-      "stars_total": "19,376"
+      "stars_today": "467 stars today",
+      "stars_total": "19,678"
     }
   ],
   "ai_repos": [
@@ -89,48 +89,48 @@
       "url": "https://github.com/harry0703/MoneyPrinterTurbo",
       "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
       "language": "Python",
-      "stars_today": "2,306 stars today",
-      "stars_total": "108,465"
+      "stars_today": "2,221 stars today",
+      "stars_total": "109,758"
     },
     {
       "name": "chaitanyagiri/munder-difflin",
       "url": "https://github.com/chaitanyagiri/munder-difflin",
       "description": "local multi-agent harness",
       "language": "TypeScript",
-      "stars_today": "256 stars today",
-      "stars_total": "1,993"
+      "stars_today": "797 stars today",
+      "stars_total": "2,476"
     },
     {
       "name": "akitaonrails/ai-memory",
       "url": "https://github.com/akitaonrails/ai-memory",
       "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
       "language": "Rust",
-      "stars_today": "730 stars today",
-      "stars_total": "2,687"
+      "stars_today": "609 stars today",
+      "stars_total": "3,078"
     },
     {
       "name": "volcengine/OpenViking",
       "url": "https://github.com/volcengine/OpenViking",
       "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
       "language": "Python",
-      "stars_today": "298 stars today",
-      "stars_total": "29,332"
+      "stars_today": "803 stars today",
+      "stars_total": "29,855"
     },
     {
       "name": "mukul975/Anthropic-Cybersecurity-Skills",
       "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
       "description": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0",
       "language": "Python",
-      "stars_today": "726 stars today",
-      "stars_total": "29,151"
+      "stars_today": "767 stars today",
+      "stars_total": "29,571"
     },
     {
       "name": "jundot/omlx",
       "url": "https://github.com/jundot/omlx",
       "description": "LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar",
       "language": "Python",
-      "stars_today": "366 stars today",
-      "stars_total": "19,376"
+      "stars_today": "467 stars today",
+      "stars_total": "19,678"
     }
   ],
   "posts": [
