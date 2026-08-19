@@ -1,6 +1,6 @@
 {
-  "date": "2026-08-19",
-  "slot": "晚报",
+  "date": "2026-08-20",
+  "slot": "早报",
   "all_repos": [
     {
       "name": "harry0703/MoneyPrinterTurbo",
@@ -8,23 +8,7 @@
       "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
       "language": "Python",
       "stars_today": "2,221 stars today",
-      "stars_total": "109,758"
-    },
-    {
-      "name": "chaitanyagiri/munder-difflin",
-      "url": "https://github.com/chaitanyagiri/munder-difflin",
-      "description": "local multi-agent harness",
-      "language": "TypeScript",
-      "stars_today": "797 stars today",
-      "stars_total": "2,476"
-    },
-    {
-      "name": "akitaonrails/ai-memory",
-      "url": "https://github.com/akitaonrails/ai-memory",
-      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
-      "language": "Rust",
-      "stars_today": "609 stars today",
-      "stars_total": "3,078"
+      "stars_total": "110,540"
     },
     {
       "name": "volcengine/OpenViking",
@@ -32,7 +16,15 @@
       "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
       "language": "Python",
       "stars_today": "803 stars today",
-      "stars_total": "29,855"
+      "stars_total": "30,139"
+    },
+    {
+      "name": "chaitanyagiri/munder-difflin",
+      "url": "https://github.com/chaitanyagiri/munder-difflin",
+      "description": "local multi-agent harness",
+      "language": "TypeScript",
+      "stars_today": "797 stars today",
+      "stars_total": "2,659"
     },
     {
       "name": "mukul975/Anthropic-Cybersecurity-Skills",
@@ -40,39 +32,31 @@
       "description": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0",
       "language": "Python",
       "stars_today": "767 stars today",
-      "stars_total": "29,571"
+      "stars_total": "29,808"
     },
     {
-      "name": "public-apis/public-apis",
-      "url": "https://github.com/public-apis/public-apis",
-      "description": "A collective list of free APIs",
-      "language": "Python",
-      "stars_today": "1,717 stars today",
-      "stars_total": "465,471"
+      "name": "nautechsystems/nautilus_trader",
+      "url": "https://github.com/nautechsystems/nautilus_trader",
+      "description": "Production-grade Rust-native trading engine with deterministic event-driven architecture",
+      "language": "Rust",
+      "stars_today": "79 stars today",
+      "stars_total": "26,434"
     },
     {
-      "name": "basecamp/omarchy",
-      "url": "https://github.com/basecamp/omarchy",
-      "description": "Beautiful, Modern & Opinionated Linux",
+      "name": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "language": "Shell",
-      "stars_today": "473 stars today",
-      "stars_total": "26,677"
+      "stars_today": "1,214 stars today",
+      "stars_total": "223,716"
     },
     {
-      "name": "agalwood/Motrix",
-      "url": "https://github.com/agalwood/Motrix",
-      "description": "A full-featured download manager.",
-      "language": "TypeScript",
-      "stars_today": "561 stars today",
-      "stars_total": "53,984"
-    },
-    {
-      "name": "NawfalMotii79/PLFM_RADAR",
-      "url": "https://github.com/NawfalMotii79/PLFM_RADAR",
-      "description": "Open-source, low-cost 10.5 GHz PLFM phased array RADAR system",
-      "language": "PLSQL",
-      "stars_today": "350 stars today",
-      "stars_total": "24,521"
+      "name": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars_today": "514 stars today",
+      "stars_total": "274,246"
     },
     {
       "name": "jundot/omlx",
@@ -80,7 +64,23 @@
       "description": "LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar",
       "language": "Python",
       "stars_today": "467 stars today",
-      "stars_total": "19,678"
+      "stars_total": "19,820"
+    },
+    {
+      "name": "santifer/career-ops",
+      "url": "https://github.com/santifer/career-ops",
+      "description": "Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravity…)",
+      "language": "JavaScript",
+      "stars_today": "193 stars today",
+      "stars_total": "65,746"
+    },
+    {
+      "name": "immich-app/immich",
+      "url": "https://github.com/immich-app/immich",
+      "description": "High performance self-hosted photo and video management solution.",
+      "language": "TypeScript",
+      "stars_today": "137 stars today",
+      "stars_total": "111,840"
     }
   ],
   "ai_repos": [
@@ -90,23 +90,7 @@
       "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
       "language": "Python",
       "stars_today": "2,221 stars today",
-      "stars_total": "109,758"
-    },
-    {
-      "name": "chaitanyagiri/munder-difflin",
-      "url": "https://github.com/chaitanyagiri/munder-difflin",
-      "description": "local multi-agent harness",
-      "language": "TypeScript",
-      "stars_today": "797 stars today",
-      "stars_total": "2,476"
-    },
-    {
-      "name": "akitaonrails/ai-memory",
-      "url": "https://github.com/akitaonrails/ai-memory",
-      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
-      "language": "Rust",
-      "stars_today": "609 stars today",
-      "stars_total": "3,078"
+      "stars_total": "110,540"
     },
     {
       "name": "volcengine/OpenViking",
@@ -114,7 +98,15 @@
       "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
       "language": "Python",
       "stars_today": "803 stars today",
-      "stars_total": "29,855"
+      "stars_total": "30,139"
+    },
+    {
+      "name": "chaitanyagiri/munder-difflin",
+      "url": "https://github.com/chaitanyagiri/munder-difflin",
+      "description": "local multi-agent harness",
+      "language": "TypeScript",
+      "stars_today": "797 stars today",
+      "stars_total": "2,659"
     },
     {
       "name": "mukul975/Anthropic-Cybersecurity-Skills",
@@ -122,7 +114,23 @@
       "description": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0",
       "language": "Python",
       "stars_today": "767 stars today",
-      "stars_total": "29,571"
+      "stars_total": "29,808"
+    },
+    {
+      "name": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "language": "Shell",
+      "stars_today": "1,214 stars today",
+      "stars_total": "223,716"
+    },
+    {
+      "name": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars_today": "514 stars today",
+      "stars_total": "274,246"
     },
     {
       "name": "jundot/omlx",
@@ -130,7 +138,15 @@
       "description": "LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar",
       "language": "Python",
       "stars_today": "467 stars today",
-      "stars_total": "19,678"
+      "stars_total": "19,820"
+    },
+    {
+      "name": "santifer/career-ops",
+      "url": "https://github.com/santifer/career-ops",
+      "description": "Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravity…)",
+      "language": "JavaScript",
+      "stars_today": "193 stars today",
+      "stars_total": "65,746"
     }
   ],
   "posts": [
@@ -140,6 +156,25 @@
       "cover_line1": "MoneyPrint",
       "cover_line2": "今日 GitHub 热榜！",
       "body": "🔥 GitHub Trending 今日爆款来了！\n\n**harry0703/MoneyPrinterTurbo**\n\n📌 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.\n\n🔗 https://github.com/harry0703/MoneyPrinterTurbo\n\n关注我，每天第一时间 AI 动态 👇",
+      "tags": [
+        "AI",
+        "GitHub",
+        "开源",
+        "热门项目",
+        "大模型",
+        "机器学习",
+        "深度学习",
+        "AI工具",
+        "技术",
+        "炼丹"
+      ]
+    },
+    {
+      "topic": "OpenViking",
+      "repo": "volcengine/OpenViking",
+      "cover_line1": "OpenViking",
+      "cover_line2": "今日 GitHub 热榜！",
+      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**volcengine/OpenViking**\n\n📌 Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.\n\n🔗 https://github.com/volcengine/OpenViking\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "GitHub",
@@ -173,30 +208,11 @@
       ]
     },
     {
-      "topic": "ai-memory",
-      "repo": "akitaonrails/ai-memory",
-      "cover_line1": "ai-memory",
+      "topic": "Anthropic-Cybersecur",
+      "repo": "mukul975/Anthropic-Cybersecurity-Skills",
+      "cover_line1": "Anthropic-",
       "cover_line2": "今日 GitHub 热榜！",
-      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**akitaonrails/ai-memory**\n\n📌 Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors\n\n🔗 https://github.com/akitaonrails/ai-memory\n\n关注我，每天第一时间 AI 动态 👇",
-      "tags": [
-        "AI",
-        "GitHub",
-        "开源",
-        "热门项目",
-        "大模型",
-        "机器学习",
-        "深度学习",
-        "AI工具",
-        "技术",
-        "炼丹"
-      ]
-    },
-    {
-      "topic": "OpenViking",
-      "repo": "volcengine/OpenViking",
-      "cover_line1": "OpenViking",
-      "cover_line2": "今日 GitHub 热榜！",
-      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**volcengine/OpenViking**\n\n📌 Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.\n\n🔗 https://github.com/volcengine/OpenViking\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**mukul975/Anthropic-Cybersecurity-Skills**\n\n📌 817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0\n\n🔗 https://github.com/mukul975/Anthropic-Cybersecurity-Skills\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "GitHub",
@@ -212,10 +228,10 @@
     }
   ],
   "image_paths": [
-    "assets/2026-08-19/trending/summary.png",
-    "assets/2026-08-19/trending/post1.png",
-    "assets/2026-08-19/trending/post2.png",
-    "assets/2026-08-19/trending/post3.png",
-    "assets/2026-08-19/trending/post4.png"
+    "assets/2026-08-20/trending/summary.png",
+    "assets/2026-08-20/trending/post1.png",
+    "assets/2026-08-20/trending/post2.png",
+    "assets/2026-08-20/trending/post3.png",
+    "assets/2026-08-20/trending/post4.png"
   ]
 }
