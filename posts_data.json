@@ -1,11 +1,11 @@
 {
-  "date": "2026-08-20",
+  "date": "2026-08-21",
   "posts": [
     {
-      "topic": "Google replaced Git ",
-      "cover_line1": "Google rep",
+      "topic": "Show HN: Huzzah – a ",
+      "cover_line1": "Show HN: H",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Google replaced Git tags for certain source code with obtaining via Google Drive**\n\n📌 来源：HackerNews\n🔗 https://grapheneos.social/@GrapheneOS/117057099753905023\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Show HN: Huzzah – a novel approach to coding with AI**\n\n📌 来源：HackerNews\n🔗 https://www.danielvaughn.dev/posts/huzzah/\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -20,10 +20,10 @@
       ]
     },
     {
-      "topic": "Anthropic Refuses to",
-      "cover_line1": "Anthropic ",
+      "topic": "Show HN: I trained a",
+      "cover_line1": "Show HN: I",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Anthropic Refuses to Support Agents.md**\n\n📌 来源：HackerNews\n🔗 https://github.com/anthropics/claude-code/issues/6235\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Show HN: I trained a 125M model to autocomplete piano on-device**\n\n📌 来源：HackerNews\n🔗 https://simedw.com/2026/08/20/midi-autocomplete/\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -38,10 +38,10 @@
       ]
     },
     {
-      "topic": "A joke domain purcha",
-      "cover_line1": "A joke dom",
+      "topic": "Vomit: Clean up Clau",
+      "cover_line1": "Vomit: Cle",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**A joke domain purchase turned in geopolitical warfare**\n\n📌 来源：HackerNews\n🔗 https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Vomit: Clean up Claude 5's token output with a separate LLM**\n\n📌 来源：HackerNews\n🔗 https://github.com/zachahn/vomit\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -56,10 +56,10 @@
       ]
     },
     {
-      "topic": "Mathematics in the a",
-      "cover_line1": "Mathematic",
+      "topic": "Anti-AI fonts are us",
+      "cover_line1": "Anti-AI fo",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Mathematics in the age of AI**\n\n📌 来源：HackerNews\n🔗 https://arxiv.org/abs/2608.16753\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Anti-AI fonts are useless and harmful**\n\n📌 来源：HackerNews\n🔗 https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful/\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -75,15 +75,15 @@
     }
   ],
   "image_paths": [
-    "assets/2026-08-20/cover1.png",
-    "assets/2026-08-20/cover2.png",
-    "assets/2026-08-20/cover3.png",
-    "assets/2026-08-20/cover4.png"
+    "assets/2026-08-21/cover1.png",
+    "assets/2026-08-21/cover2.png",
+    "assets/2026-08-21/cover3.png",
+    "assets/2026-08-21/cover4.png"
   ],
   "feishu_image_paths": [
-    "assets/2026-08-20/cover1_feishu.png",
-    "assets/2026-08-20/cover2_feishu.png",
-    "assets/2026-08-20/cover3_feishu.png",
-    "assets/2026-08-20/cover4_feishu.png"
+    "assets/2026-08-21/cover1_feishu.png",
+    "assets/2026-08-21/cover2_feishu.png",
+    "assets/2026-08-21/cover3_feishu.png",
+    "assets/2026-08-21/cover4_feishu.png"
   ]
 }
