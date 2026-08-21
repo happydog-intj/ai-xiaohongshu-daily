@@ -1,11 +1,11 @@
 {
-  "date": "2026-08-21",
+  "date": "2026-08-22",
   "posts": [
     {
-      "topic": "Show HN: Huzzah – a ",
-      "cover_line1": "Show HN: H",
+      "topic": "AI boosted homework ",
+      "cover_line1": "AI boosted",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Show HN: Huzzah – a novel approach to coding with AI**\n\n📌 来源：HackerNews\n🔗 https://www.danielvaughn.dev/posts/huzzah/\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**AI boosted homework scores, then exam scores dropped: study**\n\n📌 来源：HackerNews\n🔗 https://www.economist.com/graphic-detail/2026/08/18/does-ai-stop-children-from-learning\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -20,10 +20,10 @@
       ]
     },
     {
-      "topic": "Show HN: I trained a",
-      "cover_line1": "Show HN: I",
+      "topic": "How we made a text-t",
+      "cover_line1": "How we mad",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Show HN: I trained a 125M model to autocomplete piano on-device**\n\n📌 来源：HackerNews\n🔗 https://simedw.com/2026/08/20/midi-autocomplete/\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**How we made a text-to-speech model respond in sub-50 ms**\n\n📌 来源：HackerNews\n🔗 https://nari-labs.com/blog/qwen3-tts-speed-cost-frontier/\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -38,10 +38,10 @@
       ]
     },
     {
-      "topic": "Vomit: Clean up Clau",
-      "cover_line1": "Vomit: Cle",
+      "topic": "Claudette: Make Clau",
+      "cover_line1": "Claudette:",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Vomit: Clean up Claude 5's token output with a separate LLM**\n\n📌 来源：HackerNews\n🔗 https://github.com/zachahn/vomit\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Claudette: Make Claude stop talking like a BuzzFeed article**\n\n📌 来源：HackerNews\n🔗 https://github.com/adnanakil/nobuzz/blob/main/README.md\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -56,10 +56,10 @@
       ]
     },
     {
-      "topic": "Anti-AI fonts are us",
-      "cover_line1": "Anti-AI fo",
+      "topic": "I'm becoming AI-blin",
+      "cover_line1": "I'm becomi",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Anti-AI fonts are useless and harmful**\n\n📌 来源：HackerNews\n🔗 https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful/\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**I'm becoming AI-blind**\n\n📌 来源：HackerNews\n🔗 https://cymerys.com/w/im-becoming-ai-blind\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -75,15 +75,15 @@
     }
   ],
   "image_paths": [
-    "assets/2026-08-21/cover1.png",
-    "assets/2026-08-21/cover2.png",
-    "assets/2026-08-21/cover3.png",
-    "assets/2026-08-21/cover4.png"
+    "assets/2026-08-22/cover1.png",
+    "assets/2026-08-22/cover2.png",
+    "assets/2026-08-22/cover3.png",
+    "assets/2026-08-22/cover4.png"
   ],
   "feishu_image_paths": [
-    "assets/2026-08-21/cover1_feishu.png",
-    "assets/2026-08-21/cover2_feishu.png",
-    "assets/2026-08-21/cover3_feishu.png",
-    "assets/2026-08-21/cover4_feishu.png"
+    "assets/2026-08-22/cover1_feishu.png",
+    "assets/2026-08-22/cover2_feishu.png",
+    "assets/2026-08-22/cover3_feishu.png",
+    "assets/2026-08-22/cover4_feishu.png"
   ]
 }
