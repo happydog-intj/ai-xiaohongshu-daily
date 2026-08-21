@@ -1,86 +1,86 @@
 {
   "date": "2026-08-21",
-  "slot": "早报",
+  "slot": "晚报",
   "all_repos": [
     {
       "name": "modular/modular",
       "url": "https://github.com/modular/modular",
       "description": "The Modular Platform (includes MAX & Mojo)",
       "language": "Mojo",
-      "stars_today": "340 stars today",
-      "stars_total": "27,899"
+      "stars_today": "905 stars today",
+      "stars_total": "28,433"
     },
     {
       "name": "mattpocock/skills",
       "url": "https://github.com/mattpocock/skills",
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "language": "Shell",
-      "stars_today": "2,267 stars today",
-      "stars_total": "226,351"
+      "stars_today": "3,368 stars today",
+      "stars_total": "228,361"
     },
     {
       "name": "AprilNEA/OpenLogi",
       "url": "https://github.com/AprilNEA/OpenLogi",
       "description": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
       "language": "Rust",
-      "stars_today": "1,540 stars today",
-      "stars_total": "11,799"
+      "stars_today": "1,372 stars today",
+      "stars_total": "12,519"
     },
     {
       "name": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
-      "stars_today": "749 stars today",
-      "stars_total": "274,911"
+      "stars_today": "789 stars today",
+      "stars_total": "275,386"
     },
     {
       "name": "cursor/plugins",
       "url": "https://github.com/cursor/plugins",
       "description": "Cursor plugin specification and official plugins",
       "language": "TypeScript",
-      "stars_today": "473 stars today",
-      "stars_total": "4,065"
+      "stars_today": "391 stars today",
+      "stars_total": "4,272"
     },
     {
       "name": "santifer/career-ops",
       "url": "https://github.com/santifer/career-ops",
       "description": "Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravity…)",
       "language": "JavaScript",
-      "stars_today": "855 stars today",
-      "stars_total": "66,621"
+      "stars_today": "918 stars today",
+      "stars_total": "67,174"
     },
     {
       "name": "akitaonrails/ai-memory",
       "url": "https://github.com/akitaonrails/ai-memory",
       "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
       "language": "Rust",
-      "stars_today": "335 stars today",
-      "stars_total": "3,574"
+      "stars_today": "468 stars today",
+      "stars_total": "3,851"
     },
     {
       "name": "harry0703/MoneyPrinterTurbo",
       "url": "https://github.com/harry0703/MoneyPrinterTurbo",
       "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
       "language": "Python",
-      "stars_today": "2,774 stars today",
-      "stars_total": "112,890"
+      "stars_today": "1,187 stars today",
+      "stars_total": "113,550"
     },
     {
       "name": "agent-substrate/substrate",
       "url": "https://github.com/agent-substrate/substrate",
       "description": "Agent Substrate: the core system",
       "language": "Go",
-      "stars_today": "66 stars today",
-      "stars_total": "1,379"
+      "stars_today": "245 stars today",
+      "stars_total": "1,536"
     },
     {
       "name": "chaitanyagiri/munder-difflin",
       "url": "https://github.com/chaitanyagiri/munder-difflin",
       "description": "local multi-agent harness",
       "language": "TypeScript",
-      "stars_today": "517 stars today",
-      "stars_total": "3,111"
+      "stars_today": "344 stars today",
+      "stars_total": "3,300"
     }
   ],
   "ai_repos": [
@@ -89,56 +89,56 @@
       "url": "https://github.com/mattpocock/skills",
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "language": "Shell",
-      "stars_today": "2,267 stars today",
-      "stars_total": "226,351"
+      "stars_today": "3,368 stars today",
+      "stars_total": "228,361"
     },
     {
       "name": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
-      "stars_today": "749 stars today",
-      "stars_total": "274,911"
+      "stars_today": "789 stars today",
+      "stars_total": "275,386"
     },
     {
       "name": "santifer/career-ops",
       "url": "https://github.com/santifer/career-ops",
       "description": "Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravity…)",
       "language": "JavaScript",
-      "stars_today": "855 stars today",
-      "stars_total": "66,621"
+      "stars_today": "918 stars today",
+      "stars_total": "67,174"
     },
     {
       "name": "akitaonrails/ai-memory",
       "url": "https://github.com/akitaonrails/ai-memory",
       "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
       "language": "Rust",
-      "stars_today": "335 stars today",
-      "stars_total": "3,574"
+      "stars_today": "468 stars today",
+      "stars_total": "3,851"
     },
     {
       "name": "harry0703/MoneyPrinterTurbo",
       "url": "https://github.com/harry0703/MoneyPrinterTurbo",
       "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
       "language": "Python",
-      "stars_today": "2,774 stars today",
-      "stars_total": "112,890"
+      "stars_today": "1,187 stars today",
+      "stars_total": "113,550"
     },
     {
       "name": "agent-substrate/substrate",
       "url": "https://github.com/agent-substrate/substrate",
       "description": "Agent Substrate: the core system",
       "language": "Go",
-      "stars_today": "66 stars today",
-      "stars_total": "1,379"
+      "stars_today": "245 stars today",
+      "stars_total": "1,536"
     },
     {
       "name": "chaitanyagiri/munder-difflin",
       "url": "https://github.com/chaitanyagiri/munder-difflin",
       "description": "local multi-agent harness",
       "language": "TypeScript",
-      "stars_today": "517 stars today",
-      "stars_total": "3,111"
+      "stars_today": "344 stars today",
+      "stars_total": "3,300"
     }
   ],
   "posts": [
