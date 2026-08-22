@@ -1,131 +1,166 @@
 {
   "date": "2026-08-22",
-  "slot": "早报",
+  "slot": "晚报",
   "all_repos": [
+    {
+      "name": "openai/codex",
+      "url": "https://github.com/openai/codex",
+      "description": "Lightweight coding agent that runs in your terminal",
+      "language": "Rust",
+      "stars_today": "4,159 stars today",
+      "stars_total": "112,109"
+    },
     {
       "name": "mattpocock/skills",
       "url": "https://github.com/mattpocock/skills",
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "language": "Shell",
-      "stars_today": "3,368 stars today",
-      "stars_total": "229,389"
+      "stars_today": "2,684 stars today",
+      "stars_total": "230,924"
     },
     {
-      "name": "mahlernim/google-timeline-visualizer",
-      "url": "https://github.com/mahlernim/google-timeline-visualizer",
-      "description": "Visualize your year in travel using your Google Location History (Timeline) data",
-      "language": "Kotlin",
-      "stars_today": "1,040 stars today",
-      "stars_total": "2,204"
+      "name": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "language": "JavaScript",
+      "stars_today": "357 stars today",
+      "stars_total": "241,986"
     },
     {
-      "name": "harry0703/MoneyPrinterTurbo",
-      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
-      "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
+      "name": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars_today": "592 stars today",
+      "stars_total": "275,926"
+    },
+    {
+      "name": "Wei-Shaw/sub2api",
+      "url": "https://github.com/Wei-Shaw/sub2api",
+      "description": "Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。",
+      "language": "Go",
+      "stars_today": "673 stars today",
+      "stars_total": "38,680"
+    },
+    {
+      "name": "makeplane/plane",
+      "url": "https://github.com/makeplane/plane",
+      "description": "🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.",
+      "language": "TypeScript",
+      "stars_today": "263 stars today",
+      "stars_total": "57,043"
+    },
+    {
+      "name": "n8n-io/n8n",
+      "url": "https://github.com/n8n-io/n8n",
+      "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+      "language": "TypeScript",
+      "stars_today": "193 stars today",
+      "stars_total": "201,600"
+    },
+    {
+      "name": "anthropics/claude-code",
+      "url": "https://github.com/anthropics/claude-code",
+      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
       "language": "Python",
-      "stars_today": "1,187 stars today",
-      "stars_total": "113,864"
+      "stars_today": "170 stars today",
+      "stars_total": "142,363"
     },
     {
       "name": "AprilNEA/OpenLogi",
       "url": "https://github.com/AprilNEA/OpenLogi",
       "description": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
       "language": "Rust",
-      "stars_today": "1,372 stars today",
-      "stars_total": "12,879"
-    },
-    {
-      "name": "PostHog/posthog",
-      "url": "https://github.com/PostHog/posthog",
-      "description": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
-      "language": "Python",
-      "stars_today": "334 stars today",
-      "stars_total": "38,277"
-    },
-    {
-      "name": "microsoft/TypeScript",
-      "url": "https://github.com/microsoft/TypeScript",
-      "description": "TypeScript is a superset of JavaScript that compiles to clean JavaScript output.",
-      "language": "Go",
-      "stars_today": "65 stars today",
-      "stars_total": "110,371"
-    },
-    {
-      "name": "obra/superpowers",
-      "url": "https://github.com/obra/superpowers",
-      "description": "An agentic skills framework & software development methodology that works.",
-      "language": "Shell",
-      "stars_today": "789 stars today",
-      "stars_total": "275,638"
-    },
-    {
-      "name": "santifer/career-ops",
-      "url": "https://github.com/santifer/career-ops",
-      "description": "Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravity…)",
-      "language": "JavaScript",
-      "stars_today": "918 stars today",
-      "stars_total": "67,423"
-    },
-    {
-      "name": "cursor/plugins",
-      "url": "https://github.com/cursor/plugins",
-      "description": "Cursor plugin specification and official plugins",
-      "language": "TypeScript",
-      "stars_today": "391 stars today",
-      "stars_total": "4,384"
+      "stars_today": "959 stars today",
+      "stars_total": "13,451"
     },
     {
       "name": "modular/modular",
       "url": "https://github.com/modular/modular",
       "description": "The Modular Platform (includes MAX & Mojo)",
       "language": "Mojo",
-      "stars_today": "905 stars today",
-      "stars_total": "28,671"
+      "stars_today": "395 stars today",
+      "stars_total": "28,775"
     }
   ],
   "ai_repos": [
+    {
+      "name": "openai/codex",
+      "url": "https://github.com/openai/codex",
+      "description": "Lightweight coding agent that runs in your terminal",
+      "language": "Rust",
+      "stars_today": "4,159 stars today",
+      "stars_total": "112,109"
+    },
     {
       "name": "mattpocock/skills",
       "url": "https://github.com/mattpocock/skills",
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "language": "Shell",
-      "stars_today": "3,368 stars today",
-      "stars_total": "229,389"
+      "stars_today": "2,684 stars today",
+      "stars_total": "230,924"
     },
     {
-      "name": "harry0703/MoneyPrinterTurbo",
-      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
-      "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
-      "language": "Python",
-      "stars_today": "1,187 stars today",
-      "stars_total": "113,864"
-    },
-    {
-      "name": "PostHog/posthog",
-      "url": "https://github.com/PostHog/posthog",
-      "description": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
-      "language": "Python",
-      "stars_today": "334 stars today",
-      "stars_total": "38,277"
+      "name": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "language": "JavaScript",
+      "stars_today": "357 stars today",
+      "stars_total": "241,986"
     },
     {
       "name": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
-      "stars_today": "789 stars today",
-      "stars_total": "275,638"
+      "stars_today": "592 stars today",
+      "stars_total": "275,926"
     },
     {
-      "name": "santifer/career-ops",
-      "url": "https://github.com/santifer/career-ops",
-      "description": "Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravity…)",
-      "language": "JavaScript",
-      "stars_today": "918 stars today",
-      "stars_total": "67,423"
+      "name": "Wei-Shaw/sub2api",
+      "url": "https://github.com/Wei-Shaw/sub2api",
+      "description": "Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。",
+      "language": "Go",
+      "stars_today": "673 stars today",
+      "stars_total": "38,680"
+    },
+    {
+      "name": "n8n-io/n8n",
+      "url": "https://github.com/n8n-io/n8n",
+      "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+      "language": "TypeScript",
+      "stars_today": "193 stars today",
+      "stars_total": "201,600"
+    },
+    {
+      "name": "anthropics/claude-code",
+      "url": "https://github.com/anthropics/claude-code",
+      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+      "language": "Python",
+      "stars_today": "170 stars today",
+      "stars_total": "142,363"
     }
   ],
   "posts": [
+    {
+      "topic": "codex",
+      "repo": "openai/codex",
+      "cover_line1": "codex",
+      "cover_line2": "今日 GitHub 热榜！",
+      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**openai/codex**\n\n📌 Lightweight coding agent that runs in your terminal\n\n🔗 https://github.com/openai/codex\n\n关注我，每天第一时间 AI 动态 👇",
+      "tags": [
+        "AI",
+        "GitHub",
+        "开源",
+        "热门项目",
+        "大模型",
+        "机器学习",
+        "深度学习",
+        "AI工具",
+        "技术",
+        "炼丹"
+      ]
+    },
     {
       "topic": "skills",
       "repo": "mattpocock/skills",
@@ -146,30 +181,11 @@
       ]
     },
     {
-      "topic": "MoneyPrinterTurbo",
-      "repo": "harry0703/MoneyPrinterTurbo",
-      "cover_line1": "MoneyPrint",
+      "topic": "ECC",
+      "repo": "affaan-m/ECC",
+      "cover_line1": "ECC",
       "cover_line2": "今日 GitHub 热榜！",
-      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**harry0703/MoneyPrinterTurbo**\n\n📌 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.\n\n🔗 https://github.com/harry0703/MoneyPrinterTurbo\n\n关注我，每天第一时间 AI 动态 👇",
-      "tags": [
-        "AI",
-        "GitHub",
-        "开源",
-        "热门项目",
-        "大模型",
-        "机器学习",
-        "深度学习",
-        "AI工具",
-        "技术",
-        "炼丹"
-      ]
-    },
-    {
-      "topic": "posthog",
-      "repo": "PostHog/posthog",
-      "cover_line1": "posthog",
-      "cover_line2": "今日 GitHub 热榜！",
-      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**PostHog/posthog**\n\n📌 🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.\n\n🔗 https://github.com/PostHog/posthog\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**affaan-m/ECC**\n\n📌 The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.\n\n🔗 https://github.com/affaan-m/ECC\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "GitHub",
