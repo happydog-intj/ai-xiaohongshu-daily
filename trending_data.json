@@ -1,14 +1,14 @@
 {
-  "date": "2026-08-22",
-  "slot": "晚报",
+  "date": "2026-08-23",
+  "slot": "早报",
   "all_repos": [
     {
       "name": "openai/codex",
       "url": "https://github.com/openai/codex",
       "description": "Lightweight coding agent that runs in your terminal",
       "language": "Rust",
-      "stars_today": "4,159 stars today",
-      "stars_total": "112,109"
+      "stars_today": "1,978 stars today",
+      "stars_total": "113,254"
     },
     {
       "name": "mattpocock/skills",
@@ -16,15 +16,15 @@
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "language": "Shell",
       "stars_today": "2,684 stars today",
-      "stars_total": "230,924"
+      "stars_total": "231,944"
     },
     {
       "name": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "language": "JavaScript",
-      "stars_today": "357 stars today",
-      "stars_total": "241,986"
+      "stars_today": "428 stars today",
+      "stars_total": "242,160"
     },
     {
       "name": "obra/superpowers",
@@ -32,15 +32,15 @@
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
       "stars_today": "592 stars today",
-      "stars_total": "275,926"
+      "stars_total": "276,168"
     },
     {
       "name": "Wei-Shaw/sub2api",
       "url": "https://github.com/Wei-Shaw/sub2api",
       "description": "Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。",
       "language": "Go",
-      "stars_today": "673 stars today",
-      "stars_total": "38,680"
+      "stars_today": "264 stars today",
+      "stars_total": "38,776"
     },
     {
       "name": "makeplane/plane",
@@ -48,23 +48,23 @@
       "description": "🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.",
       "language": "TypeScript",
       "stars_today": "263 stars today",
-      "stars_total": "57,043"
+      "stars_total": "57,206"
     },
     {
       "name": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
       "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
       "language": "TypeScript",
-      "stars_today": "193 stars today",
-      "stars_total": "201,600"
+      "stars_today": "202 stars today",
+      "stars_total": "201,798"
     },
     {
       "name": "anthropics/claude-code",
       "url": "https://github.com/anthropics/claude-code",
       "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
       "language": "Python",
-      "stars_today": "170 stars today",
-      "stars_total": "142,363"
+      "stars_today": "141 stars today",
+      "stars_total": "142,513"
     },
     {
       "name": "AprilNEA/OpenLogi",
@@ -72,7 +72,7 @@
       "description": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
       "language": "Rust",
       "stars_today": "959 stars today",
-      "stars_total": "13,451"
+      "stars_total": "13,882"
     },
     {
       "name": "modular/modular",
@@ -80,7 +80,7 @@
       "description": "The Modular Platform (includes MAX & Mojo)",
       "language": "Mojo",
       "stars_today": "395 stars today",
-      "stars_total": "28,775"
+      "stars_total": "28,832"
     }
   ],
   "ai_repos": [
@@ -89,8 +89,8 @@
       "url": "https://github.com/openai/codex",
       "description": "Lightweight coding agent that runs in your terminal",
       "language": "Rust",
-      "stars_today": "4,159 stars today",
-      "stars_total": "112,109"
+      "stars_today": "1,978 stars today",
+      "stars_total": "113,254"
     },
     {
       "name": "mattpocock/skills",
@@ -98,15 +98,15 @@
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "language": "Shell",
       "stars_today": "2,684 stars today",
-      "stars_total": "230,924"
+      "stars_total": "231,944"
     },
     {
       "name": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "language": "JavaScript",
-      "stars_today": "357 stars today",
-      "stars_total": "241,986"
+      "stars_today": "428 stars today",
+      "stars_total": "242,160"
     },
     {
       "name": "obra/superpowers",
@@ -114,31 +114,31 @@
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
       "stars_today": "592 stars today",
-      "stars_total": "275,926"
+      "stars_total": "276,168"
     },
     {
       "name": "Wei-Shaw/sub2api",
       "url": "https://github.com/Wei-Shaw/sub2api",
       "description": "Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。",
       "language": "Go",
-      "stars_today": "673 stars today",
-      "stars_total": "38,680"
+      "stars_today": "264 stars today",
+      "stars_total": "38,776"
     },
     {
       "name": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
       "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
       "language": "TypeScript",
-      "stars_today": "193 stars today",
-      "stars_total": "201,600"
+      "stars_today": "202 stars today",
+      "stars_total": "201,798"
     },
     {
       "name": "anthropics/claude-code",
       "url": "https://github.com/anthropics/claude-code",
       "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
       "language": "Python",
-      "stars_today": "170 stars today",
-      "stars_total": "142,363"
+      "stars_today": "141 stars today",
+      "stars_total": "142,513"
     }
   ],
   "posts": [
@@ -220,10 +220,10 @@
     }
   ],
   "image_paths": [
-    "assets/2026-08-22/trending/summary.png",
-    "assets/2026-08-22/trending/post1.png",
-    "assets/2026-08-22/trending/post2.png",
-    "assets/2026-08-22/trending/post3.png",
-    "assets/2026-08-22/trending/post4.png"
+    "assets/2026-08-23/trending/summary.png",
+    "assets/2026-08-23/trending/post1.png",
+    "assets/2026-08-23/trending/post2.png",
+    "assets/2026-08-23/trending/post3.png",
+    "assets/2026-08-23/trending/post4.png"
   ]
 }
