@@ -1,11 +1,11 @@
 {
-  "date": "2026-08-22",
+  "date": "2026-08-23",
   "posts": [
     {
-      "topic": "AI boosted homework ",
-      "cover_line1": "AI boosted",
+      "topic": "Why your local LLM f",
+      "cover_line1": "Why your l",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**AI boosted homework scores, then exam scores dropped: study**\n\n📌 来源：HackerNews\n🔗 https://www.economist.com/graphic-detail/2026/08/18/does-ai-stop-children-from-learning\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Why your local LLM feels dumber than it is**\n\n📌 来源：HackerNews\n🔗 https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -20,10 +20,10 @@
       ]
     },
     {
-      "topic": "How we made a text-t",
-      "cover_line1": "How we mad",
+      "topic": "How a Texas student ",
+      "cover_line1": "How a Texa",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**How we made a text-to-speech model respond in sub-50 ms**\n\n📌 来源：HackerNews\n🔗 https://nari-labs.com/blog/qwen3-tts-speed-cost-frontier/\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**How a Texas student blew the whistle on a rogue AI hacking attempt**\n\n📌 来源：HackerNews\n🔗 https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20/\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -38,10 +38,10 @@
       ]
     },
     {
-      "topic": "Claudette: Make Clau",
-      "cover_line1": "Claudette:",
+      "topic": "NanoGPT Speedrun Fro",
+      "cover_line1": "NanoGPT Sp",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Claudette: Make Claude stop talking like a BuzzFeed article**\n\n📌 来源：HackerNews\n🔗 https://github.com/adnanakil/nobuzz/blob/main/README.md\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**NanoGPT Speedrun Frontier**\n\n📌 来源：HackerNews\n🔗 https://www.primeintellect.ai/research/nanogpt-speedrun\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -56,10 +56,10 @@
       ]
     },
     {
-      "topic": "I'm becoming AI-blin",
-      "cover_line1": "I'm becomi",
+      "topic": "Munder Difflin – Age",
+      "cover_line1": "Munder Dif",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**I'm becoming AI-blind**\n\n📌 来源：HackerNews\n🔗 https://cymerys.com/w/im-becoming-ai-blind\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Munder Difflin – Agent harness to run an office of your clones**\n\n📌 来源：HackerNews\n🔗 https://munderdiffl.in/\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -75,15 +75,15 @@
     }
   ],
   "image_paths": [
-    "assets/2026-08-22/cover1.png",
-    "assets/2026-08-22/cover2.png",
-    "assets/2026-08-22/cover3.png",
-    "assets/2026-08-22/cover4.png"
+    "assets/2026-08-23/cover1.png",
+    "assets/2026-08-23/cover2.png",
+    "assets/2026-08-23/cover3.png",
+    "assets/2026-08-23/cover4.png"
   ],
   "feishu_image_paths": [
-    "assets/2026-08-22/cover1_feishu.png",
-    "assets/2026-08-22/cover2_feishu.png",
-    "assets/2026-08-22/cover3_feishu.png",
-    "assets/2026-08-22/cover4_feishu.png"
+    "assets/2026-08-23/cover1_feishu.png",
+    "assets/2026-08-23/cover2_feishu.png",
+    "assets/2026-08-23/cover3_feishu.png",
+    "assets/2026-08-23/cover4_feishu.png"
   ]
 }
