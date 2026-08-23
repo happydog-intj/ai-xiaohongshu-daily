@@ -1,6 +1,6 @@
 {
-  "date": "2026-08-23",
-  "slot": "晚报",
+  "date": "2026-08-24",
+  "slot": "早报",
   "all_repos": [
     {
       "name": "openai/codex",
@@ -8,15 +8,15 @@
       "description": "Lightweight coding agent that runs in your terminal",
       "language": "Rust",
       "stars_today": "2,729 stars today",
-      "stars_total": "114,774"
+      "stars_total": "115,105"
     },
     {
       "name": "freestylefly/awesome-gpt-image-2",
       "url": "https://github.com/freestylefly/awesome-gpt-image-2",
       "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，470+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
       "language": "JavaScript",
-      "stars_today": "628 stars today",
-      "stars_total": "12,446"
+      "stars_today": "440 stars today",
+      "stars_total": "12,666"
     },
     {
       "name": "mattpocock/skills",
@@ -24,15 +24,15 @@
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "language": "Shell",
       "stars_today": "2,448 stars today",
-      "stars_total": "233,257"
+      "stars_total": "233,795"
     },
     {
       "name": "basecamp/omarchy",
       "url": "https://github.com/basecamp/omarchy",
       "description": "Beautiful, Modern & Opinionated Linux",
       "language": "Shell",
-      "stars_today": "803 stars today",
-      "stars_total": "28,681"
+      "stars_today": "814 stars today",
+      "stars_total": "29,083"
     },
     {
       "name": "AprilNEA/OpenLogi",
@@ -40,15 +40,15 @@
       "description": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
       "language": "Rust",
       "stars_today": "1,008 stars today",
-      "stars_total": "14,448"
+      "stars_total": "14,886"
     },
     {
       "name": "block/buzz",
       "url": "https://github.com/block/buzz",
       "description": "A hive mind communication platform",
       "language": "Rust",
-      "stars_today": "564 stars today",
-      "stars_total": "29,910"
+      "stars_today": "349 stars today",
+      "stars_total": "30,077"
     },
     {
       "name": "apache/maka",
@@ -56,7 +56,7 @@
       "description": "Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log.",
       "language": "TypeScript",
       "stars_today": "49 stars today",
-      "stars_total": "2,201"
+      "stars_total": "2,327"
     },
     {
       "name": "Alishahryar1/free-claude-code",
@@ -64,15 +64,15 @@
       "description": "Use Claude Code, Codex, Pi, and OpenCode for free (1.3B+ free tokens) from your terminal, app, IDE, or phone like OpenClaw (voice supported + ToS friendly)",
       "language": "Python",
       "stars_today": "1,040 stars today",
-      "stars_total": "47,612"
+      "stars_total": "47,923"
     },
     {
       "name": "tinyhumansai/openhuman",
       "url": "https://github.com/tinyhumansai/openhuman",
       "description": "Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of agent fleets and workflows, and a deep researcher.",
       "language": "Rust",
-      "stars_today": "51 stars today",
-      "stars_total": "36,536"
+      "stars_today": "106 stars today",
+      "stars_total": "36,715"
     },
     {
       "name": "affaan-m/ECC",
@@ -80,7 +80,7 @@
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "language": "JavaScript",
       "stars_today": "427 stars today",
-      "stars_total": "242,379"
+      "stars_total": "242,532"
     }
   ],
   "ai_repos": [
@@ -90,15 +90,15 @@
       "description": "Lightweight coding agent that runs in your terminal",
       "language": "Rust",
       "stars_today": "2,729 stars today",
-      "stars_total": "114,774"
+      "stars_total": "115,105"
     },
     {
       "name": "freestylefly/awesome-gpt-image-2",
       "url": "https://github.com/freestylefly/awesome-gpt-image-2",
       "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，470+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
       "language": "JavaScript",
-      "stars_today": "628 stars today",
-      "stars_total": "12,446"
+      "stars_today": "440 stars today",
+      "stars_total": "12,666"
     },
     {
       "name": "mattpocock/skills",
@@ -106,7 +106,7 @@
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "language": "Shell",
       "stars_today": "2,448 stars today",
-      "stars_total": "233,257"
+      "stars_total": "233,795"
     },
     {
       "name": "apache/maka",
@@ -114,7 +114,7 @@
       "description": "Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log.",
       "language": "TypeScript",
       "stars_today": "49 stars today",
-      "stars_total": "2,201"
+      "stars_total": "2,327"
     },
     {
       "name": "Alishahryar1/free-claude-code",
@@ -122,15 +122,15 @@
       "description": "Use Claude Code, Codex, Pi, and OpenCode for free (1.3B+ free tokens) from your terminal, app, IDE, or phone like OpenClaw (voice supported + ToS friendly)",
       "language": "Python",
       "stars_today": "1,040 stars today",
-      "stars_total": "47,612"
+      "stars_total": "47,923"
     },
     {
       "name": "tinyhumansai/openhuman",
       "url": "https://github.com/tinyhumansai/openhuman",
       "description": "Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of agent fleets and workflows, and a deep researcher.",
       "language": "Rust",
-      "stars_today": "51 stars today",
-      "stars_total": "36,536"
+      "stars_today": "106 stars today",
+      "stars_total": "36,715"
     },
     {
       "name": "affaan-m/ECC",
@@ -138,7 +138,7 @@
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "language": "JavaScript",
       "stars_today": "427 stars today",
-      "stars_total": "242,379"
+      "stars_total": "242,532"
     }
   ],
   "posts": [
@@ -220,10 +220,10 @@
     }
   ],
   "image_paths": [
-    "assets/2026-08-23/trending/summary.png",
-    "assets/2026-08-23/trending/post1.png",
-    "assets/2026-08-23/trending/post2.png",
-    "assets/2026-08-23/trending/post3.png",
-    "assets/2026-08-23/trending/post4.png"
+    "assets/2026-08-24/trending/summary.png",
+    "assets/2026-08-24/trending/post1.png",
+    "assets/2026-08-24/trending/post2.png",
+    "assets/2026-08-24/trending/post3.png",
+    "assets/2026-08-24/trending/post4.png"
   ]
 }
