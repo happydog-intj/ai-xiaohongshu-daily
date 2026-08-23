@@ -1,11 +1,11 @@
 {
-  "date": "2026-08-23",
+  "date": "2026-08-24",
   "posts": [
     {
-      "topic": "Why your local LLM f",
-      "cover_line1": "Why your l",
+      "topic": "Google Workspace thi",
+      "cover_line1": "Google Wor",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Why your local LLM feels dumber than it is**\n\n📌 来源：HackerNews\n🔗 https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Google Workspace thinks my domain is an email provider (2025)**\n\n📌 来源：HackerNews\n🔗 https://blog.elis.cc/articles/google-workspace-thinks-my-domain-is-an-email-provider/\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -20,10 +20,10 @@
       ]
     },
     {
-      "topic": "How a Texas student ",
-      "cover_line1": "How a Texa",
+      "topic": "My agent.md to impro",
+      "cover_line1": "My agent.m",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**How a Texas student blew the whistle on a rogue AI hacking attempt**\n\n📌 来源：HackerNews\n🔗 https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20/\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**My agent.md to improve LLM-assisted code quality**\n\n📌 来源：HackerNews\n🔗 https://fabiensanglard.net/agent.md/index.html\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -38,10 +38,10 @@
       ]
     },
     {
-      "topic": "NanoGPT Speedrun Fro",
-      "cover_line1": "NanoGPT Sp",
+      "topic": "How Complex Systems ",
+      "cover_line1": "How Comple",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**NanoGPT Speedrun Frontier**\n\n📌 来源：HackerNews\n🔗 https://www.primeintellect.ai/research/nanogpt-speedrun\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**How Complex Systems Fail (1998)**\n\n📌 来源：HackerNews\n🔗 https://how.complexsystems.fail/\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -56,10 +56,10 @@
       ]
     },
     {
-      "topic": "Munder Difflin – Age",
-      "cover_line1": "Munder Dif",
+      "topic": "Anthropic's best AI ",
+      "cover_line1": "Anthropic'",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Munder Difflin – Agent harness to run an office of your clones**\n\n📌 来源：HackerNews\n🔗 https://munderdiffl.in/\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Anthropic's best AI model struggles to attract users as cheaper tools thrive**\n\n📌 来源：HackerNews\n🔗 https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -75,15 +75,15 @@
     }
   ],
   "image_paths": [
-    "assets/2026-08-23/cover1.png",
-    "assets/2026-08-23/cover2.png",
-    "assets/2026-08-23/cover3.png",
-    "assets/2026-08-23/cover4.png"
+    "assets/2026-08-24/cover1.png",
+    "assets/2026-08-24/cover2.png",
+    "assets/2026-08-24/cover3.png",
+    "assets/2026-08-24/cover4.png"
   ],
   "feishu_image_paths": [
-    "assets/2026-08-23/cover1_feishu.png",
-    "assets/2026-08-23/cover2_feishu.png",
-    "assets/2026-08-23/cover3_feishu.png",
-    "assets/2026-08-23/cover4_feishu.png"
+    "assets/2026-08-24/cover1_feishu.png",
+    "assets/2026-08-24/cover2_feishu.png",
+    "assets/2026-08-24/cover3_feishu.png",
+    "assets/2026-08-24/cover4_feishu.png"
   ]
 }
