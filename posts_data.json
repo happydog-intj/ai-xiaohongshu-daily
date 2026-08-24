@@ -1,11 +1,11 @@
 {
-  "date": "2026-08-24",
+  "date": "2026-08-25",
   "posts": [
     {
-      "topic": "Google Workspace thi",
-      "cover_line1": "Google Wor",
+      "topic": "iCloud+ Hide My Emai",
+      "cover_line1": "iCloud+ Hi",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Google Workspace thinks my domain is an email provider (2025)**\n\n📌 来源：HackerNews\n🔗 https://blog.elis.cc/articles/google-workspace-thinks-my-domain-is-an-email-provider/\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**iCloud+ Hide My Email addresses will remain on icloud.com**\n\n📌 来源：HackerNews\n🔗 https://developer.apple.com/news/?id=1ptvdtcm\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -20,10 +20,10 @@
       ]
     },
     {
-      "topic": "My agent.md to impro",
-      "cover_line1": "My agent.m",
+      "topic": "MS Paint and Photos ",
+      "cover_line1": "MS Paint a",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**My agent.md to improve LLM-assisted code quality**\n\n📌 来源：HackerNews\n🔗 https://fabiensanglard.net/agent.md/index.html\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**MS Paint and Photos inivisibly watermark even locally generated output with GUID**\n\n📌 来源：HackerNews\n🔗 https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -38,10 +38,10 @@
       ]
     },
     {
-      "topic": "How Complex Systems ",
-      "cover_line1": "How Comple",
+      "topic": "IPFS Maintainers Win",
+      "cover_line1": "IPFS Maint",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**How Complex Systems Fail (1998)**\n\n📌 来源：HackerNews\n🔗 https://how.complexsystems.fail/\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**IPFS Maintainers Winding Down**\n\n📌 来源：HackerNews\n🔗 https://ipshipyard.com/blog/2026-the-end-of-ipfs-at-shipyard/\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -56,10 +56,10 @@
       ]
     },
     {
-      "topic": "Anthropic's best AI ",
-      "cover_line1": "Anthropic'",
+      "topic": "LLMs could control t",
+      "cover_line1": "LLMs could",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Anthropic's best AI model struggles to attract users as cheaper tools thrive**\n\n📌 来源：HackerNews\n🔗 https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**LLMs could control their host machines by exploiting inference engines**\n\n📌 来源：HackerNews\n🔗 https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -75,15 +75,15 @@
     }
   ],
   "image_paths": [
-    "assets/2026-08-24/cover1.png",
-    "assets/2026-08-24/cover2.png",
-    "assets/2026-08-24/cover3.png",
-    "assets/2026-08-24/cover4.png"
+    "assets/2026-08-25/cover1.png",
+    "assets/2026-08-25/cover2.png",
+    "assets/2026-08-25/cover3.png",
+    "assets/2026-08-25/cover4.png"
   ],
   "feishu_image_paths": [
-    "assets/2026-08-24/cover1_feishu.png",
-    "assets/2026-08-24/cover2_feishu.png",
-    "assets/2026-08-24/cover3_feishu.png",
-    "assets/2026-08-24/cover4_feishu.png"
+    "assets/2026-08-25/cover1_feishu.png",
+    "assets/2026-08-25/cover2_feishu.png",
+    "assets/2026-08-25/cover3_feishu.png",
+    "assets/2026-08-25/cover4_feishu.png"
   ]
 }
