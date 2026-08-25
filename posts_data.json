@@ -1,11 +1,11 @@
 {
-  "date": "2026-08-25",
+  "date": "2026-08-26",
   "posts": [
     {
-      "topic": "iCloud+ Hide My Emai",
-      "cover_line1": "iCloud+ Hi",
+      "topic": "OpenAI Jalapeño: Bet",
+      "cover_line1": "OpenAI Jal",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**iCloud+ Hide My Email addresses will remain on icloud.com**\n\n📌 来源：HackerNews\n🔗 https://developer.apple.com/news/?id=1ptvdtcm\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**OpenAI Jalapeño: Better than Nvidia Blackwell**\n\n📌 来源：HackerNews\n🔗 https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -20,10 +20,10 @@
       ]
     },
     {
-      "topic": "MS Paint and Photos ",
-      "cover_line1": "MS Paint a",
+      "topic": "Show HN: TeXbrain, a",
+      "cover_line1": "Show HN: T",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**MS Paint and Photos inivisibly watermark even locally generated output with GUID**\n\n📌 来源：HackerNews\n🔗 https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Show HN: TeXbrain, a LaTeX editor that runs pdfTeX in the browser via WASM**\n\n📌 来源：HackerNews\n🔗 https://github.com/swimmingbrain/texbrain\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -38,10 +38,10 @@
       ]
     },
     {
-      "topic": "IPFS Maintainers Win",
-      "cover_line1": "IPFS Maint",
+      "topic": "Show HN: I made a Ra",
+      "cover_line1": "Show HN: I",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**IPFS Maintainers Winding Down**\n\n📌 来源：HackerNews\n🔗 https://ipshipyard.com/blog/2026-the-end-of-ipfs-at-shipyard/\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Show HN: I made a Raspberry with Qwen my local car AI**\n\n📌 来源：HackerNews\n🔗 https://github.com/ThinkOffApp/CarWatch\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -56,10 +56,10 @@
       ]
     },
     {
-      "topic": "LLMs could control t",
-      "cover_line1": "LLMs could",
+      "topic": "Clara (YC P26) is hi",
+      "cover_line1": "Clara (YC ",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**LLMs could control their host machines by exploiting inference engines**\n\n📌 来源：HackerNews\n🔗 https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Clara (YC P26) is hiring a growth engineer to bring AI doctors to market**\n\n📌 来源：HackerNews\n🔗 https://www.ycombinator.com/companies/clara-2/jobs/8snci6k-founding-full-stack-growth-engineer\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -75,15 +75,15 @@
     }
   ],
   "image_paths": [
-    "assets/2026-08-25/cover1.png",
-    "assets/2026-08-25/cover2.png",
-    "assets/2026-08-25/cover3.png",
-    "assets/2026-08-25/cover4.png"
+    "assets/2026-08-26/cover1.png",
+    "assets/2026-08-26/cover2.png",
+    "assets/2026-08-26/cover3.png",
+    "assets/2026-08-26/cover4.png"
   ],
   "feishu_image_paths": [
-    "assets/2026-08-25/cover1_feishu.png",
-    "assets/2026-08-25/cover2_feishu.png",
-    "assets/2026-08-25/cover3_feishu.png",
-    "assets/2026-08-25/cover4_feishu.png"
+    "assets/2026-08-26/cover1_feishu.png",
+    "assets/2026-08-26/cover2_feishu.png",
+    "assets/2026-08-26/cover3_feishu.png",
+    "assets/2026-08-26/cover4_feishu.png"
   ]
 }
