@@ -1,6 +1,6 @@
 {
-  "date": "2026-08-25",
-  "slot": "晚报",
+  "date": "2026-08-26",
+  "slot": "早报",
   "all_repos": [
     {
       "name": "freestylefly/awesome-gpt-image-2",
@@ -8,7 +8,7 @@
       "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
       "language": "JavaScript",
       "stars_today": "1,698 stars today",
-      "stars_total": "16,656"
+      "stars_total": "17,580"
     },
     {
       "name": "anthropics/claude-plugins-community",
@@ -16,15 +16,7 @@
       "description": "Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.",
       "language": "Python",
       "stars_today": "350 stars today",
-      "stars_total": "1,561"
-    },
-    {
-      "name": "MadsLorentzen/ai-job-search",
-      "url": "https://github.com/MadsLorentzen/ai-job-search",
-      "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
-      "language": "Python",
-      "stars_today": "1,266 stars today",
-      "stars_total": "34,791"
+      "stars_total": "1,721"
     },
     {
       "name": "apache/maka",
@@ -32,7 +24,7 @@
       "description": "Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log.",
       "language": "TypeScript",
       "stars_today": "538 stars today",
-      "stars_total": "3,155"
+      "stars_total": "3,305"
     },
     {
       "name": "TauricResearch/TradingAgents",
@@ -40,7 +32,7 @@
       "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
       "language": "Python",
       "stars_today": "191 stars today",
-      "stars_total": "99,906"
+      "stars_total": "100,199"
     },
     {
       "name": "AgriciDaniel/claude-obsidian",
@@ -48,7 +40,7 @@
       "description": "Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and Claude reads, links, and files it into one connected knowledge graph of plain Markdown you own. AI note-taking, personal knowledge management (PKM), and an open-source Notion alternative. Based on Karpathy's LLM Wiki pattern.",
       "language": "Python",
       "stars_today": "810 stars today",
-      "stars_total": "12,368"
+      "stars_total": "12,680"
     },
     {
       "name": "rohitg00/ai-engineering-from-scratch",
@@ -56,7 +48,7 @@
       "description": "Learn it. Build it. Ship it for others.",
       "language": "Python",
       "stars_today": "572 stars today",
-      "stars_total": "48,642"
+      "stars_total": "48,916"
     },
     {
       "name": "tinyhumansai/openhuman",
@@ -64,7 +56,7 @@
       "description": "Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of agent fleets and workflows, and a deep researcher.",
       "language": "Rust",
       "stars_today": "541 stars today",
-      "stars_total": "37,559"
+      "stars_total": "37,744"
     },
     {
       "name": "basecamp/omarchy",
@@ -72,7 +64,7 @@
       "description": "Beautiful, Modern & Opinionated Linux",
       "language": "Shell",
       "stars_today": "1,080 stars today",
-      "stars_total": "30,791"
+      "stars_total": "31,201"
     },
     {
       "name": "Shubhamsaboo/awesome-llm-apps",
@@ -80,7 +72,15 @@
       "description": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.",
       "language": "Python",
       "stars_today": "161 stars today",
-      "stars_total": "134,029"
+      "stars_total": "134,214"
+    },
+    {
+      "name": "multica-ai/andrej-karpathy-skills",
+      "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "language": "",
+      "stars_today": "828 stars today",
+      "stars_total": "207,167"
     }
   ],
   "ai_repos": [
@@ -90,7 +90,7 @@
       "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
       "language": "JavaScript",
       "stars_today": "1,698 stars today",
-      "stars_total": "16,656"
+      "stars_total": "17,580"
     },
     {
       "name": "anthropics/claude-plugins-community",
@@ -98,15 +98,7 @@
       "description": "Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.",
       "language": "Python",
       "stars_today": "350 stars today",
-      "stars_total": "1,561"
-    },
-    {
-      "name": "MadsLorentzen/ai-job-search",
-      "url": "https://github.com/MadsLorentzen/ai-job-search",
-      "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
-      "language": "Python",
-      "stars_today": "1,266 stars today",
-      "stars_total": "34,791"
+      "stars_total": "1,721"
     },
     {
       "name": "apache/maka",
@@ -114,7 +106,7 @@
       "description": "Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log.",
       "language": "TypeScript",
       "stars_today": "538 stars today",
-      "stars_total": "3,155"
+      "stars_total": "3,305"
     },
     {
       "name": "TauricResearch/TradingAgents",
@@ -122,7 +114,7 @@
       "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
       "language": "Python",
       "stars_today": "191 stars today",
-      "stars_total": "99,906"
+      "stars_total": "100,199"
     },
     {
       "name": "AgriciDaniel/claude-obsidian",
@@ -130,7 +122,7 @@
       "description": "Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and Claude reads, links, and files it into one connected knowledge graph of plain Markdown you own. AI note-taking, personal knowledge management (PKM), and an open-source Notion alternative. Based on Karpathy's LLM Wiki pattern.",
       "language": "Python",
       "stars_today": "810 stars today",
-      "stars_total": "12,368"
+      "stars_total": "12,680"
     },
     {
       "name": "rohitg00/ai-engineering-from-scratch",
@@ -138,7 +130,7 @@
       "description": "Learn it. Build it. Ship it for others.",
       "language": "Python",
       "stars_today": "572 stars today",
-      "stars_total": "48,642"
+      "stars_total": "48,916"
     },
     {
       "name": "tinyhumansai/openhuman",
@@ -146,7 +138,7 @@
       "description": "Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of agent fleets and workflows, and a deep researcher.",
       "language": "Rust",
       "stars_today": "541 stars today",
-      "stars_total": "37,559"
+      "stars_total": "37,744"
     },
     {
       "name": "Shubhamsaboo/awesome-llm-apps",
@@ -154,7 +146,15 @@
       "description": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.",
       "language": "Python",
       "stars_today": "161 stars today",
-      "stars_total": "134,029"
+      "stars_total": "134,214"
+    },
+    {
+      "name": "multica-ai/andrej-karpathy-skills",
+      "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "language": "",
+      "stars_today": "828 stars today",
+      "stars_total": "207,167"
     }
   ],
   "posts": [
@@ -197,25 +197,6 @@
       ]
     },
     {
-      "topic": "ai-job-search",
-      "repo": "MadsLorentzen/ai-job-search",
-      "cover_line1": "ai-job-sea",
-      "cover_line2": "今日 GitHub 热榜！",
-      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**MadsLorentzen/ai-job-search**\n\n📌 The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.\n\n🔗 https://github.com/MadsLorentzen/ai-job-search\n\n关注我，每天第一时间 AI 动态 👇",
-      "tags": [
-        "AI",
-        "GitHub",
-        "开源",
-        "热门项目",
-        "大模型",
-        "机器学习",
-        "深度学习",
-        "AI工具",
-        "技术",
-        "炼丹"
-      ]
-    },
-    {
       "topic": "maka",
       "repo": "apache/maka",
       "cover_line1": "maka",
@@ -233,13 +214,32 @@
         "技术",
         "炼丹"
       ]
+    },
+    {
+      "topic": "TradingAgents",
+      "repo": "TauricResearch/TradingAgents",
+      "cover_line1": "TradingAge",
+      "cover_line2": "今日 GitHub 热榜！",
+      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**TauricResearch/TradingAgents**\n\n📌 TradingAgents: Multi-Agents LLM Financial Trading Framework\n\n🔗 https://github.com/TauricResearch/TradingAgents\n\n关注我，每天第一时间 AI 动态 👇",
+      "tags": [
+        "AI",
+        "GitHub",
+        "开源",
+        "热门项目",
+        "大模型",
+        "机器学习",
+        "深度学习",
+        "AI工具",
+        "技术",
+        "炼丹"
+      ]
     }
   ],
   "image_paths": [
-    "assets/2026-08-25/trending/summary.png",
-    "assets/2026-08-25/trending/post1.png",
-    "assets/2026-08-25/trending/post2.png",
-    "assets/2026-08-25/trending/post3.png",
-    "assets/2026-08-25/trending/post4.png"
+    "assets/2026-08-26/trending/summary.png",
+    "assets/2026-08-26/trending/post1.png",
+    "assets/2026-08-26/trending/post2.png",
+    "assets/2026-08-26/trending/post3.png",
+    "assets/2026-08-26/trending/post4.png"
   ]
 }
