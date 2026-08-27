@@ -1,78 +1,78 @@
 {
-  "date": "2026-08-26",
-  "slot": "晚报",
+  "date": "2026-08-27",
+  "slot": "早报",
   "all_repos": [
     {
       "name": "tt-a1i/archify",
       "url": "https://github.com/tt-a1i/archify",
       "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
       "language": "HTML",
-      "stars_today": "1,002 stars today",
-      "stars_total": "16,993"
+      "stars_today": "1,035 stars today",
+      "stars_total": "18,468"
     },
     {
       "name": "freestylefly/awesome-gpt-image-2",
       "url": "https://github.com/freestylefly/awesome-gpt-image-2",
       "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
       "language": "JavaScript",
-      "stars_today": "4,044 stars today",
-      "stars_total": "20,662"
+      "stars_today": "4,050 stars today",
+      "stars_total": "21,787"
     },
     {
       "name": "anthropics/claude-plugins-official",
       "url": "https://github.com/anthropics/claude-plugins-official",
       "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
       "language": "Python",
-      "stars_today": "307 stars today",
-      "stars_total": "34,254"
+      "stars_today": "308 stars today",
+      "stars_total": "34,408"
     },
     {
       "name": "Alishahryar1/free-claude-code",
       "url": "https://github.com/Alishahryar1/free-claude-code",
       "description": "Use Claude Code, Codex, Pi, and OpenCode for free (1.3B+ free tokens) from your terminal, app, IDE, or phone like OpenClaw (voice supported + ToS friendly)",
       "language": "Python",
-      "stars_today": "1,047 stars today",
-      "stars_total": "50,123"
+      "stars_today": "536 stars today",
+      "stars_total": "50,491"
     },
     {
       "name": "MadsLorentzen/ai-job-search",
       "url": "https://github.com/MadsLorentzen/ai-job-search",
       "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
       "language": "Python",
-      "stars_today": "1,299 stars today",
-      "stars_total": "36,053"
+      "stars_today": "1,300 stars today",
+      "stars_total": "36,618"
     },
     {
       "name": "AgriciDaniel/claude-obsidian",
       "url": "https://github.com/AgriciDaniel/claude-obsidian",
       "description": "Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and Claude reads, links, and files it into one connected knowledge graph of plain Markdown you own. AI note-taking, personal knowledge management (PKM), and an open-source Notion alternative. Based on Karpathy's LLM Wiki pattern.",
       "language": "Python",
-      "stars_today": "812 stars today",
-      "stars_total": "13,141"
+      "stars_today": "810 stars today",
+      "stars_total": "13,525"
     },
     {
       "name": "basecamp/omarchy",
       "url": "https://github.com/basecamp/omarchy",
       "description": "Beautiful, Modern & Opinionated Linux",
       "language": "Shell",
-      "stars_today": "1,021 stars today",
-      "stars_total": "31,738"
+      "stars_today": "1,024 stars today",
+      "stars_total": "32,114"
     },
     {
       "name": "rohitg00/ai-engineering-from-scratch",
       "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
       "description": "Learn it. Build it. Ship it for others.",
       "language": "Python",
-      "stars_today": "837 stars today",
-      "stars_total": "49,420"
+      "stars_today": "838 stars today",
+      "stars_total": "49,673"
     },
     {
       "name": "tinyhumansai/openhuman",
       "url": "https://github.com/tinyhumansai/openhuman",
       "description": "Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of agent fleets and workflows, and a deep researcher.",
       "language": "Rust",
-      "stars_today": "522 stars today",
-      "stars_total": "38,051"
+      "stars_today": "525 stars today",
+      "stars_total": "38,286"
     },
     {
       "name": "DietrichGebert/ponytail",
@@ -80,7 +80,7 @@
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
       "language": "JavaScript",
       "stars_today": "1,598 stars today",
-      "stars_total": "111,962"
+      "stars_total": "112,834"
     }
   ],
   "ai_repos": [
@@ -89,64 +89,64 @@
       "url": "https://github.com/tt-a1i/archify",
       "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
       "language": "HTML",
-      "stars_today": "1,002 stars today",
-      "stars_total": "16,993"
+      "stars_today": "1,035 stars today",
+      "stars_total": "18,468"
     },
     {
       "name": "freestylefly/awesome-gpt-image-2",
       "url": "https://github.com/freestylefly/awesome-gpt-image-2",
       "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
       "language": "JavaScript",
-      "stars_today": "4,044 stars today",
-      "stars_total": "20,662"
+      "stars_today": "4,050 stars today",
+      "stars_total": "21,787"
     },
     {
       "name": "anthropics/claude-plugins-official",
       "url": "https://github.com/anthropics/claude-plugins-official",
       "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
       "language": "Python",
-      "stars_today": "307 stars today",
-      "stars_total": "34,254"
+      "stars_today": "308 stars today",
+      "stars_total": "34,408"
     },
     {
       "name": "Alishahryar1/free-claude-code",
       "url": "https://github.com/Alishahryar1/free-claude-code",
       "description": "Use Claude Code, Codex, Pi, and OpenCode for free (1.3B+ free tokens) from your terminal, app, IDE, or phone like OpenClaw (voice supported + ToS friendly)",
       "language": "Python",
-      "stars_today": "1,047 stars today",
-      "stars_total": "50,123"
+      "stars_today": "536 stars today",
+      "stars_total": "50,491"
     },
     {
       "name": "MadsLorentzen/ai-job-search",
       "url": "https://github.com/MadsLorentzen/ai-job-search",
       "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
       "language": "Python",
-      "stars_today": "1,299 stars today",
-      "stars_total": "36,053"
+      "stars_today": "1,300 stars today",
+      "stars_total": "36,618"
     },
     {
       "name": "AgriciDaniel/claude-obsidian",
       "url": "https://github.com/AgriciDaniel/claude-obsidian",
       "description": "Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and Claude reads, links, and files it into one connected knowledge graph of plain Markdown you own. AI note-taking, personal knowledge management (PKM), and an open-source Notion alternative. Based on Karpathy's LLM Wiki pattern.",
       "language": "Python",
-      "stars_today": "812 stars today",
-      "stars_total": "13,141"
+      "stars_today": "810 stars today",
+      "stars_total": "13,525"
     },
     {
       "name": "rohitg00/ai-engineering-from-scratch",
       "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
       "description": "Learn it. Build it. Ship it for others.",
       "language": "Python",
-      "stars_today": "837 stars today",
-      "stars_total": "49,420"
+      "stars_today": "838 stars today",
+      "stars_total": "49,673"
     },
     {
       "name": "tinyhumansai/openhuman",
       "url": "https://github.com/tinyhumansai/openhuman",
       "description": "Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of agent fleets and workflows, and a deep researcher.",
       "language": "Rust",
-      "stars_today": "522 stars today",
-      "stars_total": "38,051"
+      "stars_today": "525 stars today",
+      "stars_total": "38,286"
     },
     {
       "name": "DietrichGebert/ponytail",
@@ -154,7 +154,7 @@
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
       "language": "JavaScript",
       "stars_today": "1,598 stars today",
-      "stars_total": "111,962"
+      "stars_total": "112,834"
     }
   ],
   "posts": [
@@ -236,10 +236,10 @@
     }
   ],
   "image_paths": [
-    "assets/2026-08-26/trending/summary.png",
-    "assets/2026-08-26/trending/post1.png",
-    "assets/2026-08-26/trending/post2.png",
-    "assets/2026-08-26/trending/post3.png",
-    "assets/2026-08-26/trending/post4.png"
+    "assets/2026-08-27/trending/summary.png",
+    "assets/2026-08-27/trending/post1.png",
+    "assets/2026-08-27/trending/post2.png",
+    "assets/2026-08-27/trending/post3.png",
+    "assets/2026-08-27/trending/post4.png"
   ]
 }
