@@ -1,6 +1,6 @@
 {
   "date": "2026-08-28",
-  "slot": "早报",
+  "slot": "晚报",
   "all_repos": [
     {
       "name": "bilawalsidhu/gods-eye-view",
@@ -8,79 +8,79 @@
       "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
       "language": "JavaScript",
       "stars_today": "1,984 stars today",
-      "stars_total": "7,805"
+      "stars_total": "8,973"
     },
     {
       "name": "zedeus/nitter",
       "url": "https://github.com/zedeus/nitter",
       "description": "Alternative Twitter front-end",
       "language": "Nim",
-      "stars_today": "63 stars today",
-      "stars_total": "13,846"
+      "stars_today": "71 stars today",
+      "stars_total": "13,968"
     },
     {
       "name": "freestylefly/awesome-gpt-image-2",
       "url": "https://github.com/freestylefly/awesome-gpt-image-2",
       "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
       "language": "JavaScript",
-      "stars_today": "2,093 stars today",
-      "stars_total": "22,955"
+      "stars_today": "2,096 stars today",
+      "stars_total": "23,488"
     },
     {
       "name": "tt-a1i/archify",
       "url": "https://github.com/tt-a1i/archify",
       "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
       "language": "JavaScript",
-      "stars_today": "4,260 stars today",
-      "stars_total": "22,951"
+      "stars_today": "4,239 stars today",
+      "stars_total": "24,505"
     },
     {
       "name": "JetBrains/go-modern-guidelines",
       "url": "https://github.com/JetBrains/go-modern-guidelines",
       "description": "Help AI coding agents write modern Go",
       "language": "Go",
-      "stars_today": "314 stars today",
-      "stars_total": "2,050"
+      "stars_today": "300 stars today",
+      "stars_total": "2,280"
     },
     {
       "name": "anthropics/claude-plugins-official",
       "url": "https://github.com/anthropics/claude-plugins-official",
       "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
       "language": "Python",
-      "stars_today": "290 stars today",
-      "stars_total": "34,664"
+      "stars_today": "292 stars today",
+      "stars_total": "34,765"
     },
     {
       "name": "K-Dense-AI/scientific-agent-skills",
       "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
       "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 175,000+ scientists worldwide. 163 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
       "language": "Python",
-      "stars_today": "494 stars today",
-      "stars_total": "35,277"
+      "stars_today": "498 stars today",
+      "stars_total": "35,494"
     },
     {
       "name": "DietrichGebert/ponytail",
       "url": "https://github.com/DietrichGebert/ponytail",
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
       "language": "JavaScript",
-      "stars_today": "1,610 stars today",
-      "stars_total": "113,968"
+      "stars_today": "1,613 stars today",
+      "stars_total": "114,389"
     },
     {
       "name": "calesthio/OpenMontage",
       "url": "https://github.com/calesthio/OpenMontage",
       "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
       "language": "Python",
-      "stars_today": "1,284 stars today",
-      "stars_total": "52,297"
+      "stars_today": "1,292 stars today",
+      "stars_total": "52,641"
     },
     {
       "name": "rohitg00/ai-engineering-from-scratch",
       "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
       "description": "Learn it. Build it. Ship it for others.",
       "language": "Python",
-      "stars_today": "547 stars today",
-      "stars_total": "50,134"
+      "stars_today": "552 stars today",
+      "stars_total": "50,313"
     }
   ],
   "ai_repos": [
@@ -89,64 +89,64 @@
       "url": "https://github.com/freestylefly/awesome-gpt-image-2",
       "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
       "language": "JavaScript",
-      "stars_today": "2,093 stars today",
-      "stars_total": "22,955"
+      "stars_today": "2,096 stars today",
+      "stars_total": "23,488"
     },
     {
       "name": "tt-a1i/archify",
       "url": "https://github.com/tt-a1i/archify",
       "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
       "language": "JavaScript",
-      "stars_today": "4,260 stars today",
-      "stars_total": "22,951"
+      "stars_today": "4,239 stars today",
+      "stars_total": "24,505"
     },
     {
       "name": "JetBrains/go-modern-guidelines",
       "url": "https://github.com/JetBrains/go-modern-guidelines",
       "description": "Help AI coding agents write modern Go",
       "language": "Go",
-      "stars_today": "314 stars today",
-      "stars_total": "2,050"
+      "stars_today": "300 stars today",
+      "stars_total": "2,280"
     },
     {
       "name": "anthropics/claude-plugins-official",
       "url": "https://github.com/anthropics/claude-plugins-official",
       "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
       "language": "Python",
-      "stars_today": "290 stars today",
-      "stars_total": "34,664"
+      "stars_today": "292 stars today",
+      "stars_total": "34,765"
     },
     {
       "name": "K-Dense-AI/scientific-agent-skills",
       "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
       "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 175,000+ scientists worldwide. 163 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
       "language": "Python",
-      "stars_today": "494 stars today",
-      "stars_total": "35,277"
+      "stars_today": "498 stars today",
+      "stars_total": "35,494"
     },
     {
       "name": "DietrichGebert/ponytail",
       "url": "https://github.com/DietrichGebert/ponytail",
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
       "language": "JavaScript",
-      "stars_today": "1,610 stars today",
-      "stars_total": "113,968"
+      "stars_today": "1,613 stars today",
+      "stars_total": "114,389"
     },
     {
       "name": "calesthio/OpenMontage",
       "url": "https://github.com/calesthio/OpenMontage",
       "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
       "language": "Python",
-      "stars_today": "1,284 stars today",
-      "stars_total": "52,297"
+      "stars_today": "1,292 stars today",
+      "stars_total": "52,641"
     },
     {
       "name": "rohitg00/ai-engineering-from-scratch",
       "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
       "description": "Learn it. Build it. Ship it for others.",
       "language": "Python",
-      "stars_today": "547 stars today",
-      "stars_total": "50,134"
+      "stars_today": "552 stars today",
+      "stars_total": "50,313"
     }
   ],
   "posts": [
