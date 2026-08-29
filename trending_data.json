@@ -7,8 +7,8 @@
       "url": "https://github.com/tt-a1i/archify",
       "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
       "language": "JavaScript",
-      "stars_today": "4,561 stars today",
-      "stars_total": "27,178"
+      "stars_today": "4,562 stars today",
+      "stars_total": "27,941"
     },
     {
       "name": "K-Dense-AI/scientific-agent-skills",
@@ -16,7 +16,7 @@
       "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 175,000+ scientists worldwide. 163 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
       "language": "Python",
       "stars_today": "720 stars today",
-      "stars_total": "36,511"
+      "stars_total": "36,784"
     },
     {
       "name": "anthropics/claude-plugins-official",
@@ -24,23 +24,23 @@
       "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
       "language": "Python",
       "stars_today": "457 stars today",
-      "stars_total": "35,003"
+      "stars_total": "35,082"
     },
     {
       "name": "bilawalsidhu/gods-eye-view",
       "url": "https://github.com/bilawalsidhu/gods-eye-view",
       "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
       "language": "JavaScript",
-      "stars_today": "3,398 stars today",
-      "stars_total": "10,971"
+      "stars_today": "3,829 stars today",
+      "stars_total": "11,247"
     },
     {
       "name": "abhigyanpatwari/GitNexus",
       "url": "https://github.com/abhigyanpatwari/GitNexus",
       "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a git repository (Github, Gitlab, Azure, Local) or ZIP file, and get an interactive knowledge graph with a built in Graph RAG Agent. Perfect for code exploration",
       "language": "TypeScript",
-      "stars_today": "189 stars today",
-      "stars_total": "46,146"
+      "stars_today": "202 stars today",
+      "stars_total": "46,189"
     },
     {
       "name": "JetBrains/go-modern-guidelines",
@@ -48,7 +48,7 @@
       "description": "Help AI coding agents write modern Go",
       "language": "Go",
       "stars_today": "574 stars today",
-      "stars_total": "2,573"
+      "stars_total": "2,636"
     },
     {
       "name": "calesthio/OpenMontage",
@@ -56,23 +56,23 @@
       "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
       "language": "Python",
       "stars_today": "1,144 stars today",
-      "stars_total": "53,257"
+      "stars_total": "53,408"
     },
     {
       "name": "abi/screenshot-to-code",
       "url": "https://github.com/abi/screenshot-to-code",
       "description": "Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)",
       "language": "Python",
-      "stars_today": "309 stars today",
-      "stars_total": "75,522"
+      "stars_today": "326 stars today",
+      "stars_total": "75,630"
     },
     {
       "name": "cursor/plugins",
       "url": "https://github.com/cursor/plugins",
       "description": "Cursor plugin specification and official plugins",
       "language": "TypeScript",
-      "stars_today": "257 stars today",
-      "stars_total": "5,938"
+      "stars_today": "246 stars today",
+      "stars_total": "5,994"
     },
     {
       "name": "freestylefly/awesome-gpt-image-2",
@@ -80,7 +80,7 @@
       "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
       "language": "JavaScript",
       "stars_today": "1,687 stars today",
-      "stars_total": "24,212"
+      "stars_total": "24,378"
     }
   ],
   "ai_repos": [
@@ -89,8 +89,8 @@
       "url": "https://github.com/tt-a1i/archify",
       "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
       "language": "JavaScript",
-      "stars_today": "4,561 stars today",
-      "stars_total": "27,178"
+      "stars_today": "4,562 stars today",
+      "stars_total": "27,941"
     },
     {
       "name": "K-Dense-AI/scientific-agent-skills",
@@ -98,7 +98,7 @@
       "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 175,000+ scientists worldwide. 163 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
       "language": "Python",
       "stars_today": "720 stars today",
-      "stars_total": "36,511"
+      "stars_total": "36,784"
     },
     {
       "name": "anthropics/claude-plugins-official",
@@ -106,15 +106,15 @@
       "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
       "language": "Python",
       "stars_today": "457 stars today",
-      "stars_total": "35,003"
+      "stars_total": "35,082"
     },
     {
       "name": "abhigyanpatwari/GitNexus",
       "url": "https://github.com/abhigyanpatwari/GitNexus",
       "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a git repository (Github, Gitlab, Azure, Local) or ZIP file, and get an interactive knowledge graph with a built in Graph RAG Agent. Perfect for code exploration",
       "language": "TypeScript",
-      "stars_today": "189 stars today",
-      "stars_total": "46,146"
+      "stars_today": "202 stars today",
+      "stars_total": "46,189"
     },
     {
       "name": "JetBrains/go-modern-guidelines",
@@ -122,7 +122,7 @@
       "description": "Help AI coding agents write modern Go",
       "language": "Go",
       "stars_today": "574 stars today",
-      "stars_total": "2,573"
+      "stars_total": "2,636"
     },
     {
       "name": "calesthio/OpenMontage",
@@ -130,15 +130,15 @@
       "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
       "language": "Python",
       "stars_today": "1,144 stars today",
-      "stars_total": "53,257"
+      "stars_total": "53,408"
     },
     {
       "name": "abi/screenshot-to-code",
       "url": "https://github.com/abi/screenshot-to-code",
       "description": "Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)",
       "language": "Python",
-      "stars_today": "309 stars today",
-      "stars_total": "75,522"
+      "stars_today": "326 stars today",
+      "stars_total": "75,630"
     },
     {
       "name": "freestylefly/awesome-gpt-image-2",
@@ -146,7 +146,7 @@
       "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
       "language": "JavaScript",
       "stars_today": "1,687 stars today",
-      "stars_total": "24,212"
+      "stars_total": "24,378"
     }
   ],
   "posts": [
