@@ -1,46 +1,38 @@
 {
-  "date": "2026-08-30",
+  "date": "2026-08-31",
   "slot": "早报",
   "all_repos": [
-    {
-      "name": "tt-a1i/archify",
-      "url": "https://github.com/tt-a1i/archify",
-      "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
-      "language": "JavaScript",
-      "stars_today": "3,902 stars today",
-      "stars_total": "31,112"
-    },
-    {
-      "name": "bilawalsidhu/gods-eye-view",
-      "url": "https://github.com/bilawalsidhu/gods-eye-view",
-      "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
-      "language": "JavaScript",
-      "stars_today": "1,855 stars today",
-      "stars_total": "12,645"
-    },
-    {
-      "name": "K-Dense-AI/scientific-agent-skills",
-      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
-      "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
-      "language": "Python",
-      "stars_today": "1,587 stars today",
-      "stars_total": "37,955"
-    },
-    {
-      "name": "tailscale/tailcat",
-      "url": "https://github.com/tailscale/tailcat",
-      "description": "like netcat, but over Tailscale's data plane, without Tailscale's control plane",
-      "language": "Go",
-      "stars_today": "789 stars today",
-      "stars_total": "3,503"
-    },
     {
       "name": "THU-MAIC/OpenMAIC",
       "url": "https://github.com/THU-MAIC/OpenMAIC",
       "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
       "language": "TypeScript",
       "stars_today": "907 stars today",
-      "stars_total": "22,264"
+      "stars_total": "23,494"
+    },
+    {
+      "name": "K-Dense-AI/scientific-agent-skills",
+      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+      "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+      "language": "Python",
+      "stars_today": "1,113 stars today",
+      "stars_total": "38,809"
+    },
+    {
+      "name": "Lakr233/vphone-cli",
+      "url": "https://github.com/Lakr233/vphone-cli",
+      "description": "",
+      "language": "Swift",
+      "stars_today": "341 stars today",
+      "stars_total": "9,476"
+    },
+    {
+      "name": "tt-a1i/archify",
+      "url": "https://github.com/tt-a1i/archify",
+      "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
+      "language": "JavaScript",
+      "stars_today": "3,730 stars today",
+      "stars_total": "33,746"
     },
     {
       "name": "p-e-w/heretic",
@@ -48,106 +40,114 @@
       "description": "Fully automatic censorship removal for language models",
       "language": "Python",
       "stars_today": "150 stars today",
-      "stars_total": "28,702"
+      "stars_total": "29,020"
     },
     {
-      "name": "bigskysoftware/htmx",
-      "url": "https://github.com/bigskysoftware/htmx",
-      "description": "</> htmx - high power tools for HTML",
-      "language": "JavaScript",
-      "stars_today": "32 stars today",
-      "stars_total": "49,120"
+      "name": "unclecode/crawl4ai",
+      "url": "https://github.com/unclecode/crawl4ai",
+      "description": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here:https://discord.gg/jP8KfhDhyN",
+      "language": "Python",
+      "stars_today": "229 stars today",
+      "stars_total": "80,106"
     },
     {
-      "name": "JetBrains/go-modern-guidelines",
-      "url": "https://github.com/JetBrains/go-modern-guidelines",
-      "description": "Help AI coding agents write modern Go",
+      "name": "mvanhorn/last30days-skill",
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "language": "Python",
+      "stars_today": "271 stars today",
+      "stars_total": "60,400"
+    },
+    {
+      "name": "majd/ipatool",
+      "url": "https://github.com/majd/ipatool",
+      "description": "Command-line tool that allows searching and downloading app packages (known as ipa files) for iOS, iPadOS, tvOS, and visionOS from the App Store.",
       "language": "Go",
-      "stars_today": "303 stars today",
-      "stars_total": "2,872"
+      "stars_today": "56 stars today",
+      "stars_total": "10,103"
     },
     {
-      "name": "ComposioHQ/awesome-claude-skills",
-      "url": "https://github.com/ComposioHQ/awesome-claude-skills",
-      "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
-      "language": "Python",
-      "stars_today": "73 stars today",
-      "stars_total": "73,926"
+      "name": "punkpeye/awesome-mcp-servers",
+      "url": "https://github.com/punkpeye/awesome-mcp-servers",
+      "description": "A collection of MCP servers.",
+      "language": "",
+      "stars_today": "65 stars today",
+      "stars_total": "93,204"
     },
     {
-      "name": "calesthio/OpenMontage",
-      "url": "https://github.com/calesthio/OpenMontage",
-      "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
-      "language": "Python",
-      "stars_today": "806 stars today",
-      "stars_total": "54,077"
+      "name": "checkstyle/checkstyle",
+      "url": "https://github.com/checkstyle/checkstyle",
+      "description": "Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard. By default it supports the Google Java Style Guide and Sun Code Conventions, but is highly configurable. It can be invoked with an ANT task and a command line program.",
+      "language": "Java",
+      "stars_today": "78 stars today",
+      "stars_total": "9,149"
     }
   ],
   "ai_repos": [
-    {
-      "name": "tt-a1i/archify",
-      "url": "https://github.com/tt-a1i/archify",
-      "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
-      "language": "JavaScript",
-      "stars_today": "3,902 stars today",
-      "stars_total": "31,112"
-    },
-    {
-      "name": "K-Dense-AI/scientific-agent-skills",
-      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
-      "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
-      "language": "Python",
-      "stars_today": "1,587 stars today",
-      "stars_total": "37,955"
-    },
-    {
-      "name": "tailscale/tailcat",
-      "url": "https://github.com/tailscale/tailcat",
-      "description": "like netcat, but over Tailscale's data plane, without Tailscale's control plane",
-      "language": "Go",
-      "stars_today": "789 stars today",
-      "stars_total": "3,503"
-    },
     {
       "name": "THU-MAIC/OpenMAIC",
       "url": "https://github.com/THU-MAIC/OpenMAIC",
       "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
       "language": "TypeScript",
       "stars_today": "907 stars today",
-      "stars_total": "22,264"
+      "stars_total": "23,494"
     },
     {
-      "name": "JetBrains/go-modern-guidelines",
-      "url": "https://github.com/JetBrains/go-modern-guidelines",
-      "description": "Help AI coding agents write modern Go",
+      "name": "K-Dense-AI/scientific-agent-skills",
+      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+      "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+      "language": "Python",
+      "stars_today": "1,113 stars today",
+      "stars_total": "38,809"
+    },
+    {
+      "name": "tt-a1i/archify",
+      "url": "https://github.com/tt-a1i/archify",
+      "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
+      "language": "JavaScript",
+      "stars_today": "3,730 stars today",
+      "stars_total": "33,746"
+    },
+    {
+      "name": "unclecode/crawl4ai",
+      "url": "https://github.com/unclecode/crawl4ai",
+      "description": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here:https://discord.gg/jP8KfhDhyN",
+      "language": "Python",
+      "stars_today": "229 stars today",
+      "stars_total": "80,106"
+    },
+    {
+      "name": "mvanhorn/last30days-skill",
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "language": "Python",
+      "stars_today": "271 stars today",
+      "stars_total": "60,400"
+    },
+    {
+      "name": "majd/ipatool",
+      "url": "https://github.com/majd/ipatool",
+      "description": "Command-line tool that allows searching and downloading app packages (known as ipa files) for iOS, iPadOS, tvOS, and visionOS from the App Store.",
       "language": "Go",
-      "stars_today": "303 stars today",
-      "stars_total": "2,872"
+      "stars_today": "56 stars today",
+      "stars_total": "10,103"
     },
     {
-      "name": "ComposioHQ/awesome-claude-skills",
-      "url": "https://github.com/ComposioHQ/awesome-claude-skills",
-      "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
-      "language": "Python",
-      "stars_today": "73 stars today",
-      "stars_total": "73,926"
-    },
-    {
-      "name": "calesthio/OpenMontage",
-      "url": "https://github.com/calesthio/OpenMontage",
-      "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
-      "language": "Python",
-      "stars_today": "806 stars today",
-      "stars_total": "54,077"
+      "name": "punkpeye/awesome-mcp-servers",
+      "url": "https://github.com/punkpeye/awesome-mcp-servers",
+      "description": "A collection of MCP servers.",
+      "language": "",
+      "stars_today": "65 stars today",
+      "stars_total": "93,204"
     }
   ],
   "posts": [
     {
-      "topic": "archify",
-      "repo": "tt-a1i/archify",
-      "cover_line1": "archify",
+      "topic": "OpenMAIC",
+      "repo": "THU-MAIC/OpenMAIC",
+      "cover_line1": "OpenMAIC",
       "cover_line2": "今日 GitHub 热榜！",
-      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**tt-a1i/archify**\n\n📌 Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.\n\n🔗 https://github.com/tt-a1i/archify\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**THU-MAIC/OpenMAIC**\n\n📌 Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click\n\n🔗 https://github.com/THU-MAIC/OpenMAIC\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "GitHub",
@@ -181,11 +181,11 @@
       ]
     },
     {
-      "topic": "tailcat",
-      "repo": "tailscale/tailcat",
-      "cover_line1": "tailcat",
+      "topic": "archify",
+      "repo": "tt-a1i/archify",
+      "cover_line1": "archify",
       "cover_line2": "今日 GitHub 热榜！",
-      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**tailscale/tailcat**\n\n📌 like netcat, but over Tailscale's data plane, without Tailscale's control plane\n\n🔗 https://github.com/tailscale/tailcat\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**tt-a1i/archify**\n\n📌 Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.\n\n🔗 https://github.com/tt-a1i/archify\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "GitHub",
@@ -200,11 +200,11 @@
       ]
     },
     {
-      "topic": "OpenMAIC",
-      "repo": "THU-MAIC/OpenMAIC",
-      "cover_line1": "OpenMAIC",
+      "topic": "crawl4ai",
+      "repo": "unclecode/crawl4ai",
+      "cover_line1": "crawl4ai",
       "cover_line2": "今日 GitHub 热榜！",
-      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**THU-MAIC/OpenMAIC**\n\n📌 Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click\n\n🔗 https://github.com/THU-MAIC/OpenMAIC\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**unclecode/crawl4ai**\n\n📌 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here:https://discord.gg/jP8KfhDhyN\n\n🔗 https://github.com/unclecode/crawl4ai\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "GitHub",
@@ -220,10 +220,10 @@
     }
   ],
   "image_paths": [
-    "assets/2026-08-30/trending/summary.png",
-    "assets/2026-08-30/trending/post1.png",
-    "assets/2026-08-30/trending/post2.png",
-    "assets/2026-08-30/trending/post3.png",
-    "assets/2026-08-30/trending/post4.png"
+    "assets/2026-08-31/trending/summary.png",
+    "assets/2026-08-31/trending/post1.png",
+    "assets/2026-08-31/trending/post2.png",
+    "assets/2026-08-31/trending/post3.png",
+    "assets/2026-08-31/trending/post4.png"
   ]
 }
