@@ -1,11 +1,11 @@
 {
-  "date": "2026-08-29",
+  "date": "2026-08-30",
   "posts": [
     {
-      "topic": "I accidentally turne",
-      "cover_line1": "I accident",
+      "topic": "Lawmakers added $1 t",
+      "cover_line1": "Lawmakers ",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**I accidentally turned LLM memory into program analysis**\n\n📌 来源：HackerNews\n🔗 https://pwning.systems/posts/llm-memory-program-analysis/\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Lawmakers added $1 to car insurance policies. That money paid for Flock cameras**\n\n📌 来源：HackerNews\n🔗 https://www.texastribune.org/2026/08/28/texas-flock-cameras-auto-insurance-fee-mvcpa-grants/\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -20,10 +20,10 @@
       ]
     },
     {
-      "topic": "U.S. sanctions again",
-      "cover_line1": "U.S. sanct",
+      "topic": "Domain-Driven Agents",
+      "cover_line1": "Domain-Dri",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**U.S. sanctions against the A/I Collective**\n\n📌 来源：HackerNews\n🔗 https://www.inventati.org/\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Domain-Driven Agents**\n\n📌 来源：HackerNews\n🔗 https://coldtake.dev/blog/domain-driven-agents\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -38,10 +38,10 @@
       ]
     },
     {
-      "topic": "StemDeck, a free, op",
-      "cover_line1": "StemDeck, ",
+      "topic": "Defrag98: Windows 98",
+      "cover_line1": "Defrag98: ",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**StemDeck, a free, open-source and local AI stem separator**\n\n📌 来源：HackerNews\n🔗 https://github.com/stemdeckapp/stemdeck\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Defrag98: Windows 98 Disk Defragmenter Simulator Online**\n\n📌 来源：HackerNews\n🔗 https://defrag98.com\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -56,10 +56,10 @@
       ]
     },
     {
-      "topic": "Identifying fake cos",
-      "cover_line1": "Identifyin",
+      "topic": "Good Culture Is the ",
+      "cover_line1": "Good Cultu",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Identifying fake cosmetics using AI**\n\n📌 来源：HackerNews\n🔗 https://groverlab.org/hnbfpr/2026-08-26-ai-counterfeit-cosmetics.html\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Good Culture Is the Biggest Productivity Hack, Not AI**\n\n📌 来源：HackerNews\n🔗 https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -75,15 +75,15 @@
     }
   ],
   "image_paths": [
-    "assets/2026-08-29/cover1.png",
-    "assets/2026-08-29/cover2.png",
-    "assets/2026-08-29/cover3.png",
-    "assets/2026-08-29/cover4.png"
+    "assets/2026-08-30/cover1.png",
+    "assets/2026-08-30/cover2.png",
+    "assets/2026-08-30/cover3.png",
+    "assets/2026-08-30/cover4.png"
   ],
   "feishu_image_paths": [
-    "assets/2026-08-29/cover1_feishu.png",
-    "assets/2026-08-29/cover2_feishu.png",
-    "assets/2026-08-29/cover3_feishu.png",
-    "assets/2026-08-29/cover4_feishu.png"
+    "assets/2026-08-30/cover1_feishu.png",
+    "assets/2026-08-30/cover2_feishu.png",
+    "assets/2026-08-30/cover3_feishu.png",
+    "assets/2026-08-30/cover4_feishu.png"
   ]
 }
