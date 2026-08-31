@@ -1,5 +1,5 @@
 {
-  "date": "2026-08-31",
+  "date": "2026-09-01",
   "slot": "早报",
   "all_repos": [
     {
@@ -7,80 +7,80 @@
       "url": "https://github.com/THU-MAIC/OpenMAIC",
       "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
       "language": "TypeScript",
-      "stars_today": "1,370 stars today",
-      "stars_total": "24,032"
-    },
-    {
-      "name": "K-Dense-AI/scientific-agent-skills",
-      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
-      "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
-      "language": "Python",
-      "stars_today": "1,114 stars today",
-      "stars_total": "39,254"
-    },
-    {
-      "name": "Lakr233/vphone-cli",
-      "url": "https://github.com/Lakr233/vphone-cli",
-      "description": "",
-      "language": "Swift",
-      "stars_today": "361 stars today",
-      "stars_total": "9,613"
+      "stars_today": "2,819 stars today",
+      "stars_total": "26,642"
     },
     {
       "name": "tt-a1i/archify",
       "url": "https://github.com/tt-a1i/archify",
       "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
       "language": "JavaScript",
-      "stars_today": "3,722 stars today",
-      "stars_total": "34,608"
+      "stars_today": "3,993 stars today",
+      "stars_total": "38,120"
     },
     {
-      "name": "p-e-w/heretic",
-      "url": "https://github.com/p-e-w/heretic",
-      "description": "Fully automatic censorship removal for language models",
+      "name": "K-Dense-AI/scientific-agent-skills",
+      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+      "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
       "language": "Python",
-      "stars_today": "369 stars today",
-      "stars_total": "29,174"
+      "stars_today": "1,968 stars today",
+      "stars_total": "40,598"
     },
     {
-      "name": "unclecode/crawl4ai",
-      "url": "https://github.com/unclecode/crawl4ai",
-      "description": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here:https://discord.gg/jP8KfhDhyN",
-      "language": "Python",
-      "stars_today": "221 stars today",
-      "stars_total": "80,232"
-    },
-    {
-      "name": "mvanhorn/last30days-skill",
-      "url": "https://github.com/mvanhorn/last30days-skill",
-      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
-      "language": "Python",
-      "stars_today": "230 stars today",
-      "stars_total": "60,504"
+      "name": "k1tbyte/Wand-Enhancer",
+      "url": "https://github.com/k1tbyte/Wand-Enhancer",
+      "description": "Advanced UX and interoperability extension for Wand (WeMod) app",
+      "language": "C#",
+      "stars_today": "511 stars today",
+      "stars_total": "23,286"
     },
     {
       "name": "majd/ipatool",
       "url": "https://github.com/majd/ipatool",
       "description": "Command-line tool that allows searching and downloading app packages (known as ipa files) for iOS, iPadOS, tvOS, and visionOS from the App Store.",
       "language": "Go",
-      "stars_today": "58 stars today",
-      "stars_total": "10,213"
+      "stars_today": "376 stars today",
+      "stars_total": "10,477"
     },
     {
-      "name": "punkpeye/awesome-mcp-servers",
-      "url": "https://github.com/punkpeye/awesome-mcp-servers",
-      "description": "A collection of MCP servers.",
-      "language": "",
-      "stars_today": "96 stars today",
-      "stars_total": "93,322"
+      "name": "jingyaogong/minimind",
+      "url": "https://github.com/jingyaogong/minimind",
+      "description": "🧠 Train a 64M-parameter LLM from scratch in just 2h!",
+      "language": "Python",
+      "stars_today": "472 stars today",
+      "stars_total": "55,972"
+    },
+    {
+      "name": "Osmantic/ODS",
+      "url": "https://github.com/Osmantic/ODS",
+      "description": "Turn your PC, Mac, or Linux box into an AI server. LLM inference, chat UI, voice, agents, workflows, RAG, and image generation.",
+      "language": "Python",
+      "stars_today": "163 stars today",
+      "stars_total": "5,370"
     },
     {
       "name": "checkstyle/checkstyle",
       "url": "https://github.com/checkstyle/checkstyle",
       "description": "Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard. By default it supports the Google Java Style Guide and Sun Code Conventions, but is highly configurable. It can be invoked with an ANT task and a command line program.",
       "language": "Java",
-      "stars_today": "115 stars today",
-      "stars_total": "9,201"
+      "stars_today": "199 stars today",
+      "stars_total": "9,371"
+    },
+    {
+      "name": "zhaoxuya520/reverse-skill",
+      "url": "https://github.com/zhaoxuya520/reverse-skill",
+      "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端",
+      "language": "PowerShell",
+      "stars_today": "1,439 stars today",
+      "stars_total": "33,005"
+    },
+    {
+      "name": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "language": "JavaScript",
+      "stars_today": "548 stars today",
+      "stars_total": "245,120"
     }
   ],
   "ai_repos": [
@@ -89,56 +89,64 @@
       "url": "https://github.com/THU-MAIC/OpenMAIC",
       "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
       "language": "TypeScript",
-      "stars_today": "1,370 stars today",
-      "stars_total": "24,032"
-    },
-    {
-      "name": "K-Dense-AI/scientific-agent-skills",
-      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
-      "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
-      "language": "Python",
-      "stars_today": "1,114 stars today",
-      "stars_total": "39,254"
+      "stars_today": "2,819 stars today",
+      "stars_total": "26,642"
     },
     {
       "name": "tt-a1i/archify",
       "url": "https://github.com/tt-a1i/archify",
       "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
       "language": "JavaScript",
-      "stars_today": "3,722 stars today",
-      "stars_total": "34,608"
+      "stars_today": "3,993 stars today",
+      "stars_total": "38,120"
     },
     {
-      "name": "unclecode/crawl4ai",
-      "url": "https://github.com/unclecode/crawl4ai",
-      "description": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here:https://discord.gg/jP8KfhDhyN",
+      "name": "K-Dense-AI/scientific-agent-skills",
+      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+      "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
       "language": "Python",
-      "stars_today": "221 stars today",
-      "stars_total": "80,232"
-    },
-    {
-      "name": "mvanhorn/last30days-skill",
-      "url": "https://github.com/mvanhorn/last30days-skill",
-      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
-      "language": "Python",
-      "stars_today": "230 stars today",
-      "stars_total": "60,504"
+      "stars_today": "1,968 stars today",
+      "stars_total": "40,598"
     },
     {
       "name": "majd/ipatool",
       "url": "https://github.com/majd/ipatool",
       "description": "Command-line tool that allows searching and downloading app packages (known as ipa files) for iOS, iPadOS, tvOS, and visionOS from the App Store.",
       "language": "Go",
-      "stars_today": "58 stars today",
-      "stars_total": "10,213"
+      "stars_today": "376 stars today",
+      "stars_total": "10,477"
     },
     {
-      "name": "punkpeye/awesome-mcp-servers",
-      "url": "https://github.com/punkpeye/awesome-mcp-servers",
-      "description": "A collection of MCP servers.",
-      "language": "",
-      "stars_today": "96 stars today",
-      "stars_total": "93,322"
+      "name": "jingyaogong/minimind",
+      "url": "https://github.com/jingyaogong/minimind",
+      "description": "🧠 Train a 64M-parameter LLM from scratch in just 2h!",
+      "language": "Python",
+      "stars_today": "472 stars today",
+      "stars_total": "55,972"
+    },
+    {
+      "name": "Osmantic/ODS",
+      "url": "https://github.com/Osmantic/ODS",
+      "description": "Turn your PC, Mac, or Linux box into an AI server. LLM inference, chat UI, voice, agents, workflows, RAG, and image generation.",
+      "language": "Python",
+      "stars_today": "163 stars today",
+      "stars_total": "5,370"
+    },
+    {
+      "name": "zhaoxuya520/reverse-skill",
+      "url": "https://github.com/zhaoxuya520/reverse-skill",
+      "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端",
+      "language": "PowerShell",
+      "stars_today": "1,439 stars today",
+      "stars_total": "33,005"
+    },
+    {
+      "name": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "language": "JavaScript",
+      "stars_today": "548 stars today",
+      "stars_total": "245,120"
     }
   ],
   "posts": [
@@ -148,25 +156,6 @@
       "cover_line1": "OpenMAIC",
       "cover_line2": "今日 GitHub 热榜！",
       "body": "🔥 GitHub Trending 今日爆款来了！\n\n**THU-MAIC/OpenMAIC**\n\n📌 Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click\n\n🔗 https://github.com/THU-MAIC/OpenMAIC\n\n关注我，每天第一时间 AI 动态 👇",
-      "tags": [
-        "AI",
-        "GitHub",
-        "开源",
-        "热门项目",
-        "大模型",
-        "机器学习",
-        "深度学习",
-        "AI工具",
-        "技术",
-        "炼丹"
-      ]
-    },
-    {
-      "topic": "scientific-agent-ski",
-      "repo": "K-Dense-AI/scientific-agent-skills",
-      "cover_line1": "scientific",
-      "cover_line2": "今日 GitHub 热榜！",
-      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**K-Dense-AI/scientific-agent-skills**\n\n📌 Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.\n\n🔗 https://github.com/K-Dense-AI/scientific-agent-skills\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "GitHub",
@@ -200,11 +189,30 @@
       ]
     },
     {
-      "topic": "crawl4ai",
-      "repo": "unclecode/crawl4ai",
-      "cover_line1": "crawl4ai",
+      "topic": "scientific-agent-ski",
+      "repo": "K-Dense-AI/scientific-agent-skills",
+      "cover_line1": "scientific",
       "cover_line2": "今日 GitHub 热榜！",
-      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**unclecode/crawl4ai**\n\n📌 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here:https://discord.gg/jP8KfhDhyN\n\n🔗 https://github.com/unclecode/crawl4ai\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**K-Dense-AI/scientific-agent-skills**\n\n📌 Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.\n\n🔗 https://github.com/K-Dense-AI/scientific-agent-skills\n\n关注我，每天第一时间 AI 动态 👇",
+      "tags": [
+        "AI",
+        "GitHub",
+        "开源",
+        "热门项目",
+        "大模型",
+        "机器学习",
+        "深度学习",
+        "AI工具",
+        "技术",
+        "炼丹"
+      ]
+    },
+    {
+      "topic": "ipatool",
+      "repo": "majd/ipatool",
+      "cover_line1": "ipatool",
+      "cover_line2": "今日 GitHub 热榜！",
+      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**majd/ipatool**\n\n📌 Command-line tool that allows searching and downloading app packages (known as ipa files) for iOS, iPadOS, tvOS, and visionOS from the App Store.\n\n🔗 https://github.com/majd/ipatool\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "GitHub",
@@ -220,10 +228,10 @@
     }
   ],
   "image_paths": [
-    "assets/2026-08-31/trending/summary.png",
-    "assets/2026-08-31/trending/post1.png",
-    "assets/2026-08-31/trending/post2.png",
-    "assets/2026-08-31/trending/post3.png",
-    "assets/2026-08-31/trending/post4.png"
+    "assets/2026-09-01/trending/summary.png",
+    "assets/2026-09-01/trending/post1.png",
+    "assets/2026-09-01/trending/post2.png",
+    "assets/2026-09-01/trending/post3.png",
+    "assets/2026-09-01/trending/post4.png"
   ]
 }
