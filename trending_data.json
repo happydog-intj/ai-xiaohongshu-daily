@@ -7,80 +7,80 @@
       "url": "https://github.com/THU-MAIC/OpenMAIC",
       "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
       "language": "TypeScript",
-      "stars_today": "907 stars today",
-      "stars_total": "23,494"
+      "stars_today": "1,370 stars today",
+      "stars_total": "24,032"
     },
     {
       "name": "K-Dense-AI/scientific-agent-skills",
       "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
       "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
       "language": "Python",
-      "stars_today": "1,113 stars today",
-      "stars_total": "38,809"
+      "stars_today": "1,114 stars today",
+      "stars_total": "39,254"
     },
     {
       "name": "Lakr233/vphone-cli",
       "url": "https://github.com/Lakr233/vphone-cli",
       "description": "",
       "language": "Swift",
-      "stars_today": "341 stars today",
-      "stars_total": "9,476"
+      "stars_today": "361 stars today",
+      "stars_total": "9,613"
     },
     {
       "name": "tt-a1i/archify",
       "url": "https://github.com/tt-a1i/archify",
       "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
       "language": "JavaScript",
-      "stars_today": "3,730 stars today",
-      "stars_total": "33,746"
+      "stars_today": "3,722 stars today",
+      "stars_total": "34,608"
     },
     {
       "name": "p-e-w/heretic",
       "url": "https://github.com/p-e-w/heretic",
       "description": "Fully automatic censorship removal for language models",
       "language": "Python",
-      "stars_today": "150 stars today",
-      "stars_total": "29,020"
+      "stars_today": "369 stars today",
+      "stars_total": "29,174"
     },
     {
       "name": "unclecode/crawl4ai",
       "url": "https://github.com/unclecode/crawl4ai",
       "description": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here:https://discord.gg/jP8KfhDhyN",
       "language": "Python",
-      "stars_today": "229 stars today",
-      "stars_total": "80,106"
+      "stars_today": "221 stars today",
+      "stars_total": "80,232"
     },
     {
       "name": "mvanhorn/last30days-skill",
       "url": "https://github.com/mvanhorn/last30days-skill",
       "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
       "language": "Python",
-      "stars_today": "271 stars today",
-      "stars_total": "60,400"
+      "stars_today": "230 stars today",
+      "stars_total": "60,504"
     },
     {
       "name": "majd/ipatool",
       "url": "https://github.com/majd/ipatool",
       "description": "Command-line tool that allows searching and downloading app packages (known as ipa files) for iOS, iPadOS, tvOS, and visionOS from the App Store.",
       "language": "Go",
-      "stars_today": "56 stars today",
-      "stars_total": "10,103"
+      "stars_today": "58 stars today",
+      "stars_total": "10,213"
     },
     {
       "name": "punkpeye/awesome-mcp-servers",
       "url": "https://github.com/punkpeye/awesome-mcp-servers",
       "description": "A collection of MCP servers.",
       "language": "",
-      "stars_today": "65 stars today",
-      "stars_total": "93,204"
+      "stars_today": "96 stars today",
+      "stars_total": "93,322"
     },
     {
       "name": "checkstyle/checkstyle",
       "url": "https://github.com/checkstyle/checkstyle",
       "description": "Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard. By default it supports the Google Java Style Guide and Sun Code Conventions, but is highly configurable. It can be invoked with an ANT task and a command line program.",
       "language": "Java",
-      "stars_today": "78 stars today",
-      "stars_total": "9,149"
+      "stars_today": "115 stars today",
+      "stars_total": "9,201"
     }
   ],
   "ai_repos": [
@@ -89,56 +89,56 @@
       "url": "https://github.com/THU-MAIC/OpenMAIC",
       "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
       "language": "TypeScript",
-      "stars_today": "907 stars today",
-      "stars_total": "23,494"
+      "stars_today": "1,370 stars today",
+      "stars_total": "24,032"
     },
     {
       "name": "K-Dense-AI/scientific-agent-skills",
       "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
       "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
       "language": "Python",
-      "stars_today": "1,113 stars today",
-      "stars_total": "38,809"
+      "stars_today": "1,114 stars today",
+      "stars_total": "39,254"
     },
     {
       "name": "tt-a1i/archify",
       "url": "https://github.com/tt-a1i/archify",
       "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
       "language": "JavaScript",
-      "stars_today": "3,730 stars today",
-      "stars_total": "33,746"
+      "stars_today": "3,722 stars today",
+      "stars_total": "34,608"
     },
     {
       "name": "unclecode/crawl4ai",
       "url": "https://github.com/unclecode/crawl4ai",
       "description": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here:https://discord.gg/jP8KfhDhyN",
       "language": "Python",
-      "stars_today": "229 stars today",
-      "stars_total": "80,106"
+      "stars_today": "221 stars today",
+      "stars_total": "80,232"
     },
     {
       "name": "mvanhorn/last30days-skill",
       "url": "https://github.com/mvanhorn/last30days-skill",
       "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
       "language": "Python",
-      "stars_today": "271 stars today",
-      "stars_total": "60,400"
+      "stars_today": "230 stars today",
+      "stars_total": "60,504"
     },
     {
       "name": "majd/ipatool",
       "url": "https://github.com/majd/ipatool",
       "description": "Command-line tool that allows searching and downloading app packages (known as ipa files) for iOS, iPadOS, tvOS, and visionOS from the App Store.",
       "language": "Go",
-      "stars_today": "56 stars today",
-      "stars_total": "10,103"
+      "stars_today": "58 stars today",
+      "stars_total": "10,213"
     },
     {
       "name": "punkpeye/awesome-mcp-servers",
       "url": "https://github.com/punkpeye/awesome-mcp-servers",
       "description": "A collection of MCP servers.",
       "language": "",
-      "stars_today": "65 stars today",
-      "stars_total": "93,204"
+      "stars_today": "96 stars today",
+      "stars_total": "93,322"
     }
   ],
   "posts": [
