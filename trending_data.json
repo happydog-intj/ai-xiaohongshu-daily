@@ -1,145 +1,153 @@
 {
-  "date": "2026-09-02",
+  "date": "2026-09-03",
   "slot": "早报",
   "all_repos": [
     {
-      "name": "Gitlawb/openclaude",
-      "url": "https://github.com/Gitlawb/openclaude",
-      "description": "runs anywhere. uses anything",
+      "name": "fmtlib/fmt",
+      "url": "https://github.com/fmtlib/fmt",
+      "description": "A modern formatting library",
+      "language": "C++",
+      "stars_today": "3 stars today",
+      "stars_total": "24,020"
+    },
+    {
+      "name": "google-research/timesfm",
+      "url": "https://github.com/google-research/timesfm",
+      "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+      "language": "Python",
+      "stars_today": "326 stars today",
+      "stars_total": "29,333"
+    },
+    {
+      "name": "DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "language": "JavaScript",
+      "stars_today": "1,364 stars today",
+      "stars_total": "121,047"
+    },
+    {
+      "name": "debpalash/VoiceStudio",
+      "url": "https://github.com/debpalash/VoiceStudio",
+      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+      "language": "Python",
+      "stars_today": "834 stars today",
+      "stars_total": "14,253"
+    },
+    {
+      "name": "sngyai/Sequoia-X",
+      "url": "https://github.com/sngyai/Sequoia-X",
+      "description": "A股自动选股系统 — 多种技术形态自动扫描，收盘后自动运行并推送飞书",
+      "language": "Python",
+      "stars_today": "138 stars today",
+      "stars_total": "5,995"
+    },
+    {
+      "name": "ChromeDevTools/chrome-devtools-mcp",
+      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+      "description": "Chrome DevTools for coding agents",
       "language": "TypeScript",
-      "stars_today": "80 stars today",
-      "stars_total": "31,286"
+      "stars_today": "140 stars today",
+      "stars_total": "50,555"
     },
     {
-      "name": "Imbad0202/academic-research-skills",
-      "url": "https://github.com/Imbad0202/academic-research-skills",
-      "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
+      "name": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
       "language": "Python",
-      "stars_today": "193 stars today",
-      "stars_total": "44,884"
+      "stars_today": "529 stars today",
+      "stars_total": "239,951"
     },
     {
-      "name": "THU-MAIC/OpenMAIC",
-      "url": "https://github.com/THU-MAIC/OpenMAIC",
-      "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
-      "language": "TypeScript",
-      "stars_today": "3,128 stars today",
-      "stars_total": "29,469"
-    },
-    {
-      "name": "iv-org/invidious",
-      "url": "https://github.com/iv-org/invidious",
-      "description": "Invidious is an alternative front-end to YouTube",
-      "language": "Crystal",
-      "stars_today": "577 stars today",
-      "stars_total": "23,763"
-    },
-    {
-      "name": "jingyaogong/minimind",
-      "url": "https://github.com/jingyaogong/minimind",
-      "description": "🧠 Train a 64M-parameter LLM from scratch in just 2h!",
+      "name": "superlinked/sie",
+      "url": "https://github.com/superlinked/sie",
+      "description": "Open-source inference server and production cluster for all the models your agent needs.",
       "language": "Python",
-      "stars_today": "1,005 stars today",
-      "stars_total": "57,049"
+      "stars_today": "61 stars today",
+      "stars_total": "3,004"
     },
     {
-      "name": "3b1b/manim",
-      "url": "https://github.com/3b1b/manim",
-      "description": "Animation engine for explanatory math videos",
-      "language": "Python",
-      "stars_today": "86 stars today",
-      "stars_total": "92,549"
-    },
-    {
-      "name": "firecrawl/pdf-inspector",
-      "url": "https://github.com/firecrawl/pdf-inspector",
-      "description": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.",
+      "name": "pacifio/atlas",
+      "url": "https://github.com/pacifio/atlas",
+      "description": "Source control for agents. Use multiple coding agents, track their changes and query them in one place",
       "language": "Rust",
-      "stars_today": "541 stars today",
-      "stars_total": "17,920"
+      "stars_today": "895 stars today",
+      "stars_total": "2,730"
     },
     {
-      "name": "browser-use/video-use",
-      "url": "https://github.com/browser-use/video-use",
-      "description": "Edit videos with coding agents",
-      "language": "Python",
-      "stars_today": "472 stars today",
-      "stars_total": "22,929"
-    },
-    {
-      "name": "K-Dense-AI/scientific-agent-skills",
-      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
-      "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
-      "language": "Python",
-      "stars_today": "912 stars today",
-      "stars_total": "41,530"
-    },
-    {
-      "name": "handsomestWei/patent-disclosure-skill",
-      "url": "https://github.com/handsomestWei/patent-disclosure-skill",
-      "description": "中国专利.skill：专利点挖掘与交底书（发明/实用/外观）编写，通俗解读专利，嗅探政策动向，辅助审查答复。",
-      "language": "Python",
-      "stars_today": "501 stars today",
-      "stars_total": "6,689"
+      "name": "zyronon/TypeWords",
+      "url": "https://github.com/zyronon/TypeWords",
+      "description": "Practice English, one strike, one step forward; 练习英语，一次敲击，一点进步；",
+      "language": "Vue",
+      "stars_today": "68 stars today",
+      "stars_total": "9,259"
     }
   ],
   "ai_repos": [
     {
-      "name": "Gitlawb/openclaude",
-      "url": "https://github.com/Gitlawb/openclaude",
-      "description": "runs anywhere. uses anything",
+      "name": "google-research/timesfm",
+      "url": "https://github.com/google-research/timesfm",
+      "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+      "language": "Python",
+      "stars_today": "326 stars today",
+      "stars_total": "29,333"
+    },
+    {
+      "name": "DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "language": "JavaScript",
+      "stars_today": "1,364 stars today",
+      "stars_total": "121,047"
+    },
+    {
+      "name": "sngyai/Sequoia-X",
+      "url": "https://github.com/sngyai/Sequoia-X",
+      "description": "A股自动选股系统 — 多种技术形态自动扫描，收盘后自动运行并推送飞书",
+      "language": "Python",
+      "stars_today": "138 stars today",
+      "stars_total": "5,995"
+    },
+    {
+      "name": "ChromeDevTools/chrome-devtools-mcp",
+      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+      "description": "Chrome DevTools for coding agents",
       "language": "TypeScript",
-      "stars_today": "80 stars today",
-      "stars_total": "31,286"
+      "stars_today": "140 stars today",
+      "stars_total": "50,555"
     },
     {
-      "name": "Imbad0202/academic-research-skills",
-      "url": "https://github.com/Imbad0202/academic-research-skills",
-      "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
+      "name": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
       "language": "Python",
-      "stars_today": "193 stars today",
-      "stars_total": "44,884"
+      "stars_today": "529 stars today",
+      "stars_total": "239,951"
     },
     {
-      "name": "THU-MAIC/OpenMAIC",
-      "url": "https://github.com/THU-MAIC/OpenMAIC",
-      "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
-      "language": "TypeScript",
-      "stars_today": "3,128 stars today",
-      "stars_total": "29,469"
-    },
-    {
-      "name": "jingyaogong/minimind",
-      "url": "https://github.com/jingyaogong/minimind",
-      "description": "🧠 Train a 64M-parameter LLM from scratch in just 2h!",
+      "name": "superlinked/sie",
+      "url": "https://github.com/superlinked/sie",
+      "description": "Open-source inference server and production cluster for all the models your agent needs.",
       "language": "Python",
-      "stars_today": "1,005 stars today",
-      "stars_total": "57,049"
+      "stars_today": "61 stars today",
+      "stars_total": "3,004"
     },
     {
-      "name": "browser-use/video-use",
-      "url": "https://github.com/browser-use/video-use",
-      "description": "Edit videos with coding agents",
-      "language": "Python",
-      "stars_today": "472 stars today",
-      "stars_total": "22,929"
-    },
-    {
-      "name": "K-Dense-AI/scientific-agent-skills",
-      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
-      "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
-      "language": "Python",
-      "stars_today": "912 stars today",
-      "stars_total": "41,530"
+      "name": "pacifio/atlas",
+      "url": "https://github.com/pacifio/atlas",
+      "description": "Source control for agents. Use multiple coding agents, track their changes and query them in one place",
+      "language": "Rust",
+      "stars_today": "895 stars today",
+      "stars_total": "2,730"
     }
   ],
   "posts": [
     {
-      "topic": "openclaude",
-      "repo": "Gitlawb/openclaude",
-      "cover_line1": "openclaude",
+      "topic": "timesfm",
+      "repo": "google-research/timesfm",
+      "cover_line1": "timesfm",
       "cover_line2": "今日 GitHub 热榜！",
-      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**Gitlawb/openclaude**\n\n📌 runs anywhere. uses anything\n\n🔗 https://github.com/Gitlawb/openclaude\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**google-research/timesfm**\n\n📌 TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.\n\n🔗 https://github.com/google-research/timesfm\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "GitHub",
@@ -154,11 +162,11 @@
       ]
     },
     {
-      "topic": "academic-research-sk",
-      "repo": "Imbad0202/academic-research-skills",
-      "cover_line1": "academic-r",
+      "topic": "ponytail",
+      "repo": "DietrichGebert/ponytail",
+      "cover_line1": "ponytail",
       "cover_line2": "今日 GitHub 热榜！",
-      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**Imbad0202/academic-research-skills**\n\n📌 Academic Research Skills for Claude Code: research → write → review → revise → finalize\n\n🔗 https://github.com/Imbad0202/academic-research-skills\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**DietrichGebert/ponytail**\n\n📌 Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.\n\n🔗 https://github.com/DietrichGebert/ponytail\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "GitHub",
@@ -173,11 +181,11 @@
       ]
     },
     {
-      "topic": "OpenMAIC",
-      "repo": "THU-MAIC/OpenMAIC",
-      "cover_line1": "OpenMAIC",
+      "topic": "Sequoia-X",
+      "repo": "sngyai/Sequoia-X",
+      "cover_line1": "Sequoia-X",
       "cover_line2": "今日 GitHub 热榜！",
-      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**THU-MAIC/OpenMAIC**\n\n📌 Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click\n\n🔗 https://github.com/THU-MAIC/OpenMAIC\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**sngyai/Sequoia-X**\n\n📌 A股自动选股系统 — 多种技术形态自动扫描，收盘后自动运行并推送飞书\n\n🔗 https://github.com/sngyai/Sequoia-X\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "GitHub",
@@ -192,11 +200,11 @@
       ]
     },
     {
-      "topic": "minimind",
-      "repo": "jingyaogong/minimind",
-      "cover_line1": "minimind",
+      "topic": "chrome-devtools-mcp",
+      "repo": "ChromeDevTools/chrome-devtools-mcp",
+      "cover_line1": "chrome-dev",
       "cover_line2": "今日 GitHub 热榜！",
-      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**jingyaogong/minimind**\n\n📌 🧠 Train a 64M-parameter LLM from scratch in just 2h!\n\n🔗 https://github.com/jingyaogong/minimind\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**ChromeDevTools/chrome-devtools-mcp**\n\n📌 Chrome DevTools for coding agents\n\n🔗 https://github.com/ChromeDevTools/chrome-devtools-mcp\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "GitHub",
@@ -212,10 +220,10 @@
     }
   ],
   "image_paths": [
-    "assets/2026-09-02/trending/summary.png",
-    "assets/2026-09-02/trending/post1.png",
-    "assets/2026-09-02/trending/post2.png",
-    "assets/2026-09-02/trending/post3.png",
-    "assets/2026-09-02/trending/post4.png"
+    "assets/2026-09-03/trending/summary.png",
+    "assets/2026-09-03/trending/post1.png",
+    "assets/2026-09-03/trending/post2.png",
+    "assets/2026-09-03/trending/post3.png",
+    "assets/2026-09-03/trending/post4.png"
   ]
 }
