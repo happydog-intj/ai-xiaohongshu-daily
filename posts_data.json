@@ -1,11 +1,11 @@
 {
-  "date": "2026-09-01",
+  "date": "2026-09-02",
   "posts": [
     {
-      "topic": "Terence Tao explains",
-      "cover_line1": "Terence Ta",
+      "topic": "Claude Fable 5.1 and",
+      "cover_line1": "Claude Fab",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Terence Tao explains 6 essential mathematical concepts [video]**\n\n📌 来源：HackerNews\n🔗 https://www.youtube.com/watch?v=OOMx2BHHWtE\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Claude Fable 5.1 and Claude Mythos 5.1**\n\n📌 来源：HackerNews\n🔗 https://www.anthropic.com/claude-fable-and-mythos-5-1\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -20,10 +20,10 @@
       ]
     },
     {
-      "topic": "Apple caught off gua",
-      "cover_line1": "Apple caug",
+      "topic": "How accurate have Ed",
+      "cover_line1": "How accura",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Apple caught off guard by AI demand for Mac Mini and Mac Studio**\n\n📌 来源：HackerNews\n🔗 https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**How accurate have Ed Zitron's AI skeptic predictions been?**\n\n📌 来源：HackerNews\n🔗 https://danluu.com/zitron/\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -38,10 +38,10 @@
       ]
     },
     {
-      "topic": "Smartphone LED detec",
-      "cover_line1": "Smartphone",
+      "topic": "Show HN: Weedout – S",
+      "cover_line1": "Show HN: W",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Smartphone LED detects hidden cameras with AI**\n\n📌 来源：HackerNews\n🔗 https://www.chosun.com/english/industry-en/2026/08/30/SBFXUIJQYZEARKP5T4FBAY25HQ/\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Show HN: Weedout – Safari extension that hides YouTube AI-labeled videos**\n\n📌 来源：HackerNews\n🔗 https://masteranza.github.io/weedout/\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -56,10 +56,10 @@
       ]
     },
     {
-      "topic": "ChatGPT Work Tool an",
-      "cover_line1": "ChatGPT Wo",
+      "topic": "The efficient fronti",
+      "cover_line1": "The effici",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**ChatGPT Work Tool and Skill Reference**\n\n📌 来源：HackerNews\n🔗 https://codex-tool-reference.simonw.chatgpt.site/\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**The efficient frontier of LLM inference**\n\n📌 来源：HackerNews\n🔗 https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -75,15 +75,15 @@
     }
   ],
   "image_paths": [
-    "assets/2026-09-01/cover1.png",
-    "assets/2026-09-01/cover2.png",
-    "assets/2026-09-01/cover3.png",
-    "assets/2026-09-01/cover4.png"
+    "assets/2026-09-02/cover1.png",
+    "assets/2026-09-02/cover2.png",
+    "assets/2026-09-02/cover3.png",
+    "assets/2026-09-02/cover4.png"
   ],
   "feishu_image_paths": [
-    "assets/2026-09-01/cover1_feishu.png",
-    "assets/2026-09-01/cover2_feishu.png",
-    "assets/2026-09-01/cover3_feishu.png",
-    "assets/2026-09-01/cover4_feishu.png"
+    "assets/2026-09-02/cover1_feishu.png",
+    "assets/2026-09-02/cover2_feishu.png",
+    "assets/2026-09-02/cover3_feishu.png",
+    "assets/2026-09-02/cover4_feishu.png"
   ]
 }
