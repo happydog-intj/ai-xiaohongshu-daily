@@ -1,5 +1,5 @@
 {
-  "date": "2026-09-03",
+  "date": "2026-09-04",
   "slot": "早报",
   "all_repos": [
     {
@@ -7,147 +7,174 @@
       "url": "https://github.com/fmtlib/fmt",
       "description": "A modern formatting library",
       "language": "C++",
-      "stars_today": "14 stars today",
-      "stars_total": "24,255"
+      "stars_today": "955 stars today",
+      "stars_total": "24,887"
     },
     {
-      "name": "google-research/timesfm",
-      "url": "https://github.com/google-research/timesfm",
-      "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
-      "language": "Python",
-      "stars_today": "343 stars today",
-      "stars_total": "29,783"
-    },
-    {
-      "name": "DietrichGebert/ponytail",
-      "url": "https://github.com/DietrichGebert/ponytail",
-      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "language": "JavaScript",
-      "stars_today": "1,354 stars today",
-      "stars_total": "121,544"
-    },
-    {
-      "name": "debpalash/VoiceStudio",
-      "url": "https://github.com/debpalash/VoiceStudio",
-      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
-      "language": "Python",
-      "stars_today": "832 stars today",
-      "stars_total": "14,716"
-    },
-    {
-      "name": "sngyai/Sequoia-X",
-      "url": "https://github.com/sngyai/Sequoia-X",
-      "description": "A股自动选股系统 — 多种技术形态自动扫描，收盘后自动运行并推送飞书",
-      "language": "Python",
-      "stars_today": "63 stars today",
-      "stars_total": "6,050"
-    },
-    {
-      "name": "ChromeDevTools/chrome-devtools-mcp",
-      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
-      "description": "Chrome DevTools for coding agents",
-      "language": "TypeScript",
-      "stars_today": "148 stars today",
-      "stars_total": "50,633"
+      "name": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "language": "Shell",
+      "stars_today": "1,576 stars today",
+      "stars_total": "246,730"
     },
     {
       "name": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
       "description": "The agent that grows with you",
       "language": "Python",
-      "stars_today": "533 stars today",
-      "stars_total": "240,125"
+      "stars_today": "778 stars today",
+      "stars_total": "240,659"
     },
     {
-      "name": "superlinked/sie",
-      "url": "https://github.com/superlinked/sie",
-      "description": "Open-source inference server and production cluster for all the models your agent needs.",
+      "name": "DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "language": "JavaScript",
+      "stars_today": "2,138 stars today",
+      "stars_total": "123,068"
+    },
+    {
+      "name": "anthropics/skills",
+      "url": "https://github.com/anthropics/skills",
+      "description": "Public repository for Agent Skills",
       "language": "Python",
-      "stars_today": "60 stars today",
-      "stars_total": "3,060"
+      "stars_today": "277 stars today",
+      "stars_total": "173,518"
     },
     {
-      "name": "pacifio/atlas",
-      "url": "https://github.com/pacifio/atlas",
-      "description": "Source control for agents. Use multiple coding agents, track their changes and query them in one place",
-      "language": "Rust",
-      "stars_today": "888 stars today",
-      "stars_total": "2,884"
+      "name": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "language": "JavaScript",
+      "stars_today": "749 stars today",
+      "stars_total": "246,883"
     },
     {
-      "name": "zyronon/TypeWords",
-      "url": "https://github.com/zyronon/TypeWords",
-      "description": "Practice English, one strike, one step forward; 练习英语，一次敲击，一点进步；",
-      "language": "Vue",
-      "stars_today": "21 stars today",
-      "stars_total": "9,305"
+      "name": "JuliusBrussee/caveman",
+      "url": "https://github.com/JuliusBrussee/caveman",
+      "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
+      "language": "Go",
+      "stars_today": "545 stars today",
+      "stars_total": "102,976"
+    },
+    {
+      "name": "blader/humanizer",
+      "url": "https://github.com/blader/humanizer",
+      "description": "Agent skill that removes signs of AI-generated writing from text",
+      "language": "Python",
+      "stars_today": "1,214 stars today",
+      "stars_total": "41,244"
+    },
+    {
+      "name": "google-research/timesfm",
+      "url": "https://github.com/google-research/timesfm",
+      "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+      "language": "Python",
+      "stars_today": "1,626 stars today",
+      "stars_total": "30,608"
+    },
+    {
+      "name": "averygan/reclip",
+      "url": "https://github.com/averygan/reclip",
+      "description": "Download videos from almost any website. Lightweight, self-hosted media downloader with a clean web UI.",
+      "language": "HTML",
+      "stars_today": "123 stars today",
+      "stars_total": "8,253"
     }
   ],
   "ai_repos": [
     {
-      "name": "google-research/timesfm",
-      "url": "https://github.com/google-research/timesfm",
-      "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
-      "language": "Python",
-      "stars_today": "343 stars today",
-      "stars_total": "29,783"
-    },
-    {
-      "name": "DietrichGebert/ponytail",
-      "url": "https://github.com/DietrichGebert/ponytail",
-      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "language": "JavaScript",
-      "stars_today": "1,354 stars today",
-      "stars_total": "121,544"
-    },
-    {
-      "name": "sngyai/Sequoia-X",
-      "url": "https://github.com/sngyai/Sequoia-X",
-      "description": "A股自动选股系统 — 多种技术形态自动扫描，收盘后自动运行并推送飞书",
-      "language": "Python",
-      "stars_today": "63 stars today",
-      "stars_total": "6,050"
-    },
-    {
-      "name": "ChromeDevTools/chrome-devtools-mcp",
-      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
-      "description": "Chrome DevTools for coding agents",
-      "language": "TypeScript",
-      "stars_today": "148 stars today",
-      "stars_total": "50,633"
+      "name": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "language": "Shell",
+      "stars_today": "1,576 stars today",
+      "stars_total": "246,730"
     },
     {
       "name": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
       "description": "The agent that grows with you",
       "language": "Python",
-      "stars_today": "533 stars today",
-      "stars_total": "240,125"
+      "stars_today": "778 stars today",
+      "stars_total": "240,659"
     },
     {
-      "name": "superlinked/sie",
-      "url": "https://github.com/superlinked/sie",
-      "description": "Open-source inference server and production cluster for all the models your agent needs.",
+      "name": "DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "language": "JavaScript",
+      "stars_today": "2,138 stars today",
+      "stars_total": "123,068"
+    },
+    {
+      "name": "anthropics/skills",
+      "url": "https://github.com/anthropics/skills",
+      "description": "Public repository for Agent Skills",
       "language": "Python",
-      "stars_today": "60 stars today",
-      "stars_total": "3,060"
+      "stars_today": "277 stars today",
+      "stars_total": "173,518"
     },
     {
-      "name": "pacifio/atlas",
-      "url": "https://github.com/pacifio/atlas",
-      "description": "Source control for agents. Use multiple coding agents, track their changes and query them in one place",
-      "language": "Rust",
-      "stars_today": "888 stars today",
-      "stars_total": "2,884"
+      "name": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "language": "JavaScript",
+      "stars_today": "749 stars today",
+      "stars_total": "246,883"
+    },
+    {
+      "name": "JuliusBrussee/caveman",
+      "url": "https://github.com/JuliusBrussee/caveman",
+      "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
+      "language": "Go",
+      "stars_today": "545 stars today",
+      "stars_total": "102,976"
+    },
+    {
+      "name": "blader/humanizer",
+      "url": "https://github.com/blader/humanizer",
+      "description": "Agent skill that removes signs of AI-generated writing from text",
+      "language": "Python",
+      "stars_today": "1,214 stars today",
+      "stars_total": "41,244"
+    },
+    {
+      "name": "google-research/timesfm",
+      "url": "https://github.com/google-research/timesfm",
+      "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+      "language": "Python",
+      "stars_today": "1,626 stars today",
+      "stars_total": "30,608"
     }
   ],
   "posts": [
     {
-      "topic": "timesfm",
-      "repo": "google-research/timesfm",
-      "cover_line1": "timesfm",
+      "topic": "skills",
+      "repo": "mattpocock/skills",
+      "cover_line1": "skills",
       "cover_line2": "今日 GitHub 热榜！",
-      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**google-research/timesfm**\n\n📌 TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.\n\n🔗 https://github.com/google-research/timesfm\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**mattpocock/skills**\n\n📌 Skills for Real Engineers. Straight from my .agents directory.\n\n🔗 https://github.com/mattpocock/skills\n\n关注我，每天第一时间 AI 动态 👇",
+      "tags": [
+        "AI",
+        "GitHub",
+        "开源",
+        "热门项目",
+        "大模型",
+        "机器学习",
+        "深度学习",
+        "AI工具",
+        "技术",
+        "炼丹"
+      ]
+    },
+    {
+      "topic": "hermes-agent",
+      "repo": "NousResearch/hermes-agent",
+      "cover_line1": "hermes-age",
+      "cover_line2": "今日 GitHub 热榜！",
+      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**NousResearch/hermes-agent**\n\n📌 The agent that grows with you\n\n🔗 https://github.com/NousResearch/hermes-agent\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "GitHub",
@@ -181,30 +208,11 @@
       ]
     },
     {
-      "topic": "Sequoia-X",
-      "repo": "sngyai/Sequoia-X",
-      "cover_line1": "Sequoia-X",
+      "topic": "skills",
+      "repo": "anthropics/skills",
+      "cover_line1": "skills",
       "cover_line2": "今日 GitHub 热榜！",
-      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**sngyai/Sequoia-X**\n\n📌 A股自动选股系统 — 多种技术形态自动扫描，收盘后自动运行并推送飞书\n\n🔗 https://github.com/sngyai/Sequoia-X\n\n关注我，每天第一时间 AI 动态 👇",
-      "tags": [
-        "AI",
-        "GitHub",
-        "开源",
-        "热门项目",
-        "大模型",
-        "机器学习",
-        "深度学习",
-        "AI工具",
-        "技术",
-        "炼丹"
-      ]
-    },
-    {
-      "topic": "chrome-devtools-mcp",
-      "repo": "ChromeDevTools/chrome-devtools-mcp",
-      "cover_line1": "chrome-dev",
-      "cover_line2": "今日 GitHub 热榜！",
-      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**ChromeDevTools/chrome-devtools-mcp**\n\n📌 Chrome DevTools for coding agents\n\n🔗 https://github.com/ChromeDevTools/chrome-devtools-mcp\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**anthropics/skills**\n\n📌 Public repository for Agent Skills\n\n🔗 https://github.com/anthropics/skills\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "GitHub",
@@ -220,10 +228,10 @@
     }
   ],
   "image_paths": [
-    "assets/2026-09-03/trending/summary.png",
-    "assets/2026-09-03/trending/post1.png",
-    "assets/2026-09-03/trending/post2.png",
-    "assets/2026-09-03/trending/post3.png",
-    "assets/2026-09-03/trending/post4.png"
+    "assets/2026-09-04/trending/summary.png",
+    "assets/2026-09-04/trending/post1.png",
+    "assets/2026-09-04/trending/post2.png",
+    "assets/2026-09-04/trending/post3.png",
+    "assets/2026-09-04/trending/post4.png"
   ]
 }
