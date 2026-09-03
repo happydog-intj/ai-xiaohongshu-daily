@@ -7,80 +7,80 @@
       "url": "https://github.com/fmtlib/fmt",
       "description": "A modern formatting library",
       "language": "C++",
-      "stars_today": "3 stars today",
-      "stars_total": "24,020"
+      "stars_today": "14 stars today",
+      "stars_total": "24,255"
     },
     {
       "name": "google-research/timesfm",
       "url": "https://github.com/google-research/timesfm",
       "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
       "language": "Python",
-      "stars_today": "326 stars today",
-      "stars_total": "29,333"
+      "stars_today": "343 stars today",
+      "stars_total": "29,783"
     },
     {
       "name": "DietrichGebert/ponytail",
       "url": "https://github.com/DietrichGebert/ponytail",
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
       "language": "JavaScript",
-      "stars_today": "1,364 stars today",
-      "stars_total": "121,047"
+      "stars_today": "1,354 stars today",
+      "stars_total": "121,544"
     },
     {
       "name": "debpalash/VoiceStudio",
       "url": "https://github.com/debpalash/VoiceStudio",
       "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
       "language": "Python",
-      "stars_today": "834 stars today",
-      "stars_total": "14,253"
+      "stars_today": "832 stars today",
+      "stars_total": "14,716"
     },
     {
       "name": "sngyai/Sequoia-X",
       "url": "https://github.com/sngyai/Sequoia-X",
       "description": "A股自动选股系统 — 多种技术形态自动扫描，收盘后自动运行并推送飞书",
       "language": "Python",
-      "stars_today": "138 stars today",
-      "stars_total": "5,995"
+      "stars_today": "63 stars today",
+      "stars_total": "6,050"
     },
     {
       "name": "ChromeDevTools/chrome-devtools-mcp",
       "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
       "description": "Chrome DevTools for coding agents",
       "language": "TypeScript",
-      "stars_today": "140 stars today",
-      "stars_total": "50,555"
+      "stars_today": "148 stars today",
+      "stars_total": "50,633"
     },
     {
       "name": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
       "description": "The agent that grows with you",
       "language": "Python",
-      "stars_today": "529 stars today",
-      "stars_total": "239,951"
+      "stars_today": "533 stars today",
+      "stars_total": "240,125"
     },
     {
       "name": "superlinked/sie",
       "url": "https://github.com/superlinked/sie",
       "description": "Open-source inference server and production cluster for all the models your agent needs.",
       "language": "Python",
-      "stars_today": "61 stars today",
-      "stars_total": "3,004"
+      "stars_today": "60 stars today",
+      "stars_total": "3,060"
     },
     {
       "name": "pacifio/atlas",
       "url": "https://github.com/pacifio/atlas",
       "description": "Source control for agents. Use multiple coding agents, track their changes and query them in one place",
       "language": "Rust",
-      "stars_today": "895 stars today",
-      "stars_total": "2,730"
+      "stars_today": "888 stars today",
+      "stars_total": "2,884"
     },
     {
       "name": "zyronon/TypeWords",
       "url": "https://github.com/zyronon/TypeWords",
       "description": "Practice English, one strike, one step forward; 练习英语，一次敲击，一点进步；",
       "language": "Vue",
-      "stars_today": "68 stars today",
-      "stars_total": "9,259"
+      "stars_today": "21 stars today",
+      "stars_total": "9,305"
     }
   ],
   "ai_repos": [
@@ -89,56 +89,56 @@
       "url": "https://github.com/google-research/timesfm",
       "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
       "language": "Python",
-      "stars_today": "326 stars today",
-      "stars_total": "29,333"
+      "stars_today": "343 stars today",
+      "stars_total": "29,783"
     },
     {
       "name": "DietrichGebert/ponytail",
       "url": "https://github.com/DietrichGebert/ponytail",
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
       "language": "JavaScript",
-      "stars_today": "1,364 stars today",
-      "stars_total": "121,047"
+      "stars_today": "1,354 stars today",
+      "stars_total": "121,544"
     },
     {
       "name": "sngyai/Sequoia-X",
       "url": "https://github.com/sngyai/Sequoia-X",
       "description": "A股自动选股系统 — 多种技术形态自动扫描，收盘后自动运行并推送飞书",
       "language": "Python",
-      "stars_today": "138 stars today",
-      "stars_total": "5,995"
+      "stars_today": "63 stars today",
+      "stars_total": "6,050"
     },
     {
       "name": "ChromeDevTools/chrome-devtools-mcp",
       "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
       "description": "Chrome DevTools for coding agents",
       "language": "TypeScript",
-      "stars_today": "140 stars today",
-      "stars_total": "50,555"
+      "stars_today": "148 stars today",
+      "stars_total": "50,633"
     },
     {
       "name": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
       "description": "The agent that grows with you",
       "language": "Python",
-      "stars_today": "529 stars today",
-      "stars_total": "239,951"
+      "stars_today": "533 stars today",
+      "stars_total": "240,125"
     },
     {
       "name": "superlinked/sie",
       "url": "https://github.com/superlinked/sie",
       "description": "Open-source inference server and production cluster for all the models your agent needs.",
       "language": "Python",
-      "stars_today": "61 stars today",
-      "stars_total": "3,004"
+      "stars_today": "60 stars today",
+      "stars_total": "3,060"
     },
     {
       "name": "pacifio/atlas",
       "url": "https://github.com/pacifio/atlas",
       "description": "Source control for agents. Use multiple coding agents, track their changes and query them in one place",
       "language": "Rust",
-      "stars_today": "895 stars today",
-      "stars_total": "2,730"
+      "stars_today": "888 stars today",
+      "stars_total": "2,884"
     }
   ],
   "posts": [
