@@ -1,11 +1,11 @@
 {
-  "date": "2026-09-02",
+  "date": "2026-09-04",
   "posts": [
     {
-      "topic": "Claude Fable 5.1 and",
-      "cover_line1": "Claude Fab",
+      "topic": "GPT-6 Astra",
+      "cover_line1": "GPT-6 Astr",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Claude Fable 5.1 and Claude Mythos 5.1**\n\n📌 来源：HackerNews\n🔗 https://www.anthropic.com/claude-fable-and-mythos-5-1\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**GPT-6 Astra**\n\n📌 来源：HackerNews\n🔗 https://openai.com/index/gpt-6-astra/\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -20,10 +20,10 @@
       ]
     },
     {
-      "topic": "How accurate have Ed",
-      "cover_line1": "How accura",
+      "topic": "Qwen 3.8 27B availab",
+      "cover_line1": "Qwen 3.8 2",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**How accurate have Ed Zitron's AI skeptic predictions been?**\n\n📌 来源：HackerNews\n🔗 https://danluu.com/zitron/\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Qwen 3.8 27B available on Cerebras at 1500 tokens/s**\n\n📌 来源：HackerNews\n🔗 https://inference-docs.cerebras.ai/models/overview\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -38,10 +38,10 @@
       ]
     },
     {
-      "topic": "Show HN: Weedout – S",
-      "cover_line1": "Show HN: W",
+      "topic": "The largest electric",
+      "cover_line1": "The larges",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Show HN: Weedout – Safari extension that hides YouTube AI-labeled videos**\n\n📌 来源：HackerNews\n🔗 https://masteranza.github.io/weedout/\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**The largest electric aircraft just flew [video]**\n\n📌 来源：HackerNews\n🔗 https://www.youtube.com/watch?v=nM86DBOqgPM\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -56,10 +56,10 @@
       ]
     },
     {
-      "topic": "The efficient fronti",
-      "cover_line1": "The effici",
+      "topic": "Porting my 1993 Amig",
+      "cover_line1": "Porting my",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**The efficient frontier of LLM inference**\n\n📌 来源：HackerNews\n🔗 https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly**\n\n📌 来源：HackerNews\n🔗 https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot/\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -75,15 +75,15 @@
     }
   ],
   "image_paths": [
-    "assets/2026-09-02/cover1.png",
-    "assets/2026-09-02/cover2.png",
-    "assets/2026-09-02/cover3.png",
-    "assets/2026-09-02/cover4.png"
+    "assets/2026-09-04/cover1.png",
+    "assets/2026-09-04/cover2.png",
+    "assets/2026-09-04/cover3.png",
+    "assets/2026-09-04/cover4.png"
   ],
   "feishu_image_paths": [
-    "assets/2026-09-02/cover1_feishu.png",
-    "assets/2026-09-02/cover2_feishu.png",
-    "assets/2026-09-02/cover3_feishu.png",
-    "assets/2026-09-02/cover4_feishu.png"
+    "assets/2026-09-04/cover1_feishu.png",
+    "assets/2026-09-04/cover2_feishu.png",
+    "assets/2026-09-04/cover3_feishu.png",
+    "assets/2026-09-04/cover4_feishu.png"
   ]
 }
