@@ -1,11 +1,29 @@
 {
-  "date": "2026-09-04",
+  "date": "2026-09-05",
   "posts": [
     {
-      "topic": "GPT-6 Astra",
+      "topic": "Discovery of a new O",
+      "cover_line1": "Discovery ",
+      "cover_line2": "今日 AI 热点速报",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Discovery of a new OpenAI agent message board**\n\n📌 来源：HackerNews\n🔗 https://collusion.wiki/\n\n关注我，每天第一时间 AI 动态 👇",
+      "tags": [
+        "AI",
+        "人工智能",
+        "大模型",
+        "科技",
+        "每日热点",
+        "机器学习",
+        "深度学习",
+        "AI工具",
+        "技术",
+        "炼丹"
+      ]
+    },
+    {
+      "topic": "GPT-6 Astra on OpenR",
       "cover_line1": "GPT-6 Astr",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**GPT-6 Astra**\n\n📌 来源：HackerNews\n🔗 https://openai.com/index/gpt-6-astra/\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**GPT-6 Astra on OpenRouter**\n\n📌 来源：HackerNews\n🔗 https://openrouter.ai/openai/gpt-6-astra\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -20,10 +38,10 @@
       ]
     },
     {
-      "topic": "Qwen 3.8 27B availab",
-      "cover_line1": "Qwen 3.8 2",
+      "topic": "Can AI design circui",
+      "cover_line1": "Can AI des",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Qwen 3.8 27B available on Cerebras at 1500 tokens/s**\n\n📌 来源：HackerNews\n🔗 https://inference-docs.cerebras.ai/models/overview\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Can AI design circuit boards yet?**\n\n📌 来源：HackerNews\n🔗 https://eebench.org/blog/can-ai-design-circuit-boards-yet/\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -38,28 +56,10 @@
       ]
     },
     {
-      "topic": "The largest electric",
-      "cover_line1": "The larges",
+      "topic": "Government Rails Sit",
+      "cover_line1": "Government",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**The largest electric aircraft just flew [video]**\n\n📌 来源：HackerNews\n🔗 https://www.youtube.com/watch?v=nM86DBOqgPM\n\n关注我，每天第一时间 AI 动态 👇",
-      "tags": [
-        "AI",
-        "人工智能",
-        "大模型",
-        "科技",
-        "每日热点",
-        "机器学习",
-        "深度学习",
-        "AI工具",
-        "技术",
-        "炼丹"
-      ]
-    },
-    {
-      "topic": "Porting my 1993 Amig",
-      "cover_line1": "Porting my",
-      "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly**\n\n📌 来源：HackerNews\n🔗 https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot/\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Government Rails Site Hit Hours After CVE Patch**\n\n📌 来源：HackerNews\n🔗 https://rietta.com/blog/ruby-on-rails-cve-exploited-hours-after-patch/\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -75,15 +75,15 @@
     }
   ],
   "image_paths": [
-    "assets/2026-09-04/cover1.png",
-    "assets/2026-09-04/cover2.png",
-    "assets/2026-09-04/cover3.png",
-    "assets/2026-09-04/cover4.png"
+    "assets/2026-09-05/cover1.png",
+    "assets/2026-09-05/cover2.png",
+    "assets/2026-09-05/cover3.png",
+    "assets/2026-09-05/cover4.png"
   ],
   "feishu_image_paths": [
-    "assets/2026-09-04/cover1_feishu.png",
-    "assets/2026-09-04/cover2_feishu.png",
-    "assets/2026-09-04/cover3_feishu.png",
-    "assets/2026-09-04/cover4_feishu.png"
+    "assets/2026-09-05/cover1_feishu.png",
+    "assets/2026-09-05/cover2_feishu.png",
+    "assets/2026-09-05/cover3_feishu.png",
+    "assets/2026-09-05/cover4_feishu.png"
   ]
 }
