@@ -1,86 +1,86 @@
 {
   "date": "2026-09-05",
-  "slot": "早报",
+  "slot": "晚报",
   "all_repos": [
     {
       "name": "mattpocock/skills",
       "url": "https://github.com/mattpocock/skills",
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "language": "Shell",
-      "stars_today": "2,758 stars today",
-      "stars_total": "250,368"
-    },
-    {
-      "name": "DietrichGebert/ponytail",
-      "url": "https://github.com/DietrichGebert/ponytail",
-      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "language": "JavaScript",
-      "stars_today": "1,679 stars today",
-      "stars_total": "125,973"
-    },
-    {
-      "name": "fmtlib/fmt",
-      "url": "https://github.com/fmtlib/fmt",
-      "description": "A modern formatting library",
-      "language": "C++",
-      "stars_today": "688 stars today",
-      "stars_total": "25,466"
+      "stars_today": "2,666 stars today",
+      "stars_total": "251,849"
     },
     {
       "name": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "language": "JavaScript",
-      "stars_today": "1,135 stars today",
-      "stars_total": "248,503"
+      "stars_today": "1,325 stars today",
+      "stars_total": "249,357"
     },
     {
-      "name": "anthropics/skills",
-      "url": "https://github.com/anthropics/skills",
-      "description": "Public repository for Agent Skills",
-      "language": "Python",
-      "stars_today": "511 stars today",
-      "stars_total": "174,124"
-    },
-    {
-      "name": "blader/humanizer",
-      "url": "https://github.com/blader/humanizer",
-      "description": "Agent skill that removes signs of AI-generated writing from text",
-      "language": "Python",
-      "stars_today": "1,130 stars today",
-      "stars_total": "42,698"
+      "name": "DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "language": "JavaScript",
+      "stars_today": "2,813 stars today",
+      "stars_total": "127,440"
     },
     {
       "name": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
       "description": "The agent that grows with you",
       "language": "Python",
-      "stars_today": "720 stars today",
-      "stars_total": "241,486"
+      "stars_today": "573 stars today",
+      "stars_total": "241,835"
     },
     {
-      "name": "JuliusBrussee/caveman",
-      "url": "https://github.com/JuliusBrussee/caveman",
-      "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
-      "language": "Go",
-      "stars_today": "501 stars today",
-      "stars_total": "103,569"
+      "name": "fmtlib/fmt",
+      "url": "https://github.com/fmtlib/fmt",
+      "description": "A modern formatting library",
+      "language": "C++",
+      "stars_today": "133 stars today",
+      "stars_total": "25,548"
     },
     {
-      "name": "magnitudedev/magnitude",
-      "url": "https://github.com/magnitudedev/magnitude",
-      "description": "Open source inference server that runs the best local models for your hardware, plugged into the agent you already use. Works with Pi, OpenCode, Hermes, OpenClaw, Codex, Claude Code, Oh My Pi, and Cline.",
-      "language": "TypeScript",
-      "stars_today": "391 stars today",
-      "stars_total": "2,464"
-    },
-    {
-      "name": "bikini/exploitarium",
-      "url": "https://github.com/bikini/exploitarium",
-      "description": "A single archive of public exploit PoCs and vulnerability research writeups. At the time I post these, none have been reported. Feel free to report them yourself and take credit for the CVE if handed out lulz. Please do not abuse these. I do this so to allure people into the field, and I've always found this is the most efficient way.",
+      "name": "anthropics/skills",
+      "url": "https://github.com/anthropics/skills",
+      "description": "Public repository for Agent Skills",
       "language": "Python",
-      "stars_today": "74 stars today",
-      "stars_total": "4,507"
+      "stars_today": "472 stars today",
+      "stars_total": "174,424"
+    },
+    {
+      "name": "cathrynlavery/diagram-design",
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "language": "HTML",
+      "stars_today": "852 stars today",
+      "stars_total": "31,485"
+    },
+    {
+      "name": "anomalyco/opencode",
+      "url": "https://github.com/anomalyco/opencode",
+      "description": "The open source coding agent.",
+      "language": "TypeScript",
+      "stars_today": "725 stars today",
+      "stars_total": "204,504"
+    },
+    {
+      "name": "ruvnet/ruflo",
+      "url": "https://github.com/ruvnet/ruflo",
+      "description": "🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
+      "language": "TypeScript",
+      "stars_today": "127 stars today",
+      "stars_total": "70,598"
+    },
+    {
+      "name": "humanlayer/skills",
+      "url": "https://github.com/humanlayer/skills",
+      "description": "",
+      "language": "TypeScript",
+      "stars_today": "1,141 stars today",
+      "stars_total": "2,568"
     }
   ],
   "ai_repos": [
@@ -89,64 +89,64 @@
       "url": "https://github.com/mattpocock/skills",
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "language": "Shell",
-      "stars_today": "2,758 stars today",
-      "stars_total": "250,368"
-    },
-    {
-      "name": "DietrichGebert/ponytail",
-      "url": "https://github.com/DietrichGebert/ponytail",
-      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "language": "JavaScript",
-      "stars_today": "1,679 stars today",
-      "stars_total": "125,973"
+      "stars_today": "2,666 stars today",
+      "stars_total": "251,849"
     },
     {
       "name": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "language": "JavaScript",
-      "stars_today": "1,135 stars today",
-      "stars_total": "248,503"
+      "stars_today": "1,325 stars today",
+      "stars_total": "249,357"
     },
     {
-      "name": "anthropics/skills",
-      "url": "https://github.com/anthropics/skills",
-      "description": "Public repository for Agent Skills",
-      "language": "Python",
-      "stars_today": "511 stars today",
-      "stars_total": "174,124"
-    },
-    {
-      "name": "blader/humanizer",
-      "url": "https://github.com/blader/humanizer",
-      "description": "Agent skill that removes signs of AI-generated writing from text",
-      "language": "Python",
-      "stars_today": "1,130 stars today",
-      "stars_total": "42,698"
+      "name": "DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "language": "JavaScript",
+      "stars_today": "2,813 stars today",
+      "stars_total": "127,440"
     },
     {
       "name": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
       "description": "The agent that grows with you",
       "language": "Python",
-      "stars_today": "720 stars today",
-      "stars_total": "241,486"
+      "stars_today": "573 stars today",
+      "stars_total": "241,835"
     },
     {
-      "name": "JuliusBrussee/caveman",
-      "url": "https://github.com/JuliusBrussee/caveman",
-      "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
-      "language": "Go",
-      "stars_today": "501 stars today",
-      "stars_total": "103,569"
+      "name": "anthropics/skills",
+      "url": "https://github.com/anthropics/skills",
+      "description": "Public repository for Agent Skills",
+      "language": "Python",
+      "stars_today": "472 stars today",
+      "stars_total": "174,424"
     },
     {
-      "name": "magnitudedev/magnitude",
-      "url": "https://github.com/magnitudedev/magnitude",
-      "description": "Open source inference server that runs the best local models for your hardware, plugged into the agent you already use. Works with Pi, OpenCode, Hermes, OpenClaw, Codex, Claude Code, Oh My Pi, and Cline.",
+      "name": "cathrynlavery/diagram-design",
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "language": "HTML",
+      "stars_today": "852 stars today",
+      "stars_total": "31,485"
+    },
+    {
+      "name": "anomalyco/opencode",
+      "url": "https://github.com/anomalyco/opencode",
+      "description": "The open source coding agent.",
       "language": "TypeScript",
-      "stars_today": "391 stars today",
-      "stars_total": "2,464"
+      "stars_today": "725 stars today",
+      "stars_total": "204,504"
+    },
+    {
+      "name": "ruvnet/ruflo",
+      "url": "https://github.com/ruvnet/ruflo",
+      "description": "🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
+      "language": "TypeScript",
+      "stars_today": "127 stars today",
+      "stars_total": "70,598"
     }
   ],
   "posts": [
@@ -156,25 +156,6 @@
       "cover_line1": "skills",
       "cover_line2": "今日 GitHub 热榜！",
       "body": "🔥 GitHub Trending 今日爆款来了！\n\n**mattpocock/skills**\n\n📌 Skills for Real Engineers. Straight from my .agents directory.\n\n🔗 https://github.com/mattpocock/skills\n\n关注我，每天第一时间 AI 动态 👇",
-      "tags": [
-        "AI",
-        "GitHub",
-        "开源",
-        "热门项目",
-        "大模型",
-        "机器学习",
-        "深度学习",
-        "AI工具",
-        "技术",
-        "炼丹"
-      ]
-    },
-    {
-      "topic": "ponytail",
-      "repo": "DietrichGebert/ponytail",
-      "cover_line1": "ponytail",
-      "cover_line2": "今日 GitHub 热榜！",
-      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**DietrichGebert/ponytail**\n\n📌 Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.\n\n🔗 https://github.com/DietrichGebert/ponytail\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "GitHub",
@@ -208,11 +189,30 @@
       ]
     },
     {
-      "topic": "skills",
-      "repo": "anthropics/skills",
-      "cover_line1": "skills",
+      "topic": "ponytail",
+      "repo": "DietrichGebert/ponytail",
+      "cover_line1": "ponytail",
       "cover_line2": "今日 GitHub 热榜！",
-      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**anthropics/skills**\n\n📌 Public repository for Agent Skills\n\n🔗 https://github.com/anthropics/skills\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**DietrichGebert/ponytail**\n\n📌 Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.\n\n🔗 https://github.com/DietrichGebert/ponytail\n\n关注我，每天第一时间 AI 动态 👇",
+      "tags": [
+        "AI",
+        "GitHub",
+        "开源",
+        "热门项目",
+        "大模型",
+        "机器学习",
+        "深度学习",
+        "AI工具",
+        "技术",
+        "炼丹"
+      ]
+    },
+    {
+      "topic": "hermes-agent",
+      "repo": "NousResearch/hermes-agent",
+      "cover_line1": "hermes-age",
+      "cover_line2": "今日 GitHub 热榜！",
+      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**NousResearch/hermes-agent**\n\n📌 The agent that grows with you\n\n🔗 https://github.com/NousResearch/hermes-agent\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "GitHub",
