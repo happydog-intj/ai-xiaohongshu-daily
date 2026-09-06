@@ -1,6 +1,60 @@
 {
-  "date": "2026-09-05",
+  "date": "2026-09-06",
   "posts": [
+    {
+      "topic": "Finite time blowup f",
+      "cover_line1": "Finite tim",
+      "cover_line2": "今日 AI 热点速报",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Finite time blowup for an averaged three-dimensional Navier-Stokes equation (2014)**\n\n📌 来源：HackerNews\n🔗 https://terrytao.wordpress.com/2014/02/04/finite-time-blowup-for-an-averaged-three-dimensional-navier-stokes-equation/\n\n关注我，每天第一时间 AI 动态 👇",
+      "tags": [
+        "AI",
+        "人工智能",
+        "大模型",
+        "科技",
+        "每日热点",
+        "机器学习",
+        "深度学习",
+        "AI工具",
+        "技术",
+        "炼丹"
+      ]
+    },
+    {
+      "topic": "OKF Agent Memory – G",
+      "cover_line1": "OKF Agent ",
+      "cover_line2": "今日 AI 热点速报",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**OKF Agent Memory – Git-native persistent memory for AI coding agents**\n\n📌 来源：HackerNews\n🔗 https://github.com/okf-memory/okf-agent-memory\n\n关注我，每天第一时间 AI 动态 👇",
+      "tags": [
+        "AI",
+        "人工智能",
+        "大模型",
+        "科技",
+        "每日热点",
+        "机器学习",
+        "深度学习",
+        "AI工具",
+        "技术",
+        "炼丹"
+      ]
+    },
+    {
+      "topic": "Visualizing Rust's V",
+      "cover_line1": "Visualizin",
+      "cover_line2": "今日 AI 热点速报",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Visualizing Rust's Vtables: How dyn Trait Works In Memory**\n\n📌 来源：HackerNews\n🔗 https://sofiabelen.github.io/projects/visualizing-rusts-vtables-how-dyn-trait-works-in-memory/\n\n关注我，每天第一时间 AI 动态 👇",
+      "tags": [
+        "AI",
+        "人工智能",
+        "大模型",
+        "科技",
+        "每日热点",
+        "机器学习",
+        "深度学习",
+        "AI工具",
+        "技术",
+        "炼丹"
+      ]
+    },
     {
       "topic": "Discovery of a new O",
       "cover_line1": "Discovery ",
@@ -18,72 +72,18 @@
         "技术",
         "炼丹"
       ]
-    },
-    {
-      "topic": "GPT-6 Astra on OpenR",
-      "cover_line1": "GPT-6 Astr",
-      "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**GPT-6 Astra on OpenRouter**\n\n📌 来源：HackerNews\n🔗 https://openrouter.ai/openai/gpt-6-astra\n\n关注我，每天第一时间 AI 动态 👇",
-      "tags": [
-        "AI",
-        "人工智能",
-        "大模型",
-        "科技",
-        "每日热点",
-        "机器学习",
-        "深度学习",
-        "AI工具",
-        "技术",
-        "炼丹"
-      ]
-    },
-    {
-      "topic": "Can AI design circui",
-      "cover_line1": "Can AI des",
-      "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Can AI design circuit boards yet?**\n\n📌 来源：HackerNews\n🔗 https://eebench.org/blog/can-ai-design-circuit-boards-yet/\n\n关注我，每天第一时间 AI 动态 👇",
-      "tags": [
-        "AI",
-        "人工智能",
-        "大模型",
-        "科技",
-        "每日热点",
-        "机器学习",
-        "深度学习",
-        "AI工具",
-        "技术",
-        "炼丹"
-      ]
-    },
-    {
-      "topic": "Government Rails Sit",
-      "cover_line1": "Government",
-      "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Government Rails Site Hit Hours After CVE Patch**\n\n📌 来源：HackerNews\n🔗 https://rietta.com/blog/ruby-on-rails-cve-exploited-hours-after-patch/\n\n关注我，每天第一时间 AI 动态 👇",
-      "tags": [
-        "AI",
-        "人工智能",
-        "大模型",
-        "科技",
-        "每日热点",
-        "机器学习",
-        "深度学习",
-        "AI工具",
-        "技术",
-        "炼丹"
-      ]
     }
   ],
   "image_paths": [
-    "assets/2026-09-05/cover1.png",
-    "assets/2026-09-05/cover2.png",
-    "assets/2026-09-05/cover3.png",
-    "assets/2026-09-05/cover4.png"
+    "assets/2026-09-06/cover1.png",
+    "assets/2026-09-06/cover2.png",
+    "assets/2026-09-06/cover3.png",
+    "assets/2026-09-06/cover4.png"
   ],
   "feishu_image_paths": [
-    "assets/2026-09-05/cover1_feishu.png",
-    "assets/2026-09-05/cover2_feishu.png",
-    "assets/2026-09-05/cover3_feishu.png",
-    "assets/2026-09-05/cover4_feishu.png"
+    "assets/2026-09-06/cover1_feishu.png",
+    "assets/2026-09-06/cover2_feishu.png",
+    "assets/2026-09-06/cover3_feishu.png",
+    "assets/2026-09-06/cover4_feishu.png"
   ]
 }
