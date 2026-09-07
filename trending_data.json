@@ -1,30 +1,30 @@
 {
-  "date": "2026-09-06",
-  "slot": "晚报",
+  "date": "2026-09-07",
+  "slot": "早报",
   "all_repos": [
     {
       "name": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "language": "JavaScript",
-      "stars_today": "1,486 stars today",
-      "stars_total": "250,732"
+      "stars_today": "1,485 stars today",
+      "stars_total": "251,302"
     },
     {
       "name": "mattpocock/skills",
       "url": "https://github.com/mattpocock/skills",
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "language": "Shell",
-      "stars_today": "2,206 stars today",
-      "stars_total": "254,003"
+      "stars_today": "2,207 stars today",
+      "stars_total": "254,529"
     },
     {
       "name": "cathrynlavery/diagram-design",
       "url": "https://github.com/cathrynlavery/diagram-design",
       "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
       "language": "HTML",
-      "stars_today": "621 stars today",
-      "stars_total": "32,112"
+      "stars_today": "620 stars today",
+      "stars_total": "32,349"
     },
     {
       "name": "NousResearch/hermes-agent",
@@ -32,23 +32,23 @@
       "description": "The agent that grows with you",
       "language": "Python",
       "stars_today": "520 stars today",
-      "stars_total": "242,349"
+      "stars_total": "242,539"
     },
     {
       "name": "openai/skills",
       "url": "https://github.com/openai/skills",
       "description": "Skills Catalog for Codex",
       "language": "Python",
-      "stars_today": "44 stars today",
-      "stars_total": "25,501"
+      "stars_today": "46 stars today",
+      "stars_total": "25,613"
     },
     {
       "name": "anomalyco/opencode",
       "url": "https://github.com/anomalyco/opencode",
       "description": "The open source coding agent.",
       "language": "TypeScript",
-      "stars_today": "552 stars today",
-      "stars_total": "205,044"
+      "stars_today": "551 stars today",
+      "stars_total": "205,254"
     },
     {
       "name": "blader/humanizer",
@@ -56,15 +56,15 @@
       "description": "Agent skill that removes signs of AI-generated writing from text",
       "language": "Python",
       "stars_today": "748 stars today",
-      "stars_total": "43,988"
+      "stars_total": "44,235"
     },
     {
       "name": "llvm/llvm-project",
       "url": "https://github.com/llvm/llvm-project",
       "description": "The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.",
       "language": "LLVM",
-      "stars_today": "35 stars today",
-      "stars_total": "40,155"
+      "stars_today": "23 stars today",
+      "stars_total": "40,210"
     },
     {
       "name": "DietrichGebert/ponytail",
@@ -72,7 +72,7 @@
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
       "language": "JavaScript",
       "stars_today": "1,539 stars today",
-      "stars_total": "128,911"
+      "stars_total": "129,343"
     },
     {
       "name": "ruvnet/ruflo",
@@ -80,7 +80,7 @@
       "description": "🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
       "language": "TypeScript",
       "stars_today": "276 stars today",
-      "stars_total": "70,871"
+      "stars_total": "70,976"
     }
   ],
   "ai_repos": [
@@ -89,24 +89,24 @@
       "url": "https://github.com/affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "language": "JavaScript",
-      "stars_today": "1,486 stars today",
-      "stars_total": "250,732"
+      "stars_today": "1,485 stars today",
+      "stars_total": "251,302"
     },
     {
       "name": "mattpocock/skills",
       "url": "https://github.com/mattpocock/skills",
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "language": "Shell",
-      "stars_today": "2,206 stars today",
-      "stars_total": "254,003"
+      "stars_today": "2,207 stars today",
+      "stars_total": "254,529"
     },
     {
       "name": "cathrynlavery/diagram-design",
       "url": "https://github.com/cathrynlavery/diagram-design",
       "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
       "language": "HTML",
-      "stars_today": "621 stars today",
-      "stars_total": "32,112"
+      "stars_today": "620 stars today",
+      "stars_total": "32,349"
     },
     {
       "name": "NousResearch/hermes-agent",
@@ -114,23 +114,23 @@
       "description": "The agent that grows with you",
       "language": "Python",
       "stars_today": "520 stars today",
-      "stars_total": "242,349"
+      "stars_total": "242,539"
     },
     {
       "name": "openai/skills",
       "url": "https://github.com/openai/skills",
       "description": "Skills Catalog for Codex",
       "language": "Python",
-      "stars_today": "44 stars today",
-      "stars_total": "25,501"
+      "stars_today": "46 stars today",
+      "stars_total": "25,613"
     },
     {
       "name": "anomalyco/opencode",
       "url": "https://github.com/anomalyco/opencode",
       "description": "The open source coding agent.",
       "language": "TypeScript",
-      "stars_today": "552 stars today",
-      "stars_total": "205,044"
+      "stars_today": "551 stars today",
+      "stars_total": "205,254"
     },
     {
       "name": "blader/humanizer",
@@ -138,15 +138,15 @@
       "description": "Agent skill that removes signs of AI-generated writing from text",
       "language": "Python",
       "stars_today": "748 stars today",
-      "stars_total": "43,988"
+      "stars_total": "44,235"
     },
     {
       "name": "llvm/llvm-project",
       "url": "https://github.com/llvm/llvm-project",
       "description": "The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.",
       "language": "LLVM",
-      "stars_today": "35 stars today",
-      "stars_total": "40,155"
+      "stars_today": "23 stars today",
+      "stars_total": "40,210"
     },
     {
       "name": "DietrichGebert/ponytail",
@@ -154,7 +154,7 @@
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
       "language": "JavaScript",
       "stars_today": "1,539 stars today",
-      "stars_total": "128,911"
+      "stars_total": "129,343"
     },
     {
       "name": "ruvnet/ruflo",
@@ -162,7 +162,7 @@
       "description": "🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
       "language": "TypeScript",
       "stars_today": "276 stars today",
-      "stars_total": "70,871"
+      "stars_total": "70,976"
     }
   ],
   "posts": [
@@ -244,10 +244,10 @@
     }
   ],
   "image_paths": [
-    "assets/2026-09-06/trending/summary.png",
-    "assets/2026-09-06/trending/post1.png",
-    "assets/2026-09-06/trending/post2.png",
-    "assets/2026-09-06/trending/post3.png",
-    "assets/2026-09-06/trending/post4.png"
+    "assets/2026-09-07/trending/summary.png",
+    "assets/2026-09-07/trending/post1.png",
+    "assets/2026-09-07/trending/post2.png",
+    "assets/2026-09-07/trending/post3.png",
+    "assets/2026-09-07/trending/post4.png"
   ]
 }
