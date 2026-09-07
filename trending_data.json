@@ -1,171 +1,204 @@
 {
-  "date": "2026-09-07",
+  "date": "2026-09-08",
   "slot": "早报",
   "all_repos": [
+    {
+      "name": "heygen-com/hyperframes",
+      "url": "https://github.com/heygen-com/hyperframes",
+      "description": "Write HTML. Render video. Built for agents.",
+      "language": "TypeScript",
+      "stars_today": "734 stars today",
+      "stars_total": "45,382"
+    },
+    {
+      "name": "microsoft/markitdown",
+      "url": "https://github.com/microsoft/markitdown",
+      "description": "Python tool for converting files and office documents to Markdown.",
+      "language": "Python",
+      "stars_today": "771 stars today",
+      "stars_total": "179,831"
+    },
+    {
+      "name": "mksglu/context-mode",
+      "url": "https://github.com/mksglu/context-mode",
+      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+      "language": "TypeScript",
+      "stars_today": "147 stars today",
+      "stars_total": "20,694"
+    },
+    {
+      "name": "jo-inc/camofox-browser",
+      "url": "https://github.com/jo-inc/camofox-browser",
+      "description": "Stealth headless browser for AI agents — bypass Cloudflare, bot detection, and anti-scraping. Drop-in Puppeteer/Playwright replacement.",
+      "language": "JavaScript",
+      "stars_today": "285 stars today",
+      "stars_total": "9,503"
+    },
+    {
+      "name": "MoonTechLab/LunaTV",
+      "url": "https://github.com/MoonTechLab/LunaTV",
+      "description": "本项目采用 CC BY-NC-SA 协议，禁止任何商业化行为，任何衍生项目必须保留本项目地址并以相同协议开源",
+      "language": "TypeScript",
+      "stars_today": "171 stars today",
+      "stars_total": "9,658"
+    },
     {
       "name": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "language": "JavaScript",
-      "stars_today": "1,485 stars today",
-      "stars_total": "251,302"
+      "stars_today": "1,905 stars today",
+      "stars_total": "252,558"
     },
     {
-      "name": "mattpocock/skills",
-      "url": "https://github.com/mattpocock/skills",
-      "description": "Skills for Real Engineers. Straight from my .agents directory.",
-      "language": "Shell",
-      "stars_today": "2,207 stars today",
-      "stars_total": "254,529"
-    },
-    {
-      "name": "cathrynlavery/diagram-design",
-      "url": "https://github.com/cathrynlavery/diagram-design",
-      "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
-      "language": "HTML",
-      "stars_today": "620 stars today",
-      "stars_total": "32,349"
-    },
-    {
-      "name": "NousResearch/hermes-agent",
-      "url": "https://github.com/NousResearch/hermes-agent",
-      "description": "The agent that grows with you",
-      "language": "Python",
-      "stars_today": "520 stars today",
-      "stars_total": "242,539"
-    },
-    {
-      "name": "openai/skills",
-      "url": "https://github.com/openai/skills",
-      "description": "Skills Catalog for Codex",
-      "language": "Python",
-      "stars_today": "46 stars today",
-      "stars_total": "25,613"
-    },
-    {
-      "name": "anomalyco/opencode",
-      "url": "https://github.com/anomalyco/opencode",
-      "description": "The open source coding agent.",
-      "language": "TypeScript",
-      "stars_today": "551 stars today",
-      "stars_total": "205,254"
-    },
-    {
-      "name": "blader/humanizer",
-      "url": "https://github.com/blader/humanizer",
-      "description": "Agent skill that removes signs of AI-generated writing from text",
-      "language": "Python",
-      "stars_today": "748 stars today",
-      "stars_total": "44,235"
-    },
-    {
-      "name": "llvm/llvm-project",
-      "url": "https://github.com/llvm/llvm-project",
-      "description": "The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.",
-      "language": "LLVM",
-      "stars_today": "23 stars today",
-      "stars_total": "40,210"
-    },
-    {
-      "name": "DietrichGebert/ponytail",
-      "url": "https://github.com/DietrichGebert/ponytail",
-      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "name": "coreyhaines31/marketingskills",
+      "url": "https://github.com/coreyhaines31/marketingskills",
+      "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
       "language": "JavaScript",
-      "stars_today": "1,539 stars today",
-      "stars_total": "129,343"
+      "stars_today": "602 stars today",
+      "stars_total": "47,987"
     },
     {
-      "name": "ruvnet/ruflo",
-      "url": "https://github.com/ruvnet/ruflo",
-      "description": "🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
+      "name": "The-Swarm-Corporation/AutoHedge",
+      "url": "https://github.com/The-Swarm-Corporation/AutoHedge",
+      "description": "Build your autonomous hedge fund in minutes. AutoHedge harnesses the power of swarm intelligence and AI agents to automate market analysis, risk management, and trade execution.",
+      "language": "Python",
+      "stars_today": "541 stars today",
+      "stars_total": "5,135"
+    },
+    {
+      "name": "BraveOPotato/FckSignups",
+      "url": "https://github.com/BraveOPotato/FckSignups",
+      "description": "A list of tools that are open-source, in-browser, and require no-signups!",
       "language": "TypeScript",
-      "stars_today": "276 stars today",
-      "stars_total": "70,976"
+      "stars_today": "497 stars today",
+      "stars_total": "3,701"
+    },
+    {
+      "name": "bytedance/deer-flow",
+      "url": "https://github.com/bytedance/deer-flow",
+      "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
+      "language": "Python",
+      "stars_today": "188 stars today",
+      "stars_total": "81,763"
     }
   ],
   "ai_repos": [
     {
+      "name": "heygen-com/hyperframes",
+      "url": "https://github.com/heygen-com/hyperframes",
+      "description": "Write HTML. Render video. Built for agents.",
+      "language": "TypeScript",
+      "stars_today": "734 stars today",
+      "stars_total": "45,382"
+    },
+    {
+      "name": "mksglu/context-mode",
+      "url": "https://github.com/mksglu/context-mode",
+      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+      "language": "TypeScript",
+      "stars_today": "147 stars today",
+      "stars_total": "20,694"
+    },
+    {
+      "name": "jo-inc/camofox-browser",
+      "url": "https://github.com/jo-inc/camofox-browser",
+      "description": "Stealth headless browser for AI agents — bypass Cloudflare, bot detection, and anti-scraping. Drop-in Puppeteer/Playwright replacement.",
+      "language": "JavaScript",
+      "stars_today": "285 stars today",
+      "stars_total": "9,503"
+    },
+    {
       "name": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "language": "JavaScript",
-      "stars_today": "1,485 stars today",
-      "stars_total": "251,302"
+      "stars_today": "1,905 stars today",
+      "stars_total": "252,558"
     },
     {
-      "name": "mattpocock/skills",
-      "url": "https://github.com/mattpocock/skills",
-      "description": "Skills for Real Engineers. Straight from my .agents directory.",
-      "language": "Shell",
-      "stars_today": "2,207 stars today",
-      "stars_total": "254,529"
-    },
-    {
-      "name": "cathrynlavery/diagram-design",
-      "url": "https://github.com/cathrynlavery/diagram-design",
-      "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
-      "language": "HTML",
-      "stars_today": "620 stars today",
-      "stars_total": "32,349"
-    },
-    {
-      "name": "NousResearch/hermes-agent",
-      "url": "https://github.com/NousResearch/hermes-agent",
-      "description": "The agent that grows with you",
-      "language": "Python",
-      "stars_today": "520 stars today",
-      "stars_total": "242,539"
-    },
-    {
-      "name": "openai/skills",
-      "url": "https://github.com/openai/skills",
-      "description": "Skills Catalog for Codex",
-      "language": "Python",
-      "stars_today": "46 stars today",
-      "stars_total": "25,613"
-    },
-    {
-      "name": "anomalyco/opencode",
-      "url": "https://github.com/anomalyco/opencode",
-      "description": "The open source coding agent.",
-      "language": "TypeScript",
-      "stars_today": "551 stars today",
-      "stars_total": "205,254"
-    },
-    {
-      "name": "blader/humanizer",
-      "url": "https://github.com/blader/humanizer",
-      "description": "Agent skill that removes signs of AI-generated writing from text",
-      "language": "Python",
-      "stars_today": "748 stars today",
-      "stars_total": "44,235"
-    },
-    {
-      "name": "llvm/llvm-project",
-      "url": "https://github.com/llvm/llvm-project",
-      "description": "The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.",
-      "language": "LLVM",
-      "stars_today": "23 stars today",
-      "stars_total": "40,210"
-    },
-    {
-      "name": "DietrichGebert/ponytail",
-      "url": "https://github.com/DietrichGebert/ponytail",
-      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "name": "coreyhaines31/marketingskills",
+      "url": "https://github.com/coreyhaines31/marketingskills",
+      "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
       "language": "JavaScript",
-      "stars_today": "1,539 stars today",
-      "stars_total": "129,343"
+      "stars_today": "602 stars today",
+      "stars_total": "47,987"
     },
     {
-      "name": "ruvnet/ruflo",
-      "url": "https://github.com/ruvnet/ruflo",
-      "description": "🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
-      "language": "TypeScript",
-      "stars_today": "276 stars today",
-      "stars_total": "70,976"
+      "name": "The-Swarm-Corporation/AutoHedge",
+      "url": "https://github.com/The-Swarm-Corporation/AutoHedge",
+      "description": "Build your autonomous hedge fund in minutes. AutoHedge harnesses the power of swarm intelligence and AI agents to automate market analysis, risk management, and trade execution.",
+      "language": "Python",
+      "stars_today": "541 stars today",
+      "stars_total": "5,135"
+    },
+    {
+      "name": "bytedance/deer-flow",
+      "url": "https://github.com/bytedance/deer-flow",
+      "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
+      "language": "Python",
+      "stars_today": "188 stars today",
+      "stars_total": "81,763"
     }
   ],
   "posts": [
+    {
+      "topic": "hyperframes",
+      "repo": "heygen-com/hyperframes",
+      "cover_line1": "hyperframe",
+      "cover_line2": "今日 GitHub 热榜！",
+      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**heygen-com/hyperframes**\n\n📌 Write HTML. Render video. Built for agents.\n\n🔗 https://github.com/heygen-com/hyperframes\n\n关注我，每天第一时间 AI 动态 👇",
+      "tags": [
+        "AI",
+        "GitHub",
+        "开源",
+        "热门项目",
+        "大模型",
+        "机器学习",
+        "深度学习",
+        "AI工具",
+        "技术",
+        "炼丹"
+      ]
+    },
+    {
+      "topic": "context-mode",
+      "repo": "mksglu/context-mode",
+      "cover_line1": "context-mo",
+      "cover_line2": "今日 GitHub 热榜！",
+      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**mksglu/context-mode**\n\n📌 Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.\n\n🔗 https://github.com/mksglu/context-mode\n\n关注我，每天第一时间 AI 动态 👇",
+      "tags": [
+        "AI",
+        "GitHub",
+        "开源",
+        "热门项目",
+        "大模型",
+        "机器学习",
+        "深度学习",
+        "AI工具",
+        "技术",
+        "炼丹"
+      ]
+    },
+    {
+      "topic": "camofox-browser",
+      "repo": "jo-inc/camofox-browser",
+      "cover_line1": "camofox-br",
+      "cover_line2": "今日 GitHub 热榜！",
+      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**jo-inc/camofox-browser**\n\n📌 Stealth headless browser for AI agents — bypass Cloudflare, bot detection, and anti-scraping. Drop-in Puppeteer/Playwright replacement.\n\n🔗 https://github.com/jo-inc/camofox-browser\n\n关注我，每天第一时间 AI 动态 👇",
+      "tags": [
+        "AI",
+        "GitHub",
+        "开源",
+        "热门项目",
+        "大模型",
+        "机器学习",
+        "深度学习",
+        "AI工具",
+        "技术",
+        "炼丹"
+      ]
+    },
     {
       "topic": "ECC",
       "repo": "affaan-m/ECC",
@@ -184,70 +217,13 @@
         "技术",
         "炼丹"
       ]
-    },
-    {
-      "topic": "skills",
-      "repo": "mattpocock/skills",
-      "cover_line1": "skills",
-      "cover_line2": "今日 GitHub 热榜！",
-      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**mattpocock/skills**\n\n📌 Skills for Real Engineers. Straight from my .agents directory.\n\n🔗 https://github.com/mattpocock/skills\n\n关注我，每天第一时间 AI 动态 👇",
-      "tags": [
-        "AI",
-        "GitHub",
-        "开源",
-        "热门项目",
-        "大模型",
-        "机器学习",
-        "深度学习",
-        "AI工具",
-        "技术",
-        "炼丹"
-      ]
-    },
-    {
-      "topic": "diagram-design",
-      "repo": "cathrynlavery/diagram-design",
-      "cover_line1": "diagram-de",
-      "cover_line2": "今日 GitHub 热榜！",
-      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**cathrynlavery/diagram-design**\n\n📌 38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.\n\n🔗 https://github.com/cathrynlavery/diagram-design\n\n关注我，每天第一时间 AI 动态 👇",
-      "tags": [
-        "AI",
-        "GitHub",
-        "开源",
-        "热门项目",
-        "大模型",
-        "机器学习",
-        "深度学习",
-        "AI工具",
-        "技术",
-        "炼丹"
-      ]
-    },
-    {
-      "topic": "hermes-agent",
-      "repo": "NousResearch/hermes-agent",
-      "cover_line1": "hermes-age",
-      "cover_line2": "今日 GitHub 热榜！",
-      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**NousResearch/hermes-agent**\n\n📌 The agent that grows with you\n\n🔗 https://github.com/NousResearch/hermes-agent\n\n关注我，每天第一时间 AI 动态 👇",
-      "tags": [
-        "AI",
-        "GitHub",
-        "开源",
-        "热门项目",
-        "大模型",
-        "机器学习",
-        "深度学习",
-        "AI工具",
-        "技术",
-        "炼丹"
-      ]
     }
   ],
   "image_paths": [
-    "assets/2026-09-07/trending/summary.png",
-    "assets/2026-09-07/trending/post1.png",
-    "assets/2026-09-07/trending/post2.png",
-    "assets/2026-09-07/trending/post3.png",
-    "assets/2026-09-07/trending/post4.png"
+    "assets/2026-09-08/trending/summary.png",
+    "assets/2026-09-08/trending/post1.png",
+    "assets/2026-09-08/trending/post2.png",
+    "assets/2026-09-08/trending/post3.png",
+    "assets/2026-09-08/trending/post4.png"
   ]
 }
