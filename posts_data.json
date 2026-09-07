@@ -1,11 +1,11 @@
 {
-  "date": "2026-09-06",
+  "date": "2026-09-07",
   "posts": [
     {
-      "topic": "Finite time blowup f",
-      "cover_line1": "Finite tim",
+      "topic": "Reverse engineering ",
+      "cover_line1": "Reverse en",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Finite time blowup for an averaged three-dimensional Navier-Stokes equation (2014)**\n\n📌 来源：HackerNews\n🔗 https://terrytao.wordpress.com/2014/02/04/finite-time-blowup-for-an-averaged-three-dimensional-navier-stokes-equation/\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Reverse engineering the storage format for an undocumented database**\n\n📌 来源：HackerNews\n🔗 https://blog.glazer.ee/posts/converting-cronos/\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -20,10 +20,10 @@
       ]
     },
     {
-      "topic": "OKF Agent Memory – G",
-      "cover_line1": "OKF Agent ",
+      "topic": "Research acceleratio",
+      "cover_line1": "Research a",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**OKF Agent Memory – Git-native persistent memory for AI coding agents**\n\n📌 来源：HackerNews\n🔗 https://github.com/okf-memory/okf-agent-memory\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Research acceleration: The view inside OpenAI**\n\n📌 来源：HackerNews\n🔗 https://openai.com/index/research-acceleration-view-inside-openai\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -38,10 +38,10 @@
       ]
     },
     {
-      "topic": "Visualizing Rust's V",
-      "cover_line1": "Visualizin",
+      "topic": "The pencil case mode",
+      "cover_line1": "The pencil",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Visualizing Rust's Vtables: How dyn Trait Works In Memory**\n\n📌 来源：HackerNews\n🔗 https://sofiabelen.github.io/projects/visualizing-rusts-vtables-how-dyn-trait-works-in-memory/\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**The pencil case model of creativity**\n\n📌 来源：HackerNews\n🔗 https://dub.uu.nl/en/column/pencil-case-model-creativity\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -56,10 +56,10 @@
       ]
     },
     {
-      "topic": "Discovery of a new O",
-      "cover_line1": "Discovery ",
+      "topic": "AI, Tools and Transf",
+      "cover_line1": "AI, Tools ",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Discovery of a new OpenAI agent message board**\n\n📌 来源：HackerNews\n🔗 https://collusion.wiki/\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**AI, Tools and Transformation**\n\n📌 来源：HackerNews\n🔗 https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -75,15 +75,15 @@
     }
   ],
   "image_paths": [
-    "assets/2026-09-06/cover1.png",
-    "assets/2026-09-06/cover2.png",
-    "assets/2026-09-06/cover3.png",
-    "assets/2026-09-06/cover4.png"
+    "assets/2026-09-07/cover1.png",
+    "assets/2026-09-07/cover2.png",
+    "assets/2026-09-07/cover3.png",
+    "assets/2026-09-07/cover4.png"
   ],
   "feishu_image_paths": [
-    "assets/2026-09-06/cover1_feishu.png",
-    "assets/2026-09-06/cover2_feishu.png",
-    "assets/2026-09-06/cover3_feishu.png",
-    "assets/2026-09-06/cover4_feishu.png"
+    "assets/2026-09-07/cover1_feishu.png",
+    "assets/2026-09-07/cover2_feishu.png",
+    "assets/2026-09-07/cover3_feishu.png",
+    "assets/2026-09-07/cover4_feishu.png"
   ]
 }
