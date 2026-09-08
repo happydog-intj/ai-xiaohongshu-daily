@@ -1,11 +1,11 @@
 {
-  "date": "2026-09-07",
+  "date": "2026-09-08",
   "posts": [
     {
-      "topic": "Reverse engineering ",
-      "cover_line1": "Reverse en",
+      "topic": "Trusting-Trust Attac",
+      "cover_line1": "Trusting-T",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Reverse engineering the storage format for an undocumented database**\n\n📌 来源：HackerNews\n🔗 https://blog.glazer.ee/posts/converting-cronos/\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Trusting-Trust Attack against an Entire Linux Distribution**\n\n📌 来源：HackerNews\n🔗 https://arxiv.org/abs/2607.24888\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -20,10 +20,10 @@
       ]
     },
     {
-      "topic": "Research acceleratio",
-      "cover_line1": "Research a",
+      "topic": "WeatherNext 3: Our m",
+      "cover_line1": "WeatherNex",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Research acceleration: The view inside OpenAI**\n\n📌 来源：HackerNews\n🔗 https://openai.com/index/research-acceleration-view-inside-openai\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**WeatherNext 3: Our most advanced global weather AI model**\n\n📌 来源：HackerNews\n🔗 https://blog.google/innovation-and-ai/models-and-research/google-deepmind/introducing-weathernext-3/\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -38,10 +38,10 @@
       ]
     },
     {
-      "topic": "The pencil case mode",
-      "cover_line1": "The pencil",
+      "topic": "Secure temporary fil",
+      "cover_line1": "Secure tem",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**The pencil case model of creativity**\n\n📌 来源：HackerNews\n🔗 https://dub.uu.nl/en/column/pencil-case-model-creativity\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Secure temporary file sharing for AI agents and humans**\n\n📌 来源：HackerNews\n🔗 https://github.com/aispace-sh/aispace-client\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -56,10 +56,10 @@
       ]
     },
     {
-      "topic": "AI, Tools and Transf",
-      "cover_line1": "AI, Tools ",
+      "topic": "The Dataflow Model R",
+      "cover_line1": "The Datafl",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**AI, Tools and Transformation**\n\n📌 来源：HackerNews\n🔗 https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**The Dataflow Model Revisited**\n\n📌 来源：HackerNews\n🔗 https://www.vldb.org/pvldb/volumes/19/paper/The%20Dataflow%20Model%20Revisited\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -75,15 +75,15 @@
     }
   ],
   "image_paths": [
-    "assets/2026-09-07/cover1.png",
-    "assets/2026-09-07/cover2.png",
-    "assets/2026-09-07/cover3.png",
-    "assets/2026-09-07/cover4.png"
+    "assets/2026-09-08/cover1.png",
+    "assets/2026-09-08/cover2.png",
+    "assets/2026-09-08/cover3.png",
+    "assets/2026-09-08/cover4.png"
   ],
   "feishu_image_paths": [
-    "assets/2026-09-07/cover1_feishu.png",
-    "assets/2026-09-07/cover2_feishu.png",
-    "assets/2026-09-07/cover3_feishu.png",
-    "assets/2026-09-07/cover4_feishu.png"
+    "assets/2026-09-08/cover1_feishu.png",
+    "assets/2026-09-08/cover2_feishu.png",
+    "assets/2026-09-08/cover3_feishu.png",
+    "assets/2026-09-08/cover4_feishu.png"
   ]
 }
