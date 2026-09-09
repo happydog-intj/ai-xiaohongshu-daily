@@ -7,16 +7,16 @@
       "url": "https://github.com/ayghri/i-have-adhd",
       "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
       "language": "Python",
-      "stars_today": "422 stars today",
-      "stars_total": "29,097"
+      "stars_today": "656 stars today",
+      "stars_total": "30,458"
     },
     {
       "name": "cathrynlavery/diagram-design",
       "url": "https://github.com/cathrynlavery/diagram-design",
       "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
       "language": "HTML",
-      "stars_today": "1,020 stars today",
-      "stars_total": "34,245"
+      "stars_today": "710 stars today",
+      "stars_total": "34,804"
     },
     {
       "name": "openai/skills",
@@ -24,23 +24,23 @@
       "description": "Skills Catalog for Codex",
       "language": "Python",
       "stars_today": "490 stars today",
-      "stars_total": "26,396"
+      "stars_total": "26,516"
     },
     {
       "name": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "language": "JavaScript",
-      "stars_today": "1,426 stars today",
-      "stars_total": "253,948"
+      "stars_today": "1,427 stars today",
+      "stars_total": "254,300"
     },
     {
       "name": "heygen-com/hyperframes",
       "url": "https://github.com/heygen-com/hyperframes",
       "description": "Write HTML. Render video. Built for agents.",
       "language": "TypeScript",
-      "stars_today": "2,628 stars today",
-      "stars_total": "47,527"
+      "stars_today": "2,627 stars today",
+      "stars_total": "47,758"
     },
     {
       "name": "coreyhaines31/marketingskills",
@@ -48,39 +48,39 @@
       "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
       "language": "JavaScript",
       "stars_today": "666 stars today",
-      "stars_total": "48,639"
+      "stars_total": "48,809"
     },
     {
       "name": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
-      "stars_today": "446 stars today",
-      "stars_total": "283,201"
+      "stars_today": "452 stars today",
+      "stars_total": "283,359"
     },
     {
       "name": "multica-ai/andrej-karpathy-skills",
       "url": "https://github.com/multica-ai/andrej-karpathy-skills",
       "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
       "language": "",
-      "stars_today": "325 stars today",
-      "stars_total": "211,270"
+      "stars_today": "333 stars today",
+      "stars_total": "211,457"
     },
     {
       "name": "microsoft/markitdown",
       "url": "https://github.com/microsoft/markitdown",
       "description": "Python tool for converting files and office documents to Markdown.",
       "language": "Python",
-      "stars_today": "2,045 stars today",
-      "stars_total": "181,464"
+      "stars_today": "2,047 stars today",
+      "stars_total": "181,684"
     },
     {
       "name": "jo-inc/camofox-browser",
       "url": "https://github.com/jo-inc/camofox-browser",
       "description": "Stealth headless browser for AI agents — bypass Cloudflare, bot detection, and anti-scraping. Drop-in Puppeteer/Playwright replacement.",
       "language": "JavaScript",
-      "stars_today": "872 stars today",
-      "stars_total": "10,320"
+      "stars_today": "871 stars today",
+      "stars_total": "10,495"
     }
   ],
   "ai_repos": [
@@ -89,16 +89,16 @@
       "url": "https://github.com/ayghri/i-have-adhd",
       "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
       "language": "Python",
-      "stars_today": "422 stars today",
-      "stars_total": "29,097"
+      "stars_today": "656 stars today",
+      "stars_total": "30,458"
     },
     {
       "name": "cathrynlavery/diagram-design",
       "url": "https://github.com/cathrynlavery/diagram-design",
       "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
       "language": "HTML",
-      "stars_today": "1,020 stars today",
-      "stars_total": "34,245"
+      "stars_today": "710 stars today",
+      "stars_total": "34,804"
     },
     {
       "name": "openai/skills",
@@ -106,23 +106,23 @@
       "description": "Skills Catalog for Codex",
       "language": "Python",
       "stars_today": "490 stars today",
-      "stars_total": "26,396"
+      "stars_total": "26,516"
     },
     {
       "name": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "language": "JavaScript",
-      "stars_today": "1,426 stars today",
-      "stars_total": "253,948"
+      "stars_today": "1,427 stars today",
+      "stars_total": "254,300"
     },
     {
       "name": "heygen-com/hyperframes",
       "url": "https://github.com/heygen-com/hyperframes",
       "description": "Write HTML. Render video. Built for agents.",
       "language": "TypeScript",
-      "stars_today": "2,628 stars today",
-      "stars_total": "47,527"
+      "stars_today": "2,627 stars today",
+      "stars_total": "47,758"
     },
     {
       "name": "coreyhaines31/marketingskills",
@@ -130,31 +130,31 @@
       "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
       "language": "JavaScript",
       "stars_today": "666 stars today",
-      "stars_total": "48,639"
+      "stars_total": "48,809"
     },
     {
       "name": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
-      "stars_today": "446 stars today",
-      "stars_total": "283,201"
+      "stars_today": "452 stars today",
+      "stars_total": "283,359"
     },
     {
       "name": "multica-ai/andrej-karpathy-skills",
       "url": "https://github.com/multica-ai/andrej-karpathy-skills",
       "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
       "language": "",
-      "stars_today": "325 stars today",
-      "stars_total": "211,270"
+      "stars_today": "333 stars today",
+      "stars_total": "211,457"
     },
     {
       "name": "jo-inc/camofox-browser",
       "url": "https://github.com/jo-inc/camofox-browser",
       "description": "Stealth headless browser for AI agents — bypass Cloudflare, bot detection, and anti-scraping. Drop-in Puppeteer/Playwright replacement.",
       "language": "JavaScript",
-      "stars_today": "872 stars today",
-      "stars_total": "10,320"
+      "stars_today": "871 stars today",
+      "stars_total": "10,495"
     }
   ],
   "posts": [
