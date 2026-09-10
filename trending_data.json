@@ -1,5 +1,5 @@
 {
-  "date": "2026-09-10",
+  "date": "2026-09-11",
   "slot": "早报",
   "all_repos": [
     {
@@ -7,80 +7,80 @@
       "url": "https://github.com/ayghri/i-have-adhd",
       "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
       "language": "Python",
-      "stars_today": "4,650 stars today",
-      "stars_total": "34,606"
+      "stars_today": "3,854 stars today",
+      "stars_total": "37,398"
     },
     {
-      "name": "Tencent/teamai-cli",
-      "url": "https://github.com/Tencent/teamai-cli",
-      "description": "Make Every Team AI Native",
-      "language": "TypeScript",
-      "stars_today": "556 stars today",
-      "stars_total": "2,973"
+      "name": "bilawalsidhu/gods-eye-view",
+      "url": "https://github.com/bilawalsidhu/gods-eye-view",
+      "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+      "language": "JavaScript",
+      "stars_today": "1,588 stars today",
+      "stars_total": "23,121"
     },
     {
       "name": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
-      "stars_today": "688 stars today",
-      "stars_total": "284,022"
+      "stars_today": "731 stars today",
+      "stars_total": "284,531"
     },
     {
-      "name": "pascalorg/editor",
-      "url": "https://github.com/pascalorg/editor",
-      "description": "Open-source 3D architectural editor with a local CLI, MCP tools, and practical workflows for humans and AI agents.",
+      "name": "alsk1992/CloddsBot",
+      "url": "https://github.com/alsk1992/CloddsBot",
+      "description": "Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans for edge, executes instantly, manages risk while you sleep. Agent commerce protocol for machine-to-machine payments. Self-hosted. Built on Claude.",
       "language": "TypeScript",
-      "stars_today": "107 stars today",
-      "stars_total": "22,914"
+      "stars_today": "299 stars today",
+      "stars_total": "1,449"
     },
     {
-      "name": "earthtojake/text-to-cad",
-      "url": "https://github.com/earthtojake/text-to-cad",
-      "description": "A library of agent skills for CAD, CAE and CAM",
-      "language": "Python",
-      "stars_today": "124 stars today",
-      "stars_total": "15,029"
+      "name": "Tencent/teamai-cli",
+      "url": "https://github.com/Tencent/teamai-cli",
+      "description": "Make Every Team AI Native",
+      "language": "TypeScript",
+      "stars_today": "837 stars today",
+      "stars_total": "3,643"
     },
     {
-      "name": "cathrynlavery/diagram-design",
-      "url": "https://github.com/cathrynlavery/diagram-design",
-      "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
-      "language": "HTML",
-      "stars_today": "2,249 stars today",
-      "stars_total": "36,582"
-    },
-    {
-      "name": "TauricResearch/TradingAgents",
-      "url": "https://github.com/TauricResearch/TradingAgents",
-      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
-      "language": "Python",
-      "stars_today": "367 stars today",
-      "stars_total": "103,948"
+      "name": "AlexsJones/llmfit",
+      "url": "https://github.com/AlexsJones/llmfit",
+      "description": "Hundreds of models & providers. One command to find what runs on your hardware.",
+      "language": "Rust",
+      "stars_today": "247 stars today",
+      "stars_total": "35,605"
     },
     {
       "name": "liquidslr/system-design-notes",
       "url": "https://github.com/liquidslr/system-design-notes",
       "description": "Notes of the book System Desgin Interview - An Insider's Guide",
       "language": "",
-      "stars_today": "1,397 stars today",
-      "stars_total": "17,991"
+      "stars_today": "891 stars today",
+      "stars_total": "18,571"
     },
     {
-      "name": "openai/plugins",
-      "url": "https://github.com/openai/plugins",
-      "description": "OpenAI Plugins",
-      "language": "JavaScript",
-      "stars_today": "498 stars today",
-      "stars_total": "6,191"
+      "name": "cathrynlavery/diagram-design",
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "language": "HTML",
+      "stars_today": "1,287 stars today",
+      "stars_total": "37,481"
     },
     {
       "name": "freestylefly/awesome-gpt-image-2",
       "url": "https://github.com/freestylefly/awesome-gpt-image-2",
-      "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
+      "description": "Prompt as Code | GPT Image 2 / 2.5 提示词与案例库，530+ 个案例、20+ 套工业级模板与可复用 Skills，新增 2.5 同提示词对比专区，附完整提示词与生成记录，持续更新。",
       "language": "JavaScript",
-      "stars_today": "705 stars today",
-      "stars_total": "30,030"
+      "stars_today": "957 stars today",
+      "stars_total": "30,739"
+    },
+    {
+      "name": "armory3d/armorpaint",
+      "url": "https://github.com/armory3d/armorpaint",
+      "description": "Graphics Creation Tools",
+      "language": "C",
+      "stars_today": "87 stars today",
+      "stars_total": "4,307"
     }
   ],
   "ai_repos": [
@@ -89,72 +89,64 @@
       "url": "https://github.com/ayghri/i-have-adhd",
       "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
       "language": "Python",
-      "stars_today": "4,650 stars today",
-      "stars_total": "34,606"
-    },
-    {
-      "name": "Tencent/teamai-cli",
-      "url": "https://github.com/Tencent/teamai-cli",
-      "description": "Make Every Team AI Native",
-      "language": "TypeScript",
-      "stars_today": "556 stars today",
-      "stars_total": "2,973"
+      "stars_today": "3,854 stars today",
+      "stars_total": "37,398"
     },
     {
       "name": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
-      "stars_today": "688 stars today",
-      "stars_total": "284,022"
+      "stars_today": "731 stars today",
+      "stars_total": "284,531"
     },
     {
-      "name": "pascalorg/editor",
-      "url": "https://github.com/pascalorg/editor",
-      "description": "Open-source 3D architectural editor with a local CLI, MCP tools, and practical workflows for humans and AI agents.",
+      "name": "alsk1992/CloddsBot",
+      "url": "https://github.com/alsk1992/CloddsBot",
+      "description": "Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans for edge, executes instantly, manages risk while you sleep. Agent commerce protocol for machine-to-machine payments. Self-hosted. Built on Claude.",
       "language": "TypeScript",
-      "stars_today": "107 stars today",
-      "stars_total": "22,914"
+      "stars_today": "299 stars today",
+      "stars_total": "1,449"
     },
     {
-      "name": "earthtojake/text-to-cad",
-      "url": "https://github.com/earthtojake/text-to-cad",
-      "description": "A library of agent skills for CAD, CAE and CAM",
-      "language": "Python",
-      "stars_today": "124 stars today",
-      "stars_total": "15,029"
+      "name": "Tencent/teamai-cli",
+      "url": "https://github.com/Tencent/teamai-cli",
+      "description": "Make Every Team AI Native",
+      "language": "TypeScript",
+      "stars_today": "837 stars today",
+      "stars_total": "3,643"
+    },
+    {
+      "name": "AlexsJones/llmfit",
+      "url": "https://github.com/AlexsJones/llmfit",
+      "description": "Hundreds of models & providers. One command to find what runs on your hardware.",
+      "language": "Rust",
+      "stars_today": "247 stars today",
+      "stars_total": "35,605"
     },
     {
       "name": "cathrynlavery/diagram-design",
       "url": "https://github.com/cathrynlavery/diagram-design",
       "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
       "language": "HTML",
-      "stars_today": "2,249 stars today",
-      "stars_total": "36,582"
-    },
-    {
-      "name": "TauricResearch/TradingAgents",
-      "url": "https://github.com/TauricResearch/TradingAgents",
-      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
-      "language": "Python",
-      "stars_today": "367 stars today",
-      "stars_total": "103,948"
-    },
-    {
-      "name": "openai/plugins",
-      "url": "https://github.com/openai/plugins",
-      "description": "OpenAI Plugins",
-      "language": "JavaScript",
-      "stars_today": "498 stars today",
-      "stars_total": "6,191"
+      "stars_today": "1,287 stars today",
+      "stars_total": "37,481"
     },
     {
       "name": "freestylefly/awesome-gpt-image-2",
       "url": "https://github.com/freestylefly/awesome-gpt-image-2",
-      "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
+      "description": "Prompt as Code | GPT Image 2 / 2.5 提示词与案例库，530+ 个案例、20+ 套工业级模板与可复用 Skills，新增 2.5 同提示词对比专区，附完整提示词与生成记录，持续更新。",
       "language": "JavaScript",
-      "stars_today": "705 stars today",
-      "stars_total": "30,030"
+      "stars_today": "957 stars today",
+      "stars_total": "30,739"
+    },
+    {
+      "name": "armory3d/armorpaint",
+      "url": "https://github.com/armory3d/armorpaint",
+      "description": "Graphics Creation Tools",
+      "language": "C",
+      "stars_today": "87 stars today",
+      "stars_total": "4,307"
     }
   ],
   "posts": [
@@ -164,25 +156,6 @@
       "cover_line1": "i-have-adh",
       "cover_line2": "今日 GitHub 热榜！",
       "body": "🔥 GitHub Trending 今日爆款来了！\n\n**ayghri/i-have-adhd**\n\n📌 A skill to stop your coding agent from burying the answer. ADHD-friendly output.\n\n🔗 https://github.com/ayghri/i-have-adhd\n\n关注我，每天第一时间 AI 动态 👇",
-      "tags": [
-        "AI",
-        "GitHub",
-        "开源",
-        "热门项目",
-        "大模型",
-        "机器学习",
-        "深度学习",
-        "AI工具",
-        "技术",
-        "炼丹"
-      ]
-    },
-    {
-      "topic": "teamai-cli",
-      "repo": "Tencent/teamai-cli",
-      "cover_line1": "teamai-cli",
-      "cover_line2": "今日 GitHub 热榜！",
-      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**Tencent/teamai-cli**\n\n📌 Make Every Team AI Native\n\n🔗 https://github.com/Tencent/teamai-cli\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "GitHub",
@@ -216,11 +189,30 @@
       ]
     },
     {
-      "topic": "editor",
-      "repo": "pascalorg/editor",
-      "cover_line1": "editor",
+      "topic": "CloddsBot",
+      "repo": "alsk1992/CloddsBot",
+      "cover_line1": "CloddsBot",
       "cover_line2": "今日 GitHub 热榜！",
-      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**pascalorg/editor**\n\n📌 Open-source 3D architectural editor with a local CLI, MCP tools, and practical workflows for humans and AI agents.\n\n🔗 https://github.com/pascalorg/editor\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**alsk1992/CloddsBot**\n\n📌 Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans for edge, executes instantly, manages risk while you sleep. Agent commerce protocol for machine-to-machine payments. Self-hosted. Built on Claude.\n\n🔗 https://github.com/alsk1992/CloddsBot\n\n关注我，每天第一时间 AI 动态 👇",
+      "tags": [
+        "AI",
+        "GitHub",
+        "开源",
+        "热门项目",
+        "大模型",
+        "机器学习",
+        "深度学习",
+        "AI工具",
+        "技术",
+        "炼丹"
+      ]
+    },
+    {
+      "topic": "teamai-cli",
+      "repo": "Tencent/teamai-cli",
+      "cover_line1": "teamai-cli",
+      "cover_line2": "今日 GitHub 热榜！",
+      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**Tencent/teamai-cli**\n\n📌 Make Every Team AI Native\n\n🔗 https://github.com/Tencent/teamai-cli\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "GitHub",
@@ -236,10 +228,10 @@
     }
   ],
   "image_paths": [
-    "assets/2026-09-10/trending/summary.png",
-    "assets/2026-09-10/trending/post1.png",
-    "assets/2026-09-10/trending/post2.png",
-    "assets/2026-09-10/trending/post3.png",
-    "assets/2026-09-10/trending/post4.png"
+    "assets/2026-09-11/trending/summary.png",
+    "assets/2026-09-11/trending/post1.png",
+    "assets/2026-09-11/trending/post2.png",
+    "assets/2026-09-11/trending/post3.png",
+    "assets/2026-09-11/trending/post4.png"
   ]
 }
