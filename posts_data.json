@@ -1,11 +1,11 @@
 {
-  "date": "2026-09-09",
+  "date": "2026-09-10",
   "posts": [
     {
-      "topic": "Muse – Meta’s person",
-      "cover_line1": "Muse – Met",
+      "topic": "Muse, the band, lost",
+      "cover_line1": "Muse, the ",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Muse – Meta’s personal AI agent**\n\n📌 来源：HackerNews\n🔗 https://ai.meta.com/muse/\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Muse, the band, lost its social media handles to Muse, Meta's new AI agent**\n\n📌 来源：HackerNews\n🔗 https://www.engadget.com/2254419/muse-the-band-lost-its-social-media-handles-to-muse-meta-s-new-ai-agent/\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -20,10 +20,10 @@
       ]
     },
     {
-      "topic": "Large language model",
-      "cover_line1": "Large lang",
+      "topic": "Shopify acquires Tai",
+      "cover_line1": "Shopify ac",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Large language models develop novel social biases through adaptive exploration**\n\n📌 来源：HackerNews\n🔗 https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Shopify acquires Tailwind**\n\n📌 来源：HackerNews\n🔗 https://tailwindcss.com/blog/tailwind-is-joining-shopify\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -38,10 +38,10 @@
       ]
     },
     {
-      "topic": "I-have-ADHD: A skill",
-      "cover_line1": "I-have-ADH",
+      "topic": "AirPods 5",
+      "cover_line1": "AirPods 5",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**I-have-ADHD: A skill to stop coding agents from burying the answer**\n\n📌 来源：HackerNews\n🔗 https://github.com/ayghri/i-have-adhd\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**AirPods 5**\n\n📌 来源：HackerNews\n🔗 https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -56,10 +56,10 @@
       ]
     },
     {
-      "topic": "I Resigned from Anth",
-      "cover_line1": "I Resigned",
+      "topic": "GPT-6 Astra, looped ",
+      "cover_line1": "GPT-6 Astr",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**I Resigned from Anthropic Today**\n\n📌 来源：HackerNews\n🔗 https://xcancel.com/hilbertspaess/status/2097476196791709843#m\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**GPT-6 Astra, looped transformers, and hidden reasoning**\n\n📌 来源：HackerNews\n🔗 https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -75,15 +75,15 @@
     }
   ],
   "image_paths": [
-    "assets/2026-09-09/cover1.png",
-    "assets/2026-09-09/cover2.png",
-    "assets/2026-09-09/cover3.png",
-    "assets/2026-09-09/cover4.png"
+    "assets/2026-09-10/cover1.png",
+    "assets/2026-09-10/cover2.png",
+    "assets/2026-09-10/cover3.png",
+    "assets/2026-09-10/cover4.png"
   ],
   "feishu_image_paths": [
-    "assets/2026-09-09/cover1_feishu.png",
-    "assets/2026-09-09/cover2_feishu.png",
-    "assets/2026-09-09/cover3_feishu.png",
-    "assets/2026-09-09/cover4_feishu.png"
+    "assets/2026-09-10/cover1_feishu.png",
+    "assets/2026-09-10/cover2_feishu.png",
+    "assets/2026-09-10/cover3_feishu.png",
+    "assets/2026-09-10/cover4_feishu.png"
   ]
 }
