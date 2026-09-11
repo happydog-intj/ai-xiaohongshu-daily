@@ -1,5 +1,5 @@
 {
-  "date": "2026-09-11",
+  "date": "2026-09-12",
   "slot": "早报",
   "all_repos": [
     {
@@ -7,80 +7,80 @@
       "url": "https://github.com/ayghri/i-have-adhd",
       "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
       "language": "Python",
-      "stars_today": "3,882 stars today",
-      "stars_total": "38,285"
+      "stars_today": "3,440 stars today",
+      "stars_total": "40,807"
     },
     {
       "name": "bilawalsidhu/gods-eye-view",
       "url": "https://github.com/bilawalsidhu/gods-eye-view",
       "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
       "language": "JavaScript",
-      "stars_today": "1,762 stars today",
-      "stars_total": "24,269"
+      "stars_today": "3,642 stars today",
+      "stars_total": "26,401"
     },
     {
-      "name": "obra/superpowers",
-      "url": "https://github.com/obra/superpowers",
-      "description": "An agentic skills framework & software development methodology that works.",
-      "language": "Shell",
-      "stars_today": "732 stars today",
-      "stars_total": "284,695"
-    },
-    {
-      "name": "alsk1992/CloddsBot",
-      "url": "https://github.com/alsk1992/CloddsBot",
-      "description": "Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans for edge, executes instantly, manages risk while you sleep. Agent commerce protocol for machine-to-machine payments. Self-hosted. Built on Claude.",
+      "name": "nab138/iloader",
+      "url": "https://github.com/nab138/iloader",
+      "description": "User friendly sideloader",
       "language": "TypeScript",
-      "stars_today": "277 stars today",
-      "stars_total": "1,643"
+      "stars_today": "36 stars today",
+      "stars_total": "2,846"
     },
     {
-      "name": "Tencent/teamai-cli",
-      "url": "https://github.com/Tencent/teamai-cli",
-      "description": "Make Every Team AI Native",
+      "name": "melgarafael/DeskcommCRM",
+      "url": "https://github.com/melgarafael/DeskcommCRM",
+      "description": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.",
       "language": "TypeScript",
-      "stars_today": "841 stars today",
-      "stars_total": "3,785"
+      "stars_today": "126 stars today",
+      "stars_total": "1,197"
     },
     {
-      "name": "AlexsJones/llmfit",
-      "url": "https://github.com/AlexsJones/llmfit",
-      "description": "Hundreds of models & providers. One command to find what runs on your hardware.",
-      "language": "Rust",
-      "stars_today": "258 stars today",
-      "stars_total": "35,731"
-    },
-    {
-      "name": "liquidslr/system-design-notes",
-      "url": "https://github.com/liquidslr/system-design-notes",
-      "description": "Notes of the book System Desgin Interview - An Insider's Guide",
-      "language": "",
-      "stars_today": "900 stars today",
-      "stars_total": "18,775"
-    },
-    {
-      "name": "cathrynlavery/diagram-design",
-      "url": "https://github.com/cathrynlavery/diagram-design",
-      "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
-      "language": "HTML",
-      "stars_today": "1,294 stars today",
-      "stars_total": "37,748"
-    },
-    {
-      "name": "freestylefly/awesome-gpt-image-2",
-      "url": "https://github.com/freestylefly/awesome-gpt-image-2",
-      "description": "Prompt as Code | GPT Image 2 / 2.5 提示词与案例库，530+ 个案例、20+ 套工业级模板与可复用 Skills，新增 2.5 同提示词对比专区，附完整提示词与生成记录，持续更新。",
-      "language": "JavaScript",
-      "stars_today": "962 stars today",
-      "stars_total": "30,835"
+      "name": "vastsa/PI-Desktop",
+      "url": "https://github.com/vastsa/PI-Desktop",
+      "description": "Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins",
+      "language": "TypeScript",
+      "stars_today": "545 stars today",
+      "stars_total": "2,688"
     },
     {
       "name": "armory3d/armorpaint",
       "url": "https://github.com/armory3d/armorpaint",
       "description": "Graphics Creation Tools",
       "language": "C",
-      "stars_today": "72 stars today",
-      "stars_total": "4,417"
+      "stars_today": "354 stars today",
+      "stars_total": "4,661"
+    },
+    {
+      "name": "alsk1992/CloddsBot",
+      "url": "https://github.com/alsk1992/CloddsBot",
+      "description": "Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans for edge, executes instantly, manages risk while you sleep. Agent commerce protocol for machine-to-machine payments. Self-hosted. Built on Claude.",
+      "language": "TypeScript",
+      "stars_today": "627 stars today",
+      "stars_total": "2,030"
+    },
+    {
+      "name": "nashsu/llm_wiki",
+      "url": "https://github.com/nashsu/llm_wiki",
+      "description": "LLM Wiki is a cross-platform desktop application that turns your documents into an organized, interlinked knowledge base — automatically. Instead of traditional RAG (retrieve-and-answer from scratch every time), the LLM incrementally builds and maintains a persistent wiki from your sources。",
+      "language": "TypeScript",
+      "stars_today": "640 stars today",
+      "stars_total": "18,585"
+    },
+    {
+      "name": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars_today": "731 stars today",
+      "stars_total": "285,212"
+    },
+    {
+      "name": "Sonarr/Sonarr",
+      "url": "https://github.com/Sonarr/Sonarr",
+      "description": "Smart PVR for newsgroup and bittorrent users.",
+      "language": "C#",
+      "stars_today": "174 stars today",
+      "stars_total": "15,664"
     }
   ],
   "ai_repos": [
@@ -89,64 +89,56 @@
       "url": "https://github.com/ayghri/i-have-adhd",
       "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
       "language": "Python",
-      "stars_today": "3,882 stars today",
-      "stars_total": "38,285"
+      "stars_today": "3,440 stars today",
+      "stars_total": "40,807"
     },
     {
-      "name": "obra/superpowers",
-      "url": "https://github.com/obra/superpowers",
-      "description": "An agentic skills framework & software development methodology that works.",
-      "language": "Shell",
-      "stars_today": "732 stars today",
-      "stars_total": "284,695"
-    },
-    {
-      "name": "alsk1992/CloddsBot",
-      "url": "https://github.com/alsk1992/CloddsBot",
-      "description": "Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans for edge, executes instantly, manages risk while you sleep. Agent commerce protocol for machine-to-machine payments. Self-hosted. Built on Claude.",
+      "name": "melgarafael/DeskcommCRM",
+      "url": "https://github.com/melgarafael/DeskcommCRM",
+      "description": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.",
       "language": "TypeScript",
-      "stars_today": "277 stars today",
-      "stars_total": "1,643"
+      "stars_today": "126 stars today",
+      "stars_total": "1,197"
     },
     {
-      "name": "Tencent/teamai-cli",
-      "url": "https://github.com/Tencent/teamai-cli",
-      "description": "Make Every Team AI Native",
+      "name": "vastsa/PI-Desktop",
+      "url": "https://github.com/vastsa/PI-Desktop",
+      "description": "Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins",
       "language": "TypeScript",
-      "stars_today": "841 stars today",
-      "stars_total": "3,785"
-    },
-    {
-      "name": "AlexsJones/llmfit",
-      "url": "https://github.com/AlexsJones/llmfit",
-      "description": "Hundreds of models & providers. One command to find what runs on your hardware.",
-      "language": "Rust",
-      "stars_today": "258 stars today",
-      "stars_total": "35,731"
-    },
-    {
-      "name": "cathrynlavery/diagram-design",
-      "url": "https://github.com/cathrynlavery/diagram-design",
-      "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
-      "language": "HTML",
-      "stars_today": "1,294 stars today",
-      "stars_total": "37,748"
-    },
-    {
-      "name": "freestylefly/awesome-gpt-image-2",
-      "url": "https://github.com/freestylefly/awesome-gpt-image-2",
-      "description": "Prompt as Code | GPT Image 2 / 2.5 提示词与案例库，530+ 个案例、20+ 套工业级模板与可复用 Skills，新增 2.5 同提示词对比专区，附完整提示词与生成记录，持续更新。",
-      "language": "JavaScript",
-      "stars_today": "962 stars today",
-      "stars_total": "30,835"
+      "stars_today": "545 stars today",
+      "stars_total": "2,688"
     },
     {
       "name": "armory3d/armorpaint",
       "url": "https://github.com/armory3d/armorpaint",
       "description": "Graphics Creation Tools",
       "language": "C",
-      "stars_today": "72 stars today",
-      "stars_total": "4,417"
+      "stars_today": "354 stars today",
+      "stars_total": "4,661"
+    },
+    {
+      "name": "alsk1992/CloddsBot",
+      "url": "https://github.com/alsk1992/CloddsBot",
+      "description": "Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans for edge, executes instantly, manages risk while you sleep. Agent commerce protocol for machine-to-machine payments. Self-hosted. Built on Claude.",
+      "language": "TypeScript",
+      "stars_today": "627 stars today",
+      "stars_total": "2,030"
+    },
+    {
+      "name": "nashsu/llm_wiki",
+      "url": "https://github.com/nashsu/llm_wiki",
+      "description": "LLM Wiki is a cross-platform desktop application that turns your documents into an organized, interlinked knowledge base — automatically. Instead of traditional RAG (retrieve-and-answer from scratch every time), the LLM incrementally builds and maintains a persistent wiki from your sources。",
+      "language": "TypeScript",
+      "stars_today": "640 stars today",
+      "stars_total": "18,585"
+    },
+    {
+      "name": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars_today": "731 stars today",
+      "stars_total": "285,212"
     }
   ],
   "posts": [
@@ -170,11 +162,11 @@
       ]
     },
     {
-      "topic": "superpowers",
-      "repo": "obra/superpowers",
-      "cover_line1": "superpower",
+      "topic": "DeskcommCRM",
+      "repo": "melgarafael/DeskcommCRM",
+      "cover_line1": "DeskcommCR",
       "cover_line2": "今日 GitHub 热榜！",
-      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**obra/superpowers**\n\n📌 An agentic skills framework & software development methodology that works.\n\n🔗 https://github.com/obra/superpowers\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**melgarafael/DeskcommCRM**\n\n📌 Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.\n\n🔗 https://github.com/melgarafael/DeskcommCRM\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "GitHub",
@@ -189,11 +181,11 @@
       ]
     },
     {
-      "topic": "CloddsBot",
-      "repo": "alsk1992/CloddsBot",
-      "cover_line1": "CloddsBot",
+      "topic": "PI-Desktop",
+      "repo": "vastsa/PI-Desktop",
+      "cover_line1": "PI-Desktop",
       "cover_line2": "今日 GitHub 热榜！",
-      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**alsk1992/CloddsBot**\n\n📌 Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans for edge, executes instantly, manages risk while you sleep. Agent commerce protocol for machine-to-machine payments. Self-hosted. Built on Claude.\n\n🔗 https://github.com/alsk1992/CloddsBot\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**vastsa/PI-Desktop**\n\n📌 Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins\n\n🔗 https://github.com/vastsa/PI-Desktop\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "GitHub",
@@ -208,11 +200,11 @@
       ]
     },
     {
-      "topic": "teamai-cli",
-      "repo": "Tencent/teamai-cli",
-      "cover_line1": "teamai-cli",
+      "topic": "armorpaint",
+      "repo": "armory3d/armorpaint",
+      "cover_line1": "armorpaint",
       "cover_line2": "今日 GitHub 热榜！",
-      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**Tencent/teamai-cli**\n\n📌 Make Every Team AI Native\n\n🔗 https://github.com/Tencent/teamai-cli\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**armory3d/armorpaint**\n\n📌 Graphics Creation Tools\n\n🔗 https://github.com/armory3d/armorpaint\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "GitHub",
@@ -228,10 +220,10 @@
     }
   ],
   "image_paths": [
-    "assets/2026-09-11/trending/summary.png",
-    "assets/2026-09-11/trending/post1.png",
-    "assets/2026-09-11/trending/post2.png",
-    "assets/2026-09-11/trending/post3.png",
-    "assets/2026-09-11/trending/post4.png"
+    "assets/2026-09-12/trending/summary.png",
+    "assets/2026-09-12/trending/post1.png",
+    "assets/2026-09-12/trending/post2.png",
+    "assets/2026-09-12/trending/post3.png",
+    "assets/2026-09-12/trending/post4.png"
   ]
 }
