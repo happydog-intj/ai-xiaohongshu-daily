@@ -1,11 +1,11 @@
 {
-  "date": "2026-09-10",
+  "date": "2026-09-11",
   "posts": [
     {
-      "topic": "Muse, the band, lost",
-      "cover_line1": "Muse, the ",
+      "topic": "More questions about",
+      "cover_line1": "More quest",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Muse, the band, lost its social media handles to Muse, Meta's new AI agent**\n\n📌 来源：HackerNews\n🔗 https://www.engadget.com/2254419/muse-the-band-lost-its-social-media-handles-to-muse-meta-s-new-ai-agent/\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**More questions about whether researchers can trust OpenAI with unpublished math**\n\n📌 来源：HackerNews\n🔗 https://mathstodon.xyz/@andreasthom/117240535270608201\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -20,10 +20,10 @@
       ]
     },
     {
-      "topic": "Shopify acquires Tai",
-      "cover_line1": "Shopify ac",
+      "topic": "OpenAI Agents API",
+      "cover_line1": "OpenAI Age",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Shopify acquires Tailwind**\n\n📌 来源：HackerNews\n🔗 https://tailwindcss.com/blog/tailwind-is-joining-shopify\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**OpenAI Agents API**\n\n📌 来源：HackerNews\n🔗 https://developers.openai.com/api/docs/guides/agents-api/overview\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -38,10 +38,10 @@
       ]
     },
     {
-      "topic": "AirPods 5",
-      "cover_line1": "AirPods 5",
+      "topic": "Cognition launches n",
+      "cover_line1": "Cognition ",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**AirPods 5**\n\n📌 来源：HackerNews\n🔗 https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra**\n\n📌 来源：HackerNews\n🔗 https://cognition.com/blog/swe-2\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -56,10 +56,10 @@
       ]
     },
     {
-      "topic": "GPT-6 Astra, looped ",
-      "cover_line1": "GPT-6 Astr",
+      "topic": "OpenAI’s Navier-Stok",
+      "cover_line1": "OpenAI’s N",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**GPT-6 Astra, looped transformers, and hidden reasoning**\n\n📌 来源：HackerNews\n🔗 https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**OpenAI’s Navier-Stokes release included a Lean 4 formal proof**\n\n📌 来源：HackerNews\n🔗 https://www.johndcook.com/blog/2026/09/09/formal-method-revolution/\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -75,15 +75,15 @@
     }
   ],
   "image_paths": [
-    "assets/2026-09-10/cover1.png",
-    "assets/2026-09-10/cover2.png",
-    "assets/2026-09-10/cover3.png",
-    "assets/2026-09-10/cover4.png"
+    "assets/2026-09-11/cover1.png",
+    "assets/2026-09-11/cover2.png",
+    "assets/2026-09-11/cover3.png",
+    "assets/2026-09-11/cover4.png"
   ],
   "feishu_image_paths": [
-    "assets/2026-09-10/cover1_feishu.png",
-    "assets/2026-09-10/cover2_feishu.png",
-    "assets/2026-09-10/cover3_feishu.png",
-    "assets/2026-09-10/cover4_feishu.png"
+    "assets/2026-09-11/cover1_feishu.png",
+    "assets/2026-09-11/cover2_feishu.png",
+    "assets/2026-09-11/cover3_feishu.png",
+    "assets/2026-09-11/cover4_feishu.png"
   ]
 }
