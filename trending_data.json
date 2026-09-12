@@ -7,80 +7,80 @@
       "url": "https://github.com/ayghri/i-have-adhd",
       "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
       "language": "Python",
-      "stars_today": "3,440 stars today",
-      "stars_total": "40,807"
+      "stars_today": "3,463 stars today",
+      "stars_total": "41,823"
     },
     {
       "name": "bilawalsidhu/gods-eye-view",
       "url": "https://github.com/bilawalsidhu/gods-eye-view",
       "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
       "language": "JavaScript",
-      "stars_today": "3,642 stars today",
-      "stars_total": "26,401"
+      "stars_today": "3,680 stars today",
+      "stars_total": "27,113"
     },
     {
       "name": "nab138/iloader",
       "url": "https://github.com/nab138/iloader",
       "description": "User friendly sideloader",
       "language": "TypeScript",
-      "stars_today": "36 stars today",
-      "stars_total": "2,846"
+      "stars_today": "50 stars today",
+      "stars_total": "2,906"
     },
     {
       "name": "melgarafael/DeskcommCRM",
       "url": "https://github.com/melgarafael/DeskcommCRM",
       "description": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.",
       "language": "TypeScript",
-      "stars_today": "126 stars today",
-      "stars_total": "1,197"
+      "stars_today": "152 stars today",
+      "stars_total": "1,343"
     },
     {
       "name": "vastsa/PI-Desktop",
       "url": "https://github.com/vastsa/PI-Desktop",
       "description": "Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins",
       "language": "TypeScript",
-      "stars_today": "545 stars today",
-      "stars_total": "2,688"
+      "stars_today": "552 stars today",
+      "stars_total": "2,776"
     },
     {
       "name": "armory3d/armorpaint",
       "url": "https://github.com/armory3d/armorpaint",
       "description": "Graphics Creation Tools",
       "language": "C",
-      "stars_today": "354 stars today",
-      "stars_total": "4,661"
+      "stars_today": "350 stars today",
+      "stars_total": "4,721"
     },
     {
       "name": "alsk1992/CloddsBot",
       "url": "https://github.com/alsk1992/CloddsBot",
       "description": "Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans for edge, executes instantly, manages risk while you sleep. Agent commerce protocol for machine-to-machine payments. Self-hosted. Built on Claude.",
       "language": "TypeScript",
-      "stars_today": "627 stars today",
-      "stars_total": "2,030"
+      "stars_today": "626 stars today",
+      "stars_total": "2,151"
     },
     {
       "name": "nashsu/llm_wiki",
       "url": "https://github.com/nashsu/llm_wiki",
       "description": "LLM Wiki is a cross-platform desktop application that turns your documents into an organized, interlinked knowledge base — automatically. Instead of traditional RAG (retrieve-and-answer from scratch every time), the LLM incrementally builds and maintains a persistent wiki from your sources。",
       "language": "TypeScript",
-      "stars_today": "640 stars today",
-      "stars_total": "18,585"
+      "stars_today": "647 stars today",
+      "stars_total": "18,734"
     },
     {
       "name": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
-      "stars_today": "731 stars today",
-      "stars_total": "285,212"
+      "stars_today": "729 stars today",
+      "stars_total": "285,376"
     },
     {
       "name": "Sonarr/Sonarr",
       "url": "https://github.com/Sonarr/Sonarr",
       "description": "Smart PVR for newsgroup and bittorrent users.",
       "language": "C#",
-      "stars_today": "174 stars today",
-      "stars_total": "15,664"
+      "stars_today": "191 stars today",
+      "stars_total": "15,736"
     }
   ],
   "ai_repos": [
@@ -89,56 +89,56 @@
       "url": "https://github.com/ayghri/i-have-adhd",
       "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
       "language": "Python",
-      "stars_today": "3,440 stars today",
-      "stars_total": "40,807"
+      "stars_today": "3,463 stars today",
+      "stars_total": "41,823"
     },
     {
       "name": "melgarafael/DeskcommCRM",
       "url": "https://github.com/melgarafael/DeskcommCRM",
       "description": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.",
       "language": "TypeScript",
-      "stars_today": "126 stars today",
-      "stars_total": "1,197"
+      "stars_today": "152 stars today",
+      "stars_total": "1,343"
     },
     {
       "name": "vastsa/PI-Desktop",
       "url": "https://github.com/vastsa/PI-Desktop",
       "description": "Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins",
       "language": "TypeScript",
-      "stars_today": "545 stars today",
-      "stars_total": "2,688"
+      "stars_today": "552 stars today",
+      "stars_total": "2,776"
     },
     {
       "name": "armory3d/armorpaint",
       "url": "https://github.com/armory3d/armorpaint",
       "description": "Graphics Creation Tools",
       "language": "C",
-      "stars_today": "354 stars today",
-      "stars_total": "4,661"
+      "stars_today": "350 stars today",
+      "stars_total": "4,721"
     },
     {
       "name": "alsk1992/CloddsBot",
       "url": "https://github.com/alsk1992/CloddsBot",
       "description": "Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans for edge, executes instantly, manages risk while you sleep. Agent commerce protocol for machine-to-machine payments. Self-hosted. Built on Claude.",
       "language": "TypeScript",
-      "stars_today": "627 stars today",
-      "stars_total": "2,030"
+      "stars_today": "626 stars today",
+      "stars_total": "2,151"
     },
     {
       "name": "nashsu/llm_wiki",
       "url": "https://github.com/nashsu/llm_wiki",
       "description": "LLM Wiki is a cross-platform desktop application that turns your documents into an organized, interlinked knowledge base — automatically. Instead of traditional RAG (retrieve-and-answer from scratch every time), the LLM incrementally builds and maintains a persistent wiki from your sources。",
       "language": "TypeScript",
-      "stars_today": "640 stars today",
-      "stars_total": "18,585"
+      "stars_today": "647 stars today",
+      "stars_total": "18,734"
     },
     {
       "name": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
-      "stars_today": "731 stars today",
-      "stars_total": "285,212"
+      "stars_today": "729 stars today",
+      "stars_total": "285,376"
     }
   ],
   "posts": [
