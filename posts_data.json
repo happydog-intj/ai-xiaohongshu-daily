@@ -1,11 +1,11 @@
 {
-  "date": "2026-09-11",
+  "date": "2026-09-12",
   "posts": [
     {
-      "topic": "More questions about",
-      "cover_line1": "More quest",
+      "topic": "A misalignment of AI",
+      "cover_line1": "A misalign",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**More questions about whether researchers can trust OpenAI with unpublished math**\n\n📌 来源：HackerNews\n🔗 https://mathstodon.xyz/@andreasthom/117240535270608201\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**A misalignment of AI in mathematics**\n\n📌 来源：HackerNews\n🔗 https://mathandai.org/\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -20,10 +20,10 @@
       ]
     },
     {
-      "topic": "OpenAI Agents API",
-      "cover_line1": "OpenAI Age",
+      "topic": "OpenAI agents carrie",
+      "cover_line1": "OpenAI age",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**OpenAI Agents API**\n\n📌 来源：HackerNews\n🔗 https://developers.openai.com/api/docs/guides/agents-api/overview\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**OpenAI agents carried out an undisclosed attack on RubyGems**\n\n📌 来源：HackerNews\n🔗 https://www.rubyhack.ai/\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -38,10 +38,10 @@
       ]
     },
     {
-      "topic": "Cognition launches n",
-      "cover_line1": "Cognition ",
+      "topic": "A Design Space Explo",
+      "cover_line1": "A Design S",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra**\n\n📌 来源：HackerNews\n🔗 https://cognition.com/blog/swe-2\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**A Design Space Exploration of Async/Await**\n\n📌 来源：HackerNews\n🔗 https://cel.cs.brown.edu/blog/design-space-async-await/\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -56,10 +56,10 @@
       ]
     },
     {
-      "topic": "OpenAI’s Navier-Stok",
-      "cover_line1": "OpenAI’s N",
+      "topic": "Litelm: LiteLLM With",
+      "cover_line1": "Litelm: Li",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**OpenAI’s Navier-Stokes release included a Lean 4 formal proof**\n\n📌 来源：HackerNews\n🔗 https://www.johndcook.com/blog/2026/09/09/formal-method-revolution/\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Litelm: LiteLLM Without the Bloat**\n\n📌 来源：HackerNews\n🔗 https://github.com/kennethwolters/litelm\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -75,15 +75,15 @@
     }
   ],
   "image_paths": [
-    "assets/2026-09-11/cover1.png",
-    "assets/2026-09-11/cover2.png",
-    "assets/2026-09-11/cover3.png",
-    "assets/2026-09-11/cover4.png"
+    "assets/2026-09-12/cover1.png",
+    "assets/2026-09-12/cover2.png",
+    "assets/2026-09-12/cover3.png",
+    "assets/2026-09-12/cover4.png"
   ],
   "feishu_image_paths": [
-    "assets/2026-09-11/cover1_feishu.png",
-    "assets/2026-09-11/cover2_feishu.png",
-    "assets/2026-09-11/cover3_feishu.png",
-    "assets/2026-09-11/cover4_feishu.png"
+    "assets/2026-09-12/cover1_feishu.png",
+    "assets/2026-09-12/cover2_feishu.png",
+    "assets/2026-09-12/cover3_feishu.png",
+    "assets/2026-09-12/cover4_feishu.png"
   ]
 }
