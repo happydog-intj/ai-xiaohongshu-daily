@@ -1,11 +1,11 @@
 {
-  "date": "2026-09-12",
+  "date": "2026-09-13",
   "posts": [
     {
-      "topic": "A misalignment of AI",
-      "cover_line1": "A misalign",
+      "topic": "Real-SWE: Benchmarki",
+      "cover_line1": "Real-SWE: ",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**A misalignment of AI in mathematics**\n\n📌 来源：HackerNews\n🔗 https://mathandai.org/\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases**\n\n📌 来源：HackerNews\n🔗 https://withspecific.com/benchmarks/real-swe\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -20,10 +20,10 @@
       ]
     },
     {
-      "topic": "OpenAI agents carrie",
-      "cover_line1": "OpenAI age",
+      "topic": "Nvidia is the centra",
+      "cover_line1": "Nvidia is ",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**OpenAI agents carried out an undisclosed attack on RubyGems**\n\n📌 来源：HackerNews\n🔗 https://www.rubyhack.ai/\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Nvidia is the central bank of AI**\n\n📌 来源：HackerNews\n🔗 https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -38,10 +38,10 @@
       ]
     },
     {
-      "topic": "A Design Space Explo",
-      "cover_line1": "A Design S",
+      "topic": "Getting 50 GB/S Back",
+      "cover_line1": "Getting 50",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**A Design Space Exploration of Async/Await**\n\n📌 来源：HackerNews\n🔗 https://cel.cs.brown.edu/blog/design-space-async-await/\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Getting 50 GB/S Back from the Apple Neural Engine**\n\n📌 来源：HackerNews\n🔗 https://eiln.github.io/posts/ane-dma.html\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -56,10 +56,10 @@
       ]
     },
     {
-      "topic": "Litelm: LiteLLM With",
-      "cover_line1": "Litelm: Li",
+      "topic": "LG denies TV spying ",
+      "cover_line1": "LG denies ",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Litelm: LiteLLM Without the Bloat**\n\n📌 来源：HackerNews\n🔗 https://github.com/kennethwolters/litelm\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**LG denies TV spying claims, says tracking and snooping concerns 'not true'**\n\n📌 来源：HackerNews\n🔗 https://www.tomshardware.com/tech-industry/big-tech/lg-strongly-denies-tv-security-claims-says-tracking-and-snooping-concerns-not-true-online-investigation-claims-216-000-000-spy-tvs-record-audio\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -75,15 +75,15 @@
     }
   ],
   "image_paths": [
-    "assets/2026-09-12/cover1.png",
-    "assets/2026-09-12/cover2.png",
-    "assets/2026-09-12/cover3.png",
-    "assets/2026-09-12/cover4.png"
+    "assets/2026-09-13/cover1.png",
+    "assets/2026-09-13/cover2.png",
+    "assets/2026-09-13/cover3.png",
+    "assets/2026-09-13/cover4.png"
   ],
   "feishu_image_paths": [
-    "assets/2026-09-12/cover1_feishu.png",
-    "assets/2026-09-12/cover2_feishu.png",
-    "assets/2026-09-12/cover3_feishu.png",
-    "assets/2026-09-12/cover4_feishu.png"
+    "assets/2026-09-13/cover1_feishu.png",
+    "assets/2026-09-13/cover2_feishu.png",
+    "assets/2026-09-13/cover3_feishu.png",
+    "assets/2026-09-13/cover4_feishu.png"
   ]
 }
