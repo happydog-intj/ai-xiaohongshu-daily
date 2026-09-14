@@ -1,11 +1,11 @@
 {
-  "date": "2026-09-13",
+  "date": "2026-09-14",
   "posts": [
     {
-      "topic": "Real-SWE: Benchmarki",
-      "cover_line1": "Real-SWE: ",
+      "topic": "Reverse-Engineering ",
+      "cover_line1": "Reverse-En",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases**\n\n📌 来源：HackerNews\n🔗 https://withspecific.com/benchmarks/real-swe\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Reverse-Engineering Claude Web's MicroVM: Uncovering Anthropic's Hidden Antspace**\n\n📌 来源：HackerNews\n🔗 https://aprilnea.me/en/blog/reverse-engineering-claude-code-antspace\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -20,10 +20,10 @@
       ]
     },
     {
-      "topic": "Nvidia is the centra",
-      "cover_line1": "Nvidia is ",
+      "topic": "Sean Carroll explain",
+      "cover_line1": "Sean Carro",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Nvidia is the central bank of AI**\n\n📌 来源：HackerNews\n🔗 https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Sean Carroll explains the biggest ideas in the universe – Full Interview [video] (2025)**\n\n📌 来源：HackerNews\n🔗 https://www.youtube.com/watch?v=_TBNJyztai0\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -38,10 +38,10 @@
       ]
     },
     {
-      "topic": "Getting 50 GB/S Back",
-      "cover_line1": "Getting 50",
+      "topic": "I build a mechanical",
+      "cover_line1": "I build a ",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Getting 50 GB/S Back from the Apple Neural Engine**\n\n📌 来源：HackerNews\n🔗 https://eiln.github.io/posts/ane-dma.html\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**I build a mechanical watch face: a real gear train for a watch with no gears**\n\n📌 来源：HackerNews\n🔗 https://myday24.com/blog/how-a-mechanical-watch-face-is-built/\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -56,10 +56,10 @@
       ]
     },
     {
-      "topic": "LG denies TV spying ",
-      "cover_line1": "LG denies ",
+      "topic": "Garry Tan wants US o",
+      "cover_line1": "Garry Tan ",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**LG denies TV spying claims, says tracking and snooping concerns 'not true'**\n\n📌 来源：HackerNews\n🔗 https://www.tomshardware.com/tech-industry/big-tech/lg-strongly-denies-tv-security-claims-says-tracking-and-snooping-concerns-not-true-online-investigation-claims-216-000-000-spy-tvs-record-audio\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Garry Tan wants US open-weight AI labs to 'distill' frontier models, too**\n\n📌 来源：HackerNews\n🔗 https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -75,15 +75,15 @@
     }
   ],
   "image_paths": [
-    "assets/2026-09-13/cover1.png",
-    "assets/2026-09-13/cover2.png",
-    "assets/2026-09-13/cover3.png",
-    "assets/2026-09-13/cover4.png"
+    "assets/2026-09-14/cover1.png",
+    "assets/2026-09-14/cover2.png",
+    "assets/2026-09-14/cover3.png",
+    "assets/2026-09-14/cover4.png"
   ],
   "feishu_image_paths": [
-    "assets/2026-09-13/cover1_feishu.png",
-    "assets/2026-09-13/cover2_feishu.png",
-    "assets/2026-09-13/cover3_feishu.png",
-    "assets/2026-09-13/cover4_feishu.png"
+    "assets/2026-09-14/cover1_feishu.png",
+    "assets/2026-09-14/cover2_feishu.png",
+    "assets/2026-09-14/cover3_feishu.png",
+    "assets/2026-09-14/cover4_feishu.png"
   ]
 }
