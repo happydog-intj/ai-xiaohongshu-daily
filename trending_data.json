@@ -7,80 +7,80 @@
       "url": "https://github.com/JustVugg/colibri",
       "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
       "language": "C",
-      "stars_today": "652 stars today",
-      "stars_total": "29,260"
+      "stars_today": "868 stars today",
+      "stars_total": "29,799"
     },
     {
       "name": "ever-co/ever-gauzy",
       "url": "https://github.com/ever-co/ever-gauzy",
       "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) -https://gauzy.co",
       "language": "TypeScript",
-      "stars_today": "58 stars today",
-      "stars_total": "4,788"
+      "stars_today": "191 stars today",
+      "stars_total": "5,064"
     },
     {
       "name": "bilawalsidhu/gods-eye-view",
       "url": "https://github.com/bilawalsidhu/gods-eye-view",
       "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
       "language": "JavaScript",
-      "stars_today": "2,898 stars today",
-      "stars_total": "31,328"
+      "stars_today": "2,680 stars today",
+      "stars_total": "31,875"
     },
     {
       "name": "tech-leads-club/agent-skills",
       "url": "https://github.com/tech-leads-club/agent-skills",
       "description": "The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence.",
       "language": "TypeScript",
-      "stars_today": "215 stars today",
-      "stars_total": "5,495"
+      "stars_today": "265 stars today",
+      "stars_total": "5,647"
     },
     {
       "name": "melgarafael/DeskcommCRM",
       "url": "https://github.com/melgarafael/DeskcommCRM",
       "description": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.",
       "language": "TypeScript",
-      "stars_today": "444 stars today",
-      "stars_total": "2,081"
+      "stars_today": "432 stars today",
+      "stars_total": "2,180"
     },
     {
       "name": "calesthio/OpenMontage",
       "url": "https://github.com/calesthio/OpenMontage",
       "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
       "language": "Python",
-      "stars_today": "383 stars today",
-      "stars_total": "58,223"
+      "stars_today": "380 stars today",
+      "stars_total": "58,423"
     },
     {
       "name": "asgeirtj/system_prompts_leaks",
       "url": "https://github.com/asgeirtj/system_prompts_leaks",
       "description": "Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Grok Bot, Cursor, Kimi and more! Updated regularly.",
       "language": "JavaScript",
-      "stars_today": "727 stars today",
-      "stars_total": "65,841"
+      "stars_today": "706 stars today",
+      "stars_total": "66,018"
     },
     {
       "name": "vxcontrol/pentagi",
       "url": "https://github.com/vxcontrol/pentagi",
       "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
       "language": "Go",
-      "stars_today": "613 stars today",
-      "stars_total": "23,794"
+      "stars_today": "590 stars today",
+      "stars_total": "23,968"
     },
     {
       "name": "multimodal-art-projection/YuE",
       "url": "https://github.com/multimodal-art-projection/YuE",
       "description": "YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.",
       "language": "Python",
-      "stars_today": "500 stars today",
-      "stars_total": "7,613"
+      "stars_today": "487 stars today",
+      "stars_total": "7,734"
     },
     {
       "name": "yuliskov/SmartTube",
       "url": "https://github.com/yuliskov/SmartTube",
       "description": "Browse media content with your own rules on Android TV",
       "language": "Java",
-      "stars_today": "238 stars today",
-      "stars_total": "33,365"
+      "stars_today": "233 stars today",
+      "stars_total": "33,447"
     }
   ],
   "ai_repos": [
@@ -89,48 +89,48 @@
       "url": "https://github.com/tech-leads-club/agent-skills",
       "description": "The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence.",
       "language": "TypeScript",
-      "stars_today": "215 stars today",
-      "stars_total": "5,495"
+      "stars_today": "265 stars today",
+      "stars_total": "5,647"
     },
     {
       "name": "melgarafael/DeskcommCRM",
       "url": "https://github.com/melgarafael/DeskcommCRM",
       "description": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.",
       "language": "TypeScript",
-      "stars_today": "444 stars today",
-      "stars_total": "2,081"
+      "stars_today": "432 stars today",
+      "stars_total": "2,180"
     },
     {
       "name": "calesthio/OpenMontage",
       "url": "https://github.com/calesthio/OpenMontage",
       "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
       "language": "Python",
-      "stars_today": "383 stars today",
-      "stars_total": "58,223"
+      "stars_today": "380 stars today",
+      "stars_total": "58,423"
     },
     {
       "name": "asgeirtj/system_prompts_leaks",
       "url": "https://github.com/asgeirtj/system_prompts_leaks",
       "description": "Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Grok Bot, Cursor, Kimi and more! Updated regularly.",
       "language": "JavaScript",
-      "stars_today": "727 stars today",
-      "stars_total": "65,841"
+      "stars_today": "706 stars today",
+      "stars_total": "66,018"
     },
     {
       "name": "vxcontrol/pentagi",
       "url": "https://github.com/vxcontrol/pentagi",
       "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
       "language": "Go",
-      "stars_today": "613 stars today",
-      "stars_total": "23,794"
+      "stars_today": "590 stars today",
+      "stars_total": "23,968"
     },
     {
       "name": "multimodal-art-projection/YuE",
       "url": "https://github.com/multimodal-art-projection/YuE",
       "description": "YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.",
       "language": "Python",
-      "stars_today": "500 stars today",
-      "stars_total": "7,613"
+      "stars_today": "487 stars today",
+      "stars_total": "7,734"
     }
   ],
   "posts": [
