@@ -1,11 +1,11 @@
 {
-  "date": "2026-09-14",
+  "date": "2026-09-15",
   "posts": [
     {
-      "topic": "Reverse-Engineering ",
-      "cover_line1": "Reverse-En",
+      "topic": "Pion, an agent desig",
+      "cover_line1": "Pion, an a",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Reverse-Engineering Claude Web's MicroVM: Uncovering Anthropic's Hidden Antspace**\n\n📌 来源：HackerNews\n🔗 https://aprilnea.me/en/blog/reverse-engineering-claude-code-antspace\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Pion, an agent designed to run any company autonomously**\n\n📌 来源：HackerNews\n🔗 https://andonlabs.com/blog/why-we-built-pion\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -20,10 +20,10 @@
       ]
     },
     {
-      "topic": "Sean Carroll explain",
-      "cover_line1": "Sean Carro",
+      "topic": "OpenAI bots knew abo",
+      "cover_line1": "OpenAI bot",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Sean Carroll explains the biggest ideas in the universe – Full Interview [video] (2025)**\n\n📌 来源：HackerNews\n🔗 https://www.youtube.com/watch?v=_TBNJyztai0\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**OpenAI bots knew about the RubyGems caching vulnerability**\n\n📌 来源：HackerNews\n🔗 https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -38,10 +38,10 @@
       ]
     },
     {
-      "topic": "I build a mechanical",
-      "cover_line1": "I build a ",
+      "topic": "Dropping eBPF CPU Co",
+      "cover_line1": "Dropping e",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**I build a mechanical watch face: a real gear train for a watch with no gears**\n\n📌 来源：HackerNews\n🔗 https://myday24.com/blog/how-a-mechanical-watch-face-is-built/\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Dropping eBPF CPU Cost by About 90% with Memoization (Not AI Gen)**\n\n📌 来源：HackerNews\n🔗 https://nathannaveen.dev/posts/dropping-ebpf-cpu-cost-by-90/\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -56,10 +56,10 @@
       ]
     },
     {
-      "topic": "Garry Tan wants US o",
-      "cover_line1": "Garry Tan ",
+      "topic": "Why don't machine le",
+      "cover_line1": "Why don't ",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Garry Tan wants US open-weight AI labs to 'distill' frontier models, too**\n\n📌 来源：HackerNews\n🔗 https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Why don't machine learning research agents overfit?**\n\n📌 来源：HackerNews\n🔗 https://www.amazon.science/blog/why-dont-machine-learning-research-agents-overfit\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -75,15 +75,15 @@
     }
   ],
   "image_paths": [
-    "assets/2026-09-14/cover1.png",
-    "assets/2026-09-14/cover2.png",
-    "assets/2026-09-14/cover3.png",
-    "assets/2026-09-14/cover4.png"
+    "assets/2026-09-15/cover1.png",
+    "assets/2026-09-15/cover2.png",
+    "assets/2026-09-15/cover3.png",
+    "assets/2026-09-15/cover4.png"
   ],
   "feishu_image_paths": [
-    "assets/2026-09-14/cover1_feishu.png",
-    "assets/2026-09-14/cover2_feishu.png",
-    "assets/2026-09-14/cover3_feishu.png",
-    "assets/2026-09-14/cover4_feishu.png"
+    "assets/2026-09-15/cover1_feishu.png",
+    "assets/2026-09-15/cover2_feishu.png",
+    "assets/2026-09-15/cover3_feishu.png",
+    "assets/2026-09-15/cover4_feishu.png"
   ]
 }
