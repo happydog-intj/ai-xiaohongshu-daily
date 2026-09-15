@@ -7,80 +7,80 @@
       "url": "https://github.com/JustVugg/colibri",
       "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
       "language": "C",
-      "stars_today": "2,233 stars today",
-      "stars_total": "31,640"
+      "stars_today": "2,173 stars today",
+      "stars_total": "32,089"
     },
     {
       "name": "alibaba/open-code-review",
       "url": "https://github.com/alibaba/open-code-review",
       "description": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
       "language": "Go",
-      "stars_today": "1,796 stars today",
-      "stars_total": "25,244"
+      "stars_today": "1,571 stars today",
+      "stars_total": "25,741"
     },
     {
       "name": "multimodal-art-projection/YuE",
       "url": "https://github.com/multimodal-art-projection/YuE",
       "description": "YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.",
       "language": "Python",
-      "stars_today": "578 stars today",
-      "stars_total": "8,231"
+      "stars_today": "559 stars today",
+      "stars_total": "8,338"
     },
     {
       "name": "debpalash/VoiceStudio",
       "url": "https://github.com/debpalash/VoiceStudio",
       "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
       "language": "Python",
-      "stars_today": "2,774 stars today",
-      "stars_total": "28,800"
+      "stars_today": "2,776 stars today",
+      "stars_total": "29,207"
     },
     {
       "name": "666ghj/MiroFish",
       "url": "https://github.com/666ghj/MiroFish",
       "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
       "language": "Python",
-      "stars_today": "524 stars today",
-      "stars_total": "73,020"
+      "stars_today": "560 stars today",
+      "stars_total": "73,149"
     },
     {
       "name": "Panniantong/Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
       "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
       "language": "Python",
-      "stars_today": "640 stars today",
-      "stars_total": "81,056"
+      "stars_today": "651 stars today",
+      "stars_total": "81,255"
     },
     {
       "name": "asgeirtj/system_prompts_leaks",
       "url": "https://github.com/asgeirtj/system_prompts_leaks",
       "description": "Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Grok Bot, Cursor, Kimi and more! Updated regularly.",
       "language": "JavaScript",
-      "stars_today": "770 stars today",
-      "stars_total": "66,653"
+      "stars_today": "764 stars today",
+      "stars_total": "66,761"
     },
     {
       "name": "rlaope/oh-my-hermes",
       "url": "https://github.com/rlaope/oh-my-hermes",
       "description": "All in one plugin for Hermes Agent ⚚ the coding intelligence, a long-term memory system and model optimized workflow packages",
       "language": "Python",
-      "stars_today": "52 stars today",
-      "stars_total": "1,925"
+      "stars_today": "77 stars today",
+      "stars_total": "2,041"
     },
     {
       "name": "localsend/localsend",
       "url": "https://github.com/localsend/localsend",
       "description": "An open-source cross-platform alternative to AirDrop",
       "language": "Dart",
-      "stars_today": "311 stars today",
-      "stars_total": "91,181"
+      "stars_today": "251 stars today",
+      "stars_total": "91,325"
     },
     {
       "name": "dani-garcia/vaultwarden",
       "url": "https://github.com/dani-garcia/vaultwarden",
       "description": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",
       "language": "Rust",
-      "stars_today": "110 stars today",
-      "stars_total": "67,474"
+      "stars_today": "115 stars today",
+      "stars_total": "67,526"
     }
   ],
   "ai_repos": [
@@ -89,48 +89,48 @@
       "url": "https://github.com/alibaba/open-code-review",
       "description": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
       "language": "Go",
-      "stars_today": "1,796 stars today",
-      "stars_total": "25,244"
+      "stars_today": "1,571 stars today",
+      "stars_total": "25,741"
     },
     {
       "name": "multimodal-art-projection/YuE",
       "url": "https://github.com/multimodal-art-projection/YuE",
       "description": "YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.",
       "language": "Python",
-      "stars_today": "578 stars today",
-      "stars_total": "8,231"
+      "stars_today": "559 stars today",
+      "stars_total": "8,338"
     },
     {
       "name": "Panniantong/Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
       "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
       "language": "Python",
-      "stars_today": "640 stars today",
-      "stars_total": "81,056"
+      "stars_today": "651 stars today",
+      "stars_total": "81,255"
     },
     {
       "name": "asgeirtj/system_prompts_leaks",
       "url": "https://github.com/asgeirtj/system_prompts_leaks",
       "description": "Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Grok Bot, Cursor, Kimi and more! Updated regularly.",
       "language": "JavaScript",
-      "stars_today": "770 stars today",
-      "stars_total": "66,653"
+      "stars_today": "764 stars today",
+      "stars_total": "66,761"
     },
     {
       "name": "rlaope/oh-my-hermes",
       "url": "https://github.com/rlaope/oh-my-hermes",
       "description": "All in one plugin for Hermes Agent ⚚ the coding intelligence, a long-term memory system and model optimized workflow packages",
       "language": "Python",
-      "stars_today": "52 stars today",
-      "stars_total": "1,925"
+      "stars_today": "77 stars today",
+      "stars_total": "2,041"
     },
     {
       "name": "localsend/localsend",
       "url": "https://github.com/localsend/localsend",
       "description": "An open-source cross-platform alternative to AirDrop",
       "language": "Dart",
-      "stars_today": "311 stars today",
-      "stars_total": "91,181"
+      "stars_today": "251 stars today",
+      "stars_total": "91,325"
     }
   ],
   "posts": [
