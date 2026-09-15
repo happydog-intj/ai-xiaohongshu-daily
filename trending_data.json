@@ -1,86 +1,86 @@
 {
-  "date": "2026-09-15",
+  "date": "2026-09-16",
   "slot": "早报",
   "all_repos": [
-    {
-      "name": "JustVugg/colibri",
-      "url": "https://github.com/JustVugg/colibri",
-      "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
-      "language": "C",
-      "stars_today": "2,173 stars today",
-      "stars_total": "32,089"
-    },
     {
       "name": "alibaba/open-code-review",
       "url": "https://github.com/alibaba/open-code-review",
       "description": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
       "language": "Go",
-      "stars_today": "1,571 stars today",
-      "stars_total": "25,741"
+      "stars_today": "2,751 stars today",
+      "stars_total": "27,894"
     },
     {
-      "name": "multimodal-art-projection/YuE",
-      "url": "https://github.com/multimodal-art-projection/YuE",
-      "description": "YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.",
-      "language": "Python",
-      "stars_today": "559 stars today",
-      "stars_total": "8,338"
+      "name": "JustVugg/colibri",
+      "url": "https://github.com/JustVugg/colibri",
+      "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
+      "language": "C",
+      "stars_today": "2,035 stars today",
+      "stars_total": "33,394"
+    },
+    {
+      "name": "ever-co/ever-gauzy",
+      "url": "https://github.com/ever-co/ever-gauzy",
+      "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) -https://gauzy.co",
+      "language": "TypeScript",
+      "stars_today": "632 stars today",
+      "stars_total": "6,448"
     },
     {
       "name": "debpalash/VoiceStudio",
       "url": "https://github.com/debpalash/VoiceStudio",
       "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
       "language": "Python",
-      "stars_today": "2,776 stars today",
-      "stars_total": "29,207"
+      "stars_today": "2,081 stars today",
+      "stars_total": "30,590"
     },
     {
-      "name": "666ghj/MiroFish",
-      "url": "https://github.com/666ghj/MiroFish",
-      "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
-      "language": "Python",
-      "stars_today": "560 stars today",
-      "stars_total": "73,149"
+      "name": "Homebrew/BrewUI",
+      "url": "https://github.com/Homebrew/BrewUI",
+      "description": "📺 Homebrew's official macOS GUI",
+      "language": "Swift",
+      "stars_today": "356 stars today",
+      "stars_total": "1,206"
     },
     {
-      "name": "Panniantong/Agent-Reach",
-      "url": "https://github.com/Panniantong/Agent-Reach",
-      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
-      "language": "Python",
-      "stars_today": "651 stars today",
-      "stars_total": "81,255"
+      "name": "melgarafael/DeskcommCRM",
+      "url": "https://github.com/melgarafael/DeskcommCRM",
+      "description": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.",
+      "language": "TypeScript",
+      "stars_today": "205 stars today",
+      "stars_total": "2,697"
     },
     {
-      "name": "asgeirtj/system_prompts_leaks",
-      "url": "https://github.com/asgeirtj/system_prompts_leaks",
-      "description": "Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Grok Bot, Cursor, Kimi and more! Updated regularly.",
-      "language": "JavaScript",
-      "stars_today": "764 stars today",
-      "stars_total": "66,761"
-    },
-    {
-      "name": "rlaope/oh-my-hermes",
-      "url": "https://github.com/rlaope/oh-my-hermes",
-      "description": "All in one plugin for Hermes Agent ⚚ the coding intelligence, a long-term memory system and model optimized workflow packages",
-      "language": "Python",
-      "stars_today": "77 stars today",
-      "stars_total": "2,041"
-    },
-    {
-      "name": "localsend/localsend",
-      "url": "https://github.com/localsend/localsend",
-      "description": "An open-source cross-platform alternative to AirDrop",
-      "language": "Dart",
-      "stars_today": "251 stars today",
-      "stars_total": "91,325"
-    },
-    {
-      "name": "dani-garcia/vaultwarden",
-      "url": "https://github.com/dani-garcia/vaultwarden",
-      "description": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",
+      "name": "alphaXiv/OpenResearch",
+      "url": "https://github.com/alphaXiv/OpenResearch",
+      "description": "Turn your coding agents into research agents",
       "language": "Rust",
-      "stars_today": "115 stars today",
-      "stars_total": "67,526"
+      "stars_today": "593 stars today",
+      "stars_total": "3,130"
+    },
+    {
+      "name": "NationalSecurityAgency/ghidra",
+      "url": "https://github.com/NationalSecurityAgency/ghidra",
+      "description": "Ghidra is a software reverse engineering (SRE) framework",
+      "language": "Java",
+      "stars_today": "755 stars today",
+      "stars_total": "76,514"
+    },
+    {
+      "name": "danny-avila/LibreChat",
+      "url": "https://github.com/danny-avila/LibreChat",
+      "description": "Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active",
+      "language": "TypeScript",
+      "stars_today": "261 stars today",
+      "stars_total": "43,707"
+    },
+    {
+      "name": "pacifio/atlas",
+      "url": "https://github.com/pacifio/atlas",
+      "description": "Source control for agents. Use multiple coding agents, track their changes and query them in one place",
+      "language": "Rust",
+      "stars_today": "102 stars today",
+      "stars_total": "4,531"
     }
   ],
   "ai_repos": [
@@ -89,48 +89,40 @@
       "url": "https://github.com/alibaba/open-code-review",
       "description": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
       "language": "Go",
-      "stars_today": "1,571 stars today",
-      "stars_total": "25,741"
+      "stars_today": "2,751 stars today",
+      "stars_total": "27,894"
     },
     {
-      "name": "multimodal-art-projection/YuE",
-      "url": "https://github.com/multimodal-art-projection/YuE",
-      "description": "YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.",
-      "language": "Python",
-      "stars_today": "559 stars today",
-      "stars_total": "8,338"
+      "name": "melgarafael/DeskcommCRM",
+      "url": "https://github.com/melgarafael/DeskcommCRM",
+      "description": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.",
+      "language": "TypeScript",
+      "stars_today": "205 stars today",
+      "stars_total": "2,697"
     },
     {
-      "name": "Panniantong/Agent-Reach",
-      "url": "https://github.com/Panniantong/Agent-Reach",
-      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
-      "language": "Python",
-      "stars_today": "651 stars today",
-      "stars_total": "81,255"
+      "name": "alphaXiv/OpenResearch",
+      "url": "https://github.com/alphaXiv/OpenResearch",
+      "description": "Turn your coding agents into research agents",
+      "language": "Rust",
+      "stars_today": "593 stars today",
+      "stars_total": "3,130"
     },
     {
-      "name": "asgeirtj/system_prompts_leaks",
-      "url": "https://github.com/asgeirtj/system_prompts_leaks",
-      "description": "Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Grok Bot, Cursor, Kimi and more! Updated regularly.",
-      "language": "JavaScript",
-      "stars_today": "764 stars today",
-      "stars_total": "66,761"
+      "name": "danny-avila/LibreChat",
+      "url": "https://github.com/danny-avila/LibreChat",
+      "description": "Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active",
+      "language": "TypeScript",
+      "stars_today": "261 stars today",
+      "stars_total": "43,707"
     },
     {
-      "name": "rlaope/oh-my-hermes",
-      "url": "https://github.com/rlaope/oh-my-hermes",
-      "description": "All in one plugin for Hermes Agent ⚚ the coding intelligence, a long-term memory system and model optimized workflow packages",
-      "language": "Python",
-      "stars_today": "77 stars today",
-      "stars_total": "2,041"
-    },
-    {
-      "name": "localsend/localsend",
-      "url": "https://github.com/localsend/localsend",
-      "description": "An open-source cross-platform alternative to AirDrop",
-      "language": "Dart",
-      "stars_today": "251 stars today",
-      "stars_total": "91,325"
+      "name": "pacifio/atlas",
+      "url": "https://github.com/pacifio/atlas",
+      "description": "Source control for agents. Use multiple coding agents, track their changes and query them in one place",
+      "language": "Rust",
+      "stars_today": "102 stars today",
+      "stars_total": "4,531"
     }
   ],
   "posts": [
@@ -154,11 +146,11 @@
       ]
     },
     {
-      "topic": "YuE",
-      "repo": "multimodal-art-projection/YuE",
-      "cover_line1": "YuE",
+      "topic": "DeskcommCRM",
+      "repo": "melgarafael/DeskcommCRM",
+      "cover_line1": "DeskcommCR",
       "cover_line2": "今日 GitHub 热榜！",
-      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**multimodal-art-projection/YuE**\n\n📌 YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.\n\n🔗 https://github.com/multimodal-art-projection/YuE\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**melgarafael/DeskcommCRM**\n\n📌 Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.\n\n🔗 https://github.com/melgarafael/DeskcommCRM\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "GitHub",
@@ -173,11 +165,11 @@
       ]
     },
     {
-      "topic": "Agent-Reach",
-      "repo": "Panniantong/Agent-Reach",
-      "cover_line1": "Agent-Reac",
+      "topic": "OpenResearch",
+      "repo": "alphaXiv/OpenResearch",
+      "cover_line1": "OpenResear",
       "cover_line2": "今日 GitHub 热榜！",
-      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**Panniantong/Agent-Reach**\n\n📌 Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.\n\n🔗 https://github.com/Panniantong/Agent-Reach\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**alphaXiv/OpenResearch**\n\n📌 Turn your coding agents into research agents\n\n🔗 https://github.com/alphaXiv/OpenResearch\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "GitHub",
@@ -192,11 +184,11 @@
       ]
     },
     {
-      "topic": "system_prompts_leaks",
-      "repo": "asgeirtj/system_prompts_leaks",
-      "cover_line1": "system_pro",
+      "topic": "LibreChat",
+      "repo": "danny-avila/LibreChat",
+      "cover_line1": "LibreChat",
       "cover_line2": "今日 GitHub 热榜！",
-      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**asgeirtj/system_prompts_leaks**\n\n📌 Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Grok Bot, Cursor, Kimi and more! Updated regularly.\n\n🔗 https://github.com/asgeirtj/system_prompts_leaks\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**danny-avila/LibreChat**\n\n📌 Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active\n\n🔗 https://github.com/danny-avila/LibreChat\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "GitHub",
@@ -212,10 +204,10 @@
     }
   ],
   "image_paths": [
-    "assets/2026-09-15/trending/summary.png",
-    "assets/2026-09-15/trending/post1.png",
-    "assets/2026-09-15/trending/post2.png",
-    "assets/2026-09-15/trending/post3.png",
-    "assets/2026-09-15/trending/post4.png"
+    "assets/2026-09-16/trending/summary.png",
+    "assets/2026-09-16/trending/post1.png",
+    "assets/2026-09-16/trending/post2.png",
+    "assets/2026-09-16/trending/post3.png",
+    "assets/2026-09-16/trending/post4.png"
   ]
 }
