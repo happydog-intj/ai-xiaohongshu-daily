@@ -1,5 +1,5 @@
 {
-  "date": "2026-09-16",
+  "date": "2026-09-17",
   "slot": "早报",
   "all_repos": [
     {
@@ -7,80 +7,80 @@
       "url": "https://github.com/alibaba/open-code-review",
       "description": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
       "language": "Go",
-      "stars_today": "2,756 stars today",
-      "stars_total": "28,576"
+      "stars_today": "3,215 stars today",
+      "stars_total": "31,162"
+    },
+    {
+      "name": "cloudflare/security-audit-skill",
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "language": "JavaScript",
+      "stars_today": "1,249 stars today",
+      "stars_total": "6,371"
     },
     {
       "name": "JustVugg/colibri",
       "url": "https://github.com/JustVugg/colibri",
       "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
       "language": "C",
-      "stars_today": "2,026 stars today",
-      "stars_total": "33,839"
+      "stars_today": "1,532 stars today",
+      "stars_total": "34,800"
+    },
+    {
+      "name": "abue-ammar/tinycast",
+      "url": "https://github.com/abue-ammar/tinycast",
+      "description": "Tinycast — a tiny, fully native macOS launcher, hotkeys, and clipboard history.",
+      "language": "Swift",
+      "stars_today": "1,136 stars today",
+      "stars_total": "5,425"
+    },
+    {
+      "name": "jamiepine/voicebox",
+      "url": "https://github.com/jamiepine/voicebox",
+      "description": "The open-source AI voice studio. Clone, dictate, create.",
+      "language": "TypeScript",
+      "stars_today": "409 stars today",
+      "stars_total": "54,206"
+    },
+    {
+      "name": "Lakr233/vphone-cli",
+      "url": "https://github.com/Lakr233/vphone-cli",
+      "description": "",
+      "language": "Swift",
+      "stars_today": "444 stars today",
+      "stars_total": "13,258"
+    },
+    {
+      "name": "anthropics/knowledge-work-plugins",
+      "url": "https://github.com/anthropics/knowledge-work-plugins",
+      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "language": "Python",
+      "stars_today": "96 stars today",
+      "stars_total": "24,212"
     },
     {
       "name": "ever-co/ever-gauzy",
       "url": "https://github.com/ever-co/ever-gauzy",
       "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) -https://gauzy.co",
       "language": "TypeScript",
-      "stars_today": "634 stars today",
-      "stars_total": "6,665"
+      "stars_today": "771 stars today",
+      "stars_total": "7,158"
     },
     {
-      "name": "debpalash/VoiceStudio",
-      "url": "https://github.com/debpalash/VoiceStudio",
-      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
-      "language": "Python",
-      "stars_today": "2,072 stars today",
-      "stars_total": "30,974"
-    },
-    {
-      "name": "Homebrew/BrewUI",
-      "url": "https://github.com/Homebrew/BrewUI",
-      "description": "📺 Homebrew's official macOS GUI",
-      "language": "Swift",
-      "stars_today": "271 stars today",
-      "stars_total": "1,359"
-    },
-    {
-      "name": "melgarafael/DeskcommCRM",
-      "url": "https://github.com/melgarafael/DeskcommCRM",
-      "description": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.",
-      "language": "TypeScript",
-      "stars_today": "193 stars today",
-      "stars_total": "2,833"
-    },
-    {
-      "name": "alphaXiv/OpenResearch",
-      "url": "https://github.com/alphaXiv/OpenResearch",
-      "description": "Turn your coding agents into research agents",
+      "name": "ankitects/anki",
+      "url": "https://github.com/ankitects/anki",
+      "description": "Anki is a smart spaced repetition flashcard program",
       "language": "Rust",
-      "stars_today": "531 stars today",
-      "stars_total": "3,360"
+      "stars_today": "50 stars today",
+      "stars_total": "30,714"
     },
     {
       "name": "NationalSecurityAgency/ghidra",
       "url": "https://github.com/NationalSecurityAgency/ghidra",
       "description": "Ghidra is a software reverse engineering (SRE) framework",
       "language": "Java",
-      "stars_today": "725 stars today",
-      "stars_total": "76,709"
-    },
-    {
-      "name": "danny-avila/LibreChat",
-      "url": "https://github.com/danny-avila/LibreChat",
-      "description": "Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active",
-      "language": "TypeScript",
-      "stars_today": "254 stars today",
-      "stars_total": "43,835"
-    },
-    {
-      "name": "pacifio/atlas",
-      "url": "https://github.com/pacifio/atlas",
-      "description": "Source control for agents. Use multiple coding agents, track their changes and query them in one place",
-      "language": "Rust",
-      "stars_today": "91 stars today",
-      "stars_total": "4,626"
+      "stars_today": "1,059 stars today",
+      "stars_total": "77,559"
     }
   ],
   "ai_repos": [
@@ -89,40 +89,32 @@
       "url": "https://github.com/alibaba/open-code-review",
       "description": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
       "language": "Go",
-      "stars_today": "2,756 stars today",
-      "stars_total": "28,576"
+      "stars_today": "3,215 stars today",
+      "stars_total": "31,162"
     },
     {
-      "name": "melgarafael/DeskcommCRM",
-      "url": "https://github.com/melgarafael/DeskcommCRM",
-      "description": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.",
+      "name": "cloudflare/security-audit-skill",
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "language": "JavaScript",
+      "stars_today": "1,249 stars today",
+      "stars_total": "6,371"
+    },
+    {
+      "name": "jamiepine/voicebox",
+      "url": "https://github.com/jamiepine/voicebox",
+      "description": "The open-source AI voice studio. Clone, dictate, create.",
       "language": "TypeScript",
-      "stars_today": "193 stars today",
-      "stars_total": "2,833"
+      "stars_today": "409 stars today",
+      "stars_total": "54,206"
     },
     {
-      "name": "alphaXiv/OpenResearch",
-      "url": "https://github.com/alphaXiv/OpenResearch",
-      "description": "Turn your coding agents into research agents",
-      "language": "Rust",
-      "stars_today": "531 stars today",
-      "stars_total": "3,360"
-    },
-    {
-      "name": "danny-avila/LibreChat",
-      "url": "https://github.com/danny-avila/LibreChat",
-      "description": "Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active",
-      "language": "TypeScript",
-      "stars_today": "254 stars today",
-      "stars_total": "43,835"
-    },
-    {
-      "name": "pacifio/atlas",
-      "url": "https://github.com/pacifio/atlas",
-      "description": "Source control for agents. Use multiple coding agents, track their changes and query them in one place",
-      "language": "Rust",
-      "stars_today": "91 stars today",
-      "stars_total": "4,626"
+      "name": "anthropics/knowledge-work-plugins",
+      "url": "https://github.com/anthropics/knowledge-work-plugins",
+      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "language": "Python",
+      "stars_today": "96 stars today",
+      "stars_total": "24,212"
     }
   ],
   "posts": [
@@ -146,11 +138,11 @@
       ]
     },
     {
-      "topic": "DeskcommCRM",
-      "repo": "melgarafael/DeskcommCRM",
-      "cover_line1": "DeskcommCR",
+      "topic": "security-audit-skill",
+      "repo": "cloudflare/security-audit-skill",
+      "cover_line1": "security-a",
       "cover_line2": "今日 GitHub 热榜！",
-      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**melgarafael/DeskcommCRM**\n\n📌 Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.\n\n🔗 https://github.com/melgarafael/DeskcommCRM\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**cloudflare/security-audit-skill**\n\n📌 A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings\n\n🔗 https://github.com/cloudflare/security-audit-skill\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "GitHub",
@@ -165,11 +157,11 @@
       ]
     },
     {
-      "topic": "OpenResearch",
-      "repo": "alphaXiv/OpenResearch",
-      "cover_line1": "OpenResear",
+      "topic": "voicebox",
+      "repo": "jamiepine/voicebox",
+      "cover_line1": "voicebox",
       "cover_line2": "今日 GitHub 热榜！",
-      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**alphaXiv/OpenResearch**\n\n📌 Turn your coding agents into research agents\n\n🔗 https://github.com/alphaXiv/OpenResearch\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**jamiepine/voicebox**\n\n📌 The open-source AI voice studio. Clone, dictate, create.\n\n🔗 https://github.com/jamiepine/voicebox\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "GitHub",
@@ -184,11 +176,11 @@
       ]
     },
     {
-      "topic": "LibreChat",
-      "repo": "danny-avila/LibreChat",
-      "cover_line1": "LibreChat",
+      "topic": "knowledge-work-plugi",
+      "repo": "anthropics/knowledge-work-plugins",
+      "cover_line1": "knowledge-",
       "cover_line2": "今日 GitHub 热榜！",
-      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**danny-avila/LibreChat**\n\n📌 Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active\n\n🔗 https://github.com/danny-avila/LibreChat\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**anthropics/knowledge-work-plugins**\n\n📌 Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork\n\n🔗 https://github.com/anthropics/knowledge-work-plugins\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "GitHub",
@@ -204,10 +196,10 @@
     }
   ],
   "image_paths": [
-    "assets/2026-09-16/trending/summary.png",
-    "assets/2026-09-16/trending/post1.png",
-    "assets/2026-09-16/trending/post2.png",
-    "assets/2026-09-16/trending/post3.png",
-    "assets/2026-09-16/trending/post4.png"
+    "assets/2026-09-17/trending/summary.png",
+    "assets/2026-09-17/trending/post1.png",
+    "assets/2026-09-17/trending/post2.png",
+    "assets/2026-09-17/trending/post3.png",
+    "assets/2026-09-17/trending/post4.png"
   ]
 }
