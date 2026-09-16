@@ -7,80 +7,80 @@
       "url": "https://github.com/alibaba/open-code-review",
       "description": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
       "language": "Go",
-      "stars_today": "2,751 stars today",
-      "stars_total": "27,894"
+      "stars_today": "2,756 stars today",
+      "stars_total": "28,576"
     },
     {
       "name": "JustVugg/colibri",
       "url": "https://github.com/JustVugg/colibri",
       "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
       "language": "C",
-      "stars_today": "2,035 stars today",
-      "stars_total": "33,394"
+      "stars_today": "2,026 stars today",
+      "stars_total": "33,839"
     },
     {
       "name": "ever-co/ever-gauzy",
       "url": "https://github.com/ever-co/ever-gauzy",
       "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) -https://gauzy.co",
       "language": "TypeScript",
-      "stars_today": "632 stars today",
-      "stars_total": "6,448"
+      "stars_today": "634 stars today",
+      "stars_total": "6,665"
     },
     {
       "name": "debpalash/VoiceStudio",
       "url": "https://github.com/debpalash/VoiceStudio",
       "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
       "language": "Python",
-      "stars_today": "2,081 stars today",
-      "stars_total": "30,590"
+      "stars_today": "2,072 stars today",
+      "stars_total": "30,974"
     },
     {
       "name": "Homebrew/BrewUI",
       "url": "https://github.com/Homebrew/BrewUI",
       "description": "📺 Homebrew's official macOS GUI",
       "language": "Swift",
-      "stars_today": "356 stars today",
-      "stars_total": "1,206"
+      "stars_today": "271 stars today",
+      "stars_total": "1,359"
     },
     {
       "name": "melgarafael/DeskcommCRM",
       "url": "https://github.com/melgarafael/DeskcommCRM",
       "description": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.",
       "language": "TypeScript",
-      "stars_today": "205 stars today",
-      "stars_total": "2,697"
+      "stars_today": "193 stars today",
+      "stars_total": "2,833"
     },
     {
       "name": "alphaXiv/OpenResearch",
       "url": "https://github.com/alphaXiv/OpenResearch",
       "description": "Turn your coding agents into research agents",
       "language": "Rust",
-      "stars_today": "593 stars today",
-      "stars_total": "3,130"
+      "stars_today": "531 stars today",
+      "stars_total": "3,360"
     },
     {
       "name": "NationalSecurityAgency/ghidra",
       "url": "https://github.com/NationalSecurityAgency/ghidra",
       "description": "Ghidra is a software reverse engineering (SRE) framework",
       "language": "Java",
-      "stars_today": "755 stars today",
-      "stars_total": "76,514"
+      "stars_today": "725 stars today",
+      "stars_total": "76,709"
     },
     {
       "name": "danny-avila/LibreChat",
       "url": "https://github.com/danny-avila/LibreChat",
       "description": "Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active",
       "language": "TypeScript",
-      "stars_today": "261 stars today",
-      "stars_total": "43,707"
+      "stars_today": "254 stars today",
+      "stars_total": "43,835"
     },
     {
       "name": "pacifio/atlas",
       "url": "https://github.com/pacifio/atlas",
       "description": "Source control for agents. Use multiple coding agents, track their changes and query them in one place",
       "language": "Rust",
-      "stars_today": "102 stars today",
-      "stars_total": "4,531"
+      "stars_today": "91 stars today",
+      "stars_total": "4,626"
     }
   ],
   "ai_repos": [
@@ -89,40 +89,40 @@
       "url": "https://github.com/alibaba/open-code-review",
       "description": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
       "language": "Go",
-      "stars_today": "2,751 stars today",
-      "stars_total": "27,894"
+      "stars_today": "2,756 stars today",
+      "stars_total": "28,576"
     },
     {
       "name": "melgarafael/DeskcommCRM",
       "url": "https://github.com/melgarafael/DeskcommCRM",
       "description": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.",
       "language": "TypeScript",
-      "stars_today": "205 stars today",
-      "stars_total": "2,697"
+      "stars_today": "193 stars today",
+      "stars_total": "2,833"
     },
     {
       "name": "alphaXiv/OpenResearch",
       "url": "https://github.com/alphaXiv/OpenResearch",
       "description": "Turn your coding agents into research agents",
       "language": "Rust",
-      "stars_today": "593 stars today",
-      "stars_total": "3,130"
+      "stars_today": "531 stars today",
+      "stars_total": "3,360"
     },
     {
       "name": "danny-avila/LibreChat",
       "url": "https://github.com/danny-avila/LibreChat",
       "description": "Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active",
       "language": "TypeScript",
-      "stars_today": "261 stars today",
-      "stars_total": "43,707"
+      "stars_today": "254 stars today",
+      "stars_total": "43,835"
     },
     {
       "name": "pacifio/atlas",
       "url": "https://github.com/pacifio/atlas",
       "description": "Source control for agents. Use multiple coding agents, track their changes and query them in one place",
       "language": "Rust",
-      "stars_today": "102 stars today",
-      "stars_total": "4,531"
+      "stars_today": "91 stars today",
+      "stars_total": "4,626"
     }
   ],
   "posts": [
