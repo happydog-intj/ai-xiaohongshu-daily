@@ -1,11 +1,11 @@
 {
-  "date": "2026-09-16",
+  "date": "2026-09-17",
   "posts": [
     {
-      "topic": "Introducing System O",
-      "cover_line1": "Introducin",
+      "topic": "Training a 4B model ",
+      "cover_line1": "Training a",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Introducing System One Models and Jev**\n\n📌 来源：HackerNews\n🔗 https://typesafe.ai/blog/introducing-system-one-models-and-jev\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Training a 4B model to produce 81% faster query plans than Postgres**\n\n📌 来源：HackerNews\n🔗 https://rohanbansal.com/qorl\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -20,10 +20,10 @@
       ]
     },
     {
-      "topic": "Gemini 3.8 Live and ",
-      "cover_line1": "Gemini 3.8",
+      "topic": "Breaking the 1.58-bi",
+      "cover_line1": "Breaking t",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Gemini 3.8 Live and 3.8 Live Extended Thinking**\n\n📌 来源：HackerNews\n🔗 https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Breaking the 1.58-bit Barrier for Ternary LLMs**\n\n📌 来源：HackerNews\n🔗 https://arxiv.org/abs/2609.16338\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -38,10 +38,10 @@
       ]
     },
     {
-      "topic": "Why I'm still bearis",
-      "cover_line1": "Why I'm st",
+      "topic": "Xiaomi Mimo 2.6 live",
+      "cover_line1": "Xiaomi Mim",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Why I'm still bearish on LLMs after Navier-Stokes**\n\n📌 来源：HackerNews\n🔗 https://dank.systems/posts/2026-09-15-ai-bear.html\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Xiaomi Mimo 2.6 live post-training dashboard**\n\n📌 来源：HackerNews\n🔗 https://mimo.xiaomi.com/rl/\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -56,10 +56,10 @@
       ]
     },
     {
-      "topic": "Learning to solve ha",
-      "cover_line1": "Learning t",
+      "topic": "OpenSpec – A lightwe",
+      "cover_line1": "OpenSpec –",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Learning to solve hard problems in RL for LLMs by never giving up**\n\n📌 来源：HackerNews\n🔗 https://mnoukhov.github.io/posts/ngu/\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**OpenSpec – A lightweight and configurable AI spec framework**\n\n📌 来源：HackerNews\n🔗 https://openspec.dev/\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -75,15 +75,15 @@
     }
   ],
   "image_paths": [
-    "assets/2026-09-16/cover1.png",
-    "assets/2026-09-16/cover2.png",
-    "assets/2026-09-16/cover3.png",
-    "assets/2026-09-16/cover4.png"
+    "assets/2026-09-17/cover1.png",
+    "assets/2026-09-17/cover2.png",
+    "assets/2026-09-17/cover3.png",
+    "assets/2026-09-17/cover4.png"
   ],
   "feishu_image_paths": [
-    "assets/2026-09-16/cover1_feishu.png",
-    "assets/2026-09-16/cover2_feishu.png",
-    "assets/2026-09-16/cover3_feishu.png",
-    "assets/2026-09-16/cover4_feishu.png"
+    "assets/2026-09-17/cover1_feishu.png",
+    "assets/2026-09-17/cover2_feishu.png",
+    "assets/2026-09-17/cover3_feishu.png",
+    "assets/2026-09-17/cover4_feishu.png"
   ]
 }
