@@ -1,5 +1,5 @@
 {
-  "date": "2026-09-17",
+  "date": "2026-09-18",
   "slot": "早报",
   "all_repos": [
     {
@@ -7,80 +7,80 @@
       "url": "https://github.com/alibaba/open-code-review",
       "description": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
       "language": "Go",
-      "stars_today": "3,231 stars today",
-      "stars_total": "31,865"
+      "stars_today": "3,290 stars today",
+      "stars_total": "34,285"
     },
     {
       "name": "cloudflare/security-audit-skill",
       "url": "https://github.com/cloudflare/security-audit-skill",
       "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
       "language": "JavaScript",
-      "stars_today": "927 stars today",
-      "stars_total": "7,245"
+      "stars_today": "3,606 stars today",
+      "stars_total": "10,115"
     },
     {
-      "name": "JustVugg/colibri",
-      "url": "https://github.com/JustVugg/colibri",
-      "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
-      "language": "C",
-      "stars_today": "1,546 stars today",
-      "stars_total": "35,034"
+      "name": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "language": "JavaScript",
+      "stars_today": "680 stars today",
+      "stars_total": "95,975"
     },
     {
-      "name": "abue-ammar/tinycast",
-      "url": "https://github.com/abue-ammar/tinycast",
-      "description": "Tinycast — a tiny, fully native macOS launcher, hotkeys, and clipboard history.",
-      "language": "Swift",
-      "stars_today": "1,179 stars today",
-      "stars_total": "5,592"
-    },
-    {
-      "name": "jamiepine/voicebox",
-      "url": "https://github.com/jamiepine/voicebox",
-      "description": "The open-source AI voice studio. Clone, dictate, create.",
+      "name": "Tencent/BrowserSkill",
+      "url": "https://github.com/Tencent/BrowserSkill",
+      "description": "Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.",
       "language": "TypeScript",
-      "stars_today": "417 stars today",
-      "stars_total": "54,383"
+      "stars_today": "1,350 stars today",
+      "stars_total": "3,960"
     },
     {
-      "name": "Lakr233/vphone-cli",
-      "url": "https://github.com/Lakr233/vphone-cli",
-      "description": "",
-      "language": "Swift",
-      "stars_today": "547 stars today",
-      "stars_total": "13,343"
-    },
-    {
-      "name": "anthropics/knowledge-work-plugins",
-      "url": "https://github.com/anthropics/knowledge-work-plugins",
-      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
-      "language": "Python",
-      "stars_today": "110 stars today",
-      "stars_total": "24,285"
-    },
-    {
-      "name": "ever-co/ever-gauzy",
-      "url": "https://github.com/ever-co/ever-gauzy",
-      "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) -https://gauzy.co",
-      "language": "TypeScript",
-      "stars_today": "778 stars today",
-      "stars_total": "7,311"
-    },
-    {
-      "name": "ankitects/anki",
-      "url": "https://github.com/ankitects/anki",
-      "description": "Anki is a smart spaced repetition flashcard program",
+      "name": "alphaXiv/OpenResearch",
+      "url": "https://github.com/alphaXiv/OpenResearch",
+      "description": "Turn your coding agents into research agents",
       "language": "Rust",
-      "stars_today": "58 stars today",
-      "stars_total": "30,860"
+      "stars_today": "940 stars today",
+      "stars_total": "5,005"
+    },
+    {
+      "name": "anthropics/claude-code",
+      "url": "https://github.com/anthropics/claude-code",
+      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+      "language": "TypeScript",
+      "stars_today": "538 stars today",
+      "stars_total": "145,884"
     },
     {
       "name": "NationalSecurityAgency/ghidra",
       "url": "https://github.com/NationalSecurityAgency/ghidra",
       "description": "Ghidra is a software reverse engineering (SRE) framework",
       "language": "Java",
-      "stars_today": "1,059 stars today",
-      "stars_total": "77,801"
+      "stars_today": "912 stars today",
+      "stars_total": "78,345"
+    },
+    {
+      "name": "anthropics/knowledge-work-plugins",
+      "url": "https://github.com/anthropics/knowledge-work-plugins",
+      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "language": "Python",
+      "stars_today": "287 stars today",
+      "stars_total": "24,485"
+    },
+    {
+      "name": "Tencent/WeKnora",
+      "url": "https://github.com/Tencent/WeKnora",
+      "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
+      "language": "Go",
+      "stars_today": "1,123 stars today",
+      "stars_total": "26,172"
+    },
+    {
+      "name": "abue-ammar/tinycast",
+      "url": "https://github.com/abue-ammar/tinycast",
+      "description": "Tinycast — a tiny, fully native macOS launcher, hotkeys, and clipboard history.",
+      "language": "Swift",
+      "stars_today": "738 stars today",
+      "stars_total": "6,036"
     }
   ],
   "ai_repos": [
@@ -89,32 +89,64 @@
       "url": "https://github.com/alibaba/open-code-review",
       "description": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
       "language": "Go",
-      "stars_today": "3,231 stars today",
-      "stars_total": "31,865"
+      "stars_today": "3,290 stars today",
+      "stars_total": "34,285"
     },
     {
       "name": "cloudflare/security-audit-skill",
       "url": "https://github.com/cloudflare/security-audit-skill",
       "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
       "language": "JavaScript",
-      "stars_today": "927 stars today",
-      "stars_total": "7,245"
+      "stars_today": "3,606 stars today",
+      "stars_total": "10,115"
     },
     {
-      "name": "jamiepine/voicebox",
-      "url": "https://github.com/jamiepine/voicebox",
-      "description": "The open-source AI voice studio. Clone, dictate, create.",
+      "name": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "language": "JavaScript",
+      "stars_today": "680 stars today",
+      "stars_total": "95,975"
+    },
+    {
+      "name": "Tencent/BrowserSkill",
+      "url": "https://github.com/Tencent/BrowserSkill",
+      "description": "Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.",
       "language": "TypeScript",
-      "stars_today": "417 stars today",
-      "stars_total": "54,383"
+      "stars_today": "1,350 stars today",
+      "stars_total": "3,960"
+    },
+    {
+      "name": "alphaXiv/OpenResearch",
+      "url": "https://github.com/alphaXiv/OpenResearch",
+      "description": "Turn your coding agents into research agents",
+      "language": "Rust",
+      "stars_today": "940 stars today",
+      "stars_total": "5,005"
+    },
+    {
+      "name": "anthropics/claude-code",
+      "url": "https://github.com/anthropics/claude-code",
+      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+      "language": "TypeScript",
+      "stars_today": "538 stars today",
+      "stars_total": "145,884"
     },
     {
       "name": "anthropics/knowledge-work-plugins",
       "url": "https://github.com/anthropics/knowledge-work-plugins",
       "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
       "language": "Python",
-      "stars_today": "110 stars today",
-      "stars_total": "24,285"
+      "stars_today": "287 stars today",
+      "stars_total": "24,485"
+    },
+    {
+      "name": "Tencent/WeKnora",
+      "url": "https://github.com/Tencent/WeKnora",
+      "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
+      "language": "Go",
+      "stars_today": "1,123 stars today",
+      "stars_total": "26,172"
     }
   ],
   "posts": [
@@ -157,11 +189,11 @@
       ]
     },
     {
-      "topic": "voicebox",
-      "repo": "jamiepine/voicebox",
-      "cover_line1": "voicebox",
+      "topic": "agent-skills",
+      "repo": "addyosmani/agent-skills",
+      "cover_line1": "agent-skil",
       "cover_line2": "今日 GitHub 热榜！",
-      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**jamiepine/voicebox**\n\n📌 The open-source AI voice studio. Clone, dictate, create.\n\n🔗 https://github.com/jamiepine/voicebox\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**addyosmani/agent-skills**\n\n📌 Production-grade engineering skills for AI coding agents.\n\n🔗 https://github.com/addyosmani/agent-skills\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "GitHub",
@@ -176,11 +208,11 @@
       ]
     },
     {
-      "topic": "knowledge-work-plugi",
-      "repo": "anthropics/knowledge-work-plugins",
-      "cover_line1": "knowledge-",
+      "topic": "BrowserSkill",
+      "repo": "Tencent/BrowserSkill",
+      "cover_line1": "BrowserSki",
       "cover_line2": "今日 GitHub 热榜！",
-      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**anthropics/knowledge-work-plugins**\n\n📌 Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork\n\n🔗 https://github.com/anthropics/knowledge-work-plugins\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**Tencent/BrowserSkill**\n\n📌 Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.\n\n🔗 https://github.com/Tencent/BrowserSkill\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "GitHub",
@@ -196,10 +228,10 @@
     }
   ],
   "image_paths": [
-    "assets/2026-09-17/trending/summary.png",
-    "assets/2026-09-17/trending/post1.png",
-    "assets/2026-09-17/trending/post2.png",
-    "assets/2026-09-17/trending/post3.png",
-    "assets/2026-09-17/trending/post4.png"
+    "assets/2026-09-18/trending/summary.png",
+    "assets/2026-09-18/trending/post1.png",
+    "assets/2026-09-18/trending/post2.png",
+    "assets/2026-09-18/trending/post3.png",
+    "assets/2026-09-18/trending/post4.png"
   ]
 }
