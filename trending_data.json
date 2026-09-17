@@ -7,72 +7,72 @@
       "url": "https://github.com/alibaba/open-code-review",
       "description": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
       "language": "Go",
-      "stars_today": "3,215 stars today",
-      "stars_total": "31,162"
+      "stars_today": "3,231 stars today",
+      "stars_total": "31,865"
     },
     {
       "name": "cloudflare/security-audit-skill",
       "url": "https://github.com/cloudflare/security-audit-skill",
       "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
       "language": "JavaScript",
-      "stars_today": "1,249 stars today",
-      "stars_total": "6,371"
+      "stars_today": "927 stars today",
+      "stars_total": "7,245"
     },
     {
       "name": "JustVugg/colibri",
       "url": "https://github.com/JustVugg/colibri",
       "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
       "language": "C",
-      "stars_today": "1,532 stars today",
-      "stars_total": "34,800"
+      "stars_today": "1,546 stars today",
+      "stars_total": "35,034"
     },
     {
       "name": "abue-ammar/tinycast",
       "url": "https://github.com/abue-ammar/tinycast",
       "description": "Tinycast — a tiny, fully native macOS launcher, hotkeys, and clipboard history.",
       "language": "Swift",
-      "stars_today": "1,136 stars today",
-      "stars_total": "5,425"
+      "stars_today": "1,179 stars today",
+      "stars_total": "5,592"
     },
     {
       "name": "jamiepine/voicebox",
       "url": "https://github.com/jamiepine/voicebox",
       "description": "The open-source AI voice studio. Clone, dictate, create.",
       "language": "TypeScript",
-      "stars_today": "409 stars today",
-      "stars_total": "54,206"
+      "stars_today": "417 stars today",
+      "stars_total": "54,383"
     },
     {
       "name": "Lakr233/vphone-cli",
       "url": "https://github.com/Lakr233/vphone-cli",
       "description": "",
       "language": "Swift",
-      "stars_today": "444 stars today",
-      "stars_total": "13,258"
+      "stars_today": "547 stars today",
+      "stars_total": "13,343"
     },
     {
       "name": "anthropics/knowledge-work-plugins",
       "url": "https://github.com/anthropics/knowledge-work-plugins",
       "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
       "language": "Python",
-      "stars_today": "96 stars today",
-      "stars_total": "24,212"
+      "stars_today": "110 stars today",
+      "stars_total": "24,285"
     },
     {
       "name": "ever-co/ever-gauzy",
       "url": "https://github.com/ever-co/ever-gauzy",
       "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) -https://gauzy.co",
       "language": "TypeScript",
-      "stars_today": "771 stars today",
-      "stars_total": "7,158"
+      "stars_today": "778 stars today",
+      "stars_total": "7,311"
     },
     {
       "name": "ankitects/anki",
       "url": "https://github.com/ankitects/anki",
       "description": "Anki is a smart spaced repetition flashcard program",
       "language": "Rust",
-      "stars_today": "50 stars today",
-      "stars_total": "30,714"
+      "stars_today": "58 stars today",
+      "stars_total": "30,860"
     },
     {
       "name": "NationalSecurityAgency/ghidra",
@@ -80,7 +80,7 @@
       "description": "Ghidra is a software reverse engineering (SRE) framework",
       "language": "Java",
       "stars_today": "1,059 stars today",
-      "stars_total": "77,559"
+      "stars_total": "77,801"
     }
   ],
   "ai_repos": [
@@ -89,32 +89,32 @@
       "url": "https://github.com/alibaba/open-code-review",
       "description": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
       "language": "Go",
-      "stars_today": "3,215 stars today",
-      "stars_total": "31,162"
+      "stars_today": "3,231 stars today",
+      "stars_total": "31,865"
     },
     {
       "name": "cloudflare/security-audit-skill",
       "url": "https://github.com/cloudflare/security-audit-skill",
       "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
       "language": "JavaScript",
-      "stars_today": "1,249 stars today",
-      "stars_total": "6,371"
+      "stars_today": "927 stars today",
+      "stars_total": "7,245"
     },
     {
       "name": "jamiepine/voicebox",
       "url": "https://github.com/jamiepine/voicebox",
       "description": "The open-source AI voice studio. Clone, dictate, create.",
       "language": "TypeScript",
-      "stars_today": "409 stars today",
-      "stars_total": "54,206"
+      "stars_today": "417 stars today",
+      "stars_total": "54,383"
     },
     {
       "name": "anthropics/knowledge-work-plugins",
       "url": "https://github.com/anthropics/knowledge-work-plugins",
       "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
       "language": "Python",
-      "stars_today": "96 stars today",
-      "stars_total": "24,212"
+      "stars_today": "110 stars today",
+      "stars_total": "24,285"
     }
   ],
   "posts": [
