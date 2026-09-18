@@ -1,11 +1,11 @@
 {
-  "date": "2026-09-17",
+  "date": "2026-09-18",
   "posts": [
     {
-      "topic": "Training a 4B model ",
-      "cover_line1": "Training a",
+      "topic": "Bonsai 2 27B: Near-L",
+      "cover_line1": "Bonsai 2 2",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Training a 4B model to produce 81% faster query plans than Postgres**\n\n📌 来源：HackerNews\n🔗 https://rohanbansal.com/qorl\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint**\n\n📌 来源：HackerNews\n🔗 https://prismml.com/news/bonsai-2-27b\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -20,10 +20,10 @@
       ]
     },
     {
-      "topic": "Breaking the 1.58-bi",
-      "cover_line1": "Breaking t",
+      "topic": "Bend – A language th",
+      "cover_line1": "Bend – A l",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Breaking the 1.58-bit Barrier for Ternary LLMs**\n\n📌 来源：HackerNews\n🔗 https://arxiv.org/abs/2609.16338\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Bend – A language that blocks AI mistakes via proof, on CPU and GPU**\n\n📌 来源：HackerNews\n🔗 https://bend-lang.com/\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -38,10 +38,10 @@
       ]
     },
     {
-      "topic": "Xiaomi Mimo 2.6 live",
-      "cover_line1": "Xiaomi Mim",
+      "topic": "Diplodocus, Long Tho",
+      "cover_line1": "Diplodocus",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Xiaomi Mimo 2.6 live post-training dashboard**\n\n📌 来源：HackerNews\n🔗 https://mimo.xiaomi.com/rl/\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Diplodocus, Long Thought Exclusively American, Turns Up in Spain**\n\n📌 来源：HackerNews\n🔗 https://www.sci.news/paleontology/spanish-diplodocus-15064.html\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -56,10 +56,10 @@
       ]
     },
     {
-      "topic": "OpenSpec – A lightwe",
-      "cover_line1": "OpenSpec –",
+      "topic": "Infinite-Parameter L",
+      "cover_line1": "Infinite-P",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**OpenSpec – A lightweight and configurable AI spec framework**\n\n📌 来源：HackerNews\n🔗 https://openspec.dev/\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Infinite-Parameter LLMs: Generating and Adapting Weights from Live Data**\n\n📌 来源：HackerNews\n🔗 https://arxiv.org/abs/2609.18842\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -75,15 +75,15 @@
     }
   ],
   "image_paths": [
-    "assets/2026-09-17/cover1.png",
-    "assets/2026-09-17/cover2.png",
-    "assets/2026-09-17/cover3.png",
-    "assets/2026-09-17/cover4.png"
+    "assets/2026-09-18/cover1.png",
+    "assets/2026-09-18/cover2.png",
+    "assets/2026-09-18/cover3.png",
+    "assets/2026-09-18/cover4.png"
   ],
   "feishu_image_paths": [
-    "assets/2026-09-17/cover1_feishu.png",
-    "assets/2026-09-17/cover2_feishu.png",
-    "assets/2026-09-17/cover3_feishu.png",
-    "assets/2026-09-17/cover4_feishu.png"
+    "assets/2026-09-18/cover1_feishu.png",
+    "assets/2026-09-18/cover2_feishu.png",
+    "assets/2026-09-18/cover3_feishu.png",
+    "assets/2026-09-18/cover4_feishu.png"
   ]
 }
