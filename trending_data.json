@@ -1,174 +1,163 @@
 {
-  "date": "2026-09-18",
+  "date": "2026-09-19",
   "slot": "早报",
   "all_repos": [
-    {
-      "name": "alibaba/open-code-review",
-      "url": "https://github.com/alibaba/open-code-review",
-      "description": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
-      "language": "Go",
-      "stars_today": "3,286 stars today",
-      "stars_total": "34,738"
-    },
     {
       "name": "cloudflare/security-audit-skill",
       "url": "https://github.com/cloudflare/security-audit-skill",
       "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
       "language": "JavaScript",
-      "stars_today": "3,607 stars today",
-      "stars_total": "10,657"
-    },
-    {
-      "name": "addyosmani/agent-skills",
-      "url": "https://github.com/addyosmani/agent-skills",
-      "description": "Production-grade engineering skills for AI coding agents.",
-      "language": "JavaScript",
-      "stars_today": "680 stars today",
-      "stars_total": "95,849"
-    },
-    {
-      "name": "Tencent/BrowserSkill",
-      "url": "https://github.com/Tencent/BrowserSkill",
-      "description": "Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.",
-      "language": "TypeScript",
-      "stars_today": "1,302 stars today",
-      "stars_total": "4,140"
-    },
-    {
-      "name": "alphaXiv/OpenResearch",
-      "url": "https://github.com/alphaXiv/OpenResearch",
-      "description": "Turn your coding agents into research agents",
-      "language": "Rust",
-      "stars_today": "939 stars today",
-      "stars_total": "4,951"
+      "stars_today": "3,019 stars today",
+      "stars_total": "12,746"
     },
     {
       "name": "anthropics/claude-code",
       "url": "https://github.com/anthropics/claude-code",
       "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
       "language": "TypeScript",
-      "stars_today": "538 stars today",
-      "stars_total": "145,871"
+      "stars_today": "442 stars today",
+      "stars_total": "146,162"
     },
     {
-      "name": "NationalSecurityAgency/ghidra",
-      "url": "https://github.com/NationalSecurityAgency/ghidra",
-      "description": "Ghidra is a software reverse engineering (SRE) framework",
-      "language": "Java",
-      "stars_today": "912 stars today",
-      "stars_total": "78,484"
+      "name": "alibaba/open-code-review",
+      "url": "https://github.com/alibaba/open-code-review",
+      "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+      "language": "Go",
+      "stars_today": "2,724 stars today",
+      "stars_total": "36,412"
+    },
+    {
+      "name": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "language": "JavaScript",
+      "stars_today": "965 stars today",
+      "stars_total": "261,747"
+    },
+    {
+      "name": "Tencent/BrowserSkill",
+      "url": "https://github.com/Tencent/BrowserSkill",
+      "description": "Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.",
+      "language": "TypeScript",
+      "stars_today": "1,319 stars today",
+      "stars_total": "5,094"
+    },
+    {
+      "name": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "language": "JavaScript",
+      "stars_today": "677 stars today",
+      "stars_total": "96,243"
+    },
+    {
+      "name": "TencentCloud/Octop",
+      "url": "https://github.com/TencentCloud/Octop",
+      "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
+      "language": "Python",
+      "stars_today": "571 stars today",
+      "stars_total": "3,864"
+    },
+    {
+      "name": "Fission-AI/OpenSpec",
+      "url": "https://github.com/Fission-AI/OpenSpec",
+      "description": "Spec-driven development (SDD) for AI coding assistants.",
+      "language": "TypeScript",
+      "stars_today": "298 stars today",
+      "stars_total": "69,199"
+    },
+    {
+      "name": "ankitects/anki",
+      "url": "https://github.com/ankitects/anki",
+      "description": "Anki is a smart spaced repetition flashcard program",
+      "language": "Rust",
+      "stars_today": "177 stars today",
+      "stars_total": "31,131"
     },
     {
       "name": "anthropics/knowledge-work-plugins",
       "url": "https://github.com/anthropics/knowledge-work-plugins",
       "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
       "language": "Python",
-      "stars_today": "287 stars today",
-      "stars_total": "24,562"
-    },
-    {
-      "name": "Tencent/WeKnora",
-      "url": "https://github.com/Tencent/WeKnora",
-      "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
-      "language": "Go",
-      "stars_today": "1,125 stars today",
-      "stars_total": "26,211"
-    },
-    {
-      "name": "abue-ammar/tinycast",
-      "url": "https://github.com/abue-ammar/tinycast",
-      "description": "Tinycast — a tiny, fully native macOS launcher, hotkeys, and clipboard history.",
-      "language": "Swift",
-      "stars_today": "739 stars today",
-      "stars_total": "6,146"
+      "stars_today": "300 stars today",
+      "stars_total": "24,785"
     }
   ],
   "ai_repos": [
     {
-      "name": "alibaba/open-code-review",
-      "url": "https://github.com/alibaba/open-code-review",
-      "description": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
-      "language": "Go",
-      "stars_today": "3,286 stars today",
-      "stars_total": "34,738"
-    },
-    {
       "name": "cloudflare/security-audit-skill",
       "url": "https://github.com/cloudflare/security-audit-skill",
       "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
       "language": "JavaScript",
-      "stars_today": "3,607 stars today",
-      "stars_total": "10,657"
-    },
-    {
-      "name": "addyosmani/agent-skills",
-      "url": "https://github.com/addyosmani/agent-skills",
-      "description": "Production-grade engineering skills for AI coding agents.",
-      "language": "JavaScript",
-      "stars_today": "680 stars today",
-      "stars_total": "95,849"
-    },
-    {
-      "name": "Tencent/BrowserSkill",
-      "url": "https://github.com/Tencent/BrowserSkill",
-      "description": "Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.",
-      "language": "TypeScript",
-      "stars_today": "1,302 stars today",
-      "stars_total": "4,140"
-    },
-    {
-      "name": "alphaXiv/OpenResearch",
-      "url": "https://github.com/alphaXiv/OpenResearch",
-      "description": "Turn your coding agents into research agents",
-      "language": "Rust",
-      "stars_today": "939 stars today",
-      "stars_total": "4,951"
+      "stars_today": "3,019 stars today",
+      "stars_total": "12,746"
     },
     {
       "name": "anthropics/claude-code",
       "url": "https://github.com/anthropics/claude-code",
       "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
       "language": "TypeScript",
-      "stars_today": "538 stars today",
-      "stars_total": "145,871"
+      "stars_today": "442 stars today",
+      "stars_total": "146,162"
+    },
+    {
+      "name": "alibaba/open-code-review",
+      "url": "https://github.com/alibaba/open-code-review",
+      "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+      "language": "Go",
+      "stars_today": "2,724 stars today",
+      "stars_total": "36,412"
+    },
+    {
+      "name": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "language": "JavaScript",
+      "stars_today": "965 stars today",
+      "stars_total": "261,747"
+    },
+    {
+      "name": "Tencent/BrowserSkill",
+      "url": "https://github.com/Tencent/BrowserSkill",
+      "description": "Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.",
+      "language": "TypeScript",
+      "stars_today": "1,319 stars today",
+      "stars_total": "5,094"
+    },
+    {
+      "name": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "language": "JavaScript",
+      "stars_today": "677 stars today",
+      "stars_total": "96,243"
+    },
+    {
+      "name": "TencentCloud/Octop",
+      "url": "https://github.com/TencentCloud/Octop",
+      "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
+      "language": "Python",
+      "stars_today": "571 stars today",
+      "stars_total": "3,864"
+    },
+    {
+      "name": "Fission-AI/OpenSpec",
+      "url": "https://github.com/Fission-AI/OpenSpec",
+      "description": "Spec-driven development (SDD) for AI coding assistants.",
+      "language": "TypeScript",
+      "stars_today": "298 stars today",
+      "stars_total": "69,199"
     },
     {
       "name": "anthropics/knowledge-work-plugins",
       "url": "https://github.com/anthropics/knowledge-work-plugins",
       "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
       "language": "Python",
-      "stars_today": "287 stars today",
-      "stars_total": "24,562"
-    },
-    {
-      "name": "Tencent/WeKnora",
-      "url": "https://github.com/Tencent/WeKnora",
-      "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
-      "language": "Go",
-      "stars_today": "1,125 stars today",
-      "stars_total": "26,211"
+      "stars_today": "300 stars today",
+      "stars_total": "24,785"
     }
   ],
   "posts": [
-    {
-      "topic": "open-code-review",
-      "repo": "alibaba/open-code-review",
-      "cover_line1": "open-code-",
-      "cover_line2": "今日 GitHub 热榜！",
-      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**alibaba/open-code-review**\n\n📌 Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.\n\n🔗 https://github.com/alibaba/open-code-review\n\n关注我，每天第一时间 AI 动态 👇",
-      "tags": [
-        "AI",
-        "GitHub",
-        "开源",
-        "热门项目",
-        "大模型",
-        "机器学习",
-        "深度学习",
-        "AI工具",
-        "技术",
-        "炼丹"
-      ]
-    },
     {
       "topic": "security-audit-skill",
       "repo": "cloudflare/security-audit-skill",
@@ -189,11 +178,11 @@
       ]
     },
     {
-      "topic": "agent-skills",
-      "repo": "addyosmani/agent-skills",
-      "cover_line1": "agent-skil",
+      "topic": "claude-code",
+      "repo": "anthropics/claude-code",
+      "cover_line1": "claude-cod",
       "cover_line2": "今日 GitHub 热榜！",
-      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**addyosmani/agent-skills**\n\n📌 Production-grade engineering skills for AI coding agents.\n\n🔗 https://github.com/addyosmani/agent-skills\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**anthropics/claude-code**\n\n📌 Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.\n\n🔗 https://github.com/anthropics/claude-code\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "GitHub",
@@ -208,11 +197,30 @@
       ]
     },
     {
-      "topic": "BrowserSkill",
-      "repo": "Tencent/BrowserSkill",
-      "cover_line1": "BrowserSki",
+      "topic": "open-code-review",
+      "repo": "alibaba/open-code-review",
+      "cover_line1": "open-code-",
       "cover_line2": "今日 GitHub 热榜！",
-      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**Tencent/BrowserSkill**\n\n📌 Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.\n\n🔗 https://github.com/Tencent/BrowserSkill\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**alibaba/open-code-review**\n\n📌 Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.\n\n🔗 https://github.com/alibaba/open-code-review\n\n关注我，每天第一时间 AI 动态 👇",
+      "tags": [
+        "AI",
+        "GitHub",
+        "开源",
+        "热门项目",
+        "大模型",
+        "机器学习",
+        "深度学习",
+        "AI工具",
+        "技术",
+        "炼丹"
+      ]
+    },
+    {
+      "topic": "ECC",
+      "repo": "affaan-m/ECC",
+      "cover_line1": "ECC",
+      "cover_line2": "今日 GitHub 热榜！",
+      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**affaan-m/ECC**\n\n📌 The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.\n\n🔗 https://github.com/affaan-m/ECC\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "GitHub",
@@ -228,10 +236,10 @@
     }
   ],
   "image_paths": [
-    "assets/2026-09-18/trending/summary.png",
-    "assets/2026-09-18/trending/post1.png",
-    "assets/2026-09-18/trending/post2.png",
-    "assets/2026-09-18/trending/post3.png",
-    "assets/2026-09-18/trending/post4.png"
+    "assets/2026-09-19/trending/summary.png",
+    "assets/2026-09-19/trending/post1.png",
+    "assets/2026-09-19/trending/post2.png",
+    "assets/2026-09-19/trending/post3.png",
+    "assets/2026-09-19/trending/post4.png"
   ]
 }
