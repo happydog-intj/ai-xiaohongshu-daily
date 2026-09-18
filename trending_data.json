@@ -7,16 +7,16 @@
       "url": "https://github.com/alibaba/open-code-review",
       "description": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
       "language": "Go",
-      "stars_today": "3,290 stars today",
-      "stars_total": "34,285"
+      "stars_today": "3,286 stars today",
+      "stars_total": "34,738"
     },
     {
       "name": "cloudflare/security-audit-skill",
       "url": "https://github.com/cloudflare/security-audit-skill",
       "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
       "language": "JavaScript",
-      "stars_today": "3,606 stars today",
-      "stars_total": "10,115"
+      "stars_today": "3,607 stars today",
+      "stars_total": "10,657"
     },
     {
       "name": "addyosmani/agent-skills",
@@ -24,23 +24,23 @@
       "description": "Production-grade engineering skills for AI coding agents.",
       "language": "JavaScript",
       "stars_today": "680 stars today",
-      "stars_total": "95,975"
+      "stars_total": "95,849"
     },
     {
       "name": "Tencent/BrowserSkill",
       "url": "https://github.com/Tencent/BrowserSkill",
       "description": "Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.",
       "language": "TypeScript",
-      "stars_today": "1,350 stars today",
-      "stars_total": "3,960"
+      "stars_today": "1,302 stars today",
+      "stars_total": "4,140"
     },
     {
       "name": "alphaXiv/OpenResearch",
       "url": "https://github.com/alphaXiv/OpenResearch",
       "description": "Turn your coding agents into research agents",
       "language": "Rust",
-      "stars_today": "940 stars today",
-      "stars_total": "5,005"
+      "stars_today": "939 stars today",
+      "stars_total": "4,951"
     },
     {
       "name": "anthropics/claude-code",
@@ -48,7 +48,7 @@
       "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
       "language": "TypeScript",
       "stars_today": "538 stars today",
-      "stars_total": "145,884"
+      "stars_total": "145,871"
     },
     {
       "name": "NationalSecurityAgency/ghidra",
@@ -56,7 +56,7 @@
       "description": "Ghidra is a software reverse engineering (SRE) framework",
       "language": "Java",
       "stars_today": "912 stars today",
-      "stars_total": "78,345"
+      "stars_total": "78,484"
     },
     {
       "name": "anthropics/knowledge-work-plugins",
@@ -64,23 +64,23 @@
       "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
       "language": "Python",
       "stars_today": "287 stars today",
-      "stars_total": "24,485"
+      "stars_total": "24,562"
     },
     {
       "name": "Tencent/WeKnora",
       "url": "https://github.com/Tencent/WeKnora",
       "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
       "language": "Go",
-      "stars_today": "1,123 stars today",
-      "stars_total": "26,172"
+      "stars_today": "1,125 stars today",
+      "stars_total": "26,211"
     },
     {
       "name": "abue-ammar/tinycast",
       "url": "https://github.com/abue-ammar/tinycast",
       "description": "Tinycast — a tiny, fully native macOS launcher, hotkeys, and clipboard history.",
       "language": "Swift",
-      "stars_today": "738 stars today",
-      "stars_total": "6,036"
+      "stars_today": "739 stars today",
+      "stars_total": "6,146"
     }
   ],
   "ai_repos": [
@@ -89,16 +89,16 @@
       "url": "https://github.com/alibaba/open-code-review",
       "description": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
       "language": "Go",
-      "stars_today": "3,290 stars today",
-      "stars_total": "34,285"
+      "stars_today": "3,286 stars today",
+      "stars_total": "34,738"
     },
     {
       "name": "cloudflare/security-audit-skill",
       "url": "https://github.com/cloudflare/security-audit-skill",
       "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
       "language": "JavaScript",
-      "stars_today": "3,606 stars today",
-      "stars_total": "10,115"
+      "stars_today": "3,607 stars today",
+      "stars_total": "10,657"
     },
     {
       "name": "addyosmani/agent-skills",
@@ -106,23 +106,23 @@
       "description": "Production-grade engineering skills for AI coding agents.",
       "language": "JavaScript",
       "stars_today": "680 stars today",
-      "stars_total": "95,975"
+      "stars_total": "95,849"
     },
     {
       "name": "Tencent/BrowserSkill",
       "url": "https://github.com/Tencent/BrowserSkill",
       "description": "Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.",
       "language": "TypeScript",
-      "stars_today": "1,350 stars today",
-      "stars_total": "3,960"
+      "stars_today": "1,302 stars today",
+      "stars_total": "4,140"
     },
     {
       "name": "alphaXiv/OpenResearch",
       "url": "https://github.com/alphaXiv/OpenResearch",
       "description": "Turn your coding agents into research agents",
       "language": "Rust",
-      "stars_today": "940 stars today",
-      "stars_total": "5,005"
+      "stars_today": "939 stars today",
+      "stars_total": "4,951"
     },
     {
       "name": "anthropics/claude-code",
@@ -130,7 +130,7 @@
       "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
       "language": "TypeScript",
       "stars_today": "538 stars today",
-      "stars_total": "145,884"
+      "stars_total": "145,871"
     },
     {
       "name": "anthropics/knowledge-work-plugins",
@@ -138,15 +138,15 @@
       "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
       "language": "Python",
       "stars_today": "287 stars today",
-      "stars_total": "24,485"
+      "stars_total": "24,562"
     },
     {
       "name": "Tencent/WeKnora",
       "url": "https://github.com/Tencent/WeKnora",
       "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
       "language": "Go",
-      "stars_today": "1,123 stars today",
-      "stars_total": "26,172"
+      "stars_today": "1,125 stars today",
+      "stars_total": "26,211"
     }
   ],
   "posts": [
