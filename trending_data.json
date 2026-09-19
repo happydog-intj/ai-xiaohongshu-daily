@@ -7,80 +7,80 @@
       "url": "https://github.com/cloudflare/security-audit-skill",
       "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
       "language": "JavaScript",
-      "stars_today": "3,019 stars today",
-      "stars_total": "12,746"
+      "stars_today": "3,006 stars today",
+      "stars_total": "13,694"
     },
     {
       "name": "anthropics/claude-code",
       "url": "https://github.com/anthropics/claude-code",
       "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
       "language": "TypeScript",
-      "stars_today": "442 stars today",
-      "stars_total": "146,162"
+      "stars_today": "444 stars today",
+      "stars_total": "146,300"
     },
     {
       "name": "alibaba/open-code-review",
       "url": "https://github.com/alibaba/open-code-review",
       "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
       "language": "Go",
-      "stars_today": "2,724 stars today",
-      "stars_total": "36,412"
+      "stars_today": "2,704 stars today",
+      "stars_total": "36,675"
     },
     {
       "name": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "language": "JavaScript",
-      "stars_today": "965 stars today",
-      "stars_total": "261,747"
+      "stars_today": "958 stars today",
+      "stars_total": "262,070"
     },
     {
       "name": "Tencent/BrowserSkill",
       "url": "https://github.com/Tencent/BrowserSkill",
       "description": "Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.",
       "language": "TypeScript",
-      "stars_today": "1,319 stars today",
-      "stars_total": "5,094"
+      "stars_today": "1,306 stars today",
+      "stars_total": "5,302"
     },
     {
       "name": "addyosmani/agent-skills",
       "url": "https://github.com/addyosmani/agent-skills",
       "description": "Production-grade engineering skills for AI coding agents.",
       "language": "JavaScript",
-      "stars_today": "677 stars today",
-      "stars_total": "96,243"
+      "stars_today": "675 stars today",
+      "stars_total": "96,407"
     },
     {
       "name": "TencentCloud/Octop",
       "url": "https://github.com/TencentCloud/Octop",
       "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
       "language": "Python",
-      "stars_today": "571 stars today",
-      "stars_total": "3,864"
+      "stars_today": "569 stars today",
+      "stars_total": "3,958"
     },
     {
       "name": "Fission-AI/OpenSpec",
       "url": "https://github.com/Fission-AI/OpenSpec",
       "description": "Spec-driven development (SDD) for AI coding assistants.",
       "language": "TypeScript",
-      "stars_today": "298 stars today",
-      "stars_total": "69,199"
+      "stars_today": "296 stars today",
+      "stars_total": "69,355"
     },
     {
       "name": "ankitects/anki",
       "url": "https://github.com/ankitects/anki",
       "description": "Anki is a smart spaced repetition flashcard program",
       "language": "Rust",
-      "stars_today": "177 stars today",
-      "stars_total": "31,131"
+      "stars_today": "174 stars today",
+      "stars_total": "31,211"
     },
     {
       "name": "anthropics/knowledge-work-plugins",
       "url": "https://github.com/anthropics/knowledge-work-plugins",
       "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
       "language": "Python",
-      "stars_today": "300 stars today",
-      "stars_total": "24,785"
+      "stars_today": "299 stars today",
+      "stars_total": "24,887"
     }
   ],
   "ai_repos": [
@@ -89,72 +89,72 @@
       "url": "https://github.com/cloudflare/security-audit-skill",
       "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
       "language": "JavaScript",
-      "stars_today": "3,019 stars today",
-      "stars_total": "12,746"
+      "stars_today": "3,006 stars today",
+      "stars_total": "13,694"
     },
     {
       "name": "anthropics/claude-code",
       "url": "https://github.com/anthropics/claude-code",
       "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
       "language": "TypeScript",
-      "stars_today": "442 stars today",
-      "stars_total": "146,162"
+      "stars_today": "444 stars today",
+      "stars_total": "146,300"
     },
     {
       "name": "alibaba/open-code-review",
       "url": "https://github.com/alibaba/open-code-review",
       "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
       "language": "Go",
-      "stars_today": "2,724 stars today",
-      "stars_total": "36,412"
+      "stars_today": "2,704 stars today",
+      "stars_total": "36,675"
     },
     {
       "name": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "language": "JavaScript",
-      "stars_today": "965 stars today",
-      "stars_total": "261,747"
+      "stars_today": "958 stars today",
+      "stars_total": "262,070"
     },
     {
       "name": "Tencent/BrowserSkill",
       "url": "https://github.com/Tencent/BrowserSkill",
       "description": "Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.",
       "language": "TypeScript",
-      "stars_today": "1,319 stars today",
-      "stars_total": "5,094"
+      "stars_today": "1,306 stars today",
+      "stars_total": "5,302"
     },
     {
       "name": "addyosmani/agent-skills",
       "url": "https://github.com/addyosmani/agent-skills",
       "description": "Production-grade engineering skills for AI coding agents.",
       "language": "JavaScript",
-      "stars_today": "677 stars today",
-      "stars_total": "96,243"
+      "stars_today": "675 stars today",
+      "stars_total": "96,407"
     },
     {
       "name": "TencentCloud/Octop",
       "url": "https://github.com/TencentCloud/Octop",
       "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
       "language": "Python",
-      "stars_today": "571 stars today",
-      "stars_total": "3,864"
+      "stars_today": "569 stars today",
+      "stars_total": "3,958"
     },
     {
       "name": "Fission-AI/OpenSpec",
       "url": "https://github.com/Fission-AI/OpenSpec",
       "description": "Spec-driven development (SDD) for AI coding assistants.",
       "language": "TypeScript",
-      "stars_today": "298 stars today",
-      "stars_total": "69,199"
+      "stars_today": "296 stars today",
+      "stars_total": "69,355"
     },
     {
       "name": "anthropics/knowledge-work-plugins",
       "url": "https://github.com/anthropics/knowledge-work-plugins",
       "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
       "language": "Python",
-      "stars_today": "300 stars today",
-      "stars_total": "24,785"
+      "stars_today": "299 stars today",
+      "stars_total": "24,887"
     }
   ],
   "posts": [
