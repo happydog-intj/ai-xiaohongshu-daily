@@ -1,11 +1,11 @@
 {
-  "date": "2026-09-18",
+  "date": "2026-09-19",
   "posts": [
     {
-      "topic": "Bonsai 2 27B: Near-L",
-      "cover_line1": "Bonsai 2 2",
+      "topic": "How OpenAI Used Its ",
+      "cover_line1": "How OpenAI",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint**\n\n📌 来源：HackerNews\n🔗 https://prismml.com/news/bonsai-2-27b\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip**\n\n📌 来源：HackerNews\n🔗 https://spectrum.ieee.org/llms-for-chip-design\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -20,10 +20,10 @@
       ]
     },
     {
-      "topic": "Bend – A language th",
-      "cover_line1": "Bend – A l",
+      "topic": "How to Write with an",
+      "cover_line1": "How to Wri",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Bend – A language that blocks AI mistakes via proof, on CPU and GPU**\n\n📌 来源：HackerNews\n🔗 https://bend-lang.com/\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**How to Write with an LLM**\n\n📌 来源：HackerNews\n🔗 https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -38,10 +38,10 @@
       ]
     },
     {
-      "topic": "Diplodocus, Long Tho",
-      "cover_line1": "Diplodocus",
+      "topic": "Cache-to-Cache: Dire",
+      "cover_line1": "Cache-to-C",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Diplodocus, Long Thought Exclusively American, Turns Up in Spain**\n\n📌 来源：HackerNews\n🔗 https://www.sci.news/paleontology/spanish-diplodocus-15064.html\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Cache-to-Cache: Direct Semantic Communication Between LLMs (2025)**\n\n📌 来源：HackerNews\n🔗 https://arxiv.org/abs/2510.03215\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -56,10 +56,10 @@
       ]
     },
     {
-      "topic": "Infinite-Parameter L",
-      "cover_line1": "Infinite-P",
+      "topic": "Show HN: Cactus Need",
+      "cover_line1": "Show HN: C",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Infinite-Parameter LLMs: Generating and Adapting Weights from Live Data**\n\n📌 来源：HackerNews\n🔗 https://arxiv.org/abs/2609.18842\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Show HN: Cactus Needle 3: 8-29MB automation models can match DeepSeek V4 Flash**\n\n📌 来源：HackerNews\n🔗 https://cactuscompute.com/needle\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -75,15 +75,15 @@
     }
   ],
   "image_paths": [
-    "assets/2026-09-18/cover1.png",
-    "assets/2026-09-18/cover2.png",
-    "assets/2026-09-18/cover3.png",
-    "assets/2026-09-18/cover4.png"
+    "assets/2026-09-19/cover1.png",
+    "assets/2026-09-19/cover2.png",
+    "assets/2026-09-19/cover3.png",
+    "assets/2026-09-19/cover4.png"
   ],
   "feishu_image_paths": [
-    "assets/2026-09-18/cover1_feishu.png",
-    "assets/2026-09-18/cover2_feishu.png",
-    "assets/2026-09-18/cover3_feishu.png",
-    "assets/2026-09-18/cover4_feishu.png"
+    "assets/2026-09-19/cover1_feishu.png",
+    "assets/2026-09-19/cover2_feishu.png",
+    "assets/2026-09-19/cover3_feishu.png",
+    "assets/2026-09-19/cover4_feishu.png"
   ]
 }
