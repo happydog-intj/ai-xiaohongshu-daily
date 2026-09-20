@@ -7,80 +7,80 @@
       "url": "https://github.com/cloudflare/security-audit-skill",
       "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
       "language": "JavaScript",
-      "stars_today": "3,162 stars today",
-      "stars_total": "15,586"
+      "stars_today": "3,155 stars today",
+      "stars_total": "16,320"
     },
     {
       "name": "trycua/cua",
       "url": "https://github.com/trycua/cua",
       "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
       "language": "HTML",
-      "stars_today": "383 stars today",
-      "stars_total": "24,052"
+      "stars_today": "859 stars today",
+      "stars_total": "24,401"
     },
     {
       "name": "addyosmani/agent-skills",
       "url": "https://github.com/addyosmani/agent-skills",
       "description": "Production-grade engineering skills for AI coding agents.",
       "language": "JavaScript",
-      "stars_today": "547 stars today",
-      "stars_total": "96,817"
+      "stars_today": "556 stars today",
+      "stars_total": "97,020"
     },
     {
       "name": "coder/coder",
       "url": "https://github.com/coder/coder",
       "description": "Secure environments for developers and their agents",
       "language": "Go",
-      "stars_today": "406 stars today",
-      "stars_total": "15,507"
+      "stars_today": "402 stars today",
+      "stars_total": "15,612"
     },
     {
       "name": "anthropics/claude-code",
       "url": "https://github.com/anthropics/claude-code",
       "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
       "language": "TypeScript",
-      "stars_today": "482 stars today",
-      "stars_total": "146,591"
+      "stars_today": "483 stars today",
+      "stars_total": "146,704"
     },
     {
       "name": "Open-Dev-Society/OpenStock",
       "url": "https://github.com/Open-Dev-Society/OpenStock",
       "description": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.",
       "language": "TypeScript",
-      "stars_today": "477 stars today",
-      "stars_total": "15,829"
+      "stars_today": "472 stars today",
+      "stars_total": "16,032"
     },
     {
       "name": "higgsfield-ai/higgsfield",
       "url": "https://github.com/higgsfield-ai/higgsfield",
       "description": "Fault-tolerant, highly scalable GPU orchestration, and a machine learning framework designed for training models with billions to trillions of parameters",
       "language": "Jupyter Notebook",
-      "stars_today": "325 stars today",
-      "stars_total": "4,805"
+      "stars_today": "196 stars today",
+      "stars_total": "4,952"
     },
     {
       "name": "docling-project/docling",
       "url": "https://github.com/docling-project/docling",
       "description": "Get your documents ready for gen AI",
       "language": "Python",
-      "stars_today": "94 stars today",
-      "stars_total": "66,850"
+      "stars_today": "129 stars today",
+      "stars_total": "67,039"
     },
     {
       "name": "cloudflare/quiche",
       "url": "https://github.com/cloudflare/quiche",
       "description": "🥧 Savoury implementation of the QUIC transport protocol and HTTP/3",
       "language": "Rust",
-      "stars_today": "84 stars today",
-      "stars_total": "11,926"
+      "stars_today": "31 stars today",
+      "stars_total": "12,015"
     },
     {
       "name": "asciimoo/hister",
       "url": "https://github.com/asciimoo/hister",
       "description": "Your own search engine",
       "language": "Go",
-      "stars_today": "430 stars today",
-      "stars_total": "5,147"
+      "stars_today": "420 stars today",
+      "stars_total": "5,224"
     }
   ],
   "ai_repos": [
@@ -89,64 +89,64 @@
       "url": "https://github.com/cloudflare/security-audit-skill",
       "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
       "language": "JavaScript",
-      "stars_today": "3,162 stars today",
-      "stars_total": "15,586"
+      "stars_today": "3,155 stars today",
+      "stars_total": "16,320"
     },
     {
       "name": "trycua/cua",
       "url": "https://github.com/trycua/cua",
       "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
       "language": "HTML",
-      "stars_today": "383 stars today",
-      "stars_total": "24,052"
+      "stars_today": "859 stars today",
+      "stars_total": "24,401"
     },
     {
       "name": "addyosmani/agent-skills",
       "url": "https://github.com/addyosmani/agent-skills",
       "description": "Production-grade engineering skills for AI coding agents.",
       "language": "JavaScript",
-      "stars_today": "547 stars today",
-      "stars_total": "96,817"
+      "stars_today": "556 stars today",
+      "stars_total": "97,020"
     },
     {
       "name": "coder/coder",
       "url": "https://github.com/coder/coder",
       "description": "Secure environments for developers and their agents",
       "language": "Go",
-      "stars_today": "406 stars today",
-      "stars_total": "15,507"
+      "stars_today": "402 stars today",
+      "stars_total": "15,612"
     },
     {
       "name": "anthropics/claude-code",
       "url": "https://github.com/anthropics/claude-code",
       "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
       "language": "TypeScript",
-      "stars_today": "482 stars today",
-      "stars_total": "146,591"
+      "stars_today": "483 stars today",
+      "stars_total": "146,704"
     },
     {
       "name": "Open-Dev-Society/OpenStock",
       "url": "https://github.com/Open-Dev-Society/OpenStock",
       "description": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.",
       "language": "TypeScript",
-      "stars_today": "477 stars today",
-      "stars_total": "15,829"
+      "stars_today": "472 stars today",
+      "stars_total": "16,032"
     },
     {
       "name": "higgsfield-ai/higgsfield",
       "url": "https://github.com/higgsfield-ai/higgsfield",
       "description": "Fault-tolerant, highly scalable GPU orchestration, and a machine learning framework designed for training models with billions to trillions of parameters",
       "language": "Jupyter Notebook",
-      "stars_today": "325 stars today",
-      "stars_total": "4,805"
+      "stars_today": "196 stars today",
+      "stars_total": "4,952"
     },
     {
       "name": "docling-project/docling",
       "url": "https://github.com/docling-project/docling",
       "description": "Get your documents ready for gen AI",
       "language": "Python",
-      "stars_today": "94 stars today",
-      "stars_total": "66,850"
+      "stars_today": "129 stars today",
+      "stars_total": "67,039"
     }
   ],
   "posts": [
