@@ -1,207 +1,153 @@
 {
-  "date": "2026-09-21",
+  "date": "2026-09-22",
   "slot": "早报",
   "all_repos": [
-    {
-      "name": "affaan-m/ECC",
-      "url": "https://github.com/affaan-m/ECC",
-      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "language": "JavaScript",
-      "stars_today": "826 stars today",
-      "stars_total": "263,733"
-    },
     {
       "name": "BuilderIO/agent-native",
       "url": "https://github.com/BuilderIO/agent-native",
       "description": "A framework for building agentic apps",
       "language": "TypeScript",
-      "stars_today": "98 stars today",
-      "stars_total": "5,208"
-    },
-    {
-      "name": "cloudflare/security-audit-skill",
-      "url": "https://github.com/cloudflare/security-audit-skill",
-      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
-      "language": "JavaScript",
-      "stars_today": "2,428 stars today",
-      "stars_total": "18,016"
+      "stars_today": "607 stars today",
+      "stars_total": "5,758"
     },
     {
       "name": "trycua/cua",
       "url": "https://github.com/trycua/cua",
       "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
       "language": "HTML",
-      "stars_today": "1,018 stars today",
-      "stars_total": "25,146"
-    },
-    {
-      "name": "anthropics/financial-services",
-      "url": "https://github.com/anthropics/financial-services",
-      "description": "",
-      "language": "Python",
-      "stars_today": "260 stars today",
-      "stars_total": "35,363"
-    },
-    {
-      "name": "paperless-ngx/paperless-ngx",
-      "url": "https://github.com/paperless-ngx/paperless-ngx",
-      "description": "A community-supported supercharged document management system: scan, index and archive all your documents",
-      "language": "Python",
-      "stars_today": "57 stars today",
-      "stars_total": "45,563"
-    },
-    {
-      "name": "anthropics/claude-code",
-      "url": "https://github.com/anthropics/claude-code",
-      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
-      "language": "TypeScript",
-      "stars_today": "419 stars today",
-      "stars_total": "147,119"
-    },
-    {
-      "name": "mihail911/modern-software-dev-assignments",
-      "url": "https://github.com/mihail911/modern-software-dev-assignments",
-      "description": "Assignments for CS146S: The Modern Software Dev (Stanford University Fall 2026/2025)",
-      "language": "Python",
-      "stars_today": "172 stars today",
-      "stars_total": "4,553"
-    },
-    {
-      "name": "higgsfield-ai/higgsfield",
-      "url": "https://github.com/higgsfield-ai/higgsfield",
-      "description": "Fault-tolerant, highly scalable GPU orchestration, and a machine learning framework designed for training models with billions to trillions of parameters",
-      "language": "Jupyter Notebook",
-      "stars_today": "465 stars today",
-      "stars_total": "5,378"
+      "stars_today": "609 stars today",
+      "stars_total": "25,598"
     },
     {
       "name": "Open-Dev-Society/OpenStock",
       "url": "https://github.com/Open-Dev-Society/OpenStock",
       "description": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.",
       "language": "TypeScript",
-      "stars_today": "755 stars today",
-      "stars_total": "16,819"
+      "stars_today": "843 stars today",
+      "stars_total": "17,522"
+    },
+    {
+      "name": "akitaonrails/ai-memory",
+      "url": "https://github.com/akitaonrails/ai-memory",
+      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+      "language": "Rust",
+      "stars_today": "217 stars today",
+      "stars_total": "7,571"
+    },
+    {
+      "name": "coder/coder",
+      "url": "https://github.com/coder/coder",
+      "description": "Secure environments for developers and their agents",
+      "language": "Go",
+      "stars_today": "461 stars today",
+      "stars_total": "16,341"
+    },
+    {
+      "name": "anthropics/financial-services",
+      "url": "https://github.com/anthropics/financial-services",
+      "description": "",
+      "language": "Python",
+      "stars_today": "425 stars today",
+      "stars_total": "35,722"
+    },
+    {
+      "name": "cloudflare/quiche",
+      "url": "https://github.com/cloudflare/quiche",
+      "description": "🥧 Savoury implementation of the QUIC transport protocol and HTTP/3",
+      "language": "Rust",
+      "stars_today": "69 stars today",
+      "stars_total": "12,267"
+    },
+    {
+      "name": "mvt-project/mvt",
+      "url": "https://github.com/mvt-project/mvt",
+      "description": "MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.",
+      "language": "Python",
+      "stars_today": "177 stars today",
+      "stars_total": "13,482"
+    },
+    {
+      "name": "zhouxiaoka/autoclip",
+      "url": "https://github.com/zhouxiaoka/autoclip",
+      "description": "AutoClip : AI-powered video clipping and highlight generation · 一款智能高光提取与剪辑的二创工具",
+      "language": "Python",
+      "stars_today": "266 stars today",
+      "stars_total": "8,124"
+    },
+    {
+      "name": "ruanyf/weekly",
+      "url": "https://github.com/ruanyf/weekly",
+      "description": "科技爱好者周刊，每周五发布",
+      "language": "",
+      "stars_today": "221 stars today",
+      "stars_total": "103,873"
     }
   ],
   "ai_repos": [
     {
-      "name": "affaan-m/ECC",
-      "url": "https://github.com/affaan-m/ECC",
-      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "language": "JavaScript",
-      "stars_today": "826 stars today",
-      "stars_total": "263,733"
-    },
-    {
       "name": "BuilderIO/agent-native",
       "url": "https://github.com/BuilderIO/agent-native",
       "description": "A framework for building agentic apps",
       "language": "TypeScript",
-      "stars_today": "98 stars today",
-      "stars_total": "5,208"
-    },
-    {
-      "name": "cloudflare/security-audit-skill",
-      "url": "https://github.com/cloudflare/security-audit-skill",
-      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
-      "language": "JavaScript",
-      "stars_today": "2,428 stars today",
-      "stars_total": "18,016"
+      "stars_today": "607 stars today",
+      "stars_total": "5,758"
     },
     {
       "name": "trycua/cua",
       "url": "https://github.com/trycua/cua",
       "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
       "language": "HTML",
-      "stars_today": "1,018 stars today",
-      "stars_total": "25,146"
-    },
-    {
-      "name": "anthropics/financial-services",
-      "url": "https://github.com/anthropics/financial-services",
-      "description": "",
-      "language": "Python",
-      "stars_today": "260 stars today",
-      "stars_total": "35,363"
-    },
-    {
-      "name": "anthropics/claude-code",
-      "url": "https://github.com/anthropics/claude-code",
-      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
-      "language": "TypeScript",
-      "stars_today": "419 stars today",
-      "stars_total": "147,119"
-    },
-    {
-      "name": "mihail911/modern-software-dev-assignments",
-      "url": "https://github.com/mihail911/modern-software-dev-assignments",
-      "description": "Assignments for CS146S: The Modern Software Dev (Stanford University Fall 2026/2025)",
-      "language": "Python",
-      "stars_today": "172 stars today",
-      "stars_total": "4,553"
-    },
-    {
-      "name": "higgsfield-ai/higgsfield",
-      "url": "https://github.com/higgsfield-ai/higgsfield",
-      "description": "Fault-tolerant, highly scalable GPU orchestration, and a machine learning framework designed for training models with billions to trillions of parameters",
-      "language": "Jupyter Notebook",
-      "stars_today": "465 stars today",
-      "stars_total": "5,378"
+      "stars_today": "609 stars today",
+      "stars_total": "25,598"
     },
     {
       "name": "Open-Dev-Society/OpenStock",
       "url": "https://github.com/Open-Dev-Society/OpenStock",
       "description": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.",
       "language": "TypeScript",
-      "stars_today": "755 stars today",
-      "stars_total": "16,819"
+      "stars_today": "843 stars today",
+      "stars_total": "17,522"
+    },
+    {
+      "name": "akitaonrails/ai-memory",
+      "url": "https://github.com/akitaonrails/ai-memory",
+      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+      "language": "Rust",
+      "stars_today": "217 stars today",
+      "stars_total": "7,571"
+    },
+    {
+      "name": "coder/coder",
+      "url": "https://github.com/coder/coder",
+      "description": "Secure environments for developers and their agents",
+      "language": "Go",
+      "stars_today": "461 stars today",
+      "stars_total": "16,341"
+    },
+    {
+      "name": "anthropics/financial-services",
+      "url": "https://github.com/anthropics/financial-services",
+      "description": "",
+      "language": "Python",
+      "stars_today": "425 stars today",
+      "stars_total": "35,722"
+    },
+    {
+      "name": "zhouxiaoka/autoclip",
+      "url": "https://github.com/zhouxiaoka/autoclip",
+      "description": "AutoClip : AI-powered video clipping and highlight generation · 一款智能高光提取与剪辑的二创工具",
+      "language": "Python",
+      "stars_today": "266 stars today",
+      "stars_total": "8,124"
     }
   ],
   "posts": [
-    {
-      "topic": "ECC",
-      "repo": "affaan-m/ECC",
-      "cover_line1": "ECC",
-      "cover_line2": "今日 GitHub 热榜！",
-      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**affaan-m/ECC**\n\n📌 The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.\n\n🔗 https://github.com/affaan-m/ECC\n\n关注我，每天第一时间 AI 动态 👇",
-      "tags": [
-        "AI",
-        "GitHub",
-        "开源",
-        "热门项目",
-        "大模型",
-        "机器学习",
-        "深度学习",
-        "AI工具",
-        "技术",
-        "炼丹"
-      ]
-    },
     {
       "topic": "agent-native",
       "repo": "BuilderIO/agent-native",
       "cover_line1": "agent-nati",
       "cover_line2": "今日 GitHub 热榜！",
       "body": "🔥 GitHub Trending 今日爆款来了！\n\n**BuilderIO/agent-native**\n\n📌 A framework for building agentic apps\n\n🔗 https://github.com/BuilderIO/agent-native\n\n关注我，每天第一时间 AI 动态 👇",
-      "tags": [
-        "AI",
-        "GitHub",
-        "开源",
-        "热门项目",
-        "大模型",
-        "机器学习",
-        "深度学习",
-        "AI工具",
-        "技术",
-        "炼丹"
-      ]
-    },
-    {
-      "topic": "security-audit-skill",
-      "repo": "cloudflare/security-audit-skill",
-      "cover_line1": "security-a",
-      "cover_line2": "今日 GitHub 热榜！",
-      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**cloudflare/security-audit-skill**\n\n📌 A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings\n\n🔗 https://github.com/cloudflare/security-audit-skill\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "GitHub",
@@ -233,13 +179,51 @@
         "技术",
         "炼丹"
       ]
+    },
+    {
+      "topic": "OpenStock",
+      "repo": "Open-Dev-Society/OpenStock",
+      "cover_line1": "OpenStock",
+      "cover_line2": "今日 GitHub 热榜！",
+      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**Open-Dev-Society/OpenStock**\n\n📌 OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.\n\n🔗 https://github.com/Open-Dev-Society/OpenStock\n\n关注我，每天第一时间 AI 动态 👇",
+      "tags": [
+        "AI",
+        "GitHub",
+        "开源",
+        "热门项目",
+        "大模型",
+        "机器学习",
+        "深度学习",
+        "AI工具",
+        "技术",
+        "炼丹"
+      ]
+    },
+    {
+      "topic": "ai-memory",
+      "repo": "akitaonrails/ai-memory",
+      "cover_line1": "ai-memory",
+      "cover_line2": "今日 GitHub 热榜！",
+      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**akitaonrails/ai-memory**\n\n📌 Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors\n\n🔗 https://github.com/akitaonrails/ai-memory\n\n关注我，每天第一时间 AI 动态 👇",
+      "tags": [
+        "AI",
+        "GitHub",
+        "开源",
+        "热门项目",
+        "大模型",
+        "机器学习",
+        "深度学习",
+        "AI工具",
+        "技术",
+        "炼丹"
+      ]
     }
   ],
   "image_paths": [
-    "assets/2026-09-21/trending/summary.png",
-    "assets/2026-09-21/trending/post1.png",
-    "assets/2026-09-21/trending/post2.png",
-    "assets/2026-09-21/trending/post3.png",
-    "assets/2026-09-21/trending/post4.png"
+    "assets/2026-09-22/trending/summary.png",
+    "assets/2026-09-22/trending/post1.png",
+    "assets/2026-09-22/trending/post2.png",
+    "assets/2026-09-22/trending/post3.png",
+    "assets/2026-09-22/trending/post4.png"
   ]
 }
