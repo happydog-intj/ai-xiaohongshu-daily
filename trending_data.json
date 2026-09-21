@@ -7,80 +7,80 @@
       "url": "https://github.com/affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "language": "JavaScript",
-      "stars_today": "1,012 stars today",
-      "stars_total": "263,461"
+      "stars_today": "826 stars today",
+      "stars_total": "263,733"
     },
     {
       "name": "BuilderIO/agent-native",
       "url": "https://github.com/BuilderIO/agent-native",
       "description": "A framework for building agentic apps",
       "language": "TypeScript",
-      "stars_today": "89 stars today",
-      "stars_total": "5,075"
+      "stars_today": "98 stars today",
+      "stars_total": "5,208"
     },
     {
       "name": "cloudflare/security-audit-skill",
       "url": "https://github.com/cloudflare/security-audit-skill",
       "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
       "language": "JavaScript",
-      "stars_today": "2,375 stars today",
-      "stars_total": "17,702"
+      "stars_today": "2,428 stars today",
+      "stars_total": "18,016"
     },
     {
       "name": "trycua/cua",
       "url": "https://github.com/trycua/cua",
       "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
       "language": "HTML",
-      "stars_today": "1,012 stars today",
-      "stars_total": "25,000"
+      "stars_today": "1,018 stars today",
+      "stars_total": "25,146"
     },
     {
       "name": "anthropics/financial-services",
       "url": "https://github.com/anthropics/financial-services",
       "description": "",
       "language": "Python",
-      "stars_today": "236 stars today",
-      "stars_total": "35,260"
+      "stars_today": "260 stars today",
+      "stars_total": "35,363"
     },
     {
       "name": "paperless-ngx/paperless-ngx",
       "url": "https://github.com/paperless-ngx/paperless-ngx",
       "description": "A community-supported supercharged document management system: scan, index and archive all your documents",
       "language": "Python",
-      "stars_today": "32 stars today",
-      "stars_total": "45,433"
+      "stars_today": "57 stars today",
+      "stars_total": "45,563"
     },
     {
       "name": "anthropics/claude-code",
       "url": "https://github.com/anthropics/claude-code",
       "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
       "language": "TypeScript",
-      "stars_today": "415 stars today",
-      "stars_total": "146,988"
+      "stars_today": "419 stars today",
+      "stars_total": "147,119"
     },
     {
       "name": "mihail911/modern-software-dev-assignments",
       "url": "https://github.com/mihail911/modern-software-dev-assignments",
       "description": "Assignments for CS146S: The Modern Software Dev (Stanford University Fall 2026/2025)",
       "language": "Python",
-      "stars_today": "174 stars today",
-      "stars_total": "4,480"
+      "stars_today": "172 stars today",
+      "stars_total": "4,553"
     },
     {
       "name": "higgsfield-ai/higgsfield",
       "url": "https://github.com/higgsfield-ai/higgsfield",
       "description": "Fault-tolerant, highly scalable GPU orchestration, and a machine learning framework designed for training models with billions to trillions of parameters",
       "language": "Jupyter Notebook",
-      "stars_today": "461 stars today",
-      "stars_total": "5,239"
+      "stars_today": "465 stars today",
+      "stars_total": "5,378"
     },
     {
       "name": "Open-Dev-Society/OpenStock",
       "url": "https://github.com/Open-Dev-Society/OpenStock",
       "description": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.",
       "language": "TypeScript",
-      "stars_today": "752 stars today",
-      "stars_total": "16,597"
+      "stars_today": "755 stars today",
+      "stars_total": "16,819"
     }
   ],
   "ai_repos": [
@@ -89,72 +89,72 @@
       "url": "https://github.com/affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "language": "JavaScript",
-      "stars_today": "1,012 stars today",
-      "stars_total": "263,461"
+      "stars_today": "826 stars today",
+      "stars_total": "263,733"
     },
     {
       "name": "BuilderIO/agent-native",
       "url": "https://github.com/BuilderIO/agent-native",
       "description": "A framework for building agentic apps",
       "language": "TypeScript",
-      "stars_today": "89 stars today",
-      "stars_total": "5,075"
+      "stars_today": "98 stars today",
+      "stars_total": "5,208"
     },
     {
       "name": "cloudflare/security-audit-skill",
       "url": "https://github.com/cloudflare/security-audit-skill",
       "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
       "language": "JavaScript",
-      "stars_today": "2,375 stars today",
-      "stars_total": "17,702"
+      "stars_today": "2,428 stars today",
+      "stars_total": "18,016"
     },
     {
       "name": "trycua/cua",
       "url": "https://github.com/trycua/cua",
       "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
       "language": "HTML",
-      "stars_today": "1,012 stars today",
-      "stars_total": "25,000"
+      "stars_today": "1,018 stars today",
+      "stars_total": "25,146"
     },
     {
       "name": "anthropics/financial-services",
       "url": "https://github.com/anthropics/financial-services",
       "description": "",
       "language": "Python",
-      "stars_today": "236 stars today",
-      "stars_total": "35,260"
+      "stars_today": "260 stars today",
+      "stars_total": "35,363"
     },
     {
       "name": "anthropics/claude-code",
       "url": "https://github.com/anthropics/claude-code",
       "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
       "language": "TypeScript",
-      "stars_today": "415 stars today",
-      "stars_total": "146,988"
+      "stars_today": "419 stars today",
+      "stars_total": "147,119"
     },
     {
       "name": "mihail911/modern-software-dev-assignments",
       "url": "https://github.com/mihail911/modern-software-dev-assignments",
       "description": "Assignments for CS146S: The Modern Software Dev (Stanford University Fall 2026/2025)",
       "language": "Python",
-      "stars_today": "174 stars today",
-      "stars_total": "4,480"
+      "stars_today": "172 stars today",
+      "stars_total": "4,553"
     },
     {
       "name": "higgsfield-ai/higgsfield",
       "url": "https://github.com/higgsfield-ai/higgsfield",
       "description": "Fault-tolerant, highly scalable GPU orchestration, and a machine learning framework designed for training models with billions to trillions of parameters",
       "language": "Jupyter Notebook",
-      "stars_today": "461 stars today",
-      "stars_total": "5,239"
+      "stars_today": "465 stars today",
+      "stars_total": "5,378"
     },
     {
       "name": "Open-Dev-Society/OpenStock",
       "url": "https://github.com/Open-Dev-Society/OpenStock",
       "description": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.",
       "language": "TypeScript",
-      "stars_today": "752 stars today",
-      "stars_total": "16,597"
+      "stars_today": "755 stars today",
+      "stars_total": "16,819"
     }
   ],
   "posts": [
