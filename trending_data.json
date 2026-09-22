@@ -1,153 +1,137 @@
 {
-  "date": "2026-09-22",
+  "date": "2026-09-23",
   "slot": "早报",
   "all_repos": [
-    {
-      "name": "BuilderIO/agent-native",
-      "url": "https://github.com/BuilderIO/agent-native",
-      "description": "A framework for building agentic apps",
-      "language": "TypeScript",
-      "stars_today": "607 stars today",
-      "stars_total": "5,923"
-    },
-    {
-      "name": "trycua/cua",
-      "url": "https://github.com/trycua/cua",
-      "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
-      "language": "HTML",
-      "stars_today": "609 stars today",
-      "stars_total": "25,709"
-    },
-    {
-      "name": "Open-Dev-Society/OpenStock",
-      "url": "https://github.com/Open-Dev-Society/OpenStock",
-      "description": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.",
-      "language": "TypeScript",
-      "stars_today": "844 stars today",
-      "stars_total": "17,754"
-    },
-    {
-      "name": "akitaonrails/ai-memory",
-      "url": "https://github.com/akitaonrails/ai-memory",
-      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
-      "language": "Rust",
-      "stars_today": "167 stars today",
-      "stars_total": "7,696"
-    },
-    {
-      "name": "coder/coder",
-      "url": "https://github.com/coder/coder",
-      "description": "Secure environments for developers and their agents",
-      "language": "Go",
-      "stars_today": "460 stars today",
-      "stars_total": "16,431"
-    },
     {
       "name": "anthropics/financial-services",
       "url": "https://github.com/anthropics/financial-services",
       "description": "",
       "language": "Python",
-      "stars_today": "424 stars today",
-      "stars_total": "35,841"
+      "stars_today": "436 stars today",
+      "stars_total": "36,201"
     },
     {
-      "name": "cloudflare/quiche",
-      "url": "https://github.com/cloudflare/quiche",
-      "description": "🥧 Savoury implementation of the QUIC transport protocol and HTTP/3",
-      "language": "Rust",
-      "stars_today": "32 stars today",
-      "stars_total": "12,364"
+      "name": "agent-substrate/substrate",
+      "url": "https://github.com/agent-substrate/substrate",
+      "description": "Agent Substrate: the core system",
+      "language": "Go",
+      "stars_today": "301 stars today",
+      "stars_total": "2,849"
+    },
+    {
+      "name": "dream-num/univer",
+      "url": "https://github.com/dream-num/univer",
+      "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
+      "language": "TypeScript",
+      "stars_today": "202 stars today",
+      "stars_total": "15,158"
+    },
+    {
+      "name": "davila7/claude-code-templates",
+      "url": "https://github.com/davila7/claude-code-templates",
+      "description": "CLI tool for configuring and monitoring Claude Code",
+      "language": "Python",
+      "stars_today": "113 stars today",
+      "stars_total": "31,008"
+    },
+    {
+      "name": "google/ax",
+      "url": "https://github.com/google/ax",
+      "description": "Google's open agentic orchestration runtime",
+      "language": "Go",
+      "stars_today": "2,324 stars today",
+      "stars_total": "7,256"
     },
     {
       "name": "mvt-project/mvt",
       "url": "https://github.com/mvt-project/mvt",
       "description": "MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.",
       "language": "Python",
-      "stars_today": "169 stars today",
-      "stars_total": "13,605"
+      "stars_today": "441 stars today",
+      "stars_total": "13,884"
     },
     {
-      "name": "zhouxiaoka/autoclip",
-      "url": "https://github.com/zhouxiaoka/autoclip",
-      "description": "AutoClip : AI-powered video clipping and highlight generation · 一款智能高光提取与剪辑的二创工具",
+      "name": "superdesigndev/treg",
+      "url": "https://github.com/superdesigndev/treg",
+      "description": "OpenRouter for agent tools. Join community here:https://discord.gg/6mQYYfFMAn",
       "language": "Python",
-      "stars_today": "250 stars today",
-      "stars_total": "8,260"
+      "stars_today": "197 stars today",
+      "stars_total": "2,092"
     },
     {
-      "name": "ruanyf/weekly",
-      "url": "https://github.com/ruanyf/weekly",
-      "description": "科技爱好者周刊，每周五发布",
-      "language": "",
-      "stars_today": "182 stars today",
-      "stars_total": "103,957"
+      "name": "browser-use/video-use",
+      "url": "https://github.com/browser-use/video-use",
+      "description": "Edit videos with coding agents",
+      "language": "Python",
+      "stars_today": "155 stars today",
+      "stars_total": "25,671"
     }
   ],
   "ai_repos": [
-    {
-      "name": "BuilderIO/agent-native",
-      "url": "https://github.com/BuilderIO/agent-native",
-      "description": "A framework for building agentic apps",
-      "language": "TypeScript",
-      "stars_today": "607 stars today",
-      "stars_total": "5,923"
-    },
-    {
-      "name": "trycua/cua",
-      "url": "https://github.com/trycua/cua",
-      "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
-      "language": "HTML",
-      "stars_today": "609 stars today",
-      "stars_total": "25,709"
-    },
-    {
-      "name": "Open-Dev-Society/OpenStock",
-      "url": "https://github.com/Open-Dev-Society/OpenStock",
-      "description": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.",
-      "language": "TypeScript",
-      "stars_today": "844 stars today",
-      "stars_total": "17,754"
-    },
-    {
-      "name": "akitaonrails/ai-memory",
-      "url": "https://github.com/akitaonrails/ai-memory",
-      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
-      "language": "Rust",
-      "stars_today": "167 stars today",
-      "stars_total": "7,696"
-    },
-    {
-      "name": "coder/coder",
-      "url": "https://github.com/coder/coder",
-      "description": "Secure environments for developers and their agents",
-      "language": "Go",
-      "stars_today": "460 stars today",
-      "stars_total": "16,431"
-    },
     {
       "name": "anthropics/financial-services",
       "url": "https://github.com/anthropics/financial-services",
       "description": "",
       "language": "Python",
-      "stars_today": "424 stars today",
-      "stars_total": "35,841"
+      "stars_today": "436 stars today",
+      "stars_total": "36,201"
     },
     {
-      "name": "zhouxiaoka/autoclip",
-      "url": "https://github.com/zhouxiaoka/autoclip",
-      "description": "AutoClip : AI-powered video clipping and highlight generation · 一款智能高光提取与剪辑的二创工具",
+      "name": "agent-substrate/substrate",
+      "url": "https://github.com/agent-substrate/substrate",
+      "description": "Agent Substrate: the core system",
+      "language": "Go",
+      "stars_today": "301 stars today",
+      "stars_total": "2,849"
+    },
+    {
+      "name": "dream-num/univer",
+      "url": "https://github.com/dream-num/univer",
+      "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
+      "language": "TypeScript",
+      "stars_today": "202 stars today",
+      "stars_total": "15,158"
+    },
+    {
+      "name": "davila7/claude-code-templates",
+      "url": "https://github.com/davila7/claude-code-templates",
+      "description": "CLI tool for configuring and monitoring Claude Code",
       "language": "Python",
-      "stars_today": "250 stars today",
-      "stars_total": "8,260"
+      "stars_today": "113 stars today",
+      "stars_total": "31,008"
+    },
+    {
+      "name": "google/ax",
+      "url": "https://github.com/google/ax",
+      "description": "Google's open agentic orchestration runtime",
+      "language": "Go",
+      "stars_today": "2,324 stars today",
+      "stars_total": "7,256"
+    },
+    {
+      "name": "superdesigndev/treg",
+      "url": "https://github.com/superdesigndev/treg",
+      "description": "OpenRouter for agent tools. Join community here:https://discord.gg/6mQYYfFMAn",
+      "language": "Python",
+      "stars_today": "197 stars today",
+      "stars_total": "2,092"
+    },
+    {
+      "name": "browser-use/video-use",
+      "url": "https://github.com/browser-use/video-use",
+      "description": "Edit videos with coding agents",
+      "language": "Python",
+      "stars_today": "155 stars today",
+      "stars_total": "25,671"
     }
   ],
   "posts": [
     {
-      "topic": "agent-native",
-      "repo": "BuilderIO/agent-native",
-      "cover_line1": "agent-nati",
+      "topic": "financial-services",
+      "repo": "anthropics/financial-services",
+      "cover_line1": "financial-",
       "cover_line2": "今日 GitHub 热榜！",
-      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**BuilderIO/agent-native**\n\n📌 A framework for building agentic apps\n\n🔗 https://github.com/BuilderIO/agent-native\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**anthropics/financial-services**\n\n📌 \n\n🔗 https://github.com/anthropics/financial-services\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "GitHub",
@@ -162,11 +146,11 @@
       ]
     },
     {
-      "topic": "cua",
-      "repo": "trycua/cua",
-      "cover_line1": "cua",
+      "topic": "substrate",
+      "repo": "agent-substrate/substrate",
+      "cover_line1": "substrate",
       "cover_line2": "今日 GitHub 热榜！",
-      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**trycua/cua**\n\n📌 Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.\n\n🔗 https://github.com/trycua/cua\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**agent-substrate/substrate**\n\n📌 Agent Substrate: the core system\n\n🔗 https://github.com/agent-substrate/substrate\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "GitHub",
@@ -181,11 +165,11 @@
       ]
     },
     {
-      "topic": "OpenStock",
-      "repo": "Open-Dev-Society/OpenStock",
-      "cover_line1": "OpenStock",
+      "topic": "univer",
+      "repo": "dream-num/univer",
+      "cover_line1": "univer",
       "cover_line2": "今日 GitHub 热榜！",
-      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**Open-Dev-Society/OpenStock**\n\n📌 OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.\n\n🔗 https://github.com/Open-Dev-Society/OpenStock\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**dream-num/univer**\n\n📌 The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.\n\n🔗 https://github.com/dream-num/univer\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "GitHub",
@@ -200,11 +184,11 @@
       ]
     },
     {
-      "topic": "ai-memory",
-      "repo": "akitaonrails/ai-memory",
-      "cover_line1": "ai-memory",
+      "topic": "claude-code-template",
+      "repo": "davila7/claude-code-templates",
+      "cover_line1": "claude-cod",
       "cover_line2": "今日 GitHub 热榜！",
-      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**akitaonrails/ai-memory**\n\n📌 Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors\n\n🔗 https://github.com/akitaonrails/ai-memory\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**davila7/claude-code-templates**\n\n📌 CLI tool for configuring and monitoring Claude Code\n\n🔗 https://github.com/davila7/claude-code-templates\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "GitHub",
@@ -220,10 +204,10 @@
     }
   ],
   "image_paths": [
-    "assets/2026-09-22/trending/summary.png",
-    "assets/2026-09-22/trending/post1.png",
-    "assets/2026-09-22/trending/post2.png",
-    "assets/2026-09-22/trending/post3.png",
-    "assets/2026-09-22/trending/post4.png"
+    "assets/2026-09-23/trending/summary.png",
+    "assets/2026-09-23/trending/post1.png",
+    "assets/2026-09-23/trending/post2.png",
+    "assets/2026-09-23/trending/post3.png",
+    "assets/2026-09-23/trending/post4.png"
   ]
 }
