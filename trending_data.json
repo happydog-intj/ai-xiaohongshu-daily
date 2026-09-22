@@ -8,7 +8,7 @@
       "description": "A framework for building agentic apps",
       "language": "TypeScript",
       "stars_today": "607 stars today",
-      "stars_total": "5,758"
+      "stars_total": "5,923"
     },
     {
       "name": "trycua/cua",
@@ -16,71 +16,71 @@
       "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
       "language": "HTML",
       "stars_today": "609 stars today",
-      "stars_total": "25,598"
+      "stars_total": "25,709"
     },
     {
       "name": "Open-Dev-Society/OpenStock",
       "url": "https://github.com/Open-Dev-Society/OpenStock",
       "description": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.",
       "language": "TypeScript",
-      "stars_today": "843 stars today",
-      "stars_total": "17,522"
+      "stars_today": "844 stars today",
+      "stars_total": "17,754"
     },
     {
       "name": "akitaonrails/ai-memory",
       "url": "https://github.com/akitaonrails/ai-memory",
       "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
       "language": "Rust",
-      "stars_today": "217 stars today",
-      "stars_total": "7,571"
+      "stars_today": "167 stars today",
+      "stars_total": "7,696"
     },
     {
       "name": "coder/coder",
       "url": "https://github.com/coder/coder",
       "description": "Secure environments for developers and their agents",
       "language": "Go",
-      "stars_today": "461 stars today",
-      "stars_total": "16,341"
+      "stars_today": "460 stars today",
+      "stars_total": "16,431"
     },
     {
       "name": "anthropics/financial-services",
       "url": "https://github.com/anthropics/financial-services",
       "description": "",
       "language": "Python",
-      "stars_today": "425 stars today",
-      "stars_total": "35,722"
+      "stars_today": "424 stars today",
+      "stars_total": "35,841"
     },
     {
       "name": "cloudflare/quiche",
       "url": "https://github.com/cloudflare/quiche",
       "description": "🥧 Savoury implementation of the QUIC transport protocol and HTTP/3",
       "language": "Rust",
-      "stars_today": "69 stars today",
-      "stars_total": "12,267"
+      "stars_today": "32 stars today",
+      "stars_total": "12,364"
     },
     {
       "name": "mvt-project/mvt",
       "url": "https://github.com/mvt-project/mvt",
       "description": "MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.",
       "language": "Python",
-      "stars_today": "177 stars today",
-      "stars_total": "13,482"
+      "stars_today": "169 stars today",
+      "stars_total": "13,605"
     },
     {
       "name": "zhouxiaoka/autoclip",
       "url": "https://github.com/zhouxiaoka/autoclip",
       "description": "AutoClip : AI-powered video clipping and highlight generation · 一款智能高光提取与剪辑的二创工具",
       "language": "Python",
-      "stars_today": "266 stars today",
-      "stars_total": "8,124"
+      "stars_today": "250 stars today",
+      "stars_total": "8,260"
     },
     {
       "name": "ruanyf/weekly",
       "url": "https://github.com/ruanyf/weekly",
       "description": "科技爱好者周刊，每周五发布",
       "language": "",
-      "stars_today": "221 stars today",
-      "stars_total": "103,873"
+      "stars_today": "182 stars today",
+      "stars_total": "103,957"
     }
   ],
   "ai_repos": [
@@ -90,7 +90,7 @@
       "description": "A framework for building agentic apps",
       "language": "TypeScript",
       "stars_today": "607 stars today",
-      "stars_total": "5,758"
+      "stars_total": "5,923"
     },
     {
       "name": "trycua/cua",
@@ -98,47 +98,47 @@
       "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
       "language": "HTML",
       "stars_today": "609 stars today",
-      "stars_total": "25,598"
+      "stars_total": "25,709"
     },
     {
       "name": "Open-Dev-Society/OpenStock",
       "url": "https://github.com/Open-Dev-Society/OpenStock",
       "description": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.",
       "language": "TypeScript",
-      "stars_today": "843 stars today",
-      "stars_total": "17,522"
+      "stars_today": "844 stars today",
+      "stars_total": "17,754"
     },
     {
       "name": "akitaonrails/ai-memory",
       "url": "https://github.com/akitaonrails/ai-memory",
       "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
       "language": "Rust",
-      "stars_today": "217 stars today",
-      "stars_total": "7,571"
+      "stars_today": "167 stars today",
+      "stars_total": "7,696"
     },
     {
       "name": "coder/coder",
       "url": "https://github.com/coder/coder",
       "description": "Secure environments for developers and their agents",
       "language": "Go",
-      "stars_today": "461 stars today",
-      "stars_total": "16,341"
+      "stars_today": "460 stars today",
+      "stars_total": "16,431"
     },
     {
       "name": "anthropics/financial-services",
       "url": "https://github.com/anthropics/financial-services",
       "description": "",
       "language": "Python",
-      "stars_today": "425 stars today",
-      "stars_total": "35,722"
+      "stars_today": "424 stars today",
+      "stars_total": "35,841"
     },
     {
       "name": "zhouxiaoka/autoclip",
       "url": "https://github.com/zhouxiaoka/autoclip",
       "description": "AutoClip : AI-powered video clipping and highlight generation · 一款智能高光提取与剪辑的二创工具",
       "language": "Python",
-      "stars_today": "266 stars today",
-      "stars_total": "8,124"
+      "stars_today": "250 stars today",
+      "stars_total": "8,260"
     }
   ],
   "posts": [
