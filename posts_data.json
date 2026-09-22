@@ -1,11 +1,11 @@
 {
-  "date": "2026-09-21",
+  "date": "2026-09-22",
   "posts": [
     {
-      "topic": "Google's Open Agenti",
-      "cover_line1": "Google's O",
+      "topic": "Claude Status – Elev",
+      "cover_line1": "Claude Sta",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Google's Open Agentic Orchestrator**\n\n📌 来源：HackerNews\n🔗 https://agentexecutor.io\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Claude Status – Elevated errors for multiple models**\n\n📌 来源：HackerNews\n🔗 https://status.claude.com/incidents/7g1qpkyz5gxh\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -20,10 +20,10 @@
       ]
     },
     {
-      "topic": "ChatGPT now knows wh",
-      "cover_line1": "ChatGPT no",
+      "topic": "Transformers Explain",
+      "cover_line1": "Transforme",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**ChatGPT now knows what you do on other websites via ad collector**\n\n📌 来源：HackerNews\n🔗 https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Transformers Explained Visually**\n\n📌 来源：HackerNews\n🔗 https://poloclub.github.io/transformer-explainer/\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -38,10 +38,10 @@
       ]
     },
     {
-      "topic": "Amiga Unix, Again",
-      "cover_line1": "Amiga Unix",
+      "topic": "AI coding has made C",
+      "cover_line1": "AI coding ",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Amiga Unix, Again**\n\n📌 来源：HackerNews\n🔗 https://amigaux.org/\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**AI coding has made CI a bottleneck, so we reworked ours to keep up**\n\n📌 来源：HackerNews\n🔗 https://linear.app/now/ci-bottleneck-reworked\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -56,10 +56,10 @@
       ]
     },
     {
-      "topic": "Pirate Face Rescues ",
-      "cover_line1": "Pirate Fac",
+      "topic": "The agents, they jus",
+      "cover_line1": "The agents",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Pirate Face Rescues LLM Models from Deletion**\n\n📌 来源：HackerNews\n🔗 https://pirateface.co/\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**The agents, they just want to talk**\n\n📌 来源：HackerNews\n🔗 https://snats.xyz/pages/articles/political_ecology/the_agents_they_just_want_to_talk.html\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -75,15 +75,15 @@
     }
   ],
   "image_paths": [
-    "assets/2026-09-21/cover1.png",
-    "assets/2026-09-21/cover2.png",
-    "assets/2026-09-21/cover3.png",
-    "assets/2026-09-21/cover4.png"
+    "assets/2026-09-22/cover1.png",
+    "assets/2026-09-22/cover2.png",
+    "assets/2026-09-22/cover3.png",
+    "assets/2026-09-22/cover4.png"
   ],
   "feishu_image_paths": [
-    "assets/2026-09-21/cover1_feishu.png",
-    "assets/2026-09-21/cover2_feishu.png",
-    "assets/2026-09-21/cover3_feishu.png",
-    "assets/2026-09-21/cover4_feishu.png"
+    "assets/2026-09-22/cover1_feishu.png",
+    "assets/2026-09-22/cover2_feishu.png",
+    "assets/2026-09-22/cover3_feishu.png",
+    "assets/2026-09-22/cover4_feishu.png"
   ]
 }
