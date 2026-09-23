@@ -7,40 +7,40 @@
       "url": "https://github.com/anthropics/financial-services",
       "description": "",
       "language": "Python",
-      "stars_today": "436 stars today",
-      "stars_total": "36,201"
+      "stars_today": "438 stars today",
+      "stars_total": "36,344"
     },
     {
       "name": "agent-substrate/substrate",
       "url": "https://github.com/agent-substrate/substrate",
       "description": "Agent Substrate: the core system",
       "language": "Go",
-      "stars_today": "301 stars today",
-      "stars_total": "2,849"
+      "stars_today": "245 stars today",
+      "stars_total": "2,978"
     },
     {
       "name": "dream-num/univer",
       "url": "https://github.com/dream-num/univer",
       "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
       "language": "TypeScript",
-      "stars_today": "202 stars today",
-      "stars_total": "15,158"
+      "stars_today": "255 stars today",
+      "stars_total": "15,409"
     },
     {
       "name": "davila7/claude-code-templates",
       "url": "https://github.com/davila7/claude-code-templates",
       "description": "CLI tool for configuring and monitoring Claude Code",
       "language": "Python",
-      "stars_today": "113 stars today",
-      "stars_total": "31,008"
+      "stars_today": "64 stars today",
+      "stars_total": "31,130"
     },
     {
       "name": "google/ax",
       "url": "https://github.com/google/ax",
       "description": "Google's open agentic orchestration runtime",
       "language": "Go",
-      "stars_today": "2,324 stars today",
-      "stars_total": "7,256"
+      "stars_today": "2,305 stars today",
+      "stars_total": "7,614"
     },
     {
       "name": "mvt-project/mvt",
@@ -48,23 +48,23 @@
       "description": "MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.",
       "language": "Python",
       "stars_today": "441 stars today",
-      "stars_total": "13,884"
+      "stars_total": "14,116"
     },
     {
       "name": "superdesigndev/treg",
       "url": "https://github.com/superdesigndev/treg",
       "description": "OpenRouter for agent tools. Join community here:https://discord.gg/6mQYYfFMAn",
       "language": "Python",
-      "stars_today": "197 stars today",
-      "stars_total": "2,092"
+      "stars_today": "230 stars today",
+      "stars_total": "2,223"
     },
     {
       "name": "browser-use/video-use",
       "url": "https://github.com/browser-use/video-use",
       "description": "Edit videos with coding agents",
       "language": "Python",
-      "stars_today": "155 stars today",
-      "stars_total": "25,671"
+      "stars_today": "191 stars today",
+      "stars_total": "25,848"
     }
   ],
   "ai_repos": [
@@ -73,56 +73,56 @@
       "url": "https://github.com/anthropics/financial-services",
       "description": "",
       "language": "Python",
-      "stars_today": "436 stars today",
-      "stars_total": "36,201"
+      "stars_today": "438 stars today",
+      "stars_total": "36,344"
     },
     {
       "name": "agent-substrate/substrate",
       "url": "https://github.com/agent-substrate/substrate",
       "description": "Agent Substrate: the core system",
       "language": "Go",
-      "stars_today": "301 stars today",
-      "stars_total": "2,849"
+      "stars_today": "245 stars today",
+      "stars_total": "2,978"
     },
     {
       "name": "dream-num/univer",
       "url": "https://github.com/dream-num/univer",
       "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
       "language": "TypeScript",
-      "stars_today": "202 stars today",
-      "stars_total": "15,158"
+      "stars_today": "255 stars today",
+      "stars_total": "15,409"
     },
     {
       "name": "davila7/claude-code-templates",
       "url": "https://github.com/davila7/claude-code-templates",
       "description": "CLI tool for configuring and monitoring Claude Code",
       "language": "Python",
-      "stars_today": "113 stars today",
-      "stars_total": "31,008"
+      "stars_today": "64 stars today",
+      "stars_total": "31,130"
     },
     {
       "name": "google/ax",
       "url": "https://github.com/google/ax",
       "description": "Google's open agentic orchestration runtime",
       "language": "Go",
-      "stars_today": "2,324 stars today",
-      "stars_total": "7,256"
+      "stars_today": "2,305 stars today",
+      "stars_total": "7,614"
     },
     {
       "name": "superdesigndev/treg",
       "url": "https://github.com/superdesigndev/treg",
       "description": "OpenRouter for agent tools. Join community here:https://discord.gg/6mQYYfFMAn",
       "language": "Python",
-      "stars_today": "197 stars today",
-      "stars_total": "2,092"
+      "stars_today": "230 stars today",
+      "stars_total": "2,223"
     },
     {
       "name": "browser-use/video-use",
       "url": "https://github.com/browser-use/video-use",
       "description": "Edit videos with coding agents",
       "language": "Python",
-      "stars_today": "155 stars today",
-      "stars_total": "25,671"
+      "stars_today": "191 stars today",
+      "stars_total": "25,848"
     }
   ],
   "posts": [
