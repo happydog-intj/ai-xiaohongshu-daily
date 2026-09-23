@@ -1,11 +1,11 @@
 {
-  "date": "2026-09-22",
+  "date": "2026-09-23",
   "posts": [
     {
-      "topic": "Claude Status – Elev",
-      "cover_line1": "Claude Sta",
+      "topic": "GPT-6 Sol and Luna",
+      "cover_line1": "GPT-6 Sol ",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Claude Status – Elevated errors for multiple models**\n\n📌 来源：HackerNews\n🔗 https://status.claude.com/incidents/7g1qpkyz5gxh\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**GPT-6 Sol and Luna**\n\n📌 来源：HackerNews\n🔗 https://openai.com/index/introducing-gpt-6-sol-and-luna/\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -20,10 +20,10 @@
       ]
     },
     {
-      "topic": "Transformers Explain",
-      "cover_line1": "Transforme",
+      "topic": "Claude Opus 5.5",
+      "cover_line1": "Claude Opu",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Transformers Explained Visually**\n\n📌 来源：HackerNews\n🔗 https://poloclub.github.io/transformer-explainer/\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Claude Opus 5.5**\n\n📌 来源：HackerNews\n🔗 https://www.anthropic.com/claude-opus-5-5\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -38,10 +38,10 @@
       ]
     },
     {
-      "topic": "AI coding has made C",
-      "cover_line1": "AI coding ",
+      "topic": "OpenAI GPT–6 Astra b",
+      "cover_line1": "OpenAI GPT",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**AI coding has made CI a bottleneck, so we reworked ours to keep up**\n\n📌 来源：HackerNews\n🔗 https://linear.app/now/ci-bottleneck-reworked\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005**\n\n📌 来源：HackerNews\n🔗 https://www.cryptocellar.org/bgac/the-mvueh-break.html\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -56,10 +56,10 @@
       ]
     },
     {
-      "topic": "The agents, they jus",
-      "cover_line1": "The agents",
+      "topic": "Claude Opus 5.5 Inte",
+      "cover_line1": "Claude Opu",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**The agents, they just want to talk**\n\n📌 来源：HackerNews\n🔗 https://snats.xyz/pages/articles/political_ecology/the_agents_they_just_want_to_talk.html\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Claude Opus 5.5 Intelligence, Performance and Price Analysis (Max)**\n\n📌 来源：HackerNews\n🔗 https://artificialanalysis.ai/models/claude-opus-5-5\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -75,15 +75,15 @@
     }
   ],
   "image_paths": [
-    "assets/2026-09-22/cover1.png",
-    "assets/2026-09-22/cover2.png",
-    "assets/2026-09-22/cover3.png",
-    "assets/2026-09-22/cover4.png"
+    "assets/2026-09-23/cover1.png",
+    "assets/2026-09-23/cover2.png",
+    "assets/2026-09-23/cover3.png",
+    "assets/2026-09-23/cover4.png"
   ],
   "feishu_image_paths": [
-    "assets/2026-09-22/cover1_feishu.png",
-    "assets/2026-09-22/cover2_feishu.png",
-    "assets/2026-09-22/cover3_feishu.png",
-    "assets/2026-09-22/cover4_feishu.png"
+    "assets/2026-09-23/cover1_feishu.png",
+    "assets/2026-09-23/cover2_feishu.png",
+    "assets/2026-09-23/cover3_feishu.png",
+    "assets/2026-09-23/cover4_feishu.png"
   ]
 }
