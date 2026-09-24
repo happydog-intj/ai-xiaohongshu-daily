@@ -1,177 +1,199 @@
 {
-  "date": "2026-09-24",
+  "date": "2026-09-25",
   "slot": "早报",
   "all_repos": [
     {
-      "name": "anthropics/financial-services",
-      "url": "https://github.com/anthropics/financial-services",
-      "description": "",
+      "name": "rohitg00/ai-engineering-from-scratch",
+      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "description": "Learn it. Build it. Ship it for others.",
       "language": "Python",
-      "stars_today": "664 stars today",
-      "stars_total": "36,940"
+      "stars_today": "310 stars today",
+      "stars_total": "56,257"
     },
     {
-      "name": "google/ax",
-      "url": "https://github.com/google/ax",
-      "description": "Google's open agentic orchestration runtime",
-      "language": "Go",
-      "stars_today": "1,543 stars today",
-      "stars_total": "9,055"
-    },
-    {
-      "name": "davila7/claude-code-templates",
-      "url": "https://github.com/davila7/claude-code-templates",
-      "description": "CLI tool for configuring and monitoring Claude Code",
+      "name": "vectorize-io/hindsight",
+      "url": "https://github.com/vectorize-io/hindsight",
+      "description": "Hindsight: Agent Memory That Learns",
       "language": "Python",
-      "stars_today": "389 stars today",
-      "stars_total": "31,498"
-    },
-    {
-      "name": "BuilderIO/agent-native",
-      "url": "https://github.com/BuilderIO/agent-native",
-      "description": "A framework for building agentic apps",
-      "language": "TypeScript",
-      "stars_today": "87 stars today",
-      "stars_total": "6,545"
-    },
-    {
-      "name": "obra/superpowers",
-      "url": "https://github.com/obra/superpowers",
-      "description": "An agentic skills framework & software development methodology that works.",
-      "language": "Shell",
-      "stars_today": "474 stars today",
-      "stars_total": "290,686"
+      "stars_today": "1,607 stars today",
+      "stars_total": "27,482"
     },
     {
       "name": "dream-num/univer",
       "url": "https://github.com/dream-num/univer",
       "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
       "language": "TypeScript",
-      "stars_today": "1,142 stars today",
-      "stars_total": "16,327"
+      "stars_today": "1,060 stars today",
+      "stars_total": "17,354"
     },
     {
-      "name": "Open-Dev-Society/OpenStock",
-      "url": "https://github.com/Open-Dev-Society/OpenStock",
-      "description": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.",
-      "language": "TypeScript",
-      "stars_today": "344 stars today",
-      "stars_total": "18,825"
-    },
-    {
-      "name": "agent-substrate/substrate",
-      "url": "https://github.com/agent-substrate/substrate",
-      "description": "Agent Substrate: the core system",
+      "name": "google/ax",
+      "url": "https://github.com/google/ax",
+      "description": "Google's open agentic orchestration runtime",
       "language": "Go",
-      "stars_today": "558 stars today",
-      "stars_total": "3,495"
+      "stars_today": "1,376 stars today",
+      "stars_total": "10,010"
     },
     {
-      "name": "strands-agents/harness-sdk",
-      "url": "https://github.com/strands-agents/harness-sdk",
-      "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any model, any cloud.",
+      "name": "NVIDIA/Model-Optimizer",
+      "url": "https://github.com/NVIDIA/Model-Optimizer",
+      "description": "A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed.",
       "language": "Python",
-      "stars_today": "115 stars today",
-      "stars_total": "7,843"
+      "stars_today": "22 stars today",
+      "stars_total": "3,978"
+    },
+    {
+      "name": "FxEmbed/FxEmbed",
+      "url": "https://github.com/FxEmbed/FxEmbed",
+      "description": "Fix X/Twitter and Bluesky embeds! Use multiple images, videos, polls, translations and more on Discord, Telegram and others",
+      "language": "TypeScript",
+      "stars_today": "165 stars today",
+      "stars_total": "5,324"
+    },
+    {
+      "name": "anthropics/financial-services",
+      "url": "https://github.com/anthropics/financial-services",
+      "description": "",
+      "language": "Python",
+      "stars_today": "510 stars today",
+      "stars_total": "37,276"
     },
     {
       "name": "HKUDS/CLI-Anything",
       "url": "https://github.com/HKUDS/CLI-Anything",
       "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub:https://clianything.cc/",
       "language": "Python",
-      "stars_today": "57 stars today",
-      "stars_total": "49,928"
+      "stars_today": "415 stars today",
+      "stars_total": "50,226"
+    },
+    {
+      "name": "mvt-project/mvt",
+      "url": "https://github.com/mvt-project/mvt",
+      "description": "MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.",
+      "language": "Python",
+      "stars_today": "275 stars today",
+      "stars_total": "14,658"
+    },
+    {
+      "name": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars_today": "606 stars today",
+      "stars_total": "291,110"
     }
   ],
   "ai_repos": [
     {
-      "name": "anthropics/financial-services",
-      "url": "https://github.com/anthropics/financial-services",
-      "description": "",
+      "name": "rohitg00/ai-engineering-from-scratch",
+      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "description": "Learn it. Build it. Ship it for others.",
       "language": "Python",
-      "stars_today": "664 stars today",
-      "stars_total": "36,940"
+      "stars_today": "310 stars today",
+      "stars_total": "56,257"
     },
     {
-      "name": "google/ax",
-      "url": "https://github.com/google/ax",
-      "description": "Google's open agentic orchestration runtime",
-      "language": "Go",
-      "stars_today": "1,543 stars today",
-      "stars_total": "9,055"
-    },
-    {
-      "name": "davila7/claude-code-templates",
-      "url": "https://github.com/davila7/claude-code-templates",
-      "description": "CLI tool for configuring and monitoring Claude Code",
+      "name": "vectorize-io/hindsight",
+      "url": "https://github.com/vectorize-io/hindsight",
+      "description": "Hindsight: Agent Memory That Learns",
       "language": "Python",
-      "stars_today": "389 stars today",
-      "stars_total": "31,498"
-    },
-    {
-      "name": "BuilderIO/agent-native",
-      "url": "https://github.com/BuilderIO/agent-native",
-      "description": "A framework for building agentic apps",
-      "language": "TypeScript",
-      "stars_today": "87 stars today",
-      "stars_total": "6,545"
-    },
-    {
-      "name": "obra/superpowers",
-      "url": "https://github.com/obra/superpowers",
-      "description": "An agentic skills framework & software development methodology that works.",
-      "language": "Shell",
-      "stars_today": "474 stars today",
-      "stars_total": "290,686"
+      "stars_today": "1,607 stars today",
+      "stars_total": "27,482"
     },
     {
       "name": "dream-num/univer",
       "url": "https://github.com/dream-num/univer",
       "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
       "language": "TypeScript",
-      "stars_today": "1,142 stars today",
-      "stars_total": "16,327"
+      "stars_today": "1,060 stars today",
+      "stars_total": "17,354"
     },
     {
-      "name": "Open-Dev-Society/OpenStock",
-      "url": "https://github.com/Open-Dev-Society/OpenStock",
-      "description": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.",
-      "language": "TypeScript",
-      "stars_today": "344 stars today",
-      "stars_total": "18,825"
-    },
-    {
-      "name": "agent-substrate/substrate",
-      "url": "https://github.com/agent-substrate/substrate",
-      "description": "Agent Substrate: the core system",
+      "name": "google/ax",
+      "url": "https://github.com/google/ax",
+      "description": "Google's open agentic orchestration runtime",
       "language": "Go",
-      "stars_today": "558 stars today",
-      "stars_total": "3,495"
+      "stars_today": "1,376 stars today",
+      "stars_total": "10,010"
     },
     {
-      "name": "strands-agents/harness-sdk",
-      "url": "https://github.com/strands-agents/harness-sdk",
-      "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any model, any cloud.",
+      "name": "NVIDIA/Model-Optimizer",
+      "url": "https://github.com/NVIDIA/Model-Optimizer",
+      "description": "A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed.",
       "language": "Python",
-      "stars_today": "115 stars today",
-      "stars_total": "7,843"
+      "stars_today": "22 stars today",
+      "stars_total": "3,978"
+    },
+    {
+      "name": "anthropics/financial-services",
+      "url": "https://github.com/anthropics/financial-services",
+      "description": "",
+      "language": "Python",
+      "stars_today": "510 stars today",
+      "stars_total": "37,276"
     },
     {
       "name": "HKUDS/CLI-Anything",
       "url": "https://github.com/HKUDS/CLI-Anything",
       "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub:https://clianything.cc/",
       "language": "Python",
-      "stars_today": "57 stars today",
-      "stars_total": "49,928"
+      "stars_today": "415 stars today",
+      "stars_total": "50,226"
+    },
+    {
+      "name": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars_today": "606 stars today",
+      "stars_total": "291,110"
     }
   ],
   "posts": [
     {
-      "topic": "financial-services",
-      "repo": "anthropics/financial-services",
-      "cover_line1": "financial-",
+      "topic": "ai-engineering-from-",
+      "repo": "rohitg00/ai-engineering-from-scratch",
+      "cover_line1": "ai-enginee",
       "cover_line2": "今日 GitHub 热榜！",
-      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**anthropics/financial-services**\n\n📌 \n\n🔗 https://github.com/anthropics/financial-services\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**rohitg00/ai-engineering-from-scratch**\n\n📌 Learn it. Build it. Ship it for others.\n\n🔗 https://github.com/rohitg00/ai-engineering-from-scratch\n\n关注我，每天第一时间 AI 动态 👇",
+      "tags": [
+        "AI",
+        "GitHub",
+        "开源",
+        "热门项目",
+        "大模型",
+        "机器学习",
+        "深度学习",
+        "AI工具",
+        "技术",
+        "炼丹"
+      ]
+    },
+    {
+      "topic": "hindsight",
+      "repo": "vectorize-io/hindsight",
+      "cover_line1": "hindsight",
+      "cover_line2": "今日 GitHub 热榜！",
+      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**vectorize-io/hindsight**\n\n📌 Hindsight: Agent Memory That Learns\n\n🔗 https://github.com/vectorize-io/hindsight\n\n关注我，每天第一时间 AI 动态 👇",
+      "tags": [
+        "AI",
+        "GitHub",
+        "开源",
+        "热门项目",
+        "大模型",
+        "机器学习",
+        "深度学习",
+        "AI工具",
+        "技术",
+        "炼丹"
+      ]
+    },
+    {
+      "topic": "univer",
+      "repo": "dream-num/univer",
+      "cover_line1": "univer",
+      "cover_line2": "今日 GitHub 热榜！",
+      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**dream-num/univer**\n\n📌 The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.\n\n🔗 https://github.com/dream-num/univer\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "GitHub",
@@ -203,51 +225,13 @@
         "技术",
         "炼丹"
       ]
-    },
-    {
-      "topic": "claude-code-template",
-      "repo": "davila7/claude-code-templates",
-      "cover_line1": "claude-cod",
-      "cover_line2": "今日 GitHub 热榜！",
-      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**davila7/claude-code-templates**\n\n📌 CLI tool for configuring and monitoring Claude Code\n\n🔗 https://github.com/davila7/claude-code-templates\n\n关注我，每天第一时间 AI 动态 👇",
-      "tags": [
-        "AI",
-        "GitHub",
-        "开源",
-        "热门项目",
-        "大模型",
-        "机器学习",
-        "深度学习",
-        "AI工具",
-        "技术",
-        "炼丹"
-      ]
-    },
-    {
-      "topic": "agent-native",
-      "repo": "BuilderIO/agent-native",
-      "cover_line1": "agent-nati",
-      "cover_line2": "今日 GitHub 热榜！",
-      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**BuilderIO/agent-native**\n\n📌 A framework for building agentic apps\n\n🔗 https://github.com/BuilderIO/agent-native\n\n关注我，每天第一时间 AI 动态 👇",
-      "tags": [
-        "AI",
-        "GitHub",
-        "开源",
-        "热门项目",
-        "大模型",
-        "机器学习",
-        "深度学习",
-        "AI工具",
-        "技术",
-        "炼丹"
-      ]
     }
   ],
   "image_paths": [
-    "assets/2026-09-24/trending/summary.png",
-    "assets/2026-09-24/trending/post1.png",
-    "assets/2026-09-24/trending/post2.png",
-    "assets/2026-09-24/trending/post3.png",
-    "assets/2026-09-24/trending/post4.png"
+    "assets/2026-09-25/trending/summary.png",
+    "assets/2026-09-25/trending/post1.png",
+    "assets/2026-09-25/trending/post2.png",
+    "assets/2026-09-25/trending/post3.png",
+    "assets/2026-09-25/trending/post4.png"
   ]
 }
