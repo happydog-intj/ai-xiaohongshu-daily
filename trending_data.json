@@ -7,80 +7,80 @@
       "url": "https://github.com/anthropics/financial-services",
       "description": "",
       "language": "Python",
-      "stars_today": "665 stars today",
-      "stars_total": "36,830"
+      "stars_today": "664 stars today",
+      "stars_total": "36,940"
     },
     {
       "name": "google/ax",
       "url": "https://github.com/google/ax",
       "description": "Google's open agentic orchestration runtime",
       "language": "Go",
-      "stars_today": "1,542 stars today",
-      "stars_total": "8,730"
+      "stars_today": "1,543 stars today",
+      "stars_total": "9,055"
     },
     {
       "name": "davila7/claude-code-templates",
       "url": "https://github.com/davila7/claude-code-templates",
       "description": "CLI tool for configuring and monitoring Claude Code",
       "language": "Python",
-      "stars_today": "393 stars today",
-      "stars_total": "31,407"
+      "stars_today": "389 stars today",
+      "stars_total": "31,498"
     },
     {
       "name": "BuilderIO/agent-native",
       "url": "https://github.com/BuilderIO/agent-native",
       "description": "A framework for building agentic apps",
       "language": "TypeScript",
-      "stars_today": "135 stars today",
-      "stars_total": "6,454"
+      "stars_today": "87 stars today",
+      "stars_total": "6,545"
     },
     {
       "name": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
-      "stars_today": "528 stars today",
-      "stars_total": "290,559"
+      "stars_today": "474 stars today",
+      "stars_total": "290,686"
     },
     {
       "name": "dream-num/univer",
       "url": "https://github.com/dream-num/univer",
       "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
       "language": "TypeScript",
-      "stars_today": "1,140 stars today",
-      "stars_total": "16,190"
+      "stars_today": "1,142 stars today",
+      "stars_total": "16,327"
     },
     {
       "name": "Open-Dev-Society/OpenStock",
       "url": "https://github.com/Open-Dev-Society/OpenStock",
       "description": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.",
       "language": "TypeScript",
-      "stars_today": "379 stars today",
-      "stars_total": "18,679"
+      "stars_today": "344 stars today",
+      "stars_total": "18,825"
     },
     {
       "name": "agent-substrate/substrate",
       "url": "https://github.com/agent-substrate/substrate",
       "description": "Agent Substrate: the core system",
       "language": "Go",
-      "stars_today": "560 stars today",
-      "stars_total": "3,373"
+      "stars_today": "558 stars today",
+      "stars_total": "3,495"
     },
     {
       "name": "strands-agents/harness-sdk",
       "url": "https://github.com/strands-agents/harness-sdk",
       "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any model, any cloud.",
       "language": "Python",
-      "stars_today": "96 stars today",
-      "stars_total": "7,744"
+      "stars_today": "115 stars today",
+      "stars_total": "7,843"
     },
     {
       "name": "HKUDS/CLI-Anything",
       "url": "https://github.com/HKUDS/CLI-Anything",
       "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub:https://clianything.cc/",
       "language": "Python",
-      "stars_today": "41 stars today",
-      "stars_total": "49,826"
+      "stars_today": "57 stars today",
+      "stars_total": "49,928"
     }
   ],
   "ai_repos": [
@@ -89,80 +89,80 @@
       "url": "https://github.com/anthropics/financial-services",
       "description": "",
       "language": "Python",
-      "stars_today": "665 stars today",
-      "stars_total": "36,830"
+      "stars_today": "664 stars today",
+      "stars_total": "36,940"
     },
     {
       "name": "google/ax",
       "url": "https://github.com/google/ax",
       "description": "Google's open agentic orchestration runtime",
       "language": "Go",
-      "stars_today": "1,542 stars today",
-      "stars_total": "8,730"
+      "stars_today": "1,543 stars today",
+      "stars_total": "9,055"
     },
     {
       "name": "davila7/claude-code-templates",
       "url": "https://github.com/davila7/claude-code-templates",
       "description": "CLI tool for configuring and monitoring Claude Code",
       "language": "Python",
-      "stars_today": "393 stars today",
-      "stars_total": "31,407"
+      "stars_today": "389 stars today",
+      "stars_total": "31,498"
     },
     {
       "name": "BuilderIO/agent-native",
       "url": "https://github.com/BuilderIO/agent-native",
       "description": "A framework for building agentic apps",
       "language": "TypeScript",
-      "stars_today": "135 stars today",
-      "stars_total": "6,454"
+      "stars_today": "87 stars today",
+      "stars_total": "6,545"
     },
     {
       "name": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
-      "stars_today": "528 stars today",
-      "stars_total": "290,559"
+      "stars_today": "474 stars today",
+      "stars_total": "290,686"
     },
     {
       "name": "dream-num/univer",
       "url": "https://github.com/dream-num/univer",
       "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
       "language": "TypeScript",
-      "stars_today": "1,140 stars today",
-      "stars_total": "16,190"
+      "stars_today": "1,142 stars today",
+      "stars_total": "16,327"
     },
     {
       "name": "Open-Dev-Society/OpenStock",
       "url": "https://github.com/Open-Dev-Society/OpenStock",
       "description": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.",
       "language": "TypeScript",
-      "stars_today": "379 stars today",
-      "stars_total": "18,679"
+      "stars_today": "344 stars today",
+      "stars_total": "18,825"
     },
     {
       "name": "agent-substrate/substrate",
       "url": "https://github.com/agent-substrate/substrate",
       "description": "Agent Substrate: the core system",
       "language": "Go",
-      "stars_today": "560 stars today",
-      "stars_total": "3,373"
+      "stars_today": "558 stars today",
+      "stars_total": "3,495"
     },
     {
       "name": "strands-agents/harness-sdk",
       "url": "https://github.com/strands-agents/harness-sdk",
       "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any model, any cloud.",
       "language": "Python",
-      "stars_today": "96 stars today",
-      "stars_total": "7,744"
+      "stars_today": "115 stars today",
+      "stars_total": "7,843"
     },
     {
       "name": "HKUDS/CLI-Anything",
       "url": "https://github.com/HKUDS/CLI-Anything",
       "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub:https://clianything.cc/",
       "language": "Python",
-      "stars_today": "41 stars today",
-      "stars_total": "49,826"
+      "stars_today": "57 stars today",
+      "stars_total": "49,928"
     }
   ],
   "posts": [
