@@ -1,11 +1,11 @@
 {
-  "date": "2026-09-23",
+  "date": "2026-09-24",
   "posts": [
     {
-      "topic": "GPT-6 Sol and Luna",
-      "cover_line1": "GPT-6 Sol ",
+      "topic": "Linux support is com",
+      "cover_line1": "Linux supp",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**GPT-6 Sol and Luna**\n\n📌 来源：HackerNews\n🔗 https://openai.com/index/introducing-gpt-6-sol-and-luna/\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Linux support is coming to Snapdragon X2 Series**\n\n📌 来源：HackerNews\n🔗 https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -20,10 +20,10 @@
       ]
     },
     {
-      "topic": "Claude Opus 5.5",
-      "cover_line1": "Claude Opu",
+      "topic": "Claude discovers a n",
+      "cover_line1": "Claude dis",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Claude Opus 5.5**\n\n📌 来源：HackerNews\n🔗 https://www.anthropic.com/claude-opus-5-5\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Claude discovers a novel enzyme system with CRISPR-like repeats**\n\n📌 来源：HackerNews\n🔗 https://www.anthropic.com/news/claude-discovers-novel-enzyme-system\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -38,10 +38,10 @@
       ]
     },
     {
-      "topic": "OpenAI GPT–6 Astra b",
-      "cover_line1": "OpenAI GPT",
+      "topic": "VSCode's SSH Agent I",
+      "cover_line1": "VSCode's S",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005**\n\n📌 来源：HackerNews\n🔗 https://www.cryptocellar.org/bgac/the-mvueh-break.html\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**VSCode's SSH Agent Is Bananas (2025)**\n\n📌 来源：HackerNews\n🔗 https://fly.io/blog/vscode-ssh-wtf/\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -56,10 +56,10 @@
       ]
     },
     {
-      "topic": "Claude Opus 5.5 Inte",
-      "cover_line1": "Claude Opu",
+      "topic": "Mercury 2.5 LLM hits",
+      "cover_line1": "Mercury 2.",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Claude Opus 5.5 Intelligence, Performance and Price Analysis (Max)**\n\n📌 来源：HackerNews\n🔗 https://artificialanalysis.ai/models/claude-opus-5-5\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Mercury 2.5 LLM hits 770 tokens per second**\n\n📌 来源：HackerNews\n🔗 https://artificialanalysis.ai/models/mercury-2-5\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -75,15 +75,15 @@
     }
   ],
   "image_paths": [
-    "assets/2026-09-23/cover1.png",
-    "assets/2026-09-23/cover2.png",
-    "assets/2026-09-23/cover3.png",
-    "assets/2026-09-23/cover4.png"
+    "assets/2026-09-24/cover1.png",
+    "assets/2026-09-24/cover2.png",
+    "assets/2026-09-24/cover3.png",
+    "assets/2026-09-24/cover4.png"
   ],
   "feishu_image_paths": [
-    "assets/2026-09-23/cover1_feishu.png",
-    "assets/2026-09-23/cover2_feishu.png",
-    "assets/2026-09-23/cover3_feishu.png",
-    "assets/2026-09-23/cover4_feishu.png"
+    "assets/2026-09-24/cover1_feishu.png",
+    "assets/2026-09-24/cover2_feishu.png",
+    "assets/2026-09-24/cover3_feishu.png",
+    "assets/2026-09-24/cover4_feishu.png"
   ]
 }
