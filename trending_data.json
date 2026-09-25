@@ -7,80 +7,80 @@
       "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
       "description": "Learn it. Build it. Ship it for others.",
       "language": "Python",
-      "stars_today": "310 stars today",
-      "stars_total": "56,257"
+      "stars_today": "347 stars today",
+      "stars_total": "56,564"
     },
     {
       "name": "vectorize-io/hindsight",
       "url": "https://github.com/vectorize-io/hindsight",
       "description": "Hindsight: Agent Memory That Learns",
       "language": "Python",
-      "stars_today": "1,607 stars today",
-      "stars_total": "27,482"
+      "stars_today": "1,668 stars today",
+      "stars_total": "27,786"
     },
     {
       "name": "dream-num/univer",
       "url": "https://github.com/dream-num/univer",
       "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
       "language": "TypeScript",
-      "stars_today": "1,060 stars today",
-      "stars_total": "17,354"
+      "stars_today": "1,082 stars today",
+      "stars_total": "17,659"
     },
     {
       "name": "google/ax",
       "url": "https://github.com/google/ax",
       "description": "Google's open agentic orchestration runtime",
       "language": "Go",
-      "stars_today": "1,376 stars today",
-      "stars_total": "10,010"
+      "stars_today": "1,373 stars today",
+      "stars_total": "10,453"
     },
     {
       "name": "NVIDIA/Model-Optimizer",
       "url": "https://github.com/NVIDIA/Model-Optimizer",
       "description": "A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed.",
       "language": "Python",
-      "stars_today": "22 stars today",
-      "stars_total": "3,978"
+      "stars_today": "44 stars today",
+      "stars_total": "4,082"
     },
     {
       "name": "FxEmbed/FxEmbed",
       "url": "https://github.com/FxEmbed/FxEmbed",
       "description": "Fix X/Twitter and Bluesky embeds! Use multiple images, videos, polls, translations and more on Discord, Telegram and others",
       "language": "TypeScript",
-      "stars_today": "165 stars today",
-      "stars_total": "5,324"
+      "stars_today": "182 stars today",
+      "stars_total": "5,367"
     },
     {
       "name": "anthropics/financial-services",
       "url": "https://github.com/anthropics/financial-services",
       "description": "",
       "language": "Python",
-      "stars_today": "510 stars today",
-      "stars_total": "37,276"
+      "stars_today": "509 stars today",
+      "stars_total": "37,356"
     },
     {
       "name": "HKUDS/CLI-Anything",
       "url": "https://github.com/HKUDS/CLI-Anything",
       "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub:https://clianything.cc/",
       "language": "Python",
-      "stars_today": "415 stars today",
-      "stars_total": "50,226"
+      "stars_today": "413 stars today",
+      "stars_total": "50,335"
     },
     {
       "name": "mvt-project/mvt",
       "url": "https://github.com/mvt-project/mvt",
       "description": "MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.",
       "language": "Python",
-      "stars_today": "275 stars today",
-      "stars_total": "14,658"
+      "stars_today": "272 stars today",
+      "stars_total": "14,731"
     },
     {
       "name": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
-      "stars_today": "606 stars today",
-      "stars_total": "291,110"
+      "stars_today": "611 stars today",
+      "stars_total": "291,233"
     }
   ],
   "ai_repos": [
@@ -89,64 +89,64 @@
       "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
       "description": "Learn it. Build it. Ship it for others.",
       "language": "Python",
-      "stars_today": "310 stars today",
-      "stars_total": "56,257"
+      "stars_today": "347 stars today",
+      "stars_total": "56,564"
     },
     {
       "name": "vectorize-io/hindsight",
       "url": "https://github.com/vectorize-io/hindsight",
       "description": "Hindsight: Agent Memory That Learns",
       "language": "Python",
-      "stars_today": "1,607 stars today",
-      "stars_total": "27,482"
+      "stars_today": "1,668 stars today",
+      "stars_total": "27,786"
     },
     {
       "name": "dream-num/univer",
       "url": "https://github.com/dream-num/univer",
       "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
       "language": "TypeScript",
-      "stars_today": "1,060 stars today",
-      "stars_total": "17,354"
+      "stars_today": "1,082 stars today",
+      "stars_total": "17,659"
     },
     {
       "name": "google/ax",
       "url": "https://github.com/google/ax",
       "description": "Google's open agentic orchestration runtime",
       "language": "Go",
-      "stars_today": "1,376 stars today",
-      "stars_total": "10,010"
+      "stars_today": "1,373 stars today",
+      "stars_total": "10,453"
     },
     {
       "name": "NVIDIA/Model-Optimizer",
       "url": "https://github.com/NVIDIA/Model-Optimizer",
       "description": "A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed.",
       "language": "Python",
-      "stars_today": "22 stars today",
-      "stars_total": "3,978"
+      "stars_today": "44 stars today",
+      "stars_total": "4,082"
     },
     {
       "name": "anthropics/financial-services",
       "url": "https://github.com/anthropics/financial-services",
       "description": "",
       "language": "Python",
-      "stars_today": "510 stars today",
-      "stars_total": "37,276"
+      "stars_today": "509 stars today",
+      "stars_total": "37,356"
     },
     {
       "name": "HKUDS/CLI-Anything",
       "url": "https://github.com/HKUDS/CLI-Anything",
       "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub:https://clianything.cc/",
       "language": "Python",
-      "stars_today": "415 stars today",
-      "stars_total": "50,226"
+      "stars_today": "413 stars today",
+      "stars_total": "50,335"
     },
     {
       "name": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
-      "stars_today": "606 stars today",
-      "stars_total": "291,110"
+      "stars_today": "611 stars today",
+      "stars_total": "291,233"
     }
   ],
   "posts": [
