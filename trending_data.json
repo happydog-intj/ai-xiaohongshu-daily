@@ -1,161 +1,180 @@
 {
-  "date": "2026-09-25",
+  "date": "2026-09-26",
   "slot": "早报",
   "all_repos": [
     {
-      "name": "rohitg00/ai-engineering-from-scratch",
-      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-      "description": "Learn it. Build it. Ship it for others.",
+      "name": "paperclipai/paperclip",
+      "url": "https://github.com/paperclipai/paperclip",
+      "description": "The open-source app everyone uses to manage agents at work",
+      "language": "TypeScript",
+      "stars_today": "1,853 stars today",
+      "stars_total": "84,220"
+    },
+    {
+      "name": "anthropics/claude-plugins-official",
+      "url": "https://github.com/anthropics/claude-plugins-official",
+      "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
       "language": "Python",
-      "stars_today": "347 stars today",
-      "stars_total": "56,564"
+      "stars_today": "62 stars today",
+      "stars_total": "36,831"
     },
     {
       "name": "vectorize-io/hindsight",
       "url": "https://github.com/vectorize-io/hindsight",
       "description": "Hindsight: Agent Memory That Learns",
       "language": "Python",
-      "stars_today": "1,668 stars today",
-      "stars_total": "27,786"
-    },
-    {
-      "name": "dream-num/univer",
-      "url": "https://github.com/dream-num/univer",
-      "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
-      "language": "TypeScript",
-      "stars_today": "1,082 stars today",
-      "stars_total": "17,659"
-    },
-    {
-      "name": "google/ax",
-      "url": "https://github.com/google/ax",
-      "description": "Google's open agentic orchestration runtime",
-      "language": "Go",
-      "stars_today": "1,373 stars today",
-      "stars_total": "10,453"
-    },
-    {
-      "name": "NVIDIA/Model-Optimizer",
-      "url": "https://github.com/NVIDIA/Model-Optimizer",
-      "description": "A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed.",
-      "language": "Python",
-      "stars_today": "44 stars today",
-      "stars_total": "4,082"
-    },
-    {
-      "name": "FxEmbed/FxEmbed",
-      "url": "https://github.com/FxEmbed/FxEmbed",
-      "description": "Fix X/Twitter and Bluesky embeds! Use multiple images, videos, polls, translations and more on Discord, Telegram and others",
-      "language": "TypeScript",
-      "stars_today": "182 stars today",
-      "stars_total": "5,367"
-    },
-    {
-      "name": "anthropics/financial-services",
-      "url": "https://github.com/anthropics/financial-services",
-      "description": "",
-      "language": "Python",
-      "stars_today": "509 stars today",
-      "stars_total": "37,356"
-    },
-    {
-      "name": "HKUDS/CLI-Anything",
-      "url": "https://github.com/HKUDS/CLI-Anything",
-      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub:https://clianything.cc/",
-      "language": "Python",
-      "stars_today": "413 stars today",
-      "stars_total": "50,335"
-    },
-    {
-      "name": "mvt-project/mvt",
-      "url": "https://github.com/mvt-project/mvt",
-      "description": "MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.",
-      "language": "Python",
-      "stars_today": "272 stars today",
-      "stars_total": "14,731"
+      "stars_today": "1,652 stars today",
+      "stars_total": "29,519"
     },
     {
       "name": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
-      "stars_today": "611 stars today",
-      "stars_total": "291,233"
+      "stars_today": "465 stars today",
+      "stars_total": "291,546"
+    },
+    {
+      "name": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "language": "Shell",
+      "stars_today": "671 stars today",
+      "stars_total": "269,571"
+    },
+    {
+      "name": "dream-num/univer",
+      "url": "https://github.com/dream-num/univer",
+      "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
+      "language": "TypeScript",
+      "stars_today": "1,048 stars today",
+      "stars_total": "18,287"
+    },
+    {
+      "name": "anthropics/skills",
+      "url": "https://github.com/anthropics/skills",
+      "description": "Public repository for Agent Skills",
+      "language": "Python",
+      "stars_today": "231 stars today",
+      "stars_total": "178,184"
+    },
+    {
+      "name": "androoAGI/starnet",
+      "url": "https://github.com/androoAGI/starnet",
+      "description": "A living pixel-art station where real AI agents do real work. Local-first desktop agent harness - bring your own key, watch your crew actually run.",
+      "language": "JavaScript",
+      "stars_today": "118 stars today",
+      "stars_total": "379"
+    },
+    {
+      "name": "derv82/wifit3",
+      "url": "https://github.com/derv82/wifit3",
+      "description": "Wifite but USB-only & cross-platform.",
+      "language": "Python",
+      "stars_today": "168 stars today",
+      "stars_total": "800"
+    },
+    {
+      "name": "kelseyhightower/kubernetes-the-hard-way",
+      "url": "https://github.com/kelseyhightower/kubernetes-the-hard-way",
+      "description": "Bootstrap Kubernetes the hard way. No scripts.",
+      "language": "",
+      "stars_today": "105 stars today",
+      "stars_total": "50,071"
     }
   ],
   "ai_repos": [
     {
-      "name": "rohitg00/ai-engineering-from-scratch",
-      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-      "description": "Learn it. Build it. Ship it for others.",
+      "name": "paperclipai/paperclip",
+      "url": "https://github.com/paperclipai/paperclip",
+      "description": "The open-source app everyone uses to manage agents at work",
+      "language": "TypeScript",
+      "stars_today": "1,853 stars today",
+      "stars_total": "84,220"
+    },
+    {
+      "name": "anthropics/claude-plugins-official",
+      "url": "https://github.com/anthropics/claude-plugins-official",
+      "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
       "language": "Python",
-      "stars_today": "347 stars today",
-      "stars_total": "56,564"
+      "stars_today": "62 stars today",
+      "stars_total": "36,831"
     },
     {
       "name": "vectorize-io/hindsight",
       "url": "https://github.com/vectorize-io/hindsight",
       "description": "Hindsight: Agent Memory That Learns",
       "language": "Python",
-      "stars_today": "1,668 stars today",
-      "stars_total": "27,786"
-    },
-    {
-      "name": "dream-num/univer",
-      "url": "https://github.com/dream-num/univer",
-      "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
-      "language": "TypeScript",
-      "stars_today": "1,082 stars today",
-      "stars_total": "17,659"
-    },
-    {
-      "name": "google/ax",
-      "url": "https://github.com/google/ax",
-      "description": "Google's open agentic orchestration runtime",
-      "language": "Go",
-      "stars_today": "1,373 stars today",
-      "stars_total": "10,453"
-    },
-    {
-      "name": "NVIDIA/Model-Optimizer",
-      "url": "https://github.com/NVIDIA/Model-Optimizer",
-      "description": "A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed.",
-      "language": "Python",
-      "stars_today": "44 stars today",
-      "stars_total": "4,082"
-    },
-    {
-      "name": "anthropics/financial-services",
-      "url": "https://github.com/anthropics/financial-services",
-      "description": "",
-      "language": "Python",
-      "stars_today": "509 stars today",
-      "stars_total": "37,356"
-    },
-    {
-      "name": "HKUDS/CLI-Anything",
-      "url": "https://github.com/HKUDS/CLI-Anything",
-      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub:https://clianything.cc/",
-      "language": "Python",
-      "stars_today": "413 stars today",
-      "stars_total": "50,335"
+      "stars_today": "1,652 stars today",
+      "stars_total": "29,519"
     },
     {
       "name": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
-      "stars_today": "611 stars today",
-      "stars_total": "291,233"
+      "stars_today": "465 stars today",
+      "stars_total": "291,546"
+    },
+    {
+      "name": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "language": "Shell",
+      "stars_today": "671 stars today",
+      "stars_total": "269,571"
+    },
+    {
+      "name": "dream-num/univer",
+      "url": "https://github.com/dream-num/univer",
+      "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
+      "language": "TypeScript",
+      "stars_today": "1,048 stars today",
+      "stars_total": "18,287"
+    },
+    {
+      "name": "anthropics/skills",
+      "url": "https://github.com/anthropics/skills",
+      "description": "Public repository for Agent Skills",
+      "language": "Python",
+      "stars_today": "231 stars today",
+      "stars_total": "178,184"
+    },
+    {
+      "name": "androoAGI/starnet",
+      "url": "https://github.com/androoAGI/starnet",
+      "description": "A living pixel-art station where real AI agents do real work. Local-first desktop agent harness - bring your own key, watch your crew actually run.",
+      "language": "JavaScript",
+      "stars_today": "118 stars today",
+      "stars_total": "379"
     }
   ],
   "posts": [
     {
-      "topic": "ai-engineering-from-",
-      "repo": "rohitg00/ai-engineering-from-scratch",
-      "cover_line1": "ai-enginee",
+      "topic": "paperclip",
+      "repo": "paperclipai/paperclip",
+      "cover_line1": "paperclip",
       "cover_line2": "今日 GitHub 热榜！",
-      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**rohitg00/ai-engineering-from-scratch**\n\n📌 Learn it. Build it. Ship it for others.\n\n🔗 https://github.com/rohitg00/ai-engineering-from-scratch\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**paperclipai/paperclip**\n\n📌 The open-source app everyone uses to manage agents at work\n\n🔗 https://github.com/paperclipai/paperclip\n\n关注我，每天第一时间 AI 动态 👇",
+      "tags": [
+        "AI",
+        "GitHub",
+        "开源",
+        "热门项目",
+        "大模型",
+        "机器学习",
+        "深度学习",
+        "AI工具",
+        "技术",
+        "炼丹"
+      ]
+    },
+    {
+      "topic": "claude-plugins-offic",
+      "repo": "anthropics/claude-plugins-official",
+      "cover_line1": "claude-plu",
+      "cover_line2": "今日 GitHub 热榜！",
+      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**anthropics/claude-plugins-official**\n\n📌 Official, Anthropic-managed directory of high quality Claude Code Plugins.\n\n🔗 https://github.com/anthropics/claude-plugins-official\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "GitHub",
@@ -189,30 +208,11 @@
       ]
     },
     {
-      "topic": "univer",
-      "repo": "dream-num/univer",
-      "cover_line1": "univer",
+      "topic": "superpowers",
+      "repo": "obra/superpowers",
+      "cover_line1": "superpower",
       "cover_line2": "今日 GitHub 热榜！",
-      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**dream-num/univer**\n\n📌 The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.\n\n🔗 https://github.com/dream-num/univer\n\n关注我，每天第一时间 AI 动态 👇",
-      "tags": [
-        "AI",
-        "GitHub",
-        "开源",
-        "热门项目",
-        "大模型",
-        "机器学习",
-        "深度学习",
-        "AI工具",
-        "技术",
-        "炼丹"
-      ]
-    },
-    {
-      "topic": "ax",
-      "repo": "google/ax",
-      "cover_line1": "ax",
-      "cover_line2": "今日 GitHub 热榜！",
-      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**google/ax**\n\n📌 Google's open agentic orchestration runtime\n\n🔗 https://github.com/google/ax\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**obra/superpowers**\n\n📌 An agentic skills framework & software development methodology that works.\n\n🔗 https://github.com/obra/superpowers\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "GitHub",
@@ -228,10 +228,10 @@
     }
   ],
   "image_paths": [
-    "assets/2026-09-25/trending/summary.png",
-    "assets/2026-09-25/trending/post1.png",
-    "assets/2026-09-25/trending/post2.png",
-    "assets/2026-09-25/trending/post3.png",
-    "assets/2026-09-25/trending/post4.png"
+    "assets/2026-09-26/trending/summary.png",
+    "assets/2026-09-26/trending/post1.png",
+    "assets/2026-09-26/trending/post2.png",
+    "assets/2026-09-26/trending/post3.png",
+    "assets/2026-09-26/trending/post4.png"
   ]
 }
