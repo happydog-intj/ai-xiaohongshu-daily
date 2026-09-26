@@ -1,11 +1,11 @@
 {
-  "date": "2026-09-25",
+  "date": "2026-09-26",
   "posts": [
     {
-      "topic": "Rails World 2026 Ope",
-      "cover_line1": "Rails Worl",
+      "topic": "Revealing the detail",
+      "cover_line1": "Revealing ",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Rails World 2026 Opening Keynote [video]**\n\n📌 来源：HackerNews\n🔗 https://www.youtube.com/watch?v=vDjW_dRyKXY\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Revealing the details of how OpenAI agents hacked Hugging Face**\n\n📌 来源：HackerNews\n🔗 https://swarmtraces.org/\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -20,10 +20,10 @@
       ]
     },
     {
-      "topic": "Using LLMs to trace ",
-      "cover_line1": "Using LLMs",
+      "topic": "Ollaya – Ollama for ",
+      "cover_line1": "Ollaya – O",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Using LLMs to trace alchemical knowledge and decode 17th century letters**\n\n📌 来源：HackerNews\n🔗 https://resobscura.substack.com/p/ai-labs-need-to-start-funding-historical\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Ollaya – Ollama for open-source, Jev-style decision models**\n\n📌 来源：HackerNews\n🔗 https://ollaya.dev/\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -38,10 +38,10 @@
       ]
     },
     {
-      "topic": "Show HN: Koi.rest – ",
-      "cover_line1": "Show HN: K",
+      "topic": "U.S. appeals court u",
+      "cover_line1": "U.S. appea",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Show HN: Koi.rest – watch some fish and regain your balance**\n\n📌 来源：HackerNews\n🔗 https://koi.rest\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**U.S. appeals court upholds designation of Anthropic as supply chain risk**\n\n📌 来源：HackerNews\n🔗 https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -56,10 +56,10 @@
       ]
     },
     {
-      "topic": "Security auditing in",
-      "cover_line1": "Security a",
+      "topic": "An airport cooled by",
+      "cover_line1": "An airport",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Security auditing in the age of (good enough) AI**\n\n📌 来源：HackerNews\n🔗 https://blog.trailofbits.com/2026/09/18/auditing-in-the-age-of-good-enough-ai/\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**An airport cooled by natural ventilation**\n\n📌 来源：HackerNews\n🔗 https://www.theguardian.com/environment/2026/sep/25/didnt-need-air-conditioning-airport-cooled-natural-ventilation-reunion\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -75,15 +75,15 @@
     }
   ],
   "image_paths": [
-    "assets/2026-09-25/cover1.png",
-    "assets/2026-09-25/cover2.png",
-    "assets/2026-09-25/cover3.png",
-    "assets/2026-09-25/cover4.png"
+    "assets/2026-09-26/cover1.png",
+    "assets/2026-09-26/cover2.png",
+    "assets/2026-09-26/cover3.png",
+    "assets/2026-09-26/cover4.png"
   ],
   "feishu_image_paths": [
-    "assets/2026-09-25/cover1_feishu.png",
-    "assets/2026-09-25/cover2_feishu.png",
-    "assets/2026-09-25/cover3_feishu.png",
-    "assets/2026-09-25/cover4_feishu.png"
+    "assets/2026-09-26/cover1_feishu.png",
+    "assets/2026-09-26/cover2_feishu.png",
+    "assets/2026-09-26/cover3_feishu.png",
+    "assets/2026-09-26/cover4_feishu.png"
   ]
 }
