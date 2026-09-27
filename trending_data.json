@@ -1,5 +1,5 @@
 {
-  "date": "2026-09-27",
+  "date": "2026-09-28",
   "slot": "早报",
   "all_repos": [
     {
@@ -7,80 +7,72 @@
       "url": "https://github.com/paperclipai/paperclip",
       "description": "The open-source app everyone uses to manage agents at work",
       "language": "TypeScript",
-      "stars_today": "2,608 stars today",
-      "stars_total": "87,340"
+      "stars_today": "2,527 stars today",
+      "stars_total": "89,117"
     },
     {
       "name": "vectorize-io/hindsight",
       "url": "https://github.com/vectorize-io/hindsight",
       "description": "Hindsight: Agent Memory That Learns",
       "language": "Python",
-      "stars_today": "2,147 stars today",
-      "stars_total": "32,209"
+      "stars_today": "4,463 stars today",
+      "stars_total": "36,380"
     },
     {
-      "name": "NVIDIA/Model-Optimizer",
-      "url": "https://github.com/NVIDIA/Model-Optimizer",
-      "description": "A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed.",
+      "name": "debpalash/VoiceStudio",
+      "url": "https://github.com/debpalash/VoiceStudio",
+      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
       "language": "Python",
-      "stars_today": "357 stars today",
-      "stars_total": "4,754"
-    },
-    {
-      "name": "dream-num/univer",
-      "url": "https://github.com/dream-num/univer",
-      "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
-      "language": "TypeScript",
-      "stars_today": "849 stars today",
-      "stars_total": "19,226"
-    },
-    {
-      "name": "tensorflow/tensorflow",
-      "url": "https://github.com/tensorflow/tensorflow",
-      "description": "An Open Source Machine Learning Framework for Everyone",
-      "language": "C++",
-      "stars_today": "46 stars today",
-      "stars_total": "200,458"
+      "stars_today": "3,060 stars today",
+      "stars_total": "39,311"
     },
     {
       "name": "rohitg00/ai-engineering-from-scratch",
       "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
       "description": "Learn it. Build it. Ship it for others.",
       "language": "Python",
-      "stars_today": "827 stars today",
-      "stars_total": "58,383"
+      "stars_today": "848 stars today",
+      "stars_total": "59,007"
     },
     {
-      "name": "openbao/openbao",
-      "url": "https://github.com/openbao/openbao",
-      "description": "OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.",
-      "language": "Go",
-      "stars_today": "364 stars today",
-      "stars_total": "8,008"
+      "name": "InfinityLoop1308/PipePipe",
+      "url": "https://github.com/InfinityLoop1308/PipePipe",
+      "description": "An open-source Android app to let you browse YouTube and other services freely.",
+      "language": "Shell",
+      "stars_today": "139 stars today",
+      "stars_total": "6,479"
     },
     {
-      "name": "block/buzz",
-      "url": "https://github.com/block/buzz",
-      "description": "A hive mind communication platform",
-      "language": "Rust",
-      "stars_today": "339 stars today",
-      "stars_total": "34,831"
-    },
-    {
-      "name": "microsoft/vscode",
-      "url": "https://github.com/microsoft/vscode",
-      "description": "Visual Studio Code",
+      "name": "vercel-labs/scriptc",
+      "url": "https://github.com/vercel-labs/scriptc",
+      "description": "TypeScript-to-Native Compiler",
       "language": "TypeScript",
-      "stars_today": "95 stars today",
-      "stars_total": "193,074"
+      "stars_today": "76 stars today",
+      "stars_total": "5,304"
     },
     {
-      "name": "zhaoxuya520/reverse-skill",
-      "url": "https://github.com/zhaoxuya520/reverse-skill",
-      "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端",
-      "language": "PowerShell",
-      "stars_today": "361 stars today",
-      "stars_total": "38,012"
+      "name": "mvschwarz/openrig",
+      "url": "https://github.com/mvschwarz/openrig",
+      "description": "Multi-agent harness that runs Claude Code and Codex together as one system",
+      "language": "TypeScript",
+      "stars_today": "114 stars today",
+      "stars_total": "782"
+    },
+    {
+      "name": "dream-num/univer",
+      "url": "https://github.com/dream-num/univer",
+      "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
+      "language": "TypeScript",
+      "stars_today": "920 stars today",
+      "stars_total": "20,019"
+    },
+    {
+      "name": "willfaust/Madeira",
+      "url": "https://github.com/willfaust/Madeira",
+      "description": "Run x86-64 Windows PC games on jailed iOS via FEX-Emu + Wine + DXMT",
+      "language": "C",
+      "stars_today": "117 stars today",
+      "stars_total": "752"
     }
   ],
   "ai_repos": [
@@ -89,48 +81,48 @@
       "url": "https://github.com/paperclipai/paperclip",
       "description": "The open-source app everyone uses to manage agents at work",
       "language": "TypeScript",
-      "stars_today": "2,608 stars today",
-      "stars_total": "87,340"
+      "stars_today": "2,527 stars today",
+      "stars_total": "89,117"
     },
     {
       "name": "vectorize-io/hindsight",
       "url": "https://github.com/vectorize-io/hindsight",
       "description": "Hindsight: Agent Memory That Learns",
       "language": "Python",
-      "stars_today": "2,147 stars today",
-      "stars_total": "32,209"
-    },
-    {
-      "name": "NVIDIA/Model-Optimizer",
-      "url": "https://github.com/NVIDIA/Model-Optimizer",
-      "description": "A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed.",
-      "language": "Python",
-      "stars_today": "357 stars today",
-      "stars_total": "4,754"
-    },
-    {
-      "name": "dream-num/univer",
-      "url": "https://github.com/dream-num/univer",
-      "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
-      "language": "TypeScript",
-      "stars_today": "849 stars today",
-      "stars_total": "19,226"
+      "stars_today": "4,463 stars today",
+      "stars_total": "36,380"
     },
     {
       "name": "rohitg00/ai-engineering-from-scratch",
       "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
       "description": "Learn it. Build it. Ship it for others.",
       "language": "Python",
-      "stars_today": "827 stars today",
-      "stars_total": "58,383"
+      "stars_today": "848 stars today",
+      "stars_total": "59,007"
     },
     {
-      "name": "zhaoxuya520/reverse-skill",
-      "url": "https://github.com/zhaoxuya520/reverse-skill",
-      "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端",
-      "language": "PowerShell",
-      "stars_today": "361 stars today",
-      "stars_total": "38,012"
+      "name": "mvschwarz/openrig",
+      "url": "https://github.com/mvschwarz/openrig",
+      "description": "Multi-agent harness that runs Claude Code and Codex together as one system",
+      "language": "TypeScript",
+      "stars_today": "114 stars today",
+      "stars_total": "782"
+    },
+    {
+      "name": "dream-num/univer",
+      "url": "https://github.com/dream-num/univer",
+      "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
+      "language": "TypeScript",
+      "stars_today": "920 stars today",
+      "stars_total": "20,019"
+    },
+    {
+      "name": "willfaust/Madeira",
+      "url": "https://github.com/willfaust/Madeira",
+      "description": "Run x86-64 Windows PC games on jailed iOS via FEX-Emu + Wine + DXMT",
+      "language": "C",
+      "stars_today": "117 stars today",
+      "stars_total": "752"
     }
   ],
   "posts": [
@@ -173,11 +165,11 @@
       ]
     },
     {
-      "topic": "Model-Optimizer",
-      "repo": "NVIDIA/Model-Optimizer",
-      "cover_line1": "Model-Opti",
+      "topic": "ai-engineering-from-",
+      "repo": "rohitg00/ai-engineering-from-scratch",
+      "cover_line1": "ai-enginee",
       "cover_line2": "今日 GitHub 热榜！",
-      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**NVIDIA/Model-Optimizer**\n\n📌 A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed.\n\n🔗 https://github.com/NVIDIA/Model-Optimizer\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**rohitg00/ai-engineering-from-scratch**\n\n📌 Learn it. Build it. Ship it for others.\n\n🔗 https://github.com/rohitg00/ai-engineering-from-scratch\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "GitHub",
@@ -192,11 +184,11 @@
       ]
     },
     {
-      "topic": "univer",
-      "repo": "dream-num/univer",
-      "cover_line1": "univer",
+      "topic": "openrig",
+      "repo": "mvschwarz/openrig",
+      "cover_line1": "openrig",
       "cover_line2": "今日 GitHub 热榜！",
-      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**dream-num/univer**\n\n📌 The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.\n\n🔗 https://github.com/dream-num/univer\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**mvschwarz/openrig**\n\n📌 Multi-agent harness that runs Claude Code and Codex together as one system\n\n🔗 https://github.com/mvschwarz/openrig\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "GitHub",
@@ -212,10 +204,10 @@
     }
   ],
   "image_paths": [
-    "assets/2026-09-27/trending/summary.png",
-    "assets/2026-09-27/trending/post1.png",
-    "assets/2026-09-27/trending/post2.png",
-    "assets/2026-09-27/trending/post3.png",
-    "assets/2026-09-27/trending/post4.png"
+    "assets/2026-09-28/trending/summary.png",
+    "assets/2026-09-28/trending/post1.png",
+    "assets/2026-09-28/trending/post2.png",
+    "assets/2026-09-28/trending/post3.png",
+    "assets/2026-09-28/trending/post4.png"
   ]
 }
