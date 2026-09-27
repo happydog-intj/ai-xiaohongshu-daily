@@ -7,80 +7,80 @@
       "url": "https://github.com/paperclipai/paperclip",
       "description": "The open-source app everyone uses to manage agents at work",
       "language": "TypeScript",
-      "stars_today": "2,589 stars today",
-      "stars_total": "86,561"
+      "stars_today": "2,608 stars today",
+      "stars_total": "87,340"
     },
     {
       "name": "vectorize-io/hindsight",
       "url": "https://github.com/vectorize-io/hindsight",
       "description": "Hindsight: Agent Memory That Learns",
       "language": "Python",
-      "stars_today": "2,152 stars today",
-      "stars_total": "31,299"
+      "stars_today": "2,147 stars today",
+      "stars_total": "32,209"
     },
     {
       "name": "NVIDIA/Model-Optimizer",
       "url": "https://github.com/NVIDIA/Model-Optimizer",
       "description": "A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed.",
       "language": "Python",
-      "stars_today": "354 stars today",
-      "stars_total": "4,655"
+      "stars_today": "357 stars today",
+      "stars_total": "4,754"
     },
     {
       "name": "dream-num/univer",
       "url": "https://github.com/dream-num/univer",
       "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
       "language": "TypeScript",
-      "stars_today": "845 stars today",
-      "stars_total": "19,065"
+      "stars_today": "849 stars today",
+      "stars_total": "19,226"
     },
     {
       "name": "tensorflow/tensorflow",
       "url": "https://github.com/tensorflow/tensorflow",
       "description": "An Open Source Machine Learning Framework for Everyone",
       "language": "C++",
-      "stars_today": "31 stars today",
-      "stars_total": "200,382"
+      "stars_today": "46 stars today",
+      "stars_total": "200,458"
     },
     {
       "name": "rohitg00/ai-engineering-from-scratch",
       "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
       "description": "Learn it. Build it. Ship it for others.",
       "language": "Python",
-      "stars_today": "828 stars today",
-      "stars_total": "58,133"
+      "stars_today": "827 stars today",
+      "stars_total": "58,383"
     },
     {
       "name": "openbao/openbao",
       "url": "https://github.com/openbao/openbao",
       "description": "OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.",
       "language": "Go",
-      "stars_today": "360 stars today",
-      "stars_total": "7,929"
+      "stars_today": "364 stars today",
+      "stars_total": "8,008"
     },
     {
       "name": "block/buzz",
       "url": "https://github.com/block/buzz",
       "description": "A hive mind communication platform",
       "language": "Rust",
-      "stars_today": "367 stars today",
-      "stars_total": "34,766"
+      "stars_today": "339 stars today",
+      "stars_total": "34,831"
     },
     {
       "name": "microsoft/vscode",
       "url": "https://github.com/microsoft/vscode",
       "description": "Visual Studio Code",
       "language": "TypeScript",
-      "stars_today": "78 stars today",
-      "stars_total": "193,011"
+      "stars_today": "95 stars today",
+      "stars_total": "193,074"
     },
     {
       "name": "zhaoxuya520/reverse-skill",
       "url": "https://github.com/zhaoxuya520/reverse-skill",
       "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端",
       "language": "PowerShell",
-      "stars_today": "409 stars today",
-      "stars_total": "37,865"
+      "stars_today": "361 stars today",
+      "stars_total": "38,012"
     }
   ],
   "ai_repos": [
@@ -89,48 +89,48 @@
       "url": "https://github.com/paperclipai/paperclip",
       "description": "The open-source app everyone uses to manage agents at work",
       "language": "TypeScript",
-      "stars_today": "2,589 stars today",
-      "stars_total": "86,561"
+      "stars_today": "2,608 stars today",
+      "stars_total": "87,340"
     },
     {
       "name": "vectorize-io/hindsight",
       "url": "https://github.com/vectorize-io/hindsight",
       "description": "Hindsight: Agent Memory That Learns",
       "language": "Python",
-      "stars_today": "2,152 stars today",
-      "stars_total": "31,299"
+      "stars_today": "2,147 stars today",
+      "stars_total": "32,209"
     },
     {
       "name": "NVIDIA/Model-Optimizer",
       "url": "https://github.com/NVIDIA/Model-Optimizer",
       "description": "A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed.",
       "language": "Python",
-      "stars_today": "354 stars today",
-      "stars_total": "4,655"
+      "stars_today": "357 stars today",
+      "stars_total": "4,754"
     },
     {
       "name": "dream-num/univer",
       "url": "https://github.com/dream-num/univer",
       "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
       "language": "TypeScript",
-      "stars_today": "845 stars today",
-      "stars_total": "19,065"
+      "stars_today": "849 stars today",
+      "stars_total": "19,226"
     },
     {
       "name": "rohitg00/ai-engineering-from-scratch",
       "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
       "description": "Learn it. Build it. Ship it for others.",
       "language": "Python",
-      "stars_today": "828 stars today",
-      "stars_total": "58,133"
+      "stars_today": "827 stars today",
+      "stars_total": "58,383"
     },
     {
       "name": "zhaoxuya520/reverse-skill",
       "url": "https://github.com/zhaoxuya520/reverse-skill",
       "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端",
       "language": "PowerShell",
-      "stars_today": "409 stars today",
-      "stars_total": "37,865"
+      "stars_today": "361 stars today",
+      "stars_total": "38,012"
     }
   ],
   "posts": [
