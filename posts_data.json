@@ -1,11 +1,11 @@
 {
-  "date": "2026-09-27",
+  "date": "2026-09-28",
   "posts": [
     {
-      "topic": "An agent used DNS to",
-      "cover_line1": "An agent u",
+      "topic": "Fragment of oldest k",
+      "cover_line1": "Fragment o",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**An agent used DNS to reach an external chatbot**\n\n📌 来源：HackerNews\n🔗 https://alignment.openai.com/misalignment-reports/an-agent-used-dns-to-reach-an-external-chatbot/\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Fragment of oldest known peace treaty found in Turkey**\n\n📌 来源：HackerNews\n🔗 https://www.livescience.com/archaeology/ancient-egyptians/we-have-found-traces-of-peace-thousands-of-years-old-fragment-of-worlds-oldest-known-peace-treaty-found-in-turkey\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -20,10 +20,10 @@
       ]
     },
     {
-      "topic": "Evolving programming",
-      "cover_line1": "Evolving p",
+      "topic": "Show HN: TinyAIArena",
+      "cover_line1": "Show HN: T",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Evolving programming languages in the AI era**\n\n📌 来源：HackerNews\n🔗 https://dashbit.co/blog/evolving-ai-era\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Show HN: TinyAIArena watch AI agents battle it out**\n\n📌 来源：HackerNews\n🔗 https://tinyaiarena.com/\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -38,10 +38,10 @@
       ]
     },
     {
-      "topic": "A searchable library",
-      "cover_line1": "A searchab",
+      "topic": "Faster prompt lookup",
+      "cover_line1": "Faster pro",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**A searchable library of forgotten public-domain film clips from 1915 onward**\n\n📌 来源：HackerNews\n🔗 https://www.movingimagearchive.com/\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Faster prompt lookup drafting in llama.cpp**\n\n📌 来源：HackerNews\n🔗 https://jadidbourbaki.github.io/blog/prompt-lookup-llama-cpp/\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -56,10 +56,10 @@
       ]
     },
     {
-      "topic": "Drawgent: Coding age",
-      "cover_line1": "Drawgent: ",
+      "topic": "The Normalization of",
+      "cover_line1": "The Normal",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Drawgent: Coding agent on a live Excalidraw canvas**\n\n📌 来源：HackerNews\n🔗 https://tangled.org/yanndegat.tngl.sh/drawgent\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**The Normalization of Inexplicable Failures**\n\n📌 来源：HackerNews\n🔗 https://www.ihatethefuture.com/2026/09/the-normalization-of-inexplicable.html\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -75,15 +75,15 @@
     }
   ],
   "image_paths": [
-    "assets/2026-09-27/cover1.png",
-    "assets/2026-09-27/cover2.png",
-    "assets/2026-09-27/cover3.png",
-    "assets/2026-09-27/cover4.png"
+    "assets/2026-09-28/cover1.png",
+    "assets/2026-09-28/cover2.png",
+    "assets/2026-09-28/cover3.png",
+    "assets/2026-09-28/cover4.png"
   ],
   "feishu_image_paths": [
-    "assets/2026-09-27/cover1_feishu.png",
-    "assets/2026-09-27/cover2_feishu.png",
-    "assets/2026-09-27/cover3_feishu.png",
-    "assets/2026-09-27/cover4_feishu.png"
+    "assets/2026-09-28/cover1_feishu.png",
+    "assets/2026-09-28/cover2_feishu.png",
+    "assets/2026-09-28/cover3_feishu.png",
+    "assets/2026-09-28/cover4_feishu.png"
   ]
 }
