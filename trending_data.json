@@ -1,78 +1,70 @@
 {
-  "date": "2026-09-28",
+  "date": "2026-09-29",
   "slot": "早报",
   "all_repos": [
+    {
+      "name": "debpalash/VoiceStudio",
+      "url": "https://github.com/debpalash/VoiceStudio",
+      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+      "language": "Python",
+      "stars_today": "3,274 stars today",
+      "stars_total": "43,445"
+    },
     {
       "name": "paperclipai/paperclip",
       "url": "https://github.com/paperclipai/paperclip",
       "description": "The open-source app everyone uses to manage agents at work",
       "language": "TypeScript",
-      "stars_today": "2,401 stars today",
-      "stars_total": "89,947"
+      "stars_today": "3,185 stars today",
+      "stars_total": "92,452"
     },
     {
       "name": "vectorize-io/hindsight",
       "url": "https://github.com/vectorize-io/hindsight",
       "description": "Hindsight: Agent Memory That Learns",
       "language": "Python",
-      "stars_today": "4,520 stars today",
-      "stars_total": "37,359"
+      "stars_today": "4,413 stars today",
+      "stars_total": "40,755"
     },
     {
-      "name": "debpalash/VoiceStudio",
-      "url": "https://github.com/debpalash/VoiceStudio",
-      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
-      "language": "Python",
-      "stars_today": "3,086 stars today",
-      "stars_total": "40,198"
+      "name": "NawfalMotii79/PLFM_RADAR",
+      "url": "https://github.com/NawfalMotii79/PLFM_RADAR",
+      "description": "Open-source, low-cost 10.5 GHz PLFM phased array RADAR system",
+      "language": "PLSQL",
+      "stars_today": "145 stars today",
+      "stars_total": "25,695"
     },
     {
-      "name": "rohitg00/ai-engineering-from-scratch",
-      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-      "description": "Learn it. Build it. Ship it for others.",
-      "language": "Python",
-      "stars_today": "790 stars today",
-      "stars_total": "59,314"
+      "name": "cs341-illinois/coursebook",
+      "url": "https://github.com/cs341-illinois/coursebook",
+      "description": "Open Source Introductory Systems Programming Textbook for the University of Illinois",
+      "language": "TeX",
+      "stars_today": "316 stars today",
+      "stars_total": "2,425"
     },
     {
-      "name": "InfinityLoop1308/PipePipe",
-      "url": "https://github.com/InfinityLoop1308/PipePipe",
-      "description": "An open-source Android app to let you browse YouTube and other services freely.",
-      "language": "Shell",
-      "stars_today": "242 stars today",
-      "stars_total": "6,581"
-    },
-    {
-      "name": "vercel-labs/scriptc",
-      "url": "https://github.com/vercel-labs/scriptc",
-      "description": "TypeScript-to-Native Compiler",
-      "language": "TypeScript",
-      "stars_today": "102 stars today",
-      "stars_total": "5,409"
+      "name": "byoungd/up",
+      "url": "https://github.com/byoungd/up",
+      "description": "An advanced guide which might benefit you a lot 🎉 . 韩先凯的人生进阶指南 人生进阶指南 离谱的人生 人生进阶 AI学习 AI指南 韩先凯的AI学习指南 英语学习指南/英语学习教程/英语学习/学英语",
+      "language": "JavaScript",
+      "stars_today": "310 stars today",
+      "stars_total": "64,588"
     },
     {
       "name": "mvschwarz/openrig",
       "url": "https://github.com/mvschwarz/openrig",
       "description": "Multi-agent harness that runs Claude Code and Codex together as one system",
       "language": "TypeScript",
-      "stars_today": "114 stars today",
-      "stars_total": "990"
+      "stars_today": "781 stars today",
+      "stars_total": "1,593"
     },
     {
       "name": "dream-num/univer",
       "url": "https://github.com/dream-num/univer",
       "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
       "language": "TypeScript",
-      "stars_today": "895 stars today",
-      "stars_total": "20,254"
-    },
-    {
-      "name": "willfaust/Madeira",
-      "url": "https://github.com/willfaust/Madeira",
-      "description": "Run x86-64 Windows PC games on jailed iOS via FEX-Emu + Wine + DXMT",
-      "language": "C",
-      "stars_today": "83 stars today",
-      "stars_total": "821"
+      "stars_today": "1,105 stars today",
+      "stars_total": "21,143"
     }
   ],
   "ai_repos": [
@@ -81,48 +73,40 @@
       "url": "https://github.com/paperclipai/paperclip",
       "description": "The open-source app everyone uses to manage agents at work",
       "language": "TypeScript",
-      "stars_today": "2,401 stars today",
-      "stars_total": "89,947"
+      "stars_today": "3,185 stars today",
+      "stars_total": "92,452"
     },
     {
       "name": "vectorize-io/hindsight",
       "url": "https://github.com/vectorize-io/hindsight",
       "description": "Hindsight: Agent Memory That Learns",
       "language": "Python",
-      "stars_today": "4,520 stars today",
-      "stars_total": "37,359"
+      "stars_today": "4,413 stars today",
+      "stars_total": "40,755"
     },
     {
-      "name": "rohitg00/ai-engineering-from-scratch",
-      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-      "description": "Learn it. Build it. Ship it for others.",
-      "language": "Python",
-      "stars_today": "790 stars today",
-      "stars_total": "59,314"
+      "name": "byoungd/up",
+      "url": "https://github.com/byoungd/up",
+      "description": "An advanced guide which might benefit you a lot 🎉 . 韩先凯的人生进阶指南 人生进阶指南 离谱的人生 人生进阶 AI学习 AI指南 韩先凯的AI学习指南 英语学习指南/英语学习教程/英语学习/学英语",
+      "language": "JavaScript",
+      "stars_today": "310 stars today",
+      "stars_total": "64,588"
     },
     {
       "name": "mvschwarz/openrig",
       "url": "https://github.com/mvschwarz/openrig",
       "description": "Multi-agent harness that runs Claude Code and Codex together as one system",
       "language": "TypeScript",
-      "stars_today": "114 stars today",
-      "stars_total": "990"
+      "stars_today": "781 stars today",
+      "stars_total": "1,593"
     },
     {
       "name": "dream-num/univer",
       "url": "https://github.com/dream-num/univer",
       "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
       "language": "TypeScript",
-      "stars_today": "895 stars today",
-      "stars_total": "20,254"
-    },
-    {
-      "name": "willfaust/Madeira",
-      "url": "https://github.com/willfaust/Madeira",
-      "description": "Run x86-64 Windows PC games on jailed iOS via FEX-Emu + Wine + DXMT",
-      "language": "C",
-      "stars_today": "83 stars today",
-      "stars_total": "821"
+      "stars_today": "1,105 stars today",
+      "stars_total": "21,143"
     }
   ],
   "posts": [
@@ -165,11 +149,11 @@
       ]
     },
     {
-      "topic": "ai-engineering-from-",
-      "repo": "rohitg00/ai-engineering-from-scratch",
-      "cover_line1": "ai-enginee",
+      "topic": "up",
+      "repo": "byoungd/up",
+      "cover_line1": "up",
       "cover_line2": "今日 GitHub 热榜！",
-      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**rohitg00/ai-engineering-from-scratch**\n\n📌 Learn it. Build it. Ship it for others.\n\n🔗 https://github.com/rohitg00/ai-engineering-from-scratch\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**byoungd/up**\n\n📌 An advanced guide which might benefit you a lot 🎉 . 韩先凯的人生进阶指南 人生进阶指南 离谱的人生 人生进阶 AI学习 AI指南 韩先凯的AI学习指南 英语学习指南/英语学习教程/英语学习/学英语\n\n🔗 https://github.com/byoungd/up\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "GitHub",
@@ -204,10 +188,10 @@
     }
   ],
   "image_paths": [
-    "assets/2026-09-28/trending/summary.png",
-    "assets/2026-09-28/trending/post1.png",
-    "assets/2026-09-28/trending/post2.png",
-    "assets/2026-09-28/trending/post3.png",
-    "assets/2026-09-28/trending/post4.png"
+    "assets/2026-09-29/trending/summary.png",
+    "assets/2026-09-29/trending/post1.png",
+    "assets/2026-09-29/trending/post2.png",
+    "assets/2026-09-29/trending/post3.png",
+    "assets/2026-09-29/trending/post4.png"
   ]
 }
