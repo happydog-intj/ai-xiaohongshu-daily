@@ -1,11 +1,11 @@
 {
-  "date": "2026-09-28",
+  "date": "2026-09-29",
   "posts": [
     {
-      "topic": "Fragment of oldest k",
-      "cover_line1": "Fragment o",
+      "topic": "Jeff – Jev-compatibl",
+      "cover_line1": "Jeff – Jev",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Fragment of oldest known peace treaty found in Turkey**\n\n📌 来源：HackerNews\n🔗 https://www.livescience.com/archaeology/ancient-egyptians/we-have-found-traces-of-peace-thousands-of-years-old-fragment-of-worlds-oldest-known-peace-treaty-found-in-turkey\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Jeff – Jev-compatible 0.8B decision models, trained at home, ~30 ms**\n\n📌 来源：HackerNews\n🔗 https://github.com/firelex/jeff\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -20,10 +20,10 @@
       ]
     },
     {
-      "topic": "Show HN: TinyAIArena",
-      "cover_line1": "Show HN: T",
+      "topic": "12,000-year-old Göbe",
+      "cover_line1": "12,000-yea",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Show HN: TinyAIArena watch AI agents battle it out**\n\n📌 来源：HackerNews\n🔗 https://tinyaiarena.com/\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**12,000-year-old Göbeklitepe burials explain scattered bones**\n\n📌 来源：HackerNews\n🔗 https://archaeologymag.com/2026/09/gobeklitepe-burials-hundreds-of-scattered-bones/\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -38,10 +38,10 @@
       ]
     },
     {
-      "topic": "Faster prompt lookup",
-      "cover_line1": "Faster pro",
+      "topic": "MicroLLM Lab – Try 7",
+      "cover_line1": "MicroLLM L",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Faster prompt lookup drafting in llama.cpp**\n\n📌 来源：HackerNews\n🔗 https://jadidbourbaki.github.io/blog/prompt-lookup-llama-cpp/\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**MicroLLM Lab – Try 7 tiny LLM's in the browser**\n\n📌 来源：HackerNews\n🔗 https://stateofutopia.com/experiments/microllmlab/\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -56,10 +56,10 @@
       ]
     },
     {
-      "topic": "The Normalization of",
-      "cover_line1": "The Normal",
+      "topic": "ESP32S3 cluster runn",
+      "cover_line1": "ESP32S3 cl",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**The Normalization of Inexplicable Failures**\n\n📌 来源：HackerNews\n🔗 https://www.ihatethefuture.com/2026/09/the-normalization-of-inexplicable.html\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**ESP32S3 cluster running 1.58-bit (BitNet) Language model**\n\n📌 来源：HackerNews\n🔗 https://github.com/Low-Zi-Hong/ESP32s3-LLM-Cluster\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -75,15 +75,15 @@
     }
   ],
   "image_paths": [
-    "assets/2026-09-28/cover1.png",
-    "assets/2026-09-28/cover2.png",
-    "assets/2026-09-28/cover3.png",
-    "assets/2026-09-28/cover4.png"
+    "assets/2026-09-29/cover1.png",
+    "assets/2026-09-29/cover2.png",
+    "assets/2026-09-29/cover3.png",
+    "assets/2026-09-29/cover4.png"
   ],
   "feishu_image_paths": [
-    "assets/2026-09-28/cover1_feishu.png",
-    "assets/2026-09-28/cover2_feishu.png",
-    "assets/2026-09-28/cover3_feishu.png",
-    "assets/2026-09-28/cover4_feishu.png"
+    "assets/2026-09-29/cover1_feishu.png",
+    "assets/2026-09-29/cover2_feishu.png",
+    "assets/2026-09-29/cover3_feishu.png",
+    "assets/2026-09-29/cover4_feishu.png"
   ]
 }
