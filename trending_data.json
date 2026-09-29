@@ -1,5 +1,5 @@
 {
-  "date": "2026-09-29",
+  "date": "2026-09-30",
   "slot": "早报",
   "all_repos": [
     {
@@ -7,115 +7,139 @@
       "url": "https://github.com/debpalash/VoiceStudio",
       "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
       "language": "Python",
-      "stars_today": "3,221 stars today",
-      "stars_total": "44,377"
+      "stars_today": "4,712 stars today",
+      "stars_total": "47,389"
     },
     {
-      "name": "paperclipai/paperclip",
-      "url": "https://github.com/paperclipai/paperclip",
-      "description": "The open-source app everyone uses to manage agents at work",
-      "language": "TypeScript",
-      "stars_today": "3,197 stars today",
-      "stars_total": "92,970"
+      "name": "NVIDIA/OpenShell",
+      "url": "https://github.com/NVIDIA/OpenShell",
+      "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
+      "language": "Rust",
+      "stars_today": "978 stars today",
+      "stars_total": "10,353"
     },
     {
       "name": "vectorize-io/hindsight",
       "url": "https://github.com/vectorize-io/hindsight",
       "description": "Hindsight: Agent Memory That Learns",
       "language": "Python",
-      "stars_today": "4,561 stars today",
-      "stars_total": "41,121"
+      "stars_today": "2,541 stars today",
+      "stars_total": "42,560"
     },
     {
-      "name": "NawfalMotii79/PLFM_RADAR",
-      "url": "https://github.com/NawfalMotii79/PLFM_RADAR",
-      "description": "Open-source, low-cost 10.5 GHz PLFM phased array RADAR system",
-      "language": "PLSQL",
-      "stars_today": "158 stars today",
-      "stars_total": "25,794"
+      "name": "paperclipai/paperclip",
+      "url": "https://github.com/paperclipai/paperclip",
+      "description": "The open-source app everyone uses to manage agents at work",
+      "language": "TypeScript",
+      "stars_today": "2,412 stars today",
+      "stars_total": "94,234"
+    },
+    {
+      "name": "t8y2/dbx",
+      "url": "https://github.com/t8y2/dbx",
+      "description": "25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 100+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP。",
+      "language": "Rust",
+      "stars_today": "349 stars today",
+      "stars_total": "21,826"
+    },
+    {
+      "name": "mvschwarz/openrig",
+      "url": "https://github.com/mvschwarz/openrig",
+      "description": "Multi-agent harness that runs Claude Code and Codex together as one system",
+      "language": "TypeScript",
+      "stars_today": "733 stars today",
+      "stars_total": "2,260"
+    },
+    {
+      "name": "oblien/openship",
+      "url": "https://github.com/oblien/openship",
+      "description": "Self-hosted deployment platform",
+      "language": "TypeScript",
+      "stars_today": "436 stars today",
+      "stars_total": "13,711"
+    },
+    {
+      "name": "averygan/reclip",
+      "url": "https://github.com/averygan/reclip",
+      "description": "Download videos from almost any website. Lightweight, self-hosted media downloader with a clean web UI.",
+      "language": "HTML",
+      "stars_today": "114 stars today",
+      "stars_total": "9,949"
     },
     {
       "name": "cs341-illinois/coursebook",
       "url": "https://github.com/cs341-illinois/coursebook",
       "description": "Open Source Introductory Systems Programming Textbook for the University of Illinois",
       "language": "TeX",
-      "stars_today": "195 stars today",
-      "stars_total": "2,557"
+      "stars_today": "569 stars today",
+      "stars_total": "2,992"
     },
     {
-      "name": "byoungd/up",
-      "url": "https://github.com/byoungd/up",
-      "description": "An advanced guide which might benefit you a lot 🎉 . 韩先凯的人生进阶指南 人生进阶指南 离谱的人生 人生进阶 AI学习 AI指南 韩先凯的AI学习指南 英语学习指南/英语学习教程/英语学习/学英语",
-      "language": "JavaScript",
-      "stars_today": "327 stars today",
-      "stars_total": "64,777"
-    },
-    {
-      "name": "mvschwarz/openrig",
-      "url": "https://github.com/mvschwarz/openrig",
-      "description": "Multi-agent harness that runs Claude Code and Codex together as one system",
-      "language": "TypeScript",
-      "stars_today": "734 stars today",
-      "stars_total": "1,781"
-    },
-    {
-      "name": "dream-num/univer",
-      "url": "https://github.com/dream-num/univer",
-      "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
-      "language": "TypeScript",
-      "stars_today": "1,099 stars today",
-      "stars_total": "21,314"
+      "name": "rohitg00/ai-engineering-from-scratch",
+      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "description": "Learn it. Build it. Ship it for others.",
+      "language": "Python",
+      "stars_today": "855 stars today",
+      "stars_total": "61,141"
     }
   ],
   "ai_repos": [
     {
-      "name": "paperclipai/paperclip",
-      "url": "https://github.com/paperclipai/paperclip",
-      "description": "The open-source app everyone uses to manage agents at work",
-      "language": "TypeScript",
-      "stars_today": "3,197 stars today",
-      "stars_total": "92,970"
+      "name": "NVIDIA/OpenShell",
+      "url": "https://github.com/NVIDIA/OpenShell",
+      "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
+      "language": "Rust",
+      "stars_today": "978 stars today",
+      "stars_total": "10,353"
     },
     {
       "name": "vectorize-io/hindsight",
       "url": "https://github.com/vectorize-io/hindsight",
       "description": "Hindsight: Agent Memory That Learns",
       "language": "Python",
-      "stars_today": "4,561 stars today",
-      "stars_total": "41,121"
+      "stars_today": "2,541 stars today",
+      "stars_total": "42,560"
     },
     {
-      "name": "byoungd/up",
-      "url": "https://github.com/byoungd/up",
-      "description": "An advanced guide which might benefit you a lot 🎉 . 韩先凯的人生进阶指南 人生进阶指南 离谱的人生 人生进阶 AI学习 AI指南 韩先凯的AI学习指南 英语学习指南/英语学习教程/英语学习/学英语",
-      "language": "JavaScript",
-      "stars_today": "327 stars today",
-      "stars_total": "64,777"
+      "name": "paperclipai/paperclip",
+      "url": "https://github.com/paperclipai/paperclip",
+      "description": "The open-source app everyone uses to manage agents at work",
+      "language": "TypeScript",
+      "stars_today": "2,412 stars today",
+      "stars_total": "94,234"
+    },
+    {
+      "name": "t8y2/dbx",
+      "url": "https://github.com/t8y2/dbx",
+      "description": "25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 100+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP。",
+      "language": "Rust",
+      "stars_today": "349 stars today",
+      "stars_total": "21,826"
     },
     {
       "name": "mvschwarz/openrig",
       "url": "https://github.com/mvschwarz/openrig",
       "description": "Multi-agent harness that runs Claude Code and Codex together as one system",
       "language": "TypeScript",
-      "stars_today": "734 stars today",
-      "stars_total": "1,781"
+      "stars_today": "733 stars today",
+      "stars_total": "2,260"
     },
     {
-      "name": "dream-num/univer",
-      "url": "https://github.com/dream-num/univer",
-      "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
-      "language": "TypeScript",
-      "stars_today": "1,099 stars today",
-      "stars_total": "21,314"
+      "name": "rohitg00/ai-engineering-from-scratch",
+      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "description": "Learn it. Build it. Ship it for others.",
+      "language": "Python",
+      "stars_today": "855 stars today",
+      "stars_total": "61,141"
     }
   ],
   "posts": [
     {
-      "topic": "paperclip",
-      "repo": "paperclipai/paperclip",
-      "cover_line1": "paperclip",
+      "topic": "OpenShell",
+      "repo": "NVIDIA/OpenShell",
+      "cover_line1": "OpenShell",
       "cover_line2": "今日 GitHub 热榜！",
-      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**paperclipai/paperclip**\n\n📌 The open-source app everyone uses to manage agents at work\n\n🔗 https://github.com/paperclipai/paperclip\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**NVIDIA/OpenShell**\n\n📌 OpenShell is the safe, private runtime for autonomous AI agents.\n\n🔗 https://github.com/NVIDIA/OpenShell\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "GitHub",
@@ -149,11 +173,11 @@
       ]
     },
     {
-      "topic": "up",
-      "repo": "byoungd/up",
-      "cover_line1": "up",
+      "topic": "paperclip",
+      "repo": "paperclipai/paperclip",
+      "cover_line1": "paperclip",
       "cover_line2": "今日 GitHub 热榜！",
-      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**byoungd/up**\n\n📌 An advanced guide which might benefit you a lot 🎉 . 韩先凯的人生进阶指南 人生进阶指南 离谱的人生 人生进阶 AI学习 AI指南 韩先凯的AI学习指南 英语学习指南/英语学习教程/英语学习/学英语\n\n🔗 https://github.com/byoungd/up\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**paperclipai/paperclip**\n\n📌 The open-source app everyone uses to manage agents at work\n\n🔗 https://github.com/paperclipai/paperclip\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "GitHub",
@@ -168,11 +192,11 @@
       ]
     },
     {
-      "topic": "openrig",
-      "repo": "mvschwarz/openrig",
-      "cover_line1": "openrig",
+      "topic": "dbx",
+      "repo": "t8y2/dbx",
+      "cover_line1": "dbx",
       "cover_line2": "今日 GitHub 热榜！",
-      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**mvschwarz/openrig**\n\n📌 Multi-agent harness that runs Claude Code and Codex together as one system\n\n🔗 https://github.com/mvschwarz/openrig\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**t8y2/dbx**\n\n📌 25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 100+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP。\n\n🔗 https://github.com/t8y2/dbx\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "GitHub",
@@ -188,10 +212,10 @@
     }
   ],
   "image_paths": [
-    "assets/2026-09-29/trending/summary.png",
-    "assets/2026-09-29/trending/post1.png",
-    "assets/2026-09-29/trending/post2.png",
-    "assets/2026-09-29/trending/post3.png",
-    "assets/2026-09-29/trending/post4.png"
+    "assets/2026-09-30/trending/summary.png",
+    "assets/2026-09-30/trending/post1.png",
+    "assets/2026-09-30/trending/post2.png",
+    "assets/2026-09-30/trending/post3.png",
+    "assets/2026-09-30/trending/post4.png"
   ]
 }
