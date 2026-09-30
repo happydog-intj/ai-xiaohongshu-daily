@@ -1,86 +1,86 @@
 {
-  "date": "2026-09-30",
+  "date": "2026-10-01",
   "slot": "早报",
   "all_repos": [
-    {
-      "name": "debpalash/VoiceStudio",
-      "url": "https://github.com/debpalash/VoiceStudio",
-      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
-      "language": "Python",
-      "stars_today": "4,758 stars today",
-      "stars_total": "48,232"
-    },
     {
       "name": "NVIDIA/OpenShell",
       "url": "https://github.com/NVIDIA/OpenShell",
       "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
       "language": "Rust",
-      "stars_today": "990 stars today",
-      "stars_total": "10,653"
+      "stars_today": "1,280 stars today",
+      "stars_total": "12,097"
     },
     {
-      "name": "vectorize-io/hindsight",
-      "url": "https://github.com/vectorize-io/hindsight",
-      "description": "Hindsight: Agent Memory That Learns",
+      "name": "debpalash/VoiceStudio",
+      "url": "https://github.com/debpalash/VoiceStudio",
+      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
       "language": "Python",
-      "stars_today": "2,575 stars today",
-      "stars_total": "42,900"
-    },
-    {
-      "name": "paperclipai/paperclip",
-      "url": "https://github.com/paperclipai/paperclip",
-      "description": "The open-source app everyone uses to manage agents at work",
-      "language": "TypeScript",
-      "stars_today": "2,458 stars today",
-      "stars_total": "94,499"
-    },
-    {
-      "name": "t8y2/dbx",
-      "url": "https://github.com/t8y2/dbx",
-      "description": "25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 100+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP。",
-      "language": "Rust",
-      "stars_today": "232 stars today",
-      "stars_total": "22,084"
+      "stars_today": "3,481 stars today",
+      "stars_total": "50,108"
     },
     {
       "name": "mvschwarz/openrig",
       "url": "https://github.com/mvschwarz/openrig",
       "description": "Multi-agent harness that runs Claude Code and Codex together as one system",
       "language": "TypeScript",
-      "stars_today": "737 stars today",
-      "stars_total": "2,456"
+      "stars_today": "622 stars today",
+      "stars_total": "2,862"
     },
     {
-      "name": "oblien/openship",
-      "url": "https://github.com/oblien/openship",
-      "description": "Self-hosted deployment platform",
+      "name": "mksglu/context-mode",
+      "url": "https://github.com/mksglu/context-mode",
+      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
       "language": "TypeScript",
-      "stars_today": "437 stars today",
-      "stars_total": "13,851"
+      "stars_today": "88 stars today",
+      "stars_total": "24,392"
     },
     {
-      "name": "averygan/reclip",
-      "url": "https://github.com/averygan/reclip",
-      "description": "Download videos from almost any website. Lightweight, self-hosted media downloader with a clean web UI.",
-      "language": "HTML",
-      "stars_today": "113 stars today",
-      "stars_total": "10,145"
+      "name": "DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "language": "JavaScript",
+      "stars_today": "865 stars today",
+      "stars_total": "148,932"
     },
     {
-      "name": "cs341-illinois/coursebook",
-      "url": "https://github.com/cs341-illinois/coursebook",
-      "description": "Open Source Introductory Systems Programming Textbook for the University of Illinois",
-      "language": "TeX",
-      "stars_today": "572 stars today",
-      "stars_total": "3,121"
-    },
-    {
-      "name": "rohitg00/ai-engineering-from-scratch",
-      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-      "description": "Learn it. Build it. Ship it for others.",
+      "name": "harry0703/MoneyPrinterTurbo",
+      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+      "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
       "language": "Python",
-      "stars_today": "786 stars today",
-      "stars_total": "61,444"
+      "stars_today": "464 stars today",
+      "stars_total": "127,425"
+    },
+    {
+      "name": "openclaw/openclaw",
+      "url": "https://github.com/openclaw/openclaw",
+      "description": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞",
+      "language": "TypeScript",
+      "stars_today": "136 stars today",
+      "stars_total": "390,920"
+    },
+    {
+      "name": "ComposioHQ/awesome-claude-skills",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+      "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
+      "language": "Python",
+      "stars_today": "118 stars today",
+      "stars_total": "76,053"
+    },
+    {
+      "name": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "language": "Shell",
+      "stars_today": "908 stars today",
+      "stars_total": "272,825"
+    },
+    {
+      "name": "heygen-com/hyperframes",
+      "url": "https://github.com/heygen-com/hyperframes",
+      "description": "Write HTML. Render video. Built for agents.",
+      "language": "TypeScript",
+      "stars_today": "352 stars today",
+      "stars_total": "54,587"
     }
   ],
   "ai_repos": [
@@ -89,48 +89,72 @@
       "url": "https://github.com/NVIDIA/OpenShell",
       "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
       "language": "Rust",
-      "stars_today": "990 stars today",
-      "stars_total": "10,653"
-    },
-    {
-      "name": "vectorize-io/hindsight",
-      "url": "https://github.com/vectorize-io/hindsight",
-      "description": "Hindsight: Agent Memory That Learns",
-      "language": "Python",
-      "stars_today": "2,575 stars today",
-      "stars_total": "42,900"
-    },
-    {
-      "name": "paperclipai/paperclip",
-      "url": "https://github.com/paperclipai/paperclip",
-      "description": "The open-source app everyone uses to manage agents at work",
-      "language": "TypeScript",
-      "stars_today": "2,458 stars today",
-      "stars_total": "94,499"
-    },
-    {
-      "name": "t8y2/dbx",
-      "url": "https://github.com/t8y2/dbx",
-      "description": "25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 100+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP。",
-      "language": "Rust",
-      "stars_today": "232 stars today",
-      "stars_total": "22,084"
+      "stars_today": "1,280 stars today",
+      "stars_total": "12,097"
     },
     {
       "name": "mvschwarz/openrig",
       "url": "https://github.com/mvschwarz/openrig",
       "description": "Multi-agent harness that runs Claude Code and Codex together as one system",
       "language": "TypeScript",
-      "stars_today": "737 stars today",
-      "stars_total": "2,456"
+      "stars_today": "622 stars today",
+      "stars_total": "2,862"
     },
     {
-      "name": "rohitg00/ai-engineering-from-scratch",
-      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-      "description": "Learn it. Build it. Ship it for others.",
+      "name": "mksglu/context-mode",
+      "url": "https://github.com/mksglu/context-mode",
+      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+      "language": "TypeScript",
+      "stars_today": "88 stars today",
+      "stars_total": "24,392"
+    },
+    {
+      "name": "DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "language": "JavaScript",
+      "stars_today": "865 stars today",
+      "stars_total": "148,932"
+    },
+    {
+      "name": "harry0703/MoneyPrinterTurbo",
+      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+      "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
       "language": "Python",
-      "stars_today": "786 stars today",
-      "stars_total": "61,444"
+      "stars_today": "464 stars today",
+      "stars_total": "127,425"
+    },
+    {
+      "name": "openclaw/openclaw",
+      "url": "https://github.com/openclaw/openclaw",
+      "description": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞",
+      "language": "TypeScript",
+      "stars_today": "136 stars today",
+      "stars_total": "390,920"
+    },
+    {
+      "name": "ComposioHQ/awesome-claude-skills",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+      "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
+      "language": "Python",
+      "stars_today": "118 stars today",
+      "stars_total": "76,053"
+    },
+    {
+      "name": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "language": "Shell",
+      "stars_today": "908 stars today",
+      "stars_total": "272,825"
+    },
+    {
+      "name": "heygen-com/hyperframes",
+      "url": "https://github.com/heygen-com/hyperframes",
+      "description": "Write HTML. Render video. Built for agents.",
+      "language": "TypeScript",
+      "stars_today": "352 stars today",
+      "stars_total": "54,587"
     }
   ],
   "posts": [
@@ -154,11 +178,11 @@
       ]
     },
     {
-      "topic": "hindsight",
-      "repo": "vectorize-io/hindsight",
-      "cover_line1": "hindsight",
+      "topic": "openrig",
+      "repo": "mvschwarz/openrig",
+      "cover_line1": "openrig",
       "cover_line2": "今日 GitHub 热榜！",
-      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**vectorize-io/hindsight**\n\n📌 Hindsight: Agent Memory That Learns\n\n🔗 https://github.com/vectorize-io/hindsight\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**mvschwarz/openrig**\n\n📌 Multi-agent harness that runs Claude Code and Codex together as one system\n\n🔗 https://github.com/mvschwarz/openrig\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "GitHub",
@@ -173,11 +197,11 @@
       ]
     },
     {
-      "topic": "paperclip",
-      "repo": "paperclipai/paperclip",
-      "cover_line1": "paperclip",
+      "topic": "context-mode",
+      "repo": "mksglu/context-mode",
+      "cover_line1": "context-mo",
       "cover_line2": "今日 GitHub 热榜！",
-      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**paperclipai/paperclip**\n\n📌 The open-source app everyone uses to manage agents at work\n\n🔗 https://github.com/paperclipai/paperclip\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**mksglu/context-mode**\n\n📌 Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.\n\n🔗 https://github.com/mksglu/context-mode\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "GitHub",
@@ -192,11 +216,11 @@
       ]
     },
     {
-      "topic": "dbx",
-      "repo": "t8y2/dbx",
-      "cover_line1": "dbx",
+      "topic": "ponytail",
+      "repo": "DietrichGebert/ponytail",
+      "cover_line1": "ponytail",
       "cover_line2": "今日 GitHub 热榜！",
-      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**t8y2/dbx**\n\n📌 25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 100+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP。\n\n🔗 https://github.com/t8y2/dbx\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**DietrichGebert/ponytail**\n\n📌 Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.\n\n🔗 https://github.com/DietrichGebert/ponytail\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "GitHub",
@@ -212,10 +236,10 @@
     }
   ],
   "image_paths": [
-    "assets/2026-09-30/trending/summary.png",
-    "assets/2026-09-30/trending/post1.png",
-    "assets/2026-09-30/trending/post2.png",
-    "assets/2026-09-30/trending/post3.png",
-    "assets/2026-09-30/trending/post4.png"
+    "assets/2026-10-01/trending/summary.png",
+    "assets/2026-10-01/trending/post1.png",
+    "assets/2026-10-01/trending/post2.png",
+    "assets/2026-10-01/trending/post3.png",
+    "assets/2026-10-01/trending/post4.png"
   ]
 }
