@@ -7,80 +7,80 @@
       "url": "https://github.com/debpalash/VoiceStudio",
       "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
       "language": "Python",
-      "stars_today": "4,712 stars today",
-      "stars_total": "47,389"
+      "stars_today": "4,758 stars today",
+      "stars_total": "48,232"
     },
     {
       "name": "NVIDIA/OpenShell",
       "url": "https://github.com/NVIDIA/OpenShell",
       "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
       "language": "Rust",
-      "stars_today": "978 stars today",
-      "stars_total": "10,353"
+      "stars_today": "990 stars today",
+      "stars_total": "10,653"
     },
     {
       "name": "vectorize-io/hindsight",
       "url": "https://github.com/vectorize-io/hindsight",
       "description": "Hindsight: Agent Memory That Learns",
       "language": "Python",
-      "stars_today": "2,541 stars today",
-      "stars_total": "42,560"
+      "stars_today": "2,575 stars today",
+      "stars_total": "42,900"
     },
     {
       "name": "paperclipai/paperclip",
       "url": "https://github.com/paperclipai/paperclip",
       "description": "The open-source app everyone uses to manage agents at work",
       "language": "TypeScript",
-      "stars_today": "2,412 stars today",
-      "stars_total": "94,234"
+      "stars_today": "2,458 stars today",
+      "stars_total": "94,499"
     },
     {
       "name": "t8y2/dbx",
       "url": "https://github.com/t8y2/dbx",
       "description": "25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 100+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP。",
       "language": "Rust",
-      "stars_today": "349 stars today",
-      "stars_total": "21,826"
+      "stars_today": "232 stars today",
+      "stars_total": "22,084"
     },
     {
       "name": "mvschwarz/openrig",
       "url": "https://github.com/mvschwarz/openrig",
       "description": "Multi-agent harness that runs Claude Code and Codex together as one system",
       "language": "TypeScript",
-      "stars_today": "733 stars today",
-      "stars_total": "2,260"
+      "stars_today": "737 stars today",
+      "stars_total": "2,456"
     },
     {
       "name": "oblien/openship",
       "url": "https://github.com/oblien/openship",
       "description": "Self-hosted deployment platform",
       "language": "TypeScript",
-      "stars_today": "436 stars today",
-      "stars_total": "13,711"
+      "stars_today": "437 stars today",
+      "stars_total": "13,851"
     },
     {
       "name": "averygan/reclip",
       "url": "https://github.com/averygan/reclip",
       "description": "Download videos from almost any website. Lightweight, self-hosted media downloader with a clean web UI.",
       "language": "HTML",
-      "stars_today": "114 stars today",
-      "stars_total": "9,949"
+      "stars_today": "113 stars today",
+      "stars_total": "10,145"
     },
     {
       "name": "cs341-illinois/coursebook",
       "url": "https://github.com/cs341-illinois/coursebook",
       "description": "Open Source Introductory Systems Programming Textbook for the University of Illinois",
       "language": "TeX",
-      "stars_today": "569 stars today",
-      "stars_total": "2,992"
+      "stars_today": "572 stars today",
+      "stars_total": "3,121"
     },
     {
       "name": "rohitg00/ai-engineering-from-scratch",
       "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
       "description": "Learn it. Build it. Ship it for others.",
       "language": "Python",
-      "stars_today": "855 stars today",
-      "stars_total": "61,141"
+      "stars_today": "786 stars today",
+      "stars_total": "61,444"
     }
   ],
   "ai_repos": [
@@ -89,48 +89,48 @@
       "url": "https://github.com/NVIDIA/OpenShell",
       "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
       "language": "Rust",
-      "stars_today": "978 stars today",
-      "stars_total": "10,353"
+      "stars_today": "990 stars today",
+      "stars_total": "10,653"
     },
     {
       "name": "vectorize-io/hindsight",
       "url": "https://github.com/vectorize-io/hindsight",
       "description": "Hindsight: Agent Memory That Learns",
       "language": "Python",
-      "stars_today": "2,541 stars today",
-      "stars_total": "42,560"
+      "stars_today": "2,575 stars today",
+      "stars_total": "42,900"
     },
     {
       "name": "paperclipai/paperclip",
       "url": "https://github.com/paperclipai/paperclip",
       "description": "The open-source app everyone uses to manage agents at work",
       "language": "TypeScript",
-      "stars_today": "2,412 stars today",
-      "stars_total": "94,234"
+      "stars_today": "2,458 stars today",
+      "stars_total": "94,499"
     },
     {
       "name": "t8y2/dbx",
       "url": "https://github.com/t8y2/dbx",
       "description": "25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 100+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP。",
       "language": "Rust",
-      "stars_today": "349 stars today",
-      "stars_total": "21,826"
+      "stars_today": "232 stars today",
+      "stars_total": "22,084"
     },
     {
       "name": "mvschwarz/openrig",
       "url": "https://github.com/mvschwarz/openrig",
       "description": "Multi-agent harness that runs Claude Code and Codex together as one system",
       "language": "TypeScript",
-      "stars_today": "733 stars today",
-      "stars_total": "2,260"
+      "stars_today": "737 stars today",
+      "stars_total": "2,456"
     },
     {
       "name": "rohitg00/ai-engineering-from-scratch",
       "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
       "description": "Learn it. Build it. Ship it for others.",
       "language": "Python",
-      "stars_today": "855 stars today",
-      "stars_total": "61,141"
+      "stars_today": "786 stars today",
+      "stars_total": "61,444"
     }
   ],
   "posts": [
