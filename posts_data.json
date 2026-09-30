@@ -1,11 +1,11 @@
 {
-  "date": "2026-09-29",
+  "date": "2026-09-30",
   "posts": [
     {
-      "topic": "Jeff – Jev-compatibl",
-      "cover_line1": "Jeff – Jev",
+      "topic": "GPT 6.1 Sol: Near-As",
+      "cover_line1": "GPT 6.1 So",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Jeff – Jev-compatible 0.8B decision models, trained at home, ~30 ms**\n\n📌 来源：HackerNews\n🔗 https://github.com/firelex/jeff\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price**\n\n📌 来源：HackerNews\n🔗 https://openai.com/index/introducing-gpt-6-1-sol/\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -20,10 +20,10 @@
       ]
     },
     {
-      "topic": "12,000-year-old Göbe",
-      "cover_line1": "12,000-yea",
+      "topic": "Language models for ",
+      "cover_line1": "Language m",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**12,000-year-old Göbeklitepe burials explain scattered bones**\n\n📌 来源：HackerNews\n🔗 https://archaeologymag.com/2026/09/gobeklitepe-burials-hundreds-of-scattered-bones/\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Language models for text classification: From bag-of-words to Jev**\n\n📌 来源：HackerNews\n🔗 https://magazine.sebastianraschka.com/p/classifier-history-and-jev\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -38,10 +38,10 @@
       ]
     },
     {
-      "topic": "MicroLLM Lab – Try 7",
-      "cover_line1": "MicroLLM L",
+      "topic": "A Privacy Analysis o",
+      "cover_line1": "A Privacy ",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**MicroLLM Lab – Try 7 tiny LLM's in the browser**\n\n📌 来源：HackerNews\n🔗 https://stateofutopia.com/experiments/microllmlab/\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**A Privacy Analysis of Web and Mobile Conversational AI Agents [pdf]**\n\n📌 来源：HackerNews\n🔗 https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -56,10 +56,10 @@
       ]
     },
     {
-      "topic": "ESP32S3 cluster runn",
-      "cover_line1": "ESP32S3 cl",
+      "topic": "Show HN: A working 3",
+      "cover_line1": "Show HN: A",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**ESP32S3 cluster running 1.58-bit (BitNet) Language model**\n\n📌 来源：HackerNews\n🔗 https://github.com/Low-Zi-Hong/ESP32s3-LLM-Cluster\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Show HN: A working 3D model of an Enigma machine**\n\n📌 来源：HackerNews\n🔗 https://enigma.design\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -75,15 +75,15 @@
     }
   ],
   "image_paths": [
-    "assets/2026-09-29/cover1.png",
-    "assets/2026-09-29/cover2.png",
-    "assets/2026-09-29/cover3.png",
-    "assets/2026-09-29/cover4.png"
+    "assets/2026-09-30/cover1.png",
+    "assets/2026-09-30/cover2.png",
+    "assets/2026-09-30/cover3.png",
+    "assets/2026-09-30/cover4.png"
   ],
   "feishu_image_paths": [
-    "assets/2026-09-29/cover1_feishu.png",
-    "assets/2026-09-29/cover2_feishu.png",
-    "assets/2026-09-29/cover3_feishu.png",
-    "assets/2026-09-29/cover4_feishu.png"
+    "assets/2026-09-30/cover1_feishu.png",
+    "assets/2026-09-30/cover2_feishu.png",
+    "assets/2026-09-30/cover3_feishu.png",
+    "assets/2026-09-30/cover4_feishu.png"
   ]
 }
