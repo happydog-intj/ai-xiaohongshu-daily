@@ -1,11 +1,11 @@
 {
-  "date": "2026-09-30",
+  "date": "2026-10-01",
   "posts": [
     {
-      "topic": "GPT 6.1 Sol: Near-As",
-      "cover_line1": "GPT 6.1 So",
+      "topic": "Gemini 4 Argon",
+      "cover_line1": "Gemini 4 A",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price**\n\n📌 来源：HackerNews\n🔗 https://openai.com/index/introducing-gpt-6-1-sol/\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Gemini 4 Argon**\n\n📌 来源：HackerNews\n🔗 https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -20,10 +20,10 @@
       ]
     },
     {
-      "topic": "Language models for ",
-      "cover_line1": "Language m",
+      "topic": "Surprisingly complex",
+      "cover_line1": "Surprising",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Language models for text classification: From bag-of-words to Jev**\n\n📌 来源：HackerNews\n🔗 https://magazine.sebastianraschka.com/p/classifier-history-and-jev\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Surprisingly complex waves reveal the brain's inner workings**\n\n📌 来源：HackerNews\n🔗 https://www.quantamagazine.org/surprisingly-complex-waves-reveal-the-brains-inner-workings-20260930/\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -38,10 +38,10 @@
       ]
     },
     {
-      "topic": "A Privacy Analysis o",
-      "cover_line1": "A Privacy ",
+      "topic": "Launch HN: Magnitude",
+      "cover_line1": "Launch HN:",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**A Privacy Analysis of Web and Mobile Conversational AI Agents [pdf]**\n\n📌 来源：HackerNews\n🔗 https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents**\n\n📌 来源：HackerNews\n🔗 https://github.com/magnitudedev/magnitude\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -56,10 +56,10 @@
       ]
     },
     {
-      "topic": "Show HN: A working 3",
-      "cover_line1": "Show HN: A",
+      "topic": "Halfspace experiment",
+      "cover_line1": "Halfspace ",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Show HN: A working 3D model of an Enigma machine**\n\n📌 来源：HackerNews\n🔗 https://enigma.design\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Halfspace experimental IDE for solid modeling with distance fields**\n\n📌 来源：HackerNews\n🔗 https://www.mattkeeter.com/projects/halfspace/\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -75,15 +75,15 @@
     }
   ],
   "image_paths": [
-    "assets/2026-09-30/cover1.png",
-    "assets/2026-09-30/cover2.png",
-    "assets/2026-09-30/cover3.png",
-    "assets/2026-09-30/cover4.png"
+    "assets/2026-10-01/cover1.png",
+    "assets/2026-10-01/cover2.png",
+    "assets/2026-10-01/cover3.png",
+    "assets/2026-10-01/cover4.png"
   ],
   "feishu_image_paths": [
-    "assets/2026-09-30/cover1_feishu.png",
-    "assets/2026-09-30/cover2_feishu.png",
-    "assets/2026-09-30/cover3_feishu.png",
-    "assets/2026-09-30/cover4_feishu.png"
+    "assets/2026-10-01/cover1_feishu.png",
+    "assets/2026-10-01/cover2_feishu.png",
+    "assets/2026-10-01/cover3_feishu.png",
+    "assets/2026-10-01/cover4_feishu.png"
   ]
 }
