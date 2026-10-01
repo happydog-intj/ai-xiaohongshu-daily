@@ -7,48 +7,48 @@
       "url": "https://github.com/NVIDIA/OpenShell",
       "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
       "language": "Rust",
-      "stars_today": "1,280 stars today",
-      "stars_total": "12,097"
+      "stars_today": "1,281 stars today",
+      "stars_total": "12,743"
     },
     {
       "name": "debpalash/VoiceStudio",
       "url": "https://github.com/debpalash/VoiceStudio",
       "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
       "language": "Python",
-      "stars_today": "3,481 stars today",
-      "stars_total": "50,108"
+      "stars_today": "3,483 stars today",
+      "stars_total": "50,483"
     },
     {
       "name": "mvschwarz/openrig",
       "url": "https://github.com/mvschwarz/openrig",
       "description": "Multi-agent harness that runs Claude Code and Codex together as one system",
       "language": "TypeScript",
-      "stars_today": "622 stars today",
-      "stars_total": "2,862"
+      "stars_today": "624 stars today",
+      "stars_total": "3,041"
     },
     {
       "name": "mksglu/context-mode",
       "url": "https://github.com/mksglu/context-mode",
       "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
       "language": "TypeScript",
-      "stars_today": "88 stars today",
-      "stars_total": "24,392"
+      "stars_today": "90 stars today",
+      "stars_total": "24,504"
     },
     {
       "name": "DietrichGebert/ponytail",
       "url": "https://github.com/DietrichGebert/ponytail",
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
       "language": "JavaScript",
-      "stars_today": "865 stars today",
-      "stars_total": "148,932"
+      "stars_today": "743 stars today",
+      "stars_total": "149,220"
     },
     {
       "name": "harry0703/MoneyPrinterTurbo",
       "url": "https://github.com/harry0703/MoneyPrinterTurbo",
       "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
       "language": "Python",
-      "stars_today": "464 stars today",
-      "stars_total": "127,425"
+      "stars_today": "431 stars today",
+      "stars_total": "127,583"
     },
     {
       "name": "openclaw/openclaw",
@@ -56,31 +56,31 @@
       "description": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞",
       "language": "TypeScript",
       "stars_today": "136 stars today",
-      "stars_total": "390,920"
+      "stars_total": "390,993"
     },
     {
       "name": "ComposioHQ/awesome-claude-skills",
       "url": "https://github.com/ComposioHQ/awesome-claude-skills",
       "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
       "language": "Python",
-      "stars_today": "118 stars today",
-      "stars_total": "76,053"
+      "stars_today": "123 stars today",
+      "stars_total": "76,143"
     },
     {
       "name": "mattpocock/skills",
       "url": "https://github.com/mattpocock/skills",
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "language": "Shell",
-      "stars_today": "908 stars today",
-      "stars_total": "272,825"
+      "stars_today": "876 stars today",
+      "stars_total": "273,026"
     },
     {
       "name": "heygen-com/hyperframes",
       "url": "https://github.com/heygen-com/hyperframes",
       "description": "Write HTML. Render video. Built for agents.",
       "language": "TypeScript",
-      "stars_today": "352 stars today",
-      "stars_total": "54,587"
+      "stars_today": "349 stars today",
+      "stars_total": "54,754"
     }
   ],
   "ai_repos": [
@@ -89,40 +89,40 @@
       "url": "https://github.com/NVIDIA/OpenShell",
       "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
       "language": "Rust",
-      "stars_today": "1,280 stars today",
-      "stars_total": "12,097"
+      "stars_today": "1,281 stars today",
+      "stars_total": "12,743"
     },
     {
       "name": "mvschwarz/openrig",
       "url": "https://github.com/mvschwarz/openrig",
       "description": "Multi-agent harness that runs Claude Code and Codex together as one system",
       "language": "TypeScript",
-      "stars_today": "622 stars today",
-      "stars_total": "2,862"
+      "stars_today": "624 stars today",
+      "stars_total": "3,041"
     },
     {
       "name": "mksglu/context-mode",
       "url": "https://github.com/mksglu/context-mode",
       "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
       "language": "TypeScript",
-      "stars_today": "88 stars today",
-      "stars_total": "24,392"
+      "stars_today": "90 stars today",
+      "stars_total": "24,504"
     },
     {
       "name": "DietrichGebert/ponytail",
       "url": "https://github.com/DietrichGebert/ponytail",
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
       "language": "JavaScript",
-      "stars_today": "865 stars today",
-      "stars_total": "148,932"
+      "stars_today": "743 stars today",
+      "stars_total": "149,220"
     },
     {
       "name": "harry0703/MoneyPrinterTurbo",
       "url": "https://github.com/harry0703/MoneyPrinterTurbo",
       "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
       "language": "Python",
-      "stars_today": "464 stars today",
-      "stars_total": "127,425"
+      "stars_today": "431 stars today",
+      "stars_total": "127,583"
     },
     {
       "name": "openclaw/openclaw",
@@ -130,31 +130,31 @@
       "description": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞",
       "language": "TypeScript",
       "stars_today": "136 stars today",
-      "stars_total": "390,920"
+      "stars_total": "390,993"
     },
     {
       "name": "ComposioHQ/awesome-claude-skills",
       "url": "https://github.com/ComposioHQ/awesome-claude-skills",
       "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
       "language": "Python",
-      "stars_today": "118 stars today",
-      "stars_total": "76,053"
+      "stars_today": "123 stars today",
+      "stars_total": "76,143"
     },
     {
       "name": "mattpocock/skills",
       "url": "https://github.com/mattpocock/skills",
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "language": "Shell",
-      "stars_today": "908 stars today",
-      "stars_total": "272,825"
+      "stars_today": "876 stars today",
+      "stars_total": "273,026"
     },
     {
       "name": "heygen-com/hyperframes",
       "url": "https://github.com/heygen-com/hyperframes",
       "description": "Write HTML. Render video. Built for agents.",
       "language": "TypeScript",
-      "stars_today": "352 stars today",
-      "stars_total": "54,587"
+      "stars_today": "349 stars today",
+      "stars_total": "54,754"
     }
   ],
   "posts": [
