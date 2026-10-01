@@ -1,163 +1,193 @@
 {
-  "date": "2026-10-01",
+  "date": "2026-10-02",
   "slot": "早报",
   "all_repos": [
-    {
-      "name": "NVIDIA/OpenShell",
-      "url": "https://github.com/NVIDIA/OpenShell",
-      "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
-      "language": "Rust",
-      "stars_today": "1,281 stars today",
-      "stars_total": "12,743"
-    },
-    {
-      "name": "debpalash/VoiceStudio",
-      "url": "https://github.com/debpalash/VoiceStudio",
-      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
-      "language": "Python",
-      "stars_today": "3,483 stars today",
-      "stars_total": "50,483"
-    },
-    {
-      "name": "mvschwarz/openrig",
-      "url": "https://github.com/mvschwarz/openrig",
-      "description": "Multi-agent harness that runs Claude Code and Codex together as one system",
-      "language": "TypeScript",
-      "stars_today": "624 stars today",
-      "stars_total": "3,041"
-    },
-    {
-      "name": "mksglu/context-mode",
-      "url": "https://github.com/mksglu/context-mode",
-      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
-      "language": "TypeScript",
-      "stars_today": "90 stars today",
-      "stars_total": "24,504"
-    },
     {
       "name": "DietrichGebert/ponytail",
       "url": "https://github.com/DietrichGebert/ponytail",
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
       "language": "JavaScript",
-      "stars_today": "743 stars today",
-      "stars_total": "149,220"
-    },
-    {
-      "name": "harry0703/MoneyPrinterTurbo",
-      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
-      "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
-      "language": "Python",
-      "stars_today": "431 stars today",
-      "stars_total": "127,583"
-    },
-    {
-      "name": "openclaw/openclaw",
-      "url": "https://github.com/openclaw/openclaw",
-      "description": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞",
-      "language": "TypeScript",
-      "stars_today": "136 stars today",
-      "stars_total": "390,993"
-    },
-    {
-      "name": "ComposioHQ/awesome-claude-skills",
-      "url": "https://github.com/ComposioHQ/awesome-claude-skills",
-      "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
-      "language": "Python",
-      "stars_today": "123 stars today",
-      "stars_total": "76,143"
+      "stars_today": "1,179 stars today",
+      "stars_total": "150,205"
     },
     {
       "name": "mattpocock/skills",
       "url": "https://github.com/mattpocock/skills",
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "language": "Shell",
-      "stars_today": "876 stars today",
-      "stars_total": "273,026"
+      "stars_today": "888 stars today",
+      "stars_total": "273,678"
+    },
+    {
+      "name": "NVIDIA/OpenShell",
+      "url": "https://github.com/NVIDIA/OpenShell",
+      "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
+      "language": "Rust",
+      "stars_today": "2,503 stars today",
+      "stars_total": "13,881"
+    },
+    {
+      "name": "firebase/firebase-ios-sdk",
+      "url": "https://github.com/firebase/firebase-ios-sdk",
+      "description": "Firebase SDK for Apple App Development",
+      "language": "C++",
+      "stars_today": "112 stars today",
+      "stars_total": "6,839"
+    },
+    {
+      "name": "mvschwarz/openrig",
+      "url": "https://github.com/mvschwarz/openrig",
+      "description": "Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.",
+      "language": "TypeScript",
+      "stars_today": "640 stars today",
+      "stars_total": "3,553"
+    },
+    {
+      "name": "cursor/plugins",
+      "url": "https://github.com/cursor/plugins",
+      "description": "Cursor plugin specification and official plugins",
+      "language": "TypeScript",
+      "stars_today": "157 stars today",
+      "stars_total": "9,286"
+    },
+    {
+      "name": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars_today": "476 stars today",
+      "stars_total": "293,854"
+    },
+    {
+      "name": "mksglu/context-mode",
+      "url": "https://github.com/mksglu/context-mode",
+      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+      "language": "TypeScript",
+      "stars_today": "357 stars today",
+      "stars_total": "24,719"
     },
     {
       "name": "heygen-com/hyperframes",
       "url": "https://github.com/heygen-com/hyperframes",
       "description": "Write HTML. Render video. Built for agents.",
       "language": "TypeScript",
-      "stars_today": "349 stars today",
-      "stars_total": "54,754"
+      "stars_today": "624 stars today",
+      "stars_total": "55,210"
+    },
+    {
+      "name": "earendil-works/pi",
+      "url": "https://github.com/earendil-works/pi",
+      "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
+      "language": "TypeScript",
+      "stars_today": "294 stars today",
+      "stars_total": "111,067"
     }
   ],
   "ai_repos": [
     {
-      "name": "NVIDIA/OpenShell",
-      "url": "https://github.com/NVIDIA/OpenShell",
-      "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
-      "language": "Rust",
-      "stars_today": "1,281 stars today",
-      "stars_total": "12,743"
-    },
-    {
-      "name": "mvschwarz/openrig",
-      "url": "https://github.com/mvschwarz/openrig",
-      "description": "Multi-agent harness that runs Claude Code and Codex together as one system",
-      "language": "TypeScript",
-      "stars_today": "624 stars today",
-      "stars_total": "3,041"
-    },
-    {
-      "name": "mksglu/context-mode",
-      "url": "https://github.com/mksglu/context-mode",
-      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
-      "language": "TypeScript",
-      "stars_today": "90 stars today",
-      "stars_total": "24,504"
-    },
-    {
       "name": "DietrichGebert/ponytail",
       "url": "https://github.com/DietrichGebert/ponytail",
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
       "language": "JavaScript",
-      "stars_today": "743 stars today",
-      "stars_total": "149,220"
-    },
-    {
-      "name": "harry0703/MoneyPrinterTurbo",
-      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
-      "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
-      "language": "Python",
-      "stars_today": "431 stars today",
-      "stars_total": "127,583"
-    },
-    {
-      "name": "openclaw/openclaw",
-      "url": "https://github.com/openclaw/openclaw",
-      "description": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞",
-      "language": "TypeScript",
-      "stars_today": "136 stars today",
-      "stars_total": "390,993"
-    },
-    {
-      "name": "ComposioHQ/awesome-claude-skills",
-      "url": "https://github.com/ComposioHQ/awesome-claude-skills",
-      "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
-      "language": "Python",
-      "stars_today": "123 stars today",
-      "stars_total": "76,143"
+      "stars_today": "1,179 stars today",
+      "stars_total": "150,205"
     },
     {
       "name": "mattpocock/skills",
       "url": "https://github.com/mattpocock/skills",
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "language": "Shell",
-      "stars_today": "876 stars today",
-      "stars_total": "273,026"
+      "stars_today": "888 stars today",
+      "stars_total": "273,678"
+    },
+    {
+      "name": "NVIDIA/OpenShell",
+      "url": "https://github.com/NVIDIA/OpenShell",
+      "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
+      "language": "Rust",
+      "stars_today": "2,503 stars today",
+      "stars_total": "13,881"
+    },
+    {
+      "name": "mvschwarz/openrig",
+      "url": "https://github.com/mvschwarz/openrig",
+      "description": "Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.",
+      "language": "TypeScript",
+      "stars_today": "640 stars today",
+      "stars_total": "3,553"
+    },
+    {
+      "name": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars_today": "476 stars today",
+      "stars_total": "293,854"
+    },
+    {
+      "name": "mksglu/context-mode",
+      "url": "https://github.com/mksglu/context-mode",
+      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+      "language": "TypeScript",
+      "stars_today": "357 stars today",
+      "stars_total": "24,719"
     },
     {
       "name": "heygen-com/hyperframes",
       "url": "https://github.com/heygen-com/hyperframes",
       "description": "Write HTML. Render video. Built for agents.",
       "language": "TypeScript",
-      "stars_today": "349 stars today",
-      "stars_total": "54,754"
+      "stars_today": "624 stars today",
+      "stars_total": "55,210"
+    },
+    {
+      "name": "earendil-works/pi",
+      "url": "https://github.com/earendil-works/pi",
+      "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
+      "language": "TypeScript",
+      "stars_today": "294 stars today",
+      "stars_total": "111,067"
     }
   ],
   "posts": [
+    {
+      "topic": "ponytail",
+      "repo": "DietrichGebert/ponytail",
+      "cover_line1": "ponytail",
+      "cover_line2": "今日 GitHub 热榜！",
+      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**DietrichGebert/ponytail**\n\n📌 Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.\n\n🔗 https://github.com/DietrichGebert/ponytail\n\n关注我，每天第一时间 AI 动态 👇",
+      "tags": [
+        "AI",
+        "GitHub",
+        "开源",
+        "热门项目",
+        "大模型",
+        "机器学习",
+        "深度学习",
+        "AI工具",
+        "技术",
+        "炼丹"
+      ]
+    },
+    {
+      "topic": "skills",
+      "repo": "mattpocock/skills",
+      "cover_line1": "skills",
+      "cover_line2": "今日 GitHub 热榜！",
+      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**mattpocock/skills**\n\n📌 Skills for Real Engineers. Straight from my .agents directory.\n\n🔗 https://github.com/mattpocock/skills\n\n关注我，每天第一时间 AI 动态 👇",
+      "tags": [
+        "AI",
+        "GitHub",
+        "开源",
+        "热门项目",
+        "大模型",
+        "机器学习",
+        "深度学习",
+        "AI工具",
+        "技术",
+        "炼丹"
+      ]
+    },
     {
       "topic": "OpenShell",
       "repo": "NVIDIA/OpenShell",
@@ -182,45 +212,7 @@
       "repo": "mvschwarz/openrig",
       "cover_line1": "openrig",
       "cover_line2": "今日 GitHub 热榜！",
-      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**mvschwarz/openrig**\n\n📌 Multi-agent harness that runs Claude Code and Codex together as one system\n\n🔗 https://github.com/mvschwarz/openrig\n\n关注我，每天第一时间 AI 动态 👇",
-      "tags": [
-        "AI",
-        "GitHub",
-        "开源",
-        "热门项目",
-        "大模型",
-        "机器学习",
-        "深度学习",
-        "AI工具",
-        "技术",
-        "炼丹"
-      ]
-    },
-    {
-      "topic": "context-mode",
-      "repo": "mksglu/context-mode",
-      "cover_line1": "context-mo",
-      "cover_line2": "今日 GitHub 热榜！",
-      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**mksglu/context-mode**\n\n📌 Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.\n\n🔗 https://github.com/mksglu/context-mode\n\n关注我，每天第一时间 AI 动态 👇",
-      "tags": [
-        "AI",
-        "GitHub",
-        "开源",
-        "热门项目",
-        "大模型",
-        "机器学习",
-        "深度学习",
-        "AI工具",
-        "技术",
-        "炼丹"
-      ]
-    },
-    {
-      "topic": "ponytail",
-      "repo": "DietrichGebert/ponytail",
-      "cover_line1": "ponytail",
-      "cover_line2": "今日 GitHub 热榜！",
-      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**DietrichGebert/ponytail**\n\n📌 Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.\n\n🔗 https://github.com/DietrichGebert/ponytail\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**mvschwarz/openrig**\n\n📌 Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.\n\n🔗 https://github.com/mvschwarz/openrig\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "GitHub",
@@ -236,10 +228,10 @@
     }
   ],
   "image_paths": [
-    "assets/2026-10-01/trending/summary.png",
-    "assets/2026-10-01/trending/post1.png",
-    "assets/2026-10-01/trending/post2.png",
-    "assets/2026-10-01/trending/post3.png",
-    "assets/2026-10-01/trending/post4.png"
+    "assets/2026-10-02/trending/summary.png",
+    "assets/2026-10-02/trending/post1.png",
+    "assets/2026-10-02/trending/post2.png",
+    "assets/2026-10-02/trending/post3.png",
+    "assets/2026-10-02/trending/post4.png"
   ]
 }
