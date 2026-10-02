@@ -1,11 +1,11 @@
 {
-  "date": "2026-10-01",
+  "date": "2026-10-02",
   "posts": [
     {
-      "topic": "Gemini 4 Argon",
-      "cover_line1": "Gemini 4 A",
+      "topic": "Clef: Open-weight de",
+      "cover_line1": "Clef: Open",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Gemini 4 Argon**\n\n📌 来源：HackerNews\n🔗 https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Clef: Open-weight decision models, and new RL fine-tuning platform**\n\n📌 来源：HackerNews\n🔗 https://blog.cloudflare.com/clef-decision-models/\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -20,10 +20,10 @@
       ]
     },
     {
-      "topic": "Surprisingly complex",
-      "cover_line1": "Surprising",
+      "topic": "Show HN: Janus – Go ",
+      "cover_line1": "Show HN: J",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Surprisingly complex waves reveal the brain's inner workings**\n\n📌 来源：HackerNews\n🔗 https://www.quantamagazine.org/surprisingly-complex-waves-reveal-the-brains-inner-workings-20260930/\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Show HN: Janus – Go binary that runs GGUF models via Vulkan on AMD/Intel/Nvidia**\n\n📌 来源：HackerNews\n🔗 https://github.com/Vibra-Ingenn/Janus\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -38,10 +38,10 @@
       ]
     },
     {
-      "topic": "Launch HN: Magnitude",
-      "cover_line1": "Launch HN:",
+      "topic": "Vote on which of Hac",
+      "cover_line1": "Vote on wh",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents**\n\n📌 来源：HackerNews\n🔗 https://github.com/magnitudedev/magnitude\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Vote on which of Hacker News' challenges for AI have been met**\n\n📌 来源：HackerNews\n🔗 https://stoppels.ch/goalposts/\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -56,10 +56,10 @@
       ]
     },
     {
-      "topic": "Halfspace experiment",
-      "cover_line1": "Halfspace ",
+      "topic": "Aweb – Communication",
+      "cover_line1": "Aweb – Com",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Halfspace experimental IDE for solid modeling with distance fields**\n\n📌 来源：HackerNews\n🔗 https://www.mattkeeter.com/projects/halfspace/\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Aweb – Communication for AI Agents**\n\n📌 来源：HackerNews\n🔗 https://aweb.ai\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -75,15 +75,15 @@
     }
   ],
   "image_paths": [
-    "assets/2026-10-01/cover1.png",
-    "assets/2026-10-01/cover2.png",
-    "assets/2026-10-01/cover3.png",
-    "assets/2026-10-01/cover4.png"
+    "assets/2026-10-02/cover1.png",
+    "assets/2026-10-02/cover2.png",
+    "assets/2026-10-02/cover3.png",
+    "assets/2026-10-02/cover4.png"
   ],
   "feishu_image_paths": [
-    "assets/2026-10-01/cover1_feishu.png",
-    "assets/2026-10-01/cover2_feishu.png",
-    "assets/2026-10-01/cover3_feishu.png",
-    "assets/2026-10-01/cover4_feishu.png"
+    "assets/2026-10-02/cover1_feishu.png",
+    "assets/2026-10-02/cover2_feishu.png",
+    "assets/2026-10-02/cover3_feishu.png",
+    "assets/2026-10-02/cover4_feishu.png"
   ]
 }
