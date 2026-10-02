@@ -1,155 +1,228 @@
 {
-  "date": "2026-10-02",
+  "date": "2026-10-03",
   "slot": "早报",
   "all_repos": [
     {
-      "name": "DietrichGebert/ponytail",
-      "url": "https://github.com/DietrichGebert/ponytail",
-      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "language": "JavaScript",
-      "stars_today": "1,194 stars today",
-      "stars_total": "150,562"
+      "name": "Panniantong/Agent-Reach",
+      "url": "https://github.com/Panniantong/Agent-Reach",
+      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "language": "Python",
+      "stars_today": "683 stars today",
+      "stars_total": "88,299"
     },
     {
-      "name": "mattpocock/skills",
-      "url": "https://github.com/mattpocock/skills",
-      "description": "Skills for Real Engineers. Straight from my .agents directory.",
-      "language": "Shell",
-      "stars_today": "883 stars today",
-      "stars_total": "273,934"
-    },
-    {
-      "name": "NVIDIA/OpenShell",
-      "url": "https://github.com/NVIDIA/OpenShell",
-      "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
-      "language": "Rust",
-      "stars_today": "2,456 stars today",
-      "stars_total": "14,042"
-    },
-    {
-      "name": "firebase/firebase-ios-sdk",
-      "url": "https://github.com/firebase/firebase-ios-sdk",
-      "description": "Firebase SDK for Apple App Development",
-      "language": "C++",
-      "stars_today": "112 stars today",
-      "stars_total": "6,865"
-    },
-    {
-      "name": "mvschwarz/openrig",
-      "url": "https://github.com/mvschwarz/openrig",
-      "description": "Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.",
-      "language": "TypeScript",
-      "stars_today": "642 stars today",
-      "stars_total": "3,747"
-    },
-    {
-      "name": "cursor/plugins",
-      "url": "https://github.com/cursor/plugins",
-      "description": "Cursor plugin specification and official plugins",
-      "language": "TypeScript",
-      "stars_today": "150 stars today",
-      "stars_total": "9,326"
+      "name": "JuliusBrussee/caveman",
+      "url": "https://github.com/JuliusBrussee/caveman",
+      "description": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
+      "language": "Go",
+      "stars_today": "271 stars today",
+      "stars_total": "108,975"
     },
     {
       "name": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
-      "stars_today": "455 stars today",
-      "stars_total": "293,988"
+      "stars_today": "561 stars today",
+      "stars_total": "294,331"
     },
     {
-      "name": "mksglu/context-mode",
-      "url": "https://github.com/mksglu/context-mode",
-      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
-      "language": "TypeScript",
-      "stars_today": "362 stars today",
-      "stars_total": "24,793"
+      "name": "DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "language": "JavaScript",
+      "stars_today": "1,429 stars today",
+      "stars_total": "151,446"
+    },
+    {
+      "name": "pbakaus/impeccable",
+      "url": "https://github.com/pbakaus/impeccable",
+      "description": "The design language that makes your AI harness better at design.",
+      "language": "JavaScript",
+      "stars_today": "717 stars today",
+      "stars_total": "74,141"
+    },
+    {
+      "name": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "language": "Shell",
+      "stars_today": "955 stars today",
+      "stars_total": "274,546"
+    },
+    {
+      "name": "NVIDIA/OpenShell",
+      "url": "https://github.com/NVIDIA/OpenShell",
+      "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
+      "language": "Rust",
+      "stars_today": "584 stars today",
+      "stars_total": "14,339"
+    },
+    {
+      "name": "coreyhaines31/marketingskills",
+      "url": "https://github.com/coreyhaines31/marketingskills",
+      "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
+      "language": "JavaScript",
+      "stars_today": "139 stars today",
+      "stars_total": "52,321"
     },
     {
       "name": "heygen-com/hyperframes",
       "url": "https://github.com/heygen-com/hyperframes",
       "description": "Write HTML. Render video. Built for agents.",
       "language": "TypeScript",
-      "stars_today": "627 stars today",
-      "stars_total": "55,363"
+      "stars_today": "584 stars today",
+      "stars_total": "55,762"
     },
     {
-      "name": "earendil-works/pi",
-      "url": "https://github.com/earendil-works/pi",
-      "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
+      "name": "mksglu/context-mode",
+      "url": "https://github.com/mksglu/context-mode",
+      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
       "language": "TypeScript",
-      "stars_today": "298 stars today",
-      "stars_total": "111,252"
+      "stars_today": "276 stars today",
+      "stars_total": "24,972"
     }
   ],
   "ai_repos": [
     {
-      "name": "DietrichGebert/ponytail",
-      "url": "https://github.com/DietrichGebert/ponytail",
-      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "language": "JavaScript",
-      "stars_today": "1,194 stars today",
-      "stars_total": "150,562"
+      "name": "Panniantong/Agent-Reach",
+      "url": "https://github.com/Panniantong/Agent-Reach",
+      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "language": "Python",
+      "stars_today": "683 stars today",
+      "stars_total": "88,299"
     },
     {
-      "name": "mattpocock/skills",
-      "url": "https://github.com/mattpocock/skills",
-      "description": "Skills for Real Engineers. Straight from my .agents directory.",
-      "language": "Shell",
-      "stars_today": "883 stars today",
-      "stars_total": "273,934"
-    },
-    {
-      "name": "NVIDIA/OpenShell",
-      "url": "https://github.com/NVIDIA/OpenShell",
-      "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
-      "language": "Rust",
-      "stars_today": "2,456 stars today",
-      "stars_total": "14,042"
-    },
-    {
-      "name": "mvschwarz/openrig",
-      "url": "https://github.com/mvschwarz/openrig",
-      "description": "Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.",
-      "language": "TypeScript",
-      "stars_today": "642 stars today",
-      "stars_total": "3,747"
+      "name": "JuliusBrussee/caveman",
+      "url": "https://github.com/JuliusBrussee/caveman",
+      "description": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
+      "language": "Go",
+      "stars_today": "271 stars today",
+      "stars_total": "108,975"
     },
     {
       "name": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
-      "stars_today": "455 stars today",
-      "stars_total": "293,988"
+      "stars_today": "561 stars today",
+      "stars_total": "294,331"
     },
     {
-      "name": "mksglu/context-mode",
-      "url": "https://github.com/mksglu/context-mode",
-      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
-      "language": "TypeScript",
-      "stars_today": "362 stars today",
-      "stars_total": "24,793"
+      "name": "DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "language": "JavaScript",
+      "stars_today": "1,429 stars today",
+      "stars_total": "151,446"
+    },
+    {
+      "name": "pbakaus/impeccable",
+      "url": "https://github.com/pbakaus/impeccable",
+      "description": "The design language that makes your AI harness better at design.",
+      "language": "JavaScript",
+      "stars_today": "717 stars today",
+      "stars_total": "74,141"
+    },
+    {
+      "name": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "language": "Shell",
+      "stars_today": "955 stars today",
+      "stars_total": "274,546"
+    },
+    {
+      "name": "NVIDIA/OpenShell",
+      "url": "https://github.com/NVIDIA/OpenShell",
+      "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
+      "language": "Rust",
+      "stars_today": "584 stars today",
+      "stars_total": "14,339"
+    },
+    {
+      "name": "coreyhaines31/marketingskills",
+      "url": "https://github.com/coreyhaines31/marketingskills",
+      "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
+      "language": "JavaScript",
+      "stars_today": "139 stars today",
+      "stars_total": "52,321"
     },
     {
       "name": "heygen-com/hyperframes",
       "url": "https://github.com/heygen-com/hyperframes",
       "description": "Write HTML. Render video. Built for agents.",
       "language": "TypeScript",
-      "stars_today": "627 stars today",
-      "stars_total": "55,363"
+      "stars_today": "584 stars today",
+      "stars_total": "55,762"
     },
     {
-      "name": "earendil-works/pi",
-      "url": "https://github.com/earendil-works/pi",
-      "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
+      "name": "mksglu/context-mode",
+      "url": "https://github.com/mksglu/context-mode",
+      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
       "language": "TypeScript",
-      "stars_today": "298 stars today",
-      "stars_total": "111,252"
+      "stars_today": "276 stars today",
+      "stars_total": "24,972"
     }
   ],
   "posts": [
+    {
+      "topic": "Agent-Reach",
+      "repo": "Panniantong/Agent-Reach",
+      "cover_line1": "Agent-Reac",
+      "cover_line2": "今日 GitHub 热榜！",
+      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**Panniantong/Agent-Reach**\n\n📌 Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.\n\n🔗 https://github.com/Panniantong/Agent-Reach\n\n关注我，每天第一时间 AI 动态 👇",
+      "tags": [
+        "AI",
+        "GitHub",
+        "开源",
+        "热门项目",
+        "大模型",
+        "机器学习",
+        "深度学习",
+        "AI工具",
+        "技术",
+        "炼丹"
+      ]
+    },
+    {
+      "topic": "caveman",
+      "repo": "JuliusBrussee/caveman",
+      "cover_line1": "caveman",
+      "cover_line2": "今日 GitHub 热榜！",
+      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**JuliusBrussee/caveman**\n\n📌 🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.\n\n🔗 https://github.com/JuliusBrussee/caveman\n\n关注我，每天第一时间 AI 动态 👇",
+      "tags": [
+        "AI",
+        "GitHub",
+        "开源",
+        "热门项目",
+        "大模型",
+        "机器学习",
+        "深度学习",
+        "AI工具",
+        "技术",
+        "炼丹"
+      ]
+    },
+    {
+      "topic": "superpowers",
+      "repo": "obra/superpowers",
+      "cover_line1": "superpower",
+      "cover_line2": "今日 GitHub 热榜！",
+      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**obra/superpowers**\n\n📌 An agentic skills framework & software development methodology that works.\n\n🔗 https://github.com/obra/superpowers\n\n关注我，每天第一时间 AI 动态 👇",
+      "tags": [
+        "AI",
+        "GitHub",
+        "开源",
+        "热门项目",
+        "大模型",
+        "机器学习",
+        "深度学习",
+        "AI工具",
+        "技术",
+        "炼丹"
+      ]
+    },
     {
       "topic": "ponytail",
       "repo": "DietrichGebert/ponytail",
@@ -168,70 +241,13 @@
         "技术",
         "炼丹"
       ]
-    },
-    {
-      "topic": "skills",
-      "repo": "mattpocock/skills",
-      "cover_line1": "skills",
-      "cover_line2": "今日 GitHub 热榜！",
-      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**mattpocock/skills**\n\n📌 Skills for Real Engineers. Straight from my .agents directory.\n\n🔗 https://github.com/mattpocock/skills\n\n关注我，每天第一时间 AI 动态 👇",
-      "tags": [
-        "AI",
-        "GitHub",
-        "开源",
-        "热门项目",
-        "大模型",
-        "机器学习",
-        "深度学习",
-        "AI工具",
-        "技术",
-        "炼丹"
-      ]
-    },
-    {
-      "topic": "OpenShell",
-      "repo": "NVIDIA/OpenShell",
-      "cover_line1": "OpenShell",
-      "cover_line2": "今日 GitHub 热榜！",
-      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**NVIDIA/OpenShell**\n\n📌 OpenShell is the safe, private runtime for autonomous AI agents.\n\n🔗 https://github.com/NVIDIA/OpenShell\n\n关注我，每天第一时间 AI 动态 👇",
-      "tags": [
-        "AI",
-        "GitHub",
-        "开源",
-        "热门项目",
-        "大模型",
-        "机器学习",
-        "深度学习",
-        "AI工具",
-        "技术",
-        "炼丹"
-      ]
-    },
-    {
-      "topic": "openrig",
-      "repo": "mvschwarz/openrig",
-      "cover_line1": "openrig",
-      "cover_line2": "今日 GitHub 热榜！",
-      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**mvschwarz/openrig**\n\n📌 Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.\n\n🔗 https://github.com/mvschwarz/openrig\n\n关注我，每天第一时间 AI 动态 👇",
-      "tags": [
-        "AI",
-        "GitHub",
-        "开源",
-        "热门项目",
-        "大模型",
-        "机器学习",
-        "深度学习",
-        "AI工具",
-        "技术",
-        "炼丹"
-      ]
     }
   ],
   "image_paths": [
-    "assets/2026-10-02/trending/summary.png",
-    "assets/2026-10-02/trending/post1.png",
-    "assets/2026-10-02/trending/post2.png",
-    "assets/2026-10-02/trending/post3.png",
-    "assets/2026-10-02/trending/post4.png"
+    "assets/2026-10-03/trending/summary.png",
+    "assets/2026-10-03/trending/post1.png",
+    "assets/2026-10-03/trending/post2.png",
+    "assets/2026-10-03/trending/post3.png",
+    "assets/2026-10-03/trending/post4.png"
   ]
 }
