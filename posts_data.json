@@ -1,11 +1,11 @@
 {
-  "date": "2026-10-02",
+  "date": "2026-10-03",
   "posts": [
     {
-      "topic": "Clef: Open-weight de",
-      "cover_line1": "Clef: Open",
+      "topic": "With most informatio",
+      "cover_line1": "With most ",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Clef: Open-weight decision models, and new RL fine-tuning platform**\n\n📌 来源：HackerNews\n🔗 https://blog.cloudflare.com/clef-decision-models/\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**With most information hidden, the game Stratego had stumped AI until now**\n\n📌 来源：HackerNews\n🔗 https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -20,10 +20,10 @@
       ]
     },
     {
-      "topic": "Show HN: Janus – Go ",
-      "cover_line1": "Show HN: J",
+      "topic": "From the creator of ",
+      "cover_line1": "From the c",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Show HN: Janus – Go binary that runs GGUF models via Vulkan on AMD/Intel/Nvidia**\n\n📌 来源：HackerNews\n🔗 https://github.com/Vibra-Ingenn/Janus\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**From the creator of Redis; run LLM locally with ds4**\n\n📌 来源：HackerNews\n🔗 https://dwarfstar.sh/\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -38,10 +38,10 @@
       ]
     },
     {
-      "topic": "Vote on which of Hac",
-      "cover_line1": "Vote on wh",
+      "topic": "Greg Kroah-Hartman –",
+      "cover_line1": "Greg Kroah",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Vote on which of Hacker News' challenges for AI have been met**\n\n📌 来源：HackerNews\n🔗 https://stoppels.ch/goalposts/\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Greg Kroah-Hartman – Security in the LLM Age [video]**\n\n📌 来源：HackerNews\n🔗 https://www.youtube.com/watch?v=NnV_cWeoo5Q\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -56,10 +56,10 @@
       ]
     },
     {
-      "topic": "Aweb – Communication",
-      "cover_line1": "Aweb – Com",
+      "topic": "Show HN: Made an ope",
+      "cover_line1": "Show HN: M",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Aweb – Communication for AI Agents**\n\n📌 来源：HackerNews\n🔗 https://aweb.ai\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Show HN: Made an open-source Lego AI generator**\n\n📌 来源：HackerNews\n🔗 https://github.com/anteloc/ldraw-nova\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -75,15 +75,15 @@
     }
   ],
   "image_paths": [
-    "assets/2026-10-02/cover1.png",
-    "assets/2026-10-02/cover2.png",
-    "assets/2026-10-02/cover3.png",
-    "assets/2026-10-02/cover4.png"
+    "assets/2026-10-03/cover1.png",
+    "assets/2026-10-03/cover2.png",
+    "assets/2026-10-03/cover3.png",
+    "assets/2026-10-03/cover4.png"
   ],
   "feishu_image_paths": [
-    "assets/2026-10-02/cover1_feishu.png",
-    "assets/2026-10-02/cover2_feishu.png",
-    "assets/2026-10-02/cover3_feishu.png",
-    "assets/2026-10-02/cover4_feishu.png"
+    "assets/2026-10-03/cover1_feishu.png",
+    "assets/2026-10-03/cover2_feishu.png",
+    "assets/2026-10-03/cover3_feishu.png",
+    "assets/2026-10-03/cover4_feishu.png"
   ]
 }
