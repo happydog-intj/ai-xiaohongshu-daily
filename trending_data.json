@@ -7,40 +7,40 @@
       "url": "https://github.com/Panniantong/Agent-Reach",
       "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
       "language": "Python",
-      "stars_today": "683 stars today",
-      "stars_total": "88,299"
+      "stars_today": "696 stars today",
+      "stars_total": "88,670"
     },
     {
       "name": "JuliusBrussee/caveman",
       "url": "https://github.com/JuliusBrussee/caveman",
       "description": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
       "language": "Go",
-      "stars_today": "271 stars today",
-      "stars_total": "108,975"
+      "stars_today": "209 stars today",
+      "stars_total": "109,110"
     },
     {
       "name": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
-      "stars_today": "561 stars today",
-      "stars_total": "294,331"
+      "stars_today": "556 stars today",
+      "stars_total": "294,477"
     },
     {
       "name": "DietrichGebert/ponytail",
       "url": "https://github.com/DietrichGebert/ponytail",
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
       "language": "JavaScript",
-      "stars_today": "1,429 stars today",
-      "stars_total": "151,446"
+      "stars_today": "1,435 stars today",
+      "stars_total": "151,841"
     },
     {
       "name": "pbakaus/impeccable",
       "url": "https://github.com/pbakaus/impeccable",
       "description": "The design language that makes your AI harness better at design.",
       "language": "JavaScript",
-      "stars_today": "717 stars today",
-      "stars_total": "74,141"
+      "stars_today": "722 stars today",
+      "stars_total": "74,337"
     },
     {
       "name": "mattpocock/skills",
@@ -48,39 +48,39 @@
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "language": "Shell",
       "stars_today": "955 stars today",
-      "stars_total": "274,546"
+      "stars_total": "274,728"
     },
     {
       "name": "NVIDIA/OpenShell",
       "url": "https://github.com/NVIDIA/OpenShell",
       "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
       "language": "Rust",
-      "stars_today": "584 stars today",
-      "stars_total": "14,339"
+      "stars_today": "594 stars today",
+      "stars_total": "14,442"
     },
     {
       "name": "coreyhaines31/marketingskills",
       "url": "https://github.com/coreyhaines31/marketingskills",
       "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
       "language": "JavaScript",
-      "stars_today": "139 stars today",
-      "stars_total": "52,321"
+      "stars_today": "140 stars today",
+      "stars_total": "52,421"
     },
     {
       "name": "heygen-com/hyperframes",
       "url": "https://github.com/heygen-com/hyperframes",
       "description": "Write HTML. Render video. Built for agents.",
       "language": "TypeScript",
-      "stars_today": "584 stars today",
-      "stars_total": "55,762"
+      "stars_today": "580 stars today",
+      "stars_total": "55,913"
     },
     {
       "name": "mksglu/context-mode",
       "url": "https://github.com/mksglu/context-mode",
       "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
       "language": "TypeScript",
-      "stars_today": "276 stars today",
-      "stars_total": "24,972"
+      "stars_today": "282 stars today",
+      "stars_total": "25,047"
     }
   ],
   "ai_repos": [
@@ -89,40 +89,40 @@
       "url": "https://github.com/Panniantong/Agent-Reach",
       "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
       "language": "Python",
-      "stars_today": "683 stars today",
-      "stars_total": "88,299"
+      "stars_today": "696 stars today",
+      "stars_total": "88,670"
     },
     {
       "name": "JuliusBrussee/caveman",
       "url": "https://github.com/JuliusBrussee/caveman",
       "description": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
       "language": "Go",
-      "stars_today": "271 stars today",
-      "stars_total": "108,975"
+      "stars_today": "209 stars today",
+      "stars_total": "109,110"
     },
     {
       "name": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
-      "stars_today": "561 stars today",
-      "stars_total": "294,331"
+      "stars_today": "556 stars today",
+      "stars_total": "294,477"
     },
     {
       "name": "DietrichGebert/ponytail",
       "url": "https://github.com/DietrichGebert/ponytail",
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
       "language": "JavaScript",
-      "stars_today": "1,429 stars today",
-      "stars_total": "151,446"
+      "stars_today": "1,435 stars today",
+      "stars_total": "151,841"
     },
     {
       "name": "pbakaus/impeccable",
       "url": "https://github.com/pbakaus/impeccable",
       "description": "The design language that makes your AI harness better at design.",
       "language": "JavaScript",
-      "stars_today": "717 stars today",
-      "stars_total": "74,141"
+      "stars_today": "722 stars today",
+      "stars_total": "74,337"
     },
     {
       "name": "mattpocock/skills",
@@ -130,39 +130,39 @@
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "language": "Shell",
       "stars_today": "955 stars today",
-      "stars_total": "274,546"
+      "stars_total": "274,728"
     },
     {
       "name": "NVIDIA/OpenShell",
       "url": "https://github.com/NVIDIA/OpenShell",
       "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
       "language": "Rust",
-      "stars_today": "584 stars today",
-      "stars_total": "14,339"
+      "stars_today": "594 stars today",
+      "stars_total": "14,442"
     },
     {
       "name": "coreyhaines31/marketingskills",
       "url": "https://github.com/coreyhaines31/marketingskills",
       "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
       "language": "JavaScript",
-      "stars_today": "139 stars today",
-      "stars_total": "52,321"
+      "stars_today": "140 stars today",
+      "stars_total": "52,421"
     },
     {
       "name": "heygen-com/hyperframes",
       "url": "https://github.com/heygen-com/hyperframes",
       "description": "Write HTML. Render video. Built for agents.",
       "language": "TypeScript",
-      "stars_today": "584 stars today",
-      "stars_total": "55,762"
+      "stars_today": "580 stars today",
+      "stars_total": "55,913"
     },
     {
       "name": "mksglu/context-mode",
       "url": "https://github.com/mksglu/context-mode",
       "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
       "language": "TypeScript",
-      "stars_today": "276 stars today",
-      "stars_total": "24,972"
+      "stars_today": "282 stars today",
+      "stars_total": "25,047"
     }
   ],
   "posts": [
