@@ -1,11 +1,11 @@
 {
-  "date": "2026-10-03",
+  "date": "2026-10-04",
   "posts": [
     {
-      "topic": "With most informatio",
-      "cover_line1": "With most ",
+      "topic": "OpenAI safety leader",
+      "cover_line1": "OpenAI saf",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**With most information hidden, the game Stratego had stumped AI until now**\n\n📌 来源：HackerNews\n🔗 https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**OpenAI safety leader quits, warning AI company's culture is 'broken'**\n\n📌 来源：HackerNews\n🔗 https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -20,10 +20,10 @@
       ]
     },
     {
-      "topic": "From the creator of ",
-      "cover_line1": "From the c",
+      "topic": "Kolibri: A Sovereign",
+      "cover_line1": "Kolibri: A",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**From the creator of Redis; run LLM locally with ds4**\n\n📌 来源：HackerNews\n🔗 https://dwarfstar.sh/\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Kolibri: A Sovereign Open-Weight Model**\n\n📌 来源：HackerNews\n🔗 https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -38,10 +38,10 @@
       ]
     },
     {
-      "topic": "Greg Kroah-Hartman –",
-      "cover_line1": "Greg Kroah",
+      "topic": "Getting the most out",
+      "cover_line1": "Getting th",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Greg Kroah-Hartman – Security in the LLM Age [video]**\n\n📌 来源：HackerNews\n🔗 https://www.youtube.com/watch?v=NnV_cWeoo5Q\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Getting the most out of Opus 5.5 in Claude and Claude Code**\n\n📌 来源：HackerNews\n🔗 https://claude.dev/blog/getting-the-most-out-of-opus-5-5/\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -56,10 +56,10 @@
       ]
     },
     {
-      "topic": "Show HN: Made an ope",
-      "cover_line1": "Show HN: M",
+      "topic": "Agents don't need me",
+      "cover_line1": "Agents don",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Show HN: Made an open-source Lego AI generator**\n\n📌 来源：HackerNews\n🔗 https://github.com/anteloc/ldraw-nova\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Agents don't need memory, they need documentation**\n\n📌 来源：HackerNews\n🔗 https://liao.gg/blog/agents-dont-need-memory\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -75,15 +75,15 @@
     }
   ],
   "image_paths": [
-    "assets/2026-10-03/cover1.png",
-    "assets/2026-10-03/cover2.png",
-    "assets/2026-10-03/cover3.png",
-    "assets/2026-10-03/cover4.png"
+    "assets/2026-10-04/cover1.png",
+    "assets/2026-10-04/cover2.png",
+    "assets/2026-10-04/cover3.png",
+    "assets/2026-10-04/cover4.png"
   ],
   "feishu_image_paths": [
-    "assets/2026-10-03/cover1_feishu.png",
-    "assets/2026-10-03/cover2_feishu.png",
-    "assets/2026-10-03/cover3_feishu.png",
-    "assets/2026-10-03/cover4_feishu.png"
+    "assets/2026-10-04/cover1_feishu.png",
+    "assets/2026-10-04/cover2_feishu.png",
+    "assets/2026-10-04/cover3_feishu.png",
+    "assets/2026-10-04/cover4_feishu.png"
   ]
 }
