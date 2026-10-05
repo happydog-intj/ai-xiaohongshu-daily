@@ -7,24 +7,24 @@
       "url": "https://github.com/tester-army/e2e",
       "description": "Next generation e2e testing framework for web and mobile apps.",
       "language": "TypeScript",
-      "stars_today": "344 stars today",
-      "stars_total": "2,744"
+      "stars_today": "345 stars today",
+      "stars_total": "3,143"
     },
     {
       "name": "pbakaus/impeccable",
       "url": "https://github.com/pbakaus/impeccable",
       "description": "The design language that makes your AI harness better at design.",
       "language": "JavaScript",
-      "stars_today": "1,170 stars today",
-      "stars_total": "76,029"
+      "stars_today": "1,171 stars today",
+      "stars_total": "76,312"
     },
     {
       "name": "coreyhaines31/marketingskills",
       "url": "https://github.com/coreyhaines31/marketingskills",
       "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
       "language": "JavaScript",
-      "stars_today": "270 stars today",
-      "stars_total": "52,911"
+      "stars_today": "197 stars today",
+      "stars_total": "53,085"
     },
     {
       "name": "DietrichGebert/ponytail",
@@ -32,23 +32,23 @@
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
       "language": "JavaScript",
       "stars_today": "1,894 stars today",
-      "stars_total": "154,499"
+      "stars_total": "154,903"
     },
     {
       "name": "earthtojake/text-to-cad",
       "url": "https://github.com/earthtojake/text-to-cad",
       "description": "Give your agent CAD superpowers.",
       "language": "Python",
-      "stars_today": "75 stars today",
-      "stars_total": "16,743"
+      "stars_today": "83 stars today",
+      "stars_total": "16,875"
     },
     {
       "name": "Panniantong/Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
       "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
       "language": "Python",
-      "stars_today": "979 stars today",
-      "stars_total": "90,589"
+      "stars_today": "980 stars today",
+      "stars_total": "90,910"
     },
     {
       "name": "getsentry/sentry",
@@ -56,31 +56,31 @@
       "description": "Developer-first error tracking and performance monitoring",
       "language": "Python",
       "stars_today": "152 stars today",
-      "stars_total": "45,326"
+      "stars_total": "45,390"
     },
     {
       "name": "calesthio/OpenMontage",
       "url": "https://github.com/calesthio/OpenMontage",
       "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
       "language": "Python",
-      "stars_today": "361 stars today",
-      "stars_total": "63,001"
+      "stars_today": "245 stars today",
+      "stars_total": "63,236"
     },
     {
       "name": "pingdotgg/t3code",
       "url": "https://github.com/pingdotgg/t3code",
       "description": "",
       "language": "TypeScript",
-      "stars_today": "492 stars today",
-      "stars_total": "25,028"
+      "stars_today": "490 stars today",
+      "stars_total": "25,184"
     },
     {
       "name": "caddyserver/caddy",
       "url": "https://github.com/caddyserver/caddy",
       "description": "Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS",
       "language": "Go",
-      "stars_today": "31 stars today",
-      "stars_total": "76,409"
+      "stars_today": "24 stars today",
+      "stars_total": "76,571"
     }
   ],
   "ai_repos": [
@@ -89,16 +89,16 @@
       "url": "https://github.com/pbakaus/impeccable",
       "description": "The design language that makes your AI harness better at design.",
       "language": "JavaScript",
-      "stars_today": "1,170 stars today",
-      "stars_total": "76,029"
+      "stars_today": "1,171 stars today",
+      "stars_total": "76,312"
     },
     {
       "name": "coreyhaines31/marketingskills",
       "url": "https://github.com/coreyhaines31/marketingskills",
       "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
       "language": "JavaScript",
-      "stars_today": "270 stars today",
-      "stars_total": "52,911"
+      "stars_today": "197 stars today",
+      "stars_total": "53,085"
     },
     {
       "name": "DietrichGebert/ponytail",
@@ -106,31 +106,31 @@
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
       "language": "JavaScript",
       "stars_today": "1,894 stars today",
-      "stars_total": "154,499"
+      "stars_total": "154,903"
     },
     {
       "name": "earthtojake/text-to-cad",
       "url": "https://github.com/earthtojake/text-to-cad",
       "description": "Give your agent CAD superpowers.",
       "language": "Python",
-      "stars_today": "75 stars today",
-      "stars_total": "16,743"
+      "stars_today": "83 stars today",
+      "stars_total": "16,875"
     },
     {
       "name": "Panniantong/Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
       "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
       "language": "Python",
-      "stars_today": "979 stars today",
-      "stars_total": "90,589"
+      "stars_today": "980 stars today",
+      "stars_total": "90,910"
     },
     {
       "name": "calesthio/OpenMontage",
       "url": "https://github.com/calesthio/OpenMontage",
       "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
       "language": "Python",
-      "stars_today": "361 stars today",
-      "stars_total": "63,001"
+      "stars_today": "245 stars today",
+      "stars_total": "63,236"
     }
   ],
   "posts": [
