@@ -1,11 +1,11 @@
 {
-  "date": "2026-10-04",
+  "date": "2026-10-05",
   "posts": [
     {
-      "topic": "OpenAI safety leader",
-      "cover_line1": "OpenAI saf",
+      "topic": "Homa: The end of TCP",
+      "cover_line1": "Homa: The ",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**OpenAI safety leader quits, warning AI company's culture is 'broken'**\n\n📌 来源：HackerNews\n🔗 https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Homa: The end of TCP for AI clusters [video]**\n\n📌 来源：HackerNews\n🔗 https://www.youtube.com/watch?v=eZ8WWZzoaR0\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -20,10 +20,10 @@
       ]
     },
     {
-      "topic": "Kolibri: A Sovereign",
-      "cover_line1": "Kolibri: A",
+      "topic": "How to scale intent,",
+      "cover_line1": "How to sca",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Kolibri: A Sovereign Open-Weight Model**\n\n📌 来源：HackerNews\n🔗 https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**How to scale intent, quality, and artistry with AI [video]**\n\n📌 来源：HackerNews\n🔗 https://www.youtube.com/watch?v=GLvFTMtw4Jk\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -38,10 +38,10 @@
       ]
     },
     {
-      "topic": "Getting the most out",
-      "cover_line1": "Getting th",
+      "topic": "Show HN: AI search f",
+      "cover_line1": "Show HN: A",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Getting the most out of Opus 5.5 in Claude and Claude Code**\n\n📌 来源：HackerNews\n🔗 https://claude.dev/blog/getting-the-most-out-of-opus-5-5/\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Show HN: AI search for every photo and every frame of video on macOS**\n\n📌 来源：HackerNews\n🔗 https://github.com/allenv0/SCM\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -56,10 +56,10 @@
       ]
     },
     {
-      "topic": "Agents don't need me",
-      "cover_line1": "Agents don",
+      "topic": "Interview with Chick",
+      "cover_line1": "Interview ",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Agents don't need memory, they need documentation**\n\n📌 来源：HackerNews\n🔗 https://liao.gg/blog/agents-dont-need-memory\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Interview with Chicken Scheme Maintainer Sjamaan/Peter Bex**\n\n📌 来源：HackerNews\n🔗 https://alexalejandre.com/interviews/peter-bex/\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -75,15 +75,15 @@
     }
   ],
   "image_paths": [
-    "assets/2026-10-04/cover1.png",
-    "assets/2026-10-04/cover2.png",
-    "assets/2026-10-04/cover3.png",
-    "assets/2026-10-04/cover4.png"
+    "assets/2026-10-05/cover1.png",
+    "assets/2026-10-05/cover2.png",
+    "assets/2026-10-05/cover3.png",
+    "assets/2026-10-05/cover4.png"
   ],
   "feishu_image_paths": [
-    "assets/2026-10-04/cover1_feishu.png",
-    "assets/2026-10-04/cover2_feishu.png",
-    "assets/2026-10-04/cover3_feishu.png",
-    "assets/2026-10-04/cover4_feishu.png"
+    "assets/2026-10-05/cover1_feishu.png",
+    "assets/2026-10-05/cover2_feishu.png",
+    "assets/2026-10-05/cover3_feishu.png",
+    "assets/2026-10-05/cover4_feishu.png"
   ]
 }
