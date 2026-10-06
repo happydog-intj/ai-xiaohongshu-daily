@@ -7,8 +7,8 @@
       "url": "https://github.com/tester-army/e2e",
       "description": "Next generation e2e testing framework for web and mobile apps.",
       "language": "TypeScript",
-      "stars_today": "1,430 stars today",
-      "stars_total": "4,555"
+      "stars_today": "1,398 stars today",
+      "stars_total": "4,901"
     },
     {
       "name": "thedotmack/claude-mem",
@@ -16,71 +16,71 @@
       "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
       "language": "TypeScript",
       "stars_today": "534 stars today",
-      "stars_total": "96,574"
+      "stars_total": "96,666"
     },
     {
       "name": "earthtojake/text-to-cad",
       "url": "https://github.com/earthtojake/text-to-cad",
       "description": "Give your agent CAD superpowers.",
       "language": "Python",
-      "stars_today": "456 stars today",
-      "stars_total": "17,337"
+      "stars_today": "437 stars today",
+      "stars_total": "17,474"
     },
     {
       "name": "pingdotgg/t3code",
       "url": "https://github.com/pingdotgg/t3code",
       "description": "",
       "language": "TypeScript",
-      "stars_today": "487 stars today",
-      "stars_total": "25,553"
+      "stars_today": "485 stars today",
+      "stars_total": "25,642"
     },
     {
       "name": "boykopovar/AnyPS5",
       "url": "https://github.com/boykopovar/AnyPS5",
       "description": "Tool for automatic PS5 executables porting to Linux and Windows",
       "language": "C++",
-      "stars_today": "994 stars today",
-      "stars_total": "4,836"
+      "stars_today": "997 stars today",
+      "stars_total": "5,000"
     },
     {
       "name": "Panniantong/Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
       "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
       "language": "Python",
-      "stars_today": "1,156 stars today",
-      "stars_total": "91,796"
+      "stars_today": "1,155 stars today",
+      "stars_total": "91,957"
     },
     {
       "name": "calesthio/OpenMontage",
       "url": "https://github.com/calesthio/OpenMontage",
       "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
       "language": "Python",
-      "stars_today": "758 stars today",
-      "stars_total": "63,910"
+      "stars_today": "742 stars today",
+      "stars_total": "64,105"
     },
     {
       "name": "caddyserver/caddy",
       "url": "https://github.com/caddyserver/caddy",
       "description": "Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS",
       "language": "Go",
-      "stars_today": "526 stars today",
-      "stars_total": "77,041"
+      "stars_today": "515 stars today",
+      "stars_total": "77,159"
     },
     {
       "name": "DuarteSantos8/openGym",
       "url": "https://github.com/DuarteSantos8/openGym",
       "description": "Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server.",
       "language": "JavaScript",
-      "stars_today": "1,444 stars today",
-      "stars_total": "4,060"
+      "stars_today": "1,433 stars today",
+      "stars_total": "4,293"
     },
     {
       "name": "cloudflare/cloudflare-os",
       "url": "https://github.com/cloudflare/cloudflare-os",
       "description": "Agent workspace built on Cloudflare Workers for creating documents, building apps, and running agents with your company’s context and systems.",
       "language": "TypeScript",
-      "stars_today": "102 stars today",
-      "stars_total": "10,961"
+      "stars_today": "101 stars today",
+      "stars_total": "11,035"
     }
   ],
   "ai_repos": [
@@ -90,47 +90,47 @@
       "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
       "language": "TypeScript",
       "stars_today": "534 stars today",
-      "stars_total": "96,574"
+      "stars_total": "96,666"
     },
     {
       "name": "earthtojake/text-to-cad",
       "url": "https://github.com/earthtojake/text-to-cad",
       "description": "Give your agent CAD superpowers.",
       "language": "Python",
-      "stars_today": "456 stars today",
-      "stars_total": "17,337"
+      "stars_today": "437 stars today",
+      "stars_total": "17,474"
     },
     {
       "name": "Panniantong/Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
       "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
       "language": "Python",
-      "stars_today": "1,156 stars today",
-      "stars_total": "91,796"
+      "stars_today": "1,155 stars today",
+      "stars_total": "91,957"
     },
     {
       "name": "calesthio/OpenMontage",
       "url": "https://github.com/calesthio/OpenMontage",
       "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
       "language": "Python",
-      "stars_today": "758 stars today",
-      "stars_total": "63,910"
+      "stars_today": "742 stars today",
+      "stars_total": "64,105"
     },
     {
       "name": "DuarteSantos8/openGym",
       "url": "https://github.com/DuarteSantos8/openGym",
       "description": "Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server.",
       "language": "JavaScript",
-      "stars_today": "1,444 stars today",
-      "stars_total": "4,060"
+      "stars_today": "1,433 stars today",
+      "stars_total": "4,293"
     },
     {
       "name": "cloudflare/cloudflare-os",
       "url": "https://github.com/cloudflare/cloudflare-os",
       "description": "Agent workspace built on Cloudflare Workers for creating documents, building apps, and running agents with your company’s context and systems.",
       "language": "TypeScript",
-      "stars_today": "102 stars today",
-      "stars_total": "10,961"
+      "stars_today": "101 stars today",
+      "stars_total": "11,035"
     }
   ],
   "posts": [
