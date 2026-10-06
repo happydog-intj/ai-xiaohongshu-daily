@@ -1,11 +1,11 @@
 {
-  "date": "2026-10-05",
+  "date": "2026-10-06",
   "posts": [
     {
-      "topic": "Homa: The end of TCP",
-      "cover_line1": "Homa: The ",
+      "topic": "ChatGPT is adding re",
+      "cover_line1": "ChatGPT is",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Homa: The end of TCP for AI clusters [video]**\n\n📌 来源：HackerNews\n🔗 https://www.youtube.com/watch?v=eZ8WWZzoaR0\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**ChatGPT is adding real cartoonists' signatures to fake New Yorker cartoons**\n\n📌 来源：HackerNews\n🔗 https://www.niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons/\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -20,10 +20,10 @@
       ]
     },
     {
-      "topic": "How to scale intent,",
-      "cover_line1": "How to sca",
+      "topic": "Beam: Reflection's 5",
+      "cover_line1": "Beam: Refl",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**How to scale intent, quality, and artistry with AI [video]**\n\n📌 来源：HackerNews\n🔗 https://www.youtube.com/watch?v=GLvFTMtw4Jk\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Beam: Reflection's 501B open-weight model**\n\n📌 来源：HackerNews\n🔗 https://reflection.ai/blog/introducing-beam\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -38,10 +38,10 @@
       ]
     },
     {
-      "topic": "Show HN: AI search f",
-      "cover_line1": "Show HN: A",
+      "topic": "AI Tutoring with Kha",
+      "cover_line1": "AI Tutorin",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Show HN: AI search for every photo and every frame of video on macOS**\n\n📌 来源：HackerNews\n🔗 https://github.com/allenv0/SCM\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**AI Tutoring with Khanmigo in a Two-Year School Experiment**\n\n📌 来源：HackerNews\n🔗 https://edworkingpapers.com/ai26-1551\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -56,10 +56,10 @@
       ]
     },
     {
-      "topic": "Interview with Chick",
-      "cover_line1": "Interview ",
+      "topic": "Dust: Pretraining Tr",
+      "cover_line1": "Dust: Pret",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Interview with Chicken Scheme Maintainer Sjamaan/Peter Bex**\n\n📌 来源：HackerNews\n🔗 https://alexalejandre.com/interviews/peter-bex/\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Dust: Pretraining Transformers Without Backpropagation**\n\n📌 来源：HackerNews\n🔗 https://qlabs.sh/research/dust\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -75,15 +75,15 @@
     }
   ],
   "image_paths": [
-    "assets/2026-10-05/cover1.png",
-    "assets/2026-10-05/cover2.png",
-    "assets/2026-10-05/cover3.png",
-    "assets/2026-10-05/cover4.png"
+    "assets/2026-10-06/cover1.png",
+    "assets/2026-10-06/cover2.png",
+    "assets/2026-10-06/cover3.png",
+    "assets/2026-10-06/cover4.png"
   ],
   "feishu_image_paths": [
-    "assets/2026-10-05/cover1_feishu.png",
-    "assets/2026-10-05/cover2_feishu.png",
-    "assets/2026-10-05/cover3_feishu.png",
-    "assets/2026-10-05/cover4_feishu.png"
+    "assets/2026-10-06/cover1_feishu.png",
+    "assets/2026-10-06/cover2_feishu.png",
+    "assets/2026-10-06/cover3_feishu.png",
+    "assets/2026-10-06/cover4_feishu.png"
   ]
 }
