@@ -7,56 +7,56 @@
       "url": "https://github.com/morluto/rea",
       "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
       "language": "TypeScript",
-      "stars_today": "4,666 stars today",
-      "stars_total": "13,772"
+      "stars_today": "4,655 stars today",
+      "stars_total": "15,695"
     },
     {
       "name": "mattpocock/skills",
       "url": "https://github.com/mattpocock/skills",
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "language": "Shell",
-      "stars_today": "1,406 stars today",
-      "stars_total": "279,322"
+      "stars_today": "1,403 stars today",
+      "stars_total": "279,709"
     },
     {
       "name": "boykopovar/AnyPS5",
       "url": "https://github.com/boykopovar/AnyPS5",
       "description": "Tool for automatic PS5 executables porting to Linux and Windows",
       "language": "C++",
-      "stars_today": "2,725 stars today",
-      "stars_total": "9,640"
+      "stars_today": "2,716 stars today",
+      "stars_total": "10,802"
     },
     {
       "name": "ayghri/i-have-adhd",
       "url": "https://github.com/ayghri/i-have-adhd",
       "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
       "language": "Python",
-      "stars_today": "620 stars today",
-      "stars_total": "54,961"
+      "stars_today": "619 stars today",
+      "stars_total": "55,184"
     },
     {
       "name": "cathrynlavery/diagram-design",
       "url": "https://github.com/cathrynlavery/diagram-design",
       "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
       "language": "HTML",
-      "stars_today": "828 stars today",
-      "stars_total": "44,794"
+      "stars_today": "825 stars today",
+      "stars_total": "45,059"
     },
     {
       "name": "addyosmani/agent-skills",
       "url": "https://github.com/addyosmani/agent-skills",
       "description": "Production-grade engineering skills for AI coding agents.",
       "language": "JavaScript",
-      "stars_today": "693 stars today",
-      "stars_total": "102,639"
+      "stars_today": "677 stars today",
+      "stars_total": "102,862"
     },
     {
       "name": "EpicGames/raddebugger",
       "url": "https://github.com/EpicGames/raddebugger",
       "description": "A native, user-mode, multi-process, graphical debugger.",
       "language": "C",
-      "stars_today": "82 stars today",
-      "stars_total": "7,798"
+      "stars_today": "90 stars today",
+      "stars_total": "7,884"
     },
     {
       "name": "thedotmack/claude-mem",
@@ -64,23 +64,23 @@
       "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
       "language": "TypeScript",
       "stars_today": "578 stars today",
-      "stars_total": "97,590"
+      "stars_total": "97,769"
     },
     {
       "name": "manaflow-ai/cmux",
       "url": "https://github.com/manaflow-ai/cmux",
       "description": "Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability.",
       "language": "Swift",
-      "stars_today": "96 stars today",
-      "stars_total": "27,784"
+      "stars_today": "44 stars today",
+      "stars_total": "27,871"
     },
     {
       "name": "trycua/cua",
       "url": "https://github.com/trycua/cua",
       "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
       "language": "Rust",
-      "stars_today": "229 stars today",
-      "stars_total": "28,680"
+      "stars_today": "228 stars today",
+      "stars_total": "28,780"
     }
   ],
   "ai_repos": [
@@ -89,40 +89,40 @@
       "url": "https://github.com/morluto/rea",
       "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
       "language": "TypeScript",
-      "stars_today": "4,666 stars today",
-      "stars_total": "13,772"
+      "stars_today": "4,655 stars today",
+      "stars_total": "15,695"
     },
     {
       "name": "mattpocock/skills",
       "url": "https://github.com/mattpocock/skills",
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "language": "Shell",
-      "stars_today": "1,406 stars today",
-      "stars_total": "279,322"
+      "stars_today": "1,403 stars today",
+      "stars_total": "279,709"
     },
     {
       "name": "ayghri/i-have-adhd",
       "url": "https://github.com/ayghri/i-have-adhd",
       "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
       "language": "Python",
-      "stars_today": "620 stars today",
-      "stars_total": "54,961"
+      "stars_today": "619 stars today",
+      "stars_total": "55,184"
     },
     {
       "name": "cathrynlavery/diagram-design",
       "url": "https://github.com/cathrynlavery/diagram-design",
       "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
       "language": "HTML",
-      "stars_today": "828 stars today",
-      "stars_total": "44,794"
+      "stars_today": "825 stars today",
+      "stars_total": "45,059"
     },
     {
       "name": "addyosmani/agent-skills",
       "url": "https://github.com/addyosmani/agent-skills",
       "description": "Production-grade engineering skills for AI coding agents.",
       "language": "JavaScript",
-      "stars_today": "693 stars today",
-      "stars_total": "102,639"
+      "stars_today": "677 stars today",
+      "stars_total": "102,862"
     },
     {
       "name": "thedotmack/claude-mem",
@@ -130,23 +130,23 @@
       "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
       "language": "TypeScript",
       "stars_today": "578 stars today",
-      "stars_total": "97,590"
+      "stars_total": "97,769"
     },
     {
       "name": "manaflow-ai/cmux",
       "url": "https://github.com/manaflow-ai/cmux",
       "description": "Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability.",
       "language": "Swift",
-      "stars_today": "96 stars today",
-      "stars_total": "27,784"
+      "stars_today": "44 stars today",
+      "stars_total": "27,871"
     },
     {
       "name": "trycua/cua",
       "url": "https://github.com/trycua/cua",
       "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
       "language": "Rust",
-      "stars_today": "229 stars today",
-      "stars_total": "28,680"
+      "stars_today": "228 stars today",
+      "stars_total": "28,780"
     }
   ],
   "posts": [
