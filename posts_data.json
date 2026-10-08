@@ -1,11 +1,11 @@
 {
-  "date": "2026-10-07",
+  "date": "2026-10-08",
   "posts": [
     {
-      "topic": "Sharing AI progress ",
-      "cover_line1": "Sharing AI",
+      "topic": "Claude Haiku 5.5",
+      "cover_line1": "Claude Hai",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Sharing AI progress in mathematics**\n\n📌 来源：HackerNews\n🔗 https://openai.com/index/sharing-ai-progress-in-mathematics/\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Claude Haiku 5.5**\n\n📌 来源：HackerNews\n🔗 https://www.anthropic.com/claude-haiku-5-5\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -20,10 +20,10 @@
       ]
     },
     {
-      "topic": "Mistral Large 4",
-      "cover_line1": "Mistral La",
+      "topic": "GPT‑6 and Intelligen",
+      "cover_line1": "GPT‑6 and ",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Mistral Large 4**\n\n📌 来源：HackerNews\n🔗 https://mistral.ai/news/mistral-large-4/\\\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**GPT‑6 and Intelligent UI for everyone**\n\n📌 来源：HackerNews\n🔗 https://openai.com/index/gpt-6-for-everyone/\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -38,10 +38,10 @@
       ]
     },
     {
-      "topic": "Penguin Mail – open-",
-      "cover_line1": "Penguin Ma",
+      "topic": "Docker Agent",
+      "cover_line1": "Docker Age",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Penguin Mail – open-source Rust email client for Linux with AI**\n\n📌 来源：HackerNews\n🔗 https://penguin-mail.com/\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Docker Agent**\n\n📌 来源：HackerNews\n🔗 https://github.com/docker/docker-agent\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -56,10 +56,10 @@
       ]
     },
     {
-      "topic": "EmbeddingGemma 2: An",
-      "cover_line1": "EmbeddingG",
+      "topic": "A new write and spac",
+      "cover_line1": "A new writ",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**EmbeddingGemma 2: An open, lightweight multimodal embedding model**\n\n📌 来源：HackerNews\n🔗 https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2/\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**A new write and space optimized storage engine for MySQL is here**\n\n📌 来源：HackerNews\n🔗 https://tidesdb.com/articles/tidesdb-now-available-for-mysql/\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -75,15 +75,15 @@
     }
   ],
   "image_paths": [
-    "assets/2026-10-07/cover1.png",
-    "assets/2026-10-07/cover2.png",
-    "assets/2026-10-07/cover3.png",
-    "assets/2026-10-07/cover4.png"
+    "assets/2026-10-08/cover1.png",
+    "assets/2026-10-08/cover2.png",
+    "assets/2026-10-08/cover3.png",
+    "assets/2026-10-08/cover4.png"
   ],
   "feishu_image_paths": [
-    "assets/2026-10-07/cover1_feishu.png",
-    "assets/2026-10-07/cover2_feishu.png",
-    "assets/2026-10-07/cover3_feishu.png",
-    "assets/2026-10-07/cover4_feishu.png"
+    "assets/2026-10-08/cover1_feishu.png",
+    "assets/2026-10-08/cover2_feishu.png",
+    "assets/2026-10-08/cover3_feishu.png",
+    "assets/2026-10-08/cover4_feishu.png"
   ]
 }
