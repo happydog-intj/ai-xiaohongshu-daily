@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-10",
+  "date": "2026-10-11",
   "slot": "早报",
   "all_repos": [
     {
@@ -7,80 +7,80 @@
       "url": "https://github.com/morluto/rea",
       "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
       "language": "TypeScript",
-      "stars_today": "14,927 stars today",
-      "stars_total": "47,677"
+      "stars_today": "25,784 stars today",
+      "stars_total": "66,641"
     },
     {
       "name": "boykopovar/AnyPS5",
       "url": "https://github.com/boykopovar/AnyPS5",
       "description": "Tool for automatic PS5 executables porting to Linux and Windows",
       "language": "C++",
-      "stars_today": "5,868 stars today",
-      "stars_total": "22,559"
-    },
-    {
-      "name": "mattpocock/skills",
-      "url": "https://github.com/mattpocock/skills",
-      "description": "Skills for Real Engineers. Straight from my .agents directory.",
-      "language": "Shell",
-      "stars_today": "1,687 stars today",
-      "stars_total": "282,797"
-    },
-    {
-      "name": "cathrynlavery/diagram-design",
-      "url": "https://github.com/cathrynlavery/diagram-design",
-      "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
-      "language": "HTML",
-      "stars_today": "1,739 stars today",
-      "stars_total": "47,938"
-    },
-    {
-      "name": "alibaba/open-code-review",
-      "url": "https://github.com/alibaba/open-code-review",
-      "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
-      "language": "Go",
-      "stars_today": "326 stars today",
-      "stars_total": "45,283"
-    },
-    {
-      "name": "anthropics/knowledge-work-plugins",
-      "url": "https://github.com/anthropics/knowledge-work-plugins",
-      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
-      "language": "Python",
-      "stars_today": "709 stars today",
-      "stars_total": "28,294"
-    },
-    {
-      "name": "BerriAI/litellm",
-      "url": "https://github.com/BerriAI/litellm",
-      "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging [Bedrock, Azure, OpenAI, Anthropic, OpenAI, VertexAI, vLLM, Nvidia NIM]",
-      "language": "Python",
-      "stars_today": "95 stars today",
-      "stars_total": "60,691"
-    },
-    {
-      "name": "addyosmani/agent-skills",
-      "url": "https://github.com/addyosmani/agent-skills",
-      "description": "Production-grade engineering skills for AI coding agents.",
-      "language": "JavaScript",
-      "stars_today": "436 stars today",
-      "stars_total": "104,019"
+      "stars_today": "5,831 stars today",
+      "stars_total": "25,663"
     },
     {
       "name": "storytold/artcraft",
       "url": "https://github.com/storytold/artcraft",
       "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
       "language": "Rust",
-      "stars_today": "3,752 stars today",
-      "stars_total": "11,639"
+      "stars_today": "3,217 stars today",
+      "stars_total": "13,631"
     },
     {
-      "name": "Robbyant/lingbot-map",
-      "url": "https://github.com/Robbyant/lingbot-map",
-      "description": "[ECCV 2026 Best Paper Award Candidate] LingBot-Map: Geometric Context Transformer for Streaming 3D Reconstruction",
+      "name": "cathrynlavery/diagram-design",
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "language": "HTML",
+      "stars_today": "1,189 stars today",
+      "stars_total": "48,691"
+    },
+    {
+      "name": "mksglu/context-mode",
+      "url": "https://github.com/mksglu/context-mode",
+      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+      "language": "TypeScript",
+      "stars_today": "178 stars today",
+      "stars_total": "26,175"
+    },
+    {
+      "name": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "language": "Shell",
+      "stars_today": "1,737 stars today",
+      "stars_total": "284,043"
+    },
+    {
+      "name": "flutter/flutter",
+      "url": "https://github.com/flutter/flutter",
+      "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
+      "language": "Dart",
+      "stars_today": "164 stars today",
+      "stars_total": "179,379"
+    },
+    {
+      "name": "tensorflow/tensorflow",
+      "url": "https://github.com/tensorflow/tensorflow",
+      "description": "An Open Source Machine Learning Framework for Everyone",
+      "language": "C++",
+      "stars_today": "24 stars today",
+      "stars_total": "200,659"
+    },
+    {
+      "name": "hugohe3/ppt-master",
+      "url": "https://github.com/hugohe3/ppt-master",
+      "description": "AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support for your own .pptx templates. · by Hugo He",
       "language": "Python",
-      "stars_today": "110 stars today",
-      "stars_total": "17,727"
+      "stars_today": "515 stars today",
+      "stars_total": "59,221"
+    },
+    {
+      "name": "pytorch/pytorch",
+      "url": "https://github.com/pytorch/pytorch",
+      "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+      "language": "Python",
+      "stars_today": "81 stars today",
+      "stars_total": "104,084"
     }
   ],
   "ai_repos": [
@@ -89,64 +89,48 @@
       "url": "https://github.com/morluto/rea",
       "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
       "language": "TypeScript",
-      "stars_today": "14,927 stars today",
-      "stars_total": "47,677"
+      "stars_today": "25,784 stars today",
+      "stars_total": "66,641"
+    },
+    {
+      "name": "cathrynlavery/diagram-design",
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "language": "HTML",
+      "stars_today": "1,189 stars today",
+      "stars_total": "48,691"
+    },
+    {
+      "name": "mksglu/context-mode",
+      "url": "https://github.com/mksglu/context-mode",
+      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+      "language": "TypeScript",
+      "stars_today": "178 stars today",
+      "stars_total": "26,175"
     },
     {
       "name": "mattpocock/skills",
       "url": "https://github.com/mattpocock/skills",
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "language": "Shell",
-      "stars_today": "1,687 stars today",
-      "stars_total": "282,797"
+      "stars_today": "1,737 stars today",
+      "stars_total": "284,043"
     },
     {
-      "name": "cathrynlavery/diagram-design",
-      "url": "https://github.com/cathrynlavery/diagram-design",
-      "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
-      "language": "HTML",
-      "stars_today": "1,739 stars today",
-      "stars_total": "47,938"
-    },
-    {
-      "name": "alibaba/open-code-review",
-      "url": "https://github.com/alibaba/open-code-review",
-      "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
-      "language": "Go",
-      "stars_today": "326 stars today",
-      "stars_total": "45,283"
-    },
-    {
-      "name": "anthropics/knowledge-work-plugins",
-      "url": "https://github.com/anthropics/knowledge-work-plugins",
-      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "name": "hugohe3/ppt-master",
+      "url": "https://github.com/hugohe3/ppt-master",
+      "description": "AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support for your own .pptx templates. · by Hugo He",
       "language": "Python",
-      "stars_today": "709 stars today",
-      "stars_total": "28,294"
+      "stars_today": "515 stars today",
+      "stars_total": "59,221"
     },
     {
-      "name": "BerriAI/litellm",
-      "url": "https://github.com/BerriAI/litellm",
-      "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging [Bedrock, Azure, OpenAI, Anthropic, OpenAI, VertexAI, vLLM, Nvidia NIM]",
+      "name": "pytorch/pytorch",
+      "url": "https://github.com/pytorch/pytorch",
+      "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
       "language": "Python",
-      "stars_today": "95 stars today",
-      "stars_total": "60,691"
-    },
-    {
-      "name": "addyosmani/agent-skills",
-      "url": "https://github.com/addyosmani/agent-skills",
-      "description": "Production-grade engineering skills for AI coding agents.",
-      "language": "JavaScript",
-      "stars_today": "436 stars today",
-      "stars_total": "104,019"
-    },
-    {
-      "name": "Robbyant/lingbot-map",
-      "url": "https://github.com/Robbyant/lingbot-map",
-      "description": "[ECCV 2026 Best Paper Award Candidate] LingBot-Map: Geometric Context Transformer for Streaming 3D Reconstruction",
-      "language": "Python",
-      "stars_today": "110 stars today",
-      "stars_total": "17,727"
+      "stars_today": "81 stars today",
+      "stars_total": "104,084"
     }
   ],
   "posts": [
@@ -156,6 +140,44 @@
       "cover_line1": "rea",
       "cover_line2": "今日 GitHub 热榜！",
       "body": "🔥 GitHub Trending 今日爆款来了！\n\n**morluto/rea**\n\n📌 Reverse engineer anything with agents, from app behavior down to native binaries.\n\n🔗 https://github.com/morluto/rea\n\n关注我，每天第一时间 AI 动态 👇",
+      "tags": [
+        "AI",
+        "GitHub",
+        "开源",
+        "热门项目",
+        "大模型",
+        "机器学习",
+        "深度学习",
+        "AI工具",
+        "技术",
+        "炼丹"
+      ]
+    },
+    {
+      "topic": "diagram-design",
+      "repo": "cathrynlavery/diagram-design",
+      "cover_line1": "diagram-de",
+      "cover_line2": "今日 GitHub 热榜！",
+      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**cathrynlavery/diagram-design**\n\n📌 Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.\n\n🔗 https://github.com/cathrynlavery/diagram-design\n\n关注我，每天第一时间 AI 动态 👇",
+      "tags": [
+        "AI",
+        "GitHub",
+        "开源",
+        "热门项目",
+        "大模型",
+        "机器学习",
+        "深度学习",
+        "AI工具",
+        "技术",
+        "炼丹"
+      ]
+    },
+    {
+      "topic": "context-mode",
+      "repo": "mksglu/context-mode",
+      "cover_line1": "context-mo",
+      "cover_line2": "今日 GitHub 热榜！",
+      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**mksglu/context-mode**\n\n📌 Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.\n\n🔗 https://github.com/mksglu/context-mode\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "GitHub",
@@ -187,51 +209,13 @@
         "技术",
         "炼丹"
       ]
-    },
-    {
-      "topic": "diagram-design",
-      "repo": "cathrynlavery/diagram-design",
-      "cover_line1": "diagram-de",
-      "cover_line2": "今日 GitHub 热榜！",
-      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**cathrynlavery/diagram-design**\n\n📌 Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.\n\n🔗 https://github.com/cathrynlavery/diagram-design\n\n关注我，每天第一时间 AI 动态 👇",
-      "tags": [
-        "AI",
-        "GitHub",
-        "开源",
-        "热门项目",
-        "大模型",
-        "机器学习",
-        "深度学习",
-        "AI工具",
-        "技术",
-        "炼丹"
-      ]
-    },
-    {
-      "topic": "open-code-review",
-      "repo": "alibaba/open-code-review",
-      "cover_line1": "open-code-",
-      "cover_line2": "今日 GitHub 热榜！",
-      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**alibaba/open-code-review**\n\n📌 Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.\n\n🔗 https://github.com/alibaba/open-code-review\n\n关注我，每天第一时间 AI 动态 👇",
-      "tags": [
-        "AI",
-        "GitHub",
-        "开源",
-        "热门项目",
-        "大模型",
-        "机器学习",
-        "深度学习",
-        "AI工具",
-        "技术",
-        "炼丹"
-      ]
     }
   ],
   "image_paths": [
-    "assets/2026-10-10/trending/summary.png",
-    "assets/2026-10-10/trending/post1.png",
-    "assets/2026-10-10/trending/post2.png",
-    "assets/2026-10-10/trending/post3.png",
-    "assets/2026-10-10/trending/post4.png"
+    "assets/2026-10-11/trending/summary.png",
+    "assets/2026-10-11/trending/post1.png",
+    "assets/2026-10-11/trending/post2.png",
+    "assets/2026-10-11/trending/post3.png",
+    "assets/2026-10-11/trending/post4.png"
   ]
 }
