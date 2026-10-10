@@ -1,11 +1,11 @@
 {
-  "date": "2026-10-09",
+  "date": "2026-10-10",
   "posts": [
     {
-      "topic": "AI-ready biological ",
-      "cover_line1": "AI-ready b",
+      "topic": "Typesafe AI raises $",
+      "cover_line1": "Typesafe A",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**AI-ready biological data: $1.8B global commitment**\n\n📌 来源：HackerNews\n🔗 https://biohub.org/news/virtual-biology-initiative-expansion/\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Typesafe AI raises $870M at $7.5B**\n\n📌 来源：HackerNews\n🔗 https://typesafe.ai/blog/series-ai\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -20,10 +20,10 @@
       ]
     },
     {
-      "topic": "Show HN: Edi Life OS",
-      "cover_line1": "Show HN: E",
+      "topic": "Anthropic AI model s",
+      "cover_line1": "Anthropic ",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Show HN: Edi Life OS – self-hosted life dashboard with an MCP server for AI**\n\n📌 来源：HackerNews\n🔗 https://github.com/edrisranjbar/lifeos\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Anthropic AI model submits false tip on unsolved Philly murder**\n\n📌 来源：HackerNews\n🔗 https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051/\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -38,10 +38,10 @@
       ]
     },
     {
-      "topic": "Show HN: Jevman – AI",
-      "cover_line1": "Show HN: J",
+      "topic": "Pointing AI at archi",
+      "cover_line1": "Pointing A",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Show HN: Jevman – AI decision models play Pac-Man**\n\n📌 来源：HackerNews\n🔗 https://opper.ai/jevman-benchmark/\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Pointing AI at archives found a forgotten meteorite, lost rhinos, and more**\n\n📌 来源：HackerNews\n🔗 https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives/\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -56,10 +56,10 @@
       ]
     },
     {
-      "topic": "Show HN: Pocketty – ",
-      "cover_line1": "Show HN: P",
+      "topic": "Show HN: Let your AI",
+      "cover_line1": "Show HN: L",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Show HN: Pocketty – iPhone SSH terminal that pings you when an agent is blocked**\n\n📌 来源：HackerNews\n🔗 https://pocketty.app/\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Show HN: Let your AI agents paint big arrows, boxes and text on your screen**\n\n📌 来源：HackerNews\n🔗 https://github.com/franzenzenhofer/big-arrow-on-the-screen\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -75,15 +75,15 @@
     }
   ],
   "image_paths": [
-    "assets/2026-10-09/cover1.png",
-    "assets/2026-10-09/cover2.png",
-    "assets/2026-10-09/cover3.png",
-    "assets/2026-10-09/cover4.png"
+    "assets/2026-10-10/cover1.png",
+    "assets/2026-10-10/cover2.png",
+    "assets/2026-10-10/cover3.png",
+    "assets/2026-10-10/cover4.png"
   ],
   "feishu_image_paths": [
-    "assets/2026-10-09/cover1_feishu.png",
-    "assets/2026-10-09/cover2_feishu.png",
-    "assets/2026-10-09/cover3_feishu.png",
-    "assets/2026-10-09/cover4_feishu.png"
+    "assets/2026-10-10/cover1_feishu.png",
+    "assets/2026-10-10/cover2_feishu.png",
+    "assets/2026-10-10/cover3_feishu.png",
+    "assets/2026-10-10/cover4_feishu.png"
   ]
 }
