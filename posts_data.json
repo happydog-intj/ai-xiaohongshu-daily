@@ -1,11 +1,11 @@
 {
-  "date": "2026-10-10",
+  "date": "2026-10-11",
   "posts": [
     {
-      "topic": "Typesafe AI raises $",
-      "cover_line1": "Typesafe A",
+      "topic": "Build your own decis",
+      "cover_line1": "Build your",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Typesafe AI raises $870M at $7.5B**\n\n📌 来源：HackerNews\n🔗 https://typesafe.ai/blog/series-ai\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Build your own decision model**\n\n📌 来源：HackerNews\n🔗 https://nishtahir.com/build-your-own-decision-model/\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -20,10 +20,10 @@
       ]
     },
     {
-      "topic": "Anthropic AI model s",
-      "cover_line1": "Anthropic ",
+      "topic": "Five months treating",
+      "cover_line1": "Five month",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Anthropic AI model submits false tip on unsolved Philly murder**\n\n📌 来源：HackerNews\n🔗 https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051/\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Five months treating bugs like patients and coding agents like a medical team**\n\n📌 来源：HackerNews\n🔗 https://www.cockroachlabs.com/blog/experiment-running-hospital-code/\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -38,10 +38,10 @@
       ]
     },
     {
-      "topic": "Pointing AI at archi",
-      "cover_line1": "Pointing A",
+      "topic": "Talorys – A self-hos",
+      "cover_line1": "Talorys – ",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Pointing AI at archives found a forgotten meteorite, lost rhinos, and more**\n\n📌 来源：HackerNews\n🔗 https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives/\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Talorys – A self-hosted personal AI agent on Cloudflare's free tier**\n\n📌 来源：HackerNews\n🔗 https://github.com/rociiu/talorys\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -56,10 +56,10 @@
       ]
     },
     {
-      "topic": "Show HN: Let your AI",
-      "cover_line1": "Show HN: L",
+      "topic": "Mxc: Microsoft Execu",
+      "cover_line1": "Mxc: Micro",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Show HN: Let your AI agents paint big arrows, boxes and text on your screen**\n\n📌 来源：HackerNews\n🔗 https://github.com/franzenzenhofer/big-arrow-on-the-screen\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Mxc: Microsoft Execution Containers version 1.0.0**\n\n📌 来源：HackerNews\n🔗 https://blogs.windows.com/windowsdeveloper/2026/10/07/microsoft-execution-containers-policy-driven-containment-for-ai-agents/\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -75,15 +75,15 @@
     }
   ],
   "image_paths": [
-    "assets/2026-10-10/cover1.png",
-    "assets/2026-10-10/cover2.png",
-    "assets/2026-10-10/cover3.png",
-    "assets/2026-10-10/cover4.png"
+    "assets/2026-10-11/cover1.png",
+    "assets/2026-10-11/cover2.png",
+    "assets/2026-10-11/cover3.png",
+    "assets/2026-10-11/cover4.png"
   ],
   "feishu_image_paths": [
-    "assets/2026-10-10/cover1_feishu.png",
-    "assets/2026-10-10/cover2_feishu.png",
-    "assets/2026-10-10/cover3_feishu.png",
-    "assets/2026-10-10/cover4_feishu.png"
+    "assets/2026-10-11/cover1_feishu.png",
+    "assets/2026-10-11/cover2_feishu.png",
+    "assets/2026-10-11/cover3_feishu.png",
+    "assets/2026-10-11/cover4_feishu.png"
   ]
 }
