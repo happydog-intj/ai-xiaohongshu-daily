@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-11",
+  "date": "2026-10-12",
   "slot": "早报",
   "all_repos": [
     {
@@ -7,80 +7,64 @@
       "url": "https://github.com/morluto/rea",
       "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
       "language": "TypeScript",
-      "stars_today": "25,793 stars today",
-      "stars_total": "73,305"
+      "stars_today": "25,585 stars today",
+      "stars_total": "95,709"
     },
     {
       "name": "boykopovar/AnyPS5",
       "url": "https://github.com/boykopovar/AnyPS5",
       "description": "Tool for automatic PS5 executables porting to Linux and Windows",
       "language": "C++",
-      "stars_today": "5,805 stars today",
-      "stars_total": "26,940"
+      "stars_today": "3,977 stars today",
+      "stars_total": "29,169"
     },
     {
       "name": "storytold/artcraft",
       "url": "https://github.com/storytold/artcraft",
       "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
       "language": "Rust",
-      "stars_today": "3,222 stars today",
-      "stars_total": "14,562"
+      "stars_today": "2,956 stars today",
+      "stars_total": "16,908"
     },
     {
       "name": "cathrynlavery/diagram-design",
       "url": "https://github.com/cathrynlavery/diagram-design",
       "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
       "language": "HTML",
-      "stars_today": "1,190 stars today",
-      "stars_total": "48,981"
+      "stars_today": "1,083 stars today",
+      "stars_total": "49,972"
     },
     {
-      "name": "mksglu/context-mode",
-      "url": "https://github.com/mksglu/context-mode",
-      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
-      "language": "TypeScript",
-      "stars_today": "178 stars today",
-      "stars_total": "26,326"
-    },
-    {
-      "name": "mattpocock/skills",
-      "url": "https://github.com/mattpocock/skills",
-      "description": "Skills for Real Engineers. Straight from my .agents directory.",
-      "language": "Shell",
-      "stars_today": "1,736 stars today",
-      "stars_total": "284,531"
-    },
-    {
-      "name": "flutter/flutter",
-      "url": "https://github.com/flutter/flutter",
-      "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
-      "language": "Dart",
-      "stars_today": "88 stars today",
-      "stars_total": "179,530"
-    },
-    {
-      "name": "tensorflow/tensorflow",
-      "url": "https://github.com/tensorflow/tensorflow",
-      "description": "An Open Source Machine Learning Framework for Everyone",
-      "language": "C++",
-      "stars_today": "26 stars today",
-      "stars_total": "200,729"
-    },
-    {
-      "name": "hugohe3/ppt-master",
-      "url": "https://github.com/hugohe3/ppt-master",
-      "description": "AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support for your own .pptx templates. · by Hugo He",
-      "language": "Python",
-      "stars_today": "461 stars today",
-      "stars_total": "59,484"
+      "name": "bilawalsidhu/gods-eye-view",
+      "url": "https://github.com/bilawalsidhu/gods-eye-view",
+      "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+      "language": "JavaScript",
+      "stars_today": "872 stars today",
+      "stars_total": "51,182"
     },
     {
       "name": "pytorch/pytorch",
       "url": "https://github.com/pytorch/pytorch",
       "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
       "language": "Python",
-      "stars_today": "84 stars today",
-      "stars_total": "104,146"
+      "stars_today": "314 stars today",
+      "stars_total": "104,378"
+    },
+    {
+      "name": "lyogavin/airllm",
+      "url": "https://github.com/lyogavin/airllm",
+      "description": "AirLLM 70B inference with single 4GB GPU",
+      "language": "Jupyter Notebook",
+      "stars_today": "541 stars today",
+      "stars_total": "36,286"
+    },
+    {
+      "name": "chrislgarry/Apollo-11",
+      "url": "https://github.com/chrislgarry/Apollo-11",
+      "description": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
+      "language": "Assembly",
+      "stars_today": "496 stars today",
+      "stars_total": "74,050"
     }
   ],
   "ai_repos": [
@@ -89,48 +73,32 @@
       "url": "https://github.com/morluto/rea",
       "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
       "language": "TypeScript",
-      "stars_today": "25,793 stars today",
-      "stars_total": "73,305"
+      "stars_today": "25,585 stars today",
+      "stars_total": "95,709"
     },
     {
       "name": "cathrynlavery/diagram-design",
       "url": "https://github.com/cathrynlavery/diagram-design",
       "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
       "language": "HTML",
-      "stars_today": "1,190 stars today",
-      "stars_total": "48,981"
-    },
-    {
-      "name": "mksglu/context-mode",
-      "url": "https://github.com/mksglu/context-mode",
-      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
-      "language": "TypeScript",
-      "stars_today": "178 stars today",
-      "stars_total": "26,326"
-    },
-    {
-      "name": "mattpocock/skills",
-      "url": "https://github.com/mattpocock/skills",
-      "description": "Skills for Real Engineers. Straight from my .agents directory.",
-      "language": "Shell",
-      "stars_today": "1,736 stars today",
-      "stars_total": "284,531"
-    },
-    {
-      "name": "hugohe3/ppt-master",
-      "url": "https://github.com/hugohe3/ppt-master",
-      "description": "AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support for your own .pptx templates. · by Hugo He",
-      "language": "Python",
-      "stars_today": "461 stars today",
-      "stars_total": "59,484"
+      "stars_today": "1,083 stars today",
+      "stars_total": "49,972"
     },
     {
       "name": "pytorch/pytorch",
       "url": "https://github.com/pytorch/pytorch",
       "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
       "language": "Python",
-      "stars_today": "84 stars today",
-      "stars_total": "104,146"
+      "stars_today": "314 stars today",
+      "stars_total": "104,378"
+    },
+    {
+      "name": "lyogavin/airllm",
+      "url": "https://github.com/lyogavin/airllm",
+      "description": "AirLLM 70B inference with single 4GB GPU",
+      "language": "Jupyter Notebook",
+      "stars_today": "541 stars today",
+      "stars_total": "36,286"
     }
   ],
   "posts": [
@@ -173,11 +141,11 @@
       ]
     },
     {
-      "topic": "context-mode",
-      "repo": "mksglu/context-mode",
-      "cover_line1": "context-mo",
+      "topic": "pytorch",
+      "repo": "pytorch/pytorch",
+      "cover_line1": "pytorch",
       "cover_line2": "今日 GitHub 热榜！",
-      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**mksglu/context-mode**\n\n📌 Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.\n\n🔗 https://github.com/mksglu/context-mode\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**pytorch/pytorch**\n\n📌 Tensors and Dynamic neural networks in Python with strong GPU acceleration\n\n🔗 https://github.com/pytorch/pytorch\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "GitHub",
@@ -192,11 +160,11 @@
       ]
     },
     {
-      "topic": "skills",
-      "repo": "mattpocock/skills",
-      "cover_line1": "skills",
+      "topic": "airllm",
+      "repo": "lyogavin/airllm",
+      "cover_line1": "airllm",
       "cover_line2": "今日 GitHub 热榜！",
-      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**mattpocock/skills**\n\n📌 Skills for Real Engineers. Straight from my .agents directory.\n\n🔗 https://github.com/mattpocock/skills\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**lyogavin/airllm**\n\n📌 AirLLM 70B inference with single 4GB GPU\n\n🔗 https://github.com/lyogavin/airllm\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "GitHub",
@@ -212,10 +180,10 @@
     }
   ],
   "image_paths": [
-    "assets/2026-10-11/trending/summary.png",
-    "assets/2026-10-11/trending/post1.png",
-    "assets/2026-10-11/trending/post2.png",
-    "assets/2026-10-11/trending/post3.png",
-    "assets/2026-10-11/trending/post4.png"
+    "assets/2026-10-12/trending/summary.png",
+    "assets/2026-10-12/trending/post1.png",
+    "assets/2026-10-12/trending/post2.png",
+    "assets/2026-10-12/trending/post3.png",
+    "assets/2026-10-12/trending/post4.png"
   ]
 }
