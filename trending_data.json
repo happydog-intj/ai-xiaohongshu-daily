@@ -7,32 +7,32 @@
       "url": "https://github.com/morluto/rea",
       "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
       "language": "TypeScript",
-      "stars_today": "25,784 stars today",
-      "stars_total": "66,641"
+      "stars_today": "25,793 stars today",
+      "stars_total": "73,305"
     },
     {
       "name": "boykopovar/AnyPS5",
       "url": "https://github.com/boykopovar/AnyPS5",
       "description": "Tool for automatic PS5 executables porting to Linux and Windows",
       "language": "C++",
-      "stars_today": "5,831 stars today",
-      "stars_total": "25,663"
+      "stars_today": "5,805 stars today",
+      "stars_total": "26,940"
     },
     {
       "name": "storytold/artcraft",
       "url": "https://github.com/storytold/artcraft",
       "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
       "language": "Rust",
-      "stars_today": "3,217 stars today",
-      "stars_total": "13,631"
+      "stars_today": "3,222 stars today",
+      "stars_total": "14,562"
     },
     {
       "name": "cathrynlavery/diagram-design",
       "url": "https://github.com/cathrynlavery/diagram-design",
-      "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
       "language": "HTML",
-      "stars_today": "1,189 stars today",
-      "stars_total": "48,691"
+      "stars_today": "1,190 stars today",
+      "stars_total": "48,981"
     },
     {
       "name": "mksglu/context-mode",
@@ -40,47 +40,47 @@
       "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
       "language": "TypeScript",
       "stars_today": "178 stars today",
-      "stars_total": "26,175"
+      "stars_total": "26,326"
     },
     {
       "name": "mattpocock/skills",
       "url": "https://github.com/mattpocock/skills",
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "language": "Shell",
-      "stars_today": "1,737 stars today",
-      "stars_total": "284,043"
+      "stars_today": "1,736 stars today",
+      "stars_total": "284,531"
     },
     {
       "name": "flutter/flutter",
       "url": "https://github.com/flutter/flutter",
       "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
       "language": "Dart",
-      "stars_today": "164 stars today",
-      "stars_total": "179,379"
+      "stars_today": "88 stars today",
+      "stars_total": "179,530"
     },
     {
       "name": "tensorflow/tensorflow",
       "url": "https://github.com/tensorflow/tensorflow",
       "description": "An Open Source Machine Learning Framework for Everyone",
       "language": "C++",
-      "stars_today": "24 stars today",
-      "stars_total": "200,659"
+      "stars_today": "26 stars today",
+      "stars_total": "200,729"
     },
     {
       "name": "hugohe3/ppt-master",
       "url": "https://github.com/hugohe3/ppt-master",
       "description": "AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support for your own .pptx templates. · by Hugo He",
       "language": "Python",
-      "stars_today": "515 stars today",
-      "stars_total": "59,221"
+      "stars_today": "461 stars today",
+      "stars_total": "59,484"
     },
     {
       "name": "pytorch/pytorch",
       "url": "https://github.com/pytorch/pytorch",
       "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
       "language": "Python",
-      "stars_today": "81 stars today",
-      "stars_total": "104,084"
+      "stars_today": "84 stars today",
+      "stars_total": "104,146"
     }
   ],
   "ai_repos": [
@@ -89,16 +89,16 @@
       "url": "https://github.com/morluto/rea",
       "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
       "language": "TypeScript",
-      "stars_today": "25,784 stars today",
-      "stars_total": "66,641"
+      "stars_today": "25,793 stars today",
+      "stars_total": "73,305"
     },
     {
       "name": "cathrynlavery/diagram-design",
       "url": "https://github.com/cathrynlavery/diagram-design",
-      "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
       "language": "HTML",
-      "stars_today": "1,189 stars today",
-      "stars_total": "48,691"
+      "stars_today": "1,190 stars today",
+      "stars_total": "48,981"
     },
     {
       "name": "mksglu/context-mode",
@@ -106,31 +106,31 @@
       "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
       "language": "TypeScript",
       "stars_today": "178 stars today",
-      "stars_total": "26,175"
+      "stars_total": "26,326"
     },
     {
       "name": "mattpocock/skills",
       "url": "https://github.com/mattpocock/skills",
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "language": "Shell",
-      "stars_today": "1,737 stars today",
-      "stars_total": "284,043"
+      "stars_today": "1,736 stars today",
+      "stars_total": "284,531"
     },
     {
       "name": "hugohe3/ppt-master",
       "url": "https://github.com/hugohe3/ppt-master",
       "description": "AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support for your own .pptx templates. · by Hugo He",
       "language": "Python",
-      "stars_today": "515 stars today",
-      "stars_total": "59,221"
+      "stars_today": "461 stars today",
+      "stars_total": "59,484"
     },
     {
       "name": "pytorch/pytorch",
       "url": "https://github.com/pytorch/pytorch",
       "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
       "language": "Python",
-      "stars_today": "81 stars today",
-      "stars_total": "104,084"
+      "stars_today": "84 stars today",
+      "stars_total": "104,146"
     }
   ],
   "posts": [
@@ -158,7 +158,7 @@
       "repo": "cathrynlavery/diagram-design",
       "cover_line1": "diagram-de",
       "cover_line2": "今日 GitHub 热榜！",
-      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**cathrynlavery/diagram-design**\n\n📌 Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.\n\n🔗 https://github.com/cathrynlavery/diagram-design\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**cathrynlavery/diagram-design**\n\n📌 Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.\n\n🔗 https://github.com/cathrynlavery/diagram-design\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "GitHub",
