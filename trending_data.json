@@ -7,24 +7,24 @@
       "url": "https://github.com/morluto/rea",
       "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
       "language": "TypeScript",
-      "stars_today": "25,585 stars today",
-      "stars_total": "95,709"
+      "stars_today": "25,599 stars today",
+      "stars_total": "107,772"
     },
     {
       "name": "boykopovar/AnyPS5",
       "url": "https://github.com/boykopovar/AnyPS5",
       "description": "Tool for automatic PS5 executables porting to Linux and Windows",
       "language": "C++",
-      "stars_today": "3,977 stars today",
-      "stars_total": "29,169"
+      "stars_today": "3,952 stars today",
+      "stars_total": "30,278"
     },
     {
       "name": "storytold/artcraft",
       "url": "https://github.com/storytold/artcraft",
       "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
       "language": "Rust",
-      "stars_today": "2,956 stars today",
-      "stars_total": "16,908"
+      "stars_today": "2,957 stars today",
+      "stars_total": "18,115"
     },
     {
       "name": "cathrynlavery/diagram-design",
@@ -32,39 +32,39 @@
       "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
       "language": "HTML",
       "stars_today": "1,083 stars today",
-      "stars_total": "49,972"
+      "stars_total": "50,453"
     },
     {
       "name": "bilawalsidhu/gods-eye-view",
       "url": "https://github.com/bilawalsidhu/gods-eye-view",
       "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
       "language": "JavaScript",
-      "stars_today": "872 stars today",
-      "stars_total": "51,182"
+      "stars_today": "886 stars today",
+      "stars_total": "51,782"
     },
     {
       "name": "pytorch/pytorch",
       "url": "https://github.com/pytorch/pytorch",
       "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
       "language": "Python",
-      "stars_today": "314 stars today",
-      "stars_total": "104,378"
+      "stars_today": "315 stars today",
+      "stars_total": "104,525"
     },
     {
       "name": "lyogavin/airllm",
       "url": "https://github.com/lyogavin/airllm",
       "description": "AirLLM 70B inference with single 4GB GPU",
       "language": "Jupyter Notebook",
-      "stars_today": "541 stars today",
-      "stars_total": "36,286"
+      "stars_today": "548 stars today",
+      "stars_total": "36,537"
     },
     {
       "name": "chrislgarry/Apollo-11",
       "url": "https://github.com/chrislgarry/Apollo-11",
       "description": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
       "language": "Assembly",
-      "stars_today": "496 stars today",
-      "stars_total": "74,050"
+      "stars_today": "466 stars today",
+      "stars_total": "74,282"
     }
   ],
   "ai_repos": [
@@ -73,8 +73,8 @@
       "url": "https://github.com/morluto/rea",
       "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
       "language": "TypeScript",
-      "stars_today": "25,585 stars today",
-      "stars_total": "95,709"
+      "stars_today": "25,599 stars today",
+      "stars_total": "107,772"
     },
     {
       "name": "cathrynlavery/diagram-design",
@@ -82,23 +82,23 @@
       "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
       "language": "HTML",
       "stars_today": "1,083 stars today",
-      "stars_total": "49,972"
+      "stars_total": "50,453"
     },
     {
       "name": "pytorch/pytorch",
       "url": "https://github.com/pytorch/pytorch",
       "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
       "language": "Python",
-      "stars_today": "314 stars today",
-      "stars_total": "104,378"
+      "stars_today": "315 stars today",
+      "stars_total": "104,525"
     },
     {
       "name": "lyogavin/airllm",
       "url": "https://github.com/lyogavin/airllm",
       "description": "AirLLM 70B inference with single 4GB GPU",
       "language": "Jupyter Notebook",
-      "stars_today": "541 stars today",
-      "stars_total": "36,286"
+      "stars_today": "548 stars today",
+      "stars_total": "36,537"
     }
   ],
   "posts": [
