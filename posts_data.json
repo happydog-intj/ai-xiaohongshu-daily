@@ -1,11 +1,11 @@
 {
-  "date": "2026-10-11",
+  "date": "2026-10-12",
   "posts": [
     {
-      "topic": "Build your own decis",
-      "cover_line1": "Build your",
+      "topic": "The gap in shared un",
+      "cover_line1": "The gap in",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Build your own decision model**\n\n📌 来源：HackerNews\n🔗 https://nishtahir.com/build-your-own-decision-model/\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**The gap in shared understanding of LLM capability is widening**\n\n📌 来源：HackerNews\n🔗 https://twitter.com/karpathy/status/2109361546505966046\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -20,10 +20,10 @@
       ]
     },
     {
-      "topic": "Five months treating",
-      "cover_line1": "Five month",
+      "topic": "500B tokens later: L",
+      "cover_line1": "500B token",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Five months treating bugs like patients and coding agents like a medical team**\n\n📌 来源：HackerNews\n🔗 https://www.cockroachlabs.com/blog/experiment-running-hospital-code/\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**500B tokens later: Letting AI agents decompile a first-person shooter**\n\n📌 来源：HackerNews\n🔗 https://momo5502.com/posts/2026-10-09-game-decompilation/\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -38,10 +38,10 @@
       ]
     },
     {
-      "topic": "Talorys – A self-hos",
-      "cover_line1": "Talorys – ",
+      "topic": "Show HN: Plimsoll, a",
+      "cover_line1": "Show HN: P",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Talorys – A self-hosted personal AI agent on Cloudflare's free tier**\n\n📌 来源：HackerNews\n🔗 https://github.com/rociiu/talorys\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Show HN: Plimsoll, a self-hosted sandbox for code your AI agent writes**\n\n📌 来源：HackerNews\n🔗 https://github.com/plimsollmark/plimsoll\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -56,10 +56,10 @@
       ]
     },
     {
-      "topic": "Mxc: Microsoft Execu",
-      "cover_line1": "Mxc: Micro",
+      "topic": "Show HN: BraiNOTES, ",
+      "cover_line1": "Show HN: B",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Mxc: Microsoft Execution Containers version 1.0.0**\n\n📌 来源：HackerNews\n🔗 https://blogs.windows.com/windowsdeveloper/2026/10/07/microsoft-execution-containers-policy-driven-containment-for-ai-agents/\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Show HN: BraiNOTES, handwritten notes on your lecture PDFs in a browser tab**\n\n📌 来源：HackerNews\n🔗 https://github.com/swimmingbrain/brainotes\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -75,15 +75,15 @@
     }
   ],
   "image_paths": [
-    "assets/2026-10-11/cover1.png",
-    "assets/2026-10-11/cover2.png",
-    "assets/2026-10-11/cover3.png",
-    "assets/2026-10-11/cover4.png"
+    "assets/2026-10-12/cover1.png",
+    "assets/2026-10-12/cover2.png",
+    "assets/2026-10-12/cover3.png",
+    "assets/2026-10-12/cover4.png"
   ],
   "feishu_image_paths": [
-    "assets/2026-10-11/cover1_feishu.png",
-    "assets/2026-10-11/cover2_feishu.png",
-    "assets/2026-10-11/cover3_feishu.png",
-    "assets/2026-10-11/cover4_feishu.png"
+    "assets/2026-10-12/cover1_feishu.png",
+    "assets/2026-10-12/cover2_feishu.png",
+    "assets/2026-10-12/cover3_feishu.png",
+    "assets/2026-10-12/cover4_feishu.png"
   ]
 }
