@@ -1,11 +1,11 @@
 {
-  "date": "2026-10-12",
+  "date": "2026-10-13",
   "posts": [
     {
-      "topic": "The gap in shared un",
-      "cover_line1": "The gap in",
+      "topic": "Intel D270 GPU AI Ac",
+      "cover_line1": "Intel D270",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**The gap in shared understanding of LLM capability is widening**\n\n📌 来源：HackerNews\n🔗 https://twitter.com/karpathy/status/2109361546505966046\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X**\n\n📌 来源：HackerNews\n🔗 https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -20,10 +20,10 @@
       ]
     },
     {
-      "topic": "500B tokens later: L",
-      "cover_line1": "500B token",
+      "topic": "Strengthening our de",
+      "cover_line1": "Strengthen",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**500B tokens later: Letting AI agents decompile a first-person shooter**\n\n📌 来源：HackerNews\n🔗 https://momo5502.com/posts/2026-10-09-game-decompilation/\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Strengthening our defenses against distillation attacks**\n\n📌 来源：HackerNews\n🔗 https://www.anthropic.com/research/distillation-defenses\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -38,10 +38,10 @@
       ]
     },
     {
-      "topic": "Show HN: Plimsoll, a",
-      "cover_line1": "Show HN: P",
+      "topic": "Janas: Run LLMs larg",
+      "cover_line1": "Janas: Run",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Show HN: Plimsoll, a self-hosted sandbox for code your AI agent writes**\n\n📌 来源：HackerNews\n🔗 https://github.com/plimsollmark/plimsoll\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Janas: Run LLMs larger than RAM by streaming experts from SSD**\n\n📌 来源：HackerNews\n🔗 https://github.com/prabanta-dev/janas\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -56,10 +56,10 @@
       ]
     },
     {
-      "topic": "Show HN: BraiNOTES, ",
-      "cover_line1": "Show HN: B",
+      "topic": "Launch HN: Agent37 (",
+      "cover_line1": "Launch HN:",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Show HN: BraiNOTES, handwritten notes on your lecture PDFs in a browser tab**\n\n📌 来源：HackerNews\n🔗 https://github.com/swimmingbrain/brainotes\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Launch HN: Agent37 (YC F26) – Low-cost agent sandboxes for running agents**\n\n📌 来源：HackerNews\n🔗 \n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -75,15 +75,15 @@
     }
   ],
   "image_paths": [
-    "assets/2026-10-12/cover1.png",
-    "assets/2026-10-12/cover2.png",
-    "assets/2026-10-12/cover3.png",
-    "assets/2026-10-12/cover4.png"
+    "assets/2026-10-13/cover1.png",
+    "assets/2026-10-13/cover2.png",
+    "assets/2026-10-13/cover3.png",
+    "assets/2026-10-13/cover4.png"
   ],
   "feishu_image_paths": [
-    "assets/2026-10-12/cover1_feishu.png",
-    "assets/2026-10-12/cover2_feishu.png",
-    "assets/2026-10-12/cover3_feishu.png",
-    "assets/2026-10-12/cover4_feishu.png"
+    "assets/2026-10-13/cover1_feishu.png",
+    "assets/2026-10-13/cover2_feishu.png",
+    "assets/2026-10-13/cover3_feishu.png",
+    "assets/2026-10-13/cover4_feishu.png"
   ]
 }
