@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-13",
+  "date": "2026-10-14",
   "slot": "早报",
   "all_repos": [
     {
@@ -7,72 +7,72 @@
       "url": "https://github.com/morluto/rea",
       "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
       "language": "TypeScript",
-      "stars_today": "45,327 stars today",
-      "stars_total": "164,779"
+      "stars_today": "54,706 stars today",
+      "stars_total": "201,637"
     },
     {
       "name": "bilawalsidhu/gods-eye-view",
       "url": "https://github.com/bilawalsidhu/gods-eye-view",
       "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
       "language": "JavaScript",
-      "stars_today": "1,895 stars today",
-      "stars_total": "53,870"
+      "stars_today": "1,961 stars today",
+      "stars_total": "55,084"
+    },
+    {
+      "name": "debpalash/VoiceStudio",
+      "url": "https://github.com/debpalash/VoiceStudio",
+      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+      "language": "Python",
+      "stars_today": "2,277 stars today",
+      "stars_total": "62,679"
     },
     {
       "name": "mksglu/context-mode",
       "url": "https://github.com/mksglu/context-mode",
       "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
       "language": "TypeScript",
-      "stars_today": "246 stars today",
-      "stars_total": "27,399"
-    },
-    {
-      "name": "storytold/artcraft",
-      "url": "https://github.com/storytold/artcraft",
-      "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
-      "language": "Rust",
-      "stars_today": "4,095 stars today",
-      "stars_total": "22,474"
-    },
-    {
-      "name": "open-webui/open-webui",
-      "url": "https://github.com/open-webui/open-webui",
-      "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "language": "Python",
-      "stars_today": "157 stars today",
-      "stars_total": "155,149"
+      "stars_today": "978 stars today",
+      "stars_total": "28,062"
     },
     {
       "name": "cathrynlavery/diagram-design",
       "url": "https://github.com/cathrynlavery/diagram-design",
       "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
       "language": "HTML",
-      "stars_today": "2,081 stars today",
-      "stars_total": "52,825"
+      "stars_today": "1,813 stars today",
+      "stars_total": "53,883"
+    },
+    {
+      "name": "vercel-labs/skills",
+      "url": "https://github.com/vercel-labs/skills",
+      "description": "The open agent skills tool - npx skills",
+      "language": "TypeScript",
+      "stars_today": "187 stars today",
+      "stars_total": "34,357"
     },
     {
       "name": "lyogavin/airllm",
       "url": "https://github.com/lyogavin/airllm",
       "description": "AirLLM 2.8T LLM inference with single 4GB GPU",
       "language": "Jupyter Notebook",
-      "stars_today": "879 stars today",
-      "stars_total": "37,630"
+      "stars_today": "1,004 stars today",
+      "stars_total": "38,202"
     },
     {
-      "name": "microsoft/BitNet",
-      "url": "https://github.com/microsoft/BitNet",
-      "description": "Official inference framework for 1-bit LLMs",
-      "language": "C++",
-      "stars_today": "97 stars today",
-      "stars_total": "40,953"
+      "name": "storytold/artcraft",
+      "url": "https://github.com/storytold/artcraft",
+      "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
+      "language": "Rust",
+      "stars_today": "4,078 stars today",
+      "stars_total": "25,110"
     },
     {
-      "name": "Alishahryar1/free-claude-code",
-      "url": "https://github.com/Alishahryar1/free-claude-code",
-      "description": "Use Claude Code, Codex, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)",
-      "language": "Python",
-      "stars_today": "626 stars today",
-      "stars_total": "59,282"
+      "name": "xtool-org/xtool",
+      "url": "https://github.com/xtool-org/xtool",
+      "description": "Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.",
+      "language": "Swift",
+      "stars_today": "1,182 stars today",
+      "stars_total": "9,099"
     }
   ],
   "ai_repos": [
@@ -81,56 +81,40 @@
       "url": "https://github.com/morluto/rea",
       "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
       "language": "TypeScript",
-      "stars_today": "45,327 stars today",
-      "stars_total": "164,779"
+      "stars_today": "54,706 stars today",
+      "stars_total": "201,637"
     },
     {
       "name": "mksglu/context-mode",
       "url": "https://github.com/mksglu/context-mode",
       "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
       "language": "TypeScript",
-      "stars_today": "246 stars today",
-      "stars_total": "27,399"
-    },
-    {
-      "name": "open-webui/open-webui",
-      "url": "https://github.com/open-webui/open-webui",
-      "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "language": "Python",
-      "stars_today": "157 stars today",
-      "stars_total": "155,149"
+      "stars_today": "978 stars today",
+      "stars_total": "28,062"
     },
     {
       "name": "cathrynlavery/diagram-design",
       "url": "https://github.com/cathrynlavery/diagram-design",
       "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
       "language": "HTML",
-      "stars_today": "2,081 stars today",
-      "stars_total": "52,825"
+      "stars_today": "1,813 stars today",
+      "stars_total": "53,883"
+    },
+    {
+      "name": "vercel-labs/skills",
+      "url": "https://github.com/vercel-labs/skills",
+      "description": "The open agent skills tool - npx skills",
+      "language": "TypeScript",
+      "stars_today": "187 stars today",
+      "stars_total": "34,357"
     },
     {
       "name": "lyogavin/airllm",
       "url": "https://github.com/lyogavin/airllm",
       "description": "AirLLM 2.8T LLM inference with single 4GB GPU",
       "language": "Jupyter Notebook",
-      "stars_today": "879 stars today",
-      "stars_total": "37,630"
-    },
-    {
-      "name": "microsoft/BitNet",
-      "url": "https://github.com/microsoft/BitNet",
-      "description": "Official inference framework for 1-bit LLMs",
-      "language": "C++",
-      "stars_today": "97 stars today",
-      "stars_total": "40,953"
-    },
-    {
-      "name": "Alishahryar1/free-claude-code",
-      "url": "https://github.com/Alishahryar1/free-claude-code",
-      "description": "Use Claude Code, Codex, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)",
-      "language": "Python",
-      "stars_today": "626 stars today",
-      "stars_total": "59,282"
+      "stars_today": "1,004 stars today",
+      "stars_total": "38,202"
     }
   ],
   "posts": [
@@ -173,25 +157,6 @@
       ]
     },
     {
-      "topic": "open-webui",
-      "repo": "open-webui/open-webui",
-      "cover_line1": "open-webui",
-      "cover_line2": "今日 GitHub 热榜！",
-      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**open-webui/open-webui**\n\n📌 User-friendly AI Interface (Supports Ollama, OpenAI API, ...)\n\n🔗 https://github.com/open-webui/open-webui\n\n关注我，每天第一时间 AI 动态 👇",
-      "tags": [
-        "AI",
-        "GitHub",
-        "开源",
-        "热门项目",
-        "大模型",
-        "机器学习",
-        "深度学习",
-        "AI工具",
-        "技术",
-        "炼丹"
-      ]
-    },
-    {
       "topic": "diagram-design",
       "repo": "cathrynlavery/diagram-design",
       "cover_line1": "diagram-de",
@@ -209,13 +174,32 @@
         "技术",
         "炼丹"
       ]
+    },
+    {
+      "topic": "skills",
+      "repo": "vercel-labs/skills",
+      "cover_line1": "skills",
+      "cover_line2": "今日 GitHub 热榜！",
+      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**vercel-labs/skills**\n\n📌 The open agent skills tool - npx skills\n\n🔗 https://github.com/vercel-labs/skills\n\n关注我，每天第一时间 AI 动态 👇",
+      "tags": [
+        "AI",
+        "GitHub",
+        "开源",
+        "热门项目",
+        "大模型",
+        "机器学习",
+        "深度学习",
+        "AI工具",
+        "技术",
+        "炼丹"
+      ]
     }
   ],
   "image_paths": [
-    "assets/2026-10-13/trending/summary.png",
-    "assets/2026-10-13/trending/post1.png",
-    "assets/2026-10-13/trending/post2.png",
-    "assets/2026-10-13/trending/post3.png",
-    "assets/2026-10-13/trending/post4.png"
+    "assets/2026-10-14/trending/summary.png",
+    "assets/2026-10-14/trending/post1.png",
+    "assets/2026-10-14/trending/post2.png",
+    "assets/2026-10-14/trending/post3.png",
+    "assets/2026-10-14/trending/post4.png"
   ]
 }
