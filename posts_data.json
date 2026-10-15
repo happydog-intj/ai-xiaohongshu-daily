@@ -1,11 +1,11 @@
 {
-  "date": "2026-10-14",
+  "date": "2026-10-15",
   "posts": [
     {
-      "topic": "Gemini 4 Argon",
-      "cover_line1": "Gemini 4 A",
+      "topic": "LFM2.5-24B-A2B: Buil",
+      "cover_line1": "LFM2.5-24B",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Gemini 4 Argon**\n\n📌 来源：HackerNews\n🔗 https://deepmind.google/models/gemini/\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**LFM2.5-24B-A2B: Built for fast on-device agents**\n\n📌 来源：HackerNews\n🔗 https://www.liquid.ai/blog/lfm2-5-24b-a2b\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -20,10 +20,10 @@
       ]
     },
     {
-      "topic": "Show HN: Pulse Local",
-      "cover_line1": "Show HN: P",
+      "topic": "Containment and moni",
+      "cover_line1": "Containmen",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Show HN: Pulse Local, a Mac budgeting app whose AI models run on your machine**\n\n📌 来源：HackerNews\n🔗 https://pulseos.finance\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Containment and monitoring failures are to blame for AI hacking reports: experts**\n\n📌 来源：HackerNews\n🔗 https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -38,10 +38,10 @@
       ]
     },
     {
-      "topic": "Redesigning source c",
-      "cover_line1": "Redesignin",
+      "topic": "Ask HN: CAD for wood",
+      "cover_line1": "Ask HN: CA",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Redesigning source control at Anthropic**\n\n📌 来源：HackerNews\n🔗 https://www.anthropic.com/engineering/redesigning-source-control\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Ask HN: CAD for wood working with LLM support?**\n\n📌 来源：HackerNews\n🔗 \n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -56,10 +56,10 @@
       ]
     },
     {
-      "topic": "I posted to HN, and ",
-      "cover_line1": "I posted t",
+      "topic": "Anthropic's Scion is",
+      "cover_line1": "Anthropic'",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**I posted to HN, and then my website was flooded with AI bot traffic**\n\n📌 来源：HackerNews\n🔗 https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Anthropic's Scion is heavily inspired by Mononoke**\n\n📌 来源：HackerNews\n🔗 https://sunshowers.io/posts/anthropic-mononoke/\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -75,15 +75,15 @@
     }
   ],
   "image_paths": [
-    "assets/2026-10-14/cover1.png",
-    "assets/2026-10-14/cover2.png",
-    "assets/2026-10-14/cover3.png",
-    "assets/2026-10-14/cover4.png"
+    "assets/2026-10-15/cover1.png",
+    "assets/2026-10-15/cover2.png",
+    "assets/2026-10-15/cover3.png",
+    "assets/2026-10-15/cover4.png"
   ],
   "feishu_image_paths": [
-    "assets/2026-10-14/cover1_feishu.png",
-    "assets/2026-10-14/cover2_feishu.png",
-    "assets/2026-10-14/cover3_feishu.png",
-    "assets/2026-10-14/cover4_feishu.png"
+    "assets/2026-10-15/cover1_feishu.png",
+    "assets/2026-10-15/cover2_feishu.png",
+    "assets/2026-10-15/cover3_feishu.png",
+    "assets/2026-10-15/cover4_feishu.png"
   ]
 }
