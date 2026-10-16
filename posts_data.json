@@ -1,11 +1,11 @@
 {
-  "date": "2026-10-15",
+  "date": "2026-10-16",
   "posts": [
     {
-      "topic": "LFM2.5-24B-A2B: Buil",
-      "cover_line1": "LFM2.5-24B",
+      "topic": "Neural networks are ",
+      "cover_line1": "Neural net",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**LFM2.5-24B-A2B: Built for fast on-device agents**\n\n📌 来源：HackerNews\n🔗 https://www.liquid.ai/blog/lfm2-5-24b-a2b\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Neural networks are clean**\n\n📌 来源：HackerNews\n🔗 https://already-clean.goodfire.com/\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -20,10 +20,10 @@
       ]
     },
     {
-      "topic": "Containment and moni",
-      "cover_line1": "Containmen",
+      "topic": "Krea 3 – An image mo",
+      "cover_line1": "Krea 3 – A",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Containment and monitoring failures are to blame for AI hacking reports: experts**\n\n📌 来源：HackerNews\n🔗 https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Krea 3 – An image model built for editing at scale**\n\n📌 来源：HackerNews\n🔗 https://www.krea.ai/krea-3\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -38,10 +38,10 @@
       ]
     },
     {
-      "topic": "Ask HN: CAD for wood",
-      "cover_line1": "Ask HN: CA",
+      "topic": "The 8-mile hole in a",
+      "cover_line1": "The 8-mile",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Ask HN: CAD for wood working with LLM support?**\n\n📌 来源：HackerNews\n🔗 \n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**The 8-mile hole in a Hawaii national park that no one can explain**\n\n📌 来源：HackerNews\n🔗 https://www.sfgate.com/national-parks/article/hawaii-volcanoes-park-great-crack-22358849.php\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -56,10 +56,10 @@
       ]
     },
     {
-      "topic": "Anthropic's Scion is",
-      "cover_line1": "Anthropic'",
+      "topic": "BeBox is a Haiku app",
+      "cover_line1": "BeBox is a",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Anthropic's Scion is heavily inspired by Mononoke**\n\n📌 来源：HackerNews\n🔗 https://sunshowers.io/posts/anthropic-mononoke/\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**BeBox is a Haiku application that emulates Be Inc.'s BeBox**\n\n📌 来源：HackerNews\n🔗 https://github.com/johnrash/bebox\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -75,15 +75,15 @@
     }
   ],
   "image_paths": [
-    "assets/2026-10-15/cover1.png",
-    "assets/2026-10-15/cover2.png",
-    "assets/2026-10-15/cover3.png",
-    "assets/2026-10-15/cover4.png"
+    "assets/2026-10-16/cover1.png",
+    "assets/2026-10-16/cover2.png",
+    "assets/2026-10-16/cover3.png",
+    "assets/2026-10-16/cover4.png"
   ],
   "feishu_image_paths": [
-    "assets/2026-10-15/cover1_feishu.png",
-    "assets/2026-10-15/cover2_feishu.png",
-    "assets/2026-10-15/cover3_feishu.png",
-    "assets/2026-10-15/cover4_feishu.png"
+    "assets/2026-10-16/cover1_feishu.png",
+    "assets/2026-10-16/cover2_feishu.png",
+    "assets/2026-10-16/cover3_feishu.png",
+    "assets/2026-10-16/cover4_feishu.png"
   ]
 }
