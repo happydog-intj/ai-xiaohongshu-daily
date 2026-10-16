@@ -7,16 +7,16 @@
       "url": "https://github.com/morluto/rea",
       "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
       "language": "TypeScript",
-      "stars_today": "32,282 stars today",
-      "stars_total": "264,662"
+      "stars_today": "32,314 stars today",
+      "stars_total": "270,256"
     },
     {
       "name": "anthropics/claude-plugins-official",
       "url": "https://github.com/anthropics/claude-plugins-official",
       "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
       "language": "Python",
-      "stars_today": "525 stars today",
-      "stars_total": "38,703"
+      "stars_today": "307 stars today",
+      "stars_total": "39,099"
     },
     {
       "name": "K-Dense-AI/scientific-agent-skills",
@@ -24,63 +24,63 @@
       "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
       "language": "Python",
       "stars_today": "1,091 stars today",
-      "stars_total": "50,227"
+      "stars_total": "50,472"
     },
     {
       "name": "JuliusBrussee/caveman",
       "url": "https://github.com/JuliusBrussee/caveman",
       "description": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
       "language": "Go",
-      "stars_today": "530 stars today",
-      "stars_total": "112,323"
+      "stars_today": "433 stars today",
+      "stars_total": "112,548"
     },
     {
       "name": "debpalash/VoiceStudio",
       "url": "https://github.com/debpalash/VoiceStudio",
       "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
       "language": "Python",
-      "stars_today": "3,027 stars today",
-      "stars_total": "68,454"
+      "stars_today": "3,024 stars today",
+      "stars_total": "69,098"
     },
     {
       "name": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
-      "stars_today": "688 stars today",
-      "stars_total": "299,687"
+      "stars_today": "582 stars today",
+      "stars_total": "299,897"
     },
     {
       "name": "ruvnet/ruflo",
       "url": "https://github.com/ruvnet/ruflo",
       "description": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
       "language": "TypeScript",
-      "stars_today": "224 stars today",
-      "stars_total": "74,932"
+      "stars_today": "147 stars today",
+      "stars_total": "75,126"
     },
     {
       "name": "mksglu/context-mode",
       "url": "https://github.com/mksglu/context-mode",
       "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
       "language": "TypeScript",
-      "stars_today": "902 stars today",
-      "stars_total": "29,689"
+      "stars_today": "904 stars today",
+      "stars_total": "29,796"
     },
     {
       "name": "NationalSecurityAgency/ghidra",
       "url": "https://github.com/NationalSecurityAgency/ghidra",
       "description": "Ghidra is a software reverse engineering (SRE) framework",
       "language": "Java",
-      "stars_today": "1,366 stars today",
-      "stars_total": "88,431"
+      "stars_today": "1,369 stars today",
+      "stars_total": "88,757"
     },
     {
       "name": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "language": "JavaScript",
-      "stars_today": "1,015 stars today",
-      "stars_total": "280,107"
+      "stars_today": "1,013 stars today",
+      "stars_total": "280,396"
     }
   ],
   "ai_repos": [
@@ -89,16 +89,16 @@
       "url": "https://github.com/morluto/rea",
       "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
       "language": "TypeScript",
-      "stars_today": "32,282 stars today",
-      "stars_total": "264,662"
+      "stars_today": "32,314 stars today",
+      "stars_total": "270,256"
     },
     {
       "name": "anthropics/claude-plugins-official",
       "url": "https://github.com/anthropics/claude-plugins-official",
       "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
       "language": "Python",
-      "stars_today": "525 stars today",
-      "stars_total": "38,703"
+      "stars_today": "307 stars today",
+      "stars_total": "39,099"
     },
     {
       "name": "K-Dense-AI/scientific-agent-skills",
@@ -106,47 +106,47 @@
       "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
       "language": "Python",
       "stars_today": "1,091 stars today",
-      "stars_total": "50,227"
+      "stars_total": "50,472"
     },
     {
       "name": "JuliusBrussee/caveman",
       "url": "https://github.com/JuliusBrussee/caveman",
       "description": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
       "language": "Go",
-      "stars_today": "530 stars today",
-      "stars_total": "112,323"
+      "stars_today": "433 stars today",
+      "stars_total": "112,548"
     },
     {
       "name": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
-      "stars_today": "688 stars today",
-      "stars_total": "299,687"
+      "stars_today": "582 stars today",
+      "stars_total": "299,897"
     },
     {
       "name": "ruvnet/ruflo",
       "url": "https://github.com/ruvnet/ruflo",
       "description": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
       "language": "TypeScript",
-      "stars_today": "224 stars today",
-      "stars_total": "74,932"
+      "stars_today": "147 stars today",
+      "stars_total": "75,126"
     },
     {
       "name": "mksglu/context-mode",
       "url": "https://github.com/mksglu/context-mode",
       "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
       "language": "TypeScript",
-      "stars_today": "902 stars today",
-      "stars_total": "29,689"
+      "stars_today": "904 stars today",
+      "stars_total": "29,796"
     },
     {
       "name": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "language": "JavaScript",
-      "stars_today": "1,015 stars today",
-      "stars_total": "280,107"
+      "stars_today": "1,013 stars today",
+      "stars_total": "280,396"
     }
   ],
   "posts": [
