@@ -1,11 +1,11 @@
 {
-  "date": "2026-10-16",
+  "date": "2026-10-17",
   "posts": [
     {
-      "topic": "Neural networks are ",
-      "cover_line1": "Neural net",
+      "topic": "Claude reveals ECDSA",
+      "cover_line1": "Claude rev",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Neural networks are clean**\n\n📌 来源：HackerNews\n🔗 https://already-clean.goodfire.com/\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Claude reveals ECDSA curve origins**\n\n📌 来源：HackerNews\n🔗 https://www.anthropic.com/research/ecdsa-curve-origins\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -20,10 +20,10 @@
       ]
     },
     {
-      "topic": "Krea 3 – An image mo",
-      "cover_line1": "Krea 3 – A",
+      "topic": "Llama.cpp on a jailb",
+      "cover_line1": "Llama.cpp ",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Krea 3 – An image model built for editing at scale**\n\n📌 来源：HackerNews\n🔗 https://www.krea.ai/krea-3\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console**\n\n📌 来源：HackerNews\n🔗 https://github.com/cobanov/PS5LM\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -38,10 +38,10 @@
       ]
     },
     {
-      "topic": "The 8-mile hole in a",
-      "cover_line1": "The 8-mile",
+      "topic": "You could have inven",
+      "cover_line1": "You could ",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**The 8-mile hole in a Hawaii national park that no one can explain**\n\n📌 来源：HackerNews\n🔗 https://www.sfgate.com/national-parks/article/hawaii-volcanoes-park-great-crack-22358849.php\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**You could have invented transformers from memory**\n\n📌 来源：HackerNews\n🔗 https://alexwang.ai/posts/associative-memory/\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -56,10 +56,10 @@
       ]
     },
     {
-      "topic": "BeBox is a Haiku app",
-      "cover_line1": "BeBox is a",
+      "topic": "Designing more effic",
+      "cover_line1": "Designing ",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**BeBox is a Haiku application that emulates Be Inc.'s BeBox**\n\n📌 来源：HackerNews\n🔗 https://github.com/johnrash/bebox\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Designing more efficient quantum circuits with Claude**\n\n📌 来源：HackerNews\n🔗 https://www.anthropic.com/research/designing-efficient-quantum-circuits\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -75,15 +75,15 @@
     }
   ],
   "image_paths": [
-    "assets/2026-10-16/cover1.png",
-    "assets/2026-10-16/cover2.png",
-    "assets/2026-10-16/cover3.png",
-    "assets/2026-10-16/cover4.png"
+    "assets/2026-10-17/cover1.png",
+    "assets/2026-10-17/cover2.png",
+    "assets/2026-10-17/cover3.png",
+    "assets/2026-10-17/cover4.png"
   ],
   "feishu_image_paths": [
-    "assets/2026-10-16/cover1_feishu.png",
-    "assets/2026-10-16/cover2_feishu.png",
-    "assets/2026-10-16/cover3_feishu.png",
-    "assets/2026-10-16/cover4_feishu.png"
+    "assets/2026-10-17/cover1_feishu.png",
+    "assets/2026-10-17/cover2_feishu.png",
+    "assets/2026-10-17/cover3_feishu.png",
+    "assets/2026-10-17/cover4_feishu.png"
   ]
 }
