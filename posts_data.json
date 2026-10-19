@@ -1,11 +1,11 @@
 {
-  "date": "2026-10-18",
+  "date": "2026-10-19",
   "posts": [
     {
-      "topic": "Pele – Mermaid diagr",
-      "cover_line1": "Pele – Mer",
+      "topic": "Hybrid Reasoning Age",
+      "cover_line1": "Hybrid Rea",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Pele – Mermaid diagrams as themeable SVG**\n\n📌 来源：HackerNews\n🔗 https://pele.run/\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Hybrid Reasoning Agents: LLM agents that think in latent space, act through text**\n\n📌 来源：HackerNews\n🔗 https://arxiv.org/abs/2610.18861\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -20,10 +20,10 @@
       ]
     },
     {
-      "topic": "You could have inven",
-      "cover_line1": "You could ",
+      "topic": "I built a programmin",
+      "cover_line1": "I built a ",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**You could have invented transformers from memory**\n\n📌 来源：HackerNews\n🔗 https://alexwang.ai/posts/associative-memory/\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**I built a programming language that LLMs can't use**\n\n📌 来源：HackerNews\n🔗 https://blog.picheta.me/post/killswitch-lang/\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -38,10 +38,10 @@
       ]
     },
     {
-      "topic": "Microsoft and CMU te",
-      "cover_line1": "Microsoft ",
+      "topic": "If you don't run you",
+      "cover_line1": "If you don",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Microsoft and CMU team up to train early career software engineers**\n\n📌 来源：HackerNews\n🔗 https://www.cs.cmu.edu/news/2026/microsoft-cmu-praise\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**If you don't run your own LLM proxy, how do you know whats going on?**\n\n📌 来源：HackerNews\n🔗 https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -56,10 +56,10 @@
       ]
     },
     {
-      "topic": "Show HN: Llmspeed – ",
-      "cover_line1": "Show HN: L",
+      "topic": "Namecheap just seize",
+      "cover_line1": "Namecheap ",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware**\n\n📌 来源：HackerNews\n🔗 https://llmspeed.dev/\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Namecheap just seized and disabled all my domains**\n\n📌 来源：HackerNews\n🔗 https://www.reddit.com/r/sysadmin/comments/1x8cycd/namecheap_just_seized_and_disabled_all_my_domains/\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -75,15 +75,15 @@
     }
   ],
   "image_paths": [
-    "assets/2026-10-18/cover1.png",
-    "assets/2026-10-18/cover2.png",
-    "assets/2026-10-18/cover3.png",
-    "assets/2026-10-18/cover4.png"
+    "assets/2026-10-19/cover1.png",
+    "assets/2026-10-19/cover2.png",
+    "assets/2026-10-19/cover3.png",
+    "assets/2026-10-19/cover4.png"
   ],
   "feishu_image_paths": [
-    "assets/2026-10-18/cover1_feishu.png",
-    "assets/2026-10-18/cover2_feishu.png",
-    "assets/2026-10-18/cover3_feishu.png",
-    "assets/2026-10-18/cover4_feishu.png"
+    "assets/2026-10-19/cover1_feishu.png",
+    "assets/2026-10-19/cover2_feishu.png",
+    "assets/2026-10-19/cover3_feishu.png",
+    "assets/2026-10-19/cover4_feishu.png"
   ]
 }
