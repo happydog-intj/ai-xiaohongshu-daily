@@ -1,11 +1,11 @@
 {
-  "date": "2026-10-21",
+  "date": "2026-10-22",
   "posts": [
     {
-      "topic": "DeepInfer: High-perf",
-      "cover_line1": "DeepInfer:",
+      "topic": "Railway Security Dis",
+      "cover_line1": "Railway Se",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**DeepInfer: High-performance inference framework for DeepSeek models**\n\n📌 来源：HackerNews\n🔗 https://github.com/deepseek-ai/DeepInfer\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Railway Security Disclosure**\n\n📌 来源：HackerNews\n🔗 https://blog.railway.com/p/security-disclosure-wednesday-october-21st\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -20,10 +20,10 @@
       ]
     },
     {
-      "topic": "Benchmarking Bot Det",
-      "cover_line1": "Benchmarki",
+      "topic": "Compromised LiteLLM ",
+      "cover_line1": "Compromise",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Benchmarking Bot Detection Systems Against Modern AI Agents in 2026**\n\n📌 来源：HackerNews\n🔗 https://research.poh.org/bot-benchmarking-2026/\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor**\n\n📌 来源：HackerNews\n🔗 https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -38,10 +38,10 @@
       ]
     },
     {
-      "topic": "Launch HN: Respan (Y",
-      "cover_line1": "Launch HN:",
+      "topic": "Chain of Thought for",
+      "cover_line1": "Chain of T",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Launch HN: Respan (YC W24) – Open-source Rust AI gateway built around plugins**\n\n📌 来源：HackerNews\n🔗 \n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Chain of Thought for Humans**\n\n📌 来源：HackerNews\n🔗 https://www.boristhebrave.com/2026/10/18/chain-of-thought-for-humans/\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -56,10 +56,10 @@
       ]
     },
     {
-      "topic": "Facebook Pages requi",
-      "cover_line1": "Facebook P",
+      "topic": "OpenAI models are co",
+      "cover_line1": "OpenAI mod",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Facebook Pages require paid subscription to post more than two links per month**\n\n📌 来源：HackerNews\n🔗 https://mastodon.gamedev.place/@AshleyGullen/117473851565913919\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**OpenAI models are coming to Google Cloud**\n\n📌 来源：HackerNews\n🔗 https://openai.com/index/openai-models-google-cloud/\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -75,15 +75,15 @@
     }
   ],
   "image_paths": [
-    "assets/2026-10-21/cover1.png",
-    "assets/2026-10-21/cover2.png",
-    "assets/2026-10-21/cover3.png",
-    "assets/2026-10-21/cover4.png"
+    "assets/2026-10-22/cover1.png",
+    "assets/2026-10-22/cover2.png",
+    "assets/2026-10-22/cover3.png",
+    "assets/2026-10-22/cover4.png"
   ],
   "feishu_image_paths": [
-    "assets/2026-10-21/cover1_feishu.png",
-    "assets/2026-10-21/cover2_feishu.png",
-    "assets/2026-10-21/cover3_feishu.png",
-    "assets/2026-10-21/cover4_feishu.png"
+    "assets/2026-10-22/cover1_feishu.png",
+    "assets/2026-10-22/cover2_feishu.png",
+    "assets/2026-10-22/cover3_feishu.png",
+    "assets/2026-10-22/cover4_feishu.png"
   ]
 }
