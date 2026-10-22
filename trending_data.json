@@ -7,80 +7,80 @@
       "url": "https://github.com/cloudflare/security-audit-skill",
       "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
       "language": "JavaScript",
-      "stars_today": "1,997 stars today",
-      "stars_total": "35,485"
+      "stars_today": "2,012 stars today",
+      "stars_total": "36,520"
     },
     {
       "name": "vllm-project/vllm",
       "url": "https://github.com/vllm-project/vllm",
       "description": "A high-throughput and memory-efficient inference and serving engine for LLMs",
       "language": "Python",
-      "stars_today": "439 stars today",
-      "stars_total": "94,768"
+      "stars_today": "441 stars today",
+      "stars_total": "94,880"
     },
     {
       "name": "stablyai/orca",
       "url": "https://github.com/stablyai/orca",
       "description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
       "language": "TypeScript",
-      "stars_today": "1,543 stars today",
-      "stars_total": "100,919"
+      "stars_today": "1,541 stars today",
+      "stars_total": "101,283"
     },
     {
       "name": "headroomlabs-ai/headroom",
       "url": "https://github.com/headroomlabs-ai/headroom",
       "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
       "language": "Python",
-      "stars_today": "477 stars today",
-      "stars_total": "77,124"
+      "stars_today": "474 stars today",
+      "stars_total": "77,266"
     },
     {
       "name": "DietrichGebert/ponytail",
       "url": "https://github.com/DietrichGebert/ponytail",
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
       "language": "JavaScript",
-      "stars_today": "2,051 stars today",
-      "stars_total": "171,171"
+      "stars_today": "2,079 stars today",
+      "stars_total": "171,659"
     },
     {
       "name": "Comfy-Org/ComfyUI",
       "url": "https://github.com/Comfy-Org/ComfyUI",
       "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
       "language": "Python",
-      "stars_today": "914 stars today",
-      "stars_total": "141,347"
+      "stars_today": "939 stars today",
+      "stars_total": "141,531"
     },
     {
       "name": "supabase/supabase",
       "url": "https://github.com/supabase/supabase",
       "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
       "language": "TypeScript",
-      "stars_today": "509 stars today",
-      "stars_total": "112,805"
+      "stars_today": "504 stars today",
+      "stars_total": "113,011"
     },
     {
       "name": "twentyhq/twenty",
       "url": "https://github.com/twentyhq/twenty",
       "description": "The open alternative to Salesforce, designed for AI.",
       "language": "TypeScript",
-      "stars_today": "105 stars today",
-      "stars_total": "58,970"
+      "stars_today": "112 stars today",
+      "stars_total": "59,172"
     },
     {
       "name": "shiyu-coder/Kronos",
       "url": "https://github.com/shiyu-coder/Kronos",
       "description": "Kronos: A Foundation Model for the Language of Financial Markets",
       "language": "Python",
-      "stars_today": "570 stars today",
-      "stars_total": "42,707"
+      "stars_today": "575 stars today",
+      "stars_total": "42,833"
     },
     {
       "name": "strelov1/freehire",
       "url": "https://github.com/strelov1/freehire",
       "description": "freehire — the open-source search engine for job seekers",
       "language": "Go",
-      "stars_today": "396 stars today",
-      "stars_total": "2,192"
+      "stars_today": "360 stars today",
+      "stars_total": "2,395"
     }
   ],
   "ai_repos": [
@@ -89,64 +89,64 @@
       "url": "https://github.com/cloudflare/security-audit-skill",
       "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
       "language": "JavaScript",
-      "stars_today": "1,997 stars today",
-      "stars_total": "35,485"
+      "stars_today": "2,012 stars today",
+      "stars_total": "36,520"
     },
     {
       "name": "vllm-project/vllm",
       "url": "https://github.com/vllm-project/vllm",
       "description": "A high-throughput and memory-efficient inference and serving engine for LLMs",
       "language": "Python",
-      "stars_today": "439 stars today",
-      "stars_total": "94,768"
+      "stars_today": "441 stars today",
+      "stars_total": "94,880"
     },
     {
       "name": "stablyai/orca",
       "url": "https://github.com/stablyai/orca",
       "description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
       "language": "TypeScript",
-      "stars_today": "1,543 stars today",
-      "stars_total": "100,919"
+      "stars_today": "1,541 stars today",
+      "stars_total": "101,283"
     },
     {
       "name": "headroomlabs-ai/headroom",
       "url": "https://github.com/headroomlabs-ai/headroom",
       "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
       "language": "Python",
-      "stars_today": "477 stars today",
-      "stars_total": "77,124"
+      "stars_today": "474 stars today",
+      "stars_total": "77,266"
     },
     {
       "name": "DietrichGebert/ponytail",
       "url": "https://github.com/DietrichGebert/ponytail",
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
       "language": "JavaScript",
-      "stars_today": "2,051 stars today",
-      "stars_total": "171,171"
+      "stars_today": "2,079 stars today",
+      "stars_total": "171,659"
     },
     {
       "name": "Comfy-Org/ComfyUI",
       "url": "https://github.com/Comfy-Org/ComfyUI",
       "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
       "language": "Python",
-      "stars_today": "914 stars today",
-      "stars_total": "141,347"
+      "stars_today": "939 stars today",
+      "stars_total": "141,531"
     },
     {
       "name": "supabase/supabase",
       "url": "https://github.com/supabase/supabase",
       "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
       "language": "TypeScript",
-      "stars_today": "509 stars today",
-      "stars_total": "112,805"
+      "stars_today": "504 stars today",
+      "stars_total": "113,011"
     },
     {
       "name": "twentyhq/twenty",
       "url": "https://github.com/twentyhq/twenty",
       "description": "The open alternative to Salesforce, designed for AI.",
       "language": "TypeScript",
-      "stars_today": "105 stars today",
-      "stars_total": "58,970"
+      "stars_today": "112 stars today",
+      "stars_total": "59,172"
     }
   ],
   "posts": [
