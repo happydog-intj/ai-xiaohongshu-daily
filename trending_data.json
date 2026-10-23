@@ -1,177 +1,123 @@
 {
-  "date": "2026-10-23",
+  "date": "2026-10-24",
   "slot": "早报",
   "all_repos": [
+    {
+      "name": "cloudflare/security-audit-skill",
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "language": "JavaScript",
+      "stars_today": "2,706 stars today",
+      "stars_total": "41,476"
+    },
     {
       "name": "php/php-src",
       "url": "https://github.com/php/php-src",
       "description": "The PHP Interpreter",
       "language": "C",
-      "stars_today": "287 stars today",
-      "stars_total": "41,163"
+      "stars_today": "722 stars today",
+      "stars_total": "41,505"
     },
     {
       "name": "anthropics/knowledge-work-plugins",
       "url": "https://github.com/anthropics/knowledge-work-plugins",
       "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
       "language": "Python",
-      "stars_today": "303 stars today",
-      "stars_total": "31,613"
+      "stars_today": "643 stars today",
+      "stars_total": "32,077"
     },
     {
-      "name": "DietrichGebert/ponytail",
-      "url": "https://github.com/DietrichGebert/ponytail",
-      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "language": "JavaScript",
-      "stars_today": "1,948 stars today",
-      "stars_total": "173,499"
+      "name": "NVIDIA/OpenShell",
+      "url": "https://github.com/NVIDIA/OpenShell",
+      "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
+      "language": "Rust",
+      "stars_today": "1,240 stars today",
+      "stars_total": "18,549"
     },
     {
-      "name": "cloudflare/security-audit-skill",
-      "url": "https://github.com/cloudflare/security-audit-skill",
-      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
-      "language": "JavaScript",
-      "stars_today": "2,979 stars today",
-      "stars_total": "39,594"
-    },
-    {
-      "name": "Graphify-Labs/graphify",
-      "url": "https://github.com/Graphify-Labs/graphify",
-      "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
-      "language": "Python",
-      "stars_today": "1,408 stars today",
-      "stars_total": "132,967"
-    },
-    {
-      "name": "supabase/supabase",
-      "url": "https://github.com/supabase/supabase",
-      "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+      "name": "Renhuai123/ziwei-doushu",
+      "url": "https://github.com/Renhuai123/ziwei-doushu",
+      "description": "紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据",
       "language": "TypeScript",
-      "stars_today": "693 stars today",
-      "stars_total": "113,488"
+      "stars_today": "547 stars today",
+      "stars_total": "6,779"
     },
     {
-      "name": "fastapi/fastapi",
-      "url": "https://github.com/fastapi/fastapi",
-      "description": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
+      "name": "SnailSploit/Claude-Red",
+      "url": "https://github.com/SnailSploit/Claude-Red",
+      "description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
       "language": "Python",
-      "stars_today": "101 stars today",
-      "stars_total": "103,754"
+      "stars_today": "209 stars today",
+      "stars_total": "8,243"
     },
     {
-      "name": "luongnv89/claude-howto",
-      "url": "https://github.com/luongnv89/claude-howto",
-      "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
+      "name": "OpenBMB/VoxCPM",
+      "url": "https://github.com/OpenBMB/VoxCPM",
+      "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
       "language": "Python",
-      "stars_today": "177 stars today",
-      "stars_total": "43,227"
+      "stars_today": "144 stars today",
+      "stars_total": "40,128"
     },
     {
-      "name": "Meloong-Git/PCL",
-      "url": "https://github.com/Meloong-Git/PCL",
-      "description": "Minecraft 启动器 Plain Craft Launcher（PCL）。",
-      "language": "Visual Basic .NET",
-      "stars_today": "119 stars today",
-      "stars_total": "8,703"
+      "name": "nodejs/node",
+      "url": "https://github.com/nodejs/node",
+      "description": "Node.js JavaScript runtime ✨🐢🚀✨",
+      "language": "JavaScript",
+      "stars_today": "93 stars today",
+      "stars_total": "122,717"
     }
   ],
   "ai_repos": [
     {
-      "name": "anthropics/knowledge-work-plugins",
-      "url": "https://github.com/anthropics/knowledge-work-plugins",
-      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
-      "language": "Python",
-      "stars_today": "303 stars today",
-      "stars_total": "31,613"
-    },
-    {
-      "name": "DietrichGebert/ponytail",
-      "url": "https://github.com/DietrichGebert/ponytail",
-      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "language": "JavaScript",
-      "stars_today": "1,948 stars today",
-      "stars_total": "173,499"
-    },
-    {
       "name": "cloudflare/security-audit-skill",
       "url": "https://github.com/cloudflare/security-audit-skill",
       "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
       "language": "JavaScript",
-      "stars_today": "2,979 stars today",
-      "stars_total": "39,594"
+      "stars_today": "2,706 stars today",
+      "stars_total": "41,476"
     },
     {
-      "name": "Graphify-Labs/graphify",
-      "url": "https://github.com/Graphify-Labs/graphify",
-      "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
+      "name": "anthropics/knowledge-work-plugins",
+      "url": "https://github.com/anthropics/knowledge-work-plugins",
+      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
       "language": "Python",
-      "stars_today": "1,408 stars today",
-      "stars_total": "132,967"
+      "stars_today": "643 stars today",
+      "stars_total": "32,077"
     },
     {
-      "name": "supabase/supabase",
-      "url": "https://github.com/supabase/supabase",
-      "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+      "name": "NVIDIA/OpenShell",
+      "url": "https://github.com/NVIDIA/OpenShell",
+      "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
+      "language": "Rust",
+      "stars_today": "1,240 stars today",
+      "stars_total": "18,549"
+    },
+    {
+      "name": "Renhuai123/ziwei-doushu",
+      "url": "https://github.com/Renhuai123/ziwei-doushu",
+      "description": "紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据",
       "language": "TypeScript",
-      "stars_today": "693 stars today",
-      "stars_total": "113,488"
+      "stars_today": "547 stars today",
+      "stars_total": "6,779"
     },
     {
-      "name": "luongnv89/claude-howto",
-      "url": "https://github.com/luongnv89/claude-howto",
-      "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
+      "name": "SnailSploit/Claude-Red",
+      "url": "https://github.com/SnailSploit/Claude-Red",
+      "description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
       "language": "Python",
-      "stars_today": "177 stars today",
-      "stars_total": "43,227"
+      "stars_today": "209 stars today",
+      "stars_total": "8,243"
     },
     {
-      "name": "Meloong-Git/PCL",
-      "url": "https://github.com/Meloong-Git/PCL",
-      "description": "Minecraft 启动器 Plain Craft Launcher（PCL）。",
-      "language": "Visual Basic .NET",
-      "stars_today": "119 stars today",
-      "stars_total": "8,703"
+      "name": "OpenBMB/VoxCPM",
+      "url": "https://github.com/OpenBMB/VoxCPM",
+      "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
+      "language": "Python",
+      "stars_today": "144 stars today",
+      "stars_total": "40,128"
     }
   ],
   "posts": [
-    {
-      "topic": "knowledge-work-plugi",
-      "repo": "anthropics/knowledge-work-plugins",
-      "cover_line1": "knowledge-",
-      "cover_line2": "今日 GitHub 热榜！",
-      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**anthropics/knowledge-work-plugins**\n\n📌 Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork\n\n🔗 https://github.com/anthropics/knowledge-work-plugins\n\n关注我，每天第一时间 AI 动态 👇",
-      "tags": [
-        "AI",
-        "GitHub",
-        "开源",
-        "热门项目",
-        "大模型",
-        "机器学习",
-        "深度学习",
-        "AI工具",
-        "技术",
-        "炼丹"
-      ]
-    },
-    {
-      "topic": "ponytail",
-      "repo": "DietrichGebert/ponytail",
-      "cover_line1": "ponytail",
-      "cover_line2": "今日 GitHub 热榜！",
-      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**DietrichGebert/ponytail**\n\n📌 Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.\n\n🔗 https://github.com/DietrichGebert/ponytail\n\n关注我，每天第一时间 AI 动态 👇",
-      "tags": [
-        "AI",
-        "GitHub",
-        "开源",
-        "热门项目",
-        "大模型",
-        "机器学习",
-        "深度学习",
-        "AI工具",
-        "技术",
-        "炼丹"
-      ]
-    },
     {
       "topic": "security-audit-skill",
       "repo": "cloudflare/security-audit-skill",
@@ -192,11 +138,49 @@
       ]
     },
     {
-      "topic": "graphify",
-      "repo": "Graphify-Labs/graphify",
-      "cover_line1": "graphify",
+      "topic": "knowledge-work-plugi",
+      "repo": "anthropics/knowledge-work-plugins",
+      "cover_line1": "knowledge-",
       "cover_line2": "今日 GitHub 热榜！",
-      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**Graphify-Labs/graphify**\n\n📌 Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.\n\n🔗 https://github.com/Graphify-Labs/graphify\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**anthropics/knowledge-work-plugins**\n\n📌 Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork\n\n🔗 https://github.com/anthropics/knowledge-work-plugins\n\n关注我，每天第一时间 AI 动态 👇",
+      "tags": [
+        "AI",
+        "GitHub",
+        "开源",
+        "热门项目",
+        "大模型",
+        "机器学习",
+        "深度学习",
+        "AI工具",
+        "技术",
+        "炼丹"
+      ]
+    },
+    {
+      "topic": "OpenShell",
+      "repo": "NVIDIA/OpenShell",
+      "cover_line1": "OpenShell",
+      "cover_line2": "今日 GitHub 热榜！",
+      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**NVIDIA/OpenShell**\n\n📌 OpenShell is the safe, private runtime for autonomous AI agents.\n\n🔗 https://github.com/NVIDIA/OpenShell\n\n关注我，每天第一时间 AI 动态 👇",
+      "tags": [
+        "AI",
+        "GitHub",
+        "开源",
+        "热门项目",
+        "大模型",
+        "机器学习",
+        "深度学习",
+        "AI工具",
+        "技术",
+        "炼丹"
+      ]
+    },
+    {
+      "topic": "ziwei-doushu",
+      "repo": "Renhuai123/ziwei-doushu",
+      "cover_line1": "ziwei-dous",
+      "cover_line2": "今日 GitHub 热榜！",
+      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**Renhuai123/ziwei-doushu**\n\n📌 紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据\n\n🔗 https://github.com/Renhuai123/ziwei-doushu\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "GitHub",
@@ -212,10 +196,10 @@
     }
   ],
   "image_paths": [
-    "assets/2026-10-23/trending/summary.png",
-    "assets/2026-10-23/trending/post1.png",
-    "assets/2026-10-23/trending/post2.png",
-    "assets/2026-10-23/trending/post3.png",
-    "assets/2026-10-23/trending/post4.png"
+    "assets/2026-10-24/trending/summary.png",
+    "assets/2026-10-24/trending/post1.png",
+    "assets/2026-10-24/trending/post2.png",
+    "assets/2026-10-24/trending/post3.png",
+    "assets/2026-10-24/trending/post4.png"
   ]
 }
