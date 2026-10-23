@@ -1,11 +1,11 @@
 {
-  "date": "2026-10-22",
+  "date": "2026-10-23",
   "posts": [
     {
-      "topic": "Railway Security Dis",
-      "cover_line1": "Railway Se",
+      "topic": "LLMs are making form",
+      "cover_line1": "LLMs are m",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Railway Security Disclosure**\n\n📌 来源：HackerNews\n🔗 https://blog.railway.com/p/security-disclosure-wednesday-october-21st\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**LLMs are making formal software verification feasible at a much larger scale**\n\n📌 来源：HackerNews\n🔗 https://www.anthropic.com/research/formal-verification\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -20,10 +20,10 @@
       ]
     },
     {
-      "topic": "Compromised LiteLLM ",
-      "cover_line1": "Compromise",
+      "topic": "OpenShell – A safe, ",
+      "cover_line1": "OpenShell ",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor**\n\n📌 来源：HackerNews\n🔗 https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**OpenShell – A safe, private runtime for fleets of autonomous AI agents**\n\n📌 来源：HackerNews\n🔗 https://github.com/NVIDIA/OpenShell\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -38,10 +38,10 @@
       ]
     },
     {
-      "topic": "Chain of Thought for",
-      "cover_line1": "Chain of T",
+      "topic": "Every AI model has t",
+      "cover_line1": "Every AI m",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Chain of Thought for Humans**\n\n📌 来源：HackerNews\n🔗 https://www.boristhebrave.com/2026/10/18/chain-of-thought-for-humans/\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Every AI model has the same \"controversial\" take on humans**\n\n📌 来源：HackerNews\n🔗 https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -56,10 +56,10 @@
       ]
     },
     {
-      "topic": "OpenAI models are co",
-      "cover_line1": "OpenAI mod",
+      "topic": "Jailbreaking the Swi",
+      "cover_line1": "Jailbreaki",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**OpenAI models are coming to Google Cloud**\n\n📌 来源：HackerNews\n🔗 https://openai.com/index/openai-models-google-cloud/\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Jailbreaking the Switch 2**\n\n📌 来源：HackerNews\n🔗 https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -75,15 +75,15 @@
     }
   ],
   "image_paths": [
-    "assets/2026-10-22/cover1.png",
-    "assets/2026-10-22/cover2.png",
-    "assets/2026-10-22/cover3.png",
-    "assets/2026-10-22/cover4.png"
+    "assets/2026-10-23/cover1.png",
+    "assets/2026-10-23/cover2.png",
+    "assets/2026-10-23/cover3.png",
+    "assets/2026-10-23/cover4.png"
   ],
   "feishu_image_paths": [
-    "assets/2026-10-22/cover1_feishu.png",
-    "assets/2026-10-22/cover2_feishu.png",
-    "assets/2026-10-22/cover3_feishu.png",
-    "assets/2026-10-22/cover4_feishu.png"
+    "assets/2026-10-23/cover1_feishu.png",
+    "assets/2026-10-23/cover2_feishu.png",
+    "assets/2026-10-23/cover3_feishu.png",
+    "assets/2026-10-23/cover4_feishu.png"
   ]
 }
