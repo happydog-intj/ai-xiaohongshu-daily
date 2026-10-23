@@ -7,8 +7,8 @@
       "url": "https://github.com/php/php-src",
       "description": "The PHP Interpreter",
       "language": "C",
-      "stars_today": "423 stars today",
-      "stars_total": "41,005"
+      "stars_today": "287 stars today",
+      "stars_total": "41,163"
     },
     {
       "name": "anthropics/knowledge-work-plugins",
@@ -16,15 +16,15 @@
       "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
       "language": "Python",
       "stars_today": "303 stars today",
-      "stars_total": "31,446"
+      "stars_total": "31,613"
     },
     {
       "name": "DietrichGebert/ponytail",
       "url": "https://github.com/DietrichGebert/ponytail",
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
       "language": "JavaScript",
-      "stars_today": "1,949 stars today",
-      "stars_total": "173,045"
+      "stars_today": "1,948 stars today",
+      "stars_total": "173,499"
     },
     {
       "name": "cloudflare/security-audit-skill",
@@ -32,47 +32,47 @@
       "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
       "language": "JavaScript",
       "stars_today": "2,979 stars today",
-      "stars_total": "38,798"
+      "stars_total": "39,594"
     },
     {
       "name": "Graphify-Labs/graphify",
       "url": "https://github.com/Graphify-Labs/graphify",
       "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
       "language": "Python",
-      "stars_today": "1,407 stars today",
-      "stars_total": "132,659"
+      "stars_today": "1,408 stars today",
+      "stars_total": "132,967"
     },
     {
       "name": "supabase/supabase",
       "url": "https://github.com/supabase/supabase",
       "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
       "language": "TypeScript",
-      "stars_today": "683 stars today",
-      "stars_total": "113,374"
+      "stars_today": "693 stars today",
+      "stars_total": "113,488"
     },
     {
       "name": "fastapi/fastapi",
       "url": "https://github.com/fastapi/fastapi",
       "description": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
       "language": "Python",
-      "stars_today": "96 stars today",
-      "stars_total": "103,581"
+      "stars_today": "101 stars today",
+      "stars_total": "103,754"
     },
     {
       "name": "luongnv89/claude-howto",
       "url": "https://github.com/luongnv89/claude-howto",
       "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
       "language": "Python",
-      "stars_today": "370 stars today",
-      "stars_total": "42,893"
+      "stars_today": "177 stars today",
+      "stars_total": "43,227"
     },
     {
       "name": "Meloong-Git/PCL",
       "url": "https://github.com/Meloong-Git/PCL",
       "description": "Minecraft 启动器 Plain Craft Launcher（PCL）。",
       "language": "Visual Basic .NET",
-      "stars_today": "115 stars today",
-      "stars_total": "8,639"
+      "stars_today": "119 stars today",
+      "stars_total": "8,703"
     }
   ],
   "ai_repos": [
@@ -82,15 +82,15 @@
       "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
       "language": "Python",
       "stars_today": "303 stars today",
-      "stars_total": "31,446"
+      "stars_total": "31,613"
     },
     {
       "name": "DietrichGebert/ponytail",
       "url": "https://github.com/DietrichGebert/ponytail",
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
       "language": "JavaScript",
-      "stars_today": "1,949 stars today",
-      "stars_total": "173,045"
+      "stars_today": "1,948 stars today",
+      "stars_total": "173,499"
     },
     {
       "name": "cloudflare/security-audit-skill",
@@ -98,39 +98,39 @@
       "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
       "language": "JavaScript",
       "stars_today": "2,979 stars today",
-      "stars_total": "38,798"
+      "stars_total": "39,594"
     },
     {
       "name": "Graphify-Labs/graphify",
       "url": "https://github.com/Graphify-Labs/graphify",
       "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
       "language": "Python",
-      "stars_today": "1,407 stars today",
-      "stars_total": "132,659"
+      "stars_today": "1,408 stars today",
+      "stars_total": "132,967"
     },
     {
       "name": "supabase/supabase",
       "url": "https://github.com/supabase/supabase",
       "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
       "language": "TypeScript",
-      "stars_today": "683 stars today",
-      "stars_total": "113,374"
+      "stars_today": "693 stars today",
+      "stars_total": "113,488"
     },
     {
       "name": "luongnv89/claude-howto",
       "url": "https://github.com/luongnv89/claude-howto",
       "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
       "language": "Python",
-      "stars_today": "370 stars today",
-      "stars_total": "42,893"
+      "stars_today": "177 stars today",
+      "stars_total": "43,227"
     },
     {
       "name": "Meloong-Git/PCL",
       "url": "https://github.com/Meloong-Git/PCL",
       "description": "Minecraft 启动器 Plain Craft Launcher（PCL）。",
       "language": "Visual Basic .NET",
-      "stars_today": "115 stars today",
-      "stars_total": "8,639"
+      "stars_today": "119 stars today",
+      "stars_total": "8,703"
     }
   ],
   "posts": [
