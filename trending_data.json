@@ -7,80 +7,80 @@
       "url": "https://github.com/makecindy/cindy",
       "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
       "language": "TypeScript",
-      "stars_today": "677 stars today",
-      "stars_total": "4,652"
+      "stars_today": "675 stars today",
+      "stars_total": "4,874"
     },
     {
       "name": "Nutlope/hallmark",
       "url": "https://github.com/Nutlope/hallmark",
       "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
       "language": "CSS",
-      "stars_today": "1,359 stars today",
-      "stars_total": "33,290"
+      "stars_today": "1,317 stars today",
+      "stars_total": "33,776"
     },
     {
       "name": "debpalash/VoiceStudio",
       "url": "https://github.com/debpalash/VoiceStudio",
       "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
       "language": "Python",
-      "stars_today": "1,588 stars today",
-      "stars_total": "86,223"
+      "stars_today": "1,592 stars today",
+      "stars_total": "86,835"
     },
     {
       "name": "pbakaus/impeccable",
       "url": "https://github.com/pbakaus/impeccable",
       "description": "The design language that makes your AI harness better at design.",
       "language": "Rust",
-      "stars_today": "1,113 stars today",
-      "stars_total": "87,340"
+      "stars_today": "1,092 stars today",
+      "stars_total": "87,703"
     },
     {
       "name": "pollen-robotics/microduck",
       "url": "https://github.com/pollen-robotics/microduck",
       "description": "A Tiny biped duck robot 🦆",
       "language": "Rust",
-      "stars_today": "657 stars today",
-      "stars_total": "11,462"
+      "stars_today": "647 stars today",
+      "stars_total": "11,641"
     },
     {
       "name": "TauricResearch/TradingAgents",
       "url": "https://github.com/TauricResearch/TradingAgents",
       "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
       "language": "Python",
-      "stars_today": "636 stars today",
-      "stars_total": "114,225"
+      "stars_today": "381 stars today",
+      "stars_total": "114,614"
     },
     {
       "name": "Renhuai123/ziwei-doushu",
       "url": "https://github.com/Renhuai123/ziwei-doushu",
       "description": "紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据",
       "language": "TypeScript",
-      "stars_today": "255 stars today",
-      "stars_total": "7,484"
+      "stars_today": "199 stars today",
+      "stars_total": "7,558"
     },
     {
       "name": "JetBrains/thinkrail",
       "url": "https://github.com/JetBrains/thinkrail",
       "description": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",
       "language": "TypeScript",
-      "stars_today": "52 stars today",
-      "stars_total": "1,258"
+      "stars_today": "51 stars today",
+      "stars_total": "1,742"
     },
     {
       "name": "coollabsio/coolify",
       "url": "https://github.com/coollabsio/coolify",
       "description": "An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 360+ one-click services on your own servers.",
       "language": "PHP",
-      "stars_today": "192 stars today",
-      "stars_total": "64,062"
+      "stars_today": "152 stars today",
+      "stars_total": "64,384"
     },
     {
       "name": "cloudflare/security-audit-skill",
       "url": "https://github.com/cloudflare/security-audit-skill",
       "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
       "language": "JavaScript",
-      "stars_today": "2,874 stars today",
-      "stars_total": "46,304"
+      "stars_today": "2,878 stars today",
+      "stars_total": "46,911"
     }
   ],
   "ai_repos": [
@@ -89,56 +89,56 @@
       "url": "https://github.com/makecindy/cindy",
       "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
       "language": "TypeScript",
-      "stars_today": "677 stars today",
-      "stars_total": "4,652"
+      "stars_today": "675 stars today",
+      "stars_total": "4,874"
     },
     {
       "name": "Nutlope/hallmark",
       "url": "https://github.com/Nutlope/hallmark",
       "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
       "language": "CSS",
-      "stars_today": "1,359 stars today",
-      "stars_total": "33,290"
+      "stars_today": "1,317 stars today",
+      "stars_total": "33,776"
     },
     {
       "name": "pbakaus/impeccable",
       "url": "https://github.com/pbakaus/impeccable",
       "description": "The design language that makes your AI harness better at design.",
       "language": "Rust",
-      "stars_today": "1,113 stars today",
-      "stars_total": "87,340"
+      "stars_today": "1,092 stars today",
+      "stars_total": "87,703"
     },
     {
       "name": "TauricResearch/TradingAgents",
       "url": "https://github.com/TauricResearch/TradingAgents",
       "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
       "language": "Python",
-      "stars_today": "636 stars today",
-      "stars_total": "114,225"
+      "stars_today": "381 stars today",
+      "stars_total": "114,614"
     },
     {
       "name": "Renhuai123/ziwei-doushu",
       "url": "https://github.com/Renhuai123/ziwei-doushu",
       "description": "紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据",
       "language": "TypeScript",
-      "stars_today": "255 stars today",
-      "stars_total": "7,484"
+      "stars_today": "199 stars today",
+      "stars_total": "7,558"
     },
     {
       "name": "JetBrains/thinkrail",
       "url": "https://github.com/JetBrains/thinkrail",
       "description": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",
       "language": "TypeScript",
-      "stars_today": "52 stars today",
-      "stars_total": "1,258"
+      "stars_today": "51 stars today",
+      "stars_total": "1,742"
     },
     {
       "name": "cloudflare/security-audit-skill",
       "url": "https://github.com/cloudflare/security-audit-skill",
       "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
       "language": "JavaScript",
-      "stars_today": "2,874 stars today",
-      "stars_total": "46,304"
+      "stars_today": "2,878 stars today",
+      "stars_total": "46,911"
     }
   ],
   "posts": [
