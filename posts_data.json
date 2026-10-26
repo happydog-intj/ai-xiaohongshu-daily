@@ -1,11 +1,11 @@
 {
-  "date": "2026-10-25",
+  "date": "2026-10-26",
   "posts": [
     {
-      "topic": "America Has Lost 200",
-      "cover_line1": "America Ha",
+      "topic": "A 10-year-old CNN ou",
+      "cover_line1": "A 10-year-",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**America Has Lost 200k of Jobs in Media, Film and the Arts. How Much Is AI?**\n\n📌 来源：HackerNews\n🔗 https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis**\n\n📌 来源：HackerNews\n🔗 https://lynchlab.net/llm-skin-cancer\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -20,10 +20,10 @@
       ]
     },
     {
-      "topic": "Neural chip decodes ",
-      "cover_line1": "Neural chi",
+      "topic": "OpenAI and Anthropic",
+      "cover_line1": "OpenAI and",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Neural chip decodes interactions between brain regions**\n\n📌 来源：HackerNews\n🔗 https://actu.epfl.ch/news/neural-chip-decodes-interactions-between-brain-r-2/\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?**\n\n📌 来源：HackerNews\n🔗 https://minimaxir.com/2026/10/cheap-llms/\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -38,10 +38,10 @@
       ]
     },
     {
-      "topic": "No signs of AI payof",
-      "cover_line1": "No signs o",
+      "topic": "Making the Buddha He",
+      "cover_line1": "Making the",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**No signs of AI payoff outside the tech sector**\n\n📌 来源：HackerNews\n🔗 https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Making the Buddha Head from Merv Whole Again**\n\n📌 来源：HackerNews\n🔗 https://www.getty.edu/news/buddha-head-of-merv-turkmenistan-conservation/\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -56,10 +56,10 @@
       ]
     },
     {
-      "topic": "Oai-math-revised: a ",
-      "cover_line1": "Oai-math-r",
+      "topic": "JetBrains Thinkrail",
+      "cover_line1": "JetBrains ",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Oai-math-revised: a community hub for revising OpenAI's math write-ups**\n\n📌 来源：HackerNews\n🔗 https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups/\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**JetBrains Thinkrail**\n\n📌 来源：HackerNews\n🔗 https://github.com/JetBrains/thinkrail\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -75,15 +75,15 @@
     }
   ],
   "image_paths": [
-    "assets/2026-10-25/cover1.png",
-    "assets/2026-10-25/cover2.png",
-    "assets/2026-10-25/cover3.png",
-    "assets/2026-10-25/cover4.png"
+    "assets/2026-10-26/cover1.png",
+    "assets/2026-10-26/cover2.png",
+    "assets/2026-10-26/cover3.png",
+    "assets/2026-10-26/cover4.png"
   ],
   "feishu_image_paths": [
-    "assets/2026-10-25/cover1_feishu.png",
-    "assets/2026-10-25/cover2_feishu.png",
-    "assets/2026-10-25/cover3_feishu.png",
-    "assets/2026-10-25/cover4_feishu.png"
+    "assets/2026-10-26/cover1_feishu.png",
+    "assets/2026-10-26/cover2_feishu.png",
+    "assets/2026-10-26/cover3_feishu.png",
+    "assets/2026-10-26/cover4_feishu.png"
   ]
 }
