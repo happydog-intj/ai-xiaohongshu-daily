@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-27",
+  "date": "2026-10-28",
   "slot": "早报",
   "all_repos": [
     {
@@ -7,80 +7,80 @@
       "url": "https://github.com/Nutlope/hallmark",
       "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
       "language": "CSS",
-      "stars_today": "2,244 stars today",
-      "stars_total": "36,454"
-    },
-    {
-      "name": "TauricResearch/TradingAgents",
-      "url": "https://github.com/TauricResearch/TradingAgents",
-      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
-      "language": "Python",
-      "stars_today": "1,395 stars today",
-      "stars_total": "116,166"
-    },
-    {
-      "name": "JetBrains/thinkrail",
-      "url": "https://github.com/JetBrains/thinkrail",
-      "description": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",
-      "language": "TypeScript",
-      "stars_today": "1,173 stars today",
-      "stars_total": "2,954"
-    },
-    {
-      "name": "makecindy/cindy",
-      "url": "https://github.com/makecindy/cindy",
-      "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
-      "language": "TypeScript",
-      "stars_today": "1,296 stars today",
-      "stars_total": "6,538"
-    },
-    {
-      "name": "affaan-m/ECC",
-      "url": "https://github.com/affaan-m/ECC",
-      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "language": "JavaScript",
-      "stars_today": "896 stars today",
-      "stars_total": "289,885"
-    },
-    {
-      "name": "pbakaus/impeccable",
-      "url": "https://github.com/pbakaus/impeccable",
-      "description": "The design language that makes your AI harness better at design.",
-      "language": "Rust",
-      "stars_today": "1,506 stars today",
-      "stars_total": "89,265"
-    },
-    {
-      "name": "NVIDIA/SkillSpector",
-      "url": "https://github.com/NVIDIA/SkillSpector",
-      "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills before you install them.",
-      "language": "Python",
-      "stars_today": "214 stars today",
-      "stars_total": "22,242"
-    },
-    {
-      "name": "pollen-robotics/microduck",
-      "url": "https://github.com/pollen-robotics/microduck",
-      "description": "A Tiny biped duck robot 🦆",
-      "language": "Rust",
-      "stars_today": "843 stars today",
-      "stars_total": "12,443"
+      "stars_today": "2,859 stars today",
+      "stars_total": "38,591"
     },
     {
       "name": "nightly-labs/openbot",
       "url": "https://github.com/nightly-labs/openbot",
       "description": "A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.",
       "language": "TypeScript",
-      "stars_today": "176 stars today",
-      "stars_total": "1,507"
+      "stars_today": "794 stars today",
+      "stars_total": "2,215"
     },
     {
-      "name": "Panniantong/Agent-Reach",
-      "url": "https://github.com/Panniantong/Agent-Reach",
-      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "name": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars_today": "608 stars today",
+      "stars_total": "306,230"
+    },
+    {
+      "name": "pbakaus/impeccable",
+      "url": "https://github.com/pbakaus/impeccable",
+      "description": "The design language that makes your AI harness better at design.",
+      "language": "Rust",
+      "stars_today": "1,458 stars today",
+      "stars_total": "90,275"
+    },
+    {
+      "name": "makecindy/cindy",
+      "url": "https://github.com/makecindy/cindy",
+      "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
+      "language": "TypeScript",
+      "stars_today": "1,446 stars today",
+      "stars_total": "7,339"
+    },
+    {
+      "name": "gitroomhq/postiz-app",
+      "url": "https://github.com/gitroomhq/postiz-app",
+      "description": "📨 The ultimate agentic social media scheduling tool 🤖",
+      "language": "TypeScript",
+      "stars_today": "953 stars today",
+      "stars_total": "39,153"
+    },
+    {
+      "name": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "language": "JavaScript",
+      "stars_today": "1,183 stars today",
+      "stars_total": "290,643"
+    },
+    {
+      "name": "HKUDS/DeepTutor",
+      "url": "https://github.com/HKUDS/DeepTutor",
+      "description": "DeepTutor: Lifelong Personalized Tutoring.https://deeptutor.info/.",
       "language": "Python",
-      "stars_today": "746 stars today",
-      "stars_total": "103,666"
+      "stars_today": "1,587 stars today",
+      "stars_total": "45,570"
+    },
+    {
+      "name": "JetBrains/thinkrail",
+      "url": "https://github.com/JetBrains/thinkrail",
+      "description": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",
+      "language": "TypeScript",
+      "stars_today": "1,211 stars today",
+      "stars_total": "3,801"
+    },
+    {
+      "name": "togg53192-cmd/jailbreaks",
+      "url": "https://github.com/togg53192-cmd/jailbreaks",
+      "description": "LIST OF ALL MY JAILBREAKS",
+      "language": "",
+      "stars_today": "890 stars today",
+      "stars_total": "5,265"
     }
   ],
   "ai_repos": [
@@ -89,72 +89,72 @@
       "url": "https://github.com/Nutlope/hallmark",
       "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
       "language": "CSS",
-      "stars_today": "2,244 stars today",
-      "stars_total": "36,454"
-    },
-    {
-      "name": "TauricResearch/TradingAgents",
-      "url": "https://github.com/TauricResearch/TradingAgents",
-      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
-      "language": "Python",
-      "stars_today": "1,395 stars today",
-      "stars_total": "116,166"
-    },
-    {
-      "name": "JetBrains/thinkrail",
-      "url": "https://github.com/JetBrains/thinkrail",
-      "description": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",
-      "language": "TypeScript",
-      "stars_today": "1,173 stars today",
-      "stars_total": "2,954"
-    },
-    {
-      "name": "makecindy/cindy",
-      "url": "https://github.com/makecindy/cindy",
-      "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
-      "language": "TypeScript",
-      "stars_today": "1,296 stars today",
-      "stars_total": "6,538"
-    },
-    {
-      "name": "affaan-m/ECC",
-      "url": "https://github.com/affaan-m/ECC",
-      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "language": "JavaScript",
-      "stars_today": "896 stars today",
-      "stars_total": "289,885"
-    },
-    {
-      "name": "pbakaus/impeccable",
-      "url": "https://github.com/pbakaus/impeccable",
-      "description": "The design language that makes your AI harness better at design.",
-      "language": "Rust",
-      "stars_today": "1,506 stars today",
-      "stars_total": "89,265"
-    },
-    {
-      "name": "NVIDIA/SkillSpector",
-      "url": "https://github.com/NVIDIA/SkillSpector",
-      "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills before you install them.",
-      "language": "Python",
-      "stars_today": "214 stars today",
-      "stars_total": "22,242"
+      "stars_today": "2,859 stars today",
+      "stars_total": "38,591"
     },
     {
       "name": "nightly-labs/openbot",
       "url": "https://github.com/nightly-labs/openbot",
       "description": "A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.",
       "language": "TypeScript",
-      "stars_today": "176 stars today",
-      "stars_total": "1,507"
+      "stars_today": "794 stars today",
+      "stars_total": "2,215"
     },
     {
-      "name": "Panniantong/Agent-Reach",
-      "url": "https://github.com/Panniantong/Agent-Reach",
-      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
-      "language": "Python",
-      "stars_today": "746 stars today",
-      "stars_total": "103,666"
+      "name": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars_today": "608 stars today",
+      "stars_total": "306,230"
+    },
+    {
+      "name": "pbakaus/impeccable",
+      "url": "https://github.com/pbakaus/impeccable",
+      "description": "The design language that makes your AI harness better at design.",
+      "language": "Rust",
+      "stars_today": "1,458 stars today",
+      "stars_total": "90,275"
+    },
+    {
+      "name": "makecindy/cindy",
+      "url": "https://github.com/makecindy/cindy",
+      "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
+      "language": "TypeScript",
+      "stars_today": "1,446 stars today",
+      "stars_total": "7,339"
+    },
+    {
+      "name": "gitroomhq/postiz-app",
+      "url": "https://github.com/gitroomhq/postiz-app",
+      "description": "📨 The ultimate agentic social media scheduling tool 🤖",
+      "language": "TypeScript",
+      "stars_today": "953 stars today",
+      "stars_total": "39,153"
+    },
+    {
+      "name": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "language": "JavaScript",
+      "stars_today": "1,183 stars today",
+      "stars_total": "290,643"
+    },
+    {
+      "name": "JetBrains/thinkrail",
+      "url": "https://github.com/JetBrains/thinkrail",
+      "description": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",
+      "language": "TypeScript",
+      "stars_today": "1,211 stars today",
+      "stars_total": "3,801"
+    },
+    {
+      "name": "togg53192-cmd/jailbreaks",
+      "url": "https://github.com/togg53192-cmd/jailbreaks",
+      "description": "LIST OF ALL MY JAILBREAKS",
+      "language": "",
+      "stars_today": "890 stars today",
+      "stars_total": "5,265"
     }
   ],
   "posts": [
@@ -178,11 +178,11 @@
       ]
     },
     {
-      "topic": "TradingAgents",
-      "repo": "TauricResearch/TradingAgents",
-      "cover_line1": "TradingAge",
+      "topic": "openbot",
+      "repo": "nightly-labs/openbot",
+      "cover_line1": "openbot",
       "cover_line2": "今日 GitHub 热榜！",
-      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**TauricResearch/TradingAgents**\n\n📌 TradingAgents: Multi-Agents LLM Financial Trading Framework\n\n🔗 https://github.com/TauricResearch/TradingAgents\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**nightly-labs/openbot**\n\n📌 A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.\n\n🔗 https://github.com/nightly-labs/openbot\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "GitHub",
@@ -197,11 +197,11 @@
       ]
     },
     {
-      "topic": "thinkrail",
-      "repo": "JetBrains/thinkrail",
-      "cover_line1": "thinkrail",
+      "topic": "superpowers",
+      "repo": "obra/superpowers",
+      "cover_line1": "superpower",
       "cover_line2": "今日 GitHub 热榜！",
-      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**JetBrains/thinkrail**\n\n📌 Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need\n\n🔗 https://github.com/JetBrains/thinkrail\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**obra/superpowers**\n\n📌 An agentic skills framework & software development methodology that works.\n\n🔗 https://github.com/obra/superpowers\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "GitHub",
@@ -216,11 +216,11 @@
       ]
     },
     {
-      "topic": "cindy",
-      "repo": "makecindy/cindy",
-      "cover_line1": "cindy",
+      "topic": "impeccable",
+      "repo": "pbakaus/impeccable",
+      "cover_line1": "impeccable",
       "cover_line2": "今日 GitHub 热榜！",
-      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**makecindy/cindy**\n\n📌 Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。\n\n🔗 https://github.com/makecindy/cindy\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**pbakaus/impeccable**\n\n📌 The design language that makes your AI harness better at design.\n\n🔗 https://github.com/pbakaus/impeccable\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "GitHub",
@@ -236,10 +236,10 @@
     }
   ],
   "image_paths": [
-    "assets/2026-10-27/trending/summary.png",
-    "assets/2026-10-27/trending/post1.png",
-    "assets/2026-10-27/trending/post2.png",
-    "assets/2026-10-27/trending/post3.png",
-    "assets/2026-10-27/trending/post4.png"
+    "assets/2026-10-28/trending/summary.png",
+    "assets/2026-10-28/trending/post1.png",
+    "assets/2026-10-28/trending/post2.png",
+    "assets/2026-10-28/trending/post3.png",
+    "assets/2026-10-28/trending/post4.png"
   ]
 }
