@@ -1,11 +1,11 @@
 {
-  "date": "2026-10-26",
+  "date": "2026-10-27",
   "posts": [
     {
-      "topic": "A 10-year-old CNN ou",
-      "cover_line1": "A 10-year-",
+      "topic": "Sebastian Raschka's ",
+      "cover_line1": "Sebastian ",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis**\n\n📌 来源：HackerNews\n🔗 https://lynchlab.net/llm-skin-cancer\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Sebastian Raschka's from-scratch video course on building reasoning models**\n\n📌 来源：HackerNews\n🔗 https://magazine.sebastianraschka.com/p/building-reasoning-models\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -20,10 +20,10 @@
       ]
     },
     {
-      "topic": "OpenAI and Anthropic",
-      "cover_line1": "OpenAI and",
+      "topic": "Cross-request KV cac",
+      "cover_line1": "Cross-requ",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?**\n\n📌 来源：HackerNews\n🔗 https://minimaxir.com/2026/10/cheap-llms/\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)**\n\n📌 来源：HackerNews\n🔗 https://blog.cloudflare.com/kv-cache-exposure-remediation/\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -38,10 +38,10 @@
       ]
     },
     {
-      "topic": "Making the Buddha He",
-      "cover_line1": "Making the",
+      "topic": "GPT-6.1 Terra",
+      "cover_line1": "GPT-6.1 Te",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Making the Buddha Head from Merv Whole Again**\n\n📌 来源：HackerNews\n🔗 https://www.getty.edu/news/buddha-head-of-merv-turkmenistan-conservation/\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**GPT-6.1 Terra**\n\n📌 来源：HackerNews\n🔗 https://openai.com/index/introducing-gpt-6-1-terra/\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -56,10 +56,10 @@
       ]
     },
     {
-      "topic": "JetBrains Thinkrail",
-      "cover_line1": "JetBrains ",
+      "topic": "Anthropic S-1",
+      "cover_line1": "Anthropic ",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**JetBrains Thinkrail**\n\n📌 来源：HackerNews\n🔗 https://github.com/JetBrains/thinkrail\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Anthropic S-1**\n\n📌 来源：HackerNews\n🔗 https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -75,15 +75,15 @@
     }
   ],
   "image_paths": [
-    "assets/2026-10-26/cover1.png",
-    "assets/2026-10-26/cover2.png",
-    "assets/2026-10-26/cover3.png",
-    "assets/2026-10-26/cover4.png"
+    "assets/2026-10-27/cover1.png",
+    "assets/2026-10-27/cover2.png",
+    "assets/2026-10-27/cover3.png",
+    "assets/2026-10-27/cover4.png"
   ],
   "feishu_image_paths": [
-    "assets/2026-10-26/cover1_feishu.png",
-    "assets/2026-10-26/cover2_feishu.png",
-    "assets/2026-10-26/cover3_feishu.png",
-    "assets/2026-10-26/cover4_feishu.png"
+    "assets/2026-10-27/cover1_feishu.png",
+    "assets/2026-10-27/cover2_feishu.png",
+    "assets/2026-10-27/cover3_feishu.png",
+    "assets/2026-10-27/cover4_feishu.png"
   ]
 }
