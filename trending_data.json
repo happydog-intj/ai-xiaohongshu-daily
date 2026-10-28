@@ -3,161 +3,180 @@
   "slot": "早报",
   "all_repos": [
     {
+      "name": "elayadesign/ai-design-skills",
+      "url": "https://github.com/elayadesign/ai-design-skills",
+      "description": "",
+      "language": "",
+      "stars_today": "1,395 stars today",
+      "stars_total": "9,475"
+    },
+    {
       "name": "Nutlope/hallmark",
       "url": "https://github.com/Nutlope/hallmark",
       "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
       "language": "CSS",
-      "stars_today": "2,859 stars today",
-      "stars_total": "38,591"
+      "stars_today": "2,830 stars today",
+      "stars_total": "39,093"
     },
     {
       "name": "nightly-labs/openbot",
       "url": "https://github.com/nightly-labs/openbot",
       "description": "A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.",
       "language": "TypeScript",
-      "stars_today": "794 stars today",
-      "stars_total": "2,215"
+      "stars_today": "777 stars today",
+      "stars_total": "2,493"
     },
     {
       "name": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
-      "stars_today": "608 stars today",
-      "stars_total": "306,230"
+      "stars_today": "617 stars today",
+      "stars_total": "306,476"
     },
     {
       "name": "pbakaus/impeccable",
       "url": "https://github.com/pbakaus/impeccable",
       "description": "The design language that makes your AI harness better at design.",
       "language": "Rust",
-      "stars_today": "1,458 stars today",
-      "stars_total": "90,275"
+      "stars_today": "1,449 stars today",
+      "stars_total": "90,625"
     },
     {
       "name": "makecindy/cindy",
       "url": "https://github.com/makecindy/cindy",
       "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
       "language": "TypeScript",
-      "stars_today": "1,446 stars today",
-      "stars_total": "7,339"
+      "stars_today": "1,465 stars today",
+      "stars_total": "7,507"
     },
     {
       "name": "gitroomhq/postiz-app",
       "url": "https://github.com/gitroomhq/postiz-app",
       "description": "📨 The ultimate agentic social media scheduling tool 🤖",
       "language": "TypeScript",
-      "stars_today": "953 stars today",
-      "stars_total": "39,153"
+      "stars_today": "951 stars today",
+      "stars_total": "39,424"
     },
     {
       "name": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "language": "JavaScript",
-      "stars_today": "1,183 stars today",
-      "stars_total": "290,643"
+      "stars_today": "1,165 stars today",
+      "stars_total": "290,928"
     },
     {
       "name": "HKUDS/DeepTutor",
       "url": "https://github.com/HKUDS/DeepTutor",
       "description": "DeepTutor: Lifelong Personalized Tutoring.https://deeptutor.info/.",
       "language": "Python",
-      "stars_today": "1,587 stars today",
-      "stars_total": "45,570"
+      "stars_today": "1,598 stars today",
+      "stars_total": "46,015"
     },
     {
       "name": "JetBrains/thinkrail",
       "url": "https://github.com/JetBrains/thinkrail",
       "description": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",
       "language": "TypeScript",
-      "stars_today": "1,211 stars today",
-      "stars_total": "3,801"
-    },
-    {
-      "name": "togg53192-cmd/jailbreaks",
-      "url": "https://github.com/togg53192-cmd/jailbreaks",
-      "description": "LIST OF ALL MY JAILBREAKS",
-      "language": "",
-      "stars_today": "890 stars today",
-      "stars_total": "5,265"
+      "stars_today": "1,204 stars today",
+      "stars_total": "4,064"
     }
   ],
   "ai_repos": [
+    {
+      "name": "elayadesign/ai-design-skills",
+      "url": "https://github.com/elayadesign/ai-design-skills",
+      "description": "",
+      "language": "",
+      "stars_today": "1,395 stars today",
+      "stars_total": "9,475"
+    },
     {
       "name": "Nutlope/hallmark",
       "url": "https://github.com/Nutlope/hallmark",
       "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
       "language": "CSS",
-      "stars_today": "2,859 stars today",
-      "stars_total": "38,591"
+      "stars_today": "2,830 stars today",
+      "stars_total": "39,093"
     },
     {
       "name": "nightly-labs/openbot",
       "url": "https://github.com/nightly-labs/openbot",
       "description": "A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.",
       "language": "TypeScript",
-      "stars_today": "794 stars today",
-      "stars_total": "2,215"
+      "stars_today": "777 stars today",
+      "stars_total": "2,493"
     },
     {
       "name": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
-      "stars_today": "608 stars today",
-      "stars_total": "306,230"
+      "stars_today": "617 stars today",
+      "stars_total": "306,476"
     },
     {
       "name": "pbakaus/impeccable",
       "url": "https://github.com/pbakaus/impeccable",
       "description": "The design language that makes your AI harness better at design.",
       "language": "Rust",
-      "stars_today": "1,458 stars today",
-      "stars_total": "90,275"
+      "stars_today": "1,449 stars today",
+      "stars_total": "90,625"
     },
     {
       "name": "makecindy/cindy",
       "url": "https://github.com/makecindy/cindy",
       "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
       "language": "TypeScript",
-      "stars_today": "1,446 stars today",
-      "stars_total": "7,339"
+      "stars_today": "1,465 stars today",
+      "stars_total": "7,507"
     },
     {
       "name": "gitroomhq/postiz-app",
       "url": "https://github.com/gitroomhq/postiz-app",
       "description": "📨 The ultimate agentic social media scheduling tool 🤖",
       "language": "TypeScript",
-      "stars_today": "953 stars today",
-      "stars_total": "39,153"
+      "stars_today": "951 stars today",
+      "stars_total": "39,424"
     },
     {
       "name": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "language": "JavaScript",
-      "stars_today": "1,183 stars today",
-      "stars_total": "290,643"
+      "stars_today": "1,165 stars today",
+      "stars_total": "290,928"
     },
     {
       "name": "JetBrains/thinkrail",
       "url": "https://github.com/JetBrains/thinkrail",
       "description": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",
       "language": "TypeScript",
-      "stars_today": "1,211 stars today",
-      "stars_total": "3,801"
-    },
-    {
-      "name": "togg53192-cmd/jailbreaks",
-      "url": "https://github.com/togg53192-cmd/jailbreaks",
-      "description": "LIST OF ALL MY JAILBREAKS",
-      "language": "",
-      "stars_today": "890 stars today",
-      "stars_total": "5,265"
+      "stars_today": "1,204 stars today",
+      "stars_total": "4,064"
     }
   ],
   "posts": [
+    {
+      "topic": "ai-design-skills",
+      "repo": "elayadesign/ai-design-skills",
+      "cover_line1": "ai-design-",
+      "cover_line2": "今日 GitHub 热榜！",
+      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**elayadesign/ai-design-skills**\n\n📌 \n\n🔗 https://github.com/elayadesign/ai-design-skills\n\n关注我，每天第一时间 AI 动态 👇",
+      "tags": [
+        "AI",
+        "GitHub",
+        "开源",
+        "热门项目",
+        "大模型",
+        "机器学习",
+        "深度学习",
+        "AI工具",
+        "技术",
+        "炼丹"
+      ]
+    },
     {
       "topic": "hallmark",
       "repo": "Nutlope/hallmark",
@@ -202,25 +221,6 @@
       "cover_line1": "superpower",
       "cover_line2": "今日 GitHub 热榜！",
       "body": "🔥 GitHub Trending 今日爆款来了！\n\n**obra/superpowers**\n\n📌 An agentic skills framework & software development methodology that works.\n\n🔗 https://github.com/obra/superpowers\n\n关注我，每天第一时间 AI 动态 👇",
-      "tags": [
-        "AI",
-        "GitHub",
-        "开源",
-        "热门项目",
-        "大模型",
-        "机器学习",
-        "深度学习",
-        "AI工具",
-        "技术",
-        "炼丹"
-      ]
-    },
-    {
-      "topic": "impeccable",
-      "repo": "pbakaus/impeccable",
-      "cover_line1": "impeccable",
-      "cover_line2": "今日 GitHub 热榜！",
-      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**pbakaus/impeccable**\n\n📌 The design language that makes your AI harness better at design.\n\n🔗 https://github.com/pbakaus/impeccable\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "GitHub",
