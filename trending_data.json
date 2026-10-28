@@ -1,207 +1,188 @@
 {
-  "date": "2026-10-28",
+  "date": "2026-10-29",
   "slot": "早报",
   "all_repos": [
+    {
+      "name": "JetBrains/thinkrail",
+      "url": "https://github.com/JetBrains/thinkrail",
+      "description": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",
+      "language": "TypeScript",
+      "stars_today": "1,075 stars today",
+      "stars_total": "4,853"
+    },
     {
       "name": "elayadesign/ai-design-skills",
       "url": "https://github.com/elayadesign/ai-design-skills",
       "description": "",
       "language": "",
       "stars_today": "1,395 stars today",
-      "stars_total": "9,475"
-    },
-    {
-      "name": "Nutlope/hallmark",
-      "url": "https://github.com/Nutlope/hallmark",
-      "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
-      "language": "CSS",
-      "stars_today": "2,830 stars today",
-      "stars_total": "39,093"
-    },
-    {
-      "name": "nightly-labs/openbot",
-      "url": "https://github.com/nightly-labs/openbot",
-      "description": "A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.",
-      "language": "TypeScript",
-      "stars_today": "777 stars today",
-      "stars_total": "2,493"
+      "stars_total": "10,918"
     },
     {
       "name": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
-      "stars_today": "617 stars today",
-      "stars_total": "306,476"
-    },
-    {
-      "name": "pbakaus/impeccable",
-      "url": "https://github.com/pbakaus/impeccable",
-      "description": "The design language that makes your AI harness better at design.",
-      "language": "Rust",
-      "stars_today": "1,449 stars today",
-      "stars_total": "90,625"
-    },
-    {
-      "name": "makecindy/cindy",
-      "url": "https://github.com/makecindy/cindy",
-      "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
-      "language": "TypeScript",
-      "stars_today": "1,465 stars today",
-      "stars_total": "7,507"
-    },
-    {
-      "name": "gitroomhq/postiz-app",
-      "url": "https://github.com/gitroomhq/postiz-app",
-      "description": "📨 The ultimate agentic social media scheduling tool 🤖",
-      "language": "TypeScript",
-      "stars_today": "951 stars today",
-      "stars_total": "39,424"
-    },
-    {
-      "name": "affaan-m/ECC",
-      "url": "https://github.com/affaan-m/ECC",
-      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "language": "JavaScript",
-      "stars_today": "1,165 stars today",
-      "stars_total": "290,928"
+      "stars_today": "1,096 stars today",
+      "stars_total": "307,253"
     },
     {
       "name": "HKUDS/DeepTutor",
       "url": "https://github.com/HKUDS/DeepTutor",
       "description": "DeepTutor: Lifelong Personalized Tutoring.https://deeptutor.info/.",
       "language": "Python",
-      "stars_today": "1,598 stars today",
-      "stars_total": "46,015"
+      "stars_today": "2,376 stars today",
+      "stars_total": "47,712"
     },
     {
-      "name": "JetBrains/thinkrail",
-      "url": "https://github.com/JetBrains/thinkrail",
-      "description": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",
-      "language": "TypeScript",
-      "stars_today": "1,204 stars today",
-      "stars_total": "4,064"
-    }
-  ],
-  "ai_repos": [
-    {
-      "name": "elayadesign/ai-design-skills",
-      "url": "https://github.com/elayadesign/ai-design-skills",
-      "description": "",
-      "language": "",
-      "stars_today": "1,395 stars today",
-      "stars_total": "9,475"
+      "name": "macro-inc/macro",
+      "url": "https://github.com/macro-inc/macro",
+      "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
+      "language": "Rust",
+      "stars_today": "106 stars today",
+      "stars_total": "5,310"
     },
     {
       "name": "Nutlope/hallmark",
       "url": "https://github.com/Nutlope/hallmark",
       "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
       "language": "CSS",
-      "stars_today": "2,830 stars today",
-      "stars_total": "39,093"
-    },
-    {
-      "name": "nightly-labs/openbot",
-      "url": "https://github.com/nightly-labs/openbot",
-      "description": "A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.",
-      "language": "TypeScript",
-      "stars_today": "777 stars today",
-      "stars_total": "2,493"
-    },
-    {
-      "name": "obra/superpowers",
-      "url": "https://github.com/obra/superpowers",
-      "description": "An agentic skills framework & software development methodology that works.",
-      "language": "Shell",
-      "stars_today": "617 stars today",
-      "stars_total": "306,476"
+      "stars_today": "2,109 stars today",
+      "stars_total": "40,437"
     },
     {
       "name": "pbakaus/impeccable",
       "url": "https://github.com/pbakaus/impeccable",
-      "description": "The design language that makes your AI harness better at design.",
+      "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
       "language": "Rust",
-      "stars_today": "1,449 stars today",
-      "stars_total": "90,625"
+      "stars_today": "1,471 stars today",
+      "stars_total": "92,234"
     },
     {
       "name": "makecindy/cindy",
       "url": "https://github.com/makecindy/cindy",
       "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
       "language": "TypeScript",
-      "stars_today": "1,465 stars today",
-      "stars_total": "7,507"
+      "stars_today": "740 stars today",
+      "stars_total": "7,958"
     },
     {
-      "name": "gitroomhq/postiz-app",
-      "url": "https://github.com/gitroomhq/postiz-app",
-      "description": "📨 The ultimate agentic social media scheduling tool 🤖",
+      "name": "nightly-labs/openbot",
+      "url": "https://github.com/nightly-labs/openbot",
+      "description": "A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.",
       "language": "TypeScript",
-      "stars_today": "951 stars today",
-      "stars_total": "39,424"
+      "stars_today": "1,053 stars today",
+      "stars_total": "3,092"
     },
     {
-      "name": "affaan-m/ECC",
-      "url": "https://github.com/affaan-m/ECC",
-      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "language": "JavaScript",
-      "stars_today": "1,165 stars today",
-      "stars_total": "290,928"
-    },
+      "name": "togg53192-cmd/jailbreaks",
+      "url": "https://github.com/togg53192-cmd/jailbreaks",
+      "description": "LIST OF ALL MY JAILBREAKS",
+      "language": "",
+      "stars_today": "1,478 stars today",
+      "stars_total": "6,824"
+    }
+  ],
+  "ai_repos": [
     {
       "name": "JetBrains/thinkrail",
       "url": "https://github.com/JetBrains/thinkrail",
       "description": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",
       "language": "TypeScript",
-      "stars_today": "1,204 stars today",
-      "stars_total": "4,064"
+      "stars_today": "1,075 stars today",
+      "stars_total": "4,853"
+    },
+    {
+      "name": "elayadesign/ai-design-skills",
+      "url": "https://github.com/elayadesign/ai-design-skills",
+      "description": "",
+      "language": "",
+      "stars_today": "1,395 stars today",
+      "stars_total": "10,918"
+    },
+    {
+      "name": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars_today": "1,096 stars today",
+      "stars_total": "307,253"
+    },
+    {
+      "name": "macro-inc/macro",
+      "url": "https://github.com/macro-inc/macro",
+      "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
+      "language": "Rust",
+      "stars_today": "106 stars today",
+      "stars_total": "5,310"
+    },
+    {
+      "name": "Nutlope/hallmark",
+      "url": "https://github.com/Nutlope/hallmark",
+      "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+      "language": "CSS",
+      "stars_today": "2,109 stars today",
+      "stars_total": "40,437"
+    },
+    {
+      "name": "pbakaus/impeccable",
+      "url": "https://github.com/pbakaus/impeccable",
+      "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
+      "language": "Rust",
+      "stars_today": "1,471 stars today",
+      "stars_total": "92,234"
+    },
+    {
+      "name": "makecindy/cindy",
+      "url": "https://github.com/makecindy/cindy",
+      "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
+      "language": "TypeScript",
+      "stars_today": "740 stars today",
+      "stars_total": "7,958"
+    },
+    {
+      "name": "nightly-labs/openbot",
+      "url": "https://github.com/nightly-labs/openbot",
+      "description": "A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.",
+      "language": "TypeScript",
+      "stars_today": "1,053 stars today",
+      "stars_total": "3,092"
+    },
+    {
+      "name": "togg53192-cmd/jailbreaks",
+      "url": "https://github.com/togg53192-cmd/jailbreaks",
+      "description": "LIST OF ALL MY JAILBREAKS",
+      "language": "",
+      "stars_today": "1,478 stars today",
+      "stars_total": "6,824"
     }
   ],
   "posts": [
+    {
+      "topic": "thinkrail",
+      "repo": "JetBrains/thinkrail",
+      "cover_line1": "thinkrail",
+      "cover_line2": "今日 GitHub 热榜！",
+      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**JetBrains/thinkrail**\n\n📌 Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need\n\n🔗 https://github.com/JetBrains/thinkrail\n\n关注我，每天第一时间 AI 动态 👇",
+      "tags": [
+        "AI",
+        "GitHub",
+        "开源",
+        "热门项目",
+        "大模型",
+        "机器学习",
+        "深度学习",
+        "AI工具",
+        "技术",
+        "炼丹"
+      ]
+    },
     {
       "topic": "ai-design-skills",
       "repo": "elayadesign/ai-design-skills",
       "cover_line1": "ai-design-",
       "cover_line2": "今日 GitHub 热榜！",
       "body": "🔥 GitHub Trending 今日爆款来了！\n\n**elayadesign/ai-design-skills**\n\n📌 \n\n🔗 https://github.com/elayadesign/ai-design-skills\n\n关注我，每天第一时间 AI 动态 👇",
-      "tags": [
-        "AI",
-        "GitHub",
-        "开源",
-        "热门项目",
-        "大模型",
-        "机器学习",
-        "深度学习",
-        "AI工具",
-        "技术",
-        "炼丹"
-      ]
-    },
-    {
-      "topic": "hallmark",
-      "repo": "Nutlope/hallmark",
-      "cover_line1": "hallmark",
-      "cover_line2": "今日 GitHub 热榜！",
-      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**Nutlope/hallmark**\n\n📌 Anti-AI-slop design skill for Claude Code, Cursor, and Codex.\n\n🔗 https://github.com/Nutlope/hallmark\n\n关注我，每天第一时间 AI 动态 👇",
-      "tags": [
-        "AI",
-        "GitHub",
-        "开源",
-        "热门项目",
-        "大模型",
-        "机器学习",
-        "深度学习",
-        "AI工具",
-        "技术",
-        "炼丹"
-      ]
-    },
-    {
-      "topic": "openbot",
-      "repo": "nightly-labs/openbot",
-      "cover_line1": "openbot",
-      "cover_line2": "今日 GitHub 热榜！",
-      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**nightly-labs/openbot**\n\n📌 A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.\n\n🔗 https://github.com/nightly-labs/openbot\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "GitHub",
@@ -233,13 +214,32 @@
         "技术",
         "炼丹"
       ]
+    },
+    {
+      "topic": "macro",
+      "repo": "macro-inc/macro",
+      "cover_line1": "macro",
+      "cover_line2": "今日 GitHub 热榜！",
+      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**macro-inc/macro**\n\n📌 Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.\n\n🔗 https://github.com/macro-inc/macro\n\n关注我，每天第一时间 AI 动态 👇",
+      "tags": [
+        "AI",
+        "GitHub",
+        "开源",
+        "热门项目",
+        "大模型",
+        "机器学习",
+        "深度学习",
+        "AI工具",
+        "技术",
+        "炼丹"
+      ]
     }
   ],
   "image_paths": [
-    "assets/2026-10-28/trending/summary.png",
-    "assets/2026-10-28/trending/post1.png",
-    "assets/2026-10-28/trending/post2.png",
-    "assets/2026-10-28/trending/post3.png",
-    "assets/2026-10-28/trending/post4.png"
+    "assets/2026-10-29/trending/summary.png",
+    "assets/2026-10-29/trending/post1.png",
+    "assets/2026-10-29/trending/post2.png",
+    "assets/2026-10-29/trending/post3.png",
+    "assets/2026-10-29/trending/post4.png"
   ]
 }
