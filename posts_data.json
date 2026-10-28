@@ -1,11 +1,11 @@
 {
-  "date": "2026-10-27",
+  "date": "2026-10-28",
   "posts": [
     {
-      "topic": "Sebastian Raschka's ",
-      "cover_line1": "Sebastian ",
+      "topic": "Early progress on ac",
+      "cover_line1": "Early prog",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Sebastian Raschka's from-scratch video course on building reasoning models**\n\n📌 来源：HackerNews\n🔗 https://magazine.sebastianraschka.com/p/building-reasoning-models\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Early progress on accelerating drug development with Claude**\n\n📌 来源：HackerNews\n🔗 https://www.anthropic.com/research/early-progress-drug-development\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -20,10 +20,10 @@
       ]
     },
     {
-      "topic": "Cross-request KV cac",
-      "cover_line1": "Cross-requ",
+      "topic": "Tailscale SSH: Inves",
+      "cover_line1": "Tailscale ",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)**\n\n📌 来源：HackerNews\n🔗 https://blog.cloudflare.com/kv-cache-exposure-remediation/\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Tailscale SSH: Investigation and remediation update**\n\n📌 来源：HackerNews\n🔗 https://tailscale.com/ssh-investigation-update\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -38,10 +38,10 @@
       ]
     },
     {
-      "topic": "GPT-6.1 Terra",
-      "cover_line1": "GPT-6.1 Te",
+      "topic": "Survival LLM: AI ass",
+      "cover_line1": "Survival L",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**GPT-6.1 Terra**\n\n📌 来源：HackerNews\n🔗 https://openai.com/index/introducing-gpt-6-1-terra/\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Survival LLM: AI assistant and emergency library that runs on your own computer**\n\n📌 来源：HackerNews\n🔗 https://www.brangus.io/survival-llm\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -56,10 +56,10 @@
       ]
     },
     {
-      "topic": "Anthropic S-1",
-      "cover_line1": "Anthropic ",
+      "topic": "Raspberry Pi Zero 3W",
+      "cover_line1": "Raspberry ",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Anthropic S-1**\n\n📌 来源：HackerNews\n🔗 https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Raspberry Pi Zero 3W and Pi 4 Model A spotted in device trees**\n\n📌 来源：HackerNews\n🔗 https://bret.dk/raspberry-pi-zero-3-w-pi-4-model-a/\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -75,15 +75,15 @@
     }
   ],
   "image_paths": [
-    "assets/2026-10-27/cover1.png",
-    "assets/2026-10-27/cover2.png",
-    "assets/2026-10-27/cover3.png",
-    "assets/2026-10-27/cover4.png"
+    "assets/2026-10-28/cover1.png",
+    "assets/2026-10-28/cover2.png",
+    "assets/2026-10-28/cover3.png",
+    "assets/2026-10-28/cover4.png"
   ],
   "feishu_image_paths": [
-    "assets/2026-10-27/cover1_feishu.png",
-    "assets/2026-10-27/cover2_feishu.png",
-    "assets/2026-10-27/cover3_feishu.png",
-    "assets/2026-10-27/cover4_feishu.png"
+    "assets/2026-10-28/cover1_feishu.png",
+    "assets/2026-10-28/cover2_feishu.png",
+    "assets/2026-10-28/cover3_feishu.png",
+    "assets/2026-10-28/cover4_feishu.png"
   ]
 }
