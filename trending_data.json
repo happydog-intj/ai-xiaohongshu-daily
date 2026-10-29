@@ -1,201 +1,155 @@
 {
-  "date": "2026-10-29",
+  "date": "2026-10-30",
   "slot": "早报",
   "all_repos": [
-    {
-      "name": "JetBrains/thinkrail",
-      "url": "https://github.com/JetBrains/thinkrail",
-      "description": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",
-      "language": "TypeScript",
-      "stars_today": "1,068 stars today",
-      "stars_total": "5,127"
-    },
-    {
-      "name": "elayadesign/ai-design-skills",
-      "url": "https://github.com/elayadesign/ai-design-skills",
-      "description": "",
-      "language": "",
-      "stars_today": "2,139 stars today",
-      "stars_total": "11,199"
-    },
-    {
-      "name": "obra/superpowers",
-      "url": "https://github.com/obra/superpowers",
-      "description": "An agentic skills framework & software development methodology that works.",
-      "language": "Shell",
-      "stars_today": "1,095 stars today",
-      "stars_total": "307,498"
-    },
     {
       "name": "HKUDS/DeepTutor",
       "url": "https://github.com/HKUDS/DeepTutor",
       "description": "DeepTutor: Lifelong Personalized Tutoring.https://deeptutor.info/.",
       "language": "Python",
-      "stars_today": "2,371 stars today",
-      "stars_total": "48,105"
-    },
-    {
-      "name": "macro-inc/macro",
-      "url": "https://github.com/macro-inc/macro",
-      "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
-      "language": "Rust",
-      "stars_today": "117 stars today",
-      "stars_total": "5,451"
-    },
-    {
-      "name": "Nutlope/hallmark",
-      "url": "https://github.com/Nutlope/hallmark",
-      "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
-      "language": "CSS",
-      "stars_today": "2,110 stars today",
-      "stars_total": "40,796"
-    },
-    {
-      "name": "pbakaus/impeccable",
-      "url": "https://github.com/pbakaus/impeccable",
-      "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
-      "language": "Rust",
-      "stars_today": "1,472 stars today",
-      "stars_total": "92,816"
-    },
-    {
-      "name": "makecindy/cindy",
-      "url": "https://github.com/makecindy/cindy",
-      "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
-      "language": "TypeScript",
-      "stars_today": "728 stars today",
-      "stars_total": "8,140"
-    },
-    {
-      "name": "nightly-labs/openbot",
-      "url": "https://github.com/nightly-labs/openbot",
-      "description": "A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.",
-      "language": "TypeScript",
-      "stars_today": "1,054 stars today",
-      "stars_total": "3,295"
-    },
-    {
-      "name": "togg53192-cmd/jailbreaks",
-      "url": "https://github.com/togg53192-cmd/jailbreaks",
-      "description": "LIST OF ALL MY JAILBREAKS",
-      "language": "",
-      "stars_today": "1,477 stars today",
-      "stars_total": "7,198"
-    }
-  ],
-  "ai_repos": [
-    {
-      "name": "JetBrains/thinkrail",
-      "url": "https://github.com/JetBrains/thinkrail",
-      "description": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",
-      "language": "TypeScript",
-      "stars_today": "1,068 stars today",
-      "stars_total": "5,127"
-    },
-    {
-      "name": "elayadesign/ai-design-skills",
-      "url": "https://github.com/elayadesign/ai-design-skills",
-      "description": "",
-      "language": "",
-      "stars_today": "2,139 stars today",
-      "stars_total": "11,199"
+      "stars_today": "1,926 stars today",
+      "stars_total": "49,628"
     },
     {
       "name": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
-      "stars_today": "1,095 stars today",
-      "stars_total": "307,498"
-    },
-    {
-      "name": "macro-inc/macro",
-      "url": "https://github.com/macro-inc/macro",
-      "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
-      "language": "Rust",
-      "stars_today": "117 stars today",
-      "stars_total": "5,451"
-    },
-    {
-      "name": "Nutlope/hallmark",
-      "url": "https://github.com/Nutlope/hallmark",
-      "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
-      "language": "CSS",
-      "stars_today": "2,110 stars today",
-      "stars_total": "40,796"
+      "stars_today": "1,037 stars today",
+      "stars_total": "308,300"
     },
     {
       "name": "pbakaus/impeccable",
       "url": "https://github.com/pbakaus/impeccable",
       "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
       "language": "Rust",
-      "stars_today": "1,472 stars today",
-      "stars_total": "92,816"
+      "stars_today": "2,881 stars today",
+      "stars_total": "94,945"
     },
     {
-      "name": "makecindy/cindy",
-      "url": "https://github.com/makecindy/cindy",
-      "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
+      "name": "JetBrains/thinkrail",
+      "url": "https://github.com/JetBrains/thinkrail",
+      "description": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",
       "language": "TypeScript",
-      "stars_today": "728 stars today",
-      "stars_total": "8,140"
+      "stars_today": "1,116 stars today",
+      "stars_total": "5,878"
+    },
+    {
+      "name": "milind-soni/OpenMausBot",
+      "url": "https://github.com/milind-soni/OpenMausBot",
+      "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
+      "language": "TypeScript",
+      "stars_today": "1,190 stars today",
+      "stars_total": "7,301"
     },
     {
       "name": "nightly-labs/openbot",
       "url": "https://github.com/nightly-labs/openbot",
       "description": "A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.",
       "language": "TypeScript",
-      "stars_today": "1,054 stars today",
-      "stars_total": "3,295"
+      "stars_today": "705 stars today",
+      "stars_total": "3,755"
+    },
+    {
+      "name": "elayadesign/ai-design-skills",
+      "url": "https://github.com/elayadesign/ai-design-skills",
+      "description": "",
+      "language": "",
+      "stars_today": "1,178 stars today",
+      "stars_total": "11,953"
+    },
+    {
+      "name": "thedotmack/claude-mem",
+      "url": "https://github.com/thedotmack/claude-mem",
+      "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+      "language": "TypeScript",
+      "stars_today": "459 stars today",
+      "stars_total": "104,522"
+    },
+    {
+      "name": "CopilotKit/OpenBot",
+      "url": "https://github.com/CopilotKit/OpenBot",
+      "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
+      "language": "TypeScript",
+      "stars_today": "240 stars today",
+      "stars_total": "7,982"
     },
     {
       "name": "togg53192-cmd/jailbreaks",
       "url": "https://github.com/togg53192-cmd/jailbreaks",
       "description": "LIST OF ALL MY JAILBREAKS",
       "language": "",
-      "stars_today": "1,477 stars today",
-      "stars_total": "7,198"
+      "stars_today": "1,610 stars today",
+      "stars_total": "8,567"
+    }
+  ],
+  "ai_repos": [
+    {
+      "name": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars_today": "1,037 stars today",
+      "stars_total": "308,300"
+    },
+    {
+      "name": "pbakaus/impeccable",
+      "url": "https://github.com/pbakaus/impeccable",
+      "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
+      "language": "Rust",
+      "stars_today": "2,881 stars today",
+      "stars_total": "94,945"
+    },
+    {
+      "name": "JetBrains/thinkrail",
+      "url": "https://github.com/JetBrains/thinkrail",
+      "description": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",
+      "language": "TypeScript",
+      "stars_today": "1,116 stars today",
+      "stars_total": "5,878"
+    },
+    {
+      "name": "nightly-labs/openbot",
+      "url": "https://github.com/nightly-labs/openbot",
+      "description": "A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.",
+      "language": "TypeScript",
+      "stars_today": "705 stars today",
+      "stars_total": "3,755"
+    },
+    {
+      "name": "elayadesign/ai-design-skills",
+      "url": "https://github.com/elayadesign/ai-design-skills",
+      "description": "",
+      "language": "",
+      "stars_today": "1,178 stars today",
+      "stars_total": "11,953"
+    },
+    {
+      "name": "thedotmack/claude-mem",
+      "url": "https://github.com/thedotmack/claude-mem",
+      "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+      "language": "TypeScript",
+      "stars_today": "459 stars today",
+      "stars_total": "104,522"
+    },
+    {
+      "name": "CopilotKit/OpenBot",
+      "url": "https://github.com/CopilotKit/OpenBot",
+      "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
+      "language": "TypeScript",
+      "stars_today": "240 stars today",
+      "stars_total": "7,982"
+    },
+    {
+      "name": "togg53192-cmd/jailbreaks",
+      "url": "https://github.com/togg53192-cmd/jailbreaks",
+      "description": "LIST OF ALL MY JAILBREAKS",
+      "language": "",
+      "stars_today": "1,610 stars today",
+      "stars_total": "8,567"
     }
   ],
   "posts": [
-    {
-      "topic": "thinkrail",
-      "repo": "JetBrains/thinkrail",
-      "cover_line1": "thinkrail",
-      "cover_line2": "今日 GitHub 热榜！",
-      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**JetBrains/thinkrail**\n\n📌 Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need\n\n🔗 https://github.com/JetBrains/thinkrail\n\n关注我，每天第一时间 AI 动态 👇",
-      "tags": [
-        "AI",
-        "GitHub",
-        "开源",
-        "热门项目",
-        "大模型",
-        "机器学习",
-        "深度学习",
-        "AI工具",
-        "技术",
-        "炼丹"
-      ]
-    },
-    {
-      "topic": "ai-design-skills",
-      "repo": "elayadesign/ai-design-skills",
-      "cover_line1": "ai-design-",
-      "cover_line2": "今日 GitHub 热榜！",
-      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**elayadesign/ai-design-skills**\n\n📌 \n\n🔗 https://github.com/elayadesign/ai-design-skills\n\n关注我，每天第一时间 AI 动态 👇",
-      "tags": [
-        "AI",
-        "GitHub",
-        "开源",
-        "热门项目",
-        "大模型",
-        "机器学习",
-        "深度学习",
-        "AI工具",
-        "技术",
-        "炼丹"
-      ]
-    },
     {
       "topic": "superpowers",
       "repo": "obra/superpowers",
@@ -216,11 +170,49 @@
       ]
     },
     {
-      "topic": "macro",
-      "repo": "macro-inc/macro",
-      "cover_line1": "macro",
+      "topic": "impeccable",
+      "repo": "pbakaus/impeccable",
+      "cover_line1": "impeccable",
       "cover_line2": "今日 GitHub 热榜！",
-      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**macro-inc/macro**\n\n📌 Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.\n\n🔗 https://github.com/macro-inc/macro\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**pbakaus/impeccable**\n\n📌 The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.\n\n🔗 https://github.com/pbakaus/impeccable\n\n关注我，每天第一时间 AI 动态 👇",
+      "tags": [
+        "AI",
+        "GitHub",
+        "开源",
+        "热门项目",
+        "大模型",
+        "机器学习",
+        "深度学习",
+        "AI工具",
+        "技术",
+        "炼丹"
+      ]
+    },
+    {
+      "topic": "thinkrail",
+      "repo": "JetBrains/thinkrail",
+      "cover_line1": "thinkrail",
+      "cover_line2": "今日 GitHub 热榜！",
+      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**JetBrains/thinkrail**\n\n📌 Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need\n\n🔗 https://github.com/JetBrains/thinkrail\n\n关注我，每天第一时间 AI 动态 👇",
+      "tags": [
+        "AI",
+        "GitHub",
+        "开源",
+        "热门项目",
+        "大模型",
+        "机器学习",
+        "深度学习",
+        "AI工具",
+        "技术",
+        "炼丹"
+      ]
+    },
+    {
+      "topic": "openbot",
+      "repo": "nightly-labs/openbot",
+      "cover_line1": "openbot",
+      "cover_line2": "今日 GitHub 热榜！",
+      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**nightly-labs/openbot**\n\n📌 A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.\n\n🔗 https://github.com/nightly-labs/openbot\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "GitHub",
@@ -236,10 +228,10 @@
     }
   ],
   "image_paths": [
-    "assets/2026-10-29/trending/summary.png",
-    "assets/2026-10-29/trending/post1.png",
-    "assets/2026-10-29/trending/post2.png",
-    "assets/2026-10-29/trending/post3.png",
-    "assets/2026-10-29/trending/post4.png"
+    "assets/2026-10-30/trending/summary.png",
+    "assets/2026-10-30/trending/post1.png",
+    "assets/2026-10-30/trending/post2.png",
+    "assets/2026-10-30/trending/post3.png",
+    "assets/2026-10-30/trending/post4.png"
   ]
 }
