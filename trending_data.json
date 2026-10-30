@@ -7,80 +7,80 @@
       "url": "https://github.com/HKUDS/DeepTutor",
       "description": "DeepTutor: Lifelong Personalized Tutoring.https://deeptutor.info/.",
       "language": "Python",
-      "stars_today": "1,926 stars today",
-      "stars_total": "49,628"
+      "stars_today": "1,930 stars today",
+      "stars_total": "50,241"
     },
     {
       "name": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
-      "stars_today": "1,037 stars today",
-      "stars_total": "308,300"
+      "stars_today": "1,034 stars today",
+      "stars_total": "308,627"
     },
     {
       "name": "pbakaus/impeccable",
       "url": "https://github.com/pbakaus/impeccable",
       "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
       "language": "Rust",
-      "stars_today": "2,881 stars today",
-      "stars_total": "94,945"
+      "stars_today": "2,870 stars today",
+      "stars_total": "95,482"
     },
     {
       "name": "JetBrains/thinkrail",
       "url": "https://github.com/JetBrains/thinkrail",
       "description": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",
       "language": "TypeScript",
-      "stars_today": "1,116 stars today",
-      "stars_total": "5,878"
+      "stars_today": "1,117 stars today",
+      "stars_total": "6,059"
     },
     {
       "name": "milind-soni/OpenMausBot",
       "url": "https://github.com/milind-soni/OpenMausBot",
       "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
       "language": "TypeScript",
-      "stars_today": "1,190 stars today",
-      "stars_total": "7,301"
+      "stars_today": "1,199 stars today",
+      "stars_total": "7,537"
     },
     {
       "name": "nightly-labs/openbot",
       "url": "https://github.com/nightly-labs/openbot",
       "description": "A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.",
       "language": "TypeScript",
-      "stars_today": "705 stars today",
-      "stars_total": "3,755"
+      "stars_today": "709 stars today",
+      "stars_total": "3,918"
     },
     {
       "name": "elayadesign/ai-design-skills",
       "url": "https://github.com/elayadesign/ai-design-skills",
       "description": "",
       "language": "",
-      "stars_today": "1,178 stars today",
-      "stars_total": "11,953"
+      "stars_today": "1,187 stars today",
+      "stars_total": "12,225"
     },
     {
       "name": "thedotmack/claude-mem",
       "url": "https://github.com/thedotmack/claude-mem",
       "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
       "language": "TypeScript",
-      "stars_today": "459 stars today",
-      "stars_total": "104,522"
+      "stars_today": "336 stars today",
+      "stars_total": "104,860"
     },
     {
       "name": "CopilotKit/OpenBot",
       "url": "https://github.com/CopilotKit/OpenBot",
       "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
       "language": "TypeScript",
-      "stars_today": "240 stars today",
-      "stars_total": "7,982"
+      "stars_today": "247 stars today",
+      "stars_total": "8,195"
     },
     {
       "name": "togg53192-cmd/jailbreaks",
       "url": "https://github.com/togg53192-cmd/jailbreaks",
       "description": "LIST OF ALL MY JAILBREAKS",
       "language": "",
-      "stars_today": "1,610 stars today",
-      "stars_total": "8,567"
+      "stars_today": "1,594 stars today",
+      "stars_total": "9,141"
     }
   ],
   "ai_repos": [
@@ -89,64 +89,64 @@
       "url": "https://github.com/obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
-      "stars_today": "1,037 stars today",
-      "stars_total": "308,300"
+      "stars_today": "1,034 stars today",
+      "stars_total": "308,627"
     },
     {
       "name": "pbakaus/impeccable",
       "url": "https://github.com/pbakaus/impeccable",
       "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
       "language": "Rust",
-      "stars_today": "2,881 stars today",
-      "stars_total": "94,945"
+      "stars_today": "2,870 stars today",
+      "stars_total": "95,482"
     },
     {
       "name": "JetBrains/thinkrail",
       "url": "https://github.com/JetBrains/thinkrail",
       "description": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",
       "language": "TypeScript",
-      "stars_today": "1,116 stars today",
-      "stars_total": "5,878"
+      "stars_today": "1,117 stars today",
+      "stars_total": "6,059"
     },
     {
       "name": "nightly-labs/openbot",
       "url": "https://github.com/nightly-labs/openbot",
       "description": "A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.",
       "language": "TypeScript",
-      "stars_today": "705 stars today",
-      "stars_total": "3,755"
+      "stars_today": "709 stars today",
+      "stars_total": "3,918"
     },
     {
       "name": "elayadesign/ai-design-skills",
       "url": "https://github.com/elayadesign/ai-design-skills",
       "description": "",
       "language": "",
-      "stars_today": "1,178 stars today",
-      "stars_total": "11,953"
+      "stars_today": "1,187 stars today",
+      "stars_total": "12,225"
     },
     {
       "name": "thedotmack/claude-mem",
       "url": "https://github.com/thedotmack/claude-mem",
       "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
       "language": "TypeScript",
-      "stars_today": "459 stars today",
-      "stars_total": "104,522"
+      "stars_today": "336 stars today",
+      "stars_total": "104,860"
     },
     {
       "name": "CopilotKit/OpenBot",
       "url": "https://github.com/CopilotKit/OpenBot",
       "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
       "language": "TypeScript",
-      "stars_today": "240 stars today",
-      "stars_total": "7,982"
+      "stars_today": "247 stars today",
+      "stars_total": "8,195"
     },
     {
       "name": "togg53192-cmd/jailbreaks",
       "url": "https://github.com/togg53192-cmd/jailbreaks",
       "description": "LIST OF ALL MY JAILBREAKS",
       "language": "",
-      "stars_today": "1,610 stars today",
-      "stars_total": "8,567"
+      "stars_today": "1,594 stars today",
+      "stars_total": "9,141"
     }
   ],
   "posts": [
