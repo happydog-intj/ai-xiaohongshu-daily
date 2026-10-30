@@ -1,11 +1,11 @@
 {
-  "date": "2026-10-29",
+  "date": "2026-10-30",
   "posts": [
     {
-      "topic": "MicroZig to Adopt St",
-      "cover_line1": "MicroZig t",
+      "topic": "We're releasing the ",
+      "cover_line1": "We're rele",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**MicroZig to Adopt Strict No LLM / No AI Policy**\n\n📌 来源：HackerNews\n🔗 https://github.com/ZigEmbeddedGroup/microzig/blob/main/CODE_OF_CONDUCT.md\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**We're releasing the weights of Mistral Large 4**\n\n📌 来源：HackerNews\n🔗 https://mistral.ai/news/mistral-large-4-oss/\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -20,10 +20,10 @@
       ]
     },
     {
-      "topic": "Gemini 4 Carbon",
-      "cover_line1": "Gemini 4 C",
+      "topic": "We ran AI agent swar",
+      "cover_line1": "We ran AI ",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Gemini 4 Carbon**\n\n📌 来源：HackerNews\n🔗 https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**We ran AI agent swarms in Minecraft and Mindustry**\n\n📌 来源：HackerNews\n🔗 https://labs.ycombinator.com/projects/games/index.html\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -38,10 +38,10 @@
       ]
     },
     {
-      "topic": "Dayjob: Tax – evalua",
-      "cover_line1": "Dayjob: Ta",
+      "topic": "Pico CSS is no longe",
+      "cover_line1": "Pico CSS i",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Dayjob: Tax – evaluating AI agents on 50 professional tax assignments**\n\n📌 来源：HackerNews\n🔗 https://surgehq.ai/blog/dayjob-tax\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Pico CSS is no longer maintained**\n\n📌 来源：HackerNews\n🔗 https://github.com/picocss/pico/discussions/754\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -56,10 +56,10 @@
       ]
     },
     {
-      "topic": "Nixpkgs for the Fron",
-      "cover_line1": "Nixpkgs fo",
+      "topic": "A tiny world model r",
+      "cover_line1": "A tiny wor",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Nixpkgs for the Front End Impaired**\n\n📌 来源：HackerNews\n🔗 https://fzakaria.com/2026/10/12/nixpkgs-for-the-frontend-impaired\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**A tiny world model running games on a Raspberry Pi Pico 2 W**\n\n📌 来源：HackerNews\n🔗 https://github.com/SheepSeb/tinyworldformer\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -75,15 +75,15 @@
     }
   ],
   "image_paths": [
-    "assets/2026-10-29/cover1.png",
-    "assets/2026-10-29/cover2.png",
-    "assets/2026-10-29/cover3.png",
-    "assets/2026-10-29/cover4.png"
+    "assets/2026-10-30/cover1.png",
+    "assets/2026-10-30/cover2.png",
+    "assets/2026-10-30/cover3.png",
+    "assets/2026-10-30/cover4.png"
   ],
   "feishu_image_paths": [
-    "assets/2026-10-29/cover1_feishu.png",
-    "assets/2026-10-29/cover2_feishu.png",
-    "assets/2026-10-29/cover3_feishu.png",
-    "assets/2026-10-29/cover4_feishu.png"
+    "assets/2026-10-30/cover1_feishu.png",
+    "assets/2026-10-30/cover2_feishu.png",
+    "assets/2026-10-30/cover3_feishu.png",
+    "assets/2026-10-30/cover4_feishu.png"
   ]
 }
