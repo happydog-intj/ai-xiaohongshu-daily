@@ -7,72 +7,72 @@
       "url": "https://github.com/thedotmack/claude-mem",
       "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
       "language": "TypeScript",
-      "stars_today": "1,145 stars today",
-      "stars_total": "105,862"
+      "stars_today": "1,140 stars today",
+      "stars_total": "106,315"
     },
     {
       "name": "milind-soni/OpenMausBot",
       "url": "https://github.com/milind-soni/OpenMausBot",
       "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
       "language": "TypeScript",
-      "stars_today": "899 stars today",
-      "stars_total": "8,319"
+      "stars_today": "895 stars today",
+      "stars_total": "8,702"
     },
     {
       "name": "pbakaus/impeccable",
       "url": "https://github.com/pbakaus/impeccable",
       "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
       "language": "Rust",
-      "stars_today": "2,299 stars today",
-      "stars_total": "96,782"
+      "stars_today": "2,300 stars today",
+      "stars_total": "97,126"
     },
     {
       "name": "CopilotKit/OpenBot",
       "url": "https://github.com/CopilotKit/OpenBot",
       "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
       "language": "TypeScript",
-      "stars_today": "707 stars today",
-      "stars_total": "8,630"
+      "stars_today": "706 stars today",
+      "stars_total": "8,815"
     },
     {
       "name": "Renhuai123/ziwei-doushu",
       "url": "https://github.com/Renhuai123/ziwei-doushu",
       "description": "紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据",
       "language": "TypeScript",
-      "stars_today": "1,146 stars today",
-      "stars_total": "11,104"
+      "stars_today": "1,126 stars today",
+      "stars_total": "11,249"
     },
     {
       "name": "expo/skills",
       "url": "https://github.com/expo/skills",
       "description": "A collection of AI agent skills for working with Expo projects and Expo Application Services",
       "language": "Shell",
-      "stars_today": "233 stars today",
-      "stars_total": "3,835"
+      "stars_today": "38 stars today",
+      "stars_total": "3,907"
     },
     {
       "name": "macro-inc/macro",
       "url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
       "language": "Rust",
-      "stars_today": "117 stars today",
-      "stars_total": "5,788"
+      "stars_today": "57 stars today",
+      "stars_total": "5,883"
     },
     {
       "name": "mattpocock/skills",
       "url": "https://github.com/mattpocock/skills",
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "language": "Shell",
-      "stars_today": "882 stars today",
-      "stars_total": "307,291"
+      "stars_today": "876 stars today",
+      "stars_total": "307,513"
     },
     {
       "name": "pingdotgg/t3code",
       "url": "https://github.com/pingdotgg/t3code",
       "description": "",
       "language": "TypeScript",
-      "stars_today": "920 stars today",
-      "stars_total": "32,538"
+      "stars_today": "930 stars today",
+      "stars_total": "32,778"
     },
     {
       "name": "HKUDS/DeepTutor",
@@ -80,7 +80,7 @@
       "description": "DeepTutor: Lifelong Personalized Tutoring.https://deeptutor.info/.",
       "language": "Python",
       "stars_today": "2,282 stars today",
-      "stars_total": "51,596"
+      "stars_total": "51,813"
     }
   ],
   "ai_repos": [
@@ -89,56 +89,56 @@
       "url": "https://github.com/thedotmack/claude-mem",
       "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
       "language": "TypeScript",
-      "stars_today": "1,145 stars today",
-      "stars_total": "105,862"
+      "stars_today": "1,140 stars today",
+      "stars_total": "106,315"
     },
     {
       "name": "pbakaus/impeccable",
       "url": "https://github.com/pbakaus/impeccable",
       "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
       "language": "Rust",
-      "stars_today": "2,299 stars today",
-      "stars_total": "96,782"
+      "stars_today": "2,300 stars today",
+      "stars_total": "97,126"
     },
     {
       "name": "CopilotKit/OpenBot",
       "url": "https://github.com/CopilotKit/OpenBot",
       "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
       "language": "TypeScript",
-      "stars_today": "707 stars today",
-      "stars_total": "8,630"
+      "stars_today": "706 stars today",
+      "stars_total": "8,815"
     },
     {
       "name": "Renhuai123/ziwei-doushu",
       "url": "https://github.com/Renhuai123/ziwei-doushu",
       "description": "紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据",
       "language": "TypeScript",
-      "stars_today": "1,146 stars today",
-      "stars_total": "11,104"
+      "stars_today": "1,126 stars today",
+      "stars_total": "11,249"
     },
     {
       "name": "expo/skills",
       "url": "https://github.com/expo/skills",
       "description": "A collection of AI agent skills for working with Expo projects and Expo Application Services",
       "language": "Shell",
-      "stars_today": "233 stars today",
-      "stars_total": "3,835"
+      "stars_today": "38 stars today",
+      "stars_total": "3,907"
     },
     {
       "name": "macro-inc/macro",
       "url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
       "language": "Rust",
-      "stars_today": "117 stars today",
-      "stars_total": "5,788"
+      "stars_today": "57 stars today",
+      "stars_total": "5,883"
     },
     {
       "name": "mattpocock/skills",
       "url": "https://github.com/mattpocock/skills",
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "language": "Shell",
-      "stars_today": "882 stars today",
-      "stars_total": "307,291"
+      "stars_today": "876 stars today",
+      "stars_total": "307,513"
     }
   ],
   "posts": [
