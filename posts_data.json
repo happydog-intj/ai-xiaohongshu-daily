@@ -1,11 +1,11 @@
 {
-  "date": "2026-10-30",
+  "date": "2026-10-31",
   "posts": [
     {
-      "topic": "We're releasing the ",
-      "cover_line1": "We're rele",
+      "topic": "Backdoor in Claude C",
+      "cover_line1": "Backdoor i",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**We're releasing the weights of Mistral Large 4**\n\n📌 来源：HackerNews\n🔗 https://mistral.ai/news/mistral-large-4-oss/\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Backdoor in Claude Code for VS Code extension on the Cursor Marketplace**\n\n📌 来源：HackerNews\n🔗 https://phorion.io/blog/offical-claude-code-vsx-compromise/\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -20,10 +20,10 @@
       ]
     },
     {
-      "topic": "We ran AI agent swar",
-      "cover_line1": "We ran AI ",
+      "topic": "Through Captain Jean",
+      "cover_line1": "Through Ca",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**We ran AI agent swarms in Minecraft and Mindustry**\n\n📌 来源：HackerNews\n🔗 https://labs.ycombinator.com/projects/games/index.html\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Through Captain Jean-Luc Picard, Patrick Stewart taught us the measure of a man**\n\n📌 来源：HackerNews\n🔗 https://www.bostonglobe.com/2026/10/29/metro/patrick-stewart-picard-star-trek-the-next-generation/\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -38,10 +38,10 @@
       ]
     },
     {
-      "topic": "Pico CSS is no longe",
-      "cover_line1": "Pico CSS i",
+      "topic": "Building an AI-nativ",
+      "cover_line1": "Building a",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Pico CSS is no longer maintained**\n\n📌 来源：HackerNews\n🔗 https://github.com/picocss/pico/discussions/754\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Building an AI-native engineering org**\n\n📌 来源：HackerNews\n🔗 https://twitter.com/sgondala2/status/2115832070274723875\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -56,10 +56,10 @@
       ]
     },
     {
-      "topic": "A tiny world model r",
-      "cover_line1": "A tiny wor",
+      "topic": "Cisco gives engineer",
+      "cover_line1": "Cisco give",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**A tiny world model running games on a Raspberry Pi Pico 2 W**\n\n📌 来源：HackerNews\n🔗 https://github.com/SheepSeb/tinyworldformer\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Cisco gives engineer unlimited AI tokens to rewrite legacy code**\n\n📌 来源：HackerNews\n🔗 https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs/\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -75,15 +75,15 @@
     }
   ],
   "image_paths": [
-    "assets/2026-10-30/cover1.png",
-    "assets/2026-10-30/cover2.png",
-    "assets/2026-10-30/cover3.png",
-    "assets/2026-10-30/cover4.png"
+    "assets/2026-10-31/cover1.png",
+    "assets/2026-10-31/cover2.png",
+    "assets/2026-10-31/cover3.png",
+    "assets/2026-10-31/cover4.png"
   ],
   "feishu_image_paths": [
-    "assets/2026-10-30/cover1_feishu.png",
-    "assets/2026-10-30/cover2_feishu.png",
-    "assets/2026-10-30/cover3_feishu.png",
-    "assets/2026-10-30/cover4_feishu.png"
+    "assets/2026-10-31/cover1_feishu.png",
+    "assets/2026-10-31/cover2_feishu.png",
+    "assets/2026-10-31/cover3_feishu.png",
+    "assets/2026-10-31/cover4_feishu.png"
   ]
 }
