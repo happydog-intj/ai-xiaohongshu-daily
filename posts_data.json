@@ -1,11 +1,11 @@
 {
-  "date": "2026-10-31",
+  "date": "2026-11-01",
   "posts": [
     {
-      "topic": "Backdoor in Claude C",
-      "cover_line1": "Backdoor i",
+      "topic": "Memdoor: A team of 5",
+      "cover_line1": "Memdoor: A",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Backdoor in Claude Code for VS Code extension on the Cursor Marketplace**\n\n📌 来源：HackerNews\n🔗 https://phorion.io/blog/offical-claude-code-vsx-compromise/\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard**\n\n📌 来源：HackerNews\n🔗 https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -20,10 +20,10 @@
       ]
     },
     {
-      "topic": "Through Captain Jean",
-      "cover_line1": "Through Ca",
+      "topic": "AI text watermarking",
+      "cover_line1": "AI text wa",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Through Captain Jean-Luc Picard, Patrick Stewart taught us the measure of a man**\n\n📌 来源：HackerNews\n🔗 https://www.bostonglobe.com/2026/10/29/metro/patrick-stewart-picard-star-trek-the-next-generation/\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**AI text watermarking and quality loss**\n\n📌 来源：HackerNews\n🔗 https://blog.keyvan.net/p/ai-text-watermarking-and-quality\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -38,10 +38,10 @@
       ]
     },
     {
-      "topic": "Building an AI-nativ",
-      "cover_line1": "Building a",
+      "topic": "Do the math: How we ",
+      "cover_line1": "Do the mat",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Building an AI-native engineering org**\n\n📌 来源：HackerNews\n🔗 https://twitter.com/sgondala2/status/2115832070274723875\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Do the math: How we took over ChatGPT accounts**\n\n📌 来源：HackerNews\n🔗 https://www.parameter.ai/labs/we-found-a-gap-at-openai\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -56,10 +56,10 @@
       ]
     },
     {
-      "topic": "Cisco gives engineer",
-      "cover_line1": "Cisco give",
+      "topic": "Anthropic blocks use",
+      "cover_line1": "Anthropic ",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Cisco gives engineer unlimited AI tokens to rewrite legacy code**\n\n📌 来源：HackerNews\n🔗 https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs/\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Anthropic blocks users for anything touching training larger models**\n\n📌 来源：HackerNews\n🔗 https://twitter.com/jiahaoshao1/status/2116475922190922088\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -75,15 +75,15 @@
     }
   ],
   "image_paths": [
-    "assets/2026-10-31/cover1.png",
-    "assets/2026-10-31/cover2.png",
-    "assets/2026-10-31/cover3.png",
-    "assets/2026-10-31/cover4.png"
+    "assets/2026-11-01/cover1.png",
+    "assets/2026-11-01/cover2.png",
+    "assets/2026-11-01/cover3.png",
+    "assets/2026-11-01/cover4.png"
   ],
   "feishu_image_paths": [
-    "assets/2026-10-31/cover1_feishu.png",
-    "assets/2026-10-31/cover2_feishu.png",
-    "assets/2026-10-31/cover3_feishu.png",
-    "assets/2026-10-31/cover4_feishu.png"
+    "assets/2026-11-01/cover1_feishu.png",
+    "assets/2026-11-01/cover2_feishu.png",
+    "assets/2026-11-01/cover3_feishu.png",
+    "assets/2026-11-01/cover4_feishu.png"
   ]
 }
