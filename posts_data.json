@@ -1,11 +1,11 @@
 {
-  "date": "2026-11-01",
+  "date": "2026-11-02",
   "posts": [
     {
-      "topic": "Memdoor: A team of 5",
-      "cover_line1": "Memdoor: A",
+      "topic": "Postgres 19 is late,",
+      "cover_line1": "Postgres 1",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard**\n\n📌 来源：HackerNews\n🔗 https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Postgres 19 is late, and it's AI's fault**\n\n📌 来源：HackerNews\n🔗 http://rhaas.blogspot.com/2026/10/postgres-19-is-late-and-its-ais-fault.html\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -20,10 +20,10 @@
       ]
     },
     {
-      "topic": "AI text watermarking",
-      "cover_line1": "AI text wa",
+      "topic": "AI delivers 'zero fi",
+      "cover_line1": "AI deliver",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**AI text watermarking and quality loss**\n\n📌 来源：HackerNews\n🔗 https://blog.keyvan.net/p/ai-text-watermarking-and-quality\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**AI delivers 'zero financial payoff' to most companies, Apollo economist says**\n\n📌 来源：HackerNews\n🔗 https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -38,10 +38,10 @@
       ]
     },
     {
-      "topic": "Do the math: How we ",
-      "cover_line1": "Do the mat",
+      "topic": "The AI cost of JavaS",
+      "cover_line1": "The AI cos",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Do the math: How we took over ChatGPT accounts**\n\n📌 来源：HackerNews\n🔗 https://www.parameter.ai/labs/we-found-a-gap-at-openai\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**The AI cost of JavaScript frameworks**\n\n📌 来源：HackerNews\n🔗 https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -56,10 +56,10 @@
       ]
     },
     {
-      "topic": "Anthropic blocks use",
-      "cover_line1": "Anthropic ",
+      "topic": "Domain hacks with un",
+      "cover_line1": "Domain hac",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Anthropic blocks users for anything touching training larger models**\n\n📌 来源：HackerNews\n🔗 https://twitter.com/jiahaoshao1/status/2116475922190922088\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Domain hacks with unusual Unicode characters (2018)**\n\n📌 来源：HackerNews\n🔗 https://shkspr.mobi/blog/2018/11/domain-hacks-with-unusual-unicode-characters/\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -75,15 +75,15 @@
     }
   ],
   "image_paths": [
-    "assets/2026-11-01/cover1.png",
-    "assets/2026-11-01/cover2.png",
-    "assets/2026-11-01/cover3.png",
-    "assets/2026-11-01/cover4.png"
+    "assets/2026-11-02/cover1.png",
+    "assets/2026-11-02/cover2.png",
+    "assets/2026-11-02/cover3.png",
+    "assets/2026-11-02/cover4.png"
   ],
   "feishu_image_paths": [
-    "assets/2026-11-01/cover1_feishu.png",
-    "assets/2026-11-01/cover2_feishu.png",
-    "assets/2026-11-01/cover3_feishu.png",
-    "assets/2026-11-01/cover4_feishu.png"
+    "assets/2026-11-02/cover1_feishu.png",
+    "assets/2026-11-02/cover2_feishu.png",
+    "assets/2026-11-02/cover3_feishu.png",
+    "assets/2026-11-02/cover4_feishu.png"
   ]
 }
