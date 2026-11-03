@@ -1,11 +1,11 @@
 {
-  "date": "2026-11-02",
+  "date": "2026-11-03",
   "posts": [
     {
-      "topic": "Postgres 19 is late,",
-      "cover_line1": "Postgres 1",
+      "topic": "Scaling Git at OpenA",
+      "cover_line1": "Scaling Gi",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Postgres 19 is late, and it's AI's fault**\n\n📌 来源：HackerNews\n🔗 http://rhaas.blogspot.com/2026/10/postgres-19-is-late-and-its-ais-fault.html\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Scaling Git at OpenAI**\n\n📌 来源：HackerNews\n🔗 https://openai.com/index/scaling-git-at-openai/\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -20,10 +20,10 @@
       ]
     },
     {
-      "topic": "AI delivers 'zero fi",
-      "cover_line1": "AI deliver",
+      "topic": "Launch HN: Momentic ",
+      "cover_line1": "Launch HN:",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**AI delivers 'zero financial payoff' to most companies, Apollo economist says**\n\n📌 来源：HackerNews\n🔗 https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Launch HN: Momentic (YC W24) – Agents that catch bugs by using your app**\n\n📌 来源：HackerNews\n🔗 https://momentic.ai/\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -38,10 +38,10 @@
       ]
     },
     {
-      "topic": "The AI cost of JavaS",
-      "cover_line1": "The AI cos",
+      "topic": "The SEC Should Block",
+      "cover_line1": "The SEC Sh",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**The AI cost of JavaScript frameworks**\n\n📌 来源：HackerNews\n🔗 https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**The SEC Should Block Anthropic's IPO to Protect the Public**\n\n📌 来源：HackerNews\n🔗 https://www.techpolicy.press/the-sec-should-block-anthropics-ipo-to-protect-the-public/\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -56,10 +56,10 @@
       ]
     },
     {
-      "topic": "Domain hacks with un",
-      "cover_line1": "Domain hac",
+      "topic": "Egoless Mathematics ",
+      "cover_line1": "Egoless Ma",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Domain hacks with unusual Unicode characters (2018)**\n\n📌 来源：HackerNews\n🔗 https://shkspr.mobi/blog/2018/11/domain-hacks-with-unusual-unicode-characters/\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Egoless Mathematics in the AI Era**\n\n📌 来源：HackerNews\n🔗 https://terrytao.wordpress.com/2026/11/02/egoless-mathematics-in-the-ai-era/\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -75,15 +75,15 @@
     }
   ],
   "image_paths": [
-    "assets/2026-11-02/cover1.png",
-    "assets/2026-11-02/cover2.png",
-    "assets/2026-11-02/cover3.png",
-    "assets/2026-11-02/cover4.png"
+    "assets/2026-11-03/cover1.png",
+    "assets/2026-11-03/cover2.png",
+    "assets/2026-11-03/cover3.png",
+    "assets/2026-11-03/cover4.png"
   ],
   "feishu_image_paths": [
-    "assets/2026-11-02/cover1_feishu.png",
-    "assets/2026-11-02/cover2_feishu.png",
-    "assets/2026-11-02/cover3_feishu.png",
-    "assets/2026-11-02/cover4_feishu.png"
+    "assets/2026-11-03/cover1_feishu.png",
+    "assets/2026-11-03/cover2_feishu.png",
+    "assets/2026-11-03/cover3_feishu.png",
+    "assets/2026-11-03/cover4_feishu.png"
   ]
 }
