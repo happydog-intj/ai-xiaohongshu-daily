@@ -1,11 +1,11 @@
 {
-  "date": "2026-11-03",
+  "date": "2026-11-04",
   "posts": [
     {
-      "topic": "Scaling Git at OpenA",
-      "cover_line1": "Scaling Gi",
+      "topic": "Jailbreaking my car'",
+      "cover_line1": "Jailbreaki",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Scaling Git at OpenAI**\n\n📌 来源：HackerNews\n🔗 https://openai.com/index/scaling-git-at-openai/\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Jailbreaking my car's navigation system just so I can change the time**\n\n📌 来源：HackerNews\n🔗 https://blog.nns.ee/2026/11/02/renault-hack/\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -20,10 +20,10 @@
       ]
     },
     {
-      "topic": "Launch HN: Momentic ",
-      "cover_line1": "Launch HN:",
+      "topic": "Fujifilm to boost ta",
+      "cover_line1": "Fujifilm t",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Launch HN: Momentic (YC W24) – Agents that catch bugs by using your app**\n\n📌 来源：HackerNews\n🔗 https://momentic.ai/\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Fujifilm to boost tape production 5x as AI fuels archiving demand**\n\n📌 来源：HackerNews\n🔗 https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -38,10 +38,10 @@
       ]
     },
     {
-      "topic": "The SEC Should Block",
-      "cover_line1": "The SEC Sh",
+      "topic": "Qwen 3.8 27B on my l",
+      "cover_line1": "Qwen 3.8 2",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**The SEC Should Block Anthropic's IPO to Protect the Public**\n\n📌 来源：HackerNews\n🔗 https://www.techpolicy.press/the-sec-should-block-anthropics-ipo-to-protect-the-public/\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Qwen 3.8 27B on my laptop can interpret model weights, too**\n\n📌 来源：HackerNews\n🔗 https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -56,10 +56,10 @@
       ]
     },
     {
-      "topic": "Egoless Mathematics ",
-      "cover_line1": "Egoless Ma",
+      "topic": "The Little Book of G",
+      "cover_line1": "The Little",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Egoless Mathematics in the AI Era**\n\n📌 来源：HackerNews\n🔗 https://terrytao.wordpress.com/2026/11/02/egoless-mathematics-in-the-ai-era/\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer**\n\n📌 来源：HackerNews\n🔗 https://arxiv.org/abs/2605.29713\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -75,15 +75,15 @@
     }
   ],
   "image_paths": [
-    "assets/2026-11-03/cover1.png",
-    "assets/2026-11-03/cover2.png",
-    "assets/2026-11-03/cover3.png",
-    "assets/2026-11-03/cover4.png"
+    "assets/2026-11-04/cover1.png",
+    "assets/2026-11-04/cover2.png",
+    "assets/2026-11-04/cover3.png",
+    "assets/2026-11-04/cover4.png"
   ],
   "feishu_image_paths": [
-    "assets/2026-11-03/cover1_feishu.png",
-    "assets/2026-11-03/cover2_feishu.png",
-    "assets/2026-11-03/cover3_feishu.png",
-    "assets/2026-11-03/cover4_feishu.png"
+    "assets/2026-11-04/cover1_feishu.png",
+    "assets/2026-11-04/cover2_feishu.png",
+    "assets/2026-11-04/cover3_feishu.png",
+    "assets/2026-11-04/cover4_feishu.png"
   ]
 }
