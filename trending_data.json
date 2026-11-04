@@ -7,32 +7,32 @@
       "url": "https://github.com/thedotmack/claude-mem",
       "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
       "language": "TypeScript",
-      "stars_today": "1,138 stars today",
-      "stars_total": "111,703"
+      "stars_today": "1,139 stars today",
+      "stars_total": "112,017"
     },
     {
       "name": "vercel-labs/agent-desktop",
       "url": "https://github.com/vercel-labs/agent-desktop",
       "description": "Computer use CLI for AI agents",
       "language": "Rust",
-      "stars_today": "3,792 stars today",
-      "stars_total": "12,354"
+      "stars_today": "3,791 stars today",
+      "stars_total": "13,009"
     },
     {
       "name": "max-sixty/worktrunk",
       "url": "https://github.com/max-sixty/worktrunk",
       "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
       "language": "Rust",
-      "stars_today": "437 stars today",
-      "stars_total": "10,405"
+      "stars_today": "438 stars today",
+      "stars_total": "10,561"
     },
     {
       "name": "JustVugg/colibri",
       "url": "https://github.com/JustVugg/colibri",
       "description": "A hierarchical inference engine for frontier MoE models: hot experts on the GPU (CUDA, Vulkan), warm ones in RAM, cold ones streamed from NVMe. Written in C, runs on the hardware you already own.",
       "language": "C",
-      "stars_today": "803 stars today",
-      "stars_total": "47,151"
+      "stars_today": "802 stars today",
+      "stars_total": "47,302"
     },
     {
       "name": "mattpocock/skills",
@@ -40,39 +40,39 @@
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "language": "Shell",
       "stars_today": "1,164 stars today",
-      "stars_total": "311,244"
+      "stars_total": "311,582"
     },
     {
       "name": "p-e-w/heretic",
       "url": "https://github.com/p-e-w/heretic",
       "description": "Training-free language model modification: Remove censorship, suppress slop, reduce sycophancy, and more",
       "language": "Python",
-      "stars_today": "699 stars today",
-      "stars_total": "38,668"
+      "stars_today": "701 stars today",
+      "stars_total": "38,865"
     },
     {
       "name": "spotify/portal-ai-plugins",
       "url": "https://github.com/spotify/portal-ai-plugins",
       "description": "",
       "language": "TypeScript",
-      "stars_today": "94 stars today",
-      "stars_total": "3,000"
+      "stars_today": "91 stars today",
+      "stars_total": "3,066"
     },
     {
       "name": "floci-io/floci",
       "url": "https://github.com/floci-io/floci",
       "description": "Light, fluffy, and always free - The AWS Local Emulator alternative",
       "language": "Java",
-      "stars_today": "679 stars today",
-      "stars_total": "28,592"
+      "stars_today": "482 stars today",
+      "stars_total": "28,882"
     },
     {
       "name": "Usagi-org/ai-goofish-monitor",
       "url": "https://github.com/Usagi-org/ai-goofish-monitor",
       "description": "基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。",
       "language": "Python",
-      "stars_today": "204 stars today",
-      "stars_total": "16,308"
+      "stars_today": "228 stars today",
+      "stars_total": "16,566"
     },
     {
       "name": "anomalyco/hex",
@@ -80,7 +80,7 @@
       "description": "Local voice dictation for mac, windows and linux",
       "language": "Rust",
       "stars_today": "410 stars today",
-      "stars_total": "4,454"
+      "stars_total": "4,649"
     }
   ],
   "ai_repos": [
@@ -89,32 +89,32 @@
       "url": "https://github.com/thedotmack/claude-mem",
       "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
       "language": "TypeScript",
-      "stars_today": "1,138 stars today",
-      "stars_total": "111,703"
+      "stars_today": "1,139 stars today",
+      "stars_total": "112,017"
     },
     {
       "name": "vercel-labs/agent-desktop",
       "url": "https://github.com/vercel-labs/agent-desktop",
       "description": "Computer use CLI for AI agents",
       "language": "Rust",
-      "stars_today": "3,792 stars today",
-      "stars_total": "12,354"
+      "stars_today": "3,791 stars today",
+      "stars_total": "13,009"
     },
     {
       "name": "max-sixty/worktrunk",
       "url": "https://github.com/max-sixty/worktrunk",
       "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
       "language": "Rust",
-      "stars_today": "437 stars today",
-      "stars_total": "10,405"
+      "stars_today": "438 stars today",
+      "stars_total": "10,561"
     },
     {
       "name": "JustVugg/colibri",
       "url": "https://github.com/JustVugg/colibri",
       "description": "A hierarchical inference engine for frontier MoE models: hot experts on the GPU (CUDA, Vulkan), warm ones in RAM, cold ones streamed from NVMe. Written in C, runs on the hardware you already own.",
       "language": "C",
-      "stars_today": "803 stars today",
-      "stars_total": "47,151"
+      "stars_today": "802 stars today",
+      "stars_total": "47,302"
     },
     {
       "name": "mattpocock/skills",
@@ -122,31 +122,31 @@
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "language": "Shell",
       "stars_today": "1,164 stars today",
-      "stars_total": "311,244"
+      "stars_total": "311,582"
     },
     {
       "name": "p-e-w/heretic",
       "url": "https://github.com/p-e-w/heretic",
       "description": "Training-free language model modification: Remove censorship, suppress slop, reduce sycophancy, and more",
       "language": "Python",
-      "stars_today": "699 stars today",
-      "stars_total": "38,668"
+      "stars_today": "701 stars today",
+      "stars_total": "38,865"
     },
     {
       "name": "spotify/portal-ai-plugins",
       "url": "https://github.com/spotify/portal-ai-plugins",
       "description": "",
       "language": "TypeScript",
-      "stars_today": "94 stars today",
-      "stars_total": "3,000"
+      "stars_today": "91 stars today",
+      "stars_total": "3,066"
     },
     {
       "name": "Usagi-org/ai-goofish-monitor",
       "url": "https://github.com/Usagi-org/ai-goofish-monitor",
       "description": "基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。",
       "language": "Python",
-      "stars_today": "204 stars today",
-      "stars_total": "16,308"
+      "stars_today": "228 stars today",
+      "stars_total": "16,566"
     }
   ],
   "posts": [
