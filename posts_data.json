@@ -1,11 +1,11 @@
 {
-  "date": "2026-11-04",
+  "date": "2026-11-05",
   "posts": [
     {
-      "topic": "Jailbreaking my car'",
-      "cover_line1": "Jailbreaki",
+      "topic": "AI is forcing us to ",
+      "cover_line1": "AI is forc",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Jailbreaking my car's navigation system just so I can change the time**\n\n📌 来源：HackerNews\n🔗 https://blog.nns.ee/2026/11/02/renault-hack/\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**AI is forcing us to pay off 40 years of technical debt**\n\n📌 来源：HackerNews\n🔗 https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -20,10 +20,10 @@
       ]
     },
     {
-      "topic": "Fujifilm to boost ta",
-      "cover_line1": "Fujifilm t",
+      "topic": "Ripple-65B Preview: ",
+      "cover_line1": "Ripple-65B",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Fujifilm to boost tape production 5x as AI fuels archiving demand**\n\n📌 来源：HackerNews\n🔗 https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Ripple-65B Preview: U.S. Open-Weight SOTA on Agentic Coding**\n\n📌 来源：HackerNews\n🔗 https://www.ricursive.com/ripple\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -38,10 +38,10 @@
       ]
     },
     {
-      "topic": "Qwen 3.8 27B on my l",
-      "cover_line1": "Qwen 3.8 2",
+      "topic": "Kimi K3.1 Pro model ",
+      "cover_line1": "Kimi K3.1 ",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Qwen 3.8 27B on my laptop can interpret model weights, too**\n\n📌 来源：HackerNews\n🔗 https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Kimi K3.1 Pro model weights are out**\n\n📌 来源：HackerNews\n🔗 https://huggingface.co/moonshotai/Kimi-K3.1-Pro\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -56,10 +56,10 @@
       ]
     },
     {
-      "topic": "The Little Book of G",
-      "cover_line1": "The Little",
+      "topic": "Qualcomm Cloud AI 10",
+      "cover_line1": "Qualcomm C",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer**\n\n📌 来源：HackerNews\n🔗 https://arxiv.org/abs/2605.29713\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Qualcomm Cloud AI 100 Ultra – 150W AI Accelerator Card with 128GB at 548GB/s**\n\n📌 来源：HackerNews\n🔗 https://www.qualcomm.com/data-center/products/cloud-ai-100-ultra\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -75,15 +75,15 @@
     }
   ],
   "image_paths": [
-    "assets/2026-11-04/cover1.png",
-    "assets/2026-11-04/cover2.png",
-    "assets/2026-11-04/cover3.png",
-    "assets/2026-11-04/cover4.png"
+    "assets/2026-11-05/cover1.png",
+    "assets/2026-11-05/cover2.png",
+    "assets/2026-11-05/cover3.png",
+    "assets/2026-11-05/cover4.png"
   ],
   "feishu_image_paths": [
-    "assets/2026-11-04/cover1_feishu.png",
-    "assets/2026-11-04/cover2_feishu.png",
-    "assets/2026-11-04/cover3_feishu.png",
-    "assets/2026-11-04/cover4_feishu.png"
+    "assets/2026-11-05/cover1_feishu.png",
+    "assets/2026-11-05/cover2_feishu.png",
+    "assets/2026-11-05/cover3_feishu.png",
+    "assets/2026-11-05/cover4_feishu.png"
   ]
 }
