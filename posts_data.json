@@ -1,11 +1,11 @@
 {
-  "date": "2026-11-05",
+  "date": "2026-11-06",
   "posts": [
     {
-      "topic": "AI is forcing us to ",
-      "cover_line1": "AI is forc",
+      "topic": "Claude Code sends yo",
+      "cover_line1": "Claude Cod",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**AI is forcing us to pay off 40 years of technical debt**\n\n📌 来源：HackerNews\n🔗 https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Claude Code sends your email address to websites**\n\n📌 来源：HackerNews\n🔗 https://github.com/anthropics/claude-code/issues/107757\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -20,10 +20,10 @@
       ]
     },
     {
-      "topic": "Ripple-65B Preview: ",
-      "cover_line1": "Ripple-65B",
+      "topic": "MS Paint Remote Code",
+      "cover_line1": "MS Paint R",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Ripple-65B Preview: U.S. Open-Weight SOTA on Agentic Coding**\n\n📌 来源：HackerNews\n🔗 https://www.ricursive.com/ripple\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**MS Paint Remote Code Execution Vulnerability**\n\n📌 来源：HackerNews\n🔗 https://www.cve.org/CVERecord?id=CVE-2026-83844\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -38,10 +38,10 @@
       ]
     },
     {
-      "topic": "Kimi K3.1 Pro model ",
-      "cover_line1": "Kimi K3.1 ",
+      "topic": "Tencent Launches Hy4",
+      "cover_line1": "Tencent La",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Kimi K3.1 Pro model weights are out**\n\n📌 来源：HackerNews\n🔗 https://huggingface.co/moonshotai/Kimi-K3.1-Pro\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Tencent Launches Hy4, One of the Leading Open-Source AI Models**\n\n📌 来源：HackerNews\n🔗 https://www.tencent.com/tencent-launches-hy4-joining-the-ranks-of-the-worlds-leading-open-source-ai-models/\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -56,10 +56,10 @@
       ]
     },
     {
-      "topic": "Qualcomm Cloud AI 10",
-      "cover_line1": "Qualcomm C",
+      "topic": "Launch HN: Rivet (YC",
+      "cover_line1": "Launch HN:",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Qualcomm Cloud AI 100 Ultra – 150W AI Accelerator Card with 128GB at 548GB/s**\n\n📌 来源：HackerNews\n🔗 https://www.qualcomm.com/data-center/products/cloud-ai-100-ultra\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Launch HN: Rivet (YC W23) – Scale and Orchestrate Agents on S3**\n\n📌 来源：HackerNews\n🔗 https://github.com/rivet-dev/rivet\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -75,15 +75,15 @@
     }
   ],
   "image_paths": [
-    "assets/2026-11-05/cover1.png",
-    "assets/2026-11-05/cover2.png",
-    "assets/2026-11-05/cover3.png",
-    "assets/2026-11-05/cover4.png"
+    "assets/2026-11-06/cover1.png",
+    "assets/2026-11-06/cover2.png",
+    "assets/2026-11-06/cover3.png",
+    "assets/2026-11-06/cover4.png"
   ],
   "feishu_image_paths": [
-    "assets/2026-11-05/cover1_feishu.png",
-    "assets/2026-11-05/cover2_feishu.png",
-    "assets/2026-11-05/cover3_feishu.png",
-    "assets/2026-11-05/cover4_feishu.png"
+    "assets/2026-11-06/cover1_feishu.png",
+    "assets/2026-11-06/cover2_feishu.png",
+    "assets/2026-11-06/cover3_feishu.png",
+    "assets/2026-11-06/cover4_feishu.png"
   ]
 }
