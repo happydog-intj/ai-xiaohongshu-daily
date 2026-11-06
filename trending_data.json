@@ -1,86 +1,86 @@
 {
-  "date": "2026-11-06",
+  "date": "2026-11-07",
   "slot": "早报",
   "all_repos": [
+    {
+      "name": "zed-industries/zed",
+      "url": "https://github.com/zed-industries/zed",
+      "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
+      "language": "Rust",
+      "stars_today": "292 stars today",
+      "stars_total": "93,420"
+    },
     {
       "name": "NVIDIA/auto-ontology",
       "url": "https://github.com/NVIDIA/auto-ontology",
       "description": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.",
       "language": "Python",
-      "stars_today": "2,679 stars today",
-      "stars_total": "7,541"
+      "stars_today": "2,005 stars today",
+      "stars_total": "8,783"
     },
     {
-      "name": "mattpocock/skills",
-      "url": "https://github.com/mattpocock/skills",
-      "description": "Skills for Real Engineers. Straight from my .agents directory.",
-      "language": "Shell",
-      "stars_today": "2,071 stars today",
-      "stars_total": "315,414"
+      "name": "rails/rails",
+      "url": "https://github.com/rails/rails",
+      "description": "Ruby on Rails",
+      "language": "Ruby",
+      "stars_today": "152 stars today",
+      "stars_total": "58,963"
     },
     {
-      "name": "garrytan/gstack",
-      "url": "https://github.com/garrytan/gstack",
-      "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
-      "language": "TypeScript",
-      "stars_today": "612 stars today",
-      "stars_total": "140,012"
-    },
-    {
-      "name": "Usagi-org/ai-goofish-monitor",
-      "url": "https://github.com/Usagi-org/ai-goofish-monitor",
-      "description": "基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。",
-      "language": "Python",
-      "stars_today": "240 stars today",
-      "stars_total": "17,702"
-    },
-    {
-      "name": "D4Vinci/Scrapling",
-      "url": "https://github.com/D4Vinci/Scrapling",
-      "description": "🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here:https://discord.gg/EMgGbDceNQand follow here for daily tips and tricks:https://x.com/Scrapling_dev",
-      "language": "Python",
-      "stars_today": "1,655 stars today",
-      "stars_total": "98,109"
-    },
-    {
-      "name": "vercel-labs/agent-desktop",
-      "url": "https://github.com/vercel-labs/agent-desktop",
-      "description": "Computer use CLI for AI agents",
-      "language": "Rust",
-      "stars_today": "2,173 stars today",
-      "stars_total": "17,024"
-    },
-    {
-      "name": "max-sixty/worktrunk",
-      "url": "https://github.com/max-sixty/worktrunk",
-      "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
-      "language": "Rust",
-      "stars_today": "546 stars today",
-      "stars_total": "11,560"
-    },
-    {
-      "name": "lz4/lz4",
-      "url": "https://github.com/lz4/lz4",
-      "description": "Extremely Fast Compression algorithm",
+      "name": "mpv-player/mpv",
+      "url": "https://github.com/mpv-player/mpv",
+      "description": "🎥 Command line media player",
       "language": "C",
-      "stars_today": "23 stars today",
-      "stars_total": "12,400"
+      "stars_today": "36 stars today",
+      "stars_total": "37,835"
+    },
+    {
+      "name": "rust-lang/rust",
+      "url": "https://github.com/rust-lang/rust",
+      "description": "Empowering everyone to build reliable and efficient software.",
+      "language": "Rust",
+      "stars_today": "186 stars today",
+      "stars_total": "121,334"
+    },
+    {
+      "name": "react/react",
+      "url": "https://github.com/react/react",
+      "description": "The library for web and native user interfaces.",
+      "language": "JavaScript",
+      "stars_today": "244 stars today",
+      "stars_total": "252,177"
+    },
+    {
+      "name": "angular/angular",
+      "url": "https://github.com/angular/angular",
+      "description": "Deliver web apps with confidence 🚀",
+      "language": "TypeScript",
+      "stars_today": "128 stars today",
+      "stars_total": "101,252"
+    },
+    {
+      "name": "symfony/symfony",
+      "url": "https://github.com/symfony/symfony",
+      "description": "The Symfony PHP framework",
+      "language": "PHP",
+      "stars_today": "89 stars today",
+      "stars_total": "31,346"
+    },
+    {
+      "name": "prometheus/prometheus",
+      "url": "https://github.com/prometheus/prometheus",
+      "description": "The Prometheus monitoring system and time series database.",
+      "language": "Go",
+      "stars_today": "140 stars today",
+      "stars_total": "67,093"
     },
     {
       "name": "google/skills",
       "url": "https://github.com/google/skills",
       "description": "Agent Skills for Google products and technologies",
       "language": "Python",
-      "stars_today": "211 stars today",
-      "stars_total": "22,426"
-    },
-    {
-      "name": "vercel-labs/agent-browser",
-      "url": "https://github.com/vercel-labs/agent-browser",
-      "description": "Browser automation CLI for AI agents",
-      "language": "Rust",
-      "stars_today": "150 stars today",
-      "stars_total": "45,969"
+      "stars_today": "532 stars today",
+      "stars_total": "22,766"
     }
   ],
   "ai_repos": [
@@ -89,72 +89,24 @@
       "url": "https://github.com/NVIDIA/auto-ontology",
       "description": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.",
       "language": "Python",
-      "stars_today": "2,679 stars today",
-      "stars_total": "7,541"
+      "stars_today": "2,005 stars today",
+      "stars_total": "8,783"
     },
     {
-      "name": "mattpocock/skills",
-      "url": "https://github.com/mattpocock/skills",
-      "description": "Skills for Real Engineers. Straight from my .agents directory.",
-      "language": "Shell",
-      "stars_today": "2,071 stars today",
-      "stars_total": "315,414"
-    },
-    {
-      "name": "garrytan/gstack",
-      "url": "https://github.com/garrytan/gstack",
-      "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
-      "language": "TypeScript",
-      "stars_today": "612 stars today",
-      "stars_total": "140,012"
-    },
-    {
-      "name": "Usagi-org/ai-goofish-monitor",
-      "url": "https://github.com/Usagi-org/ai-goofish-monitor",
-      "description": "基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。",
-      "language": "Python",
-      "stars_today": "240 stars today",
-      "stars_total": "17,702"
-    },
-    {
-      "name": "D4Vinci/Scrapling",
-      "url": "https://github.com/D4Vinci/Scrapling",
-      "description": "🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here:https://discord.gg/EMgGbDceNQand follow here for daily tips and tricks:https://x.com/Scrapling_dev",
-      "language": "Python",
-      "stars_today": "1,655 stars today",
-      "stars_total": "98,109"
-    },
-    {
-      "name": "vercel-labs/agent-desktop",
-      "url": "https://github.com/vercel-labs/agent-desktop",
-      "description": "Computer use CLI for AI agents",
-      "language": "Rust",
-      "stars_today": "2,173 stars today",
-      "stars_total": "17,024"
-    },
-    {
-      "name": "max-sixty/worktrunk",
-      "url": "https://github.com/max-sixty/worktrunk",
-      "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
-      "language": "Rust",
-      "stars_today": "546 stars today",
-      "stars_total": "11,560"
+      "name": "rails/rails",
+      "url": "https://github.com/rails/rails",
+      "description": "Ruby on Rails",
+      "language": "Ruby",
+      "stars_today": "152 stars today",
+      "stars_total": "58,963"
     },
     {
       "name": "google/skills",
       "url": "https://github.com/google/skills",
       "description": "Agent Skills for Google products and technologies",
       "language": "Python",
-      "stars_today": "211 stars today",
-      "stars_total": "22,426"
-    },
-    {
-      "name": "vercel-labs/agent-browser",
-      "url": "https://github.com/vercel-labs/agent-browser",
-      "description": "Browser automation CLI for AI agents",
-      "language": "Rust",
-      "stars_today": "150 stars today",
-      "stars_total": "45,969"
+      "stars_today": "532 stars today",
+      "stars_total": "22,766"
     }
   ],
   "posts": [
@@ -178,49 +130,30 @@
       ]
     },
     {
+      "topic": "rails",
+      "repo": "rails/rails",
+      "cover_line1": "rails",
+      "cover_line2": "今日 GitHub 热榜！",
+      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**rails/rails**\n\n📌 Ruby on Rails\n\n🔗 https://github.com/rails/rails\n\n关注我，每天第一时间 AI 动态 👇",
+      "tags": [
+        "AI",
+        "GitHub",
+        "开源",
+        "热门项目",
+        "大模型",
+        "机器学习",
+        "深度学习",
+        "AI工具",
+        "技术",
+        "炼丹"
+      ]
+    },
+    {
       "topic": "skills",
-      "repo": "mattpocock/skills",
+      "repo": "google/skills",
       "cover_line1": "skills",
       "cover_line2": "今日 GitHub 热榜！",
-      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**mattpocock/skills**\n\n📌 Skills for Real Engineers. Straight from my .agents directory.\n\n🔗 https://github.com/mattpocock/skills\n\n关注我，每天第一时间 AI 动态 👇",
-      "tags": [
-        "AI",
-        "GitHub",
-        "开源",
-        "热门项目",
-        "大模型",
-        "机器学习",
-        "深度学习",
-        "AI工具",
-        "技术",
-        "炼丹"
-      ]
-    },
-    {
-      "topic": "gstack",
-      "repo": "garrytan/gstack",
-      "cover_line1": "gstack",
-      "cover_line2": "今日 GitHub 热榜！",
-      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**garrytan/gstack**\n\n📌 Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA\n\n🔗 https://github.com/garrytan/gstack\n\n关注我，每天第一时间 AI 动态 👇",
-      "tags": [
-        "AI",
-        "GitHub",
-        "开源",
-        "热门项目",
-        "大模型",
-        "机器学习",
-        "深度学习",
-        "AI工具",
-        "技术",
-        "炼丹"
-      ]
-    },
-    {
-      "topic": "ai-goofish-monitor",
-      "repo": "Usagi-org/ai-goofish-monitor",
-      "cover_line1": "ai-goofish",
-      "cover_line2": "今日 GitHub 热榜！",
-      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**Usagi-org/ai-goofish-monitor**\n\n📌 基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。\n\n🔗 https://github.com/Usagi-org/ai-goofish-monitor\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**google/skills**\n\n📌 Agent Skills for Google products and technologies\n\n🔗 https://github.com/google/skills\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "GitHub",
@@ -236,10 +169,9 @@
     }
   ],
   "image_paths": [
-    "assets/2026-11-06/trending/summary.png",
-    "assets/2026-11-06/trending/post1.png",
-    "assets/2026-11-06/trending/post2.png",
-    "assets/2026-11-06/trending/post3.png",
-    "assets/2026-11-06/trending/post4.png"
+    "assets/2026-11-07/trending/summary.png",
+    "assets/2026-11-07/trending/post1.png",
+    "assets/2026-11-07/trending/post2.png",
+    "assets/2026-11-07/trending/post3.png"
   ]
 }
