@@ -7,80 +7,80 @@
       "url": "https://github.com/zed-industries/zed",
       "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
       "language": "Rust",
-      "stars_today": "292 stars today",
-      "stars_total": "93,420"
+      "stars_today": "306 stars today",
+      "stars_total": "93,681"
     },
     {
       "name": "NVIDIA/auto-ontology",
       "url": "https://github.com/NVIDIA/auto-ontology",
       "description": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.",
       "language": "Python",
-      "stars_today": "2,005 stars today",
-      "stars_total": "8,783"
+      "stars_today": "2,015 stars today",
+      "stars_total": "9,126"
     },
     {
       "name": "rails/rails",
       "url": "https://github.com/rails/rails",
       "description": "Ruby on Rails",
       "language": "Ruby",
-      "stars_today": "152 stars today",
-      "stars_total": "58,963"
+      "stars_today": "142 stars today",
+      "stars_total": "59,035"
     },
     {
       "name": "mpv-player/mpv",
       "url": "https://github.com/mpv-player/mpv",
       "description": "🎥 Command line media player",
       "language": "C",
-      "stars_today": "36 stars today",
-      "stars_total": "37,835"
+      "stars_today": "37 stars today",
+      "stars_total": "37,888"
     },
     {
       "name": "rust-lang/rust",
       "url": "https://github.com/rust-lang/rust",
       "description": "Empowering everyone to build reliable and efficient software.",
       "language": "Rust",
-      "stars_today": "186 stars today",
-      "stars_total": "121,334"
+      "stars_today": "192 stars today",
+      "stars_total": "121,471"
     },
     {
       "name": "react/react",
       "url": "https://github.com/react/react",
       "description": "The library for web and native user interfaces.",
       "language": "JavaScript",
-      "stars_today": "244 stars today",
-      "stars_total": "252,177"
+      "stars_today": "248 stars today",
+      "stars_total": "252,271"
     },
     {
       "name": "angular/angular",
       "url": "https://github.com/angular/angular",
       "description": "Deliver web apps with confidence 🚀",
       "language": "TypeScript",
-      "stars_today": "128 stars today",
-      "stars_total": "101,252"
+      "stars_today": "135 stars today",
+      "stars_total": "101,379"
     },
     {
       "name": "symfony/symfony",
       "url": "https://github.com/symfony/symfony",
       "description": "The Symfony PHP framework",
       "language": "PHP",
-      "stars_today": "89 stars today",
-      "stars_total": "31,346"
+      "stars_today": "128 stars today",
+      "stars_total": "31,443"
     },
     {
       "name": "prometheus/prometheus",
       "url": "https://github.com/prometheus/prometheus",
       "description": "The Prometheus monitoring system and time series database.",
       "language": "Go",
-      "stars_today": "140 stars today",
-      "stars_total": "67,093"
+      "stars_today": "148 stars today",
+      "stars_total": "67,202"
     },
     {
       "name": "google/skills",
       "url": "https://github.com/google/skills",
       "description": "Agent Skills for Google products and technologies",
       "language": "Python",
-      "stars_today": "532 stars today",
-      "stars_total": "22,766"
+      "stars_today": "534 stars today",
+      "stars_total": "22,863"
     }
   ],
   "ai_repos": [
@@ -89,24 +89,24 @@
       "url": "https://github.com/NVIDIA/auto-ontology",
       "description": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.",
       "language": "Python",
-      "stars_today": "2,005 stars today",
-      "stars_total": "8,783"
+      "stars_today": "2,015 stars today",
+      "stars_total": "9,126"
     },
     {
       "name": "rails/rails",
       "url": "https://github.com/rails/rails",
       "description": "Ruby on Rails",
       "language": "Ruby",
-      "stars_today": "152 stars today",
-      "stars_total": "58,963"
+      "stars_today": "142 stars today",
+      "stars_total": "59,035"
     },
     {
       "name": "google/skills",
       "url": "https://github.com/google/skills",
       "description": "Agent Skills for Google products and technologies",
       "language": "Python",
-      "stars_today": "532 stars today",
-      "stars_total": "22,766"
+      "stars_today": "534 stars today",
+      "stars_total": "22,863"
     }
   ],
   "posts": [
