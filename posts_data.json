@@ -1,11 +1,11 @@
 {
-  "date": "2026-11-06",
+  "date": "2026-11-07",
   "posts": [
     {
-      "topic": "Claude Code sends yo",
-      "cover_line1": "Claude Cod",
+      "topic": "US FAA says it will ",
+      "cover_line1": "US FAA say",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Claude Code sends your email address to websites**\n\n📌 来源：HackerNews\n🔗 https://github.com/anthropics/claude-code/issues/107757\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**US FAA says it will phase out floppy disks from air traffic control by 2028**\n\n📌 来源：HackerNews\n🔗 https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -20,10 +20,10 @@
       ]
     },
     {
-      "topic": "MS Paint Remote Code",
-      "cover_line1": "MS Paint R",
+      "topic": "Outbound SIP calling",
+      "cover_line1": "Outbound S",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**MS Paint Remote Code Execution Vulnerability**\n\n📌 来源：HackerNews\n🔗 https://www.cve.org/CVERecord?id=CVE-2026-83844\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Outbound SIP calling is now available to all organizations**\n\n📌 来源：HackerNews\n🔗 https://developers.openai.com/api/docs/guides/voice-sip\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -38,10 +38,10 @@
       ]
     },
     {
-      "topic": "Tencent Launches Hy4",
-      "cover_line1": "Tencent La",
+      "topic": "Restaurant Delivery ",
+      "cover_line1": "Restaurant",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Tencent Launches Hy4, One of the Leading Open-Source AI Models**\n\n📌 来源：HackerNews\n🔗 https://www.tencent.com/tencent-launches-hy4-joining-the-ranks-of-the-worlds-leading-open-source-ai-models/\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Restaurant Delivery Payment-Skimming Campaign**\n\n📌 来源：HackerNews\n🔗 https://www.infohawk.com/news/2026-11-05-scamwich-restaurant-skimming\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -56,10 +56,10 @@
       ]
     },
     {
-      "topic": "Launch HN: Rivet (YC",
-      "cover_line1": "Launch HN:",
+      "topic": "Panthera: Ampere's C",
+      "cover_line1": "Panthera: ",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Launch HN: Rivet (YC W23) – Scale and Orchestrate Agents on S3**\n\n📌 来源：HackerNews\n🔗 https://github.com/rivet-dev/rivet\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Panthera: Ampere's CPU Performance Model**\n\n📌 来源：HackerNews\n🔗 https://github.com/AmpereComputing/panthera\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -75,15 +75,15 @@
     }
   ],
   "image_paths": [
-    "assets/2026-11-06/cover1.png",
-    "assets/2026-11-06/cover2.png",
-    "assets/2026-11-06/cover3.png",
-    "assets/2026-11-06/cover4.png"
+    "assets/2026-11-07/cover1.png",
+    "assets/2026-11-07/cover2.png",
+    "assets/2026-11-07/cover3.png",
+    "assets/2026-11-07/cover4.png"
   ],
   "feishu_image_paths": [
-    "assets/2026-11-06/cover1_feishu.png",
-    "assets/2026-11-06/cover2_feishu.png",
-    "assets/2026-11-06/cover3_feishu.png",
-    "assets/2026-11-06/cover4_feishu.png"
+    "assets/2026-11-07/cover1_feishu.png",
+    "assets/2026-11-07/cover2_feishu.png",
+    "assets/2026-11-07/cover3_feishu.png",
+    "assets/2026-11-07/cover4_feishu.png"
   ]
 }
