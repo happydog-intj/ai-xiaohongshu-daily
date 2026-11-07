@@ -1,121 +1,145 @@
 {
-  "date": "2026-11-07",
+  "date": "2026-11-08",
   "slot": "早报",
   "all_repos": [
     {
-      "name": "zed-industries/zed",
-      "url": "https://github.com/zed-industries/zed",
-      "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
+      "name": "vercel-labs/agent-browser",
+      "url": "https://github.com/vercel-labs/agent-browser",
+      "description": "Browser automation CLI for AI agents",
       "language": "Rust",
-      "stars_today": "306 stars today",
-      "stars_total": "93,681"
+      "stars_today": "180 stars today",
+      "stars_total": "46,633"
     },
     {
-      "name": "NVIDIA/auto-ontology",
-      "url": "https://github.com/NVIDIA/auto-ontology",
-      "description": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.",
-      "language": "Python",
-      "stars_today": "2,015 stars today",
-      "stars_total": "9,126"
-    },
-    {
-      "name": "rails/rails",
-      "url": "https://github.com/rails/rails",
-      "description": "Ruby on Rails",
-      "language": "Ruby",
-      "stars_today": "142 stars today",
-      "stars_total": "59,035"
-    },
-    {
-      "name": "mpv-player/mpv",
-      "url": "https://github.com/mpv-player/mpv",
-      "description": "🎥 Command line media player",
-      "language": "C",
-      "stars_today": "37 stars today",
-      "stars_total": "37,888"
-    },
-    {
-      "name": "rust-lang/rust",
-      "url": "https://github.com/rust-lang/rust",
-      "description": "Empowering everyone to build reliable and efficient software.",
-      "language": "Rust",
-      "stars_today": "192 stars today",
-      "stars_total": "121,471"
-    },
-    {
-      "name": "react/react",
-      "url": "https://github.com/react/react",
-      "description": "The library for web and native user interfaces.",
+      "name": "cloudflare/security-audit-skill",
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
       "language": "JavaScript",
-      "stars_today": "248 stars today",
-      "stars_total": "252,271"
+      "stars_today": "2,088 stars today",
+      "stars_total": "65,291"
     },
     {
-      "name": "angular/angular",
-      "url": "https://github.com/angular/angular",
-      "description": "Deliver web apps with confidence 🚀",
+      "name": "google/skills",
+      "url": "https://github.com/google/skills",
+      "description": "Agent Skills for Google products and technologies",
+      "language": "Python",
+      "stars_today": "449 stars today",
+      "stars_total": "23,217"
+    },
+    {
+      "name": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "language": "Shell",
+      "stars_today": "1,111 stars today",
+      "stars_total": "317,446"
+    },
+    {
+      "name": "anthropics/skills",
+      "url": "https://github.com/anthropics/skills",
+      "description": "Public repository for Agent Skills",
+      "language": "Python",
+      "stars_today": "386 stars today",
+      "stars_total": "188,560"
+    },
+    {
+      "name": "meta/astryx",
+      "url": "https://github.com/meta/astryx",
+      "description": "An open source design system that's fully customizable and agent ready",
       "language": "TypeScript",
-      "stars_today": "135 stars today",
-      "stars_total": "101,379"
-    },
-    {
-      "name": "symfony/symfony",
-      "url": "https://github.com/symfony/symfony",
-      "description": "The Symfony PHP framework",
-      "language": "PHP",
-      "stars_today": "128 stars today",
-      "stars_total": "31,443"
+      "stars_today": "185 stars today",
+      "stars_total": "14,301"
     },
     {
       "name": "prometheus/prometheus",
       "url": "https://github.com/prometheus/prometheus",
       "description": "The Prometheus monitoring system and time series database.",
       "language": "Go",
-      "stars_today": "148 stars today",
-      "stars_total": "67,202"
+      "stars_today": "325 stars today",
+      "stars_total": "67,365"
     },
     {
-      "name": "google/skills",
-      "url": "https://github.com/google/skills",
-      "description": "Agent Skills for Google products and technologies",
+      "name": "sherlock-project/sherlock",
+      "url": "https://github.com/sherlock-project/sherlock",
+      "description": "Hunt down social media accounts by username across social networks",
       "language": "Python",
-      "stars_today": "534 stars today",
-      "stars_total": "22,863"
+      "stars_today": "1,819 stars today",
+      "stars_total": "100,036"
+    },
+    {
+      "name": "milind-soni/OpenMausBot",
+      "url": "https://github.com/milind-soni/OpenMausBot",
+      "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
+      "language": "TypeScript",
+      "stars_today": "1,986 stars today",
+      "stars_total": "16,695"
+    },
+    {
+      "name": "astral-sh/ruff",
+      "url": "https://github.com/astral-sh/ruff",
+      "description": "An extremely fast Python linter and code formatter, written in Rust.",
+      "language": "Rust",
+      "stars_today": "350 stars today",
+      "stars_total": "50,898"
     }
   ],
   "ai_repos": [
     {
-      "name": "NVIDIA/auto-ontology",
-      "url": "https://github.com/NVIDIA/auto-ontology",
-      "description": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.",
-      "language": "Python",
-      "stars_today": "2,015 stars today",
-      "stars_total": "9,126"
+      "name": "vercel-labs/agent-browser",
+      "url": "https://github.com/vercel-labs/agent-browser",
+      "description": "Browser automation CLI for AI agents",
+      "language": "Rust",
+      "stars_today": "180 stars today",
+      "stars_total": "46,633"
     },
     {
-      "name": "rails/rails",
-      "url": "https://github.com/rails/rails",
-      "description": "Ruby on Rails",
-      "language": "Ruby",
-      "stars_today": "142 stars today",
-      "stars_total": "59,035"
+      "name": "cloudflare/security-audit-skill",
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "language": "JavaScript",
+      "stars_today": "2,088 stars today",
+      "stars_total": "65,291"
     },
     {
       "name": "google/skills",
       "url": "https://github.com/google/skills",
       "description": "Agent Skills for Google products and technologies",
       "language": "Python",
-      "stars_today": "534 stars today",
-      "stars_total": "22,863"
+      "stars_today": "449 stars today",
+      "stars_total": "23,217"
+    },
+    {
+      "name": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "language": "Shell",
+      "stars_today": "1,111 stars today",
+      "stars_total": "317,446"
+    },
+    {
+      "name": "anthropics/skills",
+      "url": "https://github.com/anthropics/skills",
+      "description": "Public repository for Agent Skills",
+      "language": "Python",
+      "stars_today": "386 stars today",
+      "stars_total": "188,560"
+    },
+    {
+      "name": "meta/astryx",
+      "url": "https://github.com/meta/astryx",
+      "description": "An open source design system that's fully customizable and agent ready",
+      "language": "TypeScript",
+      "stars_today": "185 stars today",
+      "stars_total": "14,301"
     }
   ],
   "posts": [
     {
-      "topic": "auto-ontology",
-      "repo": "NVIDIA/auto-ontology",
-      "cover_line1": "auto-ontol",
+      "topic": "agent-browser",
+      "repo": "vercel-labs/agent-browser",
+      "cover_line1": "agent-brow",
       "cover_line2": "今日 GitHub 热榜！",
-      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**NVIDIA/auto-ontology**\n\n📌 Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.\n\n🔗 https://github.com/NVIDIA/auto-ontology\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**vercel-labs/agent-browser**\n\n📌 Browser automation CLI for AI agents\n\n🔗 https://github.com/vercel-labs/agent-browser\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "GitHub",
@@ -130,11 +154,11 @@
       ]
     },
     {
-      "topic": "rails",
-      "repo": "rails/rails",
-      "cover_line1": "rails",
+      "topic": "security-audit-skill",
+      "repo": "cloudflare/security-audit-skill",
+      "cover_line1": "security-a",
       "cover_line2": "今日 GitHub 热榜！",
-      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**rails/rails**\n\n📌 Ruby on Rails\n\n🔗 https://github.com/rails/rails\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**cloudflare/security-audit-skill**\n\n📌 A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings\n\n🔗 https://github.com/cloudflare/security-audit-skill\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "GitHub",
@@ -166,12 +190,32 @@
         "技术",
         "炼丹"
       ]
+    },
+    {
+      "topic": "skills",
+      "repo": "mattpocock/skills",
+      "cover_line1": "skills",
+      "cover_line2": "今日 GitHub 热榜！",
+      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**mattpocock/skills**\n\n📌 Skills for Real Engineers. Straight from my .agents directory.\n\n🔗 https://github.com/mattpocock/skills\n\n关注我，每天第一时间 AI 动态 👇",
+      "tags": [
+        "AI",
+        "GitHub",
+        "开源",
+        "热门项目",
+        "大模型",
+        "机器学习",
+        "深度学习",
+        "AI工具",
+        "技术",
+        "炼丹"
+      ]
     }
   ],
   "image_paths": [
-    "assets/2026-11-07/trending/summary.png",
-    "assets/2026-11-07/trending/post1.png",
-    "assets/2026-11-07/trending/post2.png",
-    "assets/2026-11-07/trending/post3.png"
+    "assets/2026-11-08/trending/summary.png",
+    "assets/2026-11-08/trending/post1.png",
+    "assets/2026-11-08/trending/post2.png",
+    "assets/2026-11-08/trending/post3.png",
+    "assets/2026-11-08/trending/post4.png"
   ]
 }
