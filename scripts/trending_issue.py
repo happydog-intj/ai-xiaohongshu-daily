@@ -181,18 +181,18 @@ def make_summary_cover(
         INDENT = PAD
         MAX_W  = W - PAD * 2
 
-        # 计算动态行间距，让 8 个条目均匀填满画布
+        # 计算动态行间距，让所有条目均匀填满画布
         NAME_ROW = th("Ag", f_name)
         DESC_ROW = th("Ag", f_desc)
         NAME_GAP = 5                         # name → desc 行间距
         BRAND_H  = th("#AI炼丹师", f_brand)
         avail    = H - y - PAD - BRAND_H - 10
-        content  = (NAME_ROW + NAME_GAP + DESC_ROW) * len(ai_repos[:8])
-        ITEM_GAP = max(8, (avail - content) // max(len(ai_repos[:8]) - 1, 1))
+        content  = (NAME_ROW + NAME_GAP + DESC_ROW) * len(ai_repos)
+        ITEM_GAP = max(8, (avail - content) // max(len(ai_repos) - 1, 1))
 
         list_y = y
 
-        for idx, repo in enumerate(ai_repos[:8], 1):
+        for idx, repo in enumerate(ai_repos, 1):
             name     = repo.get("name", "")
             language = repo.get("language", "")
             s_total  = repo.get("stars_total", "")
@@ -234,7 +234,7 @@ def make_summary_cover(
             if desc:
                 desc_disp = truncate(desc, f_desc, MAX_W - rank_w - 6)
                 draw.text((x_name, list_y), desc_disp, font=f_desc, fill=GDESC)
-            list_y += DESC_ROW + (ITEM_GAP if idx < len(ai_repos[:8]) else 0)
+            list_y += DESC_ROW + (ITEM_GAP if idx < len(ai_repos) else 0)
 
         # ── 底部品牌 ──
         f_brand = get_font(22)
